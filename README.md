@@ -21,26 +21,36 @@ A responsabilidade exclusiva deste repositório é:
 * **Banco de Dados:** PostgreSQL (via Docker)
 * **ORM e Ingestão:** SQLAlchemy
 * **API REST:** FastAPI (com Uvicorn)
-* **Web Scraping:** (A definir: BeautifulSoup4 / Scrapy)
+* **Web Scraping:** Playwright (headless Chromium) + BeautifulSoup4
 
 ## 🏗️ Pipeline de Dados (Medallion Architecture)
 O ETL local está estruturado em três camadas dentro da pasta transitória `/data` (ignorada no versionamento):
 
-* **🥉 Bronze (Extract):** Dados brutos extraídos da web. O formato original é preservado 100% como backup.
-* **🥈 Prata (Transform):** Limpeza, tipagem rigorosa (ex: conversão de strings para datas), tratamento de nulos e padronização de nomenclatura de clubes.
-* **🥇 Ouro (Feature Engineering & Load):** Geração de métricas avançadas (médias móveis, win streaks, saldo de gols acumulado) e preparação para o modelo relacional do banco.
+* **🥉 Bronze (Extract):** Dados brutos extraídos da web via Playwright. O formato original é preservado 100% como backup. Cobertura: 1971–2025, 55 edições, ~21.500 jogos.
+* **🥈 Prata (Transform):** Limpeza, tipagem rigorosa (datetime, Int64 nullable), padronização de nomenclatura de clubes (170 mapeamentos de-para), split de placar, cálculo de resultados. Saída: 10 colunas limpas por jogo.
+* **🥇 Ouro (Feature Engineering & Load):** Geração de 66 features analíticas organizadas em 8 grupos:
+  1. Métricas diretas (gols, saldo, pontos com regra histórica 2pts/3pts)
+  2. Classificação de fases (tipo_fase, is_mata_mata)
+  3. Métricas rolling por time (médias móveis 5j, streaks, acumulados no campeonato)
+  4. Confronto direto histórico (H2H cross-year)
+  5. Tabela dimensão (dim_times com estado/UF)
+  6. Métricas de fadiga (dias de descanso cross-year)
+  7. Solidez defensiva/ofensiva (clean sheets e falhas de gol)
+  8. Fator clássico (derby flag — clássicos estaduais)
 
 ## 🗄️ Modelagem do Banco de Dados (Star Schema)
 O banco de dados PostgreSQL foi modelado para otimizar consultas analíticas (OLAP), achatando a hierarquia de datas/rodadas em uma estrutura de Fato e Dimensões.
 
 ### Regras de Negócio e Padronização Histórica
 Como o campeonato possui regulamentos distintos entre 1971 e o presente, a camada Ouro aplica as seguintes abstrações:
-* **`pts_padronizados`:** Toda vitória vale 3 pontos, independentemente do ano, para permitir análises longitudinais justas.
+* **Pontuação histórica:** Vitória vale 2 pontos antes de 1995 e 3 pontos a partir de 1995, respeitando a regra real da CBF.
 * **`tipo_fase` e `is_mata_mata`:** Substitui a lógica de "Rodadas" contínuas, classificando os jogos para suportar formatos antigos (ex: Quadrangular Final, Repescagem, Finais).
+* **Métricas rolling:** Resetam a cada edição do campeonato. Todas refletem o estado ANTES do jogo começar.
+* **H2H e Fadiga:** São cross-year (histórico completo entre campeonatos).
 
 ### Estrutura (Core)
-1. **`dim_times` (Dimensão):** Tabela dicionário com o ID único e informações cadastrais dos clubes.
-2. **`fato_partidas_ouro` (Fato):** A tabela central ("One Big Table"). Contém todos os jogos da história, referenciando os times por *Foreign Keys* e contendo todas as features matemáticas prontas para consumo.
+1. **`dim_times` (Dimensão):** Tabela dicionário com ID único, nome padronizado e estado (UF) dos clubes. 167 times mapeados.
+2. **`fato_partidas_ouro` (Fato):** A tabela central ("One Big Table"). Contém 21.453 jogos de 1971 a 2025, referenciando os times por *Foreign Keys* e contendo todas as 66 features analíticas prontas para consumo.
 
 ## 📂 Estrutura de Diretórios
 
@@ -53,20 +63,30 @@ brasileirao-infra/
 ├── README.md               # Documentação principal
 │
 ├── data/                   # Armazenamento local (Ignorado no Git)
-│   ├── bronze/             
-│   ├── silver/             
-│   └── gold/               
+│   ├── bronze/             # Dados brutos extraídos
+│   ├── silver/             # Dados limpos e padronizados (10 cols)
+│   └── gold/               # Features enriquecidas (66 cols) + dim_times
+│       ├── fato_partidas_ouro.csv
+│       ├── dim_times.csv
+│       └── dicionario_dados_gold.md
 │
 ├── etl/                    # Scripts de Engenharia de Dados
 │   ├── __init__.py
-│   ├── config.py           # Dicionários e constantes (ex: Mapeamento de nomes de times)
-│   ├── 01_extract.py       # Lógica de Web Scraping
-│   ├── 02_transform.py     # Lógica de Bronze para Prata e Prata para Ouro
-│   └── 03_load.py          # Ingestão do DataFrame Ouro via SQLAlchemy no Postgres
+│   ├── config.py           # URLs, credenciais e constantes
+│   ├── extract.py          # Camada Bronze (Web Scraping via Playwright)
+│   ├── transform.py        # Camada Prata (Limpeza e padronização)
+│   ├── gold.py             # Camada Ouro (Feature Engineering — 8 grupos)
+│   ├── mapear_times.py     # Utilitário: extrai times únicos da Bronze
+│   └── load.py             # Ingestão no PostgreSQL (a implementar)
 │
-└── api/                    # Aplicação FastAPI
+├── relatório acompanhamento/  # Logs de progresso do projeto
+│   ├── 21-04-2026.md
+│   └── 09-05-2026.md
+│
+└── api/                    # Aplicação FastAPI (a implementar)
     ├── __init__.py
     ├── main.py             # Ponto de entrada (App, Middlewares)
     ├── database.py         # Configuração da Session e Engine do SQLAlchemy
     ├── models.py           # Classes declarativas (Base) representando as tabelas
     └── routes.py           # Endpoints de consulta (GET)
+```
