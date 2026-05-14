@@ -12,7 +12,7 @@ numpy>=1.26.0
 
 # --- Banco de Dados (Camada Ouro / Load) ---
 SQLAlchemy>=2.0.0
-psycopg2-binary>=2.9.0   # Driver PostgreSQL
+psycopg[binary]>=3.1.0        # Driver PostgreSQL (v3 — resolve bug de locale no Windows)
 
 # --- API REST ---
 fastapi>=0.111.0

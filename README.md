@@ -18,8 +18,9 @@ A responsabilidade exclusiva deste repositório é:
 ## 🛠️ Stack Tecnológico
 * **Linguagem:** Python 3.x
 * **Processamento de Dados:** Pandas, NumPy
-* **Banco de Dados:** PostgreSQL (via Docker)
-* **ORM e Ingestão:** SQLAlchemy
+* **Banco de Dados:** PostgreSQL 16 (via Docker, porta 5433)
+* **Driver PostgreSQL:** psycopg v3 (`psycopg[binary]`)
+* **ORM e Ingestão:** SQLAlchemy 2.x
 * **API REST:** FastAPI (com Uvicorn)
 * **Web Scraping:** Playwright (headless Chromium) + BeautifulSoup4
 
@@ -56,9 +57,9 @@ Como o campeonato possui regulamentos distintos entre 1971 e o presente, a camad
 
 ```text
 brasileirao-infra/
-├── .env                    # Variáveis de ambiente (DB_USER, DB_PASS, API_PORT)
+├── .env                    # Variáveis de ambiente (DB_USER, DB_PASS, DB_PORT=5433)
 ├── .gitignore              # Ignora /data, /venv e __pycache__
-├── docker-compose.yml      # Imagem do PostgreSQL
+├── docker-compose.yml      # PostgreSQL 16-alpine (porta 5433)
 ├── requirements.txt        # Dependências do projeto
 ├── README.md               # Documentação principal
 │
@@ -77,16 +78,37 @@ brasileirao-infra/
 │   ├── transform.py        # Camada Prata (Limpeza e padronização)
 │   ├── gold.py             # Camada Ouro (Feature Engineering — 8 grupos)
 │   ├── mapear_times.py     # Utilitário: extrai times únicos da Bronze
-│   └── load.py             # Ingestão no PostgreSQL (a implementar)
+│   └── load.py             # Ingestão no PostgreSQL via SQLAlchemy
 │
 ├── relatório acompanhamento/  # Logs de progresso do projeto
 │   ├── 21-04-2026.md
-│   └── 09-05-2026.md
+│   ├── 09-05-2026.md
+│   └── 13-05-2026.md
 │
-└── api/                    # Aplicação FastAPI (a implementar)
+└── api/                    # Aplicação FastAPI
     ├── __init__.py
-    ├── main.py             # Ponto de entrada (App, Middlewares)
-    ├── database.py         # Configuração da Session e Engine do SQLAlchemy
+    ├── main.py             # Ponto de entrada (App, CORS, Lifespan)
+    ├── database.py         # Engine + Session (psycopg v3)
     ├── models.py           # Classes declarativas (Base) representando as tabelas
-    └── routes.py           # Endpoints de consulta (GET)
+    └── routes.py           # 7 endpoints GET (times, partidas, confronto, estatísticas, campeonatos)
+```
+
+## 🌐 API REST (FastAPI)
+A API serve os dados da camada Ouro via 7 endpoints GET, com paginação, filtros e documentação Swagger automática (`/docs`).
+
+| Endpoint | Descrição |
+|----------|-----------|
+| `GET /api/v1/times` | Lista todos os times (filtro por `?estado=XX`) |
+| `GET /api/v1/times/{id}` | Busca time por ID |
+| `GET /api/v1/partidas` | Lista partidas com paginação e filtros |
+| `GET /api/v1/partidas/{id}` | Dados completos de uma partida (66 colunas) |
+| `GET /api/v1/confronto` | H2H entre dois times (`?time_a=&time_b=`) |
+| `GET /api/v1/estatisticas/time/{id}` | Estatísticas agregadas de um time (`?ano=`) |
+| `GET /api/v1/campeonatos` | Lista anos disponíveis com contagem de jogos |
+
+**Execução:**
+```bash
+docker-compose up -d            # Subir PostgreSQL (porta 5433)
+python -m etl.load              # Ingerir dados Gold no banco
+python -m uvicorn api.main:app --reload  # Iniciar API (http://localhost:8000)
 ```
