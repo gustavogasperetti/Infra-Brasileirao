@@ -45,6 +45,13 @@ SILVER_DIR = BASE_DIR / "data" / "silver"
 # De-Para de Times — Padronização de nomes
 # ---------------------------------------------------------------------------
 DE_PARA_TIMES = {
+    # ── Nomes usados pela API da CBF (fonte a partir de 2026) ──
+    "Coritiba SAF": "Coritiba",
+    "Santos FC": "Santos",
+    "Vasco da Gama Saf": "Vasco",
+    "Vasco da Gama SAF": "Vasco",
+    "Vasco da Gama": "Vasco",
+    # ── Nomes usados pelo Ogol (fonte histórica 1971–2025) ──
     "AA Colatina": "AA Colatina",
     "ABC": "ABC",
     "ASA": "ASA",

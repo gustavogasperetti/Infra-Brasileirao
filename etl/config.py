@@ -58,6 +58,15 @@ SPREADSHEET_ID: str = os.getenv("SPREADSHEET_ID", "")
 WORKSHEET_PARTIDAS: str = "partidas"
 
 # ---------------------------------------------------------------------------
+# CBF — fonte da extração corrente (edições >= 2012)
+# ---------------------------------------------------------------------------
+# Página da tabela detalhada por ano (frontend raspado via Playwright)
+CBF_TABELA_URL: str = (
+    "https://www.cbf.com.br/futebol-brasileiro/tabelas/"
+    "campeonato-brasileiro/serie-a/{ano}"
+)
+
+# ---------------------------------------------------------------------------
 # Dicionário mapeando o Ano para a URL base daquela edição
 URLS_OGOL_BRASILEIRAO = {
     1971: "https://www.ogol.com.br/edicao/campeonato-nacional-de-clubes-1971/2477/calendario",

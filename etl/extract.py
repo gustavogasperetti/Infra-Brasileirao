@@ -1,37 +1,44 @@
 """
 etl/extract.py
 ==============
-Camada Bronze — Web Scraping de partidas históricas do Brasileirão.
+Camada Bronze — Scraping do frontend da tabela da CBF.
 
-Fonte  : https://www.ogol.com.br  (login + scraping inteiramente via Playwright)
-Alvo   : Todos os anos mapeados em etl/config.py
+Fonte  : https://www.cbf.com.br/futebol-brasileiro/tabelas/campeonato-brasileiro/serie-a/{ano}
+         (página renderizada no navegador — sem barreira anti-bot,
+         funciona inclusive de IPs de datacenter, como os runners do
+         GitHub Actions)
+Alvo   : Edições >= 2012 (anos disponíveis na tabela detalhada da CBF).
+         O histórico 1971–2011 foi extraído do Ogol via etl/extract_ogol.py
+         e permanece versionado em data/bronze/.
 Saída  : data/bronze/jogos_{ano}.csv  (um arquivo por ano)
 
 Fluxo:
-  1. Playwright abre Chromium headless e navega DIRETO nas URLs de
-     calendário, sem login (o volume por execução é baixo — normalmente
-     apenas o ano corrente)
-  2. Ao detectar limite de visualizações ou bloqueio, faz login com a
-     1ª conta da lista e retoma do mesmo ano
-  3. Se o limite estourar logado, troca para a próxima conta da lista
-  4. HTML de cada página é passado para BeautifulSoup para extração
-  5. Resultado salvo em CSV por ano
+  1. Playwright abre Chromium headless na página do ano e aguarda os
+     cards de jogos substituírem os skeletons de carregamento
+  2. Itera o seletor de rodadas da seção "Jogos" (1..38), aguardando a
+     re-renderização dos cards a cada troca
+  3. O HTML dos cards é passado ao BeautifulSoup, que extrai:
+       Data, Mandante, Placar_Bruto, Visitante, Fase ("R{rodada}")
+     (jogos futuros ficam com placar vazio; "A Definir" → data vazia)
+  4. Resultado salvo em CSV por ano
 
 Autor  : Brasileirão Analytics — Engenharia de Dados
-Versão : 5.0.0
+Versão : 7.0.0
 """
 
 import os
+import re
 import sys
 import time
 import logging
+from datetime import date
 from pathlib import Path
 
-from bs4 import BeautifulSoup
 import pandas as pd
-from playwright.sync_api import sync_playwright, Page, BrowserContext, TimeoutError as PWTimeout
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright, Page, Locator, TimeoutError as PWTimeout
 
-from config import URLS_OGOL_BRASILEIRAO, OGOL_ACCOUNTS
+from config import CBF_TABELA_URL
 
 # ---------------------------------------------------------------------------
 # Configuração de Logging
@@ -46,54 +53,22 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 # Constantes
 # ---------------------------------------------------------------------------
-PAGE_DELAY: float = 1.5        # pausa entre páginas (segundos)
-YEAR_DELAY: float = 2.0        # pausa extra entre anos
-MAX_EMPTY_STREAK: int = 3      # páginas vazias consecutivas para parar
-
 BRONZE_DIR = Path(__file__).resolve().parents[1] / "data" / "bronze"
 DEBUG_DIR = Path(__file__).resolve().parents[1] / "debug"
-TABLE_CLASS = "zztable stats"
-PAGE_PARAMS = "?fase_in=0&equipa=0&estado=&filtro=&op=calendario&page={page}"
 
-# Seletores de banners de consentimento/cookies que podem cobrir o modal
-# de login (aparecem principalmente em IPs de datacenter, como o do CI)
-CONSENT_SELECTORS = [
-    "#didomi-notice-agree-button",                 # Didomi
-    "#onetrust-accept-btn-handler",                # OneTrust
-    ".fc-button.fc-cta-consent",                   # Google Funding Choices
-    "button:has-text('Aceitar')",
-    "button:has-text('ACEITO')",
-    "button:has-text('Concordo')",
-    "button:has-text('Accept')",
-    "button:has-text('AGREE')",
-]
+PRIMEIRO_ANO_CBF = 2012   # primeira edição disponível na tabela da CBF
+RODADA_DELAY = 0.3        # pausa extra entre rodadas (segundos)
+RENDER_TIMEOUT = 20_000   # espera máxima pela renderização dos cards (ms)
 
-# Textos que indicam limite de visualizações atingido
-LIMIT_PHRASES = [
-    "atingiu o limite de visualizações",
-    "limite de visualiz",
-    "view limit",
-    "limite de vistas",
-]
+# Seletores por fragmento de classe: o Next.js gera sufixos hasheados
+# (ex.: styles_gameCardContainer__qbcs6), então casamos pelo prefixo estável
+SEL_CARD = "div[class*='gameCardContainer']"
+SEL_SKELETON = ".react-loading-skeleton"
+
 
 # ---------------------------------------------------------------------------
-# Autenticação
+# Debug
 # ---------------------------------------------------------------------------
-
-def _fechar_banners(page: Page) -> None:
-    """
-    Fecha banners de consentimento/cookies que possam estar cobrindo o
-    modal de login. Cada seletor é tentado com timeout curto e falha
-    silenciosamente se não existir.
-    """
-    for sel in CONSENT_SELECTORS:
-        try:
-            page.click(sel, timeout=1_500)
-            logger.info(f"  Banner de consentimento fechado ({sel})")
-            page.wait_for_timeout(500)
-        except Exception:
-            continue
-
 
 def _dump_debug(page: Page, tag: str) -> None:
     """
@@ -110,279 +85,205 @@ def _dump_debug(page: Page, tag: str) -> None:
         logger.warning(f"  Falha ao salvar debug: {e}")
 
 
-def _do_login(page: Page, email: str, password: str) -> bool:
+# ---------------------------------------------------------------------------
+# Navegação
+# ---------------------------------------------------------------------------
+
+def abrir_pagina_ano(page: Page, ano: int) -> Locator:
     """
-    Faz login com um par (email, password) especifico.
-    Retorna True se o login for bem-sucedido.
+    Abre a página da edição e retorna o <aside> da seção "Jogos" com os
+    cards já renderizados (skeletons substituídos).
     """
-    logger.info(f"  → Acessando ogol.com.br/login.php com: {email}")
+    url = CBF_TABELA_URL.format(ano=ano)
+    logger.info(f"  Abrindo: {url}")
+
+    page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+
+    # Aguarda ao menos um card real de jogo aparecer
+    page.wait_for_selector(SEL_CARD, state="visible", timeout=RENDER_TIMEOUT)
+
+    aside = page.locator("aside").filter(has_text="Jogos").first
+    aside.wait_for(state="visible", timeout=RENDER_TIMEOUT)
+    return aside
+
+
+def listar_rodadas(aside: Locator) -> list[str]:
+    """Lê os valores disponíveis no seletor de rodadas (ex.: '1'..'38')."""
+    valores = aside.locator("select option").evaluate_all(
+        "opts => opts.map(o => o.value)"
+    )
+    rodadas = sorted({v for v in valores if str(v).isdigit()}, key=int)
+    if not rodadas:
+        raise RuntimeError("Seletor de rodadas não encontrado — layout da página mudou?")
+    return rodadas
+
+
+def rodada_selecionada(aside: Locator) -> str:
+    """Valor atualmente selecionado no seletor de rodadas."""
+    return str(aside.locator("select").first.evaluate("s => s.value"))
+
+
+def selecionar_rodada(page: Page, aside: Locator, rodada: str) -> None:
+    """
+    Troca a rodada no seletor e aguarda os cards re-renderizarem
+    (skeletons aparecem durante o carregamento e depois somem).
+    """
+    aside.locator("select").first.select_option(rodada)
+
+    # Espera qualquer skeleton de carregamento desaparecer
     try:
-        page.goto(
-            "https://www.ogol.com.br/login.php",
-            wait_until="domcontentloaded",
-            timeout=30_000,
+        page.wait_for_function(
+            f"document.querySelectorAll(\"aside {SEL_SKELETON}\").length === 0",
+            timeout=RENDER_TIMEOUT,
         )
-        # Aguarda o JS carregar o modal de login automaticamente
-        page.wait_for_timeout(4_000)
+    except PWTimeout:
+        logger.warning(f"  Rodada {rodada}: skeletons persistem — tentando parsear mesmo assim.")
 
-        # Fecha banners de cookies/consentimento que cobrem o modal
-        # (comuns quando o acesso vem de IPs de datacenter, como no CI)
-        _fechar_banners(page)
+    # Pequena folga para o React terminar de montar os cards
+    page.wait_for_timeout(400)
 
-        # Aguarda o campo de e-mail do modal (XPath exato do formulário)
-        logger.info("Aguardando modal de login ...")
-        XPATH_EMAIL = "xpath=//*[@id='zz-login-form']/div[2]/label/input"
-        XPATH_SENHA = "xpath=//*[@id='zz-login-form']/div[3]/label/input"
 
+# ---------------------------------------------------------------------------
+# Parsing dos cards
+# ---------------------------------------------------------------------------
+
+def _info_time(div) -> tuple[str, str]:
+    """
+    Extrai (nome, gols) de um bloco de time dentro do card.
+    O nome completo está no atributo title do <strong> (o texto visível
+    é abreviado, ex.: 'Bot'); os gols ficam no <span> irmão.
+    """
+    strong = div.find("strong")
+    nome = ""
+    if strong:
+        nome = (strong.get("title") or strong.get_text(strip=True) or "").strip()
+
+    span = div.find("span")
+    gols = span.get_text(strip=True) if span else ""
+    return nome, gols
+
+
+def parse_cards(aside_html: str, rodada: str) -> list[dict]:
+    """
+    Extrai os jogos dos cards renderizados de uma rodada.
+    Estrutura de cada card:
+      div[gameCardContainer]
+        └─ div[score]  → div(mandante: strong[title] + span gols)
+                         span "X"
+                         div(visitante: strong[title] + span gols)
+        └─ div[informations] → p com "dd/mm/aaaa - hh:mm | cidade | estádio"
+    """
+    soup = BeautifulSoup(aside_html, "lxml")
+    jogos: list[dict] = []
+
+    for card in soup.select(SEL_CARD):
         try:
-            page.wait_for_selector(XPATH_EMAIL, state="visible", timeout=20_000)
-        except PWTimeout:
-            # Última tentativa: algum banner pode ter aparecido tarde
-            _fechar_banners(page)
-            page.wait_for_selector(XPATH_EMAIL, state="visible", timeout=10_000)
-        page.fill(XPATH_EMAIL, email)
-        logger.info(f"Email preenchido: {email}")
+            score = card.select_one("div[class*='score']")
+            if not score:
+                continue
 
-        page.wait_for_selector(XPATH_SENHA, state="visible", timeout=5_000)
-        page.fill(XPATH_SENHA, password)
-        logger.info("Senha preenchida.")
+            times = score.find_all("div", recursive=False)
+            if len(times) != 2:
+                continue
 
-        # Submete o formulário
-        try:
-            page.wait_for_selector("button.zz-btn.image.block", state="visible", timeout=5_000)
-            page.click("button.zz-btn.image.block")
-        except PWTimeout:
-            logger.info("Botão não encontrado, usando Enter.")
-            page.press(XPATH_SENHA, "Enter")
+            mandante, gols_m = _info_time(times[0])
+            visitante, gols_v = _info_time(times[1])
 
-        page.wait_for_timeout(3_000)
+            if not mandante and not visitante:
+                continue
 
-        content = page.content()
-        logged_in = (
-            "ZZ.logged\t= 1" in content
-            or "ZZ.logged = 1" in content
-            or "logout" in content.lower()
-        )
+            # Placar só quando ambos os gols são numéricos (jogo realizado)
+            placar = f"{gols_m}-{gols_v}" if gols_m.isdigit() and gols_v.isdigit() else ""
 
-        if logged_in:
-            logger.info(f"Login realizado com sucesso! ({email})")
-            return True
+            # Data no bloco de informações: "16/07/2026 - 19:30 ..."
+            info = card.select_one("div[class*='informations'] p")
+            texto_info = info.get_text(" ", strip=True) if info else ""
+            m = re.search(r"(\d{2})/(\d{2})/(\d{4})", texto_info)
+            data_iso = f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else ""
 
-        logger.error(f"Login falhou para: {email}")
-        _dump_debug(page, f"login_falhou_{email}")
-        return False
+            jogos.append({
+                "Data": data_iso,
+                "Mandante": mandante,
+                "Placar_Bruto": placar,
+                "Visitante": visitante,
+                "Fase": f"R{rodada}",
+            })
 
-    except PWTimeout as e:
-        logger.error(f"Timeout durante login com {email}: {e}")
-        _dump_debug(page, f"login_timeout_{email}")
-        return False
-    except Exception as e:
-        logger.error(f"Erro inesperado durante login com {email}: {e}")
-        _dump_debug(page, f"login_erro_{email}")
-        return False
+        except (AttributeError, TypeError) as e:
+            logger.warning(f"  Card ignorado por estrutura inesperada: {e}")
 
-
-def login_with_fallback(page: Page, account_index: int) -> int:
-    """
-    Tenta fazer login percorrendo a lista OGOL_ACCOUNTS a partir de account_index.
-    Retorna o índice da conta que conseguiu logar, ou -1 se todas falharem.
-    """
-    valid_accounts = [
-        (u, p) for u, p in OGOL_ACCOUNTS
-        if u not in ("SEGUNDO_EMAIL_AQUI", "") and p not in ("SEGUNDA_SENHA_AQUI", "")
-    ]
-
-    if not valid_accounts:
-        logger.error("Nenhuma conta configurada em OGOL_ACCOUNTS (etl/config.py).")
-        return -1
-
-    for idx in range(account_index, len(valid_accounts)):
-        email, password = valid_accounts[idx]
-        logger.info(f"Tentando conta [{idx + 1}/{len(valid_accounts)}]: {email}")
-        if _do_login(page, email, password):
-            return idx
-
-    logger.error("Todas as contas falharam no login.")
-    return -1
-
-
-def logout(page: Page) -> None:
-    """Faz logout da conta atual para preparar a troca de conta."""
-    try:
-        page.goto(
-            "https://www.ogol.com.br/login.php?op=logout",
-            wait_until="domcontentloaded",
-            timeout=15_000,
-        )
-        page.wait_for_timeout(2_000)
-        logger.info("  ↩️  Logout realizado.")
-    except Exception as e:
-        logger.warning(f"  Falha ao fazer logout (continuando mesmo assim): {e}")
+    return jogos
 
 
 # ---------------------------------------------------------------------------
-# Detecção de limite
+# Extração de um ano
 # ---------------------------------------------------------------------------
 
-def is_view_limit_reached(html: str) -> bool:
-    """
-    Retorna True se o HTML contiver mensagem de limite de visualizações do Ogol.
-    """
-    html_lower = html.lower()
-    return any(phrase in html_lower for phrase in LIMIT_PHRASES)
+def extrair_ano(page: Page, ano: int) -> list[dict]:
+    """Percorre todas as rodadas da edição parseando os cards de cada uma."""
+    aside = abrir_pagina_ano(page, ano)
+    rodadas = listar_rodadas(aside)
+    logger.info(f"  {len(rodadas)} rodadas encontradas no seletor")
 
+    matches: list[dict] = []
+    atual = rodada_selecionada(aside)
 
-# ---------------------------------------------------------------------------
-# Parsing de jogos
-# ---------------------------------------------------------------------------
+    for rodada in rodadas:
+        # A rodada corrente já vem renderizada; as demais precisam do select
+        if rodada != atual:
+            selecionar_rodada(page, aside, rodada)
+            atual = rodada
 
-def parse_text(tag) -> str:
-    if tag is None:
-        return ""
-    return tag.get_text(strip=True)
+        extraidos = parse_cards(aside.inner_html(), rodada)
 
-
-def parse_row(row) -> dict | None:
-    """
-    Extrai os dados de uma linha <tr> da tabela de jogos.
-        <td class="date">       → Data
-        <td class="... home">   → Mandante
-        <td class="result">     → Placar_Bruto
-        <td class="... away">   → Visitante
-        <td class="phase">      → Fase
-    """
-    try:
-        td_date = row.find("td", class_="date")
-        data = parse_text(td_date)
-
-        td_home = row.find("td", class_="home")
-        mandante_tag = (td_home.find("a") or td_home.find("b")) if td_home else None
-        mandante = parse_text(mandante_tag)
-
-        td_result = row.find("td", class_="result")
-        placar_tag = td_result.find("a") if td_result else None
-        placar_bruto = parse_text(placar_tag)
-
-        td_away = row.find("td", class_="away")
-        visitante_tag = (td_away.find("a") or td_away.find("b")) if td_away else None
-        visitante = parse_text(visitante_tag)
-
-        td_phase = row.find("td", class_="phase")
-        fase = parse_text(td_phase)
-
-        if not mandante and not visitante:
-            return None
-
-        return {
-            "Data": data,
-            "Mandante": mandante,
-            "Placar_Bruto": placar_bruto,
-            "Visitante": visitante,
-            "Fase": fase,
-        }
-
-    except (AttributeError, TypeError) as e:
-        logger.warning(f"  Linha ignorada por estrutura inesperada: {e}")
-        return None
-
-
-# ---------------------------------------------------------------------------
-# Scraping via Playwright — com suporte a troca de conta
-# ---------------------------------------------------------------------------
-
-class AccountLimitError(Exception):
-    """Sinaliza que a conta atual atingiu o limite de visualizações."""
-    pass
-
-
-def scrape_year(page: Page, base_url: str, ano: int) -> list[dict]:
-    """
-    Itera todas as páginas do calendário de um ano usando o browser autenticado.
-    Lança AccountLimitError se detectar mensagem de limite durante o scraping.
-    """
-    all_matches: list[dict] = []
-    pg = 1
-    empty_streak = 0
-
-    while True:
-        url = base_url + PAGE_PARAMS.format(page=pg)
-        logger.info(f"  --- Processando página {pg} ---")
-
-        try:
-            page.goto(url, wait_until="domcontentloaded", timeout=30_000)
-
-            # Aguarda tabela OU detecção de limite (o que vier primeiro)
-            try:
-                page.wait_for_selector(
-                    "table.zztable.stats, .limit-message, [class*='limit']",
-                    state="visible",
-                    timeout=10_000,
-                )
-            except PWTimeout:
-                # Nenhum dos dois apareceu — verifica o HTML atual
-                pass
-
-        except PWTimeout:
-            logger.warning(f"Timeout ao carregar página {pg}. Pulando.")
-            pg += 1
-            time.sleep(PAGE_DELAY)
-            continue
-
-        html = page.content()
-
-        # ── Detecção de limite de visualizações ────────────────────────────
-        if is_view_limit_reached(html):
-            logger.warning(
-                f"Limite de visualizações atingido na página {pg} do ano {ano}!"
-            )
-            raise AccountLimitError(f"Limite atingido no ano {ano}, página {pg}")
-
-        # ── Verificação da tabela ──────────────────────────────────────────
-        soup = BeautifulSoup(html, "html.parser")
-        table = soup.find("table", class_=TABLE_CLASS)
-        if not table:
-            if pg == 1:
-                # Todo ano tem jogos na página 1: ausência da tabela logo
-                # de cara indica bloqueio/limite não capturado pelas frases
-                # conhecidas — aciona o fallback de login
-                logger.warning(
-                    f"Tabela ausente já na página 1 do ano {ano} — "
-                    "possível bloqueio ou limite. Acionando fallback de login."
-                )
-                _dump_debug(page, f"sem_tabela_{ano}_pg1")
-                raise AccountLimitError(f"Sem tabela na página 1 do ano {ano}")
-            logger.info("Tabela de jogos não encontrada — fim da paginação detectado.")
-            break
-
-        tbody = table.find("tbody")
-        if not tbody:
-            logger.warning(f"Página {pg}: <tbody> não encontrado. Pulando.")
-            pg += 1
-            time.sleep(PAGE_DELAY)
-            continue
-
-        rows = tbody.find_all("tr")
-        page_matches: list[dict] = []
-        for row in rows:
-            match_data = parse_row(row)
-            if match_data:
-                page_matches.append(match_data)
-
-        logger.info(f"Página {pg}: {len(page_matches)} jogo(s) extraído(s).")
-        all_matches.extend(page_matches)
-
-        if len(page_matches) == 0:
-            empty_streak += 1
-            if empty_streak >= MAX_EMPTY_STREAK:
-                logger.info(f"{MAX_EMPTY_STREAK} páginas consecutivas sem jogos — fim dos dados.")
-                break
+        if not extraidos:
+            logger.warning(f"  Rodada {rodada}: nenhum jogo parseado.")
+            _dump_debug(page, f"rodada_vazia_{ano}_r{rodada}")
         else:
-            empty_streak = 0
+            logger.info(f"  Rodada {rodada}: {len(extraidos)} jogo(s)")
+            matches.extend(extraidos)
 
-        pg += 1
-        time.sleep(PAGE_DELAY)
+        time.sleep(RODADA_DELAY)
 
-    return all_matches
+    return matches
+
+
+# ---------------------------------------------------------------------------
+# Seleção de anos
+# ---------------------------------------------------------------------------
+
+def selecionar_anos() -> list[int]:
+    """
+    Filtra os anos a extrair com base na variável de ambiente ANOS_EXTRACAO:
+      - "atual" (padrão)  → apenas o ano corrente
+      - "todos"           → todas as edições cobertas pela CBF (>= 2012)
+      - "2025,2026"       → lista explícita de anos
+    """
+    raw = os.getenv("ANOS_EXTRACAO", "atual").strip().lower()
+    ano_atual = date.today().year
+
+    if raw in ("", "atual", "current"):
+        return [ano_atual]
+
+    if raw in ("todos", "all"):
+        return list(range(PRIMEIRO_ANO_CBF, ano_atual + 1))
+
+    anos = []
+    for parte in raw.split(","):
+        parte = parte.strip()
+        if parte.isdigit() and PRIMEIRO_ANO_CBF <= int(parte) <= ano_atual:
+            anos.append(int(parte))
+        elif parte:
+            logger.warning(
+                f"ANOS_EXTRACAO: ano '{parte}' fora da cobertura da CBF "
+                f"({PRIMEIRO_ANO_CBF}–{ano_atual}; para o histórico anterior "
+                f"use etl/extract_ogol.py)"
+            )
+
+    if not anos:
+        raise ValueError(f"ANOS_EXTRACAO='{raw}' não resultou em nenhum ano válido.")
+
+    return sorted(anos)
 
 
 # ---------------------------------------------------------------------------
@@ -399,41 +300,6 @@ def save_to_csv(matches: list[dict], output_path: Path, ano: int) -> None:
     df.to_csv(output_path, index=False, encoding="utf-8-sig")
 
     logger.info(f"{len(df)} jogo(s) salvos em: {output_path}")
-    logger.info(f"Shape: {df.shape} | Colunas: {list(df.columns)}")
-
-
-# ---------------------------------------------------------------------------
-# Seleção de anos
-# ---------------------------------------------------------------------------
-
-def selecionar_anos() -> dict[int, str]:
-    """
-    Filtra os anos a extrair com base na variável de ambiente ANOS_EXTRACAO:
-      - "todos" (padrão) → todas as edições mapeadas
-      - "atual"          → apenas a edição mais recente (uso do GitHub Actions)
-      - "2024,2025"      → lista explícita de anos
-    """
-    raw = os.getenv("ANOS_EXTRACAO", "todos").strip().lower()
-
-    if raw in ("", "todos", "all"):
-        return dict(URLS_OGOL_BRASILEIRAO)
-
-    if raw in ("atual", "current"):
-        ano_atual = max(URLS_OGOL_BRASILEIRAO)
-        return {ano_atual: URLS_OGOL_BRASILEIRAO[ano_atual]}
-
-    anos = []
-    for parte in raw.split(","):
-        parte = parte.strip()
-        if parte.isdigit() and int(parte) in URLS_OGOL_BRASILEIRAO:
-            anos.append(int(parte))
-        elif parte:
-            logger.warning(f"ANOS_EXTRACAO: ano inválido ou não mapeado ignorado: '{parte}'")
-
-    if not anos:
-        raise ValueError(f"ANOS_EXTRACAO='{raw}' não resultou em nenhum ano válido.")
-
-    return {a: URLS_OGOL_BRASILEIRAO[a] for a in anos}
 
 
 # ---------------------------------------------------------------------------
@@ -441,31 +307,19 @@ def selecionar_anos() -> dict[int, str]:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    valid_accounts = [
-        (u, p) for u, p in OGOL_ACCOUNTS
-        if u not in ("SEGUNDO_EMAIL_AQUI", "") and p not in ("SEGUNDA_SENHA_AQUI", "")
-    ]
-
-    urls_selecionadas = selecionar_anos()
+    anos = selecionar_anos()
 
     logger.info("=" * 60)
-    logger.info("EXTRAÇÃO BRONZE — Brasileirão Histórico (Ogol)")
-    logger.info(f"Anos a processar : {len(urls_selecionadas)} → {sorted(urls_selecionadas)}")
-    logger.info(f"Contas disponíveis: {len(valid_accounts)}")
+    logger.info("EXTRAÇÃO BRONZE — Brasileirão (frontend CBF)")
+    logger.info(f"Anos a processar: {anos}")
     logger.info("=" * 60)
 
     total_jogos = 0
     anos_ok: list[int] = []
     anos_falha: list[int] = []
 
-    anos_para_processar = sorted(urls_selecionadas.items())
-    current_account_idx = 0
-
     with sync_playwright() as pw:
-        browser = pw.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled"],
-        )
+        browser = pw.chromium.launch(headless=True)
         context = browser.new_context(
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -476,66 +330,26 @@ def main() -> None:
         )
         page = context.new_page()
 
-        # ── Estratégia: navegação anônima primeiro ─────────────────────────
-        # O volume de páginas por execução é baixo (normalmente apenas o
-        # ano corrente, 3x/semana), então navegamos sem login. O login com
-        # fallback de contas só é acionado se o site indicar limite de
-        # visualizações ou bloqueio.
-        current_account_idx = -1  # -1 = navegando sem login (anônimo)
-        logger.info("Navegação anônima (sem login). Login será usado apenas como fallback.")
-
-        # ── Loop por todos os anos ─────────────────────────────────────────
-        i = 0
-        while i < len(anos_para_processar):
-            ano, base_url = anos_para_processar[i]
-
+        for ano in anos:
             logger.info("")
             logger.info(f"{'─' * 50}")
             logger.info(f"Processando ano: {ano}")
-            logger.info(f"URL: {base_url}")
             logger.info(f"{'─' * 50}")
 
-            output_path = BRONZE_DIR / f"jogos_{ano}.csv"
-
             try:
-                matches = scrape_year(page, base_url, ano)
+                matches = extrair_ano(page, ano)
+            except Exception as e:
+                logger.error(f"Falha ao extrair {ano}: {e}")
+                _dump_debug(page, f"falha_{ano}")
+                anos_falha.append(ano)
+                continue
 
-                if matches:
-                    save_to_csv(matches, output_path, ano)
-                    total_jogos += len(matches)
-                    anos_ok.append(ano)
-                else:
-                    anos_falha.append(ano)
-
-                i += 1
-                time.sleep(YEAR_DELAY)
-
-            except AccountLimitError:
-                # ── Fallback de autenticação ───────────────────────────────
-                if current_account_idx == -1:
-                    # Estava anônimo: primeira providência é logar
-                    logger.info("Limite/bloqueio na navegação anônima — tentando login...")
-                    current_account_idx = login_with_fallback(page, 0)
-                else:
-                    # Já estava logado: troca para a próxima conta
-                    next_idx = current_account_idx + 1
-
-                    if next_idx >= len(valid_accounts):
-                        logger.error("Limite atingido e não há mais contas disponíveis.")
-                        logger.error(f"Anos restantes não processados: {[a for a, _ in anos_para_processar[i:]]}")
-                        break
-
-                    logger.info(f"Trocando para a conta [{next_idx + 1}/{len(valid_accounts)}]...")
-                    logout(page)
-                    current_account_idx = login_with_fallback(page, next_idx)
-
-                if current_account_idx == -1:
-                    logger.error("Não foi possível autenticar em nenhuma conta. Encerrando extração.")
-                    logger.error(f"Anos restantes não processados: {[a for a, _ in anos_para_processar[i:]]}")
-                    break
-
-                logger.info(f"Retomando do ano {ano} autenticado.")
-                # NÃO incrementa i — retenta o mesmo ano
+            if matches:
+                save_to_csv(matches, BRONZE_DIR / f"jogos_{ano}.csv", ano)
+                total_jogos += len(matches)
+                anos_ok.append(ano)
+            else:
+                anos_falha.append(ano)
 
         browser.close()
 
@@ -551,9 +365,9 @@ def main() -> None:
     logger.info("=" * 60)
     logger.info("Extração finalizada.")
 
-    # Nenhum ano extraído com sucesso = falha da pipeline (evita que o
-    # Load sobrescreva a planilha sem os dados novos)
-    if anos_para_processar and not anos_ok:
+    # Nenhum ano extraído = falha da pipeline (evita que o Load publique
+    # a planilha sem os dados novos)
+    if anos and not anos_ok:
         logger.error("Nenhum ano foi extraído com sucesso — abortando com erro.")
         sys.exit(1)
 

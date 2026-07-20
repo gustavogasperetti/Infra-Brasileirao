@@ -2,14 +2,13 @@
 # Brasileirão Analytics — Pipeline ETL agendada
 # ============================================================
 # Roda 3x na semana (seg/qui/sáb às 06:00 UTC = 03:00 BRT):
-#   1. Extract   → re-raspa apenas o ano corrente (Ogol)
+#   1. Extract   → raspa o ano corrente do frontend da CBF (Playwright)
 #   2. Transform → limpa/padroniza a camada Silver
 #   3. Gold      → consolida tudo na One Big Table
-#   4. Load      → publica a OBT no Google Sheets (overwrite)
+#   4. Load      → publica a OBT no Google Sheets
 #   5. Commita os CSVs atualizados de volta ao repositório
 #
 # Secrets necessários (Settings → Secrets and variables → Actions):
-#   OGOL_ACCOUNTS       → "email1:senha1,email2:senha2"
 #   SPREADSHEET_ID      → ID da planilha de destino
 #   GOOGLE_CREDENTIALS  → conteúdo JSON do credentials.json
 #
@@ -60,9 +59,8 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
-      - name: "Extract — Camada Bronze"
+      - name: "Extract — Camada Bronze (frontend CBF)"
         env:
-          OGOL_ACCOUNTS: ${{ secrets.OGOL_ACCOUNTS }}
           ANOS_EXTRACAO: ${{ github.event.inputs.anos_extracao || secrets.ANOS_EXTRACAO || vars.ANOS_EXTRACAO || 'atual' }}
         run: python etl/extract.py
 

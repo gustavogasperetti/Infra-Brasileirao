@@ -19,13 +19,14 @@ A responsabilidade exclusiva deste repositório é:
 * **Linguagem:** Python 3.x
 * **Processamento de Dados:** Pandas, NumPy
 * **Repositório de Dados Final:** Google Sheets (via `gspread` + `google-auth`)
-* **Web Scraping:** Playwright (headless Chromium) + BeautifulSoup4
+* **Extração corrente:** scraping do frontend da CBF com Playwright (headless Chromium) + BeautifulSoup4 — o site da CBF não tem barreira anti-bot, então funciona nos runners do GitHub Actions
+* **Extração histórica (legado):** Playwright + BeautifulSoup4 sobre o Ogol (`etl/extract_ogol.py` — o Ogol bloqueia IPs de datacenter via Cloudflare, então só roda localmente)
 * **Orquestração:** GitHub Actions (agendado 3x na semana)
 
 ## 🏗️ Pipeline de Dados (Medallion Architecture)
 O ETL está estruturado em três camadas dentro da pasta `/data` (versionada no git — os CSVs são o ativo do projeto e permitem execuções incrementais no CI):
 
-* **🥉 Bronze (Extract):** Dados brutos extraídos da web via Playwright. O formato original é preservado 100% como backup. Cobertura: 1971–2025, 55 edições, ~21.500 jogos. No CI, apenas o ano corrente é re-raspado (`ANOS_EXTRACAO=atual`).
+* **🥉 Bronze (Extract):** Dados brutos no contrato `Data, Mandante, Placar_Bruto, Visitante, Fase`. Histórico 1971–2025 extraído do Ogol (55 edições, ~21.500 jogos, versionado); ano corrente raspado do frontend da tabela da CBF (`etl/extract.py`, edições ≥ 2012 — o Playwright renderiza a página e itera o seletor de rodadas, parseando os cards de jogos). No CI, apenas o ano corrente é re-extraído (`ANOS_EXTRACAO=atual`). Jogos futuros entram com placar vazio.
 * **🥈 Prata (Transform):** Limpeza, tipagem rigorosa (datetime, Int64 nullable), padronização de nomenclatura de clubes (~170 mapeamentos de-para), split de placar, cálculo de resultados. Saída: 10 colunas limpas por jogo.
 * **🥇 Ouro (OBT):** Consolidação de todas as edições em uma única tabela desnormalizada (`brasileirao_obt.csv`, 21 colunas) — a "fotografia" de cada partida, com tudo por extenso (nomes de clubes, estados/UF, fases legíveis), sem IDs externos nem tabelas dimensão. Enriquecimentos por partida (não temporais): total/saldo de gols, pontos com regra histórica (2 pts antes de 1995, 3 pts depois), `tipo_fase`/`is_mata_mata` e `is_classico_estadual`.
 
@@ -44,9 +45,10 @@ O workflow [`.github/workflows/etl.yml`](.github/workflows/etl.yml) roda **3x na
 **Secrets necessários** (Settings → Secrets and variables → Actions):
 | Secret | Conteúdo |
 |--------|----------|
-| `OGOL_ACCOUNTS` | Contas do Ogol: `email1:senha1,email2:senha2` |
 | `SPREADSHEET_ID` | ID da planilha de destino (trecho entre `/d/` e `/edit` na URL) |
 | `GOOGLE_CREDENTIALS` | Conteúdo JSON integral do `credentials.json` da Service Account |
+
+Opcionais (Secret ou Variable): `ANOS_EXTRACAO` (`atual`/`todos`/lista) e `LOAD_MODO` (`overwrite`/`append`).
 
 *A Service Account precisa de acesso de **Editor** na planilha (compartilhe a planilha com o `client_email` da conta).*
 
@@ -72,7 +74,8 @@ brasileirao-infra/
 ├── etl/                    # Scripts de Engenharia de Dados
 │   ├── __init__.py
 │   ├── config.py           # URLs e leitura de credenciais via env
-│   ├── extract.py          # Camada Bronze (Web Scraping via Playwright)
+│   ├── extract.py          # Camada Bronze (scraping do frontend da CBF)
+│   ├── extract_ogol.py     # Legado: scraping histórico do Ogol (Playwright)
 │   ├── transform.py        # Camada Prata (Limpeza e padronização)
 │   ├── gold.py             # Camada Ouro (One Big Table)
 │   ├── mapear_times.py     # Utilitário: extrai times únicos da Bronze
@@ -87,11 +90,14 @@ brasileirao-infra/
 pip install -r requirements.txt
 playwright install chromium
 
-cp .env.example .env        # preencha OGOL_ACCOUNTS e SPREADSHEET_ID
+cp .env.example .env        # preencha SPREADSHEET_ID
 # deixe o credentials.json da Service Account na raiz (ignorado pelo git)
 
-python etl/extract.py       # Bronze  (ANOS_EXTRACAO=atual para só o ano corrente)
+python etl/extract.py       # Bronze: frontend da CBF (ANOS_EXTRACAO=atual por padrão)
 python etl/transform.py     # Prata
 python etl/gold.py          # Ouro (OBT)
 python etl/load.py          # Publica no Google Sheets
+
+# Apenas para re-extrair o histórico do Ogol (requer OGOL_ACCOUNTS no .env):
+# python etl/extract_ogol.py
 ```
