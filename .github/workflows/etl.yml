@@ -1,7 +1,7 @@
 # ============================================================
 # Brasileirão Analytics — Pipeline ETL agendada
 # ============================================================
-# Roda 3x na semana (seg/qui/sáb às 06:00 UTC = 03:00 BRT):
+# Roda 3x na semana (seg/qua/sex às 06:00 UTC = 03:00 BRT):
 #   1. Extract   → raspa o ano corrente do frontend da CBF (Playwright)
 #   2. Transform → limpa/padroniza a camada Silver
 #   3. Gold      → consolida tudo na One Big Table
@@ -24,7 +24,7 @@ name: ETL Brasileirão → Google Sheets
 
 on:
   schedule:
-    - cron: "0 6 * * 1,4,6"   # seg, qui e sáb às 06:00 UTC
+    - cron: "0 6 * * 1,3,5"   # seg, qua e sex às 06:00 UTC (03:00 BRT)
   workflow_dispatch:           # permite disparo manual
     inputs:
       anos_extracao:
