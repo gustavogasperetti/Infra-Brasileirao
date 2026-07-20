@@ -1,0 +1,353 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1972,1972-09-09,Botafogo,Santos,1,1,E,E,NORMAL,1F
+1972,1972-09-09,Vitória,Remo,0,0,E,E,NORMAL,1F
+1972,1972-09-09,Cruzeiro,América Mineiro,0,0,E,E,NORMAL,1F
+1972,1972-09-10,Sergipe,Ceará,1,3,D,V,NORMAL,1F
+1972,1972-09-10,ABC,CRB,0,0,E,E,NORMAL,1F
+1972,1972-09-10,Coritiba,Palmeiras,1,0,V,D,NORMAL,1F
+1972,1972-09-10,Náutico,Santa Cruz,0,0,E,E,NORMAL,1F
+1972,1972-09-10,Atlético Mineiro,Vasco,0,1,D,V,NORMAL,1F
+1972,1972-09-10,Grêmio,São Paulo,2,0,V,D,NORMAL,1F
+1972,1972-09-10,Corinthians,Fluminense,1,1,E,E,NORMAL,1F
+1972,1972-09-10,Bahia,Nacional-AM,1,0,V,D,NORMAL,1F
+1972,1972-09-10,Flamengo,America-RJ,1,1,E,E,NORMAL,1F
+1972,1972-09-13,ABC,São Paulo,0,3,D,V,NORMAL,1F
+1972,1972-09-13,Náutico,Cruzeiro,1,2,D,V,NORMAL,1F
+1972,1972-09-13,Coritiba,Botafogo,0,0,E,E,NORMAL,1F
+1972,1972-09-13,Grêmio,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1972,1972-09-13,CRB,Fluminense,0,2,D,V,NORMAL,1F
+1972,1972-09-13,Ceará,Internacional,3,1,V,D,NORMAL,1F
+1972,1972-09-13,Sergipe,Santos,0,1,D,V,NORMAL,1F
+1972,1972-09-13,América Mineiro,Corinthians,0,0,E,E,NORMAL,1F
+1972,1972-09-13,Nacional-AM,Flamengo,0,0,E,E,NORMAL,1F
+1972,1972-09-13,Bahia,America-RJ,0,0,E,E,NORMAL,1F
+1972,1972-09-13,Remo,Vasco,0,0,E,E,NORMAL,1F
+1972,1972-09-13,Portuguesa,Santa Cruz,0,1,D,V,NORMAL,1F
+1972,1972-09-14,Vitória,Palmeiras,0,3,D,V,NORMAL,1F
+1972,1972-09-16,Náutico,Fluminense,0,1,D,V,NORMAL,1F
+1972,1972-09-17,Corinthians,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1972,1972-09-17,Sergipe,Palmeiras,1,1,E,E,NORMAL,1F
+1972,1972-09-17,Vitória,Santos,1,0,V,D,NORMAL,1F
+1972,1972-09-17,América Mineiro,Portuguesa,2,2,E,E,NORMAL,1F
+1972,1972-09-17,CRB,Cruzeiro,1,4,D,V,NORMAL,1F
+1972,1972-09-17,Santa Cruz,America-RJ,1,1,E,E,NORMAL,1F
+1972,1972-09-17,Botafogo,Grêmio,1,2,D,V,NORMAL,1F
+1972,1972-09-17,Coritiba,Bahia,1,0,V,D,NORMAL,1F
+1972,1972-09-17,Ceará,São Paulo,1,1,E,E,NORMAL,1F
+1972,1972-09-17,ABC,Internacional,1,2,D,V,NORMAL,1F
+1972,1972-09-17,Remo,Flamengo,1,0,V,D,NORMAL,1F
+1972,1972-09-17,Nacional-AM,Vasco,1,3,D,V,NORMAL,1F
+1972,1972-09-20,Vasco,America-RJ,3,0,V,D,NORMAL,1F
+1972,1972-09-20,Ceará,Vitória,0,0,E,E,NORMAL,1F
+1972,1972-09-20,Internacional,Grêmio,1,0,V,D,NORMAL,1F
+1972,1972-09-20,Coritiba,Santos,0,0,E,E,NORMAL,1F
+1972,1972-09-20,Palmeiras,Botafogo,2,2,E,E,NORMAL,1F
+1972,1972-09-20,CRB,Náutico,0,0,E,E,NORMAL,1F
+1972,1972-09-20,Santa Cruz,Sergipe,0,0,E,E,NORMAL,1F
+1972,1972-09-20,ABC,Nacional-AM,3,3,E,E,NORMAL,1F
+1972,1972-09-20,Cruzeiro,Corinthians,0,1,D,V,NORMAL,1F
+1972,1972-09-20,Bahia,Remo,1,1,E,E,NORMAL,1F
+1972,1972-09-21,São Paulo,Portuguesa,1,1,E,E,NORMAL,1F
+1972,1972-09-21,América Mineiro,Fluminense,0,0,E,E,NORMAL,1F
+1972,1972-09-21,Flamengo,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1972,1972-09-23,Vasco,Internacional,1,2,D,V,NORMAL,1F
+1972,1972-09-23,Palmeiras,Santa Cruz,3,0,V,D,NORMAL,1F
+1972,1972-09-24,São Paulo,Flamengo,0,0,E,E,NORMAL,1F
+1972,1972-09-24,Cruzeiro,Bahia,1,0,V,D,NORMAL,1F
+1972,1972-09-24,Nacional-AM,Corinthians,2,0,V,D,NORMAL,1F
+1972,1972-09-24,Vitória,América Mineiro,0,0,E,E,NORMAL,1F
+1972,1972-09-24,Coritiba,Sergipe,2,0,V,D,NORMAL,1F
+1972,1972-09-24,CRB,Portuguesa,0,0,E,E,NORMAL,1F
+1972,1972-09-24,Ceará,Grêmio,0,0,E,E,NORMAL,1F
+1972,1972-09-24,Fluminense,Santos,2,1,V,D,NORMAL,1F
+1972,1972-09-24,ABC,Atlético Mineiro,1,2,D,V,NORMAL,1F
+1972,1972-09-24,Náutico,America-RJ,1,1,E,E,NORMAL,1F
+1972,1972-09-24,Remo,Botafogo,1,1,E,E,NORMAL,1F
+1972,1972-09-27,Palmeiras,Internacional,1,1,E,E,NORMAL,1F
+1972,1972-09-27,Bahia,Flamengo,0,1,D,V,NORMAL,1F
+1972,1972-09-27,Remo,Corinthians,2,2,E,E,NORMAL,1F
+1972,1972-09-27,Ceará,Atlético Mineiro,1,3,D,V,NORMAL,1F
+1972,1972-09-27,Fluminense,Cruzeiro,1,2,D,V,NORMAL,1F
+1972,1972-09-27,Nacional-AM,Botafogo,1,2,D,V,NORMAL,1F
+1972,1972-09-27,Coritiba,Vitória,3,0,V,D,NORMAL,1F
+1972,1972-09-27,ABC,Grêmio,1,1,E,E,NORMAL,1F
+1972,1972-09-27,Náutico,Portuguesa,2,1,V,D,NORMAL,1F
+1972,1972-09-27,CRB,America-RJ,0,1,D,V,NORMAL,1F
+1972,1972-09-27,Sergipe,América Mineiro,0,2,D,V,NORMAL,1F
+1972,1972-09-28,Santos,São Paulo,1,0,V,D,NORMAL,1F
+1972,1972-09-28,Santa Cruz,Vasco,2,0,V,D,NORMAL,1F
+1972,1972-09-30,Bahia,Grêmio,0,0,E,E,NORMAL,1F
+1972,1972-09-30,Náutico,Palmeiras,1,2,D,V,NORMAL,1F
+1972,1972-10-01,Atlético Mineiro,Coritiba,2,0,V,D,NORMAL,1F
+1972,1972-10-01,Nacional-AM,Internacional,2,2,E,E,NORMAL,1F
+1972,1972-10-01,Botafogo,America-RJ,0,2,D,V,NORMAL,1F
+1972,1972-10-01,Corinthians,Portuguesa,3,2,V,D,NORMAL,1F
+1972,1972-10-01,Santa Cruz,América Mineiro,4,1,V,D,NORMAL,1F
+1972,1972-10-01,CRB,Santos,1,3,D,V,NORMAL,1F
+1972,1972-10-01,ABC,Vasco,1,2,D,V,NORMAL,1F
+1972,1972-10-01,Sergipe,Cruzeiro,0,1,D,V,NORMAL,1F
+1972,1972-10-01,Vitória,Fluminense,0,0,E,E,NORMAL,1F
+1972,1972-10-01,Ceará,Flamengo,1,3,D,V,NORMAL,1F
+1972,1972-10-01,Remo,São Paulo,0,1,D,V,NORMAL,1F
+1972,1972-10-04,Cruzeiro,Vitória,4,0,V,D,NORMAL,1F
+1972,1972-10-04,CRB,Palmeiras,1,3,D,V,NORMAL,1F
+1972,1972-10-04,America-RJ,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1972,1972-10-04,Coritiba,América Mineiro,2,0,V,D,NORMAL,1F
+1972,1972-10-04,Grêmio,Portuguesa,1,1,E,E,NORMAL,1F
+1972,1972-10-04,Nacional-AM,São Paulo,1,1,E,E,NORMAL,1F
+1972,1972-10-04,Bahia,Botafogo,1,1,E,E,NORMAL,1F
+1972,1972-10-04,Sergipe,Fluminense,1,1,E,E,NORMAL,1F
+1972,1972-10-04,Náutico,Santos,1,1,E,E,NORMAL,1F
+1972,1972-10-04,Remo,Internacional,0,0,E,E,NORMAL,1F
+1972,1972-10-04,Ceará,Vasco,0,0,E,E,NORMAL,1F
+1972,1972-10-04,ABC,Flamengo,0,0,E,E,NORMAL,1F
+1972,1972-10-05,Santa Cruz,Corinthians,3,3,E,E,NORMAL,1F
+1972,1972-10-07,Remo,America-RJ,0,1,D,V,NORMAL,1F
+1972,1972-10-07,Náutico,Corinthians,0,1,D,V,NORMAL,1F
+1972,1972-10-08,Internacional,Santos,0,0,E,E,NORMAL,1F
+1972,1972-10-08,Palmeiras,Cruzeiro,2,2,E,E,NORMAL,1F
+1972,1972-10-08,Sergipe,Grêmio,0,2,D,V,NORMAL,1F
+1972,1972-10-08,ABC,Coritiba,0,0,E,E,NORMAL,1F
+1972,1972-10-08,Ceará,América Mineiro,2,0,V,D,NORMAL,1F
+1972,1972-10-08,Bahia,São Paulo,1,0,V,D,NORMAL,1F
+1972,1972-10-08,Nacional-AM,Portuguesa,2,0,V,D,NORMAL,1F
+1972,1972-10-08,Atlético Mineiro,Vitória,5,0,V,D,NORMAL,1F
+1972,1972-10-08,Vasco,Flamengo,1,2,D,V,NORMAL,1F
+1972,1972-10-08,Santa Cruz,Fluminense,1,2,D,V,NORMAL,1F
+1972,1972-10-08,CRB,Botafogo,3,2,V,D,NORMAL,1F
+1972,1972-10-11,Cruzeiro,Santos,2,0,V,D,NORMAL,1F
+1972,1972-10-11,São Paulo,Vasco,0,1,D,V,NORMAL,1F
+1972,1972-10-11,Náutico,Botafogo,1,2,D,V,NORMAL,1F
+1972,1972-10-11,CRB,Corinthians,0,0,E,E,NORMAL,1F
+1972,1972-10-11,Remo,Portuguesa,2,0,V,D,NORMAL,1F
+1972,1972-10-11,Flamengo,Santa Cruz,1,0,V,D,NORMAL,1F
+1972,1972-10-11,Sergipe,Atlético Mineiro,0,1,D,V,NORMAL,1F
+1972,1972-10-11,ABC,América Mineiro,1,0,V,D,NORMAL,1F
+1972,1972-10-11,Grêmio,Vitória,0,0,E,E,NORMAL,1F
+1972,1972-10-11,Nacional-AM,America-RJ,0,0,E,E,NORMAL,1F
+1972,1972-10-11,Ceará,Coritiba,0,0,E,E,NORMAL,1F
+1972,1972-10-12,Fluminense,Palmeiras,0,1,D,V,NORMAL,1F
+1972,1972-10-12,Bahia,Internacional,0,0,E,E,NORMAL,1F
+1972,1972-10-14,Cruzeiro,America-RJ,2,0,V,D,NORMAL,1F
+1972,1972-10-14,Flamengo,Corinthians,0,0,E,E,NORMAL,1F
+1972,1972-10-14,Santos,Grêmio,3,2,V,D,NORMAL,1F
+1972,1972-10-14,Vitória,CRB,1,0,V,D,NORMAL,1F
+1972,1972-10-15,Atlético Mineiro,Fluminense,2,0,V,D,NORMAL,1F
+1972,1972-10-15,Palmeiras,Portuguesa,1,0,V,D,NORMAL,1F
+1972,1972-10-15,Bahia,Santa Cruz,1,1,E,E,NORMAL,1F
+1972,1972-10-15,Ceará,Nacional-AM,1,0,V,D,NORMAL,1F
+1972,1972-10-15,Náutico,Sergipe,3,0,V,D,NORMAL,1F
+1972,1972-10-15,Internacional,América Mineiro,0,0,E,E,NORMAL,1F
+1972,1972-10-15,Vasco,Botafogo,0,0,E,E,NORMAL,1F
+1972,1972-10-15,ABC,Remo,0,1,D,V,NORMAL,1F
+1972,1972-10-15,Coritiba,São Paulo,4,0,V,D,NORMAL,1F
+1972,1972-10-18,Grêmio,Cruzeiro,1,1,E,E,NORMAL,1F
+1972,1972-10-18,CRB,Bahia,0,0,E,E,NORMAL,1F
+1972,1972-10-18,Vitória,Náutico,0,1,D,V,NORMAL,1F
+1972,1972-10-18,Coritiba,Flamengo,2,1,V,D,NORMAL,1F
+1972,1972-10-18,Sergipe,ABC,0,1,D,V,NORMAL,1F
+1972,1972-10-18,Remo,Ceará,1,1,E,E,NORMAL,1F
+1972,1972-10-18,Atlético Mineiro,Palmeiras,0,3,D,V,NORMAL,1F
+1972,1972-10-18,Santa Cruz,Nacional-AM,2,1,V,D,NORMAL,1F
+1972,1972-10-18,Fluminense,Portuguesa,2,2,E,E,NORMAL,1F
+1972,1972-10-18,São Paulo,Corinthians,3,1,V,D,NORMAL,1F
+1972,1972-10-19,América Mineiro,Vasco,0,0,E,E,NORMAL,1F
+1972,1972-10-19,Internacional,Botafogo,0,0,E,E,NORMAL,1F
+1972,1972-10-19,America-RJ,Santos,0,2,D,V,NORMAL,1F
+1972,1972-10-21,Atlético Mineiro,Portuguesa,1,0,V,D,NORMAL,1F
+1972,1972-10-21,São Paulo,Fluminense,0,3,D,V,NORMAL,1F
+1972,1972-10-21,Flamengo,Palmeiras,0,1,D,V,NORMAL,1F
+1972,1972-10-21,Coritiba,America-RJ,3,3,E,E,NORMAL,1F
+1972,1972-10-21,Cruzeiro,Internacional,1,1,E,E,NORMAL,1F
+1972,1972-10-21,Sergipe,Vitória,0,2,D,V,NORMAL,1F
+1972,1972-10-21,CRB,Nacional-AM,1,2,D,V,NORMAL,1F
+1972,1972-10-21,Ceará,ABC,1,0,V,D,NORMAL,1F
+1972,1972-10-22,Corinthians,Botafogo,0,0,E,E,NORMAL,1F
+1972,1972-10-22,Grêmio,América Mineiro,1,0,V,D,NORMAL,1F
+1972,1972-10-22,Remo,Santa Cruz,4,0,V,D,NORMAL,1F
+1972,1972-10-22,Vasco,Santos,1,1,E,E,NORMAL,1F
+1972,1972-10-22,Náutico,Bahia,0,0,E,E,NORMAL,1F
+1972,1972-10-25,Internacional,Flamengo,0,0,E,E,NORMAL,1F
+1972,1972-10-25,Remo,Coritiba,0,0,E,E,NORMAL,1F
+1972,1972-10-25,Nacional-AM,América Mineiro,1,1,E,E,NORMAL,1F
+1972,1972-10-25,Santa Cruz,São Paulo,2,2,E,E,NORMAL,1F
+1972,1972-10-25,Palmeiras,Santos,0,1,D,V,NORMAL,1F
+1972,1972-10-25,Vasco,Cruzeiro,1,0,V,D,NORMAL,1F
+1972,1972-10-25,Vitória,Botafogo,1,0,V,D,NORMAL,1F
+1972,1972-10-25,ABC,America-RJ,0,1,D,V,NORMAL,1F
+1972,1972-10-25,CRB,Grêmio,0,2,D,V,NORMAL,1F
+1972,1972-10-25,Sergipe,Corinthians,1,3,D,V,NORMAL,1F
+1972,1972-10-25,Ceará,Portuguesa,1,4,D,V,NORMAL,1F
+1972,1972-10-26,Bahia,Fluminense,1,0,V,D,NORMAL,1F
+1972,1972-10-26,Náutico,Atlético Mineiro,3,0,V,D,NORMAL,1F
+1972,1972-10-28,Náutico,Grêmio,1,1,E,E,NORMAL,1F
+1972,1972-10-28,Vasco,Palmeiras,0,0,E,E,NORMAL,1F
+1972,1972-10-28,Vitória,Corinthians,1,2,D,V,NORMAL,1F
+1972,1972-10-29,Nacional-AM,Coritiba,1,2,D,V,NORMAL,1F
+1972,1972-10-29,Sergipe,Botafogo,0,1,D,V,NORMAL,1F
+1972,1972-10-29,Santa Cruz,Internacional,2,3,D,V,NORMAL,1F
+1972,1972-10-29,Flamengo,Fluminense,0,1,D,V,NORMAL,1F
+1972,1972-10-29,ABC,Portuguesa,2,1,V,D,NORMAL,1F
+1972,1972-10-29,São Paulo,Cruzeiro,2,1,V,D,NORMAL,1F
+1972,1972-10-29,Ceará,America-RJ,1,1,E,E,NORMAL,1F
+1972,1972-10-29,Bahia,Santos,0,2,D,V,NORMAL,1F
+1972,1972-10-29,Remo,América Mineiro,0,0,E,E,NORMAL,1F
+1972,1972-10-29,CRB,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1972,1972-11-01,Palmeiras,Corinthians,0,1,D,V,NORMAL,1F
+1972,1972-11-01,Coritiba,Fluminense,2,0,V,D,NORMAL,1F
+1972,1972-11-01,Botafogo,Cruzeiro,1,1,E,E,NORMAL,1F
+1972,1972-11-01,Internacional,America-RJ,0,1,D,V,NORMAL,1F
+1972,1972-11-01,América Mineiro,Santos,1,1,E,E,NORMAL,1F
+1972,1972-11-01,Santa Cruz,CRB,1,1,E,E,NORMAL,1F
+1972,1972-11-01,ABC,Bahia,0,1,D,V,NORMAL,1F
+1972,1972-11-01,Vitória,Nacional-AM,0,0,E,E,NORMAL,1F
+1972,1972-11-01,Sergipe,Remo,3,0,V,D,NORMAL,1F
+1972,1972-11-01,Ceará,Náutico,2,1,V,D,NORMAL,1F
+1972,1972-11-02,Grêmio,Vasco,0,1,D,V,NORMAL,1F
+1972,1972-11-02,Portuguesa,Flamengo,0,1,D,V,NORMAL,1F
+1972,1972-11-02,Atlético Mineiro,São Paulo,1,2,D,V,NORMAL,1F
+1972,1972-11-05,Flamengo,Vitória,1,0,V,D,NORMAL,1F
+1972,1972-11-05,Coritiba,Corinthians,0,1,D,V,NORMAL,1F
+1972,1972-11-05,Ceará,Cruzeiro,1,1,E,E,NORMAL,1F
+1972,1972-11-05,Atlético Mineiro,Botafogo,2,0,V,D,NORMAL,1F
+1972,1972-11-05,ABC,Fluminense,0,1,D,V,NORMAL,1F
+1972,1972-11-05,Náutico,São Paulo,0,6,D,V,NORMAL,1F
+1972,1972-11-05,Grêmio,Santa Cruz,0,1,D,V,NORMAL,1F
+1972,1972-11-05,Portuguesa,America-RJ,1,0,V,D,NORMAL,1F
+1972,1972-11-05,Sergipe,Vasco,0,2,D,V,NORMAL,1F
+1972,1972-11-05,Nacional-AM,Palmeiras,0,0,E,E,NORMAL,1F
+1972,1972-11-05,Remo,Santos,1,1,E,E,NORMAL,1F
+1972,1972-11-05,CRB,Internacional,2,3,D,V,NORMAL,1F
+1972,1972-11-05,Bahia,América Mineiro,2,1,V,D,NORMAL,1F
+1972,1972-11-08,Corinthians,Grêmio,1,0,V,D,NORMAL,1F
+1972,1972-11-08,Coritiba,Portuguesa,1,1,E,E,NORMAL,1F
+1972,1972-11-08,Bahia,Atlético Mineiro,1,3,D,V,NORMAL,1F
+1972,1972-11-08,Nacional-AM,Santos,0,0,E,E,NORMAL,1F
+1972,1972-11-08,ABC,Cruzeiro,0,2,D,V,NORMAL,1F
+1972,1972-11-08,Santa Cruz,Botafogo,3,2,V,D,NORMAL,1F
+1972,1972-11-08,America-RJ,América Mineiro,3,0,V,D,NORMAL,1F
+1972,1972-11-08,CRB,São Paulo,2,6,D,V,NORMAL,1F
+1972,1972-11-08,Sergipe,Flamengo,0,2,D,V,NORMAL,1F
+1972,1972-11-08,Remo,Palmeiras,0,2,D,V,NORMAL,1F
+1972,1972-11-08,Ceará,Fluminense,3,0,V,D,NORMAL,1F
+1972,1972-11-09,Náutico,Internacional,0,1,D,V,NORMAL,1F
+1972,1972-11-09,Vitória,Vasco,2,0,V,D,NORMAL,1F
+1972,1972-11-11,América Mineiro,Flamengo,2,0,V,D,NORMAL,1F
+1972,1972-11-11,Botafogo,São Paulo,3,2,V,D,NORMAL,1F
+1972,1972-11-12,Corinthians,Vasco,1,1,E,E,NORMAL,1F
+1972,1972-11-12,Portuguesa,Santos,2,0,V,D,NORMAL,1F
+1972,1972-11-12,ABC,Santa Cruz,2,0,V,D,NORMAL,1F
+1972,1972-11-12,Coritiba,Internacional,1,1,E,E,NORMAL,1F
+1972,1972-11-12,Grêmio,Palmeiras,0,1,D,V,NORMAL,1F
+1972,1972-11-12,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1972,1972-11-12,Bahia,Vitória,0,0,E,E,NORMAL,1F
+1972,1972-11-12,Fluminense,America-RJ,0,0,E,E,NORMAL,1F
+1972,1972-11-12,Sergipe,Nacional-AM,0,0,E,E,NORMAL,1F
+1972,1972-11-12,Náutico,Remo,2,2,E,E,NORMAL,1F
+1972,1972-11-12,Ceará,CRB,2,2,E,E,NORMAL,1F
+1972,1972-11-15,Botafogo,Flamengo,6,0,V,D,NORMAL,1F
+1972,1972-11-16,Internacional,Corinthians,2,0,V,D,NORMAL,1F
+1972,1972-11-16,Cruzeiro,Portuguesa,2,0,V,D,NORMAL,1F
+1972,1972-11-16,Atlético Mineiro,Santos,0,1,D,V,NORMAL,1F
+1972,1972-11-16,Coritiba,Vasco,1,0,V,D,NORMAL,1F
+1972,1972-11-16,Fluminense,Grêmio,2,0,V,D,NORMAL,1F
+1972,1972-11-16,ABC,Náutico,3,4,D,V,NORMAL,1F
+1972,1972-11-16,Santa Cruz,Vitória,1,1,E,E,NORMAL,1F
+1972,1972-11-16,CRB,Sergipe,0,3,D,V,NORMAL,1F
+1972,1972-11-16,Remo,Nacional-AM,1,0,V,D,NORMAL,1F
+1972,1972-11-16,Ceará,Bahia,0,0,E,E,NORMAL,1F
+1972,1972-11-16,São Paulo,América Mineiro,2,1,V,D,NORMAL,1F
+1972,1972-11-16,Palmeiras,America-RJ,2,0,V,D,NORMAL,1F
+1972,1972-11-18,Vasco,Portuguesa,3,1,V,D,NORMAL,1F
+1972,1972-11-18,Internacional,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1972,1972-11-19,Grêmio,Flamengo,1,0,V,D,NORMAL,1F
+1972,1972-11-19,CRB,Remo,1,1,E,E,NORMAL,1F
+1972,1972-11-19,São Paulo,America-RJ,2,0,V,D,NORMAL,1F
+1972,1972-11-19,América Mineiro,Palmeiras,1,2,D,V,NORMAL,1F
+1972,1972-11-19,Coritiba,Cruzeiro,2,3,D,V,NORMAL,1F
+1972,1972-11-19,Sergipe,Bahia,1,2,D,V,NORMAL,1F
+1972,1972-11-19,ABC,Vitória,0,0,E,E,NORMAL,1F
+1972,1972-11-19,Botafogo,Fluminense,2,1,V,D,NORMAL,1F
+1972,1972-11-19,Ceará,Corinthians,0,1,D,V,NORMAL,1F
+1972,1972-11-19,Santa Cruz,Santos,2,4,D,V,NORMAL,1F
+1972,1972-11-19,Nacional-AM,Náutico,2,3,D,V,NORMAL,1F
+1972,1972-11-21,Internacional,Portuguesa,5,1,V,D,NORMAL,1F
+1972,1972-11-22,Palmeiras,São Paulo,0,0,E,E,NORMAL,1F
+1972,1972-11-22,ABC,Corinthians,0,3,D,V,NORMAL,1F
+1972,1972-11-22,Remo,Grêmio,0,1,D,V,NORMAL,1F
+1972,1972-11-22,Cruzeiro,Santa Cruz,1,0,V,D,NORMAL,1F
+1972,1972-11-22,Vasco,Bahia,0,0,E,E,NORMAL,1F
+1972,1972-11-22,Nacional-AM,Atlético Mineiro,2,4,D,V,NORMAL,1F
+1972,1972-11-22,Ceará,Botafogo,0,0,E,E,NORMAL,1F
+1972,1972-11-22,Náutico,América Mineiro,3,2,V,D,NORMAL,1F
+1972,1972-11-22,Sergipe,America-RJ,0,1,D,V,NORMAL,1F
+1972,1972-11-22,CRB,Coritiba,0,3,D,V,NORMAL,1F
+1972,1972-11-23,Fluminense,Internacional,0,0,E,E,NORMAL,1F
+1972,1972-11-23,Vitória,Portuguesa,0,0,E,E,NORMAL,1F
+1972,1972-11-23,Santos,Flamengo,0,0,E,E,NORMAL,1F
+1972,1972-11-24,Palmeiras,Bahia,4,1,V,D,NORMAL,1F
+1972,1972-11-24,Náutico,Coritiba,1,1,E,E,NORMAL,1F
+1972,1972-11-25,Santos,Corinthians,4,0,V,D,NORMAL,1F
+1972,1972-11-25,Internacional,São Paulo,3,1,V,D,NORMAL,1F
+1972,1972-11-25,Cruzeiro,Flamengo,1,1,E,E,NORMAL,1F
+1972,1972-11-25,Remo,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1972,1972-11-25,Nacional-AM,Grêmio,0,2,D,V,NORMAL,1F
+1972,1972-11-25,CRB,América Mineiro,0,0,E,E,NORMAL,1F
+1972,1972-11-25,ABC,Botafogo,0,1,D,V,NORMAL,1F
+1972,1972-11-25,Santa Cruz,Ceará,1,1,E,E,NORMAL,1F
+1972,1972-11-25,Vitória,America-RJ,2,0,V,D,NORMAL,1F
+1972,1972-11-25,Vasco,Fluminense,0,0,E,E,NORMAL,1F
+1972,1972-11-25,Sergipe,Portuguesa,1,1,E,E,NORMAL,1F
+1972,1972-11-29,Ceará,Palmeiras,0,3,D,V,NORMAL,1F
+1972,1972-11-29,Internacional,Vitória,1,0,V,D,NORMAL,1F
+1972,1972-11-29,ABC,Santos,0,2,D,V,NORMAL,1F
+1972,1972-11-29,Corinthians,Bahia,3,1,V,D,NORMAL,1F
+1972,1972-11-29,Nacional-AM,Cruzeiro,2,1,V,D,NORMAL,1F
+1972,1972-11-29,Náutico,Flamengo,0,1,D,V,NORMAL,1F
+1972,1972-11-29,Remo,Fluminense,0,0,E,E,NORMAL,1F
+1972,1972-11-29,CRB,Vasco,0,0,E,E,NORMAL,1F
+1972,1972-11-29,Atlético Mineiro,América Mineiro,1,1,E,E,NORMAL,1F
+1972,1972-11-29,Sergipe,São Paulo,0,5,D,V,NORMAL,1F
+1972,1972-11-29,Santa Cruz,Coritiba,1,2,D,V,NORMAL,1F
+1972,1972-11-29,Grêmio,America-RJ,0,0,E,E,NORMAL,1F
+1972,1972-11-29,Portuguesa,Botafogo,1,1,E,E,NORMAL,1F
+1972,1972-12-02,Náutico,Vasco,1,2,D,V,NORMAL,1F
+1972,1972-12-03,America-RJ,Corinthians,0,0,E,E,NORMAL,1F
+1972,1972-12-03,América Mineiro,Botafogo,3,1,V,D,NORMAL,1F
+1972,1972-12-03,ABC,Palmeiras,2,2,E,E,NORMAL,1F
+1972,1972-12-03,CRB,Flamengo,2,5,D,V,NORMAL,1F
+1972,1972-12-03,Ceará,Santos,2,1,V,D,NORMAL,1F
+1972,1972-12-03,Nacional-AM,Fluminense,0,1,D,V,NORMAL,1F
+1972,1972-12-03,Santa Cruz,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1972,1972-12-03,Bahia,Portuguesa,2,3,D,V,NORMAL,1F
+1972,1972-12-03,Coritiba,Grêmio,1,2,D,V,NORMAL,1F
+1972,1972-12-03,Sergipe,Internacional,2,4,D,V,NORMAL,1F
+1972,1972-12-03,São Paulo,Vitória,5,2,V,D,NORMAL,1F
+1972,1972-12-03,Remo,Cruzeiro,2,2,E,E,NORMAL,1F
+1972,1972-12-09,Fluminense,Ceará,0,0,E,E,NORMAL,3
+1972,1972-12-09,Santos,Santa Cruz,2,0,V,D,NORMAL,4
+1972,1972-12-09,Grêmio,Botafogo,0,0,E,E,NORMAL,4
+1972,1972-12-10,Flamengo,Vasco,1,1,E,E,NORMAL,1
+1972,1972-12-10,Internacional,Cruzeiro,3,2,V,D,NORMAL,1
+1972,1972-12-10,Coritiba,America-RJ,2,1,V,D,NORMAL,2
+1972,1972-12-10,São Paulo,Palmeiras,2,0,V,D,NORMAL,2
+1972,1972-12-10,Atlético Mineiro,Corinthians,0,0,E,E,NORMAL,3
+1972,1972-12-13,São Paulo,Coritiba,2,0,V,D,NORMAL,2
+1972,1972-12-13,Palmeiras,America-RJ,3,1,V,D,NORMAL,2
+1972,1972-12-13,Fluminense,Atlético Mineiro,2,3,D,V,NORMAL,3
+1972,1972-12-13,Botafogo,Santa Cruz,4,1,V,D,NORMAL,4
+1972,1972-12-14,Flamengo,Internacional,1,3,D,V,NORMAL,1
+1972,1972-12-14,Vasco,Cruzeiro,3,1,V,D,NORMAL,1
+1972,1972-12-14,Corinthians,Ceará,1,0,V,D,NORMAL,3
+1972,1972-12-14,Santos,Grêmio,0,1,D,V,NORMAL,4
+1972,1972-12-16,America-RJ,São Paulo,1,0,V,D,NORMAL,2
+1972,1972-12-16,Palmeiras,Coritiba,3,0,V,D,NORMAL,2
+1972,1972-12-16,Botafogo,Santos,2,1,V,D,NORMAL,4
+1972,1972-12-16,Santa Cruz,Grêmio,2,1,V,D,NORMAL,4
+1972,1972-12-17,Internacional,Vasco,1,1,E,E,NORMAL,1
+1972,1972-12-17,Cruzeiro,Flamengo,1,1,E,E,NORMAL,1
+1972,1972-12-17,Ceará,Atlético Mineiro,1,1,E,E,NORMAL,3
+1972,1972-12-17,Corinthians,Fluminense,0,0,E,E,NORMAL,3
+1972,1972-12-20,Palmeiras,Internacional,1,1,E,E,NORMAL,SF
+1972,1972-12-20,Botafogo,Corinthians,2,1,V,D,NORMAL,SF
+1972,1972-12-23,Palmeiras,Botafogo,0,0,E,E,NORMAL,F

@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2012,2012-05-19,Sport,Flamengo,1,1,E,E,NORMAL,R1
+2012,2012-05-19,Palmeiras,Portuguesa,1,1,E,E,NORMAL,R1
+2012,2012-05-19,Figueirense,Náutico,2,1,V,D,NORMAL,R1
+2012,2012-05-20,Botafogo,São Paulo,4,2,V,D,NORMAL,R1
+2012,2012-05-20,Corinthians,Fluminense,0,1,D,V,NORMAL,R1
+2012,2012-05-20,Internacional,Coritiba,2,0,V,D,NORMAL,R1
+2012,2012-05-20,Ponte Preta,Atlético Mineiro,0,1,D,V,NORMAL,R1
+2012,2012-05-20,Vasco,Grêmio,2,1,V,D,NORMAL,R1
+2012,2012-05-20,Cruzeiro,Atlético Goianiense,0,0,E,E,NORMAL,R1
+2012,2012-05-20,Bahia,Santos,0,0,E,E,NORMAL,R1
+2012,2012-05-26,Flamengo,Internacional,3,3,E,E,NORMAL,R2
+2012,2012-05-26,Portuguesa,Vasco,0,1,D,V,NORMAL,R2
+2012,2012-05-26,Atlético Goianiense,Ponte Preta,1,1,E,E,NORMAL,R2
+2012,2012-05-26,Náutico,Cruzeiro,0,0,E,E,NORMAL,R2
+2012,2012-05-27,Santos,Sport,0,0,E,E,NORMAL,R2
+2012,2012-05-27,São Paulo,Bahia,1,0,V,D,NORMAL,R2
+2012,2012-05-27,Atlético Mineiro,Corinthians,1,0,V,D,NORMAL,R2
+2012,2012-05-27,Coritiba,Botafogo,2,3,D,V,NORMAL,R2
+2012,2012-05-27,Fluminense,Figueirense,2,2,E,E,NORMAL,R2
+2012,2012-05-27,Grêmio,Palmeiras,1,0,V,D,NORMAL,R2
+2012,2012-06-06,Sport,Palmeiras,2,1,V,D,NORMAL,R3
+2012,2012-06-06,Atlético Goianiense,Grêmio,0,1,D,V,NORMAL,R3
+2012,2012-06-06,Vasco,Náutico,4,2,V,D,NORMAL,R3
+2012,2012-06-06,Atlético Mineiro,Bahia,1,1,E,E,NORMAL,R3
+2012,2012-06-06,Coritiba,Portuguesa,2,0,V,D,NORMAL,R3
+2012,2012-06-06,Santos,Fluminense,1,1,E,E,NORMAL,R3
+2012,2012-06-06,Internacional,São Paulo,1,0,V,D,NORMAL,R3
+2012,2012-06-06,Ponte Preta,Flamengo,2,2,E,E,NORMAL,R3
+2012,2012-06-07,Botafogo,Cruzeiro,2,3,D,V,NORMAL,R3
+2012,2012-06-07,Corinthians,Figueirense,1,1,E,E,NORMAL,R3
+2012,2012-06-09,Flamengo,Coritiba,3,1,V,D,NORMAL,R4
+2012,2012-06-09,Palmeiras,Atlético Mineiro,0,1,D,V,NORMAL,R4
+2012,2012-06-10,Portuguesa,Atlético Goianiense,2,0,V,D,NORMAL,R4
+2012,2012-06-10,Fluminense,Internacional,0,0,E,E,NORMAL,R4
+2012,2012-06-10,Grêmio,Corinthians,2,0,V,D,NORMAL,R4
+2012,2012-06-10,Bahia,Vasco,1,2,D,V,NORMAL,R4
+2012,2012-06-10,São Paulo,Santos,1,0,V,D,NORMAL,R4
+2012,2012-06-10,Cruzeiro,Sport,1,0,V,D,NORMAL,R4
+2012,2012-06-10,Figueirense,Ponte Preta,0,0,E,E,NORMAL,R4
+2012,2012-06-10,Náutico,Botafogo,3,2,V,D,NORMAL,R4
+2012,2012-06-16,Internacional,Botafogo,1,2,D,V,NORMAL,R5
+2012,2012-06-16,Cruzeiro,Figueirense,1,0,V,D,NORMAL,R5
+2012,2012-06-16,Fluminense,Portuguesa,4,1,V,D,NORMAL,R5
+2012,2012-06-17,Flamengo,Santos,1,0,V,D,NORMAL,R5
+2012,2012-06-17,Palmeiras,Vasco,1,1,E,E,NORMAL,R5
+2012,2012-06-17,São Paulo,Atlético Mineiro,1,0,V,D,NORMAL,R5
+2012,2012-06-17,Bahia,Sport,2,1,V,D,NORMAL,R5
+2012,2012-06-17,Ponte Preta,Corinthians,1,0,V,D,NORMAL,R5
+2012,2012-06-17,Coritiba,Atlético Goianiense,3,0,V,D,NORMAL,R5
+2012,2012-06-17,Náutico,Grêmio,1,0,V,D,NORMAL,R5
+2012,2012-06-23,Vasco,Cruzeiro,1,3,D,V,NORMAL,R6
+2012,2012-06-23,Portuguesa,São Paulo,1,0,V,D,NORMAL,R6
+2012,2012-06-23,Atlético Mineiro,Náutico,5,1,V,D,NORMAL,R6
+2012,2012-06-24,Corinthians,Palmeiras,2,1,V,D,NORMAL,R6
+2012,2012-06-24,Grêmio,Flamengo,2,0,V,D,NORMAL,R6
+2012,2012-06-24,Figueirense,Bahia,1,1,E,E,NORMAL,R6
+2012,2012-06-24,Botafogo,Ponte Preta,1,2,D,V,NORMAL,R6
+2012,2012-06-24,Santos,Coritiba,2,2,E,E,NORMAL,R6
+2012,2012-06-24,Sport,Internacional,0,2,D,V,NORMAL,R6
+2012,2012-06-24,Atlético Goianiense,Fluminense,1,4,D,V,NORMAL,R6
+2012,2012-06-30,Cruzeiro,São Paulo,2,3,D,V,NORMAL,R7
+2012,2012-06-30,Náutico,Fluminense,0,2,D,V,NORMAL,R7
+2012,2012-06-30,Vasco,Ponte Preta,3,2,V,D,NORMAL,R7
+2012,2012-07-01,Portuguesa,Santos,0,0,E,E,NORMAL,R7
+2012,2012-07-01,Coritiba,Sport,2,3,D,V,NORMAL,R7
+2012,2012-07-01,Bahia,Internacional,1,1,E,E,NORMAL,R7
+2012,2012-07-01,Flamengo,Atlético Goianiense,3,2,V,D,NORMAL,R7
+2012,2012-07-01,Palmeiras,Figueirense,3,1,V,D,NORMAL,R7
+2012,2012-07-01,Grêmio,Atlético Mineiro,0,1,D,V,NORMAL,R7
+2012,2012-07-07,Botafogo,Bahia,3,0,V,D,NORMAL,R8
+2012,2012-07-07,Internacional,Cruzeiro,2,1,V,D,NORMAL,R8
+2012,2012-07-07,Atlético Goianiense,Náutico,0,1,D,V,NORMAL,R8
+2012,2012-07-08,Fluminense,Flamengo,1,0,V,D,NORMAL,R8
+2012,2012-07-08,Santos,Grêmio,4,2,V,D,NORMAL,R8
+2012,2012-07-08,São Paulo,Coritiba,3,1,V,D,NORMAL,R8
+2012,2012-07-08,Figueirense,Vasco,1,1,E,E,NORMAL,R8
+2012,2012-07-08,Atlético Mineiro,Portuguesa,2,0,V,D,NORMAL,R8
+2012,2012-07-08,Ponte Preta,Palmeiras,1,0,V,D,NORMAL,R8
+2012,2012-07-08,Sport,Corinthians,1,1,E,E,NORMAL,R8
+2012,2012-07-11,Corinthians,Botafogo,1,3,D,V,NORMAL,R7
+2012,2012-07-14,Corinthians,Náutico,2,1,V,D,NORMAL,R9
+2012,2012-07-14,Figueirense,Atlético Mineiro,3,4,D,V,NORMAL,R9
+2012,2012-07-14,Ponte Preta,Coritiba,4,1,V,D,NORMAL,R9
+2012,2012-07-15,Botafogo,Fluminense,1,1,E,E,NORMAL,R9
+2012,2012-07-15,Internacional,Santos,0,0,E,E,NORMAL,R9
+2012,2012-07-15,Cruzeiro,Grêmio,1,3,D,V,NORMAL,R9
+2012,2012-07-15,Bahia,Flamengo,1,2,D,V,NORMAL,R9
+2012,2012-07-15,Vasco,Atlético Goianiense,1,0,V,D,NORMAL,R9
+2012,2012-07-15,Palmeiras,São Paulo,1,1,E,E,NORMAL,R9
+2012,2012-07-15,Sport,Portuguesa,2,1,V,D,NORMAL,R9
+2012,2012-07-18,Santos,Botafogo,0,0,E,E,NORMAL,R10
+2012,2012-07-18,Grêmio,Sport,3,1,V,D,NORMAL,R10
+2012,2012-07-18,Portuguesa,Cruzeiro,0,2,D,V,NORMAL,R10
+2012,2012-07-18,Náutico,Ponte Preta,3,0,V,D,NORMAL,R10
+2012,2012-07-18,Flamengo,Corinthians,0,3,D,V,NORMAL,R10
+2012,2012-07-18,São Paulo,Vasco,0,1,D,V,NORMAL,R10
+2012,2012-07-18,Atlético Mineiro,Internacional,3,1,V,D,NORMAL,R10
+2012,2012-07-19,Fluminense,Bahia,4,0,V,D,NORMAL,R10
+2012,2012-07-19,Coritiba,Palmeiras,1,1,E,E,NORMAL,R10
+2012,2012-07-19,Atlético Goianiense,Figueirense,3,2,V,D,NORMAL,R10
+2012,2012-07-21,Vasco,Santos,2,0,V,D,NORMAL,R11
+2012,2012-07-21,Sport,Atlético Mineiro,1,4,D,V,NORMAL,R11
+2012,2012-07-21,Corinthians,Portuguesa,1,1,E,E,NORMAL,R11
+2012,2012-07-22,Palmeiras,Náutico,3,0,V,D,NORMAL,R11
+2012,2012-07-22,Internacional,Atlético Goianiense,4,1,V,D,NORMAL,R11
+2012,2012-07-22,Cruzeiro,Flamengo,1,0,V,D,NORMAL,R11
+2012,2012-07-22,Figueirense,São Paulo,0,2,D,V,NORMAL,R11
+2012,2012-07-22,Botafogo,Grêmio,0,1,D,V,NORMAL,R11
+2012,2012-07-22,Ponte Preta,Fluminense,1,2,D,V,NORMAL,R11
+2012,2012-07-22,Bahia,Coritiba,2,2,E,E,NORMAL,R11
+2012,2012-07-25,Ponte Preta,Sport,1,1,E,E,NORMAL,R12
+2012,2012-07-25,Figueirense,Internacional,0,1,D,V,NORMAL,R12
+2012,2012-07-25,Vasco,Botafogo,1,0,V,D,NORMAL,R12
+2012,2012-07-25,Náutico,Coritiba,3,4,D,V,NORMAL,R12
+2012,2012-07-25,Corinthians,Cruzeiro,2,0,V,D,NORMAL,R12
+2012,2012-07-25,Grêmio,Fluminense,1,0,V,D,NORMAL,R12
+2012,2012-07-25,Atlético Goianiense,São Paulo,4,3,V,D,NORMAL,R12
+2012,2012-07-26,Flamengo,Portuguesa,0,0,E,E,NORMAL,R12
+2012,2012-07-26,Palmeiras,Bahia,0,2,D,V,NORMAL,R12
+2012,2012-07-26,Atlético Mineiro,Santos,2,0,V,D,NORMAL,R12
+2012,2012-07-28,Internacional,Vasco,0,0,E,E,NORMAL,R13
+2012,2012-07-28,Coritiba,Grêmio,2,1,V,D,NORMAL,R13
+2012,2012-07-28,Botafogo,Figueirense,1,0,V,D,NORMAL,R13
+2012,2012-07-29,Fluminense,Atlético Mineiro,0,0,E,E,NORMAL,R13
+2012,2012-07-29,São Paulo,Flamengo,4,1,V,D,NORMAL,R13
+2012,2012-07-29,Sport,Atlético Goianiense,0,0,E,E,NORMAL,R13
+2012,2012-07-29,Bahia,Corinthians,0,0,E,E,NORMAL,R13
+2012,2012-07-29,Santos,Ponte Preta,2,1,V,D,NORMAL,R13
+2012,2012-07-29,Cruzeiro,Palmeiras,2,1,V,D,NORMAL,R13
+2012,2012-07-29,Portuguesa,Náutico,3,1,V,D,NORMAL,R13
+2012,2012-08-04,Palmeiras,Internacional,0,1,D,V,NORMAL,R14
+2012,2012-08-04,Atlético Goianiense,Botafogo,1,2,D,V,NORMAL,R14
+2012,2012-08-04,Portuguesa,Figueirense,2,0,V,D,NORMAL,R14
+2012,2012-08-05,Vasco,Corinthians,0,0,E,E,NORMAL,R14
+2012,2012-08-05,São Paulo,Sport,1,0,V,D,NORMAL,R14
+2012,2012-08-05,Grêmio,Bahia,3,1,V,D,NORMAL,R14
+2012,2012-08-05,Coritiba,Fluminense,0,2,D,V,NORMAL,R14
+2012,2012-08-05,Cruzeiro,Ponte Preta,1,2,D,V,NORMAL,R14
+2012,2012-08-05,Náutico,Santos,3,0,V,D,NORMAL,R14
+2012,2012-08-08,Internacional,Náutico,0,0,E,E,NORMAL,R15
+2012,2012-08-08,Sport,Vasco,0,2,D,V,NORMAL,R15
+2012,2012-08-08,Corinthians,Atlético Goianiense,1,1,E,E,NORMAL,R15
+2012,2012-08-08,Bahia,Portuguesa,0,0,E,E,NORMAL,R15
+2012,2012-08-08,Botafogo,Palmeiras,1,2,D,V,NORMAL,R15
+2012,2012-08-08,Santos,Cruzeiro,4,2,V,D,NORMAL,R15
+2012,2012-08-08,Figueirense,Flamengo,0,2,D,V,NORMAL,R15
+2012,2012-08-09,Fluminense,São Paulo,2,1,V,D,NORMAL,R15
+2012,2012-08-09,Atlético Mineiro,Coritiba,1,0,V,D,NORMAL,R15
+2012,2012-08-09,Ponte Preta,Grêmio,0,0,E,E,NORMAL,R15
+2012,2012-08-11,Santos,Atlético Goianiense,2,2,E,E,NORMAL,R16
+2012,2012-08-11,Sport,Figueirense,0,1,D,V,NORMAL,R16
+2012,2012-08-11,Bahia,Cruzeiro,0,1,D,V,NORMAL,R16
+2012,2012-08-11,Flamengo,Náutico,2,0,V,D,NORMAL,R16
+2012,2012-08-12,São Paulo,Grêmio,1,2,D,V,NORMAL,R16
+2012,2012-08-12,Internacional,Ponte Preta,2,1,V,D,NORMAL,R16
+2012,2012-08-12,Atlético Mineiro,Vasco,1,0,V,D,NORMAL,R16
+2012,2012-08-12,Coritiba,Corinthians,1,2,D,V,NORMAL,R16
+2012,2012-08-12,Fluminense,Palmeiras,1,0,V,D,NORMAL,R16
+2012,2012-08-12,Portuguesa,Botafogo,1,1,E,E,NORMAL,R16
+2012,2012-08-15,Grêmio,Portuguesa,1,2,D,V,NORMAL,R17
+2012,2012-08-15,Cruzeiro,Fluminense,1,1,E,E,NORMAL,R17
+2012,2012-08-15,Ponte Preta,Bahia,0,2,D,V,NORMAL,R17
+2012,2012-08-15,Atlético Goianiense,Atlético Mineiro,1,1,E,E,NORMAL,R17
+2012,2012-08-15,Botafogo,Sport,2,0,V,D,NORMAL,R17
+2012,2012-08-15,Palmeiras,Flamengo,1,0,V,D,NORMAL,R17
+2012,2012-08-15,Náutico,São Paulo,3,0,V,D,NORMAL,R17
+2012,2012-08-16,Vasco,Coritiba,2,2,E,E,NORMAL,R17
+2012,2012-08-16,Corinthians,Internacional,1,0,V,D,NORMAL,R17
+2012,2012-08-16,Figueirense,Santos,1,3,D,V,NORMAL,R17
+2012,2012-08-18,Fluminense,Sport,1,0,V,D,NORMAL,R18
+2012,2012-08-18,Náutico,Bahia,1,0,V,D,NORMAL,R18
+2012,2012-08-18,São Paulo,Ponte Preta,3,0,V,D,NORMAL,R18
+2012,2012-08-19,Santos,Corinthians,3,2,V,D,NORMAL,R18
+2012,2012-08-19,Grêmio,Figueirense,4,0,V,D,NORMAL,R18
+2012,2012-08-19,Atlético Mineiro,Botafogo,3,2,V,D,NORMAL,R18
+2012,2012-08-19,Coritiba,Cruzeiro,4,0,V,D,NORMAL,R18
+2012,2012-08-19,Flamengo,Vasco,1,0,V,D,NORMAL,R18
+2012,2012-08-19,Portuguesa,Internacional,1,1,E,E,NORMAL,R18
+2012,2012-08-19,Atlético Goianiense,Palmeiras,2,1,V,D,NORMAL,R18
+2012,2012-08-25,Vasco,Fluminense,1,2,D,V,NORMAL,R19
+2012,2012-08-25,Palmeiras,Santos,1,2,D,V,NORMAL,R19
+2012,2012-08-25,Ponte Preta,Portuguesa,2,1,V,D,NORMAL,R19
+2012,2012-08-26,Botafogo,Flamengo,0,0,E,E,NORMAL,R19
+2012,2012-08-26,Corinthians,São Paulo,1,2,D,V,NORMAL,R19
+2012,2012-08-26,Internacional,Grêmio,0,1,D,V,NORMAL,R19
+2012,2012-08-26,Figueirense,Coritiba,3,1,V,D,NORMAL,R19
+2012,2012-08-26,Cruzeiro,Atlético Mineiro,2,2,E,E,NORMAL,R19
+2012,2012-08-26,Sport,Náutico,0,0,E,E,NORMAL,R19
+2012,2012-08-26,Bahia,Atlético Goianiense,1,1,E,E,NORMAL,R19
+2012,2012-08-29,Coritiba,Internacional,1,0,V,D,NORMAL,R20
+2012,2012-08-29,Santos,Bahia,1,3,D,V,NORMAL,R20
+2012,2012-08-29,Portuguesa,Palmeiras,3,0,V,D,NORMAL,R20
+2012,2012-08-29,Atlético Mineiro,Ponte Preta,2,2,E,E,NORMAL,R20
+2012,2012-08-29,Náutico,Figueirense,3,2,V,D,NORMAL,R20
+2012,2012-08-29,Grêmio,Vasco,2,0,V,D,NORMAL,R20
+2012,2012-08-29,Fluminense,Corinthians,1,1,E,E,NORMAL,R20
+2012,2012-08-29,Atlético Goianiense,Cruzeiro,0,2,D,V,NORMAL,R20
+2012,2012-08-30,São Paulo,Botafogo,4,0,V,D,NORMAL,R20
+2012,2012-08-30,Flamengo,Sport,1,1,E,E,NORMAL,R20
+2012,2012-09-01,Figueirense,Fluminense,2,2,E,E,NORMAL,R21
+2012,2012-09-01,Palmeiras,Grêmio,0,0,E,E,NORMAL,R21
+2012,2012-09-01,Vasco,Portuguesa,2,0,V,D,NORMAL,R21
+2012,2012-09-02,Internacional,Flamengo,4,1,V,D,NORMAL,R21
+2012,2012-09-02,Sport,Santos,2,1,V,D,NORMAL,R21
+2012,2012-09-02,Bahia,São Paulo,1,0,V,D,NORMAL,R21
+2012,2012-09-02,Corinthians,Atlético Mineiro,1,0,V,D,NORMAL,R21
+2012,2012-09-02,Botafogo,Coritiba,2,0,V,D,NORMAL,R21
+2012,2012-09-02,Cruzeiro,Náutico,3,0,V,D,NORMAL,R21
+2012,2012-09-02,Ponte Preta,Atlético Goianiense,3,1,V,D,NORMAL,R21
+2012,2012-09-05,Náutico,Vasco,1,1,E,E,NORMAL,R22
+2012,2012-09-05,Bahia,Atlético Mineiro,0,0,E,E,NORMAL,R22
+2012,2012-09-05,Flamengo,Ponte Preta,0,1,D,V,NORMAL,R22
+2012,2012-09-05,Portuguesa,Coritiba,3,0,V,D,NORMAL,R22
+2012,2012-09-05,Grêmio,Atlético Goianiense,2,1,V,D,NORMAL,R22
+2012,2012-09-05,Cruzeiro,Botafogo,1,3,D,V,NORMAL,R22
+2012,2012-09-05,Figueirense,Corinthians,1,0,V,D,NORMAL,R22
+2012,2012-09-05,São Paulo,Internacional,1,1,E,E,NORMAL,R22
+2012,2012-09-06,Fluminense,Santos,3,1,V,D,NORMAL,R22
+2012,2012-09-06,Palmeiras,Sport,3,1,V,D,NORMAL,R22
+2012,2012-09-08,Coritiba,Flamengo,3,0,V,D,NORMAL,R23
+2012,2012-09-08,Ponte Preta,Figueirense,2,2,E,E,NORMAL,R23
+2012,2012-09-08,Corinthians,Grêmio,3,1,V,D,NORMAL,R23
+2012,2012-09-09,Internacional,Fluminense,0,1,D,V,NORMAL,R23
+2012,2012-09-09,Santos,São Paulo,0,0,E,E,NORMAL,R23
+2012,2012-09-09,Botafogo,Náutico,3,1,V,D,NORMAL,R23
+2012,2012-09-09,Atlético Mineiro,Palmeiras,3,0,V,D,NORMAL,R23
+2012,2012-09-09,Sport,Cruzeiro,2,1,V,D,NORMAL,R23
+2012,2012-09-09,Atlético Goianiense,Portuguesa,1,1,E,E,NORMAL,R23
+2012,2012-09-09,Vasco,Bahia,0,4,D,V,NORMAL,R23
+2012,2012-09-12,Portuguesa,Fluminense,0,2,D,V,NORMAL,R24
+2012,2012-09-12,Figueirense,Cruzeiro,2,0,V,D,NORMAL,R24
+2012,2012-09-12,Corinthians,Ponte Preta,1,1,E,E,NORMAL,R24
+2012,2012-09-12,Atlético Goianiense,Coritiba,1,2,D,V,NORMAL,R24
+2012,2012-09-12,Sport,Bahia,1,1,E,E,NORMAL,R24
+2012,2012-09-12,Santos,Flamengo,2,0,V,D,NORMAL,R24
+2012,2012-09-12,Vasco,Palmeiras,3,1,V,D,NORMAL,R24
+2012,2012-09-12,Atlético Mineiro,São Paulo,1,0,V,D,NORMAL,R24
+2012,2012-09-13,Botafogo,Internacional,1,1,E,E,NORMAL,R24
+2012,2012-09-13,Grêmio,Náutico,2,0,V,D,NORMAL,R24
+2012,2012-09-15,São Paulo,Portuguesa,3,1,V,D,NORMAL,R25
+2012,2012-09-15,Fluminense,Atlético Goianiense,1,2,D,V,NORMAL,R25
+2012,2012-09-16,Cruzeiro,Vasco,1,1,E,E,NORMAL,R25
+2012,2012-09-16,Coritiba,Santos,1,2,D,V,NORMAL,R25
+2012,2012-09-16,Palmeiras,Corinthians,0,2,D,V,NORMAL,R25
+2012,2012-09-16,Náutico,Atlético Mineiro,1,0,V,D,NORMAL,R25
+2012,2012-09-16,Bahia,Figueirense,2,1,V,D,NORMAL,R25
+2012,2012-09-16,Ponte Preta,Botafogo,0,0,E,E,NORMAL,R25
+2012,2012-09-16,Flamengo,Grêmio,1,1,E,E,NORMAL,R25
+2012,2012-09-16,Internacional,Sport,2,2,E,E,NORMAL,R25
+2012,2012-09-22,Figueirense,Palmeiras,1,3,D,V,NORMAL,R26
+2012,2012-09-22,Fluminense,Náutico,2,1,V,D,NORMAL,R26
+2012,2012-09-22,Santos,Portuguesa,1,3,D,V,NORMAL,R26
+2012,2012-09-23,Atlético Goianiense,Flamengo,1,2,D,V,NORMAL,R26
+2012,2012-09-23,Ponte Preta,Vasco,0,0,E,E,NORMAL,R26
+2012,2012-09-23,Botafogo,Corinthians,2,2,E,E,NORMAL,R26
+2012,2012-09-23,São Paulo,Cruzeiro,1,0,V,D,NORMAL,R26
+2012,2012-09-23,Atlético Mineiro,Grêmio,0,0,E,E,NORMAL,R26
+2012,2012-09-23,Sport,Coritiba,1,0,V,D,NORMAL,R26
+2012,2012-09-23,Internacional,Bahia,3,1,V,D,NORMAL,R26
+2012,2012-09-26,Flamengo,Atlético Mineiro,2,1,V,D,NORMAL,R14
+2012,2012-09-29,Cruzeiro,Internacional,0,0,E,E,NORMAL,R27
+2012,2012-09-29,Portuguesa,Atlético Mineiro,1,1,E,E,NORMAL,R27
+2012,2012-09-29,Vasco,Figueirense,3,1,V,D,NORMAL,R27
+2012,2012-09-29,Náutico,Atlético Goianiense,2,0,V,D,NORMAL,R27
+2012,2012-09-29,Palmeiras,Ponte Preta,3,0,V,D,NORMAL,R27
+2012,2012-09-30,Bahia,Botafogo,2,0,V,D,NORMAL,R27
+2012,2012-09-30,Flamengo,Fluminense,0,1,D,V,NORMAL,R27
+2012,2012-09-30,Coritiba,São Paulo,1,1,E,E,NORMAL,R27
+2012,2012-09-30,Corinthians,Sport,3,0,V,D,NORMAL,R27
+2012,2012-09-30,Grêmio,Santos,1,1,E,E,NORMAL,R27
+2012,2012-10-04,Coritiba,Ponte Preta,1,0,V,D,NORMAL,R28
+2012,2012-10-04,Portuguesa,Sport,5,1,V,D,NORMAL,R28
+2012,2012-10-04,Flamengo,Bahia,0,0,E,E,NORMAL,R28
+2012,2012-10-06,São Paulo,Palmeiras,3,0,V,D,NORMAL,R28
+2012,2012-10-06,Atlético Goianiense,Vasco,0,1,D,V,NORMAL,R28
+2012,2012-10-06,Náutico,Corinthians,2,1,V,D,NORMAL,R28
+2012,2012-10-06,Santos,Internacional,1,1,E,E,NORMAL,R28
+2012,2012-10-06,Fluminense,Botafogo,1,0,V,D,NORMAL,R28
+2012,2012-10-06,Grêmio,Cruzeiro,2,1,V,D,NORMAL,R28
+2012,2012-10-06,Atlético Mineiro,Figueirense,6,0,V,D,NORMAL,R28
+2012,2012-10-10,Bahia,Fluminense,0,2,D,V,NORMAL,R29
+2012,2012-10-10,Botafogo,Santos,0,2,D,V,NORMAL,R29
+2012,2012-10-10,Cruzeiro,Portuguesa,2,0,V,D,NORMAL,R29
+2012,2012-10-10,Ponte Preta,Náutico,2,1,V,D,NORMAL,R29
+2012,2012-10-10,Figueirense,Atlético Goianiense,3,1,V,D,NORMAL,R29
+2012,2012-10-10,Corinthians,Flamengo,3,2,V,D,NORMAL,R29
+2012,2012-10-10,Vasco,São Paulo,0,2,D,V,NORMAL,R29
+2012,2012-10-10,Internacional,Atlético Mineiro,3,0,V,D,NORMAL,R29
+2012,2012-10-11,Sport,Grêmio,1,3,D,V,NORMAL,R29
+2012,2012-10-11,Palmeiras,Coritiba,0,1,D,V,NORMAL,R29
+2012,2012-10-13,Atlético Goianiense,Internacional,3,1,V,D,NORMAL,R30
+2012,2012-10-13,Flamengo,Cruzeiro,1,1,E,E,NORMAL,R30
+2012,2012-10-13,Portuguesa,Corinthians,1,1,E,E,NORMAL,R30
+2012,2012-10-14,Santos,Vasco,2,0,V,D,NORMAL,R30
+2012,2012-10-14,Náutico,Palmeiras,1,0,V,D,NORMAL,R30
+2012,2012-10-14,São Paulo,Figueirense,2,0,V,D,NORMAL,R30
+2012,2012-10-14,Atlético Mineiro,Sport,2,1,V,D,NORMAL,R30
+2012,2012-10-14,Coritiba,Bahia,2,1,V,D,NORMAL,R30
+2012,2012-10-14,Grêmio,Botafogo,1,1,E,E,NORMAL,R30
+2012,2012-10-14,Fluminense,Ponte Preta,2,1,V,D,NORMAL,R30
+2012,2012-10-17,Bahia,Palmeiras,0,1,D,V,NORMAL,R31
+2012,2012-10-17,Fluminense,Grêmio,2,2,E,E,NORMAL,R31
+2012,2012-10-17,Internacional,Figueirense,2,3,D,V,NORMAL,R31
+2012,2012-10-17,Coritiba,Náutico,2,1,V,D,NORMAL,R31
+2012,2012-10-17,Portuguesa,Flamengo,0,0,E,E,NORMAL,R31
+2012,2012-10-17,Cruzeiro,Corinthians,2,0,V,D,NORMAL,R31
+2012,2012-10-17,Santos,Atlético Mineiro,2,2,E,E,NORMAL,R31
+2012,2012-10-18,Botafogo,Vasco,3,2,V,D,NORMAL,R31
+2012,2012-10-18,Sport,Ponte Preta,3,1,V,D,NORMAL,R31
+2012,2012-10-18,São Paulo,Atlético Goianiense,2,0,V,D,NORMAL,R31
+2012,2012-10-20,Palmeiras,Cruzeiro,2,0,V,D,NORMAL,R32
+2012,2012-10-20,Grêmio,Coritiba,0,0,E,E,NORMAL,R32
+2012,2012-10-20,Corinthians,Bahia,1,1,E,E,NORMAL,R32
+2012,2012-10-21,Atlético Mineiro,Fluminense,3,2,V,D,NORMAL,R32
+2012,2012-10-21,Flamengo,São Paulo,1,0,V,D,NORMAL,R32
+2012,2012-10-21,Náutico,Portuguesa,0,0,E,E,NORMAL,R32
+2012,2012-10-21,Ponte Preta,Santos,1,0,V,D,NORMAL,R32
+2012,2012-10-21,Atlético Goianiense,Sport,0,1,D,V,NORMAL,R32
+2012,2012-10-24,Vasco,Internacional,1,2,D,V,NORMAL,R32
+2012,2012-10-24,Figueirense,Botafogo,0,2,D,V,NORMAL,R32
+2012,2012-10-25,Ponte Preta,Cruzeiro,1,0,V,D,NORMAL,R33
+2012,2012-10-25,Fluminense,Coritiba,2,1,V,D,NORMAL,R33
+2012,2012-10-25,Santos,Náutico,0,0,E,E,NORMAL,R33
+2012,2012-10-27,Corinthians,Vasco,1,0,V,D,NORMAL,R33
+2012,2012-10-27,Internacional,Palmeiras,2,1,V,D,NORMAL,R33
+2012,2012-10-27,Sport,São Paulo,2,4,D,V,NORMAL,R33
+2012,2012-10-27,Bahia,Grêmio,1,1,E,E,NORMAL,R33
+2012,2012-10-27,Figueirense,Portuguesa,0,0,E,E,NORMAL,R33
+2012,2012-10-27,Botafogo,Atlético Goianiense,4,0,V,D,NORMAL,R33
+2012,2012-10-31,Atlético Mineiro,Flamengo,1,1,E,E,NORMAL,R33
+2012,2012-11-03,Cruzeiro,Santos,0,4,D,V,NORMAL,R34
+2012,2012-11-03,Grêmio,Ponte Preta,1,0,V,D,NORMAL,R34
+2012,2012-11-03,Flamengo,Figueirense,1,0,V,D,NORMAL,R34
+2012,2012-11-04,Palmeiras,Botafogo,2,2,E,E,NORMAL,R34
+2012,2012-11-04,São Paulo,Fluminense,1,1,E,E,NORMAL,R34
+2012,2012-11-04,Atlético Goianiense,Corinthians,0,2,D,V,NORMAL,R34
+2012,2012-11-04,Vasco,Sport,0,3,D,V,NORMAL,R34
+2012,2012-11-04,Náutico,Internacional,3,0,V,D,NORMAL,R34
+2012,2012-11-04,Coritiba,Atlético Mineiro,1,0,V,D,NORMAL,R34
+2012,2012-11-04,Portuguesa,Bahia,0,1,D,V,NORMAL,R34
+2012,2012-11-10,Atlético Goianiense,Santos,2,1,V,D,NORMAL,R35
+2012,2012-11-10,Botafogo,Portuguesa,3,0,V,D,NORMAL,R35
+2012,2012-11-10,Corinthians,Coritiba,5,1,V,D,NORMAL,R35
+2012,2012-11-11,Palmeiras,Fluminense,2,3,D,V,NORMAL,R35
+2012,2012-11-11,Grêmio,São Paulo,2,1,V,D,NORMAL,R35
+2012,2012-11-11,Vasco,Atlético Mineiro,1,1,E,E,NORMAL,R35
+2012,2012-11-11,Náutico,Flamengo,0,1,D,V,NORMAL,R35
+2012,2012-11-11,Ponte Preta,Internacional,1,0,V,D,NORMAL,R35
+2012,2012-11-11,Figueirense,Sport,1,1,E,E,NORMAL,R35
+2012,2012-11-11,Cruzeiro,Bahia,3,1,V,D,NORMAL,R35
+2012,2012-11-17,Coritiba,Vasco,1,2,D,V,NORMAL,R36
+2012,2012-11-17,Santos,Figueirense,2,0,V,D,NORMAL,R36
+2012,2012-11-18,Flamengo,Palmeiras,1,1,E,E,NORMAL,R36
+2012,2012-11-18,Fluminense,Cruzeiro,0,2,D,V,NORMAL,R36
+2012,2012-11-18,Bahia,Ponte Preta,1,0,V,D,NORMAL,R36
+2012,2012-11-18,São Paulo,Náutico,2,1,V,D,NORMAL,R36
+2012,2012-11-18,Atlético Mineiro,Atlético Goianiense,2,2,E,E,NORMAL,R36
+2012,2012-11-18,Sport,Botafogo,2,0,V,D,NORMAL,R36
+2012,2012-11-18,Internacional,Corinthians,0,2,D,V,NORMAL,R36
+2012,2012-11-18,Portuguesa,Grêmio,2,2,E,E,NORMAL,R36
+2012,2012-11-24,Vasco,Flamengo,1,1,E,E,NORMAL,R37
+2012,2012-11-24,Corinthians,Santos,1,1,E,E,NORMAL,R37
+2012,2012-11-25,Sport,Fluminense,1,1,E,E,NORMAL,R37
+2012,2012-11-25,Ponte Preta,São Paulo,0,0,E,E,NORMAL,R37
+2012,2012-11-25,Figueirense,Grêmio,2,4,D,V,NORMAL,R37
+2012,2012-11-25,Botafogo,Atlético Mineiro,2,3,D,V,NORMAL,R37
+2012,2012-11-25,Internacional,Portuguesa,0,2,D,V,NORMAL,R37
+2012,2012-11-25,Cruzeiro,Coritiba,2,1,V,D,NORMAL,R37
+2012,2012-11-25,Bahia,Náutico,1,1,E,E,NORMAL,R37
+2012,2012-11-25,Palmeiras,Atlético Goianiense,1,2,D,V,NORMAL,R37
+2012,2012-12-01,Flamengo,Botafogo,2,2,E,E,NORMAL,R38
+2012,2012-12-01,Santos,Palmeiras,3,1,V,D,NORMAL,R38
+2012,2012-12-02,Fluminense,Vasco,1,2,D,V,NORMAL,R38
+2012,2012-12-02,São Paulo,Corinthians,3,1,V,D,NORMAL,R38
+2012,2012-12-02,Grêmio,Internacional,0,0,E,E,NORMAL,R38
+2012,2012-12-02,Atlético Mineiro,Cruzeiro,3,2,V,D,NORMAL,R38
+2012,2012-12-02,Portuguesa,Ponte Preta,0,0,E,E,NORMAL,R38
+2012,2012-12-02,Coritiba,Figueirense,3,0,V,D,NORMAL,R38
+2012,2012-12-02,Náutico,Sport,1,0,V,D,NORMAL,R38
+2012,2012-12-02,Atlético Goianiense,Bahia,0,1,D,V,NORMAL,R38

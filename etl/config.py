@@ -1,18 +1,61 @@
+"""
+etl/config.py
+=============
+Configurações centrais do pipeline — URLs de scraping e credenciais.
+
+Segurança:
+  Nenhuma credencial fica hardcoded neste arquivo. Tudo é lido de
+  variáveis de ambiente, que em produção (GitHub Actions) são alimentadas
+  por Secrets e, em desenvolvimento local, por um arquivo .env
+  (ignorado pelo git). Veja .env.example para o formato esperado.
+
+Variáveis de ambiente:
+  OGOL_ACCOUNTS       → contas do Ogol no formato "email1:senha1,email2:senha2"
+  SPREADSHEET_ID      → ID da planilha do Google Sheets (destino da carga)
+  GOOGLE_CREDENTIALS  → conteúdo JSON completo do credentials.json da
+                        Service Account (usado pelo etl/load.py)
+  ANOS_EXTRACAO       → "todos" (padrão), "atual" ou lista "2024,2025"
+"""
+
 import os
+
+from dotenv import load_dotenv
+
+# Carrega o .env local, se existir (no GitHub Actions as variáveis já
+# chegam prontas no ambiente e este passo é um no-op)
+load_dotenv()
 
 # ---------------------------------------------------------------------------
 # Credenciais de acesso — Ogol
 # ---------------------------------------------------------------------------
-#
-# Formato: lista de tuplas (email, senha)
-OGOL_ACCOUNTS: list[tuple[str, str]] = [
-    ("fewonak657@mugstock.com",  "Teste123!"),   # conta principal
-    ("losago8838@pertok.com",    "Teste123!"),   # fallback 1  ← preencha
-    ("fewonak657@mugstock.com",     "senha3"),              # fallback 2 
-]
+# Formato da env var: "email1:senha1,email2:senha2" (a primeira conta é a
+# principal; as demais são fallback quando o limite de visualizações estoura)
+
+
+def _parse_ogol_accounts(raw: str) -> list[tuple[str, str]]:
+    accounts: list[tuple[str, str]] = []
+    for entry in raw.split(","):
+        entry = entry.strip()
+        if not entry or ":" not in entry:
+            continue
+        email, password = entry.split(":", 1)
+        if email.strip() and password.strip():
+            accounts.append((email.strip(), password.strip()))
+    return accounts
+
+
+OGOL_ACCOUNTS: list[tuple[str, str]] = _parse_ogol_accounts(
+    os.getenv("OGOL_ACCOUNTS", "")
+)
 
 # URL de login
 OGOL_LOGIN_URL: str = "https://www.ogol.com.br/login.php"
+
+# ---------------------------------------------------------------------------
+# Google Sheets — destino da camada de carga
+# ---------------------------------------------------------------------------
+SPREADSHEET_ID: str = os.getenv("SPREADSHEET_ID", "")
+WORKSHEET_PARTIDAS: str = "partidas"
 
 # ---------------------------------------------------------------------------
 # Dicionário mapeando o Ano para a URL base daquela edição
@@ -72,4 +115,5 @@ URLS_OGOL_BRASILEIRAO = {
     2023: "https://www.ogol.com.br/edicao/campeonato-brasileiro-2023/172507/calendario",
     2024: "https://www.ogol.com.br/edicao/brasileirao-serie-a-2024/184443/calendario",
     2025: "https://www.ogol.com.br/edicao/brasileirao-serie-a-2025/194851/calendario",
+    2026: "https://www.ogol.com.br/edicao/brasileirao-serie-a-2026/210277/calendario"
 }

@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2010-05-08,Botafogo,3-3,Santos,R1
+2010-05-08,Atlético Goianiense,0-0,Grêmio,R1
+2010-05-08,Palmeiras,1-0,Vitória,R1
+2010-05-09,Flamengo,1-1,São Paulo,R1
+2010-05-09,Atlético Mineiro,2-1,Vasco,R1
+2010-05-09,Internacional,1-2,Cruzeiro,R1
+2010-05-09,Corinthians,2-1,Atlético Paranaense,R1
+2010-05-09,Ceará,1-0,Fluminense,R1
+2010-05-09,Guarani,1-0,Goiás,R1
+2010-05-09,Avaí,6-1,Grêmio Barueri,R1
+2010-05-15,Fluminense,1-0,Atlético Goianiense,R2
+2010-05-15,Grêmio Barueri,4-0,Atlético Mineiro,R2
+2010-05-15,Vitória,1-1,Flamengo,R2
+2010-05-16,São Paulo,1-2,Botafogo,R2
+2010-05-16,Grêmio,1-2,Corinthians,R2
+2010-05-16,Goiás,2-3,Internacional,R2
+2010-05-16,Santos,1-1,Ceará,R2
+2010-05-16,Vasco,0-0,Palmeiras,R2
+2010-05-16,Cruzeiro,2-2,Avaí,R2
+2010-05-16,Atlético Paranaense,2-2,Guarani,R2
+2010-05-22,Botafogo,3-0,Goiás,R3
+2010-05-22,Atlético Goianiense,1-2,Santos,R3
+2010-05-22,Palmeiras,4-2,Grêmio,R3
+2010-05-23,Corinthians,1-0,Fluminense,R3
+2010-05-23,Atlético Mineiro,3-1,Atlético Paranaense,R3
+2010-05-23,Internacional,0-2,São Paulo,R3
+2010-05-23,Ceará,1-0,Vitória,R3
+2010-05-23,Avaí,2-0,Vasco,R3
+2010-05-23,Flamengo,3-1,Grêmio Barueri,R3
+2010-05-23,Guarani,2-2,Cruzeiro,R3
+2010-05-26,Vitória,4-3,Atlético Mineiro,R4
+2010-05-26,Grêmio,3-0,Avaí,R4
+2010-05-26,Fluminense,2-1,Flamengo,R4
+2010-05-26,São Paulo,1-0,Palmeiras,R4
+2010-05-26,Grêmio Barueri,2-2,Corinthians,R4
+2010-05-26,Cruzeiro,1-0,Botafogo,R4
+2010-05-26,Santos,3-1,Guarani,R4
+2010-05-27,Vasco,3-2,Internacional,R4
+2010-05-27,Atlético Paranaense,2-1,Atlético Goianiense,R4
+2010-05-27,Goiás,0-0,Ceará,R4
+2010-05-29,Flamengo,1-1,Grêmio,R5
+2010-05-29,Palmeiras,0-0,Grêmio Barueri,R5
+2010-05-29,Avaí,0-0,Vitória,R5
+2010-05-30,Corinthians,4-2,Santos,R5
+2010-05-30,Guarani,0-0,São Paulo,R5
+2010-05-30,Atlético Mineiro,1-3,Fluminense,R5
+2010-05-30,Internacional,4-1,Atlético Paranaense,R5
+2010-05-30,Ceará,1-0,Cruzeiro,R5
+2010-05-30,Atlético Goianiense,1-3,Goiás,R5
+2010-05-30,Botafogo,1-1,Vasco,R5
+2010-06-02,Atlético Paranaense,3-2,Botafogo,R6
+2010-06-02,Fluminense,2-1,Vitória,R6
+2010-06-02,Grêmio Barueri,1-0,Atlético Goianiense,R6
+2010-06-02,Ceará,2-0,Avaí,R6
+2010-06-02,Palmeiras,0-1,Flamengo,R6
+2010-06-02,Goiás,2-1,São Paulo,R6
+2010-06-02,Cruzeiro,0-0,Santos,R6
+2010-06-03,Grêmio,2-1,Atlético Mineiro,R6
+2010-06-03,Vasco,0-1,Guarani,R6
+2010-06-03,Corinthians,2-0,Internacional,R6
+2010-06-05,Avaí,0-3,Fluminense,R7
+2010-06-05,Flamengo,1-2,Goiás,R7
+2010-06-05,Vitória,1-0,Atlético Paranaense,R7
+2010-06-06,São Paulo,3-1,Grêmio,R7
+2010-06-06,Santos,4-0,Vasco,R7
+2010-06-06,Botafogo,2-2,Corinthians,R7
+2010-06-06,Atlético Mineiro,0-1,Ceará,R7
+2010-06-06,Internacional,1-1,Palmeiras,R7
+2010-06-06,Guarani,1-0,Grêmio Barueri,R7
+2010-06-06,Atlético Goianiense,2-1,Cruzeiro,R7
+2010-07-14,Grêmio,1-1,Vitória,R8
+2010-07-14,Atlético Paranaense,0-2,Cruzeiro,R8
+2010-07-14,São Paulo,1-2,Avaí,R8
+2010-07-14,Flamengo,1-0,Botafogo,R8
+2010-07-14,Guarani,0-3,Internacional,R8
+2010-07-14,Goiás,0-0,Vasco,R8
+2010-07-14,Ceará,0-0,Corinthians,R8
+2010-07-15,Palmeiras,2-1,Santos,R8
+2010-07-15,Atlético Mineiro,3-2,Atlético Goianiense,R8
+2010-07-15,Fluminense,1-1,Grêmio Barueri,R8
+2010-07-17,Vitória,3-2,São Paulo,R9
+2010-07-17,Vasco,3-1,Atlético Paranaense,R9
+2010-07-18,Corinthians,1-0,Atlético Mineiro,R9
+2010-07-18,Atlético Goianiense,0-1,Flamengo,R9
+2010-07-18,Avaí,4-2,Palmeiras,R9
+2010-07-18,Internacional,2-1,Ceará,R9
+2010-07-18,Cruzeiro,1-0,Goiás,R9
+2010-07-18,Santos,0-1,Fluminense,R9
+2010-07-18,Botafogo,1-1,Guarani,R9
+2010-07-18,Grêmio Barueri,2-0,Grêmio,R9
+2010-07-21,Atlético Mineiro,1-2,Internacional,R10
+2010-07-21,Vitória,2-2,Goiás,R10
+2010-07-21,São Paulo,1-1,Grêmio Barueri,R10
+2010-07-21,Flamengo,1-1,Avaí,R10
+2010-07-21,Atlético Paranaense,2-0,Santos,R10
+2010-07-21,Grêmio,1-1,Vasco,R10
+2010-07-21,Atlético Goianiense,3-1,Corinthians,R10
+2010-07-22,Fluminense,1-0,Cruzeiro,R10
+2010-07-22,Guarani,1-1,Ceará,R10
+2010-07-22,Palmeiras,2-2,Botafogo,R10
+2010-07-24,Avaí,0-0,Atlético Mineiro,R11
+2010-07-24,Vasco,2-0,Atlético Goianiense,R11
+2010-07-24,Grêmio Barueri,0-0,Vitória,R11
+2010-07-25,Santos,1-0,São Paulo,R11
+2010-07-25,Cruzeiro,2-2,Grêmio,R11
+2010-07-25,Internacional,1-0,Flamengo,R11
+2010-07-25,Goiás,0-2,Atlético Paranaense,R11
+2010-07-25,Ceará,0-0,Palmeiras,R11
+2010-07-25,Corinthians,3-1,Guarani,R11
+2010-07-25,Botafogo,1-1,Fluminense,R11
+2010-07-31,Fluminense,3-1,Atlético Paranaense,R12
+2010-07-31,Atlético Goianiense,1-1,Guarani,R12
+2010-07-31,São Paulo,2-1,Ceará,R12
+2010-08-01,Palmeiras,1-1,Corinthians,R12
+2010-08-01,Vitória,1-3,Botafogo,R12
+2010-08-01,Avaí,4-1,Goiás,R12
+2010-08-01,Internacional,0-0,Grêmio,R12
+2010-08-01,Atlético Mineiro,0-1,Cruzeiro,R12
+2010-08-01,Grêmio Barueri,1-2,Santos,R12
+2010-08-01,Flamengo,0-0,Vasco,R12
+2010-08-07,Botafogo,3-0,Atlético Mineiro,R13
+2010-08-07,Guarani,4-1,Avaí,R13
+2010-08-08,Corinthians,1-0,Flamengo,R13
+2010-08-08,Goiás,1-1,Palmeiras,R13
+2010-08-08,Ceará,0-0,Atlético Goianiense,R13
+2010-08-08,Grêmio,1-2,Fluminense,R13
+2010-08-08,Atlético Paranaense,1-1,São Paulo,R13
+2010-08-08,Vasco,1-0,Vitória,R13
+2010-08-08,Cruzeiro,0-0,Grêmio Barueri,R13
+2010-08-14,Atlético Goianiense,0-2,Botafogo,R14
+2010-08-14,Palmeiras,2-0,Atlético Paranaense,R14
+2010-08-14,Flamengo,1-0,Ceará,R14
+2010-08-14,Atlético Mineiro,3-1,Guarani,R14
+2010-08-15,São Paulo,2-2,Cruzeiro,R14
+2010-08-15,Grêmio Barueri,1-2,Vasco,R14
+2010-08-15,Avaí,3-2,Corinthians,R14
+2010-08-15,Fluminense,3-0,Internacional,R14
+2010-08-15,Vitória,4-2,Santos,R14
+2010-08-15,Grêmio,2-0,Goiás,R14
+2010-08-21,Goiás,1-2,Grêmio Barueri,R15
+2010-08-21,Botafogo,1-0,Avaí,R15
+2010-08-21,Ceará,2-1,Grêmio,R15
+2010-08-22,Santos,2-0,Atlético Mineiro,R15
+2010-08-22,Guarani,0-0,Palmeiras,R15
+2010-08-22,Atlético Paranaense,1-0,Flamengo,R15
+2010-08-22,Internacional,1-1,Atlético Goianiense,R15
+2010-08-22,Cruzeiro,0-1,Vitória,R15
+2010-08-22,Corinthians,3-0,São Paulo,R15
+2010-08-22,Vasco,2-2,Fluminense,R15
+2010-08-25,Goiás,0-3,Fluminense,R16
+2010-08-25,Avaí,0-1,Internacional,R16
+2010-08-25,Botafogo,1-0,Ceará,R16
+2010-08-25,Grêmio Barueri,0-1,Atlético Paranaense,R16
+2010-08-25,São Paulo,0-0,Vasco,R16
+2010-08-25,Cruzeiro,1-0,Corinthians,R16
+2010-08-25,Grêmio,1-2,Santos,R16
+2010-08-26,Flamengo,0-0,Atlético Mineiro,R16
+2010-08-26,Vitória,1-1,Guarani,R16
+2010-08-26,Palmeiras,0-3,Atlético Goianiense,R16
+2010-08-28,Internacional,1-0,Botafogo,R17
+2010-08-28,Vasco,1-1,Cruzeiro,R17
+2010-08-28,Ceará,2-2,Grêmio Barueri,R17
+2010-08-28,Santos,2-0,Goiás,R17
+2010-08-29,Corinthians,2-1,Vitória,R17
+2010-08-29,Guarani,2-1,Flamengo,R17
+2010-08-29,Atlético Mineiro,1-2,Palmeiras,R17
+2010-08-29,Fluminense,2-2,São Paulo,R17
+2010-08-29,Atlético Goianiense,2-2,Avaí,R17
+2010-08-29,Atlético Paranaense,1-1,Grêmio,R17
+2010-09-01,Vitória,0-0,Internacional,R18
+2010-09-01,Grêmio,1-0,Guarani,R18
+2010-09-01,Grêmio Barueri,0-1,Botafogo,R18
+2010-09-01,Goiás,1-3,Atlético Mineiro,R18
+2010-09-01,Cruzeiro,1-0,Flamengo,R18
+2010-09-01,Atlético Paranaense,2-1,Ceará,R18
+2010-09-01,Fluminense,1-1,Palmeiras,R18
+2010-09-02,Santos,2-1,Avaí,R18
+2010-09-02,São Paulo,2-1,Atlético Goianiense,R18
+2010-09-04,Botafogo,2-2,Grêmio,R19
+2010-09-04,Ceará,0-2,Vasco,R19
+2010-09-04,Corinthians,5-1,Goiás,R19
+2010-09-05,Avaí,0-1,Atlético Paranaense,R19
+2010-09-05,Palmeiras,2-3,Cruzeiro,R19
+2010-09-05,Guarani,2-1,Fluminense,R19
+2010-09-05,Flamengo,0-0,Santos,R19
+2010-09-05,Atlético Mineiro,2-3,São Paulo,R19
+2010-09-05,Atlético Goianiense,4-1,Vitória,R19
+2010-09-05,Internacional,2-0,Grêmio Barueri,R19
+2010-09-08,Fluminense,3-1,Ceará,R20
+2010-09-08,Cruzeiro,1-0,Internacional,R20
+2010-09-08,Grêmio,2-0,Atlético Goianiense,R20
+2010-09-08,Goiás,3-1,Guarani,R20
+2010-09-08,São Paulo,2-0,Flamengo,R20
+2010-09-08,Vitória,1-1,Palmeiras,R20
+2010-09-08,Atlético Paranaense,1-1,Corinthians,R20
+2010-09-09,Santos,0-1,Botafogo,R20
+2010-09-09,Vasco,1-1,Atlético Mineiro,R20
+2010-09-09,Grêmio Barueri,1-1,Avaí,R20
+2010-09-11,Corinthians,0-1,Grêmio,R21
+2010-09-11,Flamengo,2-2,Vitória,R21
+2010-09-11,Atlético Goianiense,2-1,Fluminense,R21
+2010-09-12,Palmeiras,0-0,Vasco,R21
+2010-09-12,Botafogo,2-0,São Paulo,R21
+2010-09-12,Atlético Mineiro,1-0,Grêmio Barueri,R21
+2010-09-12,Avaí,1-2,Cruzeiro,R21
+2010-09-12,Guarani,1-0,Atlético Paranaense,R21
+2010-09-12,Internacional,0-0,Goiás,R21
+2010-09-12,Ceará,2-1,Santos,R21
+2010-09-15,Santos,4-2,Atlético Goianiense,R22
+2010-09-15,Cruzeiro,4-2,Guarani,R22
+2010-09-15,Grêmio,1-2,Palmeiras,R22
+2010-09-15,Goiás,4-1,Botafogo,R22
+2010-09-15,Atlético Paranaense,2-1,Atlético Mineiro,R22
+2010-09-15,Fluminense,1-2,Corinthians,R22
+2010-09-15,Grêmio Barueri,1-2,Flamengo,R22
+2010-09-15,Vitória,0-0,Ceará,R22
+2010-09-16,São Paulo,1-3,Internacional,R22
+2010-09-16,Vasco,1-1,Avaí,R22
+2010-09-18,Corinthians,3-0,Grêmio Barueri,R23
+2010-09-18,Botafogo,2-2,Cruzeiro,R23
+2010-09-18,Atlético Goianiense,1-2,Atlético Paranaense,R23
+2010-09-19,Palmeiras,0-2,São Paulo,R23
+2010-09-19,Guarani,0-0,Santos,R23
+2010-09-19,Atlético Mineiro,2-3,Vitória,R23
+2010-09-19,Internacional,1-0,Vasco,R23
+2010-09-19,Flamengo,3-3,Fluminense,R23
+2010-09-19,Ceará,1-1,Goiás,R23
+2010-09-19,Avaí,0-3,Grêmio,R23
+2010-09-22,São Paulo,2-1,Guarani,R24
+2010-09-22,Grêmio Barueri,0-1,Palmeiras,R24
+2010-09-22,Cruzeiro,2-0,Ceará,R24
+2010-09-22,Goiás,1-3,Atlético Goianiense,R24
+2010-09-22,Vasco,2-2,Botafogo,R24
+2010-09-22,Santos,2-3,Corinthians,R24
+2010-09-22,Grêmio,2-2,Flamengo,R24
+2010-09-22,Atlético Paranaense,1-0,Internacional,R24
+2010-09-23,Fluminense,5-1,Atlético Mineiro,R24
+2010-09-23,Vitória,3-0,Avaí,R24
+2010-09-25,São Paulo,0-3,Goiás,R25
+2010-09-25,Santos,4-1,Cruzeiro,R25
+2010-09-25,Flamengo,1-3,Palmeiras,R25
+2010-09-25,Guarani,1-0,Vasco,R25
+2010-09-25,Atlético Goianiense,3-0,Grêmio Barueri,R25
+2010-09-26,Botafogo,1-1,Atlético Paranaense,R25
+2010-09-26,Internacional,3-2,Corinthians,R25
+2010-09-26,Vitória,1-2,Fluminense,R25
+2010-09-26,Atlético Mineiro,1-2,Grêmio,R25
+2010-09-26,Avaí,5-0,Ceará,R25
+2010-09-28,Vasco,3-1,Santos,R26
+2010-09-28,Goiás,1-1,Flamengo,R26
+2010-09-29,Palmeiras,2-0,Internacional,R26
+2010-09-29,Grêmio Barueri,4-2,Guarani,R26
+2010-09-29,Cruzeiro,3-0,Atlético Goianiense,R26
+2010-09-29,Atlético Paranaense,1-0,Vitória,R26
+2010-09-29,Fluminense,1-0,Avaí,R26
+2010-09-29,Corinthians,1-1,Botafogo,R26
+2010-09-29,Grêmio,4-2,São Paulo,R26
+2010-09-29,Ceará,0-0,Atlético Mineiro,R26
+2010-10-02,Corinthians,2-2,Ceará,R27
+2010-10-02,Santos,1-1,Palmeiras,R27
+2010-10-02,Grêmio Barueri,1-1,Fluminense,R27
+2010-10-02,Vitória,0-3,Grêmio,R27
+2010-10-02,Botafogo,1-1,Flamengo,R27
+2010-10-02,Cruzeiro,0-0,Atlético Paranaense,R27
+2010-10-02,Internacional,3-0,Guarani,R27
+2010-10-02,Atlético Goianiense,2-3,Atlético Mineiro,R27
+2010-10-02,Avaí,0-0,São Paulo,R27
+2010-10-03,Vasco,3-2,Goiás,R27
+2010-10-06,Fluminense,0-3,Santos,R28
+2010-10-06,Guarani,1-1,Botafogo,R28
+2010-10-06,Grêmio,4-0,Grêmio Barueri,R28
+2010-10-06,São Paulo,2-0,Vitória,R28
+2010-10-06,Atlético Mineiro,2-1,Corinthians,R28
+2010-10-06,Ceará,1-0,Internacional,R28
+2010-10-06,Atlético Paranaense,0-0,Vasco,R28
+2010-10-07,Palmeiras,4-1,Avaí,R28
+2010-10-07,Flamengo,2-0,Atlético Goianiense,R28
+2010-10-07,Goiás,0-1,Cruzeiro,R28
+2010-10-09,Santos,2-0,Atlético Paranaense,R29
+2010-10-09,Vasco,3-3,Grêmio,R29
+2010-10-09,Grêmio Barueri,2-3,São Paulo,R29
+2010-10-10,Corinthians,3-4,Atlético Goianiense,R29
+2010-10-10,Botafogo,0-0,Palmeiras,R29
+2010-10-10,Cruzeiro,1-0,Fluminense,R29
+2010-10-10,Goiás,1-0,Vitória,R29
+2010-10-10,Avaí,2-2,Flamengo,R29
+2010-10-10,Internacional,1-0,Atlético Mineiro,R29
+2010-10-10,Ceará,2-0,Guarani,R29
+2010-10-13,Santos,1-0,Internacional,R13
+2010-10-13,Vasco,2-0,Corinthians,R18
+2010-10-16,Flamengo,3-0,Internacional,R30
+2010-10-16,Atlético Paranaense,2-1,Goiás,R30
+2010-10-17,Guarani,0-0,Corinthians,R30
+2010-10-17,Atlético Mineiro,2-0,Avaí,R30
+2010-10-17,Grêmio,2-1,Cruzeiro,R30
+2010-10-17,Atlético Goianiense,2-0,Vasco,R30
+2010-10-17,São Paulo,4-3,Santos,R30
+2010-10-17,Palmeiras,1-1,Ceará,R30
+2010-10-17,Fluminense,0-0,Botafogo,R30
+2010-10-17,Vitória,2-0,Grêmio Barueri,R30
+2010-10-23,Botafogo,1-0,Vitória,R31
+2010-10-23,Guarani,0-1,Atlético Goianiense,R31
+2010-10-24,Corinthians,1-0,Palmeiras,R31
+2010-10-24,Goiás,1-0,Avaí,R31
+2010-10-24,Ceará,2-0,São Paulo,R31
+2010-10-24,Atlético Paranaense,2-2,Fluminense,R31
+2010-10-24,Santos,2-3,Grêmio Barueri,R31
+2010-10-24,Vasco,1-1,Flamengo,R31
+2010-10-24,Cruzeiro,3-4,Atlético Mineiro,R31
+2010-10-24,Grêmio,2-2,Internacional,R31
+2010-10-27,Flamengo,1-1,Corinthians,R32
+2010-10-28,São Paulo,2-1,Atlético Paranaense,R32
+2010-10-28,Fluminense,2-0,Grêmio,R32
+2010-10-28,Atlético Goianiense,1-1,Ceará,R32
+2010-10-30,Internacional,1-1,Santos,R32
+2010-10-30,Vitória,4-2,Vasco,R32
+2010-10-30,Palmeiras,3-2,Goiás,R32
+2010-10-30,Grêmio Barueri,0-2,Cruzeiro,R32
+2010-10-30,Atlético Mineiro,0-2,Botafogo,R32
+2010-10-30,Avaí,1-0,Guarani,R32
+2010-11-03,Santos,1-1,Vitória,R33
+2010-11-03,Botafogo,3-2,Atlético Goianiense,R33
+2010-11-03,Guarani,0-0,Atlético Mineiro,R33
+2010-11-03,Internacional,0-0,Fluminense,R33
+2010-11-03,Goiás,0-2,Grêmio,R33
+2010-11-03,Corinthians,4-0,Avaí,R33
+2010-11-03,Cruzeiro,0-2,São Paulo,R33
+2010-11-03,Ceará,2-2,Flamengo,R33
+2010-11-04,Vasco,2-1,Grêmio Barueri,R33
+2010-11-04,Atlético Paranaense,1-0,Palmeiras,R33
+2010-11-06,Atlético Mineiro,2-2,Santos,R34
+2010-11-06,Grêmio,5-1,Ceará,R34
+2010-11-06,Atlético Goianiense,2-2,Internacional,R34
+2010-11-07,São Paulo,0-2,Corinthians,R34
+2010-11-07,Grêmio Barueri,4-1,Goiás,R34
+2010-11-07,Vitória,0-1,Cruzeiro,R34
+2010-11-07,Avaí,0-0,Botafogo,R34
+2010-11-07,Palmeiras,1-0,Guarani,R34
+2010-11-07,Flamengo,0-1,Atlético Paranaense,R34
+2010-11-07,Fluminense,1-0,Vasco,R34
+2010-11-10,Ceará,2-2,Botafogo,R35
+2010-11-13,Corinthians,1-0,Cruzeiro,R35
+2010-11-13,Santos,0-0,Grêmio,R35
+2010-11-13,Atlético Mineiro,4-1,Flamengo,R35
+2010-11-14,Fluminense,1-1,Goiás,R35
+2010-11-14,Guarani,1-1,Vitória,R35
+2010-11-14,Internacional,2-3,Avaí,R35
+2010-11-14,Atlético Goianiense,3-0,Palmeiras,R35
+2010-11-14,Vasco,1-1,São Paulo,R35
+2010-11-14,Atlético Paranaense,2-1,Grêmio Barueri,R35
+2010-11-20,Flamengo,2-1,Guarani,R36
+2010-11-20,Grêmio Barueri,1-1,Ceará,R36
+2010-11-20,Grêmio,3-1,Atlético Paranaense,R36
+2010-11-21,São Paulo,1-4,Fluminense,R36
+2010-11-21,Palmeiras,0-2,Atlético Mineiro,R36
+2010-11-21,Botafogo,1-2,Internacional,R36
+2010-11-21,Vitória,1-1,Corinthians,R36
+2010-11-21,Cruzeiro,3-1,Vasco,R36
+2010-11-21,Goiás,1-4,Santos,R36
+2010-11-21,Avaí,3-0,Atlético Goianiense,R36
+2010-11-28,Corinthians,2-0,Vasco,R37
+2010-11-28,Palmeiras,1-2,Fluminense,R37
+2010-11-28,Flamengo,1-2,Cruzeiro,R37
+2010-11-28,Botafogo,3-1,Grêmio Barueri,R37
+2010-11-28,Guarani,0-3,Grêmio,R37
+2010-11-28,Atlético Mineiro,3-1,Goiás,R37
+2010-11-28,Internacional,1-1,Vitória,R37
+2010-11-28,Atlético Goianiense,1-1,São Paulo,R37
+2010-11-28,Ceará,1-1,Atlético Paranaense,R37
+2010-11-28,Avaí,3-2,Santos,R37
+2010-12-02,Grêmio Barueri,0-3,Internacional,R38
+2010-12-05,São Paulo,4-0,Atlético Mineiro,R38
+2010-12-05,Santos,0-0,Flamengo,R38
+2010-12-05,Vasco,2-0,Ceará,R38
+2010-12-05,Fluminense,1-0,Guarani,R38
+2010-12-05,Cruzeiro,2-1,Palmeiras,R38
+2010-12-05,Grêmio,3-0,Botafogo,R38
+2010-12-05,Goiás,1-1,Corinthians,R38
+2010-12-05,Vitória,0-0,Atlético Goianiense,R38
+2010-12-05,Atlético Paranaense,1-0,Avaí,R38

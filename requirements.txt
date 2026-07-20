@@ -2,7 +2,7 @@
 # Gerado para Python 3.10+
 
 # --- Web Scraping (Camada Bronze) ---
-requests>=2.31.0
+playwright>=1.44.0
 beautifulsoup4>=4.12.0
 lxml>=5.2.0          # Parser HTML/XML de alta performance para BeautifulSoup
 
@@ -10,13 +10,9 @@ lxml>=5.2.0          # Parser HTML/XML de alta performance para BeautifulSoup
 pandas>=2.2.0
 numpy>=1.26.0
 
-# --- Banco de Dados (Camada Ouro / Load) ---
-SQLAlchemy>=2.0.0
-psycopg[binary]>=3.1.0        # Driver PostgreSQL (v3 — resolve bug de locale no Windows)
-
-# --- API REST ---
-fastapi>=0.111.0
-uvicorn[standard]>=0.29.0
+# --- Google Sheets (Camada Load) ---
+gspread>=6.1.0            # Cliente da API do Google Sheets
+google-auth>=2.29.0       # Autenticação via Service Account
 
 # --- Utilitários ---
-python-dotenv>=1.0.0     # Leitura do .env
+python-dotenv>=1.0.0     # Leitura do .env (desenvolvimento local)

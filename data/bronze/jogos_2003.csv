@@ -1,0 +1,553 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2003-03-29,Guarani,4-2,Vasco,R1
+2003-03-29,Atlético Paranaense,2-0,Grêmio,R1
+2003-03-30,Goiás,2-2,Paysandu,R1
+2003-03-30,Flamengo,1-1,Coritiba,R1
+2003-03-30,Criciúma,2-0,Fluminense,R1
+2003-03-30,Juventude,2-2,São Paulo,R1
+2003-03-30,Fortaleza,0-0,Bahia,R1
+2003-03-30,Vitória,1-1,Figueirense,R1
+2003-03-30,Cruzeiro,2-2,São Caetano,R1
+2003-03-30,Internacional,1-1,Ponte Preta,R1
+2003-03-30,Corinthians,0-3,Atlético Mineiro,R1
+2003-03-30,Santos,2-2,Paraná,R1
+2003-04-05,Fluminense,1-1,Fortaleza,R2
+2003-04-05,Atlético Mineiro,0-0,Santos,R2
+2003-04-05,Coritiba,0-1,Internacional,R2
+2003-04-05,Grêmio,3-1,Guarani,R2
+2003-04-06,Bahia,1-2,Flamengo,R2
+2003-04-06,Figueirense,3-3,Corinthians,R2
+2003-04-06,Paysandu,1-2,Vitória,R2
+2003-04-06,Ponte Preta,1-0,Juventude,R2
+2003-04-06,Paraná,3-0,Atlético Paranaense,R2
+2003-04-06,São Caetano,3-2,Criciúma,R2
+2003-04-06,Vasco,6-4,Goiás,R2
+2003-04-06,São Paulo,2-4,Cruzeiro,R2
+2003-04-09,Paysandu,2-1,Santos,R4
+2003-04-12,Internacional,2-0,Bahia,R3
+2003-04-12,Atlético Paranaense,1-2,Atlético Mineiro,R3
+2003-04-12,Santos,2-0,Figueirense,R3
+2003-04-12,Corinthians,6-1,Paysandu,R3
+2003-04-13,Vitória,2-1,Vasco,R3
+2003-04-13,Criciúma,1-1,São Paulo,R3
+2003-04-13,Fortaleza,1-1,São Caetano,R3
+2003-04-13,Juventude,2-1,Coritiba,R3
+2003-04-13,Guarani,2-0,Paraná,R3
+2003-04-13,Goiás,1-1,Grêmio,R3
+2003-04-13,Cruzeiro,3-0,Ponte Preta,R3
+2003-04-13,Flamengo,4-1,Fluminense,R3
+2003-04-16,Bahia,3-1,Juventude,R4
+2003-04-16,Grêmio,2-1,Vitória,R4
+2003-04-16,Atlético Mineiro,3-2,Guarani,R4
+2003-04-16,Figueirense,1-1,Atlético Paranaense,R4
+2003-04-16,Ponte Preta,1-1,Criciúma,R4
+2003-04-16,São Caetano,1-1,Flamengo,R4
+2003-04-16,Vasco,2-2,Corinthians,R4
+2003-04-16,Coritiba,3-4,Cruzeiro,R4
+2003-04-17,Fluminense,3-1,Internacional,R4
+2003-04-17,Paraná,3-1,Goiás,R4
+2003-04-17,São Paulo,3-1,Fortaleza,R4
+2003-04-19,Bahia,2-4,Atlético Mineiro,R5
+2003-04-19,São Caetano,1-1,Grêmio,R5
+2003-04-19,Flamengo,0-2,Santos,R5
+2003-04-20,São Paulo,3-1,Vasco,R5
+2003-04-20,Internacional,2-1,Corinthians,R5
+2003-04-20,Ponte Preta,4-4,Paysandu,R5
+2003-04-20,Fortaleza,1-0,Atlético Paranaense,R5
+2003-04-20,Juventude,1-1,Vitória,R5
+2003-04-20,Criciúma,1-0,Guarani,R5
+2003-04-20,Fluminense,0-0,Paraná,R5
+2003-04-20,Cruzeiro,4-1,Goiás,R5
+2003-04-21,Coritiba,1-0,Figueirense,R5
+2003-04-26,Paraná,3-1,Bahia,R6
+2003-04-26,Vitória,0-3,Internacional,R6
+2003-04-26,Atlético Mineiro,1-2,Coritiba,R6
+2003-04-26,Guarani,1-1,Cruzeiro,R6
+2003-04-27,Grêmio,0-1,Fluminense,R6
+2003-04-27,Corinthians,1-1,Flamengo,R6
+2003-04-27,Goiás,7-0,Juventude,R6
+2003-04-27,Santos,4-0,Fortaleza,R6
+2003-04-27,Atlético Paranaense,5-2,Criciúma,R6
+2003-04-27,Figueirense,0-0,Ponte Preta,R6
+2003-04-27,Vasco,1-0,São Caetano,R6
+2003-04-27,Paysandu,5-2,São Paulo,R6
+2003-05-03,Flamengo,2-1,Vitória,R7
+2003-05-03,Bahia,2-1,Grêmio,R7
+2003-05-03,Cruzeiro,5-2,Atlético Paranaense,R7
+2003-05-04,Fortaleza,1-2,Corinthians,R7
+2003-05-04,São Paulo,3-2,Figueirense,R7
+2003-05-04,São Caetano,2-0,Paysandu,R7
+2003-05-04,Internacional,2-1,Goiás,R7
+2003-05-04,Ponte Preta,2-1,Atlético Mineiro,R7
+2003-05-04,Juventude,1-1,Guarani,R7
+2003-05-04,Coritiba,2-1,Paraná,R7
+2003-05-04,Fluminense,0-0,Vasco,R7
+2003-05-04,Criciúma,1-3,Santos,R7
+2003-05-10,Goiás,1-1,Flamengo,R8
+2003-05-10,Santos,0-2,Cruzeiro,R8
+2003-05-10,Paraná,3-2,Ponte Preta,R8
+2003-05-10,Corinthians,3-0,Criciúma,R8
+2003-05-11,Vasco,1-1,Bahia,R8
+2003-05-11,Paysandu,2-2,Fluminense,R8
+2003-05-11,Atlético Mineiro,2-2,São Paulo,R8
+2003-05-11,Vitória,2-1,Fortaleza,R8
+2003-05-11,Guarani,3-0,Internacional,R8
+2003-05-11,Atlético Paranaense,2-0,Juventude,R8
+2003-05-11,Figueirense,3-0,São Caetano,R8
+2003-05-11,Grêmio,1-0,Coritiba,R8
+2003-05-17,Fluminense,3-0,Figueirense,R9
+2003-05-17,São Caetano,2-0,Atlético Mineiro,R9
+2003-05-17,Juventude,1-1,Santos,R9
+2003-05-18,Bahia,2-0,Paysandu,R9
+2003-05-18,Coritiba,1-1,Vasco,R9
+2003-05-18,Fortaleza,1-0,Goiás,R9
+2003-05-18,Cruzeiro,1-1,Corinthians,R9
+2003-05-18,Ponte Preta,2-1,Grêmio,R9
+2003-05-18,Criciúma,1-1,Vitória,R9
+2003-05-18,Internacional,1-1,Atlético Paranaense,R9
+2003-05-18,São Paulo,2-0,Paraná,R9
+2003-05-18,Flamengo,1-1,Guarani,R9
+2003-05-24,Atlético Mineiro,3-0,Fluminense,R10
+2003-05-24,Corinthians,3-0,Juventude,R10
+2003-05-24,Paraná,1-1,São Caetano,R10
+2003-05-24,Vasco,1-0,Ponte Preta,R10
+2003-05-25,Atlético Paranaense,4-1,Flamengo,R10
+2003-05-25,Paysandu,1-3,Coritiba,R10
+2003-05-25,Goiás,0-2,Criciúma,R10
+2003-05-25,Grêmio,1-2,São Paulo,R10
+2003-05-25,Guarani,2-1,Fortaleza,R10
+2003-05-25,Figueirense,1-0,Bahia,R10
+2003-05-25,Vitória,2-1,Cruzeiro,R10
+2003-05-25,Santos,2-1,Internacional,R10
+2003-05-31,Fluminense,2-1,Atlético Paranaense,R11
+2003-05-31,Cruzeiro,2-0,Criciúma,R11
+2003-05-31,Coritiba,3-2,Guarani,R11
+2003-05-31,Ponte Preta,0-0,São Caetano,R11
+2003-05-31,Internacional,2-1,Paysandu,R11
+2003-06-01,Paraná,6-2,Flamengo,R11
+2003-06-01,Bahia,2-1,Goiás,R11
+2003-06-01,Santos,3-2,São Paulo,R11
+2003-06-01,Fortaleza,3-1,Juventude,R11
+2003-06-01,Figueirense,2-1,Grêmio,R11
+2003-06-01,Vasco,2-2,Atlético Mineiro,R11
+2003-06-01,Corinthians,4-0,Vitória,R11
+2003-06-07,Vitória,2-1,Fluminense,R12
+2003-06-07,Guarani,1-2,Santos,R12
+2003-06-07,Grêmio,3-1,Fortaleza,R12
+2003-06-07,Atlético Mineiro,1-1,Figueirense,R12
+2003-06-08,Juventude,0-0,Vasco,R12
+2003-06-08,Goiás,1-2,Coritiba,R12
+2003-06-08,São Caetano,1-0,Corinthians,R12
+2003-06-08,Paysandu,3-0,Paraná,R12
+2003-06-08,Atlético Paranaense,4-2,Ponte Preta,R12
+2003-06-08,Criciúma,1-0,Internacional,R12
+2003-06-08,São Paulo,2-2,Bahia,R12
+2003-06-14,Fluminense,2-3,Goiás,R13
+2003-06-14,Ponte Preta,0-2,Guarani,R13
+2003-06-14,Coritiba,2-0,Atlético Paranaense,R13
+2003-06-15,Bahia,2-1,Vitória,R13
+2003-06-15,Corinthians,1-2,São Paulo,R13
+2003-06-15,Fortaleza,1-2,Paysandu,R13
+2003-06-15,Paraná,1-2,Juventude,R13
+2003-06-15,Grêmio,0-0,Internacional,R13
+2003-06-15,Santos,0-1,São Caetano,R13
+2003-06-15,Criciúma,1-0,Figueirense,R13
+2003-06-15,Vasco,1-2,Flamengo,R13
+2003-06-15,Cruzeiro,0-0,Atlético Mineiro,R13
+2003-06-18,Flamengo,3-0,Cruzeiro,R12
+2003-06-19,Bahia,2-2,Coritiba,R14
+2003-06-21,Vasco,2-0,Criciúma,R14
+2003-06-21,Atlético Mineiro,3-2,Grêmio,R14
+2003-06-21,Internacional,2-1,Paraná,R14
+2003-06-21,São Paulo,1-0,Goiás,R14
+2003-06-22,Paysandu,2-2,Flamengo,R14
+2003-06-22,Ponte Preta,3-3,Corinthians,R14
+2003-06-22,Figueirense,2-2,Fortaleza,R14
+2003-06-22,São Caetano,2-1,Vitória,R14
+2003-06-22,Fluminense,5-2,Guarani,R14
+2003-06-22,Juventude,0-1,Cruzeiro,R14
+2003-06-28,Fortaleza,0-1,Vasco,R15
+2003-06-28,Coritiba,2-0,São Caetano,R15
+2003-06-28,Grêmio,1-4,Juventude,R15
+2003-06-28,Santos,4-0,Bahia,R15
+2003-06-28,Flamengo,0-2,Figueirense,R15
+2003-06-29,Corinthians,1-0,Fluminense,R15
+2003-06-29,Guarani,0-1,São Paulo,R15
+2003-06-29,Criciúma,2-0,Paysandu,R15
+2003-06-29,Vitória,1-0,Atlético Paranaense,R15
+2003-06-29,Paraná,1-1,Atlético Mineiro,R15
+2003-06-29,Cruzeiro,3-2,Internacional,R15
+2003-07-05,Vasco,1-4,Paraná,R16
+2003-07-05,São Paulo,1-1,São Caetano,R16
+2003-07-05,Figueirense,1-0,Cruzeiro,R16
+2003-07-05,Atlético Mineiro,3-2,Paysandu,R16
+2003-07-06,Juventude,1-1,Internacional,R16
+2003-07-06,Grêmio,2-0,Flamengo,R16
+2003-07-06,Guarani,3-2,Goiás,R16
+2003-07-06,Atlético Paranaense,3-1,Corinthians,R16
+2003-07-06,Fortaleza,0-1,Criciúma,R16
+2003-07-06,Vitória,1-4,Ponte Preta,R16
+2003-07-06,Fluminense,1-0,Bahia,R16
+2003-07-06,Santos,3-1,Coritiba,R16
+2003-07-09,São Caetano,0-0,Atlético Paranaense,R17
+2003-07-09,Corinthians,1-1,Santos,R17
+2003-07-09,Cruzeiro,2-0,Fortaleza,R17
+2003-07-09,Bahia,2-0,Guarani,R17
+2003-07-09,Flamengo,2-1,Juventude,R17
+2003-07-09,Goiás,1-1,Vitória,R17
+2003-07-09,Paysandu,1-0,Figueirense,R17
+2003-07-09,Internacional,2-1,Vasco,R17
+2003-07-09,Coritiba,0-2,São Paulo,R17
+2003-07-10,Paraná,3-1,Grêmio,R17
+2003-07-10,Ponte Preta,3-0,Fluminense,R17
+2003-07-10,Criciúma,1-0,Atlético Mineiro,R17
+2003-07-12,Atlético Paranaense,0-0,Goiás,R18
+2003-07-12,Fortaleza,3-0,Internacional,R18
+2003-07-12,Vasco,0-2,Paysandu,R18
+2003-07-13,Atlético Mineiro,1-0,Flamengo,R18
+2003-07-13,Ponte Preta,1-0,Bahia,R18
+2003-07-13,Corinthians,0-1,Coritiba,R18
+2003-07-13,Criciúma,3-0,Juventude,R18
+2003-07-13,Figueirense,4-2,Paraná,R18
+2003-07-13,São Caetano,0-2,Guarani,R18
+2003-07-13,Fluminense,1-3,São Paulo,R18
+2003-07-13,Grêmio,0-1,Cruzeiro,R18
+2003-07-13,Vitória,2-0,Santos,R18
+2003-07-16,Flamengo,0-2,Fortaleza,R19
+2003-07-16,Bahia,0-0,São Caetano,R19
+2003-07-16,Guarani,2-2,Vitória,R19
+2003-07-16,Internacional,3-3,Atlético Mineiro,R19
+2003-07-16,Juventude,1-2,Figueirense,R19
+2003-07-16,Coritiba,3-0,Fluminense,R19
+2003-07-16,Santos,2-1,Ponte Preta,R19
+2003-07-16,Cruzeiro,4-1,Vasco,R19
+2003-07-16,Goiás,1-1,Corinthians,R19
+2003-07-17,Paysandu,1-1,Grêmio,R19
+2003-07-17,São Paulo,2-0,Atlético Paranaense,R19
+2003-07-19,Fluminense,1-4,Santos,R20
+2003-07-19,Corinthians,1-0,Guarani,R20
+2003-07-19,Fortaleza,4-3,Atlético Mineiro,R20
+2003-07-19,Internacional,3-0,Figueirense,R20
+2003-07-20,Juventude,2-0,Paysandu,R20
+2003-07-20,Atlético Paranaense,2-1,Bahia,R20
+2003-07-20,Ponte Preta,1-1,Coritiba,R20
+2003-07-20,Criciúma,4-3,Flamengo,R20
+2003-07-20,Goiás,2-1,São Caetano,R20
+2003-07-20,Vitória,0-2,São Paulo,R20
+2003-07-20,Cruzeiro,5-1,Paraná,R20
+2003-07-20,Vasco,2-0,Grêmio,R20
+2003-07-23,Atlético Mineiro,2-1,Juventude,R21
+2003-07-23,Guarani,1-0,Atlético Paranaense,R21
+2003-07-23,Paraná,4-1,Fortaleza,R21
+2003-07-23,Paysandu,3-0,Cruzeiro,R21
+2003-07-23,Figueirense,0-0,Vasco,R21
+2003-07-23,Santos,3-3,Goiás,R21
+2003-07-23,Bahia,0-0,Corinthians,R21
+2003-07-24,Coritiba,1-1,Vitória,R21
+2003-07-24,São Paulo,1-2,Ponte Preta,R21
+2003-07-24,Flamengo,2-1,Internacional,R21
+2003-07-24,São Caetano,2-0,Fluminense,R21
+2003-07-24,Grêmio,0-2,Criciúma,R21
+2003-07-26,Santos,2-1,Vasco,R22
+2003-07-26,Goiás,1-1,Atlético Mineiro,R22
+2003-07-26,Atlético Paranaense,1-1,Paysandu,R22
+2003-07-27,Fortaleza,2-3,Ponte Preta,R22
+2003-07-27,Vitória,0-3,Paraná,R22
+2003-07-27,Criciúma,2-3,Coritiba,R22
+2003-07-27,Guarani,3-0,Figueirense,R22
+2003-07-27,Flamengo,1-1,São Paulo,R22
+2003-07-27,Juventude,2-1,Fluminense,R22
+2003-07-27,Corinthians,1-0,Grêmio,R22
+2003-07-27,Internacional,0-0,São Caetano,R22
+2003-07-27,Cruzeiro,5-2,Bahia,R22
+2003-07-30,Atlético Paranaense,0-2,Santos,R14
+2003-07-30,Goiás,0-0,Ponte Preta,R15
+2003-07-31,Paraná,2-1,Criciúma,R19
+2003-08-02,Fluminense,2-2,Cruzeiro,R23
+2003-08-02,Grêmio,2-0,Santos,R23
+2003-08-02,São Caetano,1-1,Juventude,R23
+2003-08-02,São Paulo,0-2,Internacional,R23
+2003-08-03,Figueirense,0-1,Goiás,R23
+2003-08-03,Paraná,1-1,Corinthians,R23
+2003-08-03,Paysandu,6-1,Guarani,R23
+2003-08-03,Coritiba,1-1,Fortaleza,R23
+2003-08-03,Bahia,2-2,Criciúma,R23
+2003-08-03,Ponte Preta,1-1,Flamengo,R23
+2003-08-03,Vasco,2-1,Atlético Paranaense,R23
+2003-08-03,Atlético Mineiro,1-0,Vitória,R23
+2003-08-06,Vitória,1-1,Paysandu,R24
+2003-08-06,Atlético Paranaense,1-0,Paraná,R24
+2003-08-06,Criciúma,0-1,São Caetano,R24
+2003-08-06,Fortaleza,3-1,Fluminense,R24
+2003-08-06,Juventude,0-0,Ponte Preta,R24
+2003-08-06,Goiás,3-1,Vasco,R24
+2003-08-06,Santos,3-3,Atlético Mineiro,R24
+2003-08-06,Cruzeiro,1-1,São Paulo,R24
+2003-08-07,Internacional,1-0,Coritiba,R24
+2003-08-07,Flamengo,6-0,Bahia,R24
+2003-08-07,Corinthians,0-1,Figueirense,R24
+2003-08-07,Guarani,2-0,Grêmio,R24
+2003-08-09,Fluminense,1-1,Criciúma,R25
+2003-08-09,São Caetano,2-0,Cruzeiro,R25
+2003-08-09,Paraná,1-2,Santos,R25
+2003-08-09,São Paulo,3-1,Juventude,R25
+2003-08-10,Paysandu,2-2,Goiás,R25
+2003-08-10,Ponte Preta,1-4,Internacional,R25
+2003-08-10,Coritiba,5-0,Flamengo,R25
+2003-08-10,Atlético Mineiro,2-3,Corinthians,R25
+2003-08-10,Bahia,1-0,Fortaleza,R25
+2003-08-10,Figueirense,1-2,Vitória,R25
+2003-08-10,Grêmio,1-1,Atlético Paranaense,R25
+2003-08-10,Vasco,0-0,Guarani,R25
+2003-08-16,Vasco,1-0,Vitória,R26
+2003-08-16,Bahia,1-3,Internacional,R26
+2003-08-16,Figueirense,1-0,Santos,R26
+2003-08-16,Coritiba,1-0,Juventude,R26
+2003-08-16,Atlético Mineiro,1-2,Atlético Paranaense,R26
+2003-08-16,São Paulo,0-0,Criciúma,R26
+2003-08-17,Paysandu,2-2,Corinthians,R26
+2003-08-17,São Caetano,3-0,Fortaleza,R26
+2003-08-17,Ponte Preta,1-3,Cruzeiro,R26
+2003-08-17,Grêmio,0-1,Goiás,R26
+2003-08-17,Paraná,0-0,Guarani,R26
+2003-08-17,Fluminense,0-1,Flamengo,R26
+2003-08-20,Flamengo,1-0,São Caetano,R27
+2003-08-20,Goiás,1-0,Paraná,R27
+2003-08-20,Juventude,1-0,Bahia,R27
+2003-08-20,Cruzeiro,2-2,Coritiba,R27
+2003-08-20,Atlético Paranaense,1-2,Figueirense,R27
+2003-08-20,Vitória,4-1,Grêmio,R27
+2003-08-20,Santos,2-0,Paysandu,R27
+2003-08-20,Corinthians,0-0,Vasco,R27
+2003-08-20,Fortaleza,0-2,São Paulo,R27
+2003-08-21,Internacional,0-1,Fluminense,R27
+2003-08-21,Criciúma,3-0,Ponte Preta,R27
+2003-08-21,Guarani,2-2,Atlético Mineiro,R27
+2003-08-23,Santos,2-1,Flamengo,R28
+2003-08-23,Atlético Paranaense,3-1,Fortaleza,R28
+2003-08-23,Goiás,1-0,Cruzeiro,R28
+2003-08-23,Grêmio,0-0,São Caetano,R28
+2003-08-24,Vasco,3-2,São Paulo,R28
+2003-08-24,Paysandu,3-2,Ponte Preta,R28
+2003-08-24,Paraná,2-0,Fluminense,R28
+2003-08-24,Vitória,3-0,Juventude,R28
+2003-08-24,Figueirense,1-2,Coritiba,R28
+2003-08-24,Guarani,1-0,Criciúma,R28
+2003-08-24,Corinthians,3-1,Internacional,R28
+2003-08-24,Atlético Mineiro,1-0,Bahia,R28
+2003-08-30,Fluminense,2-0,Grêmio,R29
+2003-08-30,Fortaleza,0-0,Santos,R29
+2003-08-30,Internacional,0-1,Vitória,R29
+2003-08-30,Cruzeiro,4-1,Guarani,R29
+2003-08-30,São Paulo,1-0,Paysandu,R29
+2003-08-31,São Caetano,1-0,Vasco,R29
+2003-08-31,Juventude,0-2,Goiás,R29
+2003-08-31,Flamengo,1-0,Corinthians,R29
+2003-08-31,Bahia,4-2,Paraná,R29
+2003-08-31,Ponte Preta,1-1,Figueirense,R29
+2003-08-31,Coritiba,2-2,Atlético Mineiro,R29
+2003-08-31,Criciúma,2-0,Atlético Paranaense,R29
+2003-09-13,Santos,5-2,Criciúma,R30
+2003-09-13,Atlético Paranaense,1-4,Cruzeiro,R30
+2003-09-13,Corinthians,2-0,Fortaleza,R30
+2003-09-13,Grêmio,1-1,Bahia,R30
+2003-09-14,Vitória,1-0,Flamengo,R30
+2003-09-14,Goiás,3-1,Internacional,R30
+2003-09-14,Figueirense,2-2,São Paulo,R30
+2003-09-14,Paysandu,1-0,São Caetano,R30
+2003-09-14,Guarani,2-0,Juventude,R30
+2003-09-14,Paraná,2-3,Coritiba,R30
+2003-09-14,Vasco,1-0,Fluminense,R30
+2003-09-14,Atlético Mineiro,2-0,Ponte Preta,R30
+2003-09-20,Cruzeiro,3-0,Santos,R31
+2003-09-20,Coritiba,1-0,Grêmio,R31
+2003-09-20,Ponte Preta,4-0,Paraná,R31
+2003-09-20,Fluminense,1-1,Paysandu,R31
+2003-09-20,Internacional,2-0,Guarani,R31
+2003-09-21,Bahia,3-0,Vasco,R31
+2003-09-21,Criciúma,1-0,Corinthians,R31
+2003-09-21,Fortaleza,1-0,Vitória,R31
+2003-09-21,Juventude,4-0,Atlético Paranaense,R31
+2003-09-21,São Caetano,0-2,Figueirense,R31
+2003-09-21,Flamengo,1-1,Goiás,R31
+2003-09-21,São Paulo,2-2,Atlético Mineiro,R31
+2003-09-24,Atlético Paranaense,2-1,Internacional,R32
+2003-09-24,Goiás,0-1,Fortaleza,R32
+2003-09-24,Paysandu,4-0,Bahia,R32
+2003-09-24,Vitória,1-1,Criciúma,R32
+2003-09-24,Grêmio,2-2,Ponte Preta,R32
+2003-09-24,Guarani,5-3,Flamengo,R32
+2003-09-24,Paraná,4-2,São Paulo,R32
+2003-09-24,Santos,1-1,Juventude,R32
+2003-09-24,Corinthians,0-1,Cruzeiro,R32
+2003-09-25,Figueirense,2-2,Fluminense,R32
+2003-09-25,Vasco,2-1,Coritiba,R32
+2003-09-25,Atlético Mineiro,3-1,São Caetano,R32
+2003-09-27,Internacional,1-0,Santos,R33
+2003-09-27,São Paulo,3-1,Grêmio,R33
+2003-09-27,Flamengo,2-1,Atlético Paranaense,R33
+2003-09-28,Fortaleza,3-0,Guarani,R33
+2003-09-28,Criciúma,1-0,Goiás,R33
+2003-09-28,Juventude,6-1,Corinthians,R33
+2003-09-28,Bahia,1-1,Figueirense,R33
+2003-09-28,Cruzeiro,1-0,Vitória,R33
+2003-09-28,São Caetano,2-0,Paraná,R33
+2003-09-28,Ponte Preta,2-2,Vasco,R33
+2003-09-28,Fluminense,0-1,Atlético Mineiro,R33
+2003-09-28,Coritiba,1-0,Paysandu,R33
+2003-10-04,Atlético Paranaense,0-0,Fluminense,R34
+2003-10-04,Paysandu,0-0,Internacional,R34
+2003-10-04,São Caetano,1-0,Ponte Preta,R34
+2003-10-04,Grêmio,3-1,Figueirense,R34
+2003-10-04,São Paulo,1-2,Santos,R34
+2003-10-05,Vitória,1-2,Corinthians,R34
+2003-10-05,Goiás,3-1,Bahia,R34
+2003-10-05,Atlético Mineiro,2-1,Vasco,R34
+2003-10-05,Juventude,2-2,Fortaleza,R34
+2003-10-05,Guarani,2-1,Coritiba,R34
+2003-10-05,Flamengo,0-3,Paraná,R34
+2003-10-05,Criciúma,1-3,Cruzeiro,R34
+2003-10-08,Vasco,1-1,Juventude,R35
+2003-10-08,Coritiba,1-0,Goiás,R35
+2003-10-08,Ponte Preta,2-2,Atlético Paranaense,R35
+2003-10-08,Corinthians,0-3,São Caetano,R35
+2003-10-08,Fortaleza,2-2,Grêmio,R35
+2003-10-08,Cruzeiro,2-0,Flamengo,R35
+2003-10-08,Bahia,3-0,São Paulo,R35
+2003-10-08,Santos,1-1,Guarani,R35
+2003-10-09,Fluminense,2-0,Vitória,R35
+2003-10-09,Paraná,4-2,Paysandu,R35
+2003-10-09,Figueirense,0-1,Atlético Mineiro,R35
+2003-10-09,Internacional,2-0,Criciúma,R35
+2003-10-11,São Caetano,2-2,Santos,R36
+2003-10-11,Atlético Paranaense,2-0,Coritiba,R36
+2003-10-11,Guarani,1-3,Ponte Preta,R36
+2003-10-12,Vitória,2-1,Bahia,R36
+2003-10-12,Goiás,6-1,Fluminense,R36
+2003-10-12,São Paulo,3-0,Corinthians,R36
+2003-10-12,Atlético Mineiro,0-1,Cruzeiro,R36
+2003-10-12,Juventude,1-1,Paraná,R36
+2003-10-12,Figueirense,4-2,Criciúma,R36
+2003-10-12,Flamengo,2-1,Vasco,R36
+2003-10-12,Internacional,0-1,Grêmio,R36
+2003-10-15,Paysandu,3-0,Fortaleza,R36
+2003-10-18,Guarani,2-0,Fluminense,R37
+2003-10-18,Goiás,3-1,São Paulo,R37
+2003-10-18,Grêmio,2-2,Atlético Mineiro,R37
+2003-10-18,Flamengo,2-0,Paysandu,R37
+2003-10-18,Coritiba,3-2,Bahia,R37
+2003-10-19,Santos,3-2,Atlético Paranaense,R37
+2003-10-19,Paraná,4-0,Internacional,R37
+2003-10-19,Criciúma,2-1,Vasco,R37
+2003-10-19,Fortaleza,1-1,Figueirense,R37
+2003-10-19,Vitória,0-0,São Caetano,R37
+2003-10-19,Corinthians,3-0,Ponte Preta,R37
+2003-10-19,Cruzeiro,1-2,Juventude,R37
+2003-10-22,Figueirense,0-0,Flamengo,R38
+2003-10-22,São Caetano,2-0,Coritiba,R38
+2003-10-22,Atlético Paranaense,1-2,Vitória,R38
+2003-10-22,Ponte Preta,0-2,Goiás,R38
+2003-10-22,Bahia,4-7,Santos,R38
+2003-10-22,Internacional,1-0,Cruzeiro,R38
+2003-10-22,Fluminense,1-0,Corinthians,R38
+2003-10-23,Atlético Mineiro,2-2,Paraná,R38
+2003-10-23,Juventude,1-2,Grêmio,R38
+2003-10-23,Vasco,1-1,Fortaleza,R38
+2003-10-23,São Paulo,3-3,Guarani,R38
+2003-10-23,Paysandu,4-0,Criciúma,R38
+2003-10-25,Bahia,2-2,Fluminense,R39
+2003-10-25,Coritiba,0-4,Santos,R39
+2003-10-25,Ponte Preta,1-1,Vitória,R39
+2003-10-25,Cruzeiro,1-0,Figueirense,R39
+2003-10-26,Paraná,3-3,Vasco,R39
+2003-10-26,Corinthians,2-3,Atlético Paranaense,R39
+2003-10-26,São Caetano,0-1,São Paulo,R39
+2003-10-26,Criciúma,2-2,Fortaleza,R39
+2003-10-26,Goiás,3-0,Guarani,R39
+2003-10-26,Paysandu,1-0,Atlético Mineiro,R39
+2003-10-26,Flamengo,2-1,Grêmio,R39
+2003-10-26,Internacional,0-0,Juventude,R39
+2003-11-01,Grêmio,0-2,Paraná,R40
+2003-11-01,Atlético Paranaense,1-0,São Caetano,R40
+2003-11-01,Guarani,3-2,Bahia,R40
+2003-11-01,Fluminense,2-2,Ponte Preta,R40
+2003-11-01,Atlético Mineiro,1-1,Criciúma,R40
+2003-11-02,Fortaleza,1-2,Cruzeiro,R40
+2003-11-02,Figueirense,6-0,Paysandu,R40
+2003-11-02,Santos,3-1,Corinthians,R40
+2003-11-02,Juventude,2-2,Flamengo,R40
+2003-11-02,Vitória,3-4,Goiás,R40
+2003-11-02,São Paulo,1-0,Coritiba,R40
+2003-11-02,Vasco,0-1,Internacional,R40
+2003-11-05,Paraná,1-1,Figueirense,R41
+2003-11-05,Juventude,3-1,Criciúma,R41
+2003-11-05,Internacional,1-1,Fortaleza,R41
+2003-11-05,Paysandu,1-2,Vasco,R41
+2003-11-05,Cruzeiro,3-0,Grêmio,R41
+2003-11-05,Coritiba,1-0,Corinthians,R41
+2003-11-05,Santos,3-1,Vitória,R41
+2003-11-05,São Paulo,1-0,Fluminense,R41
+2003-11-06,Guarani,0-1,São Caetano,R41
+2003-11-06,Goiás,4-1,Atlético Paranaense,R41
+2003-11-06,Bahia,1-0,Ponte Preta,R41
+2003-11-06,Flamengo,3-2,Atlético Mineiro,R41
+2003-11-08,Fluminense,3-2,Coritiba,R42
+2003-11-08,Criciúma,1-2,Paraná,R42
+2003-11-08,Grêmio,2-0,Paysandu,R42
+2003-11-09,Figueirense,2-1,Juventude,R42
+2003-11-09,Ponte Preta,3-4,Santos,R42
+2003-11-09,Fortaleza,4-1,Flamengo,R42
+2003-11-09,Vasco,0-1,Cruzeiro,R42
+2003-11-09,Atlético Paranaense,4-3,São Paulo,R42
+2003-11-09,São Caetano,4-1,Bahia,R42
+2003-11-09,Vitória,0-0,Guarani,R42
+2003-11-09,Corinthians,2-0,Goiás,R42
+2003-11-09,Atlético Mineiro,1-2,Internacional,R42
+2003-11-22,Coritiba,1-1,Ponte Preta,R43
+2003-11-22,Figueirense,3-2,Internacional,R43
+2003-11-22,Atlético Mineiro,2-0,Fortaleza,R43
+2003-11-22,Grêmio,4-3,Vasco,R43
+2003-11-22,Flamengo,1-0,Criciúma,R43
+2003-11-23,Santos,3-1,Fluminense,R43
+2003-11-23,Paraná,1-3,Cruzeiro,R43
+2003-11-23,São Caetano,1-0,Goiás,R43
+2003-11-23,Bahia,0-2,Atlético Paranaense,R43
+2003-11-23,São Paulo,3-1,Vitória,R43
+2003-11-23,Guarani,0-1,Corinthians,R43
+2003-11-23,Paysandu,3-2,Juventude,R43
+2003-11-29,Vasco,1-0,Figueirense,R44
+2003-11-29,Juventude,1-0,Atlético Mineiro,R44
+2003-11-29,Atlético Paranaense,3-1,Guarani,R44
+2003-11-29,Fluminense,2-1,São Caetano,R44
+2003-11-29,Internacional,3-1,Flamengo,R44
+2003-11-30,Cruzeiro,2-1,Paysandu,R44
+2003-11-30,Goiás,3-0,Santos,R44
+2003-11-30,Fortaleza,5-3,Paraná,R44
+2003-11-30,Criciúma,0-2,Grêmio,R44
+2003-11-30,Vitória,1-0,Coritiba,R44
+2003-11-30,Corinthians,1-2,Bahia,R44
+2003-11-30,Ponte Preta,1-2,São Paulo,R44
+2003-12-06,Goiás,0-3,Figueirense,R45
+2003-12-06,Vitória,0-1,Atlético Mineiro,R45
+2003-12-06,Atlético Paranaense,2-2,Vasco,R45
+2003-12-06,Corinthians,1-1,Paraná,R45
+2003-12-07,Guarani,2-1,Paysandu,R45
+2003-12-07,Cruzeiro,5-2,Fluminense,R45
+2003-12-07,Fortaleza,2-2,Coritiba,R45
+2003-12-07,Flamengo,1-1,Ponte Preta,R45
+2003-12-07,Criciúma,3-2,Bahia,R45
+2003-12-07,Santos,2-2,Grêmio,R45
+2003-12-07,Internacional,1-1,São Paulo,R45
+2003-12-07,Juventude,2-1,São Caetano,R45
+2003-12-13,Figueirense,2-0,Guarani,R46
+2003-12-13,Paraná,2-0,Vitória,R46
+2003-12-13,São Caetano,5-0,Internacional,R46
+2003-12-13,Coritiba,2-0,Criciúma,R46
+2003-12-13,Atlético Mineiro,3-2,Goiás,R46
+2003-12-14,Fluminense,1-0,Juventude,R46
+2003-12-14,Grêmio,3-0,Corinthians,R46
+2003-12-14,Paysandu,2-2,Atlético Paranaense,R46
+2003-12-14,Ponte Preta,2-0,Fortaleza,R46
+2003-12-14,Bahia,0-7,Cruzeiro,R46
+2003-12-14,São Paulo,1-3,Flamengo,R46
+2003-12-14,Vasco,1-1,Santos,R46

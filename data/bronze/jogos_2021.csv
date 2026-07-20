@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2021-05-29,Cuiabá,2-2,Juventude,R1
+2021-05-29,Bahia,3-0,Santos,R1
+2021-05-29,São Paulo,0-0,Fluminense,R1
+2021-05-30,Atlético Mineiro,1-2,Fortaleza,R1
+2021-05-30,Flamengo,1-0,Palmeiras,R1
+2021-05-30,Ceará,3-2,Grêmio,R1
+2021-05-30,Corinthians,0-1,Atlético Goianiense,R1
+2021-05-30,Athletico Paranaense,1-0,América Mineiro,R1
+2021-05-30,Chapecoense,0-3,Red Bull Bragantino,R1
+2021-05-30,Internacional,2-2,Sport,R1
+2021-06-05,Atlético Goianiense,2-0,São Paulo,R2
+2021-06-05,Santos,3-1,Ceará,R2
+2021-06-05,Red Bull Bragantino,3-3,Bahia,R2
+2021-06-06,Fluminense,1-0,Cuiabá,R2
+2021-06-06,América Mineiro,0-1,Corinthians,R2
+2021-06-06,Fortaleza,5-1,Internacional,R2
+2021-06-06,Palmeiras,3-1,Chapecoense,R2
+2021-06-06,Juventude,0-3,Athletico Paranaense,R2
+2021-06-06,Sport,0-1,Atlético Mineiro,R2
+2021-06-12,Palmeiras,1-1,Corinthians,R3
+2021-06-12,Santos,0-0,Juventude,R3
+2021-06-13,Flamengo,2-0,América Mineiro,R3
+2021-06-13,Atlético Mineiro,1-0,São Paulo,R3
+2021-06-13,Grêmio,0-1,Athletico Paranaense,R3
+2021-06-13,Fortaleza,1-0,Sport,R3
+2021-06-13,Bahia,0-1,Internacional,R3
+2021-06-13,Red Bull Bragantino,2-2,Fluminense,R3
+2021-06-13,Chapecoense,0-0,Ceará,R3
+2021-06-16,São Paulo,1-1,Chapecoense,R4
+2021-06-16,Internacional,0-1,Atlético Mineiro,R4
+2021-06-16,Corinthians,1-2,Red Bull Bragantino,R4
+2021-06-16,Juventude,0-3,Palmeiras,R4
+2021-06-17,América Mineiro,0-0,Cuiabá,R4
+2021-06-17,Ceará,1-2,Bahia,R4
+2021-06-17,Fluminense,1-0,Santos,R4
+2021-06-17,Sport,1-0,Grêmio,R4
+2021-06-17,Atlético Goianiense,0-0,Fortaleza,R4
+2021-06-19,Flamengo,2-3,Red Bull Bragantino,R5
+2021-06-20,Palmeiras,2-1,América Mineiro,R5
+2021-06-20,Internacional,1-1,Ceará,R5
+2021-06-20,Bahia,0-0,Corinthians,R5
+2021-06-20,Santos,2-0,São Paulo,R5
+2021-06-20,Fortaleza,1-1,Fluminense,R5
+2021-06-20,Athletico Paranaense,2-1,Atlético Goianiense,R5
+2021-06-20,Juventude,1-0,Sport,R5
+2021-06-21,Atlético Mineiro,1-1,Chapecoense,R5
+2021-06-23,Flamengo,2-1,Fortaleza,R6
+2021-06-23,São Paulo,2-2,Cuiabá,R6
+2021-06-23,Red Bull Bragantino,3-1,Palmeiras,R6
+2021-06-23,Atlético Goianiense,1-0,Fluminense,R6
+2021-06-24,América Mineiro,1-1,Juventude,R6
+2021-06-24,Corinthians,2-1,Sport,R6
+2021-06-24,Ceará,2-1,Atlético Mineiro,R6
+2021-06-24,Chapecoense,1-2,Internacional,R6
+2021-06-24,Grêmio,2-2,Santos,R6
+2021-06-24,Bahia,2-1,Athletico Paranaense,R6
+2021-06-27,Juventude,1-0,Flamengo,R7
+2021-06-27,Fluminense,1-1,Corinthians,R7
+2021-06-27,Palmeiras,3-2,Bahia,R7
+2021-06-27,Grêmio,0-0,Fortaleza,R7
+2021-06-27,Athletico Paranaense,2-2,Chapecoense,R7
+2021-06-27,Santos,2-0,Atlético Mineiro,R7
+2021-06-27,América Mineiro,1-1,Internacional,R7
+2021-06-27,Ceará,1-1,São Paulo,R7
+2021-06-27,Sport,0-0,Cuiabá,R7
+2021-06-28,Atlético Goianiense,0-1,Red Bull Bragantino,R7
+2021-06-30,Fluminense,1-4,Athletico Paranaense,R8
+2021-06-30,Fortaleza,3-2,Chapecoense,R8
+2021-06-30,Internacional,1-2,Palmeiras,R8
+2021-06-30,Bahia,3-4,América Mineiro,R8
+2021-06-30,Santos,0-0,Sport,R8
+2021-06-30,Corinthians,0-0,São Paulo,R8
+2021-06-30,Juventude,2-0,Grêmio,R8
+2021-07-01,Red Bull Bragantino,0-0,Ceará,R8
+2021-07-01,Atlético Mineiro,4-1,Atlético Goianiense,R8
+2021-07-01,Cuiabá,0-2,Flamengo,R8
+2021-07-03,Athletico Paranaense,2-1,Fortaleza,R9
+2021-07-03,Corinthians,1-1,Internacional,R9
+2021-07-03,América Mineiro,2-0,Santos,R9
+2021-07-04,Chapecoense,0-2,Bahia,R9
+2021-07-04,Flamengo,0-1,Fluminense,R9
+2021-07-04,Sport,0-1,Palmeiras,R9
+2021-07-04,São Paulo,1-2,Red Bull Bragantino,R9
+2021-07-04,Ceará,2-0,Juventude,R9
+2021-07-04,Cuiabá,0-1,Atlético Mineiro,R9
+2021-07-04,Grêmio,0-1,Atlético Goianiense,R9
+2021-07-06,Santos,2-1,Athletico Paranaense,R10
+2021-07-07,Fortaleza,4-0,América Mineiro,R10
+2021-07-07,Bahia,1-0,Juventude,R10
+2021-07-07,Red Bull Bragantino,1-1,Cuiabá,R10
+2021-07-07,Palmeiras,2-0,Grêmio,R10
+2021-07-07,Atlético Mineiro,2-1,Flamengo,R10
+2021-07-07,Atlético Goianiense,1-1,Sport,R10
+2021-07-07,Fluminense,0-0,Ceará,R10
+2021-07-07,Internacional,0-2,São Paulo,R10
+2021-07-08,Chapecoense,0-1,Corinthians,R10
+2021-07-10,Palmeiras,3-2,Santos,R11
+2021-07-10,Grêmio,0-0,Internacional,R11
+2021-07-10,Athletico Paranaense,2-2,Red Bull Bragantino,R11
+2021-07-10,São Paulo,1-0,Bahia,R11
+2021-07-10,América Mineiro,0-1,Atlético Mineiro,R11
+2021-07-10,Sport,1-2,Fluminense,R11
+2021-07-11,Juventude,1-1,Atlético Goianiense,R11
+2021-07-11,Flamengo,2-1,Chapecoense,R11
+2021-07-11,Cuiabá,2-2,Ceará,R11
+2021-07-11,Fortaleza,1-0,Corinthians,R11
+2021-07-17,São Paulo,0-1,Fortaleza,R12
+2021-07-17,Ceará,1-0,Athletico Paranaense,R12
+2021-07-17,Corinthians,1-2,Atlético Mineiro,R12
+2021-07-17,Fluminense,0-1,Grêmio,R12
+2021-07-18,Chapecoense,2-3,Cuiabá,R12
+2021-07-18,Atlético Goianiense,0-3,Palmeiras,R12
+2021-07-18,Bahia,0-5,Flamengo,R12
+2021-07-18,Internacional,1-0,Juventude,R12
+2021-07-18,Red Bull Bragantino,2-2,Santos,R12
+2021-07-19,América Mineiro,0-1,Sport,R12
+2021-07-21,Cuiabá,2-1,Atlético Goianiense,R3
+2021-07-24,Grêmio,1-1,América Mineiro,R13
+2021-07-24,Palmeiras,1-0,Fluminense,R13
+2021-07-25,Atlético Mineiro,3-0,Bahia,R13
+2021-07-25,Flamengo,5-1,São Paulo,R13
+2021-07-25,Fortaleza,1-0,Red Bull Bragantino,R13
+2021-07-25,Santos,0-1,Atlético Goianiense,R13
+2021-07-25,Athletico Paranaense,2-1,Internacional,R13
+2021-07-25,Sport,0-0,Ceará,R13
+2021-07-26,Juventude,1-0,Chapecoense,R13
+2021-07-26,Cuiabá,1-2,Corinthians,R13
+2021-07-31,São Paulo,0-0,Palmeiras,R14
+2021-07-31,Internacional,0-0,Cuiabá,R14
+2021-07-31,Red Bull Bragantino,1-0,Grêmio,R14
+2021-08-01,Corinthians,1-3,Flamengo,R14
+2021-08-01,Atlético Mineiro,2-0,Athletico Paranaense,R14
+2021-08-01,Bahia,0-1,Sport,R14
+2021-08-01,Chapecoense,0-1,Santos,R14
+2021-08-01,Ceará,3-1,Fortaleza,R14
+2021-08-01,Atlético Goianiense,1-1,América Mineiro,R14
+2021-08-06,Sport,0-0,Red Bull Bragantino,R15
+2021-08-07,Athletico Paranaense,1-2,São Paulo,R15
+2021-08-07,Palmeiras,2-3,Fortaleza,R15
+2021-08-07,Cuiabá,1-1,Bahia,R15
+2021-08-08,Santos,0-0,Corinthians,R15
+2021-08-08,América Mineiro,1-0,Fluminense,R15
+2021-08-08,Juventude,1-2,Atlético Mineiro,R15
+2021-08-08,Flamengo,0-4,Internacional,R15
+2021-08-08,Ceará,0-0,Atlético Goianiense,R15
+2021-08-09,Grêmio,2-1,Chapecoense,R15
+2021-08-14,Red Bull Bragantino,1-2,Juventude,R16
+2021-08-14,Atlético Mineiro,2-0,Palmeiras,R16
+2021-08-14,São Paulo,2-1,Grêmio,R16
+2021-08-15,Flamengo,2-0,Sport,R16
+2021-08-15,Corinthians,3-1,Ceará,R16
+2021-08-15,Fortaleza,1-1,Santos,R16
+2021-08-15,Bahia,1-2,Atlético Goianiense,R16
+2021-08-15,Cuiabá,1-0,Athletico Paranaense,R16
+2021-08-15,Internacional,4-2,Fluminense,R16
+2021-08-16,Chapecoense,1-1,América Mineiro,R16
+2021-08-18,Cuiabá,0-1,Grêmio,R5
+2021-08-21,Atlético Goianiense,1-1,Chapecoense,R17
+2021-08-21,Grêmio,2-0,Bahia,R17
+2021-08-21,Juventude,1-1,Fortaleza,R17
+2021-08-22,Palmeiras,0-2,Cuiabá,R17
+2021-08-22,Ceará,1-1,Flamengo,R17
+2021-08-22,Athletico Paranaense,0-1,Corinthians,R17
+2021-08-22,Santos,2-2,Internacional,R17
+2021-08-22,Sport,0-1,São Paulo,R17
+2021-08-23,Fluminense,1-1,Atlético Mineiro,R17
+2021-08-23,América Mineiro,0-2,Red Bull Bragantino,R17
+2021-08-28,Sport,0-0,Chapecoense,R18
+2021-08-28,Santos,0-4,Flamengo,R18
+2021-08-28,Palmeiras,2-1,Athletico Paranaense,R18
+2021-08-28,Grêmio,0-1,Corinthians,R18
+2021-08-29,América Mineiro,2-0,Ceará,R18
+2021-08-29,Juventude,1-1,São Paulo,R18
+2021-08-29,Atlético Goianiense,0-0,Internacional,R18
+2021-08-29,Red Bull Bragantino,1-1,Atlético Mineiro,R18
+2021-08-30,Fluminense,2-0,Bahia,R18
+2021-08-30,Fortaleza,0-0,Cuiabá,R18
+2021-09-02,Fluminense,1-1,Juventude,R14
+2021-09-04,Bahia,4-2,Fortaleza,R19
+2021-09-04,Cuiabá,2-1,Santos,R19
+2021-09-05,Athletico Paranaense,0-0,Sport,R19
+2021-09-07,Corinthians,1-1,Juventude,R19
+2021-09-07,Chapecoense,1-2,Fluminense,R19
+2021-09-11,América Mineiro,2-0,Athletico Paranaense,R20
+2021-09-11,Juventude,1-2,Cuiabá,R20
+2021-09-11,Red Bull Bragantino,1-2,Chapecoense,R20
+2021-09-11,Santos,0-0,Bahia,R20
+2021-09-12,Grêmio,2-0,Ceará,R20
+2021-09-12,Palmeiras,1-3,Flamengo,R20
+2021-09-12,Fortaleza,0-2,Atlético Mineiro,R20
+2021-09-12,Atlético Goianiense,1-1,Corinthians,R20
+2021-09-12,Fluminense,2-1,São Paulo,R20
+2021-09-13,Sport,0-1,Internacional,R20
+2021-09-18,Chapecoense,0-2,Palmeiras,R21
+2021-09-18,Athletico Paranaense,2-1,Juventude,R21
+2021-09-18,Atlético Mineiro,3-0,Sport,R21
+2021-09-18,Ceará,0-0,Santos,R21
+2021-09-18,Bahia,1-1,Red Bull Bragantino,R21
+2021-09-19,Internacional,1-0,Fortaleza,R21
+2021-09-19,São Paulo,2-1,Atlético Goianiense,R21
+2021-09-19,Corinthians,1-1,América Mineiro,R21
+2021-09-19,Flamengo,0-1,Grêmio,R21
+2021-09-20,Cuiabá,2-2,Fluminense,R21
+2021-09-22,São Paulo,0-0,América Mineiro,R19
+2021-09-25,Ceará,1-0,Chapecoense,R22
+2021-09-25,Corinthians,2-1,Palmeiras,R22
+2021-09-25,São Paulo,0-0,Atlético Mineiro,R22
+2021-09-26,América Mineiro,1-1,Flamengo,R22
+2021-09-26,Fluminense,2-1,Red Bull Bragantino,R22
+2021-09-26,Internacional,2-0,Bahia,R22
+2021-09-26,Juventude,3-0,Santos,R22
+2021-09-26,Sport,0-1,Fortaleza,R22
+2021-09-26,Athletico Paranaense,4-2,Grêmio,R22
+2021-09-26,Atlético Goianiense,0-0,Cuiabá,R22
+2021-10-02,Fortaleza,0-3,Atlético Goianiense,R23
+2021-10-02,Cuiabá,0-2,América Mineiro,R23
+2021-10-02,Red Bull Bragantino,2-2,Corinthians,R23
+2021-10-02,Atlético Mineiro,1-0,Internacional,R23
+2021-10-03,Flamengo,3-0,Athletico Paranaense,R23
+2021-10-03,Chapecoense,1-1,São Paulo,R23
+2021-10-03,Palmeiras,1-1,Juventude,R23
+2021-10-03,Grêmio,1-2,Sport,R23
+2021-10-05,Corinthians,3-1,Bahia,R24
+2021-10-06,Ceará,0-0,Internacional,R24
+2021-10-06,Sport,3-1,Juventude,R24
+2021-10-06,Chapecoense,2-2,Atlético Mineiro,R24
+2021-10-06,Atlético Goianiense,0-2,Athletico Paranaense,R24
+2021-10-06,Red Bull Bragantino,1-1,Flamengo,R24
+2021-10-06,Fluminense,0-2,Fortaleza,R24
+2021-10-06,América Mineiro,2-1,Palmeiras,R24
+2021-10-06,Grêmio,2-2,Cuiabá,R24
+2021-10-07,São Paulo,1-1,Santos,R24
+2021-10-09,Fluminense,0-0,Atlético Goianiense,R25
+2021-10-09,Atlético Mineiro,3-1,Ceará,R25
+2021-10-09,Sport,1-0,Corinthians,R25
+2021-10-09,Fortaleza,0-3,Flamengo,R25
+2021-10-09,Athletico Paranaense,0-2,Bahia,R25
+2021-10-09,Palmeiras,2-4,Red Bull Bragantino,R25
+2021-10-09,Juventude,1-1,América Mineiro,R25
+2021-10-10,Internacional,5-2,Chapecoense,R25
+2021-10-10,Santos,1-0,Grêmio,R25
+2021-10-11,Cuiabá,0-0,São Paulo,R25
+2021-10-12,Red Bull Bragantino,1-0,Atlético Goianiense,R26
+2021-10-12,Bahia,0-0,Palmeiras,R26
+2021-10-13,Flamengo,3-1,Juventude,R26
+2021-10-13,Atlético Mineiro,3-1,Santos,R26
+2021-10-13,Chapecoense,1-1,Athletico Paranaense,R26
+2021-10-13,Fortaleza,1-0,Grêmio,R26
+2021-10-13,Corinthians,1-0,Fluminense,R26
+2021-10-13,Internacional,3-1,América Mineiro,R26
+2021-10-14,São Paulo,1-1,Ceará,R26
+2021-10-14,Cuiabá,1-0,Sport,R26
+2021-10-16,Chapecoense,1-2,Fortaleza,R27
+2021-10-16,América Mineiro,0-0,Bahia,R27
+2021-10-17,Palmeiras,1-0,Internacional,R27
+2021-10-17,Athletico Paranaense,0-1,Fluminense,R27
+2021-10-17,Grêmio,3-2,Juventude,R27
+2021-10-17,Ceará,2-2,Red Bull Bragantino,R27
+2021-10-17,Atlético Goianiense,2-1,Atlético Mineiro,R27
+2021-10-17,Flamengo,0-0,Cuiabá,R27
+2021-10-17,Sport,0-0,Santos,R27
+2021-10-18,São Paulo,1-0,Corinthians,R27
+2021-10-20,Ceará,1-2,Palmeiras,R19
+2021-10-21,Internacional,1-1,Red Bull Bragantino,R19
+2021-10-23,Santos,0-2,América Mineiro,R28
+2021-10-23,Juventude,0-0,Ceará,R28
+2021-10-23,Fluminense,3-1,Flamengo,R28
+2021-10-23,Fortaleza,3-0,Athletico Paranaense,R28
+2021-10-24,Atlético Mineiro,2-1,Cuiabá,R28
+2021-10-24,Internacional,2-2,Corinthians,R28
+2021-10-24,Red Bull Bragantino,1-0,São Paulo,R28
+2021-10-24,Bahia,3-0,Chapecoense,R28
+2021-10-25,Atlético Goianiense,2-0,Grêmio,R28
+2021-10-25,Palmeiras,2-1,Sport,R28
+2021-10-27,Santos,2-0,Fluminense,R23
+2021-10-27,Bahia,1-1,Ceará,R23
+2021-10-28,Red Bull Bragantino,3-0,Sport,R34
+2021-10-30,Athletico Paranaense,0-1,Santos,R29
+2021-10-30,Flamengo,1-0,Atlético Mineiro,R29
+2021-10-30,Juventude,0-0,Bahia,R29
+2021-10-30,América Mineiro,2-1,Fortaleza,R29
+2021-10-31,Grêmio,1-3,Palmeiras,R29
+2021-10-31,Ceará,1-0,Fluminense,R29
+2021-10-31,São Paulo,1-0,Internacional,R29
+2021-10-31,Sport,2-0,Atlético Goianiense,R29
+2021-11-01,Cuiabá,1-0,Red Bull Bragantino,R29
+2021-11-01,Corinthians,1-0,Chapecoense,R29
+2021-11-02,Athletico Paranaense,2-2,Flamengo,R4
+2021-11-03,Atlético Mineiro,2-1,Grêmio,R19
+2021-11-04,Cuiabá,0-0,Chapecoense,R31
+2021-11-05,Flamengo,2-0,Atlético Goianiense,R19
+2021-11-06,Corinthians,1-0,Fortaleza,R30
+2021-11-06,Internacional,1-0,Grêmio,R30
+2021-11-06,Fluminense,1-0,Sport,R30
+2021-11-07,Santos,0-2,Palmeiras,R30
+2021-11-07,Atlético Mineiro,1-0,América Mineiro,R30
+2021-11-07,Red Bull Bragantino,0-2,Athletico Paranaense,R30
+2021-11-07,Bahia,1-0,São Paulo,R30
+2021-11-07,Ceará,1-0,Cuiabá,R30
+2021-11-08,Chapecoense,2-2,Flamengo,R30
+2021-11-09,Grêmio,1-0,Fluminense,R31
+2021-11-10,Athletico Paranaense,2-1,Ceará,R31
+2021-11-10,Santos,2-0,Red Bull Bragantino,R31
+2021-11-10,Atlético Mineiro,3-0,Corinthians,R31
+2021-11-10,Palmeiras,4-0,Atlético Goianiense,R31
+2021-11-10,Fortaleza,1-1,São Paulo,R31
+2021-11-10,Sport,2-3,América Mineiro,R31
+2021-11-10,Juventude,2-1,Internacional,R31
+2021-11-11,Flamengo,3-0,Bahia,R31
+2021-11-13,Atlético Goianiense,0-0,Santos,R32
+2021-11-13,América Mineiro,3-1,Grêmio,R32
+2021-11-13,Internacional,2-1,Athletico Paranaense,R32
+2021-11-13,Red Bull Bragantino,3-0,Fortaleza,R32
+2021-11-13,Corinthians,3-2,Cuiabá,R32
+2021-11-14,São Paulo,0-4,Flamengo,R32
+2021-11-14,Fluminense,2-1,Palmeiras,R32
+2021-11-14,Ceará,2-1,Sport,R32
+2021-11-14,Chapecoense,0-2,Juventude,R32
+2021-11-16,Athletico Paranaense,0-1,Atlético Mineiro,R33
+2021-11-16,Grêmio,3-0,Red Bull Bragantino,R33
+2021-11-17,Santos,2-0,Chapecoense,R33
+2021-11-17,América Mineiro,0-0,Atlético Goianiense,R33
+2021-11-17,Cuiabá,1-0,Internacional,R33
+2021-11-17,Fortaleza,0-4,Ceará,R33
+2021-11-17,Palmeiras,0-2,São Paulo,R33
+2021-11-17,Juventude,1-0,Fluminense,R33
+2021-11-17,Flamengo,1-0,Corinthians,R33
+2021-11-18,Sport,1-0,Bahia,R33
+2021-11-20,Atlético Mineiro,2-0,Juventude,R34
+2021-11-20,Fortaleza,1-0,Palmeiras,R34
+2021-11-20,Chapecoense,1-3,Grêmio,R34
+2021-11-20,Atlético Goianiense,1-1,Ceará,R34
+2021-11-20,Internacional,1-2,Flamengo,R34
+2021-11-21,Corinthians,2-0,Santos,R34
+2021-11-21,Fluminense,2-0,América Mineiro,R34
+2021-11-21,Bahia,0-0,Cuiabá,R34
+2021-11-23,Atlético Goianiense,1-1,Juventude,R30
+2021-11-23,Grêmio,2-2,Flamengo,R2
+2021-11-23,Palmeiras,2-2,Atlético Mineiro,R35
+2021-11-24,São Paulo,0-0,Athletico Paranaense,R34
+2021-11-24,Fluminense,1-0,Internacional,R35
+2021-11-25,Santos,2-0,Fortaleza,R35
+2021-11-25,Ceará,2-1,Corinthians,R35
+2021-11-26,Bahia,3-1,Grêmio,R36
+2021-11-27,Red Bull Bragantino,1-1,América Mineiro,R36
+2021-11-27,São Paulo,2-0,Sport,R36
+2021-11-28,Corinthians,1-0,Athletico Paranaense,R36
+2021-11-28,Atlético Mineiro,2-1,Fluminense,R36
+2021-11-28,Internacional,1-1,Santos,R36
+2021-11-29,Atlético Goianiense,2-1,Bahia,R35
+2021-11-30,Juventude,1-0,Red Bull Bragantino,R35
+2021-11-30,Flamengo,2-1,Ceará,R36
+2021-11-30,América Mineiro,3-0,Chapecoense,R35
+2021-11-30,Cuiabá,1-3,Palmeiras,R36
+2021-12-02,Bahia,2-3,Atlético Mineiro,R32
+2021-12-02,Grêmio,3-0,São Paulo,R35
+2021-12-03,Athletico Paranaense,1-0,Cuiabá,R35
+2021-12-03,Sport,1-1,Flamengo,R35
+2021-12-03,Chapecoense,0-1,Atlético Goianiense,R36
+2021-12-03,Fortaleza,1-0,Juventude,R36
+2021-12-05,Corinthians,1-1,Grêmio,R37
+2021-12-05,Atlético Mineiro,4-3,Red Bull Bragantino,R37
+2021-12-05,Bahia,2-0,Fluminense,R37
+2021-12-05,Ceará,0-0,América Mineiro,R37
+2021-12-06,São Paulo,3-1,Juventude,R37
+2021-12-06,Athletico Paranaense,0-0,Palmeiras,R37
+2021-12-06,Flamengo,0-1,Santos,R37
+2021-12-06,Internacional,1-2,Atlético Goianiense,R37
+2021-12-06,Cuiabá,1-0,Fortaleza,R37
+2021-12-06,Chapecoense,0-1,Sport,R37
+2021-12-09,Fluminense,3-0,Chapecoense,R38
+2021-12-09,Palmeiras,1-0,Ceará,R38
+2021-12-09,Santos,1-1,Cuiabá,R38
+2021-12-09,América Mineiro,2-0,São Paulo,R38
+2021-12-09,Grêmio,4-3,Atlético Mineiro,R38
+2021-12-09,Fortaleza,2-1,Bahia,R38
+2021-12-09,Sport,1-1,Athletico Paranaense,R38
+2021-12-09,Red Bull Bragantino,1-0,Internacional,R38
+2021-12-09,Juventude,1-0,Corinthians,R38
+2021-12-09,Atlético Goianiense,2-0,Flamengo,R38

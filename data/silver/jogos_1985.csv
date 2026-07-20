@@ -1,0 +1,518 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1985,1985-01-26,Fluminense,Santos,2,1,V,D,NORMAL,A e B
+1985,1985-01-26,Ponte Preta,Villa Nova-MG,1,0,V,D,NORMAL,D
+1985,1985-01-27,Corinthians,Vasco,2,2,E,E,NORMAL,A e B
+1985,1985-01-27,Atlético Mineiro,Flamengo,1,1,E,E,NORMAL,A e B
+1985,1985-01-27,Santa Cruz,Portuguesa,1,1,E,E,NORMAL,A e B
+1985,1985-01-27,Guarani,Cruzeiro,0,0,E,E,NORMAL,A e B
+1985,1985-01-27,Bahia,Palmeiras,1,0,V,D,NORMAL,A e B
+1985,1985-01-27,Coritiba,São Paulo,3,1,V,D,NORMAL,A e B
+1985,1985-01-27,Botafogo,Goiás,3,1,V,D,NORMAL,A e B
+1985,1985-01-27,Grêmio,Náutico,1,0,V,D,NORMAL,A e B
+1985,1985-01-27,America-RJ,Internacional,0,4,D,V,NORMAL,A e B
+1985,1985-01-27,Botafogo-PB,Sampaio Corrêa,1,0,V,D,NORMAL,C
+1985,1985-01-27,Sergipe,Nacional-AM,2,1,V,D,NORMAL,C
+1985,1985-01-27,Sport,Flamengo-PI,1,0,V,D,NORMAL,C
+1985,1985-01-27,ABC,Paysandu,1,1,E,E,NORMAL,C
+1985,1985-01-27,Ceará,Remo,3,0,V,D,NORMAL,C
+1985,1985-01-27,Joinville,Corumbaense,4,0,V,D,NORMAL,D
+1985,1985-01-27,Bangu,Brasília,1,0,V,D,NORMAL,D
+1985,1985-01-27,Leônico,Pinheiros-PR,0,0,E,E,NORMAL,D
+1985,1985-01-27,Desportiva Ferroviária,Vila Nova,2,1,V,D,NORMAL,D
+1985,1985-01-27,Brasil de Pelotas,Uberlândia,1,1,E,E,NORMAL,D
+1985,1985-01-28,CSA,Mixto,0,1,D,V,NORMAL,C
+1985,1985-01-30,Corinthians,Internacional,0,1,D,V,NORMAL,A e B
+1985,1985-01-30,Fluminense,Portuguesa,2,0,V,D,NORMAL,A e B
+1985,1985-01-30,Grêmio,Vasco,3,1,V,D,NORMAL,A e B
+1985,1985-01-30,America-RJ,Náutico,1,1,E,E,NORMAL,A e B
+1985,1985-01-30,Atlético Mineiro,Santos,4,0,V,D,NORMAL,A e B
+1985,1985-01-30,Sergipe,Mixto,0,1,D,V,NORMAL,C
+1985,1985-01-30,ABC,Remo,2,1,V,D,NORMAL,C
+1985,1985-01-30,Sport,Sampaio Corrêa,4,1,V,D,NORMAL,C
+1985,1985-01-30,Botafogo-PB,Flamengo-PI,1,0,V,D,NORMAL,C
+1985,1985-01-30,Ceará,Paysandu,1,1,E,E,NORMAL,C
+1985,1985-01-30,Ponte Preta,Leônico,3,0,V,D,NORMAL,D
+1985,1985-01-30,Pinheiros-PR,Villa Nova-MG,1,0,V,D,NORMAL,D
+1985,1985-01-30,Brasil de Pelotas,Corumbaense,1,0,V,D,NORMAL,D
+1985,1985-01-30,Joinville,Uberlândia,2,0,V,D,NORMAL,D
+1985,1985-01-30,Desportiva Ferroviária,Brasília,0,1,D,V,NORMAL,D
+1985,1985-01-30,Bangu,Vila Nova,2,0,V,D,NORMAL,D
+1985,1985-01-31,Guarani,São Paulo,3,2,V,D,NORMAL,A e B
+1985,1985-01-31,Santa Cruz,Flamengo,1,4,D,V,NORMAL,A e B
+1985,1985-01-31,Coritiba,Cruzeiro,2,1,V,D,NORMAL,A e B
+1985,1985-01-31,Botafogo,Bahia,1,1,E,E,NORMAL,A e B
+1985,1985-01-31,Palmeiras,Goiás,3,2,V,D,NORMAL,A e B
+1985,1985-01-31,CSA,Nacional-AM,4,0,V,D,NORMAL,C
+1985,1985-02-02,Paysandu,Sport,0,1,D,V,NORMAL,C
+1985,1985-02-02,Vila Nova,Ponte Preta,1,2,D,V,NORMAL,D
+1985,1985-02-03,Santos,Guarani,1,0,V,D,NORMAL,A e B
+1985,1985-02-03,Palmeiras,São Paulo,2,2,E,E,NORMAL,A e B
+1985,1985-02-03,Goiás,Santa Cruz,3,0,V,D,NORMAL,A e B
+1985,1985-02-03,Portuguesa,Grêmio,1,1,E,E,NORMAL,A e B
+1985,1985-02-03,Flamengo,Corinthians,2,0,V,D,NORMAL,A e B
+1985,1985-02-03,Náutico,Atlético Mineiro,1,1,E,E,NORMAL,A e B
+1985,1985-02-03,Bahia,Coritiba,2,1,V,D,NORMAL,A e B
+1985,1985-02-03,Cruzeiro,America-RJ,2,0,V,D,NORMAL,A e B
+1985,1985-02-03,Internacional,Botafogo,2,0,V,D,NORMAL,A e B
+1985,1985-02-03,Remo,Botafogo-PB,1,1,E,E,NORMAL,C
+1985,1985-02-03,Flamengo-PI,CSA,1,0,V,D,NORMAL,C
+1985,1985-02-03,Mixto,ABC,0,0,E,E,NORMAL,C
+1985,1985-02-03,Nacional-AM,Ceará,1,0,V,D,NORMAL,C
+1985,1985-02-03,Sampaio Corrêa,Sergipe,2,2,E,E,NORMAL,C
+1985,1985-02-03,Corumbaense,Bangu,0,1,D,V,NORMAL,D
+1985,1985-02-03,Villa Nova-MG,Brasil de Pelotas,1,3,D,V,NORMAL,D
+1985,1985-02-03,Leônico,Joinville,1,0,V,D,NORMAL,D
+1985,1985-02-03,Brasília,Pinheiros-PR,0,0,E,E,NORMAL,D
+1985,1985-02-03,Uberlândia,Desportiva Ferroviária,1,2,D,V,NORMAL,D
+1985,1985-02-06,Corinthians,Cruzeiro,1,1,E,E,NORMAL,A e B
+1985,1985-02-06,Náutico,Guarani,1,3,D,V,NORMAL,A e B
+1985,1985-02-06,Bahia,Santa Cruz,3,0,V,D,NORMAL,A e B
+1985,1985-02-06,Internacional,Fluminense,1,1,E,E,NORMAL,A e B
+1985,1985-02-06,São Paulo,Botafogo,3,1,V,D,NORMAL,A e B
+1985,1985-02-06,Remo,Sport,0,1,D,V,NORMAL,C
+1985,1985-02-06,Nacional-AM,ABC,4,0,V,D,NORMAL,C
+1985,1985-02-06,Mixto,Ceará,0,1,D,V,NORMAL,C
+1985,1985-02-06,Sampaio Corrêa,CSA,1,1,E,E,NORMAL,C
+1985,1985-02-06,Flamengo-PI,Sergipe,0,0,E,E,NORMAL,C
+1985,1985-02-06,Paysandu,Botafogo-PB,0,0,E,E,NORMAL,C
+1985,1985-02-06,Brasília,Ponte Preta,1,1,E,E,NORMAL,D
+1985,1985-02-06,Villa Nova-MG,Joinville,0,3,D,V,NORMAL,D
+1985,1985-02-06,Uberlândia,Bangu,1,2,D,V,NORMAL,D
+1985,1985-02-06,Vila Nova,Pinheiros-PR,3,2,V,D,NORMAL,D
+1985,1985-02-06,Corumbaense,Desportiva Ferroviária,2,0,V,D,NORMAL,D
+1985,1985-02-06,Leônico,Brasil de Pelotas,2,1,V,D,NORMAL,D
+1985,1985-02-06,Vasco,Coritiba,3,0,V,D,NORMAL,A e B
+1985,1985-02-07,Flamengo,Palmeiras,1,0,V,D,NORMAL,A e B
+1985,1985-02-07,Santos,Grêmio,1,1,E,E,NORMAL,A e B
+1985,1985-02-07,Portuguesa,Atlético Mineiro,2,0,V,D,NORMAL,A e B
+1985,1985-02-07,America-RJ,Goiás,0,0,E,E,NORMAL,A e B
+1985,1985-02-09,Fluminense,Cruzeiro,1,1,E,E,NORMAL,A e B
+1985,1985-02-09,Guarani,Bahia,4,1,V,D,NORMAL,A e B
+1985,1985-02-10,Corinthians,Santos,1,0,V,D,NORMAL,A e B
+1985,1985-02-10,Palmeiras,Portuguesa,2,1,V,D,NORMAL,A e B
+1985,1985-02-10,America-RJ,Vasco,1,2,D,V,NORMAL,A e B
+1985,1985-02-10,Coritiba,Goiás,0,0,E,E,NORMAL,A e B
+1985,1985-02-10,Botafogo,Flamengo,2,1,V,D,NORMAL,A e B
+1985,1985-02-10,Atlético Mineiro,São Paulo,4,2,V,D,NORMAL,A e B
+1985,1985-02-10,Santa Cruz,Náutico,0,3,D,V,NORMAL,A e B
+1985,1985-02-10,Grêmio,Internacional,2,0,V,D,NORMAL,A e B
+1985,1985-02-10,Botafogo-PB,Sport,0,0,E,E,NORMAL,C
+1985,1985-02-10,CSA,Sergipe,1,0,V,D,NORMAL,C
+1985,1985-02-10,Flamengo-PI,Mixto,1,2,D,V,NORMAL,C
+1985,1985-02-10,ABC,Ceará,1,1,E,E,NORMAL,C
+1985,1985-02-10,Paysandu,Nacional-AM,3,0,V,D,NORMAL,C
+1985,1985-02-10,Sampaio Corrêa,Remo,1,1,E,E,NORMAL,C
+1985,1985-02-10,Ponte Preta,Pinheiros-PR,2,1,V,D,NORMAL,D
+1985,1985-02-10,Joinville,Brasil de Pelotas,1,2,D,V,NORMAL,D
+1985,1985-02-10,Villa Nova-MG,Vila Nova,3,0,V,D,NORMAL,D
+1985,1985-02-10,Bangu,Desportiva Ferroviária,4,1,V,D,NORMAL,D
+1985,1985-02-10,Leônico,Corumbaense,0,0,E,E,NORMAL,D
+1985,1985-02-10,Brasília,Uberlândia,1,1,E,E,NORMAL,D
+1985,1985-02-13,Vasco,Santa Cruz,1,1,E,E,NORMAL,A e B
+1985,1985-02-13,Guarani,Portuguesa,4,2,V,D,NORMAL,A e B
+1985,1985-02-13,Palmeiras,Cruzeiro,2,0,V,D,NORMAL,A e B
+1985,1985-02-13,Náutico,Fluminense,1,0,V,D,NORMAL,A e B
+1985,1985-02-13,Coritiba,Flamengo,0,1,D,V,NORMAL,A e B
+1985,1985-02-13,Bahia,America-RJ,0,2,D,V,NORMAL,A e B
+1985,1985-02-13,Atlético Mineiro,Internacional,1,0,V,D,NORMAL,A e B
+1985,1985-02-13,São Paulo,Corinthians,0,2,D,V,NORMAL,A e B
+1985,1985-02-13,Santos,Botafogo,2,2,E,E,NORMAL,A e B
+1985,1985-02-13,Goiás,Grêmio,2,2,E,E,NORMAL,A e B
+1985,1985-02-13,Mixto,Paysandu,1,1,E,E,NORMAL,C
+1985,1985-02-13,Nacional-AM,Sampaio Corrêa,3,2,V,D,NORMAL,C
+1985,1985-02-13,Ceará,CSA,2,2,E,E,NORMAL,C
+1985,1985-02-13,Sergipe,Botafogo-PB,0,1,D,V,NORMAL,C
+1985,1985-02-13,Remo,Flamengo-PI,1,1,E,E,NORMAL,C
+1985,1985-02-13,Sport,ABC,3,0,V,D,NORMAL,C
+1985,1985-02-13,Brasil de Pelotas,Ponte Preta,2,0,V,D,NORMAL,D
+1985,1985-02-13,Corumbaense,Brasília,0,1,D,V,NORMAL,D
+1985,1985-02-13,Desportiva Ferroviária,Joinville,0,1,D,V,NORMAL,D
+1985,1985-02-13,Vila Nova,Leônico,0,1,D,V,NORMAL,D
+1985,1985-02-13,Uberlândia,Villa Nova-MG,3,0,V,D,NORMAL,D
+1985,1985-02-15,Pinheiros-PR,Bangu,1,1,E,E,NORMAL,D
+1985,1985-02-16,Fluminense,Vasco,3,5,D,V,NORMAL,A e B
+1985,1985-02-23,Palmeiras,Vasco,1,1,E,E,NORMAL,A e B
+1985,1985-02-23,Corinthians,Portuguesa,2,0,V,D,NORMAL,A e B
+1985,1985-02-23,São Paulo,Fluminense,2,1,V,D,NORMAL,A e B
+1985,1985-02-23,America-RJ,Flamengo,0,1,D,V,NORMAL,A e B
+1985,1985-02-23,Santa Cruz,Santos,1,0,V,D,NORMAL,A e B
+1985,1985-02-23,Bahia,Atlético Mineiro,0,0,E,E,NORMAL,A e B
+1985,1985-02-23,Botafogo,Náutico,0,2,D,V,NORMAL,A e B
+1985,1985-02-23,Cruzeiro,Grêmio,1,1,E,E,NORMAL,A e B
+1985,1985-02-23,Goiás,Guarani,1,1,E,E,NORMAL,A e B
+1985,1985-02-23,Internacional,Coritiba,4,0,V,D,NORMAL,A e B
+1985,1985-02-24,Sport,Sergipe,4,0,V,D,NORMAL,C
+1985,1985-02-24,Paysandu,Remo,1,0,V,D,NORMAL,C
+1985,1985-02-24,CSA,ABC,2,1,V,D,NORMAL,C
+1985,1985-02-24,Botafogo-PB,Ceará,0,0,E,E,NORMAL,C
+1985,1985-02-24,Nacional-AM,Mixto,1,2,D,V,NORMAL,C
+1985,1985-02-24,Sampaio Corrêa,Flamengo-PI,2,0,V,D,NORMAL,C
+1985,1985-02-24,Brasília,Vila Nova,0,1,D,V,NORMAL,D
+1985,1985-02-24,Pinheiros-PR,Brasil de Pelotas,2,2,E,E,NORMAL,D
+1985,1985-02-24,Ponte Preta,Desportiva Ferroviária,2,0,V,D,NORMAL,D
+1985,1985-02-24,Villa Nova-MG,Leônico,2,0,V,D,NORMAL,D
+1985,1985-02-24,Uberlândia,Corumbaense,2,0,V,D,NORMAL,D
+1985,1985-02-24,Joinville,Bangu,1,0,V,D,NORMAL,D
+1985,1985-02-27,Santos,America-RJ,3,1,V,D,NORMAL,A e B
+1985,1985-02-27,Flamengo,Fluminense,0,0,E,E,NORMAL,A e B
+1985,1985-02-27,Guarani,Vasco,0,1,D,V,NORMAL,A e B
+1985,1985-02-27,Náutico,Corinthians,0,0,E,E,NORMAL,A e B
+1985,1985-02-27,Portuguesa,Coritiba,1,0,V,D,NORMAL,A e B
+1985,1985-02-27,Atlético Mineiro,Goiás,2,1,V,D,NORMAL,A e B
+1985,1985-02-27,Grêmio,Bahia,0,0,E,E,NORMAL,A e B
+1985,1985-02-27,São Paulo,Santa Cruz,2,1,V,D,NORMAL,A e B
+1985,1985-02-27,Internacional,Palmeiras,2,1,V,D,NORMAL,A e B
+1985,1985-02-27,Botafogo,Cruzeiro,1,3,D,V,NORMAL,A e B
+1985,1985-02-27,Remo,Mixto,1,1,E,E,NORMAL,C
+1985,1985-02-27,Sergipe,ABC,2,1,V,D,NORMAL,C
+1985,1985-02-27,Sampaio Corrêa,Paysandu,1,1,E,E,NORMAL,C
+1985,1985-02-27,Flamengo-PI,Nacional-AM,1,0,V,D,NORMAL,C
+1985,1985-02-27,Botafogo-PB,CSA,1,1,E,E,NORMAL,C
+1985,1985-02-27,Sport,Ceará,1,0,V,D,NORMAL,C
+1985,1985-02-27,Brasil de Pelotas,Bangu,0,1,D,V,NORMAL,D
+1985,1985-02-27,Leônico,Uberlândia,3,1,V,D,NORMAL,D
+1985,1985-02-27,Pinheiros-PR,Desportiva Ferroviária,1,0,V,D,NORMAL,D
+1985,1985-02-27,Vila Nova,Corumbaense,1,1,E,E,NORMAL,D
+1985,1985-02-27,Ponte Preta,Joinville,2,1,V,D,NORMAL,D
+1985,1985-02-27,Villa Nova-MG,Brasília,0,2,D,V,NORMAL,D
+1985,1985-03-02,Fluminense,Goiás,2,0,V,D,NORMAL,A e B
+1985,1985-03-02,Corinthians,Bahia,2,0,V,D,NORMAL,A e B
+1985,1985-03-03,Palmeiras,Santos,1,2,D,V,NORMAL,A e B
+1985,1985-03-03,Guarani,Flamengo,1,0,V,D,NORMAL,A e B
+1985,1985-03-03,Santa Cruz,Internacional,3,1,V,D,NORMAL,A e B
+1985,1985-03-03,Coritiba,Náutico,2,0,V,D,NORMAL,A e B
+1985,1985-03-03,Atlético Mineiro,Cruzeiro,2,0,V,D,NORMAL,A e B
+1985,1985-03-03,Vasco,Botafogo,1,3,D,V,NORMAL,A e B
+1985,1985-03-03,America-RJ,Portuguesa,3,1,V,D,NORMAL,A e B
+1985,1985-03-03,Grêmio,São Paulo,2,2,E,E,NORMAL,A e B
+1985,1985-03-03,ABC,Botafogo-PB,3,0,V,D,NORMAL,C
+1985,1985-03-03,CSA,Sport,0,2,D,V,NORMAL,C
+1985,1985-03-03,Flamengo-PI,Paysandu,1,1,E,E,NORMAL,C
+1985,1985-03-03,Ceará,Sergipe,3,0,V,D,NORMAL,C
+1985,1985-03-03,Mixto,Sampaio Corrêa,1,1,E,E,NORMAL,C
+1985,1985-03-03,Nacional-AM,Remo,4,2,V,D,NORMAL,C
+1985,1985-03-03,Desportiva Ferroviária,Brasil de Pelotas,3,0,V,D,NORMAL,D
+1985,1985-03-03,Corumbaense,Villa Nova-MG,0,0,E,E,NORMAL,D
+1985,1985-03-03,Leônico,Brasília,5,3,V,D,NORMAL,D
+1985,1985-03-03,Joinville,Pinheiros-PR,1,0,V,D,NORMAL,D
+1985,1985-03-03,Uberlândia,Vila Nova,1,1,E,E,NORMAL,D
+1985,1985-03-03,Bangu,Ponte Preta,0,0,E,E,NORMAL,D
+1985,1985-03-06,Goiás,Corinthians,0,4,D,V,NORMAL,A e B
+1985,1985-03-06,Santos,Coritiba,1,0,V,D,NORMAL,A e B
+1985,1985-03-06,São Paulo,America-RJ,1,0,V,D,NORMAL,A e B
+1985,1985-03-06,Cruzeiro,Santa Cruz,2,0,V,D,NORMAL,A e B
+1985,1985-03-06,Bahia,Fluminense,0,0,E,E,NORMAL,A e B
+1985,1985-03-06,Vasco,Atlético Mineiro,1,2,D,V,NORMAL,A e B
+1985,1985-03-06,Portuguesa,Botafogo,0,1,D,V,NORMAL,A e B
+1985,1985-03-06,Internacional,Guarani,3,1,V,D,NORMAL,A e B
+1985,1985-03-06,Náutico,Palmeiras,2,1,V,D,NORMAL,A e B
+1985,1985-03-06,CSA,Paysandu,2,1,V,D,NORMAL,C
+1985,1985-03-06,Sergipe,Remo,0,2,D,V,NORMAL,C
+1985,1985-03-06,ABC,Sampaio Corrêa,1,0,V,D,NORMAL,C
+1985,1985-03-06,Ceará,Flamengo-PI,2,1,V,D,NORMAL,C
+1985,1985-03-06,Botafogo-PB,Mixto,3,1,V,D,NORMAL,C
+1985,1985-03-06,Brasil de Pelotas,Vila Nova,2,2,E,E,NORMAL,D
+1985,1985-03-06,Bangu,Villa Nova-MG,1,1,E,E,NORMAL,D
+1985,1985-03-06,Ponte Preta,Corumbaense,2,0,V,D,NORMAL,D
+1985,1985-03-06,Pinheiros-PR,Uberlândia,2,0,V,D,NORMAL,D
+1985,1985-03-06,Desportiva Ferroviária,Leônico,3,1,V,D,NORMAL,D
+1985,1985-03-06,Joinville,Brasília,1,0,V,D,NORMAL,D
+1985,1985-03-07,Flamengo,Grêmio,1,0,V,D,NORMAL,A e B
+1985,1985-03-07,Sport,Nacional-AM,1,0,V,D,NORMAL,C
+1985,1985-03-09,Vasco,Corinthians,1,0,V,D,NORMAL,A e B
+1985,1985-03-09,São Paulo,Coritiba,0,1,D,V,NORMAL,A e B
+1985,1985-03-09,Portuguesa,Santa Cruz,3,1,V,D,NORMAL,A e B
+1985,1985-03-09,Goiás,Botafogo,4,1,V,D,NORMAL,A e B
+1985,1985-03-09,Remo,CSA,1,3,D,V,NORMAL,C
+1985,1985-03-10,Internacional,America-RJ,1,0,V,D,NORMAL,A e B
+1985,1985-03-10,Santos,Fluminense,1,1,E,E,NORMAL,A e B
+1985,1985-03-10,Palmeiras,Bahia,1,2,D,V,NORMAL,A e B
+1985,1985-03-10,Cruzeiro,Guarani,1,1,E,E,NORMAL,A e B
+1985,1985-03-10,Náutico,Grêmio,3,2,V,D,NORMAL,A e B
+1985,1985-03-10,Flamengo,Atlético Mineiro,0,1,D,V,NORMAL,A e B
+1985,1985-03-10,Nacional-AM,Botafogo-PB,1,1,E,E,NORMAL,C
+1985,1985-03-10,Flamengo-PI,ABC,1,0,V,D,NORMAL,C
+1985,1985-03-10,Mixto,Sport,2,1,V,D,NORMAL,C
+1985,1985-03-10,Sampaio Corrêa,Ceará,1,1,E,E,NORMAL,C
+1985,1985-03-10,Paysandu,Sergipe,1,0,V,D,NORMAL,C
+1985,1985-03-10,Corumbaense,Pinheiros-PR,1,3,D,V,NORMAL,D
+1985,1985-03-10,Uberlândia,Ponte Preta,0,0,E,E,NORMAL,D
+1985,1985-03-10,Vila Nova,Joinville,1,1,E,E,NORMAL,D
+1985,1985-03-10,Villa Nova-MG,Desportiva Ferroviária,3,1,V,D,NORMAL,D
+1985,1985-03-10,Brasília,Brasil de Pelotas,3,2,V,D,NORMAL,D
+1985,1985-03-10,Leônico,Bangu,1,2,D,V,NORMAL,D
+1985,1985-03-13,Flamengo,Santa Cruz,7,0,V,D,NORMAL,A e B
+1985,1985-03-13,Internacional,Corinthians,1,1,E,E,NORMAL,A e B
+1985,1985-03-13,São Paulo,Guarani,3,3,E,E,NORMAL,A e B
+1985,1985-03-13,Náutico,America-RJ,1,1,E,E,NORMAL,A e B
+1985,1985-03-13,Cruzeiro,Coritiba,2,3,D,V,NORMAL,A e B
+1985,1985-03-13,Goiás,Palmeiras,1,0,V,D,NORMAL,A e B
+1985,1985-03-13,Bahia,Botafogo,2,0,V,D,NORMAL,A e B
+1985,1985-03-13,Portuguesa,Fluminense,2,2,E,E,NORMAL,A e B
+1985,1985-03-14,Santos,Atlético Mineiro,2,0,V,D,NORMAL,A e B
+1985,1985-03-14,Vasco,Grêmio,1,0,V,D,NORMAL,A e B
+1985,1985-03-14,Villa Nova-MG,Pinheiros-PR,0,0,E,E,NORMAL,D
+1985,1985-03-16,Remo,Ceará,0,2,D,V,NORMAL,C
+1985,1985-03-16,Sampaio Corrêa,Botafogo-PB,1,2,D,V,NORMAL,C
+1985,1985-03-16,Mixto,CSA,1,0,V,D,NORMAL,C
+1985,1985-03-16,Flamengo-PI,Sport,0,1,D,V,NORMAL,C
+1985,1985-03-16,Paysandu,ABC,0,1,D,V,NORMAL,C
+1985,1985-03-16,Pinheiros-PR,Leônico,1,0,V,D,NORMAL,D
+1985,1985-03-16,Vila Nova,Desportiva Ferroviária,1,0,V,D,NORMAL,D
+1985,1985-03-16,Uberlândia,Brasil de Pelotas,1,2,D,V,NORMAL,D
+1985,1985-03-16,Villa Nova-MG,Ponte Preta,1,3,D,V,NORMAL,D
+1985,1985-03-16,Brasília,Bangu,2,1,V,D,NORMAL,D
+1985,1985-03-16,Corumbaense,Joinville,1,2,D,V,NORMAL,D
+1985,1985-03-16,São Paulo,Palmeiras,4,4,E,E,NORMAL,A e B
+1985,1985-03-16,Botafogo,Internacional,1,0,V,D,NORMAL,A e B
+1985,1985-03-17,Nacional-AM,Sergipe,6,0,V,D,NORMAL,C
+1985,1985-03-17,Vasco,Fluminense,2,1,V,D,NORMAL,A e B
+1985,1985-03-17,Coritiba,Bahia,1,2,D,V,NORMAL,A e B
+1985,1985-03-17,Santa Cruz,Goiás,2,0,V,D,NORMAL,A e B
+1985,1985-03-17,Grêmio,Portuguesa,1,1,E,E,NORMAL,A e B
+1985,1985-03-17,America-RJ,Cruzeiro,1,0,V,D,NORMAL,A e B
+1985,1985-03-17,Atlético Mineiro,Náutico,5,1,V,D,NORMAL,A e B
+1985,1985-03-20,Paysandu,Ceará,1,2,D,V,NORMAL,C
+1985,1985-03-20,Mixto,Sergipe,2,0,V,D,NORMAL,C
+1985,1985-03-20,Nacional-AM,CSA,1,0,V,D,NORMAL,C
+1985,1985-03-20,Sampaio Corrêa,Sport,2,4,D,V,NORMAL,C
+1985,1985-03-20,Flamengo-PI,Botafogo-PB,1,1,E,E,NORMAL,C
+1985,1985-03-20,Uberlândia,Joinville,0,1,D,V,NORMAL,D
+1985,1985-03-20,Corumbaense,Brasil de Pelotas,1,2,D,V,NORMAL,D
+1985,1985-03-20,Brasília,Desportiva Ferroviária,0,0,E,E,NORMAL,D
+1985,1985-03-20,Leônico,Ponte Preta,1,2,D,V,NORMAL,D
+1985,1985-03-20,Grêmio,Santos,3,0,V,D,NORMAL,A e B
+1985,1985-03-20,Santa Cruz,Bahia,1,1,E,E,NORMAL,A e B
+1985,1985-03-20,Palmeiras,Flamengo,2,2,E,E,NORMAL,A e B
+1985,1985-03-20,Guarani,Náutico,1,0,V,D,NORMAL,A e B
+1985,1985-03-20,Atlético Mineiro,Portuguesa,1,0,V,D,NORMAL,A e B
+1985,1985-03-20,Botafogo,São Paulo,3,1,V,D,NORMAL,A e B
+1985,1985-03-20,Goiás,America-RJ,3,0,V,D,NORMAL,A e B
+1985,1985-03-20,Coritiba,Vasco,0,0,E,E,NORMAL,A e B
+1985,1985-03-21,Remo,ABC,1,0,V,D,NORMAL,C
+1985,1985-03-21,Vila Nova,Bangu,3,2,V,D,NORMAL,D
+1985,1985-03-21,Fluminense,Internacional,1,0,V,D,NORMAL,A e B
+1985,1985-03-21,Cruzeiro,Corinthians,1,1,E,E,NORMAL,A e B
+1985,1985-03-23,Pinheiros-PR,Brasília,1,0,V,D,NORMAL,D
+1985,1985-03-23,São Paulo,Atlético Mineiro,1,1,E,E,NORMAL,A e B
+1985,1985-03-23,Vasco,America-RJ,2,1,V,D,NORMAL,A e B
+1985,1985-03-24,ABC,Mixto,4,0,V,D,NORMAL,C
+1985,1985-03-24,Ceará,Nacional-AM,2,1,V,D,NORMAL,C
+1985,1985-03-24,Sport,Paysandu,5,1,V,D,NORMAL,C
+1985,1985-03-24,Sergipe,Sampaio Corrêa,4,0,V,D,NORMAL,C
+1985,1985-03-24,Botafogo-PB,Remo,1,0,V,D,NORMAL,C
+1985,1985-03-24,CSA,Flamengo-PI,1,0,V,D,NORMAL,C
+1985,1985-03-24,Desportiva Ferroviária,Uberlândia,2,1,V,D,NORMAL,D
+1985,1985-03-24,Joinville,Leônico,1,0,V,D,NORMAL,D
+1985,1985-03-24,Brasil de Pelotas,Villa Nova-MG,0,0,E,E,NORMAL,D
+1985,1985-03-24,Bangu,Corumbaense,4,0,V,D,NORMAL,D
+1985,1985-03-24,Ponte Preta,Vila Nova,4,1,V,D,NORMAL,D
+1985,1985-03-24,Flamengo,Botafogo,6,1,V,D,NORMAL,A e B
+1985,1985-03-24,Cruzeiro,Fluminense,0,1,D,V,NORMAL,A e B
+1985,1985-03-24,Internacional,Grêmio,0,1,D,V,NORMAL,A e B
+1985,1985-03-24,Náutico,Santa Cruz,4,3,V,D,NORMAL,A e B
+1985,1985-03-24,Portuguesa,Palmeiras,0,0,E,E,NORMAL,A e B
+1985,1985-03-24,Bahia,Guarani,1,0,V,D,NORMAL,A e B
+1985,1985-03-24,Santos,Corinthians,0,0,E,E,NORMAL,A e B
+1985,1985-03-24,Goiás,Coritiba,0,2,D,V,NORMAL,A e B
+1985,1985-03-27,ABC,Nacional-AM,2,4,D,V,NORMAL,C
+1985,1985-03-27,CSA,Sampaio Corrêa,2,0,V,D,NORMAL,C
+1985,1985-03-27,Sergipe,Flamengo-PI,0,0,E,E,NORMAL,C
+1985,1985-03-27,Botafogo-PB,Paysandu,0,0,E,E,NORMAL,C
+1985,1985-03-27,Ceará,Mixto,2,0,V,D,NORMAL,C
+1985,1985-03-27,Bangu,Uberlândia,2,0,V,D,NORMAL,D
+1985,1985-03-27,Ponte Preta,Brasília,1,1,E,E,NORMAL,D
+1985,1985-03-27,Desportiva Ferroviária,Corumbaense,0,1,D,V,NORMAL,D
+1985,1985-03-27,Pinheiros-PR,Vila Nova,1,1,E,E,NORMAL,D
+1985,1985-03-27,Joinville,Villa Nova-MG,1,2,D,V,NORMAL,D
+1985,1985-03-27,Brasil de Pelotas,Leônico,4,1,V,D,NORMAL,D
+1985,1985-03-27,Flamengo,Coritiba,0,1,D,V,NORMAL,A e B
+1985,1985-03-27,America-RJ,Bahia,1,1,E,E,NORMAL,A e B
+1985,1985-03-27,Cruzeiro,Palmeiras,1,1,E,E,NORMAL,A e B
+1985,1985-03-27,Grêmio,Goiás,0,1,D,V,NORMAL,A e B
+1985,1985-03-27,Santa Cruz,Vasco,1,2,D,V,NORMAL,A e B
+1985,1985-03-27,Portuguesa,Guarani,0,0,E,E,NORMAL,A e B
+1985,1985-03-27,Corinthians,São Paulo,1,2,D,V,NORMAL,A e B
+1985,1985-03-27,Botafogo,Santos,1,0,V,D,NORMAL,A e B
+1985,1985-03-27,Internacional,Atlético Mineiro,1,0,V,D,NORMAL,A e B
+1985,1985-03-27,Fluminense,Náutico,0,1,D,V,NORMAL,A e B
+1985,1985-03-28,Sport,Remo,2,0,V,D,NORMAL,C
+1985,1985-03-30,Pinheiros-PR,Ponte Preta,0,1,D,V,NORMAL,D
+1985,1985-03-30,America-RJ,Flamengo,2,3,D,V,NORMAL,A e B
+1985,1985-03-30,Náutico,Botafogo,1,2,D,V,NORMAL,A e B
+1985,1985-03-31,Sport,Botafogo-PB,1,2,D,V,NORMAL,C
+1985,1985-03-31,Ceará,ABC,3,1,V,D,NORMAL,C
+1985,1985-03-31,Mixto,Flamengo-PI,1,0,V,D,NORMAL,C
+1985,1985-03-31,Sergipe,CSA,2,2,E,E,NORMAL,C
+1985,1985-03-31,Remo,Sampaio Corrêa,2,1,V,D,NORMAL,C
+1985,1985-03-31,Nacional-AM,Paysandu,0,1,D,V,NORMAL,C
+1985,1985-03-31,Desportiva Ferroviária,Bangu,0,1,D,V,NORMAL,D
+1985,1985-03-31,Vila Nova,Villa Nova-MG,1,0,V,D,NORMAL,D
+1985,1985-03-31,Brasil de Pelotas,Joinville,1,1,E,E,NORMAL,D
+1985,1985-03-31,Uberlândia,Brasília,1,2,D,V,NORMAL,D
+1985,1985-03-31,Corumbaense,Leônico,2,1,V,D,NORMAL,D
+1985,1985-03-31,Coritiba,Internacional,0,0,E,E,NORMAL,A e B
+1985,1985-03-31,Portuguesa,Corinthians,0,2,D,V,NORMAL,A e B
+1985,1985-03-31,Vasco,Palmeiras,0,1,D,V,NORMAL,A e B
+1985,1985-03-31,Atlético Mineiro,Bahia,2,3,D,V,NORMAL,A e B
+1985,1985-03-31,Fluminense,São Paulo,1,2,D,V,NORMAL,A e B
+1985,1985-03-31,Grêmio,Cruzeiro,0,0,E,E,NORMAL,A e B
+1985,1985-03-31,Guarani,Goiás,1,1,E,E,NORMAL,A e B
+1985,1985-03-31,Santos,Santa Cruz,3,1,V,D,NORMAL,A e B
+1985,1985-04-03,Corinthians,Flamengo,1,1,E,E,NORMAL,A e B
+1985,1985-04-03,Guarani,Santos,1,1,E,E,NORMAL,A e B
+1985,1985-04-03,ABC,Sport,1,3,D,V,NORMAL,C
+1985,1985-04-03,Sampaio Corrêa,Nacional-AM,1,1,E,E,NORMAL,C
+1985,1985-04-03,Flamengo-PI,Remo,0,2,D,V,NORMAL,C
+1985,1985-04-03,Botafogo-PB,Sergipe,1,1,E,E,NORMAL,C
+1985,1985-04-03,CSA,Ceará,2,0,V,D,NORMAL,C
+1985,1985-04-03,Paysandu,Mixto,1,1,E,E,NORMAL,C
+1985,1985-04-03,Bangu,Pinheiros-PR,1,1,E,E,NORMAL,D
+1985,1985-04-03,Joinville,Desportiva Ferroviária,0,1,D,V,NORMAL,D
+1985,1985-04-03,Villa Nova-MG,Uberlândia,0,2,D,V,NORMAL,D
+1985,1985-04-03,Leônico,Vila Nova,2,1,V,D,NORMAL,D
+1985,1985-04-03,Brasília,Corumbaense,1,1,E,E,NORMAL,D
+1985,1985-04-03,Ponte Preta,Brasil de Pelotas,2,2,E,E,NORMAL,D
+1985,1985-04-06,Palmeiras,Internacional,2,2,E,E,NORMAL,A e B
+1985,1985-04-06,America-RJ,Santos,2,3,D,V,NORMAL,A e B
+1985,1985-04-06,Vila Nova,Brasília,3,1,V,D,NORMAL,D
+1985,1985-04-07,Corinthians,Náutico,2,0,V,D,NORMAL,A e B
+1985,1985-04-07,Fluminense,Flamengo,1,1,E,E,NORMAL,A e B
+1985,1985-04-07,Cruzeiro,Botafogo,3,0,V,D,NORMAL,A e B
+1985,1985-04-07,Coritiba,Portuguesa,0,2,D,V,NORMAL,A e B
+1985,1985-04-07,Vasco,Guarani,0,0,E,E,NORMAL,A e B
+1985,1985-04-07,Goiás,Atlético Mineiro,0,0,E,E,NORMAL,A e B
+1985,1985-04-07,Bahia,Grêmio,4,1,V,D,NORMAL,A e B
+1985,1985-04-07,Santa Cruz,São Paulo,2,3,D,V,NORMAL,A e B
+1985,1985-04-07,Sergipe,Sport,0,1,D,V,NORMAL,C
+1985,1985-04-07,Mixto,Nacional-AM,2,2,E,E,NORMAL,C
+1985,1985-04-07,Remo,Paysandu,0,3,D,V,NORMAL,C
+1985,1985-04-07,Flamengo-PI,Sampaio Corrêa,2,0,V,D,NORMAL,C
+1985,1985-04-07,Ceará,Botafogo-PB,2,1,V,D,NORMAL,C
+1985,1985-04-07,ABC,CSA,0,0,E,E,NORMAL,C
+1985,1985-04-07,Desportiva Ferroviária,Ponte Preta,1,0,V,D,NORMAL,D
+1985,1985-04-07,Bangu,Joinville,3,1,V,D,NORMAL,D
+1985,1985-04-07,Leônico,Villa Nova-MG,1,0,V,D,NORMAL,D
+1985,1985-04-07,Corumbaense,Uberlândia,1,0,V,D,NORMAL,D
+1985,1985-04-07,Brasil de Pelotas,Pinheiros-PR,1,0,V,D,NORMAL,D
+1985,1985-04-10,Botafogo,Vasco,1,2,D,V,NORMAL,A e B
+1985,1985-04-10,Portuguesa,America-RJ,1,1,E,E,NORMAL,A e B
+1985,1985-04-10,Internacional,Santa Cruz,3,0,V,D,NORMAL,A e B
+1985,1985-04-10,Náutico,Coritiba,2,0,V,D,NORMAL,A e B
+1985,1985-04-10,Bahia,Corinthians,2,0,V,D,NORMAL,A e B
+1985,1985-04-10,Cruzeiro,Atlético Mineiro,3,2,V,D,NORMAL,A e B
+1985,1985-04-10,Goiás,Fluminense,0,2,D,V,NORMAL,A e B
+1985,1985-04-10,Santos,Palmeiras,1,1,E,E,NORMAL,A e B
+1985,1985-04-10,São Paulo,Grêmio,2,2,E,E,NORMAL,A e B
+1985,1985-04-10,Flamengo,Guarani,1,2,D,V,NORMAL,A e B
+1985,1985-04-10,Nacional-AM,Flamengo-PI,3,1,V,D,NORMAL,C
+1985,1985-04-10,Paysandu,Sampaio Corrêa,5,4,V,D,NORMAL,C
+1985,1985-04-10,Mixto,Remo,3,1,V,D,NORMAL,C
+1985,1985-04-10,Ceará,Sport,0,1,D,V,NORMAL,C
+1985,1985-04-10,CSA,Botafogo-PB,5,1,V,D,NORMAL,C
+1985,1985-04-10,ABC,Sergipe,4,1,V,D,NORMAL,C
+1985,1985-04-10,Desportiva Ferroviária,Pinheiros-PR,0,2,D,V,NORMAL,D
+1985,1985-04-10,Bangu,Brasil de Pelotas,3,1,V,D,NORMAL,D
+1985,1985-04-10,Joinville,Ponte Preta,1,1,E,E,NORMAL,D
+1985,1985-04-10,Brasília,Villa Nova-MG,2,0,V,D,NORMAL,D
+1985,1985-04-10,Uberlândia,Leônico,4,0,V,D,NORMAL,D
+1985,1985-04-10,Corumbaense,Vila Nova,1,3,D,V,NORMAL,D
+1985,1985-04-13,Botafogo,Portuguesa,2,1,V,D,NORMAL,A e B
+1985,1985-04-13,Paysandu,Flamengo-PI,2,0,V,D,NORMAL,C
+1985,1985-04-14,Corinthians,Goiás,2,1,V,D,NORMAL,A e B
+1985,1985-04-14,Coritiba,Santos,2,1,V,D,NORMAL,A e B
+1985,1985-04-14,Guarani,Internacional,1,1,E,E,NORMAL,A e B
+1985,1985-04-14,Palmeiras,Náutico,3,1,V,D,NORMAL,A e B
+1985,1985-04-14,Santa Cruz,Cruzeiro,2,1,V,D,NORMAL,A e B
+1985,1985-04-14,Fluminense,Bahia,2,1,V,D,NORMAL,A e B
+1985,1985-04-14,Grêmio,Flamengo,2,0,V,D,NORMAL,A e B
+1985,1985-04-14,America-RJ,São Paulo,2,1,V,D,NORMAL,A e B
+1985,1985-04-14,Atlético Mineiro,Vasco,1,0,V,D,NORMAL,A e B
+1985,1985-04-14,Remo,Nacional-AM,1,4,D,V,NORMAL,C
+1985,1985-04-14,Botafogo-PB,ABC,2,2,E,E,NORMAL,C
+1985,1985-04-14,Sergipe,Ceará,0,1,D,V,NORMAL,C
+1985,1985-04-14,Sampaio Corrêa,Mixto,0,0,E,E,NORMAL,C
+1985,1985-04-14,Sport,CSA,3,1,V,D,NORMAL,C
+1985,1985-04-14,Brasil de Pelotas,Desportiva Ferroviária,5,0,V,D,NORMAL,D
+1985,1985-04-14,Brasília,Leônico,1,0,V,D,NORMAL,D
+1985,1985-04-14,Pinheiros-PR,Joinville,1,1,E,E,NORMAL,D
+1985,1985-04-14,Villa Nova-MG,Corumbaense,4,3,V,D,NORMAL,D
+1985,1985-04-14,Ponte Preta,Bangu,2,2,E,E,NORMAL,D
+1985,1985-04-14,Vila Nova,Uberlândia,0,3,D,V,NORMAL,D
+1985,1985-04-17,Nacional-AM,Sport,0,0,E,E,NORMAL,C
+1985,1985-04-17,Mixto,Botafogo-PB,1,0,V,D,NORMAL,C
+1985,1985-04-17,Sampaio Corrêa,ABC,2,1,V,D,NORMAL,C
+1985,1985-04-17,Paysandu,CSA,0,0,E,E,NORMAL,C
+1985,1985-04-17,Brasília,Joinville,0,0,E,E,NORMAL,D
+1985,1985-04-17,Leônico,Desportiva Ferroviária,1,1,E,E,NORMAL,D
+1985,1985-04-17,Corumbaense,Ponte Preta,1,5,D,V,NORMAL,D
+1985,1985-04-17,Uberlândia,Pinheiros-PR,2,1,V,D,NORMAL,D
+1985,1985-04-17,Vila Nova,Brasil de Pelotas,0,0,E,E,NORMAL,D
+1985,1985-04-17,Villa Nova-MG,Bangu,0,2,D,V,NORMAL,D
+1985,1985-04-18,Remo,Sergipe,2,1,V,D,NORMAL,C
+1985,1985-04-21,ABC,Flamengo-PI,1,2,D,V,NORMAL,C
+1985,1985-04-21,Sergipe,Paysandu,0,1,D,V,NORMAL,C
+1985,1985-04-21,Botafogo-PB,Nacional-AM,1,2,D,V,NORMAL,C
+1985,1985-04-21,Sport,Mixto,2,0,V,D,NORMAL,C
+1985,1985-04-21,CSA,Remo,3,0,V,D,NORMAL,C
+1985,1985-04-21,Ceará,Sampaio Corrêa,4,1,V,D,NORMAL,C
+1985,1985-04-21,Desportiva Ferroviária,Villa Nova-MG,1,1,E,E,NORMAL,D
+1985,1985-04-21,Brasil de Pelotas,Brasília,2,0,V,D,NORMAL,D
+1985,1985-04-21,Pinheiros-PR,Corumbaense,0,0,E,E,NORMAL,D
+1985,1985-04-21,Ponte Preta,Uberlândia,1,1,E,E,NORMAL,D
+1985,1985-04-21,Bangu,Leônico,1,0,V,D,NORMAL,D
+1985,1985-04-21,Joinville,Vila Nova,3,0,V,D,NORMAL,D
+1985,1985-04-28,Ceará,Flamengo-PI,2,1,V,D,NORMAL,C
+1985,1985-07-03,Ponte Preta,Atlético Mineiro,1,1,E,E,NORMAL,E
+1985,1985-07-03,CSA,Guarani,0,0,E,E,NORMAL,E
+1985,1985-07-03,Brasil de Pelotas,Bahia,2,1,V,D,NORMAL,F
+1985,1985-07-03,Sport,Coritiba,1,1,E,E,NORMAL,G
+1985,1985-07-03,Bangu,Internacional,1,1,E,E,NORMAL,H
+1985,1985-07-03,Mixto,Vasco,1,1,E,E,NORMAL,H
+1985,1985-07-04,Ceará,Flamengo,1,1,E,E,NORMAL,F
+1985,1985-07-04,Joinville,Corinthians,2,0,V,D,NORMAL,G
+1985,1985-07-07,Guarani,Atlético Mineiro,1,1,E,E,NORMAL,E
+1985,1985-07-07,CSA,Ponte Preta,0,0,E,E,NORMAL,E
+1985,1985-07-07,Ceará,Brasil de Pelotas,0,0,E,E,NORMAL,F
+1985,1985-07-07,Bahia,Flamengo,0,0,E,E,NORMAL,F
+1985,1985-07-07,Joinville,Sport,4,2,V,D,NORMAL,G
+1985,1985-07-07,Coritiba,Corinthians,1,0,V,D,NORMAL,G
+1985,1985-07-07,Mixto,Bangu,1,4,D,V,NORMAL,H
+1985,1985-07-07,Vasco,Internacional,1,1,E,E,NORMAL,H
+1985,1985-07-10,Guarani,Ponte Preta,1,1,E,E,NORMAL,E
+1985,1985-07-10,Atlético Mineiro,CSA,2,0,V,D,NORMAL,E
+1985,1985-07-10,Flamengo,Brasil de Pelotas,1,0,V,D,NORMAL,F
+1985,1985-07-10,Bahia,Ceará,4,0,V,D,NORMAL,F
+1985,1985-07-10,Coritiba,Joinville,2,1,V,D,NORMAL,G
+1985,1985-07-10,Corinthians,Sport,0,0,E,E,NORMAL,G
+1985,1985-07-10,Internacional,Mixto,1,0,V,D,NORMAL,H
+1985,1985-07-11,Vasco,Bangu,0,2,D,V,NORMAL,H
+1985,1985-07-13,Corinthians,Coritiba,1,0,V,D,NORMAL,G
+1985,1985-07-14,Atlético Mineiro,Guarani,2,1,V,D,NORMAL,E
+1985,1985-07-14,Ponte Preta,CSA,2,0,V,D,NORMAL,E
+1985,1985-07-14,Flamengo,Bahia,3,0,V,D,NORMAL,F
+1985,1985-07-14,Brasil de Pelotas,Ceará,4,0,V,D,NORMAL,F
+1985,1985-07-14,Sport,Joinville,1,0,V,D,NORMAL,G
+1985,1985-07-14,Internacional,Vasco,2,2,E,E,NORMAL,H
+1985,1985-07-14,Bangu,Mixto,1,1,E,E,NORMAL,H
+1985,1985-07-17,CSA,Atlético Mineiro,0,0,E,E,NORMAL,E
+1985,1985-07-17,Ponte Preta,Guarani,0,0,E,E,NORMAL,E
+1985,1985-07-17,Ceará,Bahia,2,1,V,D,NORMAL,F
+1985,1985-07-17,Sport,Corinthians,3,1,V,D,NORMAL,G
+1985,1985-07-17,Joinville,Coritiba,0,1,D,V,NORMAL,G
+1985,1985-07-17,Vasco,Bangu,1,3,D,V,NORMAL,H
+1985,1985-07-17,Mixto,Internacional,1,3,D,V,NORMAL,H
+1985,1985-07-18,Brasil de Pelotas,Flamengo,2,0,V,D,NORMAL,F
+1985,1985-07-21,Atlético Mineiro,Ponte Preta,1,0,V,D,NORMAL,E
+1985,1985-07-21,Guarani,CSA,6,1,V,D,NORMAL,E
+1985,1985-07-21,Bahia,Brasil de Pelotas,2,3,D,V,NORMAL,F
+1985,1985-07-21,Flamengo,Ceará,2,2,E,E,NORMAL,F
+1985,1985-07-21,Coritiba,Sport,0,0,E,E,NORMAL,G
+1985,1985-07-21,Corinthians,Joinville,1,1,E,E,NORMAL,G
+1985,1985-07-21,Internacional,Bangu,1,2,D,V,NORMAL,H
+1985,1985-07-21,Vasco,Mixto,4,0,V,D,NORMAL,H
+1985,1985-07-24,Brasil de Pelotas,Bangu,0,1,D,V,NORMAL,SF
+1985,1985-07-24,Coritiba,Atlético Mineiro,1,0,V,D,NORMAL,SF
+1985,1985-07-28,Bangu,Brasil de Pelotas,3,1,V,D,NORMAL,SF
+1985,1985-07-28,Atlético Mineiro,Coritiba,0,0,E,E,NORMAL,SF
+1985,1985-07-31,Bangu,Coritiba,1,1,E,E,NORMAL,F

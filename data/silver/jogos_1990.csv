@@ -1,0 +1,205 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1990,1990-08-18,Inter de Limeira,Bahia,2,1,V,D,NORMAL,1F
+1990,1990-08-18,Náutico,Santos,1,0,V,D,NORMAL,1F
+1990,1990-08-18,São Paulo,Atlético Mineiro,1,2,D,V,NORMAL,1F
+1990,1990-08-19,São José,Goiás,1,1,E,E,NORMAL,1F
+1990,1990-08-19,Cruzeiro,Botafogo,1,0,V,D,NORMAL,1F
+1990,1990-08-19,Fluminense,Portuguesa,3,0,V,D,NORMAL,1F
+1990,1990-08-19,Grêmio,Corinthians,3,0,V,D,NORMAL,1F
+1990,1990-08-25,Vasco,Inter de Limeira,0,1,D,V,NORMAL,1F
+1990,1990-08-25,Corinthians,Cruzeiro,0,1,D,V,NORMAL,1F
+1990,1990-08-25,Portuguesa,Vitória,0,0,E,E,NORMAL,1F
+1990,1990-08-26,Botafogo,São José,0,1,D,V,NORMAL,1F
+1990,1990-08-26,Goiás,Náutico,1,0,V,D,NORMAL,1F
+1990,1990-08-26,Internacional,Grêmio,0,1,D,V,NORMAL,1F
+1990,1990-08-29,Bahia,Flamengo,1,0,V,D,NORMAL,1F
+1990,1990-08-29,Atlético Mineiro,Fluminense,4,2,V,D,NORMAL,1F
+1990,1990-08-29,Santos,São Paulo,1,0,V,D,NORMAL,1F
+1990,1990-08-30,Palmeiras,Internacional,1,0,V,D,NORMAL,1F
+1990,1990-09-01,Cruzeiro,Portuguesa,1,0,V,D,NORMAL,1F
+1990,1990-09-01,Flamengo,Goiás,2,2,E,E,NORMAL,1F
+1990,1990-09-02,Vitória,Corinthians,0,0,E,E,NORMAL,1F
+1990,1990-09-02,São Paulo,Red Bull Bragantino,1,0,V,D,NORMAL,1F
+1990,1990-09-02,Fluminense,Internacional,1,1,E,E,NORMAL,1F
+1990,1990-09-02,Náutico,Bahia,0,0,E,E,NORMAL,1F
+1990,1990-09-02,Inter de Limeira,Botafogo,1,0,V,D,NORMAL,1F
+1990,1990-09-02,Palmeiras,Santos,0,0,E,E,NORMAL,1F
+1990,1990-09-02,Grêmio,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1990,1990-09-05,Flamengo,Red Bull Bragantino,1,2,D,V,NORMAL,1F
+1990,1990-09-05,São José,Vasco,0,0,E,E,NORMAL,1F
+1990,1990-09-07,Goiás,Cruzeiro,2,2,E,E,NORMAL,1F
+1990,1990-09-08,Botafogo,Grêmio,1,1,E,E,NORMAL,1F
+1990,1990-09-08,Santos,São José,2,0,V,D,NORMAL,1F
+1990,1990-09-09,Vasco,Fluminense,0,0,E,E,NORMAL,1F
+1990,1990-09-09,Portuguesa,São Paulo,1,2,D,V,NORMAL,1F
+1990,1990-09-09,Corinthians,Palmeiras,2,1,V,D,NORMAL,1F
+1990,1990-09-09,Internacional,Flamengo,3,3,E,E,NORMAL,1F
+1990,1990-09-09,Red Bull Bragantino,Inter de Limeira,2,1,V,D,NORMAL,1F
+1990,1990-09-09,Atlético Mineiro,Náutico,1,0,V,D,NORMAL,1F
+1990,1990-09-09,Bahia,Vitória,0,1,D,V,NORMAL,1F
+1990,1990-09-15,Fluminense,Santos,5,2,V,D,NORMAL,1F
+1990,1990-09-16,São José,Corinthians,1,2,D,V,NORMAL,1F
+1990,1990-09-16,São Paulo,Goiás,0,1,D,V,NORMAL,1F
+1990,1990-09-16,Flamengo,Vasco,1,0,V,D,NORMAL,1F
+1990,1990-09-16,Grêmio,Red Bull Bragantino,0,1,D,V,NORMAL,1F
+1990,1990-09-16,Vitória,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1990,1990-09-16,Náutico,Botafogo,2,1,V,D,NORMAL,1F
+1990,1990-09-16,Cruzeiro,Internacional,2,0,V,D,NORMAL,1F
+1990,1990-09-16,Inter de Limeira,Portuguesa,1,1,E,E,NORMAL,1F
+1990,1990-09-16,Palmeiras,Bahia,1,2,D,V,NORMAL,1F
+1990,1990-09-19,Portuguesa,Grêmio,2,2,E,E,NORMAL,1F
+1990,1990-09-19,Red Bull Bragantino,Náutico,0,1,D,V,NORMAL,1F
+1990,1990-09-19,Corinthians,Fluminense,1,0,V,D,NORMAL,1F
+1990,1990-09-19,Botafogo,Vitória,0,0,E,E,NORMAL,1F
+1990,1990-09-19,Vasco,Cruzeiro,1,1,E,E,NORMAL,1F
+1990,1990-09-19,Bahia,São José,3,0,V,D,NORMAL,1F
+1990,1990-09-19,Goiás,Inter de Limeira,3,0,V,D,NORMAL,1F
+1990,1990-09-19,Atlético Mineiro,Palmeiras,1,0,V,D,NORMAL,1F
+1990,1990-09-19,Santos,Flamengo,0,0,E,E,NORMAL,1F
+1990,1990-09-20,Internacional,São Paulo,1,2,D,V,NORMAL,1F
+1990,1990-09-22,Palmeiras,Portuguesa,1,3,D,V,NORMAL,1F
+1990,1990-09-22,Cruzeiro,Bahia,0,0,E,E,NORMAL,1F
+1990,1990-09-22,Flamengo,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1990,1990-09-23,São Paulo,Corinthians,1,1,E,E,NORMAL,1F
+1990,1990-09-23,Náutico,Internacional,1,1,E,E,NORMAL,1F
+1990,1990-09-23,Fluminense,Botafogo,0,1,D,V,NORMAL,1F
+1990,1990-09-23,Vitória,Goiás,1,1,E,E,NORMAL,1F
+1990,1990-09-23,Grêmio,Vasco,1,1,E,E,NORMAL,1F
+1990,1990-09-23,Inter de Limeira,Santos,0,0,E,E,NORMAL,1F
+1990,1990-09-23,São José,Red Bull Bragantino,0,1,D,V,NORMAL,1F
+1990,1990-09-26,Vitória,Vasco,2,0,V,D,NORMAL,1F
+1990,1990-09-26,Red Bull Bragantino,Palmeiras,1,1,E,E,NORMAL,1F
+1990,1990-09-26,Cruzeiro,Santos,1,1,E,E,NORMAL,1F
+1990,1990-09-29,Bahia,São Paulo,2,2,E,E,NORMAL,1F
+1990,1990-09-30,Corinthians,Inter de Limeira,1,0,V,D,NORMAL,1F
+1990,1990-09-30,Portuguesa,São José,2,2,E,E,NORMAL,1F
+1990,1990-09-30,Botafogo,Flamengo,1,0,V,D,NORMAL,1F
+1990,1990-09-30,Fluminense,Red Bull Bragantino,1,1,E,E,NORMAL,1F
+1990,1990-09-30,Vasco,Náutico,1,1,E,E,NORMAL,1F
+1990,1990-09-30,Atlético Mineiro,Cruzeiro,2,0,V,D,NORMAL,1F
+1990,1990-09-30,Goiás,Palmeiras,0,2,D,V,NORMAL,1F
+1990,1990-09-30,Internacional,Vitória,0,0,E,E,NORMAL,1F
+1990,1990-10-01,Santos,Grêmio,0,0,E,E,NORMAL,1F
+1990,1990-10-04,Flamengo,Corinthians,1,2,D,V,NORMAL,1F
+1990,1990-10-04,Vitória,Red Bull Bragantino,1,0,V,D,NORMAL,1F
+1990,1990-10-04,Grêmio,Goiás,2,0,V,D,NORMAL,1F
+1990,1990-10-04,Fluminense,Bahia,1,4,D,V,NORMAL,1F
+1990,1990-10-04,Náutico,Portuguesa,2,2,E,E,NORMAL,1F
+1990,1990-10-04,Palmeiras,Botafogo,0,1,D,V,NORMAL,1F
+1990,1990-10-04,São Paulo,Vasco,0,0,E,E,NORMAL,1F
+1990,1990-10-04,São José,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1990,1990-10-07,Corinthians,Náutico,1,0,V,D,NORMAL,1F
+1990,1990-10-07,Portuguesa,Flamengo,0,2,D,V,NORMAL,1F
+1990,1990-10-07,Bahia,Grêmio,1,2,D,V,NORMAL,1F
+1990,1990-10-07,Internacional,São José,1,1,E,E,NORMAL,1F
+1990,1990-10-07,Atlético Mineiro,Inter de Limeira,1,0,V,D,NORMAL,1F
+1990,1990-10-07,Vasco,Palmeiras,2,1,V,D,NORMAL,1F
+1990,1990-10-07,Botafogo,São Paulo,1,0,V,D,NORMAL,1F
+1990,1990-10-07,Santos,Vitória,3,0,V,D,NORMAL,1F
+1990,1990-10-07,Red Bull Bragantino,Cruzeiro,3,0,V,D,NORMAL,1F
+1990,1990-10-07,Goiás,Fluminense,3,0,V,D,NORMAL,1F
+1990,1990-10-10,São Paulo,Inter de Limeira,1,0,V,D,NORMAL,B
+1990,1990-10-10,Palmeiras,São José,2,0,V,D,NORMAL,B
+1990,1990-10-10,Flamengo,Vitória,2,0,V,D,NORMAL,B
+1990,1990-10-10,Fluminense,Náutico,0,0,E,E,NORMAL,B
+1990,1990-10-10,Cruzeiro,Grêmio,4,0,V,D,NORMAL,B
+1990,1990-10-10,Red Bull Bragantino,Corinthians,2,2,E,E,NORMAL,A
+1990,1990-10-10,Goiás,Vasco,1,1,E,E,NORMAL,A
+1990,1990-10-11,Santos,Portuguesa,1,0,V,D,NORMAL,A
+1990,1990-10-11,Atlético Mineiro,Internacional,2,1,V,D,NORMAL,A
+1990,1990-10-11,Botafogo,Bahia,0,1,D,V,NORMAL,A
+1990,1990-10-13,Vitória,Palmeiras,1,2,D,V,NORMAL,B
+1990,1990-10-13,Náutico,Flamengo,0,0,E,E,NORMAL,B
+1990,1990-10-14,São José,São Paulo,0,0,E,E,NORMAL,B
+1990,1990-10-14,Inter de Limeira,Cruzeiro,0,1,D,V,NORMAL,B
+1990,1990-10-14,Corinthians,Bahia,0,0,E,E,NORMAL,A
+1990,1990-10-14,Santos,Atlético Mineiro,0,0,E,E,NORMAL,A
+1990,1990-10-14,Red Bull Bragantino,Portuguesa,1,1,E,E,NORMAL,A
+1990,1990-10-14,Vasco,Internacional,3,0,V,D,NORMAL,A
+1990,1990-10-14,Botafogo,Goiás,2,0,V,D,NORMAL,A
+1990,1990-10-15,Grêmio,Fluminense,2,1,V,D,NORMAL,B
+1990,1990-10-17,Inter de Limeira,Internacional,1,2,D,V,NORMAL,1F
+1990,1990-10-20,Grêmio,Náutico,5,0,V,D,NORMAL,B
+1990,1990-10-21,São Paulo,Palmeiras,1,2,D,V,NORMAL,B
+1990,1990-10-21,Vitória,Inter de Limeira,3,0,V,D,NORMAL,B
+1990,1990-10-21,Cruzeiro,São José,0,0,E,E,NORMAL,B
+1990,1990-10-21,Flamengo,Fluminense,2,1,V,D,NORMAL,B
+1990,1990-10-21,Santos,Bahia,1,0,V,D,NORMAL,A
+1990,1990-10-21,Corinthians,Portuguesa,0,0,E,E,NORMAL,A
+1990,1990-10-21,Red Bull Bragantino,Atlético Mineiro,1,1,E,E,NORMAL,A
+1990,1990-10-21,Internacional,Goiás,2,0,V,D,NORMAL,A
+1990,1990-10-24,Palmeiras,Flamengo,1,1,E,E,NORMAL,B
+1990,1990-10-24,Inter de Limeira,Náutico,1,0,V,D,NORMAL,B
+1990,1990-10-24,São Paulo,Vitória,4,0,V,D,NORMAL,B
+1990,1990-10-24,São José,Grêmio,1,1,E,E,NORMAL,B
+1990,1990-10-24,Botafogo,Corinthians,1,0,V,D,NORMAL,A
+1990,1990-10-24,Atlético Mineiro,Vasco,0,0,E,E,NORMAL,A
+1990,1990-10-24,Goiás,Santos,1,0,V,D,NORMAL,A
+1990,1990-10-24,Internacional,Red Bull Bragantino,0,0,E,E,NORMAL,A
+1990,1990-10-25,Bahia,Portuguesa,0,0,E,E,NORMAL,A
+1990,1990-10-27,Internacional,Santos,1,1,E,E,NORMAL,A
+1990,1990-10-27,Atlético Mineiro,Goiás,1,3,D,V,NORMAL,A
+1990,1990-10-28,Fluminense,Palmeiras,0,1,D,V,NORMAL,B
+1990,1990-10-28,São José,Vitória,2,1,V,D,NORMAL,B
+1990,1990-10-28,Grêmio,Inter de Limeira,3,0,V,D,NORMAL,B
+1990,1990-10-28,Flamengo,São Paulo,0,1,D,V,NORMAL,B
+1990,1990-10-28,Náutico,Cruzeiro,1,0,V,D,NORMAL,B
+1990,1990-10-28,Corinthians,Vasco,0,0,E,E,NORMAL,A
+1990,1990-10-28,Bahia,Red Bull Bragantino,1,1,E,E,NORMAL,A
+1990,1990-10-28,Portuguesa,Botafogo,3,1,V,D,NORMAL,A
+1990,1990-10-31,Fluminense,Cruzeiro,0,1,D,V,NORMAL,B
+1990,1990-11-03,Palmeiras,Inter de Limeira,1,0,V,D,NORMAL,B
+1990,1990-11-03,Vitória,Fluminense,1,2,D,V,NORMAL,B
+1990,1990-11-03,Vasco,Bahia,0,0,E,E,NORMAL,A
+1990,1990-11-03,Internacional,Botafogo,1,2,D,V,NORMAL,A
+1990,1990-11-04,Náutico,São José,0,0,E,E,NORMAL,B
+1990,1990-11-04,Flamengo,Grêmio,0,1,D,V,NORMAL,B
+1990,1990-11-04,Cruzeiro,São Paulo,1,2,D,V,NORMAL,B
+1990,1990-11-04,Corinthians,Santos,1,0,V,D,NORMAL,A
+1990,1990-11-04,Red Bull Bragantino,Goiás,0,0,E,E,NORMAL,A
+1990,1990-11-04,Portuguesa,Atlético Mineiro,0,0,E,E,NORMAL,A
+1990,1990-11-06,Botafogo,Vasco,2,2,E,E,NORMAL,A
+1990,1990-11-10,São Paulo,Fluminense,0,0,E,E,NORMAL,B
+1990,1990-11-10,Santos,Red Bull Bragantino,3,0,V,D,NORMAL,A
+1990,1990-11-11,Palmeiras,Náutico,1,1,E,E,NORMAL,B
+1990,1990-11-11,São José,Inter de Limeira,1,0,V,D,NORMAL,B
+1990,1990-11-11,Cruzeiro,Flamengo,1,2,D,V,NORMAL,B
+1990,1990-11-11,Grêmio,Vitória,1,0,V,D,NORMAL,B
+1990,1990-11-11,Goiás,Corinthians,3,1,V,D,NORMAL,A
+1990,1990-11-11,Vasco,Portuguesa,2,1,V,D,NORMAL,A
+1990,1990-11-11,Botafogo,Atlético Mineiro,1,1,E,E,NORMAL,A
+1990,1990-11-11,Bahia,Internacional,2,1,V,D,NORMAL,A
+1990,1990-11-14,Palmeiras,Cruzeiro,3,2,V,D,NORMAL,B
+1990,1990-11-14,Fluminense,São José,1,0,V,D,NORMAL,B
+1990,1990-11-14,Vitória,Náutico,2,2,E,E,NORMAL,B
+1990,1990-11-14,Atlético Mineiro,Corinthians,1,3,D,V,NORMAL,A
+1990,1990-11-14,Red Bull Bragantino,Vasco,1,0,V,D,NORMAL,A
+1990,1990-11-14,Internacional,Portuguesa,1,0,V,D,NORMAL,A
+1990,1990-11-14,Goiás,Bahia,0,0,E,E,NORMAL,A
+1990,1990-11-15,Flamengo,Inter de Limeira,3,1,V,D,NORMAL,B
+1990,1990-11-15,São Paulo,Grêmio,1,0,V,D,NORMAL,B
+1990,1990-11-15,Santos,Botafogo,2,1,V,D,NORMAL,A
+1990,1990-11-18,Grêmio,Palmeiras,0,0,E,E,NORMAL,B
+1990,1990-11-18,Náutico,São Paulo,1,1,E,E,NORMAL,B
+1990,1990-11-18,Inter de Limeira,Fluminense,0,1,D,V,NORMAL,B
+1990,1990-11-18,São José,Flamengo,0,3,D,V,NORMAL,B
+1990,1990-11-18,Cruzeiro,Vitória,2,1,V,D,NORMAL,B
+1990,1990-11-18,Corinthians,Internacional,0,3,D,V,NORMAL,A
+1990,1990-11-18,Portuguesa,Goiás,2,0,V,D,NORMAL,A
+1990,1990-11-18,Botafogo,Red Bull Bragantino,1,2,D,V,NORMAL,A
+1990,1990-11-18,Vasco,Santos,2,2,E,E,NORMAL,A
+1990,1990-11-18,Bahia,Atlético Mineiro,2,0,V,D,NORMAL,A
+1990,1990-11-24,Corinthians,Atlético Mineiro,2,1,V,D,NORMAL,QF
+1990,1990-11-24,Santos,São Paulo,0,1,D,V,NORMAL,QF
+1990,1990-11-24,Palmeiras,Grêmio,1,0,V,D,NORMAL,QF
+1990,1990-11-24,Red Bull Bragantino,Bahia,1,1,E,E,NORMAL,QF
+1990,1990-12-01,Atlético Mineiro,Corinthians,0,0,E,E,NORMAL,QF
+1990,1990-12-01,São Paulo,Santos,1,1,E,E,NORMAL,QF
+1990,1990-12-01,Grêmio,Palmeiras,2,0,V,D,NORMAL,QF
+1990,1990-12-01,Bahia,Red Bull Bragantino,3,2,V,D,NORMAL,QF
+1990,1990-12-05,São Paulo,Grêmio,2,0,V,D,NORMAL,SF
+1990,1990-12-05,Corinthians,Bahia,2,1,V,D,NORMAL,SF
+1990,1990-12-08,Grêmio,São Paulo,1,0,V,D,NORMAL,SF
+1990,1990-12-09,Bahia,Corinthians,0,0,E,E,NORMAL,SF
+1990,1990-12-13,Corinthians,São Paulo,1,0,V,D,NORMAL,F
+1990,1990-12-16,São Paulo,Corinthians,0,1,D,V,NORMAL,F

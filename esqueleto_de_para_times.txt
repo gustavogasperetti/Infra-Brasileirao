@@ -167,5 +167,5 @@ DE_PARA_TIMES = {
     "Volta Redonda": "Volta Redonda",
     "XV de Jaú": "XV de Jaú",
     "XV de Piracicaba": "XV de Piracicaba",
-    "Ypiranga-AP": "Ypiranga-AP",
+    "Ypiranga-AP": "Ypiranga-AP"
 }

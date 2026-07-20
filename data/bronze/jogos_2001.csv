@@ -1,0 +1,387 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2001-08-01,Guarani,1-3,Palmeiras,R1
+2001-08-01,Botafogo,1-1,América Mineiro,R1
+2001-08-01,Portuguesa,0-1,Goiás,R1
+2001-08-01,Flamengo,0-0,Ponte Preta,R1
+2001-08-01,Corinthians,2-0,Vitória,R1
+2001-08-01,Paraná,1-0,Cruzeiro,R1
+2001-08-01,Internacional,0-2,Juventude,R1
+2001-08-01,Sport,1-1,Fluminense,R1
+2001-08-01,Bahia,5-0,São Caetano,R1
+2001-08-01,Botafogo-SP,2-2,São Paulo,R1
+2001-08-01,Gama,0-0,Vasco,R1
+2001-08-01,Atlético Mineiro,1-1,Coritiba,R1
+2001-08-02,Santos,1-1,Santa Cruz,R1
+2001-08-02,Atlético Paranaense,2-0,Grêmio,R1
+2001-08-04,Palmeiras,2-1,Bahia,R2
+2001-08-04,Fluminense,2-0,Botafogo-SP,R2
+2001-08-04,América Mineiro,0-0,Portuguesa,R2
+2001-08-04,Juventude,1-4,Atlético Mineiro,R2
+2001-08-05,Ponte Preta,2-2,Corinthians,R2
+2001-08-05,Vasco,7-1,Guarani,R2
+2001-08-05,São Paulo,0-0,Gama,R2
+2001-08-05,Cruzeiro,1-2,Atlético Paranaense,R2
+2001-08-05,Coritiba,3-2,Internacional,R2
+2001-08-05,Grêmio,2-1,Paraná,R2
+2001-08-05,Santa Cruz,0-4,Botafogo,R2
+2001-08-05,Vitória,1-1,Santos,R2
+2001-08-05,São Caetano,2-0,Sport,R2
+2001-08-05,Goiás,2-0,Flamengo,R2
+2001-08-08,Juventude,0-0,Palmeiras,R3
+2001-08-08,Coritiba,1-0,Vasco,R3
+2001-08-08,Vitória,2-1,São Paulo,R3
+2001-08-08,Corinthians,3-2,Botafogo-SP,R3
+2001-08-08,Cruzeiro,0-0,Ponte Preta,R3
+2001-08-08,Grêmio,0-0,Goiás,R3
+2001-08-08,Santa Cruz,1-2,Internacional,R3
+2001-08-08,Flamengo,0-1,Paraná,R3
+2001-08-08,Gama,1-1,Santos,R3
+2001-08-08,São Caetano,0-0,Atlético Paranaense,R3
+2001-08-09,Botafogo,3-2,Bahia,R3
+2001-08-09,Guarani,1-1,Fluminense,R3
+2001-08-09,Portuguesa,2-1,Sport,R3
+2001-08-09,América Mineiro,0-1,Atlético Mineiro,R3
+2001-08-11,Vasco,1-1,Juventude,R4
+2001-08-11,São Paulo,3-1,Santa Cruz,R4
+2001-08-11,Atlético Paranaense,4-0,Flamengo,R4
+2001-08-11,Botafogo-SP,1-4,Cruzeiro,R4
+2001-08-12,Paraná,3-1,Corinthians,R4
+2001-08-12,Ponte Preta,3-1,Botafogo,R4
+2001-08-12,Fluminense,1-1,Vitória,R4
+2001-08-12,Atlético Mineiro,3-0,Guarani,R4
+2001-08-12,Internacional,2-0,Gama,R4
+2001-08-12,Sport,2-1,Grêmio,R4
+2001-08-12,Bahia,2-1,Portuguesa,R4
+2001-08-12,Goiás,0-0,São Caetano,R4
+2001-08-12,Santos,2-0,Coritiba,R4
+2001-08-12,Palmeiras,3-1,América Mineiro,R4
+2001-08-15,Flamengo,2-1,Sport,R5
+2001-08-15,Corinthians,0-0,Juventude,R5
+2001-08-15,Cruzeiro,0-3,América Mineiro,R5
+2001-08-15,Paraná,1-2,Ponte Preta,R5
+2001-08-15,Santa Cruz,3-2,Palmeiras,R5
+2001-08-15,Vitória,1-0,Vasco,R5
+2001-08-15,São Caetano,1-1,Fluminense,R5
+2001-08-16,Internacional,2-0,Bahia,R5
+2001-08-16,Botafogo,0-1,Goiás,R5
+2001-08-16,Portuguesa,1-0,Coritiba,R5
+2001-08-16,Atlético Paranaense,1-0,Atlético Mineiro,R5
+2001-08-16,Guarani,1-2,São Paulo,R5
+2001-08-16,Botafogo-SP,0-1,Santos,R5
+2001-08-16,Gama,2-1,Grêmio,R5
+2001-08-18,Vasco,1-1,Santa Cruz,R6
+2001-08-18,Palmeiras,3-1,Paraná,R6
+2001-08-18,América Mineiro,0-1,São Caetano,R6
+2001-08-19,Sport,2-1,Corinthians,R6
+2001-08-19,Bahia,0-2,Flamengo,R6
+2001-08-19,Fluminense,4-3,Gama,R6
+2001-08-19,São Paulo,2-1,Atlético Paranaense,R6
+2001-08-19,Atlético Mineiro,2-0,Botafogo-SP,R6
+2001-08-19,Coritiba,3-2,Cruzeiro,R6
+2001-08-19,Grêmio,0-0,Vitória,R6
+2001-08-19,Ponte Preta,2-1,Portuguesa,R6
+2001-08-19,Goiás,0-1,Internacional,R6
+2001-08-19,Santos,0-0,Botafogo,R6
+2001-08-19,Juventude,1-0,Guarani,R6
+2001-08-25,Fluminense,3-2,Santa Cruz,R7
+2001-08-25,Palmeiras,3-2,Goiás,R7
+2001-08-25,Paraná,0-1,Portuguesa,R7
+2001-08-26,Bahia,1-0,Corinthians,R7
+2001-08-26,Botafogo-SP,1-0,Flamengo,R7
+2001-08-26,Vasco,4-0,Atlético Paranaense,R7
+2001-08-26,São Paulo,4-0,Ponte Preta,R7
+2001-08-26,Atlético Mineiro,3-0,Vitória,R7
+2001-08-26,Coritiba,1-1,São Caetano,R7
+2001-08-26,Grêmio,3-1,América Mineiro,R7
+2001-08-26,Sport,0-1,Cruzeiro,R7
+2001-08-26,Guarani,2-2,Internacional,R7
+2001-08-26,Gama,0-0,Botafogo,R7
+2001-08-26,Santos,2-2,Juventude,R7
+2001-08-29,Corinthians,2-2,Gama,R8
+2001-08-29,América Mineiro,1-1,Vasco,R8
+2001-08-29,Atlético Paranaense,1-1,Santos,R8
+2001-08-29,Internacional,2-0,Botafogo-SP,R8
+2001-08-29,Santa Cruz,1-1,Atlético Mineiro,R8
+2001-08-29,Vitória,1-3,Palmeiras,R8
+2001-08-29,Ponte Preta,3-2,Grêmio,R8
+2001-08-29,Goiás,2-0,Fluminense,R8
+2001-08-29,São Caetano,4-1,Paraná,R8
+2001-08-29,Juventude,3-3,São Paulo,R8
+2001-08-29,Botafogo,3-1,Sport,R8
+2001-08-30,Flamengo,0-1,Coritiba,R8
+2001-08-30,Portuguesa,1-2,Guarani,R8
+2001-08-30,Cruzeiro,1-1,Bahia,R8
+2001-09-01,Fluminense,2-1,Juventude,R9
+2001-09-01,Palmeiras,2-0,Atlético Paranaense,R9
+2001-09-01,Paraná,3-0,Internacional,R9
+2001-09-01,Atlético Mineiro,3-0,Sport,R9
+2001-09-02,Santa Cruz,2-1,Flamengo,R9
+2001-09-02,América Mineiro,4-4,Corinthians,R9
+2001-09-02,Vasco,2-2,Botafogo-SP,R9
+2001-09-02,São Paulo,0-1,Bahia,R9
+2001-09-02,Coritiba,2-3,Botafogo,R9
+2001-09-02,Grêmio,1-0,Guarani,R9
+2001-09-02,Vitória,2-2,Cruzeiro,R9
+2001-09-02,Gama,0-1,Portuguesa,R9
+2001-09-02,Santos,1-2,Goiás,R9
+2001-09-02,Ponte Preta,3-6,São Caetano,R9
+2001-09-06,Flamengo,2-0,Santos,R9
+2001-09-06,São Caetano,1-0,Palmeiras,R9
+2001-09-08,Botafogo,0-2,Paraná,R10
+2001-09-08,Corinthians,3-2,Coritiba,R10
+2001-09-08,Cruzeiro,4-1,Santa Cruz,R10
+2001-09-09,Atlético Paranaense,1-2,Fluminense,R10
+2001-09-09,Goiás,2-3,São Paulo,R10
+2001-09-09,Flamengo,1-1,América Mineiro,R10
+2001-09-09,Internacional,2-2,Ponte Preta,R10
+2001-09-09,Sport,3-3,Vasco,R10
+2001-09-09,Bahia,4-0,Atlético Mineiro,R10
+2001-09-09,Guarani,1-1,Santos,R10
+2001-09-09,Botafogo-SP,0-1,Palmeiras,R10
+2001-09-09,São Caetano,3-2,Gama,R10
+2001-09-09,Juventude,1-2,Grêmio,R10
+2001-09-09,Portuguesa,3-2,Vitória,R10
+2001-09-15,Fluminense,2-0,Ponte Preta,R11
+2001-09-15,São Paulo,1-3,Paraná,R11
+2001-09-15,Guarani,2-0,Cruzeiro,R11
+2001-09-15,Vitória,2-0,Internacional,R11
+2001-09-16,Palmeiras,3-0,Sport,R11
+2001-09-16,Goiás,2-3,Corinthians,R11
+2001-09-16,Juventude,1-1,Flamengo,R11
+2001-09-16,Vasco,0-1,Bahia,R11
+2001-09-16,Atlético Mineiro,2-1,Gama,R11
+2001-09-16,Atlético Paranaense,3-1,Portuguesa,R11
+2001-09-16,Grêmio,2-0,Coritiba,R11
+2001-09-16,Santa Cruz,0-1,São Caetano,R11
+2001-09-16,Botafogo-SP,0-2,Botafogo,R11
+2001-09-16,Santos,3-0,América Mineiro,R11
+2001-09-19,Botafogo,0-2,Guarani,R12
+2001-09-19,Corinthians,2-2,Santa Cruz,R12
+2001-09-19,Cruzeiro,1-2,Goiás,R12
+2001-09-19,Paraná,2-0,Vasco,R12
+2001-09-19,Internacional,4-4,Atlético Paranaense,R12
+2001-09-19,Sport,0-2,Santos,R12
+2001-09-19,Ponte Preta,4-3,Atlético Mineiro,R12
+2001-09-19,Gama,1-1,Palmeiras,R12
+2001-09-19,São Caetano,0-1,Botafogo-SP,R12
+2001-09-20,Bahia,1-1,Grêmio,R12
+2001-09-20,Flamengo,1-1,Vitória,R12
+2001-09-20,Portuguesa,1-2,Juventude,R12
+2001-09-20,América Mineiro,1-0,Fluminense,R12
+2001-09-20,Coritiba,0-1,São Paulo,R12
+2001-09-22,Vasco,2-1,Goiás,R13
+2001-09-22,Palmeiras,0-2,Ponte Preta,R13
+2001-09-22,Gama,1-1,Cruzeiro,R13
+2001-09-23,Atlético Paranaense,3-2,Corinthians,R13
+2001-09-23,Guarani,1-3,Flamengo,R13
+2001-09-23,Fluminense,3-1,Coritiba,R13
+2001-09-23,São Paulo,4-1,América Mineiro,R13
+2001-09-23,Atlético Mineiro,4-0,Paraná,R13
+2001-09-23,Internacional,2-0,Sport,R13
+2001-09-23,Santa Cruz,0-0,Portuguesa,R13
+2001-09-23,Vitória,3-1,Botafogo,R13
+2001-09-23,Botafogo-SP,1-2,Grêmio,R13
+2001-09-23,Santos,5-1,Bahia,R13
+2001-09-23,Juventude,0-3,São Caetano,R13
+2001-09-29,Botafogo,1-3,Atlético Paranaense,R14
+2001-09-29,Paraná,1-0,Santos,R14
+2001-09-29,Portuguesa,1-0,Botafogo-SP,R14
+2001-09-29,América Mineiro,0-2,Internacional,R14
+2001-09-30,Flamengo,1-2,Gama,R14
+2001-09-30,Corinthians,0-3,Guarani,R14
+2001-09-30,Cruzeiro,3-0,Juventude,R14
+2001-09-30,Coritiba,4-1,Palmeiras,R14
+2001-09-30,Bahia,1-1,Fluminense,R14
+2001-09-30,Ponte Preta,2-2,Vasco,R14
+2001-09-30,Sport,1-0,São Paulo,R14
+2001-09-30,Goiás,1-2,Atlético Mineiro,R14
+2001-09-30,São Caetano,0-2,Vitória,R14
+2001-10-02,Portuguesa,3-0,Internacional,R15
+2001-10-02,Paraná,1-2,América Mineiro,R15
+2001-10-03,Vasco,3-0,Cruzeiro,R15
+2001-10-03,Corinthians,4-2,Palmeiras,R15
+2001-10-03,Atlético Mineiro,4-0,Botafogo,R15
+2001-10-03,Coritiba,1-1,Juventude,R15
+2001-10-03,Grêmio,1-1,Fluminense,R15
+2001-10-03,Santa Cruz,1-5,Atlético Paranaense,R15
+2001-10-03,Vitória,1-0,Sport,R15
+2001-10-03,Ponte Preta,1-1,Gama,R15
+2001-10-03,Botafogo-SP,1-1,Guarani,R15
+2001-10-03,Goiás,3-0,Bahia,R15
+2001-10-03,Santos,1-0,São Paulo,R15
+2001-10-06,Corinthians,3-1,Portuguesa,R16
+2001-10-06,Botafogo,1-2,Fluminense,R16
+2001-10-06,São Paulo,0-1,Palmeiras,R16
+2001-10-06,Cruzeiro,2-2,Atlético Mineiro,R16
+2001-10-06,América Mineiro,1-4,Ponte Preta,R16
+2001-10-06,Atlético Paranaense,1-1,Paraná,R16
+2001-10-06,Grêmio,1-0,Internacional,R16
+2001-10-06,Sport,1-1,Coritiba,R16
+2001-10-06,Guarani,1-0,Goiás,R16
+2001-10-06,Gama,1-1,Vitória,R16
+2001-10-06,Santos,1-2,São Caetano,R16
+2001-10-06,Juventude,0-2,Botafogo-SP,R16
+2001-10-06,Bahia,2-1,Santa Cruz,R16
+2001-10-06,Vasco,5-1,Flamengo,R16
+2001-10-09,América Mineiro,2-0,Gama,R17
+2001-10-10,Botafogo,2-2,Flamengo,R17
+2001-10-10,Cruzeiro,1-0,Corinthians,R17
+2001-10-10,Coritiba,0-0,Botafogo-SP,R17
+2001-10-10,Internacional,2-0,Vasco,R17
+2001-10-10,Santa Cruz,3-2,Paraná,R17
+2001-10-10,Vitória,4-1,Guarani,R17
+2001-10-10,Ponte Preta,1-5,Atlético Paranaense,R17
+2001-10-10,Goiás,2-3,Sport,R17
+2001-10-10,São Caetano,2-0,Portuguesa,R17
+2001-10-10,Juventude,2-2,Bahia,R17
+2001-10-10,Palmeiras,2-1,Santos,R17
+2001-10-11,São Paulo,1-1,Grêmio,R17
+2001-10-11,Fluminense,3-2,Atlético Mineiro,R17
+2001-10-13,Vasco,3-1,Botafogo,R18
+2001-10-13,Portuguesa,2-0,Palmeiras,R18
+2001-10-13,Paraná,2-1,Vitória,R18
+2001-10-13,Gama,2-0,Santa Cruz,R18
+2001-10-14,Fluminense,1-1,São Paulo,R18
+2001-10-14,Corinthians,1-2,Flamengo,R18
+2001-10-14,Atlético Mineiro,0-1,Santos,R18
+2001-10-14,Atlético Paranaense,3-2,América Mineiro,R18
+2001-10-14,Grêmio,2-0,Cruzeiro,R18
+2001-10-14,Sport,1-1,Juventude,R18
+2001-10-14,Bahia,3-2,Ponte Preta,R18
+2001-10-14,Guarani,1-0,Coritiba,R18
+2001-10-14,Botafogo-SP,0-0,Goiás,R18
+2001-10-14,São Caetano,3-1,Internacional,R18
+2001-10-18,Grêmio,1-0,Santa Cruz,R14
+2001-10-20,Vasco,1-2,São Caetano,R19
+2001-10-20,América Mineiro,2-2,Botafogo-SP,R19
+2001-10-21,São Paulo,1-0,Portuguesa,R19
+2001-10-21,Corinthians,1-2,Grêmio,R19
+2001-10-21,Cruzeiro,1-0,Fluminense,R19
+2001-10-21,Coritiba,0-0,Atlético Paranaense,R19
+2001-10-21,Internacional,2-2,Botafogo,R19
+2001-10-21,Sport,1-2,Santa Cruz,R19
+2001-10-21,Vitória,1-1,Bahia,R19
+2001-10-21,Ponte Preta,1-1,Guarani,R19
+2001-10-21,Goiás,2-0,Gama,R19
+2001-10-21,Juventude,1-1,Paraná,R19
+2001-10-21,Flamengo,1-2,Atlético Mineiro,R19
+2001-10-27,São Paulo,0-0,São Caetano,R20
+2001-10-27,Paraná,0-1,Sport,R20
+2001-10-28,Grêmio,2-0,Flamengo,R20
+2001-10-28,Santos,0-2,Corinthians,R20
+2001-10-28,Botafogo,3-0,Cruzeiro,R20
+2001-10-28,Vasco,2-2,Fluminense,R20
+2001-10-28,Palmeiras,1-2,Internacional,R20
+2001-10-28,Atlético Mineiro,1-0,Portuguesa,R20
+2001-10-28,Coritiba,1-0,Gama,R20
+2001-10-28,Santa Cruz,1-3,Ponte Preta,R20
+2001-10-28,Vitória,1-0,América Mineiro,R20
+2001-10-28,Guarani,2-1,Bahia,R20
+2001-10-28,Botafogo-SP,0-2,Atlético Paranaense,R20
+2001-10-28,Goiás,2-1,Juventude,R20
+2001-11-02,Flamengo,0-1,Fluminense,R21
+2001-11-02,São Paulo,1-1,Corinthians,R21
+2001-11-02,América Mineiro,1-2,Coritiba,R21
+2001-11-02,Gama,3-2,Paraná,R21
+2001-11-04,Botafogo,3-1,Palmeiras,R21
+2001-11-04,Portuguesa,5-4,Vasco,R21
+2001-11-04,Cruzeiro,1-0,São Caetano,R21
+2001-11-04,Atlético Paranaense,2-1,Goiás,R21
+2001-11-04,Internacional,1-0,Atlético Mineiro,R21
+2001-11-04,Sport,0-1,Guarani,R21
+2001-11-04,Bahia,1-0,Botafogo-SP,R21
+2001-11-04,Ponte Preta,5-2,Vitória,R21
+2001-11-04,Juventude,2-0,Santa Cruz,R21
+2001-11-04,Santos,4-2,Grêmio,R21
+2001-11-07,Botafogo,1-3,Grêmio,R22
+2001-11-07,Palmeiras,2-6,Fluminense,R22
+2001-11-07,América Mineiro,3-1,Sport,R22
+2001-11-07,Atlético Paranaense,6-3,Bahia,R22
+2001-11-07,Internacional,1-4,São Paulo,R22
+2001-11-07,Gama,5-0,Guarani,R22
+2001-11-07,Vitória,0-0,Juventude,R22
+2001-11-08,Cruzeiro,0-1,Flamengo,R22
+2001-11-08,Vasco,1-0,Corinthians,R22
+2001-11-08,Portuguesa,0-0,Santos,R22
+2001-11-08,Paraná,1-1,Coritiba,R22
+2001-11-08,Santa Cruz,3-2,Goiás,R22
+2001-11-08,Ponte Preta,3-3,Botafogo-SP,R22
+2001-11-08,São Caetano,5-2,Atlético Mineiro,R22
+2001-11-10,Fluminense,0-1,Internacional,R23
+2001-11-10,São Paulo,3-1,Botafogo,R23
+2001-11-10,Juventude,2-0,Atlético Paranaense,R23
+2001-11-10,Sport,1-2,Gama,R23
+2001-11-11,Flamengo,0-2,Portuguesa,R23
+2001-11-11,Corinthians,0-1,São Caetano,R23
+2001-11-11,Coritiba,2-0,Vitória,R23
+2001-11-11,Grêmio,3-0,Palmeiras,R23
+2001-11-11,Bahia,3-0,Paraná,R23
+2001-11-11,Guarani,0-2,América Mineiro,R23
+2001-11-11,Botafogo-SP,1-0,Santa Cruz,R23
+2001-11-11,Goiás,2-1,Ponte Preta,R23
+2001-11-11,Atlético Mineiro,2-1,Vasco,R23
+2001-11-11,Santos,4-2,Cruzeiro,R23
+2001-11-13,Atlético Paranaense,2-1,Sport,R24
+2001-11-15,Vasco,2-0,Grêmio,R24
+2001-11-15,Portuguesa,1-3,Cruzeiro,R24
+2001-11-15,Botafogo,2-4,Corinthians,R24
+2001-11-15,São Paulo,3-1,Flamengo,R24
+2001-11-15,Atlético Mineiro,2-1,Palmeiras,R24
+2001-11-15,Paraná,0-1,Fluminense,R24
+2001-11-15,Internacional,3-0,Santos,R24
+2001-11-15,Santa Cruz,2-1,América Mineiro,R24
+2001-11-15,Bahia,2-1,Gama,R24
+2001-11-15,Ponte Preta,1-0,Juventude,R24
+2001-11-15,Botafogo-SP,2-0,Vitória,R24
+2001-11-15,Goiás,2-1,Coritiba,R24
+2001-11-15,São Caetano,2-0,Guarani,R24
+2001-11-18,Fluminense,0-0,Portuguesa,R25
+2001-11-18,Flamengo,1-0,Internacional,R25
+2001-11-18,Palmeiras,1-3,Vasco,R25
+2001-11-18,Corinthians,2-2,Atlético Mineiro,R25
+2001-11-18,Cruzeiro,1-4,São Paulo,R25
+2001-11-18,América Mineiro,1-2,Bahia,R25
+2001-11-18,Coritiba,1-0,Santa Cruz,R25
+2001-11-18,Grêmio,1-2,São Caetano,R25
+2001-11-18,Sport,1-2,Botafogo-SP,R25
+2001-11-18,Vitória,1-0,Goiás,R25
+2001-11-18,Guarani,1-0,Paraná,R25
+2001-11-18,Gama,4-1,Atlético Paranaense,R25
+2001-11-18,Santos,1-2,Ponte Preta,R25
+2001-11-18,Juventude,1-3,Botafogo,R25
+2001-11-24,Fluminense,2-1,Santos,R26
+2001-11-24,Portuguesa,2-1,Botafogo,R26
+2001-11-24,Bahia,1-1,Coritiba,R26
+2001-11-25,Internacional,0-2,Corinthians,R26
+2001-11-25,São Caetano,2-0,Flamengo,R26
+2001-11-25,Vasco,7-1,São Paulo,R26
+2001-11-25,Palmeiras,2-1,Cruzeiro,R26
+2001-11-25,Atlético Mineiro,2-0,Grêmio,R26
+2001-11-25,Atlético Paranaense,2-2,Guarani,R26
+2001-11-25,Santa Cruz,1-1,Vitória,R26
+2001-11-25,Ponte Preta,2-1,Sport,R26
+2001-11-25,Botafogo-SP,0-2,Paraná,R26
+2001-11-25,Goiás,3-0,América Mineiro,R26
+2001-11-25,Juventude,2-1,Gama,R26
+2001-12-01,Botafogo,2-4,São Caetano,R27
+2001-12-02,Flamengo,2-0,Palmeiras,R27
+2001-12-02,Corinthians,1-2,Fluminense,R27
+2001-12-02,São Paulo,3-0,Atlético Mineiro,R27
+2001-12-02,Cruzeiro,4-2,Internacional,R27
+2001-12-02,América Mineiro,1-1,Juventude,R27
+2001-12-02,Coritiba,1-2,Ponte Preta,R27
+2001-12-02,Paraná,3-1,Goiás,R27
+2001-12-02,Grêmio,3-1,Portuguesa,R27
+2001-12-02,Sport,0-1,Bahia,R27
+2001-12-02,Vitória,2-4,Atlético Paranaense,R27
+2001-12-02,Guarani,1-2,Santa Cruz,R27
+2001-12-02,Gama,5-0,Botafogo-SP,R27
+2001-12-02,Santos,2-2,Vasco,R27
+2001-12-05,São Caetano,0-0,Bahia,QF
+2001-12-05,Atlético Paranaense,2-1,São Paulo,QF
+2001-12-05,Fluminense,3-2,Ponte Preta,QF
+2001-12-05,Atlético Mineiro,3-0,Grêmio,QF
+2001-12-09,São Caetano,2-1,Atlético Mineiro,SF
+2001-12-09,Atlético Paranaense,3-2,Fluminense,SF
+2001-12-16,Atlético Paranaense,4-2,São Caetano,F
+2001-12-23,São Caetano,0-1,Atlético Paranaense,F

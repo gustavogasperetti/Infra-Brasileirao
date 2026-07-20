@@ -1,0 +1,292 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1982,1982-01-16,São Paulo,Treze,5,0,V,D,NORMAL,C
+1982,1982-01-17,Santos,Vasco,1,0,V,D,NORMAL,A
+1982,1982-01-17,Moto Club,Paysandu,0,0,E,E,NORMAL,A
+1982,1982-01-17,Botafogo,Guarani,1,2,D,V,NORMAL,B
+1982,1982-01-17,América-RN,Ceará,1,2,D,V,NORMAL,B
+1982,1982-01-17,Ferroviário,Náutico,1,2,D,V,NORMAL,C
+1982,1982-01-17,Itabaiana,Inter de Limeira,0,1,D,V,NORMAL,D
+1982,1982-01-17,CSA,Sport,1,2,D,V,NORMAL,D
+1982,1982-01-17,Bahia,Mixto,3,2,V,D,NORMAL,E
+1982,1982-01-17,Bangu,Cruzeiro,3,0,V,D,NORMAL,E
+1982,1982-01-17,Desportiva Ferroviária,Atlético Mineiro,0,2,D,V,NORMAL,F
+1982,1982-01-17,São José,Grêmio,1,0,V,D,NORMAL,F
+1982,1982-01-17,Ponte Preta,Goiás,1,0,V,D,NORMAL,G
+1982,1982-01-17,Internacional,Grêmio Maringá,3,0,V,D,NORMAL,G
+1982,1982-01-17,Londrina,Joinville,3,0,V,D,NORMAL,H
+1982,1982-01-17,Anapolina,XV de Jaú,1,1,E,E,NORMAL,H
+1982,1982-01-20,Santos,Moto Club,4,1,V,D,NORMAL,A
+1982,1982-01-20,Paysandu,Nacional-AM,1,1,E,E,NORMAL,A
+1982,1982-01-20,Guarani,América-RN,4,2,V,D,NORMAL,B
+1982,1982-01-20,Ceará,River-PI,3,1,V,D,NORMAL,B
+1982,1982-01-20,Flamengo,São Paulo,3,2,V,D,NORMAL,C
+1982,1982-01-20,Treze,Náutico,1,1,E,E,NORMAL,C
+1982,1982-01-20,Sport,Itabaiana,4,0,V,D,NORMAL,D
+1982,1982-01-20,Inter de Limeira,Fluminense,2,2,E,E,NORMAL,D
+1982,1982-01-20,Bangu,Bahia,0,0,E,E,NORMAL,E
+1982,1982-01-20,Mixto,Operário-MS,1,2,D,V,NORMAL,E
+1982,1982-01-20,Grêmio,Desportiva Ferroviária,2,0,V,D,NORMAL,F
+1982,1982-01-20,Atlético Mineiro,Vitória,1,0,V,D,NORMAL,F
+1982,1982-01-20,Goiás,Taguatinga,3,0,V,D,NORMAL,G
+1982,1982-01-20,Grêmio Maringá,Ponte Preta,0,0,E,E,NORMAL,G
+1982,1982-01-20,Joinville,Inter SM,0,3,D,V,NORMAL,H
+1982,1982-01-20,XV de Jaú,Londrina,3,0,V,D,NORMAL,H
+1982,1982-01-24,Vasco,Moto Club,7,0,V,D,NORMAL,A
+1982,1982-01-24,Nacional-AM,Santos,2,2,E,E,NORMAL,A
+1982,1982-01-24,River-PI,Guarani,1,3,D,V,NORMAL,B
+1982,1982-01-24,Botafogo,América-RN,2,0,V,D,NORMAL,B
+1982,1982-01-24,Náutico,Flamengo,3,4,D,V,NORMAL,C
+1982,1982-01-24,Ferroviário,Treze,0,2,D,V,NORMAL,C
+1982,1982-01-24,Fluminense,Sport,1,2,D,V,NORMAL,D
+1982,1982-01-24,CSA,Itabaiana,2,0,V,D,NORMAL,D
+1982,1982-01-24,Cruzeiro,Bahia,2,0,V,D,NORMAL,E
+1982,1982-01-24,Operário-MS,Bangu,2,3,D,V,NORMAL,E
+1982,1982-01-24,Vitória,Grêmio,0,2,D,V,NORMAL,F
+1982,1982-01-24,São José,Desportiva Ferroviária,2,1,V,D,NORMAL,F
+1982,1982-01-24,Taguatinga,Grêmio Maringá,1,2,D,V,NORMAL,G
+1982,1982-01-24,Internacional,Ponte Preta,1,1,E,E,NORMAL,G
+1982,1982-01-24,Anapolina,Londrina,3,1,V,D,NORMAL,H
+1982,1982-01-24,Inter SM,XV de Jaú,2,1,V,D,NORMAL,H
+1982,1982-01-28,Nacional-AM,Vasco,0,1,D,V,NORMAL,A
+1982,1982-01-28,Paysandu,Santos,0,0,E,E,NORMAL,A
+1982,1982-01-28,Ceará,Guarani,1,1,E,E,NORMAL,B
+1982,1982-01-28,River-PI,Botafogo,1,3,D,V,NORMAL,B
+1982,1982-01-28,Flamengo,Treze,5,0,V,D,NORMAL,C
+1982,1982-01-28,São Paulo,Ferroviário,4,0,V,D,NORMAL,C
+1982,1982-01-28,Fluminense,CSA,2,0,V,D,NORMAL,D
+1982,1982-01-28,Inter de Limeira,Sport,2,3,D,V,NORMAL,D
+1982,1982-01-28,Mixto,Bangu,2,1,V,D,NORMAL,E
+1982,1982-01-28,Operário-MS,Cruzeiro,1,0,V,D,NORMAL,E
+1982,1982-01-28,Atlético Mineiro,Grêmio,1,1,E,E,NORMAL,F
+1982,1982-01-28,Vitória,São José,1,0,V,D,NORMAL,F
+1982,1982-01-28,Taguatinga,Internacional,1,2,D,V,NORMAL,G
+1982,1982-01-28,Goiás,Grêmio Maringá,1,1,E,E,NORMAL,G
+1982,1982-01-28,Inter SM,Anapolina,0,0,E,E,NORMAL,H
+1982,1982-01-28,Joinville,XV de Jaú,3,0,V,D,NORMAL,H
+1982,1982-01-31,Moto Club,Nacional-AM,0,0,E,E,NORMAL,A
+1982,1982-01-31,Paysandu,Vasco,1,3,D,V,NORMAL,A
+1982,1982-01-31,América-RN,River-PI,1,0,V,D,NORMAL,B
+1982,1982-01-31,Ceará,Botafogo,0,0,E,E,NORMAL,B
+1982,1982-01-31,Náutico,São Paulo,1,4,D,V,NORMAL,C
+1982,1982-01-31,Flamengo,Ferroviário,3,0,V,D,NORMAL,C
+1982,1982-01-31,Inter de Limeira,CSA,2,2,E,E,NORMAL,D
+1982,1982-01-31,Itabaiana,Fluminense,0,4,D,V,NORMAL,D
+1982,1982-01-31,Mixto,Cruzeiro,4,2,V,D,NORMAL,E
+1982,1982-01-31,Bahia,Operário-MS,1,1,E,E,NORMAL,E
+1982,1982-01-31,Desportiva Ferroviária,Vitória,3,1,V,D,NORMAL,F
+1982,1982-01-31,Atlético Mineiro,São José,0,0,E,E,NORMAL,F
+1982,1982-01-31,Ponte Preta,Taguatinga,3,1,V,D,NORMAL,G
+1982,1982-01-31,Goiás,Internacional,1,0,V,D,NORMAL,G
+1982,1982-01-31,Londrina,Inter SM,3,0,V,D,NORMAL,H
+1982,1982-01-31,Joinville,Anapolina,0,1,D,V,NORMAL,H
+1982,1982-02-03,Santos,Nacional-AM,3,1,V,D,NORMAL,A
+1982,1982-02-03,Moto Club,Vasco,1,2,D,V,NORMAL,A
+1982,1982-02-03,América-RN,Botafogo,0,3,D,V,NORMAL,B
+1982,1982-02-03,Treze,São Paulo,0,3,D,V,NORMAL,C
+1982,1982-02-03,Sport,Fluminense,0,0,E,E,NORMAL,D
+1982,1982-02-03,Bangu,Operário-MS,3,0,V,D,NORMAL,E
+1982,1982-02-03,Bahia,Cruzeiro,3,0,V,D,NORMAL,E
+1982,1982-02-03,Grêmio,Vitória,0,1,D,V,NORMAL,F
+1982,1982-02-03,Desportiva Ferroviária,São José,0,1,D,V,NORMAL,F
+1982,1982-02-03,Ponte Preta,Internacional,0,0,E,E,NORMAL,G
+1982,1982-02-03,Grêmio Maringá,Taguatinga,2,0,V,D,NORMAL,G
+1982,1982-02-03,Londrina,Anapolina,1,0,V,D,NORMAL,H
+1982,1982-02-03,XV de Jaú,Inter SM,1,1,E,E,NORMAL,H
+1982,1982-02-04,Guarani,River-PI,8,0,V,D,NORMAL,B
+1982,1982-02-04,Náutico,Ferroviário,2,3,D,V,NORMAL,C
+1982,1982-02-04,Itabaiana,CSA,0,0,E,E,NORMAL,D
+1982,1982-02-06,Internacional,Taguatinga,6,1,V,D,NORMAL,G
+1982,1982-02-07,Santos,Paysandu,4,1,V,D,NORMAL,A
+1982,1982-02-07,Vasco,Nacional-AM,4,0,V,D,NORMAL,A
+1982,1982-02-07,Guarani,Ceará,8,1,V,D,NORMAL,B
+1982,1982-02-07,Botafogo,River-PI,5,2,V,D,NORMAL,B
+1982,1982-02-07,Treze,Flamengo,1,3,D,V,NORMAL,C
+1982,1982-02-07,Ferroviário,São Paulo,1,2,D,V,NORMAL,C
+1982,1982-02-07,CSA,Fluminense,3,3,E,E,NORMAL,D
+1982,1982-02-07,Sport,Inter de Limeira,1,0,V,D,NORMAL,D
+1982,1982-02-07,Cruzeiro,Operário-MS,1,3,D,V,NORMAL,E
+1982,1982-02-07,Bangu,Mixto,3,1,V,D,NORMAL,E
+1982,1982-02-07,São José,Vitória,2,1,V,D,NORMAL,F
+1982,1982-02-07,Grêmio,Atlético Mineiro,2,0,V,D,NORMAL,F
+1982,1982-02-07,Grêmio Maringá,Goiás,2,2,E,E,NORMAL,G
+1982,1982-02-07,XV de Jaú,Joinville,1,0,V,D,NORMAL,H
+1982,1982-02-07,Anapolina,Inter SM,3,1,V,D,NORMAL,H
+1982,1982-02-10,Vasco,Paysandu,2,0,V,D,NORMAL,A
+1982,1982-02-10,Nacional-AM,Moto Club,0,1,D,V,NORMAL,A
+1982,1982-02-10,Botafogo,Ceará,1,0,V,D,NORMAL,B
+1982,1982-02-10,River-PI,América-RN,0,1,D,V,NORMAL,B
+1982,1982-02-10,São Paulo,Náutico,1,1,E,E,NORMAL,C
+1982,1982-02-10,Ferroviário,Flamengo,1,2,D,V,NORMAL,C
+1982,1982-02-10,Fluminense,Itabaiana,2,0,V,D,NORMAL,D
+1982,1982-02-10,CSA,Inter de Limeira,1,1,E,E,NORMAL,D
+1982,1982-02-10,Cruzeiro,Mixto,3,0,V,D,NORMAL,E
+1982,1982-02-10,Operário-MS,Bahia,0,0,E,E,NORMAL,E
+1982,1982-02-10,São José,Atlético Mineiro,0,0,E,E,NORMAL,F
+1982,1982-02-10,Vitória,Desportiva Ferroviária,2,4,D,V,NORMAL,F
+1982,1982-02-10,Internacional,Goiás,5,0,V,D,NORMAL,G
+1982,1982-02-10,Taguatinga,Ponte Preta,0,2,D,V,NORMAL,G
+1982,1982-02-10,Inter SM,Londrina,2,2,E,E,NORMAL,H
+1982,1982-02-10,Anapolina,Joinville,4,2,V,D,NORMAL,H
+1982,1982-02-13,Flamengo,Náutico,1,1,E,E,NORMAL,C
+1982,1982-02-13,Cruzeiro,Bangu,2,1,V,D,NORMAL,E
+1982,1982-02-14,Paysandu,Moto Club,0,0,E,E,NORMAL,A
+1982,1982-02-14,Vasco,Santos,3,0,V,D,NORMAL,A
+1982,1982-02-14,Guarani,Botafogo,4,1,V,D,NORMAL,B
+1982,1982-02-14,Ceará,América-RN,3,2,V,D,NORMAL,B
+1982,1982-02-14,Treze,Ferroviário,2,0,V,D,NORMAL,C
+1982,1982-02-14,Sport,CSA,3,0,V,D,NORMAL,D
+1982,1982-02-14,Inter de Limeira,Itabaiana,5,1,V,D,NORMAL,D
+1982,1982-02-14,Mixto,Bahia,0,1,D,V,NORMAL,E
+1982,1982-02-14,Atlético Mineiro,Desportiva Ferroviária,7,1,V,D,NORMAL,F
+1982,1982-02-14,Grêmio,São José,1,0,V,D,NORMAL,F
+1982,1982-02-14,Goiás,Ponte Preta,1,1,E,E,NORMAL,G
+1982,1982-02-14,Grêmio Maringá,Internacional,2,0,V,D,NORMAL,G
+1982,1982-02-14,XV de Jaú,Anapolina,2,3,D,V,NORMAL,H
+1982,1982-02-14,Joinville,Londrina,3,1,V,D,NORMAL,H
+1982,1982-02-16,São Paulo,Flamengo,3,4,D,V,NORMAL,C
+1982,1982-02-17,Moto Club,Santos,2,1,V,D,NORMAL,A
+1982,1982-02-17,Nacional-AM,Paysandu,1,1,E,E,NORMAL,A
+1982,1982-02-17,River-PI,Ceará,1,2,D,V,NORMAL,B
+1982,1982-02-17,América-RN,Guarani,1,2,D,V,NORMAL,B
+1982,1982-02-17,Náutico,Treze,0,0,E,E,NORMAL,C
+1982,1982-02-17,Itabaiana,Sport,1,0,V,D,NORMAL,D
+1982,1982-02-17,Fluminense,Inter de Limeira,0,0,E,E,NORMAL,D
+1982,1982-02-17,Operário-MS,Mixto,2,0,V,D,NORMAL,E
+1982,1982-02-17,Bahia,Bangu,1,1,E,E,NORMAL,E
+1982,1982-02-17,Ponte Preta,Grêmio Maringá,1,0,V,D,NORMAL,G
+1982,1982-02-17,Taguatinga,Goiás,3,1,V,D,NORMAL,G
+1982,1982-02-17,Londrina,XV de Jaú,0,1,D,V,NORMAL,H
+1982,1982-02-17,Inter SM,Joinville,3,3,E,E,NORMAL,H
+1982,1982-02-18,Vitória,Atlético Mineiro,1,0,V,D,NORMAL,F
+1982,1982-02-18,Desportiva Ferroviária,Grêmio,1,0,V,D,NORMAL,F
+1982,1982-02-20,Paysandu,América-RN,3,1,V,D,NORMAL,1F
+1982,1982-02-20,Náutico,CSA,6,2,V,D,NORMAL,1F
+1982,1982-02-20,Londrina,Goiás,1,0,V,D,NORMAL,1F
+1982,1982-02-24,Cruzeiro,Desportiva Ferroviária,1,0,V,D,NORMAL,1F
+1982,1982-02-27,Corinthians,Flamengo,1,1,E,E,NORMAL,K
+1982,1982-02-28,America-RJ,Vasco,1,3,D,V,NORMAL,I
+1982,1982-02-28,Inter SM,Operário-MS,1,0,V,D,NORMAL,I
+1982,1982-02-28,Guarani,Grêmio,2,0,V,D,NORMAL,J
+1982,1982-02-28,Náutico,Grêmio Maringá,3,0,V,D,NORMAL,J
+1982,1982-02-28,Internacional,Atlético Mineiro,1,1,E,E,NORMAL,K
+1982,1982-02-28,Paysandu,Sport,0,2,D,V,NORMAL,L
+1982,1982-02-28,Bahia,XV de Jaú,1,2,D,V,NORMAL,L
+1982,1982-02-28,Santos,Inter de Limeira,1,0,V,D,NORMAL,M
+1982,1982-02-28,São Paulo-RS,Bangu,1,0,V,D,NORMAL,M
+1982,1982-02-28,Londrina,São José,1,1,E,E,NORMAL,N
+1982,1982-02-28,Treze,Botafogo,0,2,D,V,NORMAL,N
+1982,1982-02-28,Athletico Paranaense,São Paulo,1,3,D,V,NORMAL,O
+1982,1982-02-28,Ceará,Ponte Preta,2,3,D,V,NORMAL,O
+1982,1982-02-28,Moto Club,Anapolina,1,0,V,D,NORMAL,P
+1982,1982-02-28,Cruzeiro,Fluminense,2,2,E,E,NORMAL,P
+1982,1982-03-06,Operário-MS,Vasco,2,0,V,D,NORMAL,I
+1982,1982-03-06,America-RJ,Inter SM,3,0,V,D,NORMAL,I
+1982,1982-03-07,Grêmio Maringá,Grêmio,2,2,E,E,NORMAL,J
+1982,1982-03-07,Guarani,Náutico,2,0,V,D,NORMAL,J
+1982,1982-03-07,Internacional,Corinthians,0,2,D,V,NORMAL,K
+1982,1982-03-07,Flamengo,Atlético Mineiro,2,1,V,D,NORMAL,K
+1982,1982-03-07,Sport,XV de Jaú,4,0,V,D,NORMAL,L
+1982,1982-03-07,Bahia,Paysandu,2,3,D,V,NORMAL,L
+1982,1982-03-07,Santos,São Paulo-RS,6,1,V,D,NORMAL,M
+1982,1982-03-07,Bangu,Inter de Limeira,2,0,V,D,NORMAL,M
+1982,1982-03-07,São José,Botafogo,0,0,E,E,NORMAL,N
+1982,1982-03-07,Treze,Londrina,0,0,E,E,NORMAL,N
+1982,1982-03-07,São Paulo,Ponte Preta,2,1,V,D,NORMAL,O
+1982,1982-03-07,Ceará,Athletico Paranaense,1,0,V,D,NORMAL,O
+1982,1982-03-07,Anapolina,Fluminense,3,1,V,D,NORMAL,P
+1982,1982-03-07,Cruzeiro,Moto Club,1,0,V,D,NORMAL,P
+1982,1982-03-10,Vasco,Inter SM,7,0,V,D,NORMAL,I
+1982,1982-03-10,Atlético Mineiro,Corinthians,1,3,D,V,NORMAL,K
+1982,1982-03-10,Fluminense,Moto Club,3,0,V,D,NORMAL,P
+1982,1982-03-10,Anapolina,Cruzeiro,1,0,V,D,NORMAL,P
+1982,1982-03-11,Operário-MS,America-RJ,1,0,V,D,NORMAL,I
+1982,1982-03-11,Grêmio Maringá,Guarani,3,4,D,V,NORMAL,J
+1982,1982-03-11,Grêmio,Náutico,0,0,E,E,NORMAL,J
+1982,1982-03-11,Flamengo,Internacional,1,1,E,E,NORMAL,K
+1982,1982-03-11,Sport,Bahia,0,2,D,V,NORMAL,L
+1982,1982-03-11,XV de Jaú,Paysandu,1,1,E,E,NORMAL,L
+1982,1982-03-11,Inter de Limeira,São Paulo-RS,3,0,V,D,NORMAL,M
+1982,1982-03-11,Botafogo,Londrina,1,3,D,V,NORMAL,N
+1982,1982-03-11,São José,Treze,3,1,V,D,NORMAL,N
+1982,1982-03-11,Ponte Preta,Athletico Paranaense,1,1,E,E,NORMAL,O
+1982,1982-03-11,São Paulo,Ceará,5,2,V,D,NORMAL,O
+1982,1982-03-11,Bangu,Santos,2,0,V,D,NORMAL,M
+1982,1982-03-13,Fluminense,Anapolina,6,1,V,D,NORMAL,P
+1982,1982-03-14,Vasco,Operário-MS,7,1,V,D,NORMAL,I
+1982,1982-03-14,Inter SM,America-RJ,0,1,D,V,NORMAL,I
+1982,1982-03-14,Náutico,Guarani,2,2,E,E,NORMAL,J
+1982,1982-03-14,Grêmio,Grêmio Maringá,4,1,V,D,NORMAL,J
+1982,1982-03-14,Corinthians,Internacional,1,0,V,D,NORMAL,K
+1982,1982-03-14,Atlético Mineiro,Flamengo,3,1,V,D,NORMAL,K
+1982,1982-03-14,XV de Jaú,Sport,2,2,E,E,NORMAL,L
+1982,1982-03-14,Paysandu,Bahia,1,3,D,V,NORMAL,L
+1982,1982-03-14,Inter de Limeira,Bangu,2,2,E,E,NORMAL,M
+1982,1982-03-14,São Paulo-RS,Santos,0,0,E,E,NORMAL,M
+1982,1982-03-14,Botafogo,São José,0,1,D,V,NORMAL,N
+1982,1982-03-14,Londrina,Treze,3,1,V,D,NORMAL,N
+1982,1982-03-14,Athletico Paranaense,Ceará,0,3,D,V,NORMAL,O
+1982,1982-03-14,Ponte Preta,São Paulo,1,0,V,D,NORMAL,O
+1982,1982-03-14,Moto Club,Cruzeiro,0,1,D,V,NORMAL,P
+1982,1982-03-17,Vasco,America-RJ,2,2,E,E,NORMAL,I
+1982,1982-03-17,Operário-MS,Inter SM,0,0,E,E,NORMAL,I
+1982,1982-03-17,Náutico,Grêmio,0,1,D,V,NORMAL,J
+1982,1982-03-17,Guarani,Grêmio Maringá,3,1,V,D,NORMAL,J
+1982,1982-03-17,Corinthians,Atlético Mineiro,2,1,V,D,NORMAL,K
+1982,1982-03-17,Internacional,Flamengo,2,3,D,V,NORMAL,K
+1982,1982-03-17,Paysandu,XV de Jaú,1,1,E,E,NORMAL,L
+1982,1982-03-17,Bahia,Sport,0,0,E,E,NORMAL,L
+1982,1982-03-17,Santos,Bangu,1,0,V,D,NORMAL,M
+1982,1982-03-17,São Paulo-RS,Inter de Limeira,2,2,E,E,NORMAL,M
+1982,1982-03-17,Londrina,Botafogo,1,1,E,E,NORMAL,N
+1982,1982-03-17,Treze,São José,0,3,D,V,NORMAL,N
+1982,1982-03-17,Ceará,São Paulo,2,3,D,V,NORMAL,O
+1982,1982-03-17,Athletico Paranaense,Ponte Preta,0,0,E,E,NORMAL,O
+1982,1982-03-17,Moto Club,Fluminense,0,3,D,V,NORMAL,P
+1982,1982-03-17,Cruzeiro,Anapolina,0,1,D,V,NORMAL,P
+1982,1982-03-23,Grêmio,Guarani,2,0,V,D,NORMAL,J
+1982,1982-03-24,Botafogo,Treze,1,3,D,V,NORMAL,N
+1982,1982-03-24,São José,Londrina,0,0,E,E,NORMAL,N
+1982,1982-03-24,Fluminense,Cruzeiro,4,0,V,D,NORMAL,P
+1982,1982-03-24,Anapolina,Moto Club,3,1,V,D,NORMAL,P
+1982,1982-03-25,Inter SM,Vasco,3,0,V,D,NORMAL,I
+1982,1982-03-25,America-RJ,Operário-MS,0,1,D,V,NORMAL,I
+1982,1982-03-25,Grêmio Maringá,Náutico,0,0,E,E,NORMAL,J
+1982,1982-03-25,Atlético Mineiro,Internacional,2,1,V,D,NORMAL,K
+1982,1982-03-25,Flamengo,Corinthians,2,0,V,D,NORMAL,K
+1982,1982-03-25,XV de Jaú,Bahia,1,1,E,E,NORMAL,L
+1982,1982-03-25,Sport,Paysandu,3,0,V,D,NORMAL,L
+1982,1982-03-25,Inter de Limeira,Santos,0,1,D,V,NORMAL,M
+1982,1982-03-25,Bangu,São Paulo-RS,1,0,V,D,NORMAL,M
+1982,1982-03-25,Ponte Preta,Ceará,0,1,D,V,NORMAL,O
+1982,1982-03-25,São Paulo,Athletico Paranaense,1,0,V,D,NORMAL,O
+1982,1982-03-28,Vasco,Grêmio,1,1,E,E,NORMAL,1/8
+1982,1982-03-28,Operário-MS,Guarani,1,1,E,E,NORMAL,1/8
+1982,1982-03-28,Flamengo,Sport,2,0,V,D,NORMAL,1/8
+1982,1982-03-28,Londrina,Santos,0,0,E,E,NORMAL,1/8
+1982,1982-03-28,Bangu,São José,3,1,V,D,NORMAL,1/8
+1982,1982-03-28,Bahia,Corinthians,1,1,E,E,NORMAL,1/8
+1982,1982-03-28,Ceará,Fluminense,1,2,D,V,NORMAL,1/8
+1982,1982-03-28,Anapolina,São Paulo,3,1,V,D,NORMAL,1/8
+1982,1982-03-31,Grêmio,Vasco,1,0,V,D,NORMAL,1/8
+1982,1982-03-31,Guarani,Operário-MS,1,0,V,D,NORMAL,1/8
+1982,1982-03-31,São Paulo,Anapolina,4,0,V,D,NORMAL,1/8
+1982,1982-03-31,Sport,Flamengo,2,1,V,D,NORMAL,1/8
+1982,1982-03-31,Santos,Londrina,1,0,V,D,NORMAL,1/8
+1982,1982-03-31,São José,Bangu,2,2,E,E,NORMAL,1/8
+1982,1982-03-31,Corinthians,Bahia,5,2,V,D,NORMAL,1/8
+1982,1982-03-31,Fluminense,Ceará,2,0,V,D,NORMAL,1/8
+1982,1982-04-03,Flamengo,Santos,2,1,V,D,NORMAL,QF
+1982,1982-04-04,Grêmio,Fluminense,1,1,E,E,NORMAL,QF
+1982,1982-04-04,São Paulo,Guarani,0,1,D,V,NORMAL,QF
+1982,1982-04-04,Bangu,Corinthians,0,1,D,V,NORMAL,QF
+1982,1982-04-06,Santos,Flamengo,1,1,E,E,NORMAL,QF
+1982,1982-04-07,Fluminense,Grêmio,1,2,D,V,NORMAL,QF
+1982,1982-04-07,Guarani,São Paulo,2,0,V,D,NORMAL,QF
+1982,1982-04-07,Corinthians,Bangu,1,2,D,V,NORMAL,QF
+1982,1982-04-11,Corinthians,Grêmio,1,2,D,V,NORMAL,SF
+1982,1982-04-11,Flamengo,Guarani,2,1,V,D,NORMAL,SF
+1982,1982-04-14,Grêmio,Corinthians,3,1,V,D,NORMAL,SF
+1982,1982-04-15,Guarani,Flamengo,2,3,D,V,NORMAL,SF
+1982,1982-04-18,Flamengo,Grêmio,1,1,E,E,NORMAL,F
+1982,1982-04-21,Grêmio,Flamengo,0,0,E,E,NORMAL,F
+1982,1982-04-25,Grêmio,Flamengo,0,1,D,V,NORMAL,F

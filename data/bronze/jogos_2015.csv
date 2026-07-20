@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2015-05-09,Palmeiras,2-2,Atlético Mineiro,R1
+2015-05-09,Chapecoense,2-1,Coritiba,R1
+2015-05-09,Fluminense,1-0,Joinville,R1
+2015-05-10,Grêmio,3-3,Ponte Preta,R1
+2015-05-10,São Paulo,2-1,Flamengo,R1
+2015-05-10,Cruzeiro,0-1,Corinthians,R1
+2015-05-10,Atlético Paranaense,3-0,Internacional,R1
+2015-05-10,Sport,4-1,Figueirense,R1
+2015-05-10,Vasco,0-0,Goiás,R1
+2015-05-10,Avaí,1-1,Santos,R1
+2015-05-16,Coritiba,2-0,Grêmio,R2
+2015-05-16,Goiás,2-0,Atlético Paranaense,R2
+2015-05-16,Corinthians,1-0,Chapecoense,R2
+2015-05-17,Figueirense,0-0,Vasco,R2
+2015-05-17,Santos,1-0,Cruzeiro,R2
+2015-05-17,Flamengo,2-2,Sport,R2
+2015-05-17,Atlético Mineiro,4-1,Fluminense,R2
+2015-05-17,Ponte Preta,1-0,São Paulo,R2
+2015-05-17,Internacional,1-0,Avaí,R2
+2015-05-17,Joinville,0-0,Palmeiras,R2
+2015-05-23,São Paulo,3-0,Joinville,R3
+2015-05-23,Vasco,1-1,Internacional,R3
+2015-05-23,Grêmio,1-0,Figueirense,R3
+2015-05-24,Palmeiras,0-1,Goiás,R3
+2015-05-24,Fluminense,0-0,Corinthians,R3
+2015-05-24,Avaí,2-1,Flamengo,R3
+2015-05-24,Atlético Paranaense,1-0,Atlético Mineiro,R3
+2015-05-24,Chapecoense,1-0,Santos,R3
+2015-05-24,Cruzeiro,1-1,Ponte Preta,R3
+2015-05-24,Sport,1-0,Coritiba,R3
+2015-05-30,Ponte Preta,3-1,Chapecoense,R4
+2015-05-30,Coritiba,1-2,Avaí,R4
+2015-05-30,Joinville,1-2,Atlético Paranaense,R4
+2015-05-31,Santos,2-2,Sport,R4
+2015-05-31,Corinthians,0-2,Palmeiras,R4
+2015-05-31,Internacional,0-0,São Paulo,R4
+2015-05-31,Atlético Mineiro,3-0,Vasco,R4
+2015-05-31,Goiás,1-1,Grêmio,R4
+2015-05-31,Flamengo,2-3,Fluminense,R4
+2015-05-31,Figueirense,2-1,Cruzeiro,R4
+2015-06-03,Vasco,0-3,Ponte Preta,R5
+2015-06-03,Atlético Paranaense,1-0,Figueirense,R5
+2015-06-03,Chapecoense,2-0,Joinville,R5
+2015-06-03,São Paulo,3-2,Santos,R5
+2015-06-03,Grêmio,3-1,Corinthians,R5
+2015-06-03,Cruzeiro,1-0,Flamengo,R5
+2015-06-03,Avaí,1-4,Atlético Mineiro,R5
+2015-06-04,Fluminense,2-0,Coritiba,R5
+2015-06-04,Palmeiras,1-1,Internacional,R5
+2015-06-04,Sport,1-0,Goiás,R5
+2015-06-06,Santos,2-2,Ponte Preta,R6
+2015-06-06,Flamengo,1-0,Chapecoense,R6
+2015-06-06,Atlético Mineiro,1-3,Cruzeiro,R6
+2015-06-06,São Paulo,2-0,Grêmio,R6
+2015-06-06,Atlético Paranaense,2-0,Vasco,R6
+2015-06-06,Joinville,0-1,Corinthians,R6
+2015-06-07,Internacional,2-0,Coritiba,R6
+2015-06-07,Fluminense,0-0,Sport,R6
+2015-06-07,Figueirense,2-1,Palmeiras,R6
+2015-06-07,Goiás,0-1,Avaí,R6
+2015-06-10,Atlético Mineiro,2-2,Santos,R7
+2015-06-13,Corinthians,2-1,Internacional,R7
+2015-06-13,Coritiba,0-1,Flamengo,R7
+2015-06-13,Chapecoense,0-1,São Paulo,R7
+2015-06-13,Vasco,1-3,Cruzeiro,R7
+2015-06-13,Sport,2-1,Joinville,R7
+2015-06-14,Ponte Preta,0-0,Goiás,R7
+2015-06-14,Palmeiras,2-1,Fluminense,R7
+2015-06-14,Grêmio,2-1,Atlético Paranaense,R7
+2015-06-14,Avaí,1-1,Figueirense,R7
+2015-06-18,Figueirense,0-0,Internacional,R8
+2015-06-20,Santos,1-0,Corinthians,R8
+2015-06-20,Flamengo,0-2,Atlético Mineiro,R8
+2015-06-20,Sport,2-1,Vasco,R8
+2015-06-20,Grêmio,1-0,Palmeiras,R8
+2015-06-21,Cruzeiro,0-1,Chapecoense,R8
+2015-06-21,São Paulo,1-1,Avaí,R8
+2015-06-21,Atlético Paranaense,2-2,Coritiba,R8
+2015-06-21,Joinville,2-1,Goiás,R8
+2015-06-24,Fluminense,2-0,Ponte Preta,R8
+2015-06-27,Avaí,1-2,Grêmio,R9
+2015-06-27,Chapecoense,1-1,Sport,R9
+2015-06-27,Corinthians,2-1,Figueirense,R9
+2015-06-28,Atlético Mineiro,1-0,Joinville,R9
+2015-06-28,Palmeiras,4-0,São Paulo,R9
+2015-06-28,Ponte Preta,2-1,Atlético Paranaense,R9
+2015-06-28,Coritiba,1-0,Cruzeiro,R9
+2015-06-28,Goiás,1-2,Fluminense,R9
+2015-06-28,Vasco,1-0,Flamengo,R9
+2015-06-28,Internacional,1-0,Santos,R9
+2015-07-01,Vasco,1-0,Avaí,R10
+2015-07-01,Sport,3-0,Internacional,R10
+2015-07-01,Palmeiras,2-0,Chapecoense,R10
+2015-07-01,Atlético Mineiro,2-0,Coritiba,R10
+2015-07-01,Grêmio,1-0,Cruzeiro,R10
+2015-07-01,Atlético Paranaense,2-1,São Paulo,R10
+2015-07-01,Joinville,0-1,Flamengo,R10
+2015-07-02,Corinthians,2-0,Ponte Preta,R10
+2015-07-02,Figueirense,3-1,Goiás,R10
+2015-07-02,Fluminense,2-1,Santos,R10
+2015-07-04,Coritiba,0-0,Joinville,R11
+2015-07-04,Cruzeiro,2-0,Atlético Paranaense,R11
+2015-07-04,Chapecoense,1-0,Vasco,R11
+2015-07-05,Avaí,2-2,Sport,R11
+2015-07-05,São Paulo,0-0,Fluminense,R11
+2015-07-05,Santos,1-3,Grêmio,R11
+2015-07-05,Goiás,0-0,Corinthians,R11
+2015-07-05,Ponte Preta,0-2,Palmeiras,R11
+2015-07-05,Flamengo,1-2,Figueirense,R11
+2015-07-05,Internacional,1-3,Atlético Mineiro,R11
+2015-07-08,Coritiba,0-0,Ponte Preta,R12
+2015-07-08,Goiás,4-1,Santos,R12
+2015-07-08,Chapecoense,1-0,Grêmio,R12
+2015-07-08,Palmeiras,3-0,Avaí,R12
+2015-07-08,Figueirense,0-2,Joinville,R12
+2015-07-08,Vasco,0-4,São Paulo,R12
+2015-07-08,Internacional,1-2,Flamengo,R12
+2015-07-08,Atlético Mineiro,2-1,Sport,R12
+2015-07-09,Corinthians,2-0,Atlético Paranaense,R12
+2015-07-09,Fluminense,1-0,Cruzeiro,R12
+2015-07-11,Santos,3-0,Figueirense,R13
+2015-07-11,Grêmio,2-0,Vasco,R13
+2015-07-11,Ponte Preta,0-2,Atlético Mineiro,R13
+2015-07-12,São Paulo,3-1,Coritiba,R13
+2015-07-12,Flamengo,0-3,Corinthians,R13
+2015-07-12,Cruzeiro,1-0,Goiás,R13
+2015-07-12,Atlético Paranaense,1-2,Fluminense,R13
+2015-07-12,Joinville,0-2,Internacional,R13
+2015-07-12,Avaí,2-1,Chapecoense,R13
+2015-07-12,Sport,2-2,Palmeiras,R13
+2015-07-18,Flamengo,1-0,Grêmio,R14
+2015-07-18,Internacional,2-1,Goiás,R14
+2015-07-18,Corinthians,1-0,Atlético Mineiro,R14
+2015-07-19,Atlético Paranaense,1-0,Chapecoense,R14
+2015-07-19,Palmeiras,1-0,Santos,R14
+2015-07-19,Fluminense,1-2,Vasco,R14
+2015-07-19,Figueirense,0-0,Coritiba,R14
+2015-07-19,Sport,2-0,São Paulo,R14
+2015-07-19,Cruzeiro,1-1,Avaí,R14
+2015-07-19,Joinville,1-1,Ponte Preta,R14
+2015-07-25,Avaí,1-2,Atlético Paranaense,R15
+2015-07-25,Grêmio,1-1,Sport,R15
+2015-07-25,Atlético Mineiro,1-0,Figueirense,R15
+2015-07-26,Santos,2-0,Joinville,R15
+2015-07-26,Chapecoense,2-1,Fluminense,R15
+2015-07-26,São Paulo,1-0,Cruzeiro,R15
+2015-07-26,Ponte Preta,0-0,Internacional,R15
+2015-07-26,Coritiba,1-1,Corinthians,R15
+2015-07-26,Goiás,0-1,Flamengo,R15
+2015-07-26,Vasco,1-4,Palmeiras,R15
+2015-07-29,Corinthians,3-0,Vasco,R16
+2015-07-29,Atlético Mineiro,3-1,São Paulo,R16
+2015-08-01,Fluminense,1-0,Grêmio,R16
+2015-08-02,Palmeiras,0-1,Atlético Paranaense,R16
+2015-08-02,Coritiba,1-1,Goiás,R16
+2015-08-02,Flamengo,2-2,Santos,R16
+2015-08-02,Internacional,0-0,Chapecoense,R16
+2015-08-02,Figueirense,3-1,Ponte Preta,R16
+2015-08-02,Joinville,2-0,Avaí,R16
+2015-08-02,Sport,0-0,Cruzeiro,R16
+2015-08-08,Avaí,1-0,Fluminense,R17
+2015-08-08,Santos,3-0,Coritiba,R17
+2015-08-09,Vasco,0-0,Joinville,R17
+2015-08-09,Atlético Paranaense,1-1,Sport,R17
+2015-08-09,São Paulo,1-1,Corinthians,R17
+2015-08-09,Ponte Preta,1-0,Flamengo,R17
+2015-08-09,Cruzeiro,2-1,Palmeiras,R17
+2015-08-09,Goiás,0-0,Atlético Mineiro,R17
+2015-08-09,Grêmio,5-0,Internacional,R17
+2015-08-09,Chapecoense,2-2,Figueirense,R17
+2015-08-12,Flamengo,3-2,Atlético Paranaense,R18
+2015-08-12,Coritiba,2-1,Palmeiras,R18
+2015-08-12,Santos,1-0,Vasco,R18
+2015-08-12,Goiás,0-0,Chapecoense,R18
+2015-08-12,Corinthians,4-3,Sport,R18
+2015-08-12,Internacional,1-0,Fluminense,R18
+2015-08-12,Figueirense,0-2,São Paulo,R18
+2015-08-13,Ponte Preta,2-0,Avaí,R18
+2015-08-13,Atlético Mineiro,0-2,Grêmio,R18
+2015-08-13,Joinville,3-0,Cruzeiro,R18
+2015-08-15,Vasco,0-1,Coritiba,R19
+2015-08-15,Atlético Paranaense,0-0,Santos,R19
+2015-08-15,São Paulo,0-3,Goiás,R19
+2015-08-16,Palmeiras,4-2,Flamengo,R19
+2015-08-16,Fluminense,2-1,Figueirense,R19
+2015-08-16,Cruzeiro,0-0,Internacional,R19
+2015-08-16,Avaí,1-2,Corinthians,R19
+2015-08-16,Sport,1-1,Ponte Preta,R19
+2015-08-16,Grêmio,2-1,Joinville,R19
+2015-08-16,Chapecoense,2-1,Atlético Mineiro,R19
+2015-08-22,Santos,5-2,Avaí,R20
+2015-08-22,Goiás,3-0,Vasco,R20
+2015-08-22,Figueirense,2-1,Sport,R20
+2015-08-23,Ponte Preta,0-0,Grêmio,R20
+2015-08-23,Coritiba,1-0,Chapecoense,R20
+2015-08-23,Corinthians,3-0,Cruzeiro,R20
+2015-08-23,Flamengo,2-1,São Paulo,R20
+2015-08-23,Internacional,2-0,Atlético Paranaense,R20
+2015-08-23,Joinville,2-1,Fluminense,R20
+2015-08-23,Atlético Mineiro,2-1,Palmeiras,R20
+2015-08-29,Vasco,0-1,Figueirense,R21
+2015-08-29,São Paulo,3-0,Ponte Preta,R21
+2015-08-30,Grêmio,0-0,Coritiba,R21
+2015-08-30,Avaí,3-0,Internacional,R21
+2015-08-30,Palmeiras,3-2,Joinville,R21
+2015-08-30,Fluminense,1-2,Atlético Mineiro,R21
+2015-08-30,Sport,0-1,Flamengo,R21
+2015-08-30,Chapecoense,1-3,Corinthians,R21
+2015-08-30,Cruzeiro,0-1,Santos,R21
+2015-08-30,Atlético Paranaense,3-0,Goiás,R21
+2015-09-02,Ponte Preta,1-2,Cruzeiro,R22
+2015-09-02,Internacional,6-0,Vasco,R22
+2015-09-02,Joinville,0-0,São Paulo,R22
+2015-09-02,Flamengo,3-0,Avaí,R22
+2015-09-02,Atlético Mineiro,0-1,Atlético Paranaense,R22
+2015-09-02,Corinthians,2-0,Fluminense,R22
+2015-09-02,Coritiba,0-0,Sport,R22
+2015-09-02,Goiás,1-0,Palmeiras,R22
+2015-09-03,Santos,3-1,Chapecoense,R22
+2015-09-03,Figueirense,0-2,Grêmio,R22
+2015-09-05,São Paulo,2-0,Internacional,R23
+2015-09-05,Vasco,1-2,Atlético Mineiro,R23
+2015-09-05,Atlético Paranaense,0-0,Joinville,R23
+2015-09-06,Cruzeiro,5-1,Figueirense,R23
+2015-09-06,Chapecoense,0-0,Ponte Preta,R23
+2015-09-06,Palmeiras,3-3,Corinthians,R23
+2015-09-06,Fluminense,1-3,Flamengo,R23
+2015-09-06,Grêmio,2-1,Goiás,R23
+2015-09-06,Avaí,0-2,Coritiba,R23
+2015-09-06,Sport,1-1,Santos,R23
+2015-09-09,Ponte Preta,0-1,Vasco,R24
+2015-09-09,Internacional,1-0,Palmeiras,R24
+2015-09-09,Atlético Mineiro,2-0,Avaí,R24
+2015-09-09,Figueirense,1-1,Atlético Paranaense,R24
+2015-09-09,Corinthians,1-1,Grêmio,R24
+2015-09-09,Santos,3-0,São Paulo,R24
+2015-09-09,Coritiba,1-1,Fluminense,R24
+2015-09-10,Goiás,1-0,Sport,R24
+2015-09-10,Flamengo,2-0,Cruzeiro,R24
+2015-09-10,Joinville,0-0,Chapecoense,R24
+2015-09-12,Coritiba,0-1,Internacional,R25
+2015-09-12,Palmeiras,2-0,Figueirense,R25
+2015-09-13,Corinthians,3-0,Joinville,R25
+2015-09-13,Ponte Preta,3-1,Santos,R25
+2015-09-13,Vasco,2-0,Atlético Paranaense,R25
+2015-09-13,Grêmio,1-2,São Paulo,R25
+2015-09-13,Cruzeiro,1-1,Atlético Mineiro,R25
+2015-09-13,Chapecoense,1-3,Flamengo,R25
+2015-09-13,Avaí,2-1,Goiás,R25
+2015-09-13,Sport,1-0,Fluminense,R25
+2015-09-16,Fluminense,1-4,Palmeiras,R26
+2015-09-16,Goiás,1-2,Ponte Preta,R26
+2015-09-16,Joinville,1-1,Sport,R26
+2015-09-16,Figueirense,0-1,Avaí,R26
+2015-09-16,Atlético Paranaense,1-2,Grêmio,R26
+2015-09-16,Santos,4-0,Atlético Mineiro,R26
+2015-09-16,Internacional,2-1,Corinthians,R26
+2015-09-16,Cruzeiro,2-2,Vasco,R26
+2015-09-17,São Paulo,0-0,Chapecoense,R26
+2015-09-17,Flamengo,0-2,Coritiba,R26
+2015-09-19,Palmeiras,3-2,Grêmio,R27
+2015-09-19,Internacional,1-1,Figueirense,R27
+2015-09-19,Ponte Preta,3-1,Fluminense,R27
+2015-09-20,Corinthians,2-0,Santos,R27
+2015-09-20,Goiás,3-0,Joinville,R27
+2015-09-20,Vasco,2-1,Sport,R27
+2015-09-20,Atlético Mineiro,4-1,Flamengo,R27
+2015-09-20,Avaí,2-1,São Paulo,R27
+2015-09-20,Coritiba,2-0,Atlético Paranaense,R27
+2015-09-20,Chapecoense,0-2,Cruzeiro,R27
+2015-09-26,Fluminense,2-0,Goiás,R28
+2015-09-26,Grêmio,3-1,Avaí,R28
+2015-09-27,Santos,3-1,Internacional,R28
+2015-09-27,Atlético Paranaense,1-2,Ponte Preta,R28
+2015-09-27,São Paulo,1-1,Palmeiras,R28
+2015-09-27,Flamengo,1-2,Vasco,R28
+2015-09-27,Figueirense,1-3,Corinthians,R28
+2015-09-27,Joinville,2-2,Atlético Mineiro,R28
+2015-09-27,Cruzeiro,2-0,Coritiba,R28
+2015-09-27,Sport,3-0,Chapecoense,R28
+2015-10-03,Internacional,2-1,Sport,R29
+2015-10-03,Coritiba,0-3,Atlético Mineiro,R29
+2015-10-03,São Paulo,1-0,Atlético Paranaense,R29
+2015-10-04,Flamengo,2-0,Joinville,R29
+2015-10-04,Avaí,1-1,Vasco,R29
+2015-10-04,Santos,3-1,Fluminense,R29
+2015-10-04,Ponte Preta,2-2,Corinthians,R29
+2015-10-04,Cruzeiro,0-0,Grêmio,R29
+2015-10-04,Goiás,2-3,Figueirense,R29
+2015-10-04,Chapecoense,5-1,Palmeiras,R29
+2015-10-14,Atlético Mineiro,2-1,Internacional,R30
+2015-10-14,Sport,3-0,Avaí,R30
+2015-10-14,Palmeiras,0-1,Ponte Preta,R30
+2015-10-14,Figueirense,3-0,Flamengo,R30
+2015-10-14,Joinville,3-1,Coritiba,R30
+2015-10-14,Fluminense,2-0,São Paulo,R30
+2015-10-14,Atlético Paranaense,2-2,Cruzeiro,R30
+2015-10-15,Corinthians,3-0,Goiás,R30
+2015-10-15,Vasco,1-1,Chapecoense,R30
+2015-10-15,Grêmio,1-0,Santos,R30
+2015-10-17,Avaí,1-3,Palmeiras,R31
+2015-10-17,Joinville,1-0,Figueirense,R31
+2015-10-18,Ponte Preta,3-0,Coritiba,R31
+2015-10-18,Cruzeiro,2-0,Fluminense,R31
+2015-10-18,São Paulo,2-2,Vasco,R31
+2015-10-18,Flamengo,0-1,Internacional,R31
+2015-10-18,Atlético Paranaense,1-4,Corinthians,R31
+2015-10-18,Santos,3-1,Goiás,R31
+2015-10-18,Grêmio,2-3,Chapecoense,R31
+2015-10-18,Sport,4-1,Atlético Mineiro,R31
+2015-10-24,Fluminense,0-1,Atlético Paranaense,R32
+2015-10-24,Internacional,1-0,Joinville,R32
+2015-10-24,Figueirense,0-0,Santos,R32
+2015-10-24,Palmeiras,0-2,Sport,R32
+2015-10-25,Corinthians,1-0,Flamengo,R32
+2015-10-25,Vasco,0-0,Grêmio,R32
+2015-10-25,Coritiba,1-2,São Paulo,R32
+2015-10-25,Chapecoense,0-0,Avaí,R32
+2015-10-25,Goiás,0-1,Cruzeiro,R32
+2015-10-25,Atlético Mineiro,2-1,Ponte Preta,R32
+2015-10-31,São Paulo,3-0,Sport,R33
+2015-10-31,Ponte Preta,1-0,Joinville,R33
+2015-10-31,Avaí,1-1,Cruzeiro,R33
+2015-10-31,Coritiba,1-1,Figueirense,R33
+2015-11-01,Santos,2-1,Palmeiras,R33
+2015-11-01,Grêmio,2-0,Flamengo,R33
+2015-11-01,Atlético Mineiro,0-3,Corinthians,R33
+2015-11-01,Chapecoense,0-0,Atlético Paranaense,R33
+2015-11-01,Vasco,0-1,Fluminense,R33
+2015-11-01,Goiás,2-1,Internacional,R33
+2015-11-07,Internacional,1-0,Ponte Preta,R34
+2015-11-07,Corinthians,2-1,Coritiba,R34
+2015-11-07,Atlético Paranaense,2-1,Avaí,R34
+2015-11-07,Fluminense,2-3,Chapecoense,R34
+2015-11-08,Palmeiras,0-2,Vasco,R34
+2015-11-08,Flamengo,4-1,Goiás,R34
+2015-11-08,Cruzeiro,2-1,São Paulo,R34
+2015-11-08,Figueirense,0-1,Atlético Mineiro,R34
+2015-11-08,Joinville,0-0,Santos,R34
+2015-11-08,Sport,1-0,Grêmio,R34
+2015-11-15,Cruzeiro,3-0,Sport,R35
+2015-11-18,Goiás,1-3,Coritiba,R35
+2015-11-18,Ponte Preta,0-1,Figueirense,R35
+2015-11-18,Avaí,2-1,Joinville,R35
+2015-11-18,Atlético Paranaense,3-3,Palmeiras,R35
+2015-11-19,Grêmio,1-0,Fluminense,R35
+2015-11-19,Chapecoense,1-0,Internacional,R35
+2015-11-19,São Paulo,4-2,Atlético Mineiro,R35
+2015-11-19,Santos,0-0,Flamengo,R35
+2015-11-19,Vasco,1-1,Corinthians,R35
+2015-11-21,Palmeiras,1-1,Cruzeiro,R36
+2015-11-22,Corinthians,6-1,São Paulo,R36
+2015-11-22,Internacional,1-0,Grêmio,R36
+2015-11-22,Atlético Mineiro,2-2,Goiás,R36
+2015-11-22,Figueirense,0-0,Chapecoense,R36
+2015-11-22,Joinville,1-2,Vasco,R36
+2015-11-22,Flamengo,1-1,Ponte Preta,R36
+2015-11-22,Fluminense,3-1,Avaí,R36
+2015-11-22,Coritiba,1-0,Santos,R36
+2015-11-22,Sport,0-0,Atlético Paranaense,R36
+2015-11-28,São Paulo,3-2,Figueirense,R37
+2015-11-28,Fluminense,1-1,Internacional,R37
+2015-11-28,Avaí,1-0,Ponte Preta,R37
+2015-11-29,Vasco,1-0,Santos,R37
+2015-11-29,Grêmio,2-1,Atlético Mineiro,R37
+2015-11-29,Cruzeiro,3-0,Joinville,R37
+2015-11-29,Sport,2-0,Corinthians,R37
+2015-11-29,Palmeiras,0-2,Coritiba,R37
+2015-11-29,Chapecoense,1-3,Goiás,R37
+2015-11-29,Atlético Paranaense,3-0,Flamengo,R37
+2015-12-06,Corinthians,1-1,Avaí,R38
+2015-12-06,Santos,5-1,Atlético Paranaense,R38
+2015-12-06,Ponte Preta,0-1,Sport,R38
+2015-12-06,Flamengo,1-2,Palmeiras,R38
+2015-12-06,Internacional,2-0,Cruzeiro,R38
+2015-12-06,Atlético Mineiro,3-0,Chapecoense,R38
+2015-12-06,Figueirense,1-0,Fluminense,R38
+2015-12-06,Coritiba,0-0,Vasco,R38
+2015-12-06,Goiás,0-1,São Paulo,R38
+2015-12-06,Joinville,0-2,Grêmio,R38

@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2019-04-27,São Paulo,2-0,Botafogo,R1
+2019-04-27,Atlético Mineiro,2-1,Avaí,R1
+2019-04-27,Chapecoense,2-0,Internacional,R1
+2019-04-27,Flamengo,3-1,Cruzeiro,R1
+2019-04-28,Grêmio,1-2,Santos,R1
+2019-04-28,Ceará,4-0,CSA,R1
+2019-04-28,Bahia,3-2,Corinthians,R1
+2019-04-28,Athletico Paranaense,4-1,Vasco,R1
+2019-04-28,Palmeiras,4-0,Fortaleza,R1
+2019-04-28,Fluminense,0-1,Goiás,R1
+2019-05-01,Internacional,2-1,Flamengo,R2
+2019-05-01,Corinthians,1-0,Chapecoense,R2
+2019-05-01,CSA,1-1,Palmeiras,R2
+2019-05-01,Cruzeiro,1-0,Ceará,R2
+2019-05-01,Avaí,1-1,Grêmio,R2
+2019-05-01,Fortaleza,2-1,Athletico Paranaense,R2
+2019-05-01,Vasco,1-2,Atlético Mineiro,R2
+2019-05-01,Goiás,1-2,São Paulo,R2
+2019-05-02,Santos,2-1,Fluminense,R2
+2019-05-02,Botafogo,3-2,Bahia,R2
+2019-05-04,Palmeiras,1-0,Internacional,R3
+2019-05-04,Vasco,1-1,Corinthians,R3
+2019-05-04,Ceará,1-2,Atlético Mineiro,R3
+2019-05-05,Chapecoense,1-1,Athletico Paranaense,R3
+2019-05-05,Cruzeiro,2-1,Goiás,R3
+2019-05-05,São Paulo,1-1,Flamengo,R3
+2019-05-05,Botafogo,1-0,Fortaleza,R3
+2019-05-05,CSA,0-0,Santos,R3
+2019-05-05,Grêmio,4-5,Fluminense,R3
+2019-05-05,Bahia,1-0,Avaí,R3
+2019-05-11,Fluminense,0-1,Botafogo,R4
+2019-05-11,Corinthians,0-0,Grêmio,R4
+2019-05-11,Goiás,2-1,Ceará,R4
+2019-05-12,Flamengo,2-1,Chapecoense,R4
+2019-05-12,Internacional,3-1,Cruzeiro,R4
+2019-05-12,Atlético Mineiro,0-2,Palmeiras,R4
+2019-05-12,Santos,3-0,Vasco,R4
+2019-05-12,Fortaleza,0-1,São Paulo,R4
+2019-05-12,Avaí,0-0,CSA,R4
+2019-05-12,Athletico Paranaense,1-0,Bahia,R4
+2019-05-18,Fluminense,4-1,Cruzeiro,R5
+2019-05-18,Atlético Mineiro,2-1,Flamengo,R5
+2019-05-18,Palmeiras,4-0,Santos,R5
+2019-05-19,São Paulo,0-0,Bahia,R5
+2019-05-19,Internacional,2-0,CSA,R5
+2019-05-19,Chapecoense,1-3,Fortaleza,R5
+2019-05-19,Goiás,1-0,Botafogo,R5
+2019-05-19,Athletico Paranaense,0-2,Corinthians,R5
+2019-05-19,Ceará,2-1,Grêmio,R5
+2019-05-19,Vasco,1-1,Avaí,R5
+2019-05-25,Botafogo,0-1,Palmeiras,R6
+2019-05-25,Grêmio,1-0,Atlético Mineiro,R6
+2019-05-26,Santos,0-0,Internacional,R6
+2019-05-26,Flamengo,3-2,Athletico Paranaense,R6
+2019-05-26,Cruzeiro,1-2,Chapecoense,R6
+2019-05-26,Fortaleza,1-1,Vasco,R6
+2019-05-26,Corinthians,1-0,São Paulo,R6
+2019-05-26,Bahia,3-2,Fluminense,R6
+2019-05-27,Avaí,1-2,Ceará,R6
+2019-05-27,CSA,1-0,Goiás,R6
+2019-06-01,Flamengo,2-0,Fortaleza,R7
+2019-06-01,Bahia,1-0,Grêmio,R7
+2019-06-02,Botafogo,1-0,Vasco,R7
+2019-06-02,Ceará,0-1,Santos,R7
+2019-06-02,São Paulo,1-1,Cruzeiro,R7
+2019-06-02,Athletico Paranaense,3-0,Fluminense,R7
+2019-06-02,Internacional,2-0,Avaí,R7
+2019-06-02,Atlético Mineiro,4-0,CSA,R7
+2019-06-02,Chapecoense,1-2,Palmeiras,R7
+2019-06-07,Vasco,2-1,Internacional,R8
+2019-06-08,Palmeiras,1-0,Athletico Paranaense,R8
+2019-06-08,Grêmio,1-0,Fortaleza,R8
+2019-06-08,Cruzeiro,0-0,Corinthians,R8
+2019-06-08,Ceará,0-0,Bahia,R8
+2019-06-08,Avaí,0-0,São Paulo,R8
+2019-06-09,Santos,3-1,Atlético Mineiro,R8
+2019-06-09,Fluminense,0-0,Flamengo,R8
+2019-06-09,CSA,1-2,Botafogo,R8
+2019-06-10,Goiás,3-1,Chapecoense,R8
+2019-06-12,Botafogo,0-1,Grêmio,R9
+2019-06-12,Fortaleza,2-1,Cruzeiro,R9
+2019-06-12,Internacional,3-1,Bahia,R9
+2019-06-12,Santos,1-0,Corinthians,R9
+2019-06-12,CSA,0-2,Flamengo,R9
+2019-06-13,Vasco,1-0,Ceará,R9
+2019-06-13,Atlético Mineiro,1-1,São Paulo,R9
+2019-06-13,Palmeiras,2-0,Avaí,R9
+2019-06-13,Chapecoense,1-1,Fluminense,R9
+2019-06-13,Goiás,2-1,Athletico Paranaense,R9
+2019-07-13,Grêmio,2-1,Vasco,R10
+2019-07-13,Fortaleza,2-0,Avaí,R10
+2019-07-13,São Paulo,1-1,Palmeiras,R10
+2019-07-13,Bahia,0-1,Santos,R10
+2019-07-14,Flamengo,6-1,Goiás,R10
+2019-07-14,Cruzeiro,0-0,Botafogo,R10
+2019-07-14,Corinthians,1-0,CSA,R10
+2019-07-14,Athletico Paranaense,1-0,Internacional,R10
+2019-07-14,Chapecoense,1-2,Atlético Mineiro,R10
+2019-07-15,Fluminense,1-1,Ceará,R10
+2019-07-20,Vasco,2-1,Fluminense,R11
+2019-07-20,Bahia,0-0,Cruzeiro,R11
+2019-07-20,Internacional,1-1,Grêmio,R11
+2019-07-20,Ceará,2-0,Palmeiras,R11
+2019-07-20,CSA,0-4,Athletico Paranaense,R11
+2019-07-21,Botafogo,0-1,Santos,R11
+2019-07-21,Atlético Mineiro,2-2,Fortaleza,R11
+2019-07-21,Corinthians,1-1,Flamengo,R11
+2019-07-21,Avaí,0-0,Goiás,R11
+2019-07-22,São Paulo,4-0,Chapecoense,R11
+2019-07-27,Palmeiras,1-1,Vasco,R12
+2019-07-27,Internacional,1-0,Ceará,R12
+2019-07-27,Cruzeiro,0-2,Athletico Paranaense,R12
+2019-07-27,Fluminense,1-2,São Paulo,R12
+2019-07-28,Chapecoense,0-0,Bahia,R12
+2019-07-28,Santos,3-1,Avaí,R12
+2019-07-28,Flamengo,3-2,Botafogo,R12
+2019-07-28,Fortaleza,1-3,Corinthians,R12
+2019-07-28,Goiás,0-0,Atlético Mineiro,R12
+2019-07-29,CSA,0-0,Grêmio,R12
+2019-08-03,Ceará,2-1,Fortaleza,R13
+2019-08-03,Fluminense,2-1,Internacional,R13
+2019-08-04,Santos,6-1,Goiás,R13
+2019-08-04,Avaí,0-2,Botafogo,R13
+2019-08-04,Bahia,3-0,Flamengo,R13
+2019-08-04,Atlético Mineiro,2-0,Cruzeiro,R13
+2019-08-04,Corinthians,1-1,Palmeiras,R13
+2019-08-04,Vasco,0-0,CSA,R13
+2019-08-05,Grêmio,3-3,Chapecoense,R13
+2019-08-07,Corinthians,2-0,Goiás,R7
+2019-08-10,Ceará,4-1,Chapecoense,R14
+2019-08-10,São Paulo,3-2,Santos,R14
+2019-08-10,Flamengo,3-1,Grêmio,R14
+2019-08-10,Atlético Mineiro,2-1,Fluminense,R14
+2019-08-11,Internacional,0-0,Corinthians,R14
+2019-08-11,Palmeiras,2-2,Bahia,R14
+2019-08-11,Botafogo,2-1,Athletico Paranaense,R14
+2019-08-11,Avaí,2-2,Cruzeiro,R14
+2019-08-11,Goiás,0-1,Vasco,R14
+2019-08-12,CSA,0-2,Fortaleza,R14
+2019-08-17,Corinthians,2-0,Botafogo,R15
+2019-08-17,Fortaleza,0-1,Internacional,R15
+2019-08-17,Vasco,1-4,Flamengo,R15
+2019-08-17,Athletico Paranaense,1-0,Atlético Mineiro,R15
+2019-08-17,Grêmio,1-1,Palmeiras,R15
+2019-08-18,Cruzeiro,2-0,Santos,R15
+2019-08-18,São Paulo,1-0,Ceará,R15
+2019-08-18,Fluminense,0-1,CSA,R15
+2019-08-18,Bahia,1-1,Goiás,R15
+2019-08-18,Chapecoense,1-0,Avaí,R15
+2019-08-21,Athletico Paranaense,0-1,São Paulo,R13
+2019-08-24,Atlético Mineiro,0-1,Bahia,R16
+2019-08-24,Grêmio,2-1,Athletico Paranaense,R16
+2019-08-25,Santos,3-3,Fortaleza,R16
+2019-08-25,Vasco,2-0,São Paulo,R16
+2019-08-25,Goiás,2-1,Internacional,R16
+2019-08-25,Ceará,0-3,Flamengo,R16
+2019-08-25,Avaí,1-1,Corinthians,R16
+2019-08-25,CSA,1-1,Cruzeiro,R16
+2019-08-26,Botafogo,0-0,Chapecoense,R16
+2019-08-31,São Paulo,0-0,Grêmio,R17
+2019-08-31,Bahia,1-0,CSA,R17
+2019-08-31,Chapecoense,0-1,Santos,R17
+2019-08-31,Athletico Paranaense,1-0,Ceará,R17
+2019-08-31,Internacional,3-2,Botafogo,R17
+2019-09-01,Fortaleza,2-0,Goiás,R17
+2019-09-01,Flamengo,3-0,Palmeiras,R17
+2019-09-01,Cruzeiro,1-0,Vasco,R17
+2019-09-01,Corinthians,1-0,Atlético Mineiro,R17
+2019-09-02,Fluminense,0-1,Avaí,R17
+2019-09-07,Corinthians,2-2,Ceará,R18
+2019-09-07,Vasco,0-2,Bahia,R18
+2019-09-07,Fortaleza,0-1,Fluminense,R18
+2019-09-07,Avaí,0-3,Flamengo,R18
+2019-09-07,Internacional,1-0,São Paulo,R18
+2019-09-07,Goiás,1-2,Palmeiras,R18
+2019-09-08,Cruzeiro,1-4,Grêmio,R18
+2019-09-08,Santos,1-1,Athletico Paranaense,R18
+2019-09-08,Botafogo,2-1,Atlético Mineiro,R18
+2019-09-08,CSA,2-0,Chapecoense,R18
+2019-09-10,Palmeiras,3-0,Fluminense,R16
+2019-09-14,Flamengo,1-0,Santos,R19
+2019-09-14,Palmeiras,1-0,Cruzeiro,R19
+2019-09-14,Chapecoense,1-2,Vasco,R19
+2019-09-14,Ceará,0-0,Botafogo,R19
+2019-09-15,Atlético Mineiro,1-3,Internacional,R19
+2019-09-15,Athletico Paranaense,0-1,Avaí,R19
+2019-09-15,Grêmio,3-0,Goiás,R19
+2019-09-15,Fluminense,1-0,Corinthians,R19
+2019-09-15,Bahia,1-1,Fortaleza,R19
+2019-09-15,São Paulo,1-1,CSA,R19
+2019-09-21,Botafogo,1-2,São Paulo,R20
+2019-09-21,Cruzeiro,1-2,Flamengo,R20
+2019-09-21,Corinthians,2-1,Bahia,R20
+2019-09-21,Santos,0-3,Grêmio,R20
+2019-09-22,Internacional,1-0,Chapecoense,R20
+2019-09-22,Fortaleza,0-1,Palmeiras,R20
+2019-09-22,Vasco,1-1,Athletico Paranaense,R20
+2019-09-22,CSA,1-0,Ceará,R20
+2019-09-22,Goiás,3-0,Fluminense,R20
+2019-09-23,Avaí,1-0,Atlético Mineiro,R20
+2019-09-25,Ceará,0-0,Cruzeiro,R21
+2019-09-25,São Paulo,0-1,Goiás,R21
+2019-09-25,Flamengo,3-1,Internacional,R21
+2019-09-25,Bahia,2-0,Botafogo,R21
+2019-09-26,Palmeiras,6-2,CSA,R21
+2019-09-26,Grêmio,6-1,Avaí,R21
+2019-09-26,Fluminense,1-1,Santos,R21
+2019-09-26,Athletico Paranaense,4-1,Fortaleza,R21
+2019-09-28,Flamengo,0-0,São Paulo,R22
+2019-09-29,Corinthians,1-0,Vasco,R22
+2019-09-29,Internacional,1-1,Palmeiras,R22
+2019-09-29,Santos,2-0,CSA,R22
+2019-09-29,Fluminense,2-1,Grêmio,R22
+2019-09-29,Atlético Mineiro,2-1,Ceará,R22
+2019-09-29,Athletico Paranaense,1-1,Chapecoense,R22
+2019-09-30,Fortaleza,1-0,Botafogo,R22
+2019-09-30,Avaí,0-2,Bahia,R22
+2019-09-30,Goiás,1-0,Cruzeiro,R22
+2019-10-02,Atlético Mineiro,1-2,Vasco,R21
+2019-10-02,Chapecoense,0-1,Corinthians,R21
+2019-10-05,São Paulo,2-1,Fortaleza,R23
+2019-10-05,Vasco,0-1,Santos,R23
+2019-10-05,Grêmio,0-0,Corinthians,R23
+2019-10-05,Bahia,1-2,Athletico Paranaense,R23
+2019-10-05,Cruzeiro,1-1,Internacional,R23
+2019-10-06,Chapecoense,0-1,Flamengo,R23
+2019-10-06,Ceará,0-1,Goiás,R23
+2019-10-06,Palmeiras,1-1,Atlético Mineiro,R23
+2019-10-06,Botafogo,0-1,Fluminense,R23
+2019-10-06,CSA,3-1,Avaí,R23
+2019-10-09,Botafogo,3-1,Goiás,R24
+2019-10-09,CSA,1-0,Internacional,R24
+2019-10-09,Fortaleza,2-0,Chapecoense,R24
+2019-10-09,Grêmio,2-1,Ceará,R24
+2019-10-09,Bahia,0-0,São Paulo,R24
+2019-10-09,Cruzeiro,0-0,Fluminense,R24
+2019-10-09,Santos,2-0,Palmeiras,R24
+2019-10-10,Corinthians,2-2,Athletico Paranaense,R24
+2019-10-10,Avaí,0-0,Vasco,R24
+2019-10-10,Flamengo,3-1,Atlético Mineiro,R24
+2019-10-12,Goiás,1-0,CSA,R25
+2019-10-12,Fluminense,2-0,Bahia,R25
+2019-10-12,Palmeiras,1-0,Botafogo,R25
+2019-10-13,Internacional,0-0,Santos,R25
+2019-10-13,Ceará,1-0,Avaí,R25
+2019-10-13,Vasco,1-0,Fortaleza,R25
+2019-10-13,Athletico Paranaense,0-2,Flamengo,R25
+2019-10-13,São Paulo,1-0,Corinthians,R25
+2019-10-13,Atlético Mineiro,1-4,Grêmio,R25
+2019-10-13,Chapecoense,1-1,Cruzeiro,R25
+2019-10-16,Grêmio,0-1,Bahia,R26
+2019-10-16,CSA,2-2,Atlético Mineiro,R26
+2019-10-16,Fortaleza,1-2,Flamengo,R26
+2019-10-16,Cruzeiro,1-0,São Paulo,R26
+2019-10-16,Palmeiras,1-0,Chapecoense,R26
+2019-10-16,Vasco,2-1,Botafogo,R26
+2019-10-16,Goiás,2-2,Corinthians,R26
+2019-10-17,Santos,2-1,Ceará,R26
+2019-10-17,Avaí,0-2,Internacional,R26
+2019-10-17,Fluminense,1-2,Athletico Paranaense,R26
+2019-10-19,Fortaleza,2-1,Grêmio,R27
+2019-10-19,Corinthians,1-2,Cruzeiro,R27
+2019-10-20,Internacional,0-1,Vasco,R27
+2019-10-20,Atlético Mineiro,2-0,Santos,R27
+2019-10-20,São Paulo,1-0,Avaí,R27
+2019-10-20,Flamengo,2-0,Fluminense,R27
+2019-10-20,Chapecoense,2-2,Goiás,R27
+2019-10-20,Athletico Paranaense,1-1,Palmeiras,R27
+2019-10-21,Bahia,1-2,Ceará,R27
+2019-10-21,Botafogo,2-1,CSA,R27
+2019-10-26,Ceará,1-1,Vasco,R28
+2019-10-26,Corinthians,0-0,Santos,R28
+2019-10-26,Bahia,2-3,Internacional,R28
+2019-10-26,Fluminense,1-1,Chapecoense,R28
+2019-10-26,Cruzeiro,1-1,Fortaleza,R28
+2019-10-27,Grêmio,3-0,Botafogo,R28
+2019-10-27,São Paulo,2-0,Atlético Mineiro,R28
+2019-10-27,Athletico Paranaense,4-1,Goiás,R28
+2019-10-27,Avaí,1-2,Palmeiras,R28
+2019-10-27,Flamengo,1-0,CSA,R28
+2019-10-30,Atlético Mineiro,0-2,Chapecoense,R29
+2019-10-30,Palmeiras,3-0,São Paulo,R29
+2019-10-30,Avaí,1-3,Fortaleza,R29
+2019-10-30,Ceará,2-0,Fluminense,R29
+2019-10-30,Vasco,1-3,Grêmio,R29
+2019-10-30,CSA,2-1,Corinthians,R29
+2019-10-31,Santos,1-0,Bahia,R29
+2019-10-31,Goiás,2-2,Flamengo,R29
+2019-10-31,Internacional,1-1,Athletico Paranaense,R29
+2019-10-31,Botafogo,0-2,Cruzeiro,R29
+2019-11-02,Fortaleza,2-2,Atlético Mineiro,R30
+2019-11-02,Palmeiras,1-0,Ceará,R30
+2019-11-02,Fluminense,0-0,Vasco,R30
+2019-11-02,Chapecoense,0-3,São Paulo,R30
+2019-11-03,Flamengo,4-1,Corinthians,R30
+2019-11-03,Grêmio,2-0,Internacional,R30
+2019-11-03,Athletico Paranaense,1-0,CSA,R30
+2019-11-03,Cruzeiro,1-1,Bahia,R30
+2019-11-03,Santos,4-1,Botafogo,R30
+2019-11-03,Goiás,2-0,Avaí,R30
+2019-11-06,Corinthians,3-2,Fortaleza,R31
+2019-11-06,Atlético Mineiro,2-0,Goiás,R31
+2019-11-06,Avaí,1-2,Santos,R31
+2019-11-06,Vasco,1-2,Palmeiras,R31
+2019-11-06,Bahia,1-1,Chapecoense,R31
+2019-11-06,Athletico Paranaense,0-0,Cruzeiro,R31
+2019-11-07,Ceará,2-0,Internacional,R31
+2019-11-07,São Paulo,0-2,Fluminense,R31
+2019-11-07,Botafogo,0-1,Flamengo,R31
+2019-11-07,Grêmio,2-1,CSA,R31
+2019-11-09,Goiás,0-3,Santos,R32
+2019-11-09,Palmeiras,1-1,Corinthians,R32
+2019-11-10,Internacional,2-1,Fluminense,R32
+2019-11-10,Cruzeiro,0-0,Atlético Mineiro,R32
+2019-11-10,São Paulo,0-1,Athletico Paranaense,R32
+2019-11-10,Flamengo,3-1,Bahia,R32
+2019-11-10,Fortaleza,1-0,Ceará,R32
+2019-11-10,Chapecoense,0-1,Grêmio,R32
+2019-11-10,CSA,0-3,Vasco,R32
+2019-11-11,Botafogo,2-0,Avaí,R32
+2019-11-13,Flamengo,4-4,Vasco,R34
+2019-11-16,Santos,1-1,São Paulo,R33
+2019-11-16,Fluminense,1-1,Atlético Mineiro,R33
+2019-11-17,Grêmio,0-1,Flamengo,R33
+2019-11-17,Bahia,1-1,Palmeiras,R33
+2019-11-17,Corinthians,0-0,Internacional,R33
+2019-11-17,Chapecoense,1-0,Ceará,R33
+2019-11-17,Athletico Paranaense,1-0,Botafogo,R33
+2019-11-17,Fortaleza,3-0,CSA,R33
+2019-11-18,Vasco,1-1,Goiás,R33
+2019-11-18,Cruzeiro,0-0,Avaí,R33
+2019-11-23,Santos,4-1,Cruzeiro,R34
+2019-11-24,Atlético Mineiro,0-1,Athletico Paranaense,R34
+2019-11-24,Palmeiras,1-2,Grêmio,R34
+2019-11-24,Goiás,4-3,Bahia,R34
+2019-11-24,Botafogo,1-0,Corinthians,R34
+2019-11-24,Internacional,2-2,Fortaleza,R34
+2019-11-24,Ceará,1-1,São Paulo,R34
+2019-11-24,Avaí,0-1,Chapecoense,R34
+2019-11-25,CSA,0-1,Fluminense,R34
+2019-11-27,Internacional,1-2,Goiás,R35
+2019-11-27,Chapecoense,0-1,Botafogo,R35
+2019-11-27,Bahia,1-1,Atlético Mineiro,R35
+2019-11-27,Corinthians,3-0,Avaí,R35
+2019-11-27,Flamengo,4-1,Ceará,R35
+2019-11-27,Athletico Paranaense,2-0,Grêmio,R35
+2019-11-28,Fluminense,1-0,Palmeiras,R35
+2019-11-28,Fortaleza,2-1,Santos,R35
+2019-11-28,São Paulo,1-0,Vasco,R35
+2019-11-28,Cruzeiro,0-1,CSA,R35
+2019-11-30,Ceará,1-1,Athletico Paranaense,R36
+2019-11-30,Botafogo,0-1,Internacional,R36
+2019-12-01,Palmeiras,1-3,Flamengo,R36
+2019-12-01,Avaí,1-1,Fluminense,R36
+2019-12-01,Goiás,1-2,Fortaleza,R36
+2019-12-01,Atlético Mineiro,2-1,Corinthians,R36
+2019-12-01,CSA,1-2,Bahia,R36
+2019-12-01,Grêmio,3-0,São Paulo,R36
+2019-12-01,Santos,2-0,Chapecoense,R36
+2019-12-02,Vasco,1-0,Cruzeiro,R36
+2019-12-04,Athletico Paranaense,1-0,Santos,R37
+2019-12-04,Atlético Mineiro,2-0,Botafogo,R37
+2019-12-04,Ceará,0-1,Corinthians,R37
+2019-12-04,Chapecoense,3-0,CSA,R37
+2019-12-04,São Paulo,2-1,Internacional,R37
+2019-12-04,Fluminense,0-0,Fortaleza,R37
+2019-12-05,Grêmio,2-0,Cruzeiro,R37
+2019-12-05,Palmeiras,5-1,Goiás,R37
+2019-12-05,Bahia,1-1,Vasco,R37
+2019-12-05,Flamengo,6-1,Avaí,R37
+2019-12-08,Internacional,2-1,Atlético Mineiro,R38
+2019-12-08,Cruzeiro,0-2,Palmeiras,R38
+2019-12-08,Fortaleza,2-1,Bahia,R38
+2019-12-08,Corinthians,1-2,Fluminense,R38
+2019-12-08,Santos,4-0,Flamengo,R38
+2019-12-08,Vasco,1-1,Chapecoense,R38
+2019-12-08,Botafogo,1-1,Ceará,R38
+2019-12-08,Avaí,0-0,Athletico Paranaense,R38
+2019-12-08,Goiás,3-2,Grêmio,R38
+2019-12-08,CSA,1-2,São Paulo,R38

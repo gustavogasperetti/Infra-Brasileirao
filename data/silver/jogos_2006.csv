@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2006,2006-04-15,Juventude,Paraná,1,0,V,D,NORMAL,R1
+2006,2006-04-15,Vasco,Internacional,1,1,E,E,NORMAL,R1
+2006,2006-04-16,Botafogo,Fortaleza,1,0,V,D,NORMAL,R1
+2006,2006-04-16,Grêmio,Corinthians,2,0,V,D,NORMAL,R1
+2006,2006-04-16,São Caetano,Cruzeiro,2,1,V,D,NORMAL,R1
+2006,2006-04-16,São Paulo,Flamengo,1,0,V,D,NORMAL,R1
+2006,2006-04-16,Santa Cruz,Figueirense,0,0,E,E,NORMAL,R1
+2006,2006-04-16,Palmeiras,Ponte Preta,2,3,D,V,NORMAL,R1
+2006,2006-04-16,Athletico Paranaense,Fluminense,1,2,D,V,NORMAL,R1
+2006,2006-04-16,Goiás,Santos,0,0,E,E,NORMAL,R1
+2006,2006-04-22,Corinthians,São Caetano,3,0,V,D,NORMAL,R2
+2006,2006-04-22,Figueirense,Palmeiras,6,1,V,D,NORMAL,R2
+2006,2006-04-22,Fluminense,Goiás,1,0,V,D,NORMAL,R2
+2006,2006-04-23,Flamengo,Juventude,3,1,V,D,NORMAL,R2
+2006,2006-04-23,Internacional,Santa Cruz,1,0,V,D,NORMAL,R2
+2006,2006-04-23,Ponte Preta,Vasco,1,2,D,V,NORMAL,R2
+2006,2006-04-23,Santos,Athletico Paranaense,2,0,V,D,NORMAL,R2
+2006,2006-04-23,Cruzeiro,Grêmio,3,1,V,D,NORMAL,R2
+2006,2006-04-23,Fortaleza,São Paulo,1,0,V,D,NORMAL,R2
+2006,2006-04-23,Paraná,Botafogo,0,0,E,E,NORMAL,R2
+2006,2006-04-29,Fortaleza,São Caetano,2,1,V,D,NORMAL,R3
+2006,2006-04-29,Botafogo,Athletico Paranaense,0,4,D,V,NORMAL,R3
+2006,2006-04-29,São Paulo,Santa Cruz,4,0,V,D,NORMAL,R3
+2006,2006-04-30,Ponte Preta,Corinthians,3,2,V,D,NORMAL,R3
+2006,2006-04-30,Internacional,Flamengo,1,0,V,D,NORMAL,R3
+2006,2006-04-30,Palmeiras,Santos,1,2,D,V,NORMAL,R3
+2006,2006-04-30,Paraná,Grêmio,5,2,V,D,NORMAL,R3
+2006,2006-04-30,Figueirense,Cruzeiro,0,2,D,V,NORMAL,R3
+2006,2006-04-30,Juventude,Goiás,1,1,E,E,NORMAL,R3
+2006,2006-04-30,Vasco,Fluminense,1,1,E,E,NORMAL,R3
+2006,2006-05-06,Santa Cruz,Ponte Preta,1,1,E,E,NORMAL,R4
+2006,2006-05-06,Fluminense,Paraná,2,1,V,D,NORMAL,R4
+2006,2006-05-06,Santos,Fortaleza,2,0,V,D,NORMAL,R4
+2006,2006-05-07,Athletico Paranaense,Internacional,1,2,D,V,NORMAL,R4
+2006,2006-05-07,Corinthians,São Paulo,1,3,D,V,NORMAL,R4
+2006,2006-05-07,Grêmio,Vasco,1,2,D,V,NORMAL,R4
+2006,2006-05-07,São Caetano,Palmeiras,2,0,V,D,NORMAL,R4
+2006,2006-05-07,Goiás,Figueirense,2,1,V,D,NORMAL,R4
+2006,2006-05-07,Cruzeiro,Juventude,2,0,V,D,NORMAL,R4
+2006,2006-05-07,Flamengo,Botafogo,1,0,V,D,NORMAL,R4
+2006,2006-05-13,Botafogo,Grêmio,2,2,E,E,NORMAL,R5
+2006,2006-05-13,Santos,Ponte Preta,3,1,V,D,NORMAL,R5
+2006,2006-05-13,São Caetano,Juventude,0,2,D,V,NORMAL,R5
+2006,2006-05-14,Santa Cruz,Athletico Paranaense,1,2,D,V,NORMAL,R5
+2006,2006-05-14,Figueirense,Fluminense,1,0,V,D,NORMAL,R5
+2006,2006-05-14,Internacional,São Paulo,3,1,V,D,NORMAL,R5
+2006,2006-05-14,Palmeiras,Cruzeiro,1,1,E,E,NORMAL,R5
+2006,2006-05-14,Flamengo,Fortaleza,0,0,E,E,NORMAL,R5
+2006,2006-05-14,Goiás,Vasco,2,0,V,D,NORMAL,R5
+2006,2006-05-14,Paraná,Corinthians,1,2,D,V,NORMAL,R5
+2006,2006-05-20,Athletico Paranaense,Goiás,2,3,D,V,NORMAL,R6
+2006,2006-05-20,Fortaleza,Paraná,1,1,E,E,NORMAL,R6
+2006,2006-05-20,Internacional,Figueirense,2,4,D,V,NORMAL,R6
+2006,2006-05-20,São Paulo,São Caetano,1,0,V,D,NORMAL,R6
+2006,2006-05-21,Cruzeiro,Flamengo,2,1,V,D,NORMAL,R6
+2006,2006-05-21,Palmeiras,Santa Cruz,2,1,V,D,NORMAL,R6
+2006,2006-05-21,Vasco,Corinthians,2,4,D,V,NORMAL,R6
+2006,2006-05-21,Fluminense,Santos,1,0,V,D,NORMAL,R6
+2006,2006-05-21,Juventude,Botafogo,1,0,V,D,NORMAL,R6
+2006,2006-05-21,Ponte Preta,Grêmio,1,1,E,E,NORMAL,R6
+2006,2006-05-24,Cruzeiro,Ponte Preta,5,1,V,D,NORMAL,R7
+2006,2006-05-24,Juventude,Santa Cruz,4,1,V,D,NORMAL,R7
+2006,2006-05-24,Paraná,Figueirense,0,0,E,E,NORMAL,R7
+2006,2006-05-24,São Paulo,Palmeiras,4,1,V,D,NORMAL,R7
+2006,2006-05-24,Flamengo,Santos,2,2,E,E,NORMAL,R7
+2006,2006-05-24,Fortaleza,Fluminense,2,5,D,V,NORMAL,R7
+2006,2006-05-24,São Caetano,Athletico Paranaense,2,1,V,D,NORMAL,R7
+2006,2006-05-25,Botafogo,Vasco,4,1,V,D,NORMAL,R7
+2006,2006-05-25,Corinthians,Internacional,0,1,D,V,NORMAL,R7
+2006,2006-05-25,Grêmio,Goiás,2,0,V,D,NORMAL,R7
+2006,2006-05-27,Athletico Paranaense,Juventude,1,0,V,D,NORMAL,R8
+2006,2006-05-27,Figueirense,Fortaleza,0,0,E,E,NORMAL,R8
+2006,2006-05-27,Ponte Preta,Paraná,2,5,D,V,NORMAL,R8
+2006,2006-05-28,Internacional,Cruzeiro,1,1,E,E,NORMAL,R8
+2006,2006-05-28,Santa Cruz,Botafogo,1,1,E,E,NORMAL,R8
+2006,2006-05-28,Santos,Corinthians,2,0,V,D,NORMAL,R8
+2006,2006-05-28,Fluminense,Flamengo,1,0,V,D,NORMAL,R8
+2006,2006-05-28,Goiás,São Caetano,2,1,V,D,NORMAL,R8
+2006,2006-05-28,Palmeiras,Grêmio,0,1,D,V,NORMAL,R8
+2006,2006-05-28,Vasco,São Paulo,1,1,E,E,NORMAL,R8
+2006,2006-05-31,Cruzeiro,Athletico Paranaense,1,1,E,E,NORMAL,R9
+2006,2006-05-31,Fortaleza,Vasco,1,1,E,E,NORMAL,R9
+2006,2006-05-31,Juventude,Ponte Preta,0,1,D,V,NORMAL,R9
+2006,2006-05-31,São Caetano,Internacional,1,1,E,E,NORMAL,R9
+2006,2006-05-31,Flamengo,Palmeiras,2,1,V,D,NORMAL,R9
+2006,2006-05-31,Grêmio,Santos,1,0,V,D,NORMAL,R9
+2006,2006-05-31,São Paulo,Fluminense,1,0,V,D,NORMAL,R9
+2006,2006-06-01,Botafogo,Figueirense,2,3,D,V,NORMAL,R9
+2006,2006-06-01,Corinthians,Goiás,0,1,D,V,NORMAL,R9
+2006,2006-06-01,Paraná,Santa Cruz,3,0,V,D,NORMAL,R9
+2006,2006-06-03,Fluminense,Internacional,2,3,D,V,NORMAL,R10
+2006,2006-06-03,Fortaleza,Cruzeiro,0,2,D,V,NORMAL,R10
+2006,2006-06-03,Grêmio,São Caetano,1,1,E,E,NORMAL,R10
+2006,2006-06-04,Athletico Paranaense,Palmeiras,2,0,V,D,NORMAL,R10
+2006,2006-06-04,Corinthians,Flamengo,0,2,D,V,NORMAL,R10
+2006,2006-06-04,Ponte Preta,Figueirense,3,0,V,D,NORMAL,R10
+2006,2006-06-04,Vasco,Santa Cruz,2,1,V,D,NORMAL,R10
+2006,2006-06-04,Goiás,Paraná,1,2,D,V,NORMAL,R10
+2006,2006-06-04,Juventude,São Paulo,1,1,E,E,NORMAL,R10
+2006,2006-06-04,Santos,Botafogo,0,0,E,E,NORMAL,R10
+2006,2006-07-12,Athletico Paranaense,Fortaleza,0,0,E,E,NORMAL,R11
+2006,2006-07-12,Fluminense,Juventude,3,2,V,D,NORMAL,R11
+2006,2006-07-12,Internacional,Ponte Preta,2,0,V,D,NORMAL,R11
+2006,2006-07-12,São Paulo,Grêmio,2,1,V,D,NORMAL,R11
+2006,2006-07-12,Cruzeiro,Corinthians,2,0,V,D,NORMAL,R11
+2006,2006-07-12,Figueirense,Santos,2,1,V,D,NORMAL,R11
+2006,2006-07-12,São Caetano,Botafogo,1,1,E,E,NORMAL,R11
+2006,2006-07-13,Flamengo,Paraná,1,4,D,V,NORMAL,R11
+2006,2006-07-13,Palmeiras,Vasco,4,2,V,D,NORMAL,R11
+2006,2006-07-13,Santa Cruz,Goiás,2,1,V,D,NORMAL,R11
+2006,2006-07-15,Botafogo,Ponte Preta,4,1,V,D,NORMAL,R12
+2006,2006-07-15,São Paulo,Figueirense,2,1,V,D,NORMAL,R12
+2006,2006-07-16,Cruzeiro,Goiás,0,0,E,E,NORMAL,R12
+2006,2006-07-16,Grêmio,Fluminense,4,4,E,E,NORMAL,R12
+2006,2006-07-16,Palmeiras,Corinthians,1,0,V,D,NORMAL,R12
+2006,2006-07-16,São Caetano,Santos,2,0,V,D,NORMAL,R12
+2006,2006-07-16,Flamengo,Vasco,0,1,D,V,NORMAL,R12
+2006,2006-07-16,Fortaleza,Santa Cruz,1,4,D,V,NORMAL,R12
+2006,2006-07-16,Juventude,Internacional,2,0,V,D,NORMAL,R12
+2006,2006-07-16,Paraná,Athletico Paranaense,2,1,V,D,NORMAL,R12
+2006,2006-07-22,Figueirense,Grêmio,2,0,V,D,NORMAL,R13
+2006,2006-07-22,Paraná,Cruzeiro,1,0,V,D,NORMAL,R13
+2006,2006-07-22,Corinthians,Fortaleza,2,2,E,E,NORMAL,R13
+2006,2006-07-22,Fluminense,São Caetano,2,2,E,E,NORMAL,R13
+2006,2006-07-23,Ponte Preta,São Paulo,1,3,D,V,NORMAL,R13
+2006,2006-07-23,Santa Cruz,Flamengo,3,0,V,D,NORMAL,R13
+2006,2006-07-23,Vasco,Athletico Paranaense,2,1,V,D,NORMAL,R13
+2006,2006-07-23,Goiás,Palmeiras,1,3,D,V,NORMAL,R13
+2006,2006-07-23,Internacional,Botafogo,0,0,E,E,NORMAL,R13
+2006,2006-07-23,Santos,Juventude,3,2,V,D,NORMAL,R13
+2006,2006-07-29,Juventude,Figueirense,1,0,V,D,NORMAL,R14
+2006,2006-07-29,Palmeiras,Paraná,4,2,V,D,NORMAL,R14
+2006,2006-07-29,São Caetano,Ponte Preta,1,1,E,E,NORMAL,R14
+2006,2006-07-30,Athletico Paranaense,Flamengo,1,0,V,D,NORMAL,R14
+2006,2006-07-30,Santa Cruz,Corinthians,1,0,V,D,NORMAL,R14
+2006,2006-07-30,São Paulo,Santos,0,4,D,V,NORMAL,R14
+2006,2006-07-30,Vasco,Cruzeiro,1,0,V,D,NORMAL,R14
+2006,2006-07-30,Fluminense,Botafogo,1,1,E,E,NORMAL,R14
+2006,2006-07-30,Goiás,Fortaleza,1,1,E,E,NORMAL,R14
+2006,2006-07-30,Internacional,Grêmio,0,0,E,E,NORMAL,R14
+2006,2006-08-05,Figueirense,São Caetano,1,1,E,E,NORMAL,R15
+2006,2006-08-05,Grêmio,Juventude,1,0,V,D,NORMAL,R15
+2006,2006-08-05,Corinthians,Athletico Paranaense,2,1,V,D,NORMAL,R15
+2006,2006-08-05,Flamengo,Goiás,1,0,V,D,NORMAL,R15
+2006,2006-08-06,Botafogo,São Paulo,1,1,E,E,NORMAL,R15
+2006,2006-08-06,Paraná,Vasco,2,1,V,D,NORMAL,R15
+2006,2006-08-06,Santos,Internacional,2,1,V,D,NORMAL,R15
+2006,2006-08-06,Cruzeiro,Santa Cruz,3,3,E,E,NORMAL,R15
+2006,2006-08-06,Fortaleza,Palmeiras,0,0,E,E,NORMAL,R15
+2006,2006-08-06,Ponte Preta,Fluminense,3,0,V,D,NORMAL,R15
+2006,2006-08-12,Juventude,Vasco,0,0,E,E,NORMAL,R16
+2006,2006-08-12,São Caetano,Santa Cruz,2,0,V,D,NORMAL,R16
+2006,2006-08-12,Corinthians,Figueirense,1,3,D,V,NORMAL,R16
+2006,2006-08-12,Flamengo,Ponte Preta,0,0,E,E,NORMAL,R16
+2006,2006-08-13,Botafogo,Palmeiras,1,3,D,V,NORMAL,R16
+2006,2006-08-13,Cruzeiro,Fluminense,2,3,D,V,NORMAL,R16
+2006,2006-08-13,Grêmio,Athletico Paranaense,2,0,V,D,NORMAL,R16
+2006,2006-08-13,Fortaleza,Internacional,1,2,D,V,NORMAL,R16
+2006,2006-08-13,Paraná,Santos,1,1,E,E,NORMAL,R16
+2006,2006-08-13,São Paulo,Goiás,2,1,V,D,NORMAL,R16
+2006,2006-08-16,Ponte Preta,Fortaleza,1,3,D,V,NORMAL,R17
+2006,2006-08-16,Santa Cruz,Grêmio,2,4,D,V,NORMAL,R17
+2006,2006-08-16,Vasco,São Caetano,1,2,D,V,NORMAL,R17
+2006,2006-08-16,Goiás,Botafogo,2,2,E,E,NORMAL,R17
+2006,2006-08-16,Figueirense,Flamengo,1,1,E,E,NORMAL,R17
+2006,2006-08-16,Fluminense,Corinthians,1,2,D,V,NORMAL,R17
+2006,2006-08-17,Santos,Cruzeiro,2,0,V,D,NORMAL,R17
+2006,2006-08-17,Palmeiras,Juventude,1,1,E,E,NORMAL,R17
+2006,2006-08-19,Ponte Preta,Goiás,3,2,V,D,NORMAL,R18
+2006,2006-08-19,Flamengo,Grêmio,1,0,V,D,NORMAL,R18
+2006,2006-08-20,Cruzeiro,São Paulo,2,2,E,E,NORMAL,R18
+2006,2006-08-20,Fluminense,Santa Cruz,1,1,E,E,NORMAL,R18
+2006,2006-08-20,Fortaleza,Juventude,4,1,V,D,NORMAL,R18
+2006,2006-08-20,Santos,Vasco,0,2,D,V,NORMAL,R18
+2006,2006-08-20,Corinthians,Botafogo,1,0,V,D,NORMAL,R18
+2006,2006-08-20,Figueirense,Athletico Paranaense,3,3,E,E,NORMAL,R18
+2006,2006-08-20,Internacional,Palmeiras,1,1,E,E,NORMAL,R18
+2006,2006-08-20,Paraná,São Caetano,1,0,V,D,NORMAL,R18
+2006,2006-08-23,Goiás,Internacional,2,2,E,E,NORMAL,R19
+2006,2006-08-23,Palmeiras,Fluminense,3,0,V,D,NORMAL,R19
+2006,2006-08-23,Athletico Paranaense,Ponte Preta,3,0,V,D,NORMAL,R19
+2006,2006-08-23,Botafogo,Cruzeiro,1,0,V,D,NORMAL,R19
+2006,2006-08-23,Juventude,Corinthians,0,0,E,E,NORMAL,R19
+2006,2006-08-23,Santa Cruz,Santos,1,1,E,E,NORMAL,R19
+2006,2006-08-23,São Caetano,Flamengo,2,2,E,E,NORMAL,R19
+2006,2006-08-24,Grêmio,Fortaleza,4,1,V,D,NORMAL,R19
+2006,2006-08-24,São Paulo,Paraná,3,2,V,D,NORMAL,R19
+2006,2006-08-24,Vasco,Figueirense,3,1,V,D,NORMAL,R19
+2006,2006-08-26,Fluminense,Athletico Paranaense,1,2,D,V,NORMAL,R20
+2006,2006-08-26,Cruzeiro,São Caetano,3,0,V,D,NORMAL,R20
+2006,2006-08-26,Santos,Goiás,2,1,V,D,NORMAL,R20
+2006,2006-08-27,Internacional,Vasco,1,2,D,V,NORMAL,R20
+2006,2006-08-27,Corinthians,Grêmio,0,2,D,V,NORMAL,R20
+2006,2006-08-27,Flamengo,São Paulo,1,1,E,E,NORMAL,R20
+2006,2006-08-27,Paraná,Juventude,0,1,D,V,NORMAL,R20
+2006,2006-08-27,Figueirense,Santa Cruz,2,0,V,D,NORMAL,R20
+2006,2006-08-27,Fortaleza,Botafogo,2,3,D,V,NORMAL,R20
+2006,2006-08-27,Ponte Preta,Palmeiras,1,1,E,E,NORMAL,R20
+2006,2006-08-30,Goiás,Fluminense,3,1,V,D,NORMAL,R21
+2006,2006-08-30,Grêmio,Cruzeiro,2,1,V,D,NORMAL,R21
+2006,2006-08-30,Santa Cruz,Internacional,0,2,D,V,NORMAL,R21
+2006,2006-08-30,Palmeiras,Figueirense,1,1,E,E,NORMAL,R21
+2006,2006-08-30,Athletico Paranaense,Santos,2,1,V,D,NORMAL,R21
+2006,2006-08-30,São Caetano,Corinthians,0,1,D,V,NORMAL,R21
+2006,2006-08-30,Juventude,Flamengo,1,0,V,D,NORMAL,R21
+2006,2006-08-31,Botafogo,Paraná,4,0,V,D,NORMAL,R21
+2006,2006-08-31,São Paulo,Fortaleza,1,1,E,E,NORMAL,R21
+2006,2006-08-31,Vasco,Ponte Preta,2,2,E,E,NORMAL,R21
+2006,2006-09-02,Cruzeiro,Figueirense,2,2,E,E,NORMAL,R22
+2006,2006-09-02,Flamengo,Internacional,1,2,D,V,NORMAL,R22
+2006,2006-09-03,Grêmio,Paraná,2,1,V,D,NORMAL,R22
+2006,2006-09-03,Athletico Paranaense,Botafogo,0,5,D,V,NORMAL,R22
+2006,2006-09-03,Goiás,Juventude,2,0,V,D,NORMAL,R22
+2006,2006-09-03,Santos,Palmeiras,5,1,V,D,NORMAL,R22
+2006,2006-09-03,São Caetano,Fortaleza,0,0,E,E,NORMAL,R22
+2006,2006-09-03,Fluminense,Vasco,1,1,E,E,NORMAL,R22
+2006,2006-09-03,Corinthians,Ponte Preta,1,0,V,D,NORMAL,R22
+2006,2006-09-03,Santa Cruz,São Paulo,1,3,D,V,NORMAL,R22
+2006,2006-09-09,Ponte Preta,Santa Cruz,2,0,V,D,NORMAL,R23
+2006,2006-09-09,Palmeiras,São Caetano,3,1,V,D,NORMAL,R23
+2006,2006-09-09,Vasco,Grêmio,1,1,E,E,NORMAL,R23
+2006,2006-09-10,Figueirense,Goiás,2,2,E,E,NORMAL,R23
+2006,2006-09-10,Juventude,Cruzeiro,2,0,V,D,NORMAL,R23
+2006,2006-09-10,Paraná,Fluminense,1,0,V,D,NORMAL,R23
+2006,2006-09-10,São Paulo,Corinthians,0,0,E,E,NORMAL,R23
+2006,2006-09-10,Botafogo,Flamengo,0,2,D,V,NORMAL,R23
+2006,2006-09-10,Internacional,Athletico Paranaense,2,0,V,D,NORMAL,R23
+2006,2006-09-10,Fortaleza,Santos,1,1,E,E,NORMAL,R23
+2006,2006-09-16,Athletico Paranaense,Santa Cruz,2,1,V,D,NORMAL,R24
+2006,2006-09-16,Corinthians,Paraná,1,0,V,D,NORMAL,R24
+2006,2006-09-16,Vasco,Goiás,0,0,E,E,NORMAL,R24
+2006,2006-09-17,Grêmio,Botafogo,4,0,V,D,NORMAL,R24
+2006,2006-09-17,Cruzeiro,Palmeiras,1,0,V,D,NORMAL,R24
+2006,2006-09-17,Juventude,São Caetano,1,0,V,D,NORMAL,R24
+2006,2006-09-17,São Paulo,Internacional,2,0,V,D,NORMAL,R24
+2006,2006-09-17,Fluminense,Figueirense,2,0,V,D,NORMAL,R24
+2006,2006-09-17,Fortaleza,Flamengo,3,4,D,V,NORMAL,R24
+2006,2006-09-17,Ponte Preta,Santos,1,0,V,D,NORMAL,R24
+2006,2006-09-20,Grêmio,Ponte Preta,4,0,V,D,NORMAL,R25
+2006,2006-09-20,Botafogo,Juventude,2,1,V,D,NORMAL,R25
+2006,2006-09-20,Paraná,Fortaleza,2,0,V,D,NORMAL,R25
+2006,2006-09-20,Figueirense,Internacional,1,0,V,D,NORMAL,R25
+2006,2006-09-20,Goiás,Athletico Paranaense,2,2,E,E,NORMAL,R25
+2006,2006-09-20,Corinthians,Vasco,1,1,E,E,NORMAL,R25
+2006,2006-09-20,Santos,Fluminense,1,1,E,E,NORMAL,R25
+2006,2006-09-20,São Caetano,São Paulo,0,1,D,V,NORMAL,R25
+2006,2006-09-21,Flamengo,Cruzeiro,1,0,V,D,NORMAL,R25
+2006,2006-09-21,Santa Cruz,Palmeiras,3,2,V,D,NORMAL,R25
+2006,2006-09-23,Fluminense,Fortaleza,1,3,D,V,NORMAL,R26
+2006,2006-09-23,Athletico Paranaense,São Caetano,3,1,V,D,NORMAL,R26
+2006,2006-09-24,Internacional,Corinthians,1,1,E,E,NORMAL,R26
+2006,2006-09-24,Figueirense,Paraná,0,1,D,V,NORMAL,R26
+2006,2006-09-24,Palmeiras,São Paulo,3,1,V,D,NORMAL,R26
+2006,2006-09-24,Santa Cruz,Juventude,1,0,V,D,NORMAL,R26
+2006,2006-09-24,Santos,Flamengo,3,0,V,D,NORMAL,R26
+2006,2006-09-24,Goiás,Grêmio,4,0,V,D,NORMAL,R26
+2006,2006-09-24,Ponte Preta,Cruzeiro,0,1,D,V,NORMAL,R26
+2006,2006-09-24,Vasco,Botafogo,0,0,E,E,NORMAL,R26
+2006,2006-09-30,Athletico Paranaense,São Paulo,0,0,E,E,NORMAL,R17
+2006,2006-09-30,Internacional,Paraná,3,2,V,D,NORMAL,R17
+2006,2006-10-04,Paraná,Ponte Preta,2,1,V,D,NORMAL,R27
+2006,2006-10-04,Fortaleza,Figueirense,1,1,E,E,NORMAL,R27
+2006,2006-10-04,Juventude,Athletico Paranaense,3,2,V,D,NORMAL,R27
+2006,2006-10-04,Flamengo,Fluminense,4,1,V,D,NORMAL,R27
+2006,2006-10-04,Grêmio,Palmeiras,2,1,V,D,NORMAL,R27
+2006,2006-10-04,São Caetano,Goiás,1,2,D,V,NORMAL,R27
+2006,2006-10-04,São Paulo,Vasco,5,1,V,D,NORMAL,R27
+2006,2006-10-05,Botafogo,Santa Cruz,3,0,V,D,NORMAL,R27
+2006,2006-10-05,Corinthians,Santos,0,3,D,V,NORMAL,R27
+2006,2006-10-05,Cruzeiro,Internacional,2,1,V,D,NORMAL,R27
+2006,2006-10-07,Ponte Preta,Juventude,3,1,V,D,NORMAL,R28
+2006,2006-10-07,Fluminense,São Paulo,1,2,D,V,NORMAL,R28
+2006,2006-10-07,Vasco,Fortaleza,2,0,V,D,NORMAL,R28
+2006,2006-10-08,Internacional,São Caetano,1,0,V,D,NORMAL,R28
+2006,2006-10-08,Athletico Paranaense,Cruzeiro,1,1,E,E,NORMAL,R28
+2006,2006-10-08,Goiás,Corinthians,3,1,V,D,NORMAL,R28
+2006,2006-10-08,Palmeiras,Flamengo,3,1,V,D,NORMAL,R28
+2006,2006-10-08,Santa Cruz,Paraná,1,3,D,V,NORMAL,R28
+2006,2006-10-08,Figueirense,Botafogo,1,0,V,D,NORMAL,R28
+2006,2006-10-08,Santos,Grêmio,1,0,V,D,NORMAL,R28
+2006,2006-10-14,Cruzeiro,Fortaleza,0,0,E,E,NORMAL,R29
+2006,2006-10-14,Botafogo,Santos,4,3,V,D,NORMAL,R29
+2006,2006-10-14,São Caetano,Grêmio,0,2,D,V,NORMAL,R29
+2006,2006-10-14,São Paulo,Juventude,5,0,V,D,NORMAL,R29
+2006,2006-10-15,Internacional,Fluminense,2,0,V,D,NORMAL,R29
+2006,2006-10-15,Figueirense,Ponte Preta,2,1,V,D,NORMAL,R29
+2006,2006-10-15,Flamengo,Corinthians,3,0,V,D,NORMAL,R29
+2006,2006-10-15,Paraná,Goiás,1,0,V,D,NORMAL,R29
+2006,2006-10-15,Palmeiras,Athletico Paranaense,2,2,E,E,NORMAL,R29
+2006,2006-10-15,Santa Cruz,Vasco,0,4,D,V,NORMAL,R29
+2006,2006-10-18,Vasco,Palmeiras,3,0,V,D,NORMAL,R30
+2006,2006-10-21,Goiás,Santa Cruz,5,3,V,D,NORMAL,R30
+2006,2006-10-21,Ponte Preta,Internacional,0,2,D,V,NORMAL,R30
+2006,2006-10-21,Santos,Figueirense,2,1,V,D,NORMAL,R30
+2006,2006-10-22,Grêmio,São Paulo,1,1,E,E,NORMAL,R30
+2006,2006-10-22,Fortaleza,Athletico Paranaense,3,4,D,V,NORMAL,R30
+2006,2006-10-22,Paraná,Flamengo,0,2,D,V,NORMAL,R30
+2006,2006-10-22,Botafogo,São Caetano,2,1,V,D,NORMAL,R30
+2006,2006-10-22,Corinthians,Cruzeiro,1,0,V,D,NORMAL,R30
+2006,2006-10-22,Juventude,Fluminense,1,1,E,E,NORMAL,R30
+2006,2006-10-25,Corinthians,Palmeiras,1,0,V,D,NORMAL,R31
+2006,2006-10-26,Fluminense,Grêmio,1,2,D,V,NORMAL,R31
+2006,2006-10-26,Internacional,Juventude,1,0,V,D,NORMAL,R31
+2006,2006-10-26,Santa Cruz,Fortaleza,0,1,D,V,NORMAL,R31
+2006,2006-10-26,Vasco,Flamengo,3,1,V,D,NORMAL,R31
+2006,2006-10-28,Athletico Paranaense,Paraná,4,0,V,D,NORMAL,R31
+2006,2006-10-28,Figueirense,São Paulo,0,2,D,V,NORMAL,R31
+2006,2006-10-28,Ponte Preta,Botafogo,1,2,D,V,NORMAL,R31
+2006,2006-10-28,Goiás,Cruzeiro,2,3,D,V,NORMAL,R31
+2006,2006-10-28,Santos,São Caetano,1,0,V,D,NORMAL,R31
+2006,2006-11-01,Athletico Paranaense,Vasco,6,4,V,D,NORMAL,R32
+2006,2006-11-01,Flamengo,Santa Cruz,1,1,E,E,NORMAL,R32
+2006,2006-11-01,Palmeiras,Goiás,1,3,D,V,NORMAL,R32
+2006,2006-11-01,Grêmio,Figueirense,1,2,D,V,NORMAL,R32
+2006,2006-11-01,Fortaleza,Corinthians,0,4,D,V,NORMAL,R32
+2006,2006-11-01,São Caetano,Fluminense,1,1,E,E,NORMAL,R32
+2006,2006-11-01,Juventude,Santos,3,2,V,D,NORMAL,R32
+2006,2006-11-02,Botafogo,Internacional,0,1,D,V,NORMAL,R32
+2006,2006-11-02,Cruzeiro,Paraná,2,2,E,E,NORMAL,R32
+2006,2006-11-02,São Paulo,Ponte Preta,1,1,E,E,NORMAL,R32
+2006,2006-11-04,Figueirense,Juventude,1,0,V,D,NORMAL,R33
+2006,2006-11-04,Flamengo,Athletico Paranaense,1,0,V,D,NORMAL,R33
+2006,2006-11-05,Grêmio,Internacional,0,1,D,V,NORMAL,R33
+2006,2006-11-05,Cruzeiro,Vasco,2,1,V,D,NORMAL,R33
+2006,2006-11-05,Fortaleza,Goiás,0,3,D,V,NORMAL,R33
+2006,2006-11-05,Ponte Preta,São Caetano,1,2,D,V,NORMAL,R33
+2006,2006-11-05,Santos,São Paulo,0,1,D,V,NORMAL,R33
+2006,2006-11-05,Botafogo,Fluminense,2,1,V,D,NORMAL,R33
+2006,2006-11-05,Corinthians,Santa Cruz,1,0,V,D,NORMAL,R33
+2006,2006-11-05,Paraná,Palmeiras,4,2,V,D,NORMAL,R33
+2006,2006-11-08,São Caetano,Figueirense,3,1,V,D,NORMAL,R34
+2006,2006-11-08,Juventude,Grêmio,1,2,D,V,NORMAL,R34
+2006,2006-11-08,Vasco,Paraná,3,1,V,D,NORMAL,R34
+2006,2006-11-08,Palmeiras,Fortaleza,3,0,V,D,NORMAL,R34
+2006,2006-11-08,Athletico Paranaense,Corinthians,1,2,D,V,NORMAL,R34
+2006,2006-11-08,Goiás,Flamengo,0,1,D,V,NORMAL,R34
+2006,2006-11-08,Internacional,Santos,0,0,E,E,NORMAL,R34
+2006,2006-11-09,Fluminense,Ponte Preta,0,0,E,E,NORMAL,R34
+2006,2006-11-09,Santa Cruz,Cruzeiro,4,1,V,D,NORMAL,R34
+2006,2006-11-09,São Paulo,Botafogo,3,0,V,D,NORMAL,R34
+2006,2006-11-11,Internacional,Fortaleza,3,0,V,D,NORMAL,R35
+2006,2006-11-11,Santos,Paraná,1,0,V,D,NORMAL,R35
+2006,2006-11-11,Vasco,Juventude,1,1,E,E,NORMAL,R35
+2006,2006-11-12,Fluminense,Cruzeiro,1,0,V,D,NORMAL,R35
+2006,2006-11-12,Figueirense,Corinthians,0,0,E,E,NORMAL,R35
+2006,2006-11-12,Goiás,São Paulo,0,2,D,V,NORMAL,R35
+2006,2006-11-12,Ponte Preta,Flamengo,3,0,V,D,NORMAL,R35
+2006,2006-11-12,Athletico Paranaense,Grêmio,2,3,D,V,NORMAL,R35
+2006,2006-11-12,Palmeiras,Botafogo,2,1,V,D,NORMAL,R35
+2006,2006-11-12,Santa Cruz,São Caetano,0,3,D,V,NORMAL,R35
+2006,2006-11-18,Grêmio,Santa Cruz,3,1,V,D,NORMAL,R36
+2006,2006-11-18,Corinthians,Fluminense,1,1,E,E,NORMAL,R36
+2006,2006-11-18,Flamengo,Figueirense,0,2,D,V,NORMAL,R36
+2006,2006-11-19,Juventude,Palmeiras,3,2,V,D,NORMAL,R36
+2006,2006-11-19,Paraná,Internacional,1,0,V,D,NORMAL,R36
+2006,2006-11-19,São Caetano,Vasco,0,1,D,V,NORMAL,R36
+2006,2006-11-19,São Paulo,Athletico Paranaense,1,1,E,E,NORMAL,R36
+2006,2006-11-19,Botafogo,Goiás,2,2,E,E,NORMAL,R36
+2006,2006-11-19,Cruzeiro,Santos,1,1,E,E,NORMAL,R36
+2006,2006-11-19,Fortaleza,Ponte Preta,1,0,V,D,NORMAL,R36
+2006,2006-11-26,Athletico Paranaense,Figueirense,1,4,D,V,NORMAL,R37
+2006,2006-11-26,Botafogo,Corinthians,0,0,E,E,NORMAL,R37
+2006,2006-11-26,Goiás,Ponte Preta,3,0,V,D,NORMAL,R37
+2006,2006-11-26,Grêmio,Flamengo,3,0,V,D,NORMAL,R37
+2006,2006-11-26,Juventude,Fortaleza,2,2,E,E,NORMAL,R37
+2006,2006-11-26,Palmeiras,Internacional,1,4,D,V,NORMAL,R37
+2006,2006-11-26,Santa Cruz,Fluminense,1,2,D,V,NORMAL,R37
+2006,2006-11-26,São Caetano,Paraná,0,2,D,V,NORMAL,R37
+2006,2006-11-26,São Paulo,Cruzeiro,2,0,V,D,NORMAL,R37
+2006,2006-11-26,Vasco,Santos,1,1,E,E,NORMAL,R37
+2006,2006-12-02,Flamengo,São Caetano,4,1,V,D,NORMAL,R38
+2006,2006-12-02,Internacional,Goiás,1,4,D,V,NORMAL,R38
+2006,2006-12-03,Corinthians,Juventude,5,3,V,D,NORMAL,R38
+2006,2006-12-03,Cruzeiro,Botafogo,3,1,V,D,NORMAL,R38
+2006,2006-12-03,Figueirense,Vasco,0,0,E,E,NORMAL,R38
+2006,2006-12-03,Fluminense,Palmeiras,1,1,E,E,NORMAL,R38
+2006,2006-12-03,Paraná,São Paulo,0,0,E,E,NORMAL,R38
+2006,2006-12-03,Ponte Preta,Athletico Paranaense,1,1,E,E,NORMAL,R38
+2006,2006-12-03,Fortaleza,Grêmio,1,0,V,D,NORMAL,R38
+2006,2006-12-03,Santos,Santa Cruz,3,1,V,D,NORMAL,R38

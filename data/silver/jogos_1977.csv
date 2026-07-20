@@ -1,0 +1,486 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1977,1977-10-15,River-PI,América-RN,5,1,V,D,NORMAL,C
+1977,1977-10-16,Operário-MS,Internacional,0,0,E,E,NORMAL,A
+1977,1977-10-16,Grêmio,Coritiba,4,0,V,D,NORMAL,A
+1977,1977-10-16,Botafogo-PB,Sport,1,0,V,D,NORMAL,B
+1977,1977-10-16,XV de Piracicaba,CSA,0,0,E,E,NORMAL,B
+1977,1977-10-16,Náutico,São Paulo,0,1,D,V,NORMAL,B
+1977,1977-10-16,Sampaio Corrêa,Corinthians,0,0,E,E,NORMAL,C
+1977,1977-10-16,ABC,Ceará,1,0,V,D,NORMAL,C
+1977,1977-10-16,Guarani,Portuguesa,0,1,D,V,NORMAL,C
+1977,1977-10-16,Flamengo-PI,Ponte Preta,1,2,D,V,NORMAL,C
+1977,1977-10-16,Vila Nova,Botafogo,0,0,E,E,NORMAL,D
+1977,1977-10-16,Londrina,Goiânia,3,2,V,D,NORMAL,D
+1977,1977-10-16,Athletico Paranaense,Brasília,1,2,D,V,NORMAL,D
+1977,1977-10-16,Americano,Vasco,1,1,E,E,NORMAL,D
+1977,1977-10-16,Volta Redonda,Vitória-ES,3,0,V,D,NORMAL,E
+1977,1977-10-16,Desportiva Ferroviária,Fluminense,0,5,D,V,NORMAL,E
+1977,1977-10-16,Flamengo,Vitória,5,0,V,D,NORMAL,E
+1977,1977-10-16,Confiança,Bahia,1,1,E,E,NORMAL,E
+1977,1977-10-16,Fluminense de Feira,Sergipe,0,1,D,V,NORMAL,E
+1977,1977-10-16,Santos,Cruzeiro,0,2,D,V,NORMAL,F
+1977,1977-10-16,Atlético Mineiro,Remo,4,1,V,D,NORMAL,F
+1977,1977-10-16,Uberaba,Paysandu,3,1,V,D,NORMAL,F
+1977,1977-10-16,Nacional-AM,Fast Clube,2,0,V,D,NORMAL,F
+1977,1977-10-16,Dom Bosco,Avaí,1,3,D,V,NORMAL,A
+1977,1977-10-19,Dom Bosco,Internacional,0,2,D,V,NORMAL,A
+1977,1977-10-19,Joinville,Grêmio,1,1,E,E,NORMAL,A
+1977,1977-10-19,Caxias,Coritiba,0,0,E,E,NORMAL,A
+1977,1977-10-19,Treze,Sport,2,2,E,E,NORMAL,B
+1977,1977-10-19,Palmeiras,CSA,1,0,V,D,NORMAL,B
+1977,1977-10-19,Botafogo-PB,São Paulo,0,2,D,V,NORMAL,B
+1977,1977-10-19,Ceará,América-RN,1,1,E,E,NORMAL,C
+1977,1977-10-19,River-PI,Corinthians,2,2,E,E,NORMAL,C
+1977,1977-10-19,Sampaio Corrêa,Ponte Preta,0,0,E,E,NORMAL,C
+1977,1977-10-19,Athletico Paranaense,Goiânia,0,1,D,V,NORMAL,D
+1977,1977-10-19,Vitória-ES,Sergipe,3,1,V,D,NORMAL,E
+1977,1977-10-19,Volta Redonda,Fluminense,0,1,D,V,NORMAL,E
+1977,1977-10-19,Santos,Paysandu,4,0,V,D,NORMAL,F
+1977,1977-10-19,América Mineiro,Remo,0,1,D,V,NORMAL,F
+1977,1977-10-19,Grêmio Maringá,Avaí,2,0,V,D,NORMAL,A
+1977,1977-10-20,CRB,XV de Piracicaba,0,1,D,V,NORMAL,B
+1977,1977-10-20,ABC,Portuguesa,1,0,V,D,NORMAL,C
+1977,1977-10-20,Brasília,Botafogo,0,1,D,V,NORMAL,D
+1977,1977-10-20,Goytacaz,Goiás,1,1,E,E,NORMAL,D
+1977,1977-10-20,Desportiva Ferroviária,Flamengo,0,2,D,V,NORMAL,E
+1977,1977-10-20,America-RJ,Vitória,1,1,E,E,NORMAL,E
+1977,1977-10-20,Fast Clube,Uberaba,2,0,V,D,NORMAL,F
+1977,1977-10-23,Coritiba,Internacional,1,3,D,V,NORMAL,A
+1977,1977-10-23,Operário-MS,Grêmio Maringá,0,1,D,V,NORMAL,A
+1977,1977-10-23,Grêmio,Juventude,2,0,V,D,NORMAL,A
+1977,1977-10-23,Treze,Palmeiras,1,1,E,E,NORMAL,B
+1977,1977-10-23,CSA,São Paulo,0,0,E,E,NORMAL,B
+1977,1977-10-23,Sport,XV de Piracicaba,1,1,E,E,NORMAL,B
+1977,1977-10-23,Botafogo-PB,Santa Cruz,0,0,E,E,NORMAL,B
+1977,1977-10-23,Corinthians,Guarani,1,0,V,D,NORMAL,C
+1977,1977-10-23,Flamengo-PI,Ceará,0,1,D,V,NORMAL,C
+1977,1977-10-23,Fortaleza,Portuguesa,0,0,E,E,NORMAL,C
+1977,1977-10-23,América-RN,Ponte Preta,1,0,V,D,NORMAL,C
+1977,1977-10-23,Vasco,Brasília,3,0,V,D,NORMAL,D
+1977,1977-10-23,Botafogo,Goiás,3,1,V,D,NORMAL,D
+1977,1977-10-23,Vila Nova,Athletico Paranaense,1,1,E,E,NORMAL,D
+1977,1977-10-23,Fluminense,Sergipe,2,1,V,D,NORMAL,E
+1977,1977-10-23,Volta Redonda,America-RJ,1,2,D,V,NORMAL,E
+1977,1977-10-23,Bahia,Flamengo,0,0,E,E,NORMAL,E
+1977,1977-10-23,Vitória-ES,Vitória,2,1,V,D,NORMAL,E
+1977,1977-10-23,Confiança,Fluminense de Feira,1,0,V,D,NORMAL,E
+1977,1977-10-23,Cruzeiro,Paysandu,4,0,V,D,NORMAL,F
+1977,1977-10-23,Atlético Mineiro,Santos,3,0,V,D,NORMAL,F
+1977,1977-10-23,Nacional-AM,Uberaba,1,0,V,D,NORMAL,F
+1977,1977-10-23,Botafogo-SP,Remo,3,2,V,D,NORMAL,F
+1977,1977-10-23,Avaí,Caxias,1,2,D,V,NORMAL,A
+1977,1977-10-26,Treze,XV de Piracicaba,0,0,E,E,NORMAL,B
+1977,1977-10-26,Sport,Palmeiras,0,2,D,V,NORMAL,B
+1977,1977-10-26,América-RN,Flamengo-PI,5,1,V,D,NORMAL,C
+1977,1977-10-26,Ceará,Ponte Preta,1,3,D,V,NORMAL,C
+1977,1977-10-26,Sampaio Corrêa,Fortaleza,1,0,V,D,NORMAL,C
+1977,1977-10-26,Americano,Brasília,1,0,V,D,NORMAL,D
+1977,1977-10-26,Goiás,Athletico Paranaense,1,1,E,E,NORMAL,D
+1977,1977-10-26,Fluminense,Vitória-ES,6,0,V,D,NORMAL,E
+1977,1977-10-26,Fluminense de Feira,Flamengo,0,6,D,V,NORMAL,E
+1977,1977-10-26,Paysandu,Nacional-AM,1,1,E,E,NORMAL,F
+1977,1977-10-26,Botafogo-SP,Atlético Mineiro,0,1,D,V,NORMAL,F
+1977,1977-10-26,Fast Clube,Santos,1,3,D,V,NORMAL,F
+1977,1977-10-27,Caxias,Joinville,0,0,E,E,NORMAL,A
+1977,1977-10-27,Operário-MS,Juventude,1,0,V,D,NORMAL,A
+1977,1977-10-27,Náutico,CRB,1,0,V,D,NORMAL,B
+1977,1977-10-27,ABC,Guarani,1,1,E,E,NORMAL,C
+1977,1977-10-27,Portuguesa,River-PI,2,0,V,D,NORMAL,C
+1977,1977-10-27,Goytacaz,Botafogo,1,1,E,E,NORMAL,D
+1977,1977-10-27,Desportiva Ferroviária,Volta Redonda,1,0,V,D,NORMAL,E
+1977,1977-10-27,Remo,Uberaba,0,0,E,E,NORMAL,F
+1977,1977-10-29,Confiança,Vitória-ES,2,1,V,D,NORMAL,E
+1977,1977-10-29,Fast Clube,Paysandu,2,3,D,V,NORMAL,F
+1977,1977-10-30,Dom Bosco,Caxias,2,2,E,E,NORMAL,A
+1977,1977-10-30,Internacional,Joinville,5,0,V,D,NORMAL,A
+1977,1977-10-30,Coritiba,Juventude,1,2,D,V,NORMAL,A
+1977,1977-10-30,Santa Cruz,Treze,6,0,V,D,NORMAL,B
+1977,1977-10-30,Botafogo-PB,CRB,0,1,D,V,NORMAL,B
+1977,1977-10-30,CSA,Náutico,2,0,V,D,NORMAL,B
+1977,1977-10-30,Palmeiras,XV de Piracicaba,1,1,E,E,NORMAL,B
+1977,1977-10-30,Ponte Preta,Corinthians,2,1,V,D,NORMAL,C
+1977,1977-10-30,ABC,River-PI,2,0,V,D,NORMAL,C
+1977,1977-10-30,Flamengo-PI,Sampaio Corrêa,1,3,D,V,NORMAL,C
+1977,1977-10-30,Fortaleza,Guarani,1,2,D,V,NORMAL,C
+1977,1977-10-30,Goiás,Vasco,0,3,D,V,NORMAL,D
+1977,1977-10-30,Americano,Goytacaz,1,1,E,E,NORMAL,D
+1977,1977-10-30,Londrina,Vila Nova,3,1,V,D,NORMAL,D
+1977,1977-10-30,Vitória,Volta Redonda,0,0,E,E,NORMAL,E
+1977,1977-10-30,Fluminense,America-RJ,0,1,D,V,NORMAL,E
+1977,1977-10-30,Sergipe,Flamengo,1,3,D,V,NORMAL,E
+1977,1977-10-30,Remo,Santos,0,2,D,V,NORMAL,F
+1977,1977-10-30,Botafogo-SP,Uberaba,2,1,V,D,NORMAL,F
+1977,1977-10-30,Cruzeiro,América Mineiro,2,2,E,E,NORMAL,F
+1977,1977-10-30,Nacional-AM,Atlético Mineiro,2,4,D,V,NORMAL,F
+1977,1977-11-02,XV de Piracicaba,São Paulo,1,1,E,E,NORMAL,B
+1977,1977-11-02,Santa Cruz,CRB,5,1,V,D,NORMAL,B
+1977,1977-11-02,América-RN,Sampaio Corrêa,1,0,V,D,NORMAL,C
+1977,1977-11-02,Corinthians,Flamengo-PI,3,0,V,D,NORMAL,C
+1977,1977-11-02,Fortaleza,River-PI,2,1,V,D,NORMAL,C
+1977,1977-11-02,Ponte Preta,ABC,2,0,V,D,NORMAL,C
+1977,1977-11-02,Athletico Paranaense,Botafogo,1,3,D,V,NORMAL,D
+1977,1977-11-02,Goiânia,Vasco,2,6,D,V,NORMAL,D
+1977,1977-11-02,Londrina,Goytacaz,1,2,D,V,NORMAL,D
+1977,1977-11-02,Americano,Vila Nova,1,0,V,D,NORMAL,D
+1977,1977-11-02,Bahia,Vitória-ES,7,0,V,D,NORMAL,E
+1977,1977-11-02,Sergipe,Volta Redonda,0,1,D,V,NORMAL,E
+1977,1977-11-02,Fluminense de Feira,Fluminense,1,2,D,V,NORMAL,E
+1977,1977-11-02,America-RJ,Desportiva Ferroviária,3,0,V,D,NORMAL,E
+1977,1977-11-02,Uberaba,Cruzeiro,0,0,E,E,NORMAL,F
+1977,1977-11-02,Paysandu,Atlético Mineiro,1,3,D,V,NORMAL,F
+1977,1977-11-03,Grêmio Maringá,Caxias,1,0,V,D,NORMAL,A
+1977,1977-11-03,Palmeiras,Náutico,3,2,V,D,NORMAL,B
+1977,1977-11-03,Vitória,Confiança,0,2,D,V,NORMAL,E
+1977,1977-11-05,Corinthians,ABC,1,0,V,D,NORMAL,C
+1977,1977-11-05,Brasília,Goytacaz,2,1,V,D,NORMAL,D
+1977,1977-11-05,América Mineiro,Fast Clube,2,0,V,D,NORMAL,F
+1977,1977-11-06,Grêmio Maringá,Coritiba,1,1,E,E,NORMAL,A
+1977,1977-11-06,Internacional,Grêmio,0,4,D,V,NORMAL,A
+1977,1977-11-06,Caxias,Juventude,0,0,E,E,NORMAL,A
+1977,1977-11-06,São Paulo,Palmeiras,0,2,D,V,NORMAL,B
+1977,1977-11-06,Botafogo-PB,Treze,0,0,E,E,NORMAL,B
+1977,1977-11-06,CSA,CRB,1,1,E,E,NORMAL,B
+1977,1977-11-06,Santa Cruz,Sport,1,1,E,E,NORMAL,B
+1977,1977-11-06,XV de Piracicaba,Náutico,0,0,E,E,NORMAL,B
+1977,1977-11-06,Guarani,Flamengo-PI,2,0,V,D,NORMAL,C
+1977,1977-11-06,Ceará,Sampaio Corrêa,4,0,V,D,NORMAL,C
+1977,1977-11-06,América-RN,Fortaleza,1,1,E,E,NORMAL,C
+1977,1977-11-06,Athletico Paranaense,Londrina,2,0,V,D,NORMAL,D
+1977,1977-11-06,Goiás,Goiânia,1,1,E,E,NORMAL,D
+1977,1977-11-06,Vasco,Vila Nova,2,0,V,D,NORMAL,D
+1977,1977-11-06,Sergipe,Confiança,0,1,D,V,NORMAL,E
+1977,1977-11-06,Vitória-ES,Desportiva Ferroviária,2,1,V,D,NORMAL,E
+1977,1977-11-06,Flamengo,America-RJ,1,1,E,E,NORMAL,E
+1977,1977-11-06,Vitória,Fluminense,1,1,E,E,NORMAL,E
+1977,1977-11-06,Fluminense de Feira,Bahia,0,1,D,V,NORMAL,E
+1977,1977-11-06,Atlético Mineiro,Cruzeiro,1,0,V,D,NORMAL,F
+1977,1977-11-06,Santos,Botafogo-SP,0,1,D,V,NORMAL,F
+1977,1977-11-06,Remo,Paysandu,0,0,E,E,NORMAL,F
+1977,1977-11-06,Joinville,Avaí,1,0,V,D,NORMAL,A
+1977,1977-11-07,Operário-MS,Dom Bosco,3,1,V,D,NORMAL,A
+1977,1977-11-09,Caxias,Grêmio,0,2,D,V,NORMAL,A
+1977,1977-11-09,River-PI,Ceará,1,0,V,D,NORMAL,C
+1977,1977-11-09,ABC,Flamengo-PI,0,0,E,E,NORMAL,C
+1977,1977-11-09,Vila Nova,Goytacaz,1,3,D,V,NORMAL,D
+1977,1977-11-09,Brasília,Londrina,2,1,V,D,NORMAL,D
+1977,1977-11-09,Botafogo,Americano,3,0,V,D,NORMAL,D
+1977,1977-11-09,Fluminense de Feira,Vitória,0,2,D,V,NORMAL,E
+1977,1977-11-09,Confiança,Fluminense,1,0,V,D,NORMAL,E
+1977,1977-11-09,Atlético Mineiro,Fast Clube,6,2,V,D,NORMAL,F
+1977,1977-11-09,Santos,América Mineiro,1,1,E,E,NORMAL,F
+1977,1977-11-10,Operário-MS,Joinville,2,0,V,D,NORMAL,A
+1977,1977-11-10,Grêmio Maringá,Dom Bosco,3,1,V,D,NORMAL,A
+1977,1977-11-10,XV de Piracicaba,Santa Cruz,0,0,E,E,NORMAL,B
+1977,1977-11-10,Sampaio Corrêa,Portuguesa,1,2,D,V,NORMAL,C
+1977,1977-11-10,Corinthians,Fortaleza,3,0,V,D,NORMAL,C
+1977,1977-11-10,Bahia,America-RJ,2,0,V,D,NORMAL,E
+1977,1977-11-10,Sergipe,Desportiva Ferroviária,1,4,D,V,NORMAL,E
+1977,1977-11-10,Cruzeiro,Nacional-AM,3,0,V,D,NORMAL,F
+1977,1977-11-10,Juventude,Avaí,1,0,V,D,NORMAL,A
+1977,1977-11-12,CSA,Botafogo-PB,3,1,V,D,NORMAL,B
+1977,1977-11-12,Brasília,Goiás,0,0,E,E,NORMAL,D
+1977,1977-11-12,Flamengo,Volta Redonda,1,1,E,E,NORMAL,E
+1977,1977-11-13,Juventude,Dom Bosco,2,2,E,E,NORMAL,A
+1977,1977-11-13,Internacional,Caxias,1,0,V,D,NORMAL,A
+1977,1977-11-13,Coritiba,Joinville,2,1,V,D,NORMAL,A
+1977,1977-11-13,São Paulo,Santa Cruz,1,0,V,D,NORMAL,B
+1977,1977-11-13,Náutico,Sport,0,0,E,E,NORMAL,B
+1977,1977-11-13,CRB,Treze,3,1,V,D,NORMAL,B
+1977,1977-11-13,Sampaio Corrêa,Guarani,0,2,D,V,NORMAL,C
+1977,1977-11-13,Flamengo-PI,Portuguesa,0,2,D,V,NORMAL,C
+1977,1977-11-13,Ponte Preta,Fortaleza,3,1,V,D,NORMAL,C
+1977,1977-11-13,Ceará,Corinthians,1,0,V,D,NORMAL,C
+1977,1977-11-13,Americano,Londrina,1,1,E,E,NORMAL,D
+1977,1977-11-13,Goiânia,Vila Nova,2,2,E,E,NORMAL,D
+1977,1977-11-13,Vasco,Botafogo,0,0,E,E,NORMAL,D
+1977,1977-11-13,Confiança,America-RJ,2,2,E,E,NORMAL,E
+1977,1977-11-13,Fluminense de Feira,Desportiva Ferroviária,0,0,E,E,NORMAL,E
+1977,1977-11-13,Bahia,Vitória,1,0,V,D,NORMAL,E
+1977,1977-11-13,Atlético Mineiro,América Mineiro,3,1,V,D,NORMAL,F
+1977,1977-11-13,Remo,Cruzeiro,4,0,V,D,NORMAL,F
+1977,1977-11-13,Botafogo-SP,Fast Clube,5,1,V,D,NORMAL,F
+1977,1977-11-13,Santos,Nacional-AM,2,0,V,D,NORMAL,F
+1977,1977-11-13,Avaí,Grêmio,2,1,V,D,NORMAL,A
+1977,1977-11-15,Fluminense,Flamengo,2,1,V,D,NORMAL,E
+1977,1977-11-16,Juventude,Internacional,0,1,D,V,NORMAL,A
+1977,1977-11-16,Grêmio Maringá,Grêmio,2,1,V,D,NORMAL,A
+1977,1977-11-16,Joinville,Dom Bosco,5,3,V,D,NORMAL,A
+1977,1977-11-16,São Paulo,Treze,3,0,V,D,NORMAL,B
+1977,1977-11-16,CSA,Santa Cruz,0,1,D,V,NORMAL,B
+1977,1977-11-16,América-RN,Corinthians,0,0,E,E,NORMAL,C
+1977,1977-11-16,River-PI,Guarani,1,1,E,E,NORMAL,C
+1977,1977-11-16,Botafogo,Londrina,3,0,V,D,NORMAL,D
+1977,1977-11-16,Goiânia,Brasília,0,1,D,V,NORMAL,D
+1977,1977-11-16,Vitória,Desportiva Ferroviária,0,1,D,V,NORMAL,E
+1977,1977-11-16,Sergipe,America-RJ,0,1,D,V,NORMAL,E
+1977,1977-11-16,Fast Clube,Cruzeiro,1,1,E,E,NORMAL,F
+1977,1977-11-16,Botafogo-SP,Nacional-AM,4,0,V,D,NORMAL,F
+1977,1977-11-16,Uberaba,América Mineiro,1,0,V,D,NORMAL,F
+1977,1977-11-17,Coritiba,Operário-MS,1,0,V,D,NORMAL,A
+1977,1977-11-17,Palmeiras,Botafogo-PB,2,0,V,D,NORMAL,B
+1977,1977-11-17,Portuguesa,Ponte Preta,0,0,E,E,NORMAL,C
+1977,1977-11-17,Vasco,Goytacaz,0,1,D,V,NORMAL,D
+1977,1977-11-17,Volta Redonda,Bahia,1,1,E,E,NORMAL,E
+1977,1977-11-19,Vitória-ES,America-RJ,0,0,E,E,NORMAL,E
+1977,1977-11-20,Joinville,Juventude,1,0,V,D,NORMAL,A
+1977,1977-11-20,Internacional,Grêmio Maringá,3,0,V,D,NORMAL,A
+1977,1977-11-20,Dom Bosco,Grêmio,0,3,D,V,NORMAL,A
+1977,1977-11-20,Náutico,Santa Cruz,1,2,D,V,NORMAL,B
+1977,1977-11-20,XV de Piracicaba,Botafogo-PB,2,0,V,D,NORMAL,B
+1977,1977-11-20,CRB,Sport,6,4,V,D,NORMAL,B
+1977,1977-11-20,Corinthians,Portuguesa,2,0,V,D,NORMAL,C
+1977,1977-11-20,ABC,América-RN,3,0,V,D,NORMAL,C
+1977,1977-11-20,River-PI,Flamengo-PI,2,2,E,E,NORMAL,C
+1977,1977-11-20,Guarani,Ponte Preta,0,1,D,V,NORMAL,C
+1977,1977-11-20,Ceará,Fortaleza,1,0,V,D,NORMAL,C
+1977,1977-11-20,Athletico Paranaense,Americano,3,0,V,D,NORMAL,D
+1977,1977-11-20,Londrina,Vasco,2,2,E,E,NORMAL,D
+1977,1977-11-20,Goiás,Vila Nova,1,0,V,D,NORMAL,D
+1977,1977-11-20,Goytacaz,Goiânia,0,0,E,E,NORMAL,D
+1977,1977-11-20,Volta Redonda,Fluminense de Feira,2,2,E,E,NORMAL,E
+1977,1977-11-20,Sergipe,Vitória,2,1,V,D,NORMAL,E
+1977,1977-11-20,Fluminense,Bahia,1,0,V,D,NORMAL,E
+1977,1977-11-20,Desportiva Ferroviária,Confiança,3,1,V,D,NORMAL,E
+1977,1977-11-20,Uberaba,Atlético Mineiro,1,1,E,E,NORMAL,F
+1977,1977-11-20,América Mineiro,Botafogo-SP,1,2,D,V,NORMAL,F
+1977,1977-11-20,Remo,Fast Clube,4,1,V,D,NORMAL,F
+1977,1977-11-20,Avaí,Operário-MS,0,1,D,V,NORMAL,A
+1977,1977-11-23,Caxias,Operário-MS,3,3,E,E,NORMAL,A
+1977,1977-11-23,CRB,Palmeiras,0,2,D,V,NORMAL,B
+1977,1977-11-23,Treze,CSA,0,1,D,V,NORMAL,B
+1977,1977-11-23,Náutico,Botafogo-PB,2,1,V,D,NORMAL,B
+1977,1977-11-23,São Paulo,Sport,2,0,V,D,NORMAL,B
+1977,1977-11-23,Flamengo-PI,Fortaleza,1,0,V,D,NORMAL,C
+1977,1977-11-23,Ponte Preta,River-PI,5,0,V,D,NORMAL,C
+1977,1977-11-23,Goiás,Americano,3,0,V,D,NORMAL,D
+1977,1977-11-23,Botafogo,Goiânia,1,0,V,D,NORMAL,D
+1977,1977-11-23,Desportiva Ferroviária,Bahia,2,1,V,D,NORMAL,E
+1977,1977-11-23,Volta Redonda,Confiança,1,3,D,V,NORMAL,E
+1977,1977-11-23,Paysandu,Botafogo-SP,2,1,V,D,NORMAL,F
+1977,1977-11-23,Avaí,Coritiba,2,0,V,D,NORMAL,A
+1977,1977-11-24,Juventude,Grêmio Maringá,1,0,V,D,NORMAL,A
+1977,1977-11-24,Sampaio Corrêa,ABC,1,1,E,E,NORMAL,C
+1977,1977-11-24,Portuguesa,América-RN,3,0,V,D,NORMAL,C
+1977,1977-11-24,Guarani,Ceará,3,0,V,D,NORMAL,C
+1977,1977-11-24,Goytacaz,Athletico Paranaense,4,1,V,D,NORMAL,D
+1977,1977-11-24,America-RJ,Fluminense de Feira,1,0,V,D,NORMAL,E
+1977,1977-11-24,Vitória-ES,Flamengo,0,3,D,V,NORMAL,E
+1977,1977-11-24,Nacional-AM,América Mineiro,1,0,V,D,NORMAL,F
+1977,1977-11-26,Sport,CSA,3,1,V,D,NORMAL,B
+1977,1977-11-26,São Paulo,CRB,4,0,V,D,NORMAL,B
+1977,1977-11-26,Brasília,Vila Nova,1,0,V,D,NORMAL,D
+1977,1977-11-27,Dom Bosco,Coritiba,2,3,D,V,NORMAL,A
+1977,1977-11-27,Grêmio,Operário-MS,3,3,E,E,NORMAL,A
+1977,1977-11-27,Joinville,Grêmio Maringá,2,1,V,D,NORMAL,A
+1977,1977-11-27,Treze,Náutico,2,1,V,D,NORMAL,B
+1977,1977-11-27,Santa Cruz,Palmeiras,1,2,D,V,NORMAL,B
+1977,1977-11-27,Portuguesa,Ceará,2,1,V,D,NORMAL,C
+1977,1977-11-27,River-PI,Sampaio Corrêa,0,0,E,E,NORMAL,C
+1977,1977-11-27,Fortaleza,ABC,3,2,V,D,NORMAL,C
+1977,1977-11-27,Guarani,América-RN,1,0,V,D,NORMAL,C
+1977,1977-11-27,Goiânia,Americano,1,3,D,V,NORMAL,D
+1977,1977-11-27,Londrina,Goiás,1,1,E,E,NORMAL,D
+1977,1977-11-27,Vasco,Athletico Paranaense,0,0,E,E,NORMAL,D
+1977,1977-11-27,Flamengo,Confiança,3,1,V,D,NORMAL,E
+1977,1977-11-27,Vitória-ES,Fluminense de Feira,1,1,E,E,NORMAL,E
+1977,1977-11-27,Bahia,Sergipe,3,0,V,D,NORMAL,E
+1977,1977-11-27,Uberaba,Santos,4,1,V,D,NORMAL,F
+1977,1977-11-27,Cruzeiro,Botafogo-SP,3,1,V,D,NORMAL,F
+1977,1977-11-27,Paysandu,América Mineiro,4,1,V,D,NORMAL,F
+1977,1977-11-27,Nacional-AM,Remo,0,2,D,V,NORMAL,F
+1977,1977-11-27,Avaí,Internacional,0,0,E,E,NORMAL,A
+1977,1977-11-30,América-RN,Ceará,2,0,V,D,NORMAL,O
+1977,1977-12-01,Brasília,America-RJ,2,3,D,V,NORMAL,G
+1977,1977-12-01,Portuguesa,Santos,1,2,D,V,NORMAL,H
+1977,1977-12-01,Operário-MS,Botafogo-SP,0,0,E,E,NORMAL,J
+1977,1977-12-01,ABC,XV de Piracicaba,1,0,V,D,NORMAL,K
+1977,1977-12-01,Guarani,Atlético Mineiro,0,1,D,V,NORMAL,L
+1977,1977-12-01,Flamengo-PI,Fortaleza,0,0,E,E,NORMAL,O
+1977,1977-12-01,Londrina,Goiânia,4,1,V,D,NORMAL,P
+1977,1977-12-01,Athletico Paranaense,Goiás,3,3,E,E,NORMAL,P
+1977,1977-12-01,Volta Redonda,Desportiva Ferroviária,2,0,V,D,NORMAL,Q
+1977,1977-12-01,Vitória,Vitória-ES,2,0,V,D,NORMAL,Q
+1977,1977-12-01,Sergipe,Fluminense de Feira,1,1,E,E,NORMAL,Q
+1977,1977-12-01,América Mineiro,Paysandu,3,1,V,D,NORMAL,R
+1977,1977-12-04,Corinthians,São Paulo,2,0,V,D,NORMAL,G
+1977,1977-12-04,Internacional,Brasília,6,0,V,D,NORMAL,G
+1977,1977-12-04,Bahia,Portuguesa,2,0,V,D,NORMAL,H
+1977,1977-12-04,Goytacaz,Palmeiras,1,3,D,V,NORMAL,H
+1977,1977-12-04,Ponte Preta,Confiança,3,0,V,D,NORMAL,I
+1977,1977-12-04,Vasco,Remo,1,0,V,D,NORMAL,I
+1977,1977-12-04,Operário-MS,Fluminense,2,1,V,D,NORMAL,J
+1977,1977-12-04,Botafogo-SP,Botafogo,2,2,E,E,NORMAL,J
+1977,1977-12-04,Flamengo,Cruzeiro,3,1,V,D,NORMAL,K
+1977,1977-12-04,XV de Piracicaba,Grêmio Maringá,3,0,V,D,NORMAL,K
+1977,1977-12-04,Atlético Mineiro,Santa Cruz,3,1,V,D,NORMAL,L
+1977,1977-12-04,Coritiba,Dom Bosco,4,0,V,D,NORMAL,M
+1977,1977-12-04,CRB,Náutico,1,2,D,V,NORMAL,N
+1977,1977-12-04,Sport,Treze,4,0,V,D,NORMAL,N
+1977,1977-12-04,River-PI,Sampaio Corrêa,4,3,V,D,NORMAL,O
+1977,1977-12-04,Fortaleza,América-RN,0,2,D,V,NORMAL,O
+1977,1977-12-04,Vila Nova,Goiânia,4,0,V,D,NORMAL,P
+1977,1977-12-04,Volta Redonda,Sergipe,3,2,V,D,NORMAL,Q
+1977,1977-12-04,Desportiva Ferroviária,Vitória,3,1,V,D,NORMAL,Q
+1977,1977-12-04,Uberaba,Nacional-AM,2,0,V,D,NORMAL,R
+1977,1977-12-04,Paysandu,Fast Clube,1,2,D,V,NORMAL,R
+1977,1977-12-04,Caxias,Avaí,5,1,V,D,NORMAL,M
+1977,1977-12-07,São Paulo,Brasília,5,0,V,D,NORMAL,G
+1977,1977-12-07,America-RJ,Internacional,0,0,E,E,NORMAL,G
+1977,1977-12-07,Santos,Bahia,0,1,D,V,NORMAL,H
+1977,1977-12-07,Confiança,Remo,2,1,V,D,NORMAL,I
+1977,1977-12-07,CSA,Fluminense,1,2,D,V,NORMAL,J
+1977,1977-12-07,Botafogo,Operário-MS,1,1,E,E,NORMAL,J
+1977,1977-12-07,XV de Piracicaba,Flamengo,1,0,V,D,NORMAL,K
+1977,1977-12-07,Santa Cruz,Guarani,1,0,V,D,NORMAL,L
+1977,1977-12-07,Americano,Grêmio,0,0,E,E,NORMAL,L
+1977,1977-12-07,Juventude,Coritiba,3,0,V,D,NORMAL,M
+1977,1977-12-07,Botafogo-PB,Sport,1,3,D,V,NORMAL,N
+1977,1977-12-07,Treze,CRB,0,0,E,E,NORMAL,N
+1977,1977-12-07,Flamengo-PI,América-RN,1,1,E,E,NORMAL,O
+1977,1977-12-07,Goiânia,Athletico Paranaense,2,1,V,D,NORMAL,P
+1977,1977-12-07,Vitória-ES,Fluminense de Feira,1,0,V,D,NORMAL,Q
+1977,1977-12-07,Volta Redonda,Vitória,1,1,E,E,NORMAL,Q
+1977,1977-12-07,América Mineiro,Nacional-AM,1,0,V,D,NORMAL,R
+1977,1977-12-08,Portuguesa,Goytacaz,0,1,D,V,NORMAL,H
+1977,1977-12-08,Joinville,Ponte Preta,0,2,D,V,NORMAL,I
+1977,1977-12-08,River-PI,Fortaleza,2,1,V,D,NORMAL,O
+1977,1977-12-08,Sampaio Corrêa,Ceará,1,1,E,E,NORMAL,O
+1977,1977-12-08,Avaí,Dom Bosco,0,1,D,V,NORMAL,M
+1977,1977-12-10,Brasília,Corinthians,0,5,D,V,NORMAL,G
+1977,1977-12-10,Vitória,Sergipe,2,1,V,D,NORMAL,Q
+1977,1977-12-10,América Mineiro,Uberaba,1,0,V,D,NORMAL,R
+1977,1977-12-10,Guarani,Americano,6,0,V,D,NORMAL,L
+1977,1977-12-11,Internacional,São Paulo,1,4,D,V,NORMAL,G
+1977,1977-12-11,Palmeiras,Santos,1,1,E,E,NORMAL,H
+1977,1977-12-11,Bahia,Goytacaz,2,0,V,D,NORMAL,H
+1977,1977-12-11,Ponte Preta,Vasco,0,0,E,E,NORMAL,I
+1977,1977-12-11,Joinville,Confiança,3,0,V,D,NORMAL,I
+1977,1977-12-11,Fluminense,Botafogo,0,1,D,V,NORMAL,J
+1977,1977-12-11,Botafogo-SP,CSA,2,2,E,E,NORMAL,J
+1977,1977-12-11,Grêmio Maringá,Flamengo,0,1,D,V,NORMAL,K
+1977,1977-12-11,ABC,Cruzeiro,2,2,E,E,NORMAL,K
+1977,1977-12-11,Atlético Mineiro,Grêmio,3,1,V,D,NORMAL,L
+1977,1977-12-11,Juventude,Caxias,1,1,E,E,NORMAL,M
+1977,1977-12-11,Coritiba,Avaí,2,3,D,V,NORMAL,M
+1977,1977-12-11,Sport,Náutico,1,0,V,D,NORMAL,N
+1977,1977-12-11,Treze,Botafogo-PB,3,2,V,D,NORMAL,N
+1977,1977-12-11,Ceará,Fortaleza,2,1,V,D,NORMAL,O
+1977,1977-12-11,Sampaio Corrêa,América-RN,1,1,E,E,NORMAL,O
+1977,1977-12-11,Flamengo-PI,River-PI,0,0,E,E,NORMAL,O
+1977,1977-12-11,Vila Nova,Goiás,0,3,D,V,NORMAL,P
+1977,1977-12-11,Londrina,Athletico Paranaense,2,3,D,V,NORMAL,P
+1977,1977-12-11,Fluminense de Feira,Volta Redonda,1,0,V,D,NORMAL,Q
+1977,1977-12-11,Desportiva Ferroviária,Vitória-ES,2,1,V,D,NORMAL,Q
+1977,1977-12-11,Fast Clube,Nacional-AM,2,1,V,D,NORMAL,R
+1977,1977-12-14,Goytacaz,Santos,0,0,E,E,NORMAL,H
+1977,1977-12-14,Palmeiras,Portuguesa,2,1,V,D,NORMAL,H
+1977,1977-12-14,Botafogo,CSA,3,1,V,D,NORMAL,J
+1977,1977-12-14,Cruzeiro,XV de Piracicaba,2,0,V,D,NORMAL,K
+1977,1977-12-14,Grêmio Maringá,ABC,3,0,V,D,NORMAL,K
+1977,1977-12-14,Santa Cruz,Americano,3,0,V,D,NORMAL,L
+1977,1977-12-14,Grêmio,Guarani,2,0,V,D,NORMAL,L
+1977,1977-12-14,Dom Bosco,Caxias,1,1,E,E,NORMAL,M
+1977,1977-12-14,Avaí,Juventude,2,1,V,D,NORMAL,M
+1977,1977-12-14,CRB,Botafogo-PB,3,0,V,D,NORMAL,N
+1977,1977-12-14,Sampaio Corrêa,Flamengo-PI,4,1,V,D,NORMAL,O
+1977,1977-12-14,Goiás,Goiânia,3,2,V,D,NORMAL,P
+1977,1977-12-14,Vitória-ES,Volta Redonda,1,1,E,E,NORMAL,Q
+1977,1977-12-14,Sergipe,Desportiva Ferroviária,1,1,E,E,NORMAL,Q
+1977,1977-12-14,Vitória,Fluminense de Feira,2,0,V,D,NORMAL,Q
+1977,1977-12-14,Fast Clube,América Mineiro,2,0,V,D,NORMAL,R
+1977,1977-12-14,Paysandu,Uberaba,2,2,E,E,NORMAL,R
+1977,1977-12-15,Corinthians,America-RJ,0,0,E,E,NORMAL,G
+1977,1977-12-15,Remo,Joinville,1,0,V,D,NORMAL,I
+1977,1977-12-15,Confiança,Vasco,0,1,D,V,NORMAL,I
+1977,1977-12-15,Fluminense,Botafogo-SP,0,0,E,E,NORMAL,J
+1977,1977-12-15,Náutico,Treze,5,0,V,D,NORMAL,N
+1977,1977-12-15,Ceará,River-PI,3,0,V,D,NORMAL,O
+1977,1977-12-15,Fortaleza,Sampaio Corrêa,2,0,V,D,NORMAL,O
+1977,1977-12-15,Vila Nova,Londrina,0,1,D,V,NORMAL,P
+1977,1977-12-17,Flamengo,ABC,1,0,V,D,NORMAL,K
+1977,1977-12-17,Coritiba,Caxias,1,2,D,V,NORMAL,M
+1977,1977-12-18,Corinthians,Internacional,1,0,V,D,NORMAL,G
+1977,1977-12-18,America-RJ,São Paulo,0,0,E,E,NORMAL,G
+1977,1977-12-18,Palmeiras,Bahia,1,0,V,D,NORMAL,H
+1977,1977-12-18,Vasco,Joinville,1,1,E,E,NORMAL,I
+1977,1977-12-18,Remo,Ponte Preta,1,0,V,D,NORMAL,I
+1977,1977-12-18,CSA,Operário-MS,0,2,D,V,NORMAL,J
+1977,1977-12-18,Cruzeiro,Grêmio Maringá,0,0,E,E,NORMAL,K
+1977,1977-12-18,Americano,Atlético Mineiro,0,2,D,V,NORMAL,L
+1977,1977-12-18,Grêmio,Santa Cruz,2,3,D,V,NORMAL,L
+1977,1977-12-18,Dom Bosco,Juventude,0,1,D,V,NORMAL,M
+1977,1977-12-18,Botafogo-PB,Náutico,3,1,V,D,NORMAL,N
+1977,1977-12-18,Sport,CRB,1,0,V,D,NORMAL,N
+1977,1977-12-18,América-RN,River-PI,5,0,V,D,NORMAL,O
+1977,1977-12-18,Ceará,Flamengo-PI,0,0,E,E,NORMAL,O
+1977,1977-12-18,Athletico Paranaense,Vila Nova,2,2,E,E,NORMAL,P
+1977,1977-12-18,Goiás,Londrina,1,2,D,V,NORMAL,P
+1977,1977-12-18,Sergipe,Vitória-ES,0,1,D,V,NORMAL,Q
+1977,1977-12-18,Desportiva Ferroviária,Fluminense de Feira,0,0,E,E,NORMAL,Q
+1977,1977-12-18,Uberaba,Fast Clube,1,0,V,D,NORMAL,R
+1977,1977-12-18,Nacional-AM,Paysandu,1,1,E,E,NORMAL,R
+1977,1978-01-28,São Paulo,XV de Piracicaba,4,2,V,D,NORMAL,U
+1977,1978-01-29,Corinthians,Santos,1,1,E,E,NORMAL,S
+1977,1978-01-29,Londrina,Caxias,2,0,V,D,NORMAL,S
+1977,1978-01-29,Flamengo,Vasco,0,0,E,E,NORMAL,S
+1977,1978-01-29,Bahia,Botafogo,0,0,E,E,NORMAL,T
+1977,1978-01-29,Atlético Mineiro,Cruzeiro,2,1,V,D,NORMAL,T
+1977,1978-01-29,Fast Clube,América-RN,0,0,E,E,NORMAL,T
+1977,1978-01-29,Grêmio,Sport,1,0,V,D,NORMAL,U
+1977,1978-01-29,Ponte Preta,Botafogo-SP,4,1,V,D,NORMAL,U
+1977,1978-01-29,Santa Cruz,America-RJ,2,2,E,E,NORMAL,V
+1977,1978-01-29,Remo,Palmeiras,3,0,V,D,NORMAL,V
+1977,1978-02-01,Londrina,Flamengo,1,0,V,D,NORMAL,S
+1977,1978-02-01,Corinthians,Caxias,1,0,V,D,NORMAL,S
+1977,1978-02-01,Vasco,Santos,1,0,V,D,NORMAL,S
+1977,1978-02-01,Fast Clube,Atlético Mineiro,1,2,D,V,NORMAL,T
+1977,1978-02-01,Botafogo,América-RN,2,0,V,D,NORMAL,T
+1977,1978-02-01,XV de Piracicaba,Grêmio,0,1,D,V,NORMAL,U
+1977,1978-02-01,Ponte Preta,São Paulo,1,3,D,V,NORMAL,U
+1977,1978-02-01,Sport,Botafogo-SP,1,2,D,V,NORMAL,U
+1977,1978-02-01,Operário-MS,Santa Cruz,0,0,E,E,NORMAL,V
+1977,1978-02-02,Palmeiras,Desportiva Ferroviária,4,1,V,D,NORMAL,V
+1977,1978-02-11,Flamengo,Caxias,1,1,E,E,NORMAL,S
+1977,1978-02-11,Santos,Londrina,1,2,D,V,NORMAL,S
+1977,1978-02-12,Corinthians,Vasco,0,0,E,E,NORMAL,S
+1977,1978-02-12,Botafogo,Atlético Mineiro,0,0,E,E,NORMAL,T
+1977,1978-02-12,Bahia,Cruzeiro,2,2,E,E,NORMAL,T
+1977,1978-02-12,XV de Piracicaba,Sport,0,1,D,V,NORMAL,U
+1977,1978-02-12,Botafogo-SP,São Paulo,1,0,V,D,NORMAL,U
+1977,1978-02-12,Grêmio,Ponte Preta,1,0,V,D,NORMAL,U
+1977,1978-02-12,Palmeiras,America-RJ,5,1,V,D,NORMAL,V
+1977,1978-02-12,Santa Cruz,Desportiva Ferroviária,2,0,V,D,NORMAL,V
+1977,1978-02-15,Londrina,Corinthians,1,0,V,D,NORMAL,S
+1977,1978-02-15,Caxias,Vasco,1,5,D,V,NORMAL,S
+1977,1978-02-15,Santos,Flamengo,0,0,E,E,NORMAL,S
+1977,1978-02-15,América-RN,Bahia,0,0,E,E,NORMAL,T
+1977,1978-02-15,Cruzeiro,Fast Clube,5,4,V,D,NORMAL,T
+1977,1978-02-15,Ponte Preta,XV de Piracicaba,1,0,V,D,NORMAL,U
+1977,1978-02-15,Grêmio,Botafogo-SP,1,1,E,E,NORMAL,U
+1977,1978-02-15,São Paulo,Sport,4,3,V,D,NORMAL,U
+1977,1978-02-15,Operário-MS,Desportiva Ferroviária,5,0,V,D,NORMAL,V
+1977,1978-02-15,America-RJ,Remo,1,1,E,E,NORMAL,V
+1977,1978-02-18,Caxias,Santos,3,3,E,E,NORMAL,S
+1977,1978-02-18,Palmeiras,Santa Cruz,1,3,D,V,NORMAL,V
+1977,1978-02-18,Desportiva Ferroviária,Remo,2,2,E,E,NORMAL,V
+1977,1978-02-18,America-RJ,Operário-MS,0,2,D,V,NORMAL,V
+1977,1978-02-19,Flamengo,Corinthians,0,1,D,V,NORMAL,S
+1977,1978-02-19,Vasco,Londrina,0,2,D,V,NORMAL,S
+1977,1978-02-19,Bahia,Fast Clube,2,0,V,D,NORMAL,T
+1977,1978-02-19,Cruzeiro,Botafogo,0,3,D,V,NORMAL,T
+1977,1978-02-19,Atlético Mineiro,América-RN,6,0,V,D,NORMAL,T
+1977,1978-02-19,São Paulo,Grêmio,3,1,V,D,NORMAL,U
+1977,1978-02-19,Sport,Ponte Preta,1,0,V,D,NORMAL,U
+1977,1978-02-19,Botafogo-SP,XV de Piracicaba,0,0,E,E,NORMAL,U
+1977,1978-02-20,Remo,Operário-MS,2,0,V,D,NORMAL,V
+1977,1978-02-22,América-RN,Cruzeiro,2,2,E,E,NORMAL,T
+1977,1978-02-22,Atlético Mineiro,Bahia,4,0,V,D,NORMAL,T
+1977,1978-02-22,Botafogo,Fast Clube,3,1,V,D,NORMAL,T
+1977,1978-02-22,Operário-MS,Palmeiras,2,0,V,D,NORMAL,V
+1977,1978-02-23,Santa Cruz,Remo,2,1,V,D,NORMAL,V
+1977,1978-02-23,Desportiva Ferroviária,America-RJ,0,0,E,E,NORMAL,V
+1977,1978-02-26,Atlético Mineiro,Londrina,4,2,V,D,NORMAL,SF
+1977,1978-02-26,São Paulo,Operário-MS,3,0,V,D,NORMAL,SF
+1977,1978-03-01,Londrina,Atlético Mineiro,2,2,E,E,NORMAL,SF
+1977,1978-03-01,Operário-MS,São Paulo,1,0,V,D,NORMAL,SF
+1977,1978-03-05,Atlético Mineiro,São Paulo,0,0,E,E,NORMAL,F

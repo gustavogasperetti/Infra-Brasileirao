@@ -1,0 +1,323 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+1983-01-22,Galícia,1-1,Sergipe,C
+1983-01-22,Cruzeiro,3-1,Náutico,H
+1983-01-23,Flamengo,2-0,Santos,A
+1983-01-23,Moto Club,1-1,Paysandu,A
+1983-01-23,Atlético Paranaense,0-1,Grêmio,B
+1983-01-23,Campo Grande-RJ,0-1,Ponte Preta,B
+1983-01-23,Sport,0-0,São Paulo,C
+1983-01-23,Corinthians,2-1,Fluminense,D
+1983-01-23,CSA,4-0,Tiradentes-PI,D
+1983-01-23,Bahia,0-0,Palmeiras,E
+1983-01-23,Mixto,1-2,Goiás,E
+1983-01-23,Juventus-SP,0-0,Vila Nova,F
+1983-01-23,Atlético Mineiro,1-2,America-RJ,F
+1983-01-23,Internacional,2-0,Colorado,G
+1983-01-23,Brasília,3-2,Botafogo,G
+1983-01-23,Ferroviário,0-2,Vasco,H
+1983-01-26,Santos,3-1,Moto Club,A
+1983-01-26,Rio Negro-AM,1-0,Paysandu,A
+1983-01-26,Joinville,1-0,Grêmio,B
+1983-01-26,Galícia,0-0,São Paulo,C
+1983-01-26,Sergipe,1-0,América-RN,C
+1983-01-26,Fluminense,1-2,CSA,D
+1983-01-26,Rio Branco-ES,0-2,America-RJ,F
+1983-01-26,Juventus-SP,0-0,Atlético Mineiro,F
+1983-01-26,Colorado,2-0,Brasília,G
+1983-01-26,Náutico,3-0,Ferroviário,H
+1983-01-26,Treze,0-2,Vasco,H
+1983-01-27,Ponte Preta,2-4,Atlético Paranaense,B
+1983-01-27,Fortaleza,1-3,Corinthians,D
+1983-01-27,Comercial-MS,1-1,Palmeiras,E
+1983-01-27,Botafogo,0-1,Ferroviária,G
+1983-01-29,Flamengo,1-1,Moto Club,A
+1983-01-29,Rio Negro-AM,0-1,Santos,A
+1983-01-29,Grêmio,2-0,Ponte Preta,B
+1983-01-29,Joinville,1-3,Campo Grande-RJ,B
+1983-01-29,São Paulo,4-0,América-RN,C
+1983-01-29,Sport,2-0,Galícia,C
+1983-01-29,Fortaleza,0-0,Fluminense,D
+1983-01-29,Comercial-MS,2-1,Goiás,E
+1983-01-29,Mixto,2-0,Bahia,E
+1983-01-29,Rio Branco-ES,1-1,Juventus-SP,F
+1983-01-29,Vila Nova,1-2,Atlético Mineiro,F
+1983-01-29,Ferroviária,2-0,Colorado,G
+1983-01-29,Internacional,2-0,Brasília,G
+1983-01-29,Cruzeiro,1-1,Ferroviário,H
+1983-01-29,Treze,1-4,Náutico,H
+1983-01-29,Tiradentes-PI,2-1,Corinthians,D
+1983-02-02,Rio Negro-AM,1-1,Flamengo,A
+1983-02-02,Campo Grande-RJ,0-0,Atlético Paranaense,B
+1983-02-02,Joinville,0-0,Ponte Preta,B
+1983-02-02,América-RN,1-0,Galícia,C
+1983-02-02,Sergipe,3-1,Sport,C
+1983-02-02,Tiradentes-PI,1-0,Fluminense,D
+1983-02-02,CSA,0-0,Fortaleza,D
+1983-02-02,Palmeiras,1-0,Goiás,E
+1983-02-02,Comercial-MS,2-1,Mixto,E
+1983-02-02,America-RJ,2-0,Juventus-SP,F
+1983-02-02,Rio Branco-ES,1-0,Vila Nova,F
+1983-02-02,Botafogo,0-0,Colorado,G
+1983-02-02,Ferroviária,2-0,Internacional,G
+1983-02-02,Treze,0-4,Cruzeiro,H
+1983-02-02,Vasco,1-1,Náutico,H
+1983-02-03,Paysandu,1-2,Santos,A
+1983-02-05,Moto Club,0-0,Rio Negro-AM,A
+1983-02-05,Paysandu,2-3,Flamengo,A
+1983-02-05,Atlético Paranaense,4-1,Joinville,B
+1983-02-05,Grêmio,4-0,Campo Grande-RJ,B
+1983-02-05,Sport,1-1,América-RN,C
+1983-02-05,Sergipe,0-0,São Paulo,C
+1983-02-05,Corinthians,4-2,CSA,D
+1983-02-05,Fortaleza,1-1,Tiradentes-PI,D
+1983-02-05,Palmeiras,4-0,Mixto,E
+1983-02-05,Bahia,1-0,Comercial-MS,E
+1983-02-05,Atlético Mineiro,2-0,Rio Branco-ES,F
+1983-02-05,America-RJ,3-1,Vila Nova,F
+1983-02-05,Botafogo,1-0,Internacional,G
+1983-02-05,Brasília,0-0,Ferroviária,G
+1983-02-05,Vasco,0-0,Cruzeiro,H
+1983-02-05,Ferroviário,2-1,Treze,H
+1983-02-09,Moto Club,1-5,Flamengo,A
+1983-02-09,Santos,3-0,Rio Negro-AM,A
+1983-02-09,Grêmio,1-1,Joinville,B
+1983-02-09,América-RN,3-1,Sergipe,C
+1983-02-09,Corinthians,10-1,Tiradentes-PI,D
+1983-02-09,Fluminense,5-1,Fortaleza,D
+1983-02-09,Bahia,2-1,Mixto,E
+1983-02-09,Goiás,0-1,Comercial-MS,E
+1983-02-09,Juventus-SP,3-2,Rio Branco-ES,F
+1983-02-09,Brasília,1-2,Internacional,G
+1983-02-09,Colorado,2-0,Ferroviária,G
+1983-02-09,Ferroviário,0-3,Cruzeiro,H
+1983-02-09,Náutico,4-0,Treze,H
+1983-02-10,Atlético Paranaense,1-3,Ponte Preta,B
+1983-02-10,São Paulo,1-0,Galícia,C
+1983-02-10,Atlético Mineiro,4-1,Vila Nova,F
+1983-02-13,Goiás,1-1,Bahia,E
+1983-02-19,Santos,4-1,Paysandu,A
+1983-02-19,Flamengo,7-1,Rio Negro-AM,A
+1983-02-19,Campo Grande-RJ,1-0,Joinville,B
+1983-02-19,Ponte Preta,1-1,Grêmio,B
+1983-02-19,América-RN,0-2,São Paulo,C
+1983-02-19,Galícia,1-1,Sport,C
+1983-02-19,Fluminense,3-0,Tiradentes-PI,D
+1983-02-19,Fortaleza,1-1,CSA,D
+1983-02-19,Mixto,1-1,Comercial-MS,E
+1983-02-19,Goiás,0-2,Palmeiras,E
+1983-02-19,Juventus-SP,1-3,America-RJ,F
+1983-02-19,Vila Nova,2-0,Rio Branco-ES,F
+1983-02-19,Colorado,3-0,Botafogo,G
+1983-02-19,Internacional,0-0,Ferroviária,G
+1983-02-19,Cruzeiro,3-1,Treze,H
+1983-02-19,Náutico,1-1,Vasco,H
+1983-02-23,Flamengo,3-2,Paysandu,A
+1983-02-23,Rio Negro-AM,1-0,Moto Club,A
+1983-02-23,Joinville,2-0,Atlético Paranaense,B
+1983-02-23,Campo Grande-RJ,0-0,Grêmio,B
+1983-02-23,Sport,4-1,Sergipe,C
+1983-02-23,Galícia,0-1,América-RN,C
+1983-02-23,Corinthians,3-1,Fortaleza,D
+1983-02-23,CSA,1-2,Fluminense,D
+1983-02-23,Comercial-MS,1-0,Bahia,E
+1983-02-23,Mixto,0-3,Palmeiras,E
+1983-02-23,Rio Branco-ES,0-2,Atlético Mineiro,F
+1983-02-23,Vila Nova,3-0,America-RJ,F
+1983-02-23,Brasília,0-0,Colorado,G
+1983-02-23,Ferroviária,2-1,Botafogo,G
+1983-02-23,Cruzeiro,0-0,Vasco,H
+1983-02-23,Treze,2-1,Ferroviário,H
+1983-02-26,São Paulo,3-0,Sergipe,C
+1983-02-26,Palmeiras,4-0,Bahia,E
+1983-02-26,Vila Nova,1-0,Juventus-SP,F
+1983-02-26,Botafogo,3-0,Brasília,G
+1983-02-27,Santos,3-2,Flamengo,A
+1983-02-27,Paysandu,2-1,Moto Club,A
+1983-02-27,Ponte Preta,2-0,Campo Grande-RJ,B
+1983-02-27,Grêmio,1-2,Atlético Paranaense,B
+1983-02-27,América-RN,1-0,Sport,C
+1983-02-27,CSA,1-2,Corinthians,D
+1983-02-27,Tiradentes-PI,4-1,Fortaleza,D
+1983-02-27,Goiás,3-1,Mixto,E
+1983-02-27,America-RJ,1-1,Atlético Mineiro,F
+1983-02-27,Colorado,2-0,Internacional,G
+1983-02-27,Vasco,3-0,Ferroviário,H
+1983-02-27,Náutico,4-0,Cruzeiro,H
+1983-03-05,Palmeiras,2-1,Comercial-MS,E
+1983-03-06,Moto Club,1-1,Santos,A
+1983-03-06,Paysandu,3-0,Rio Negro-AM,A
+1983-03-06,Atlético Paranaense,1-1,Campo Grande-RJ,B
+1983-03-06,São Paulo,3-1,Sport,C
+1983-03-06,Sergipe,2-0,Galícia,C
+1983-03-06,Fluminense,1-0,Corinthians,D
+1983-03-06,Tiradentes-PI,2-1,CSA,D
+1983-03-06,Bahia,3-0,Goiás,E
+1983-03-06,Atlético Mineiro,1-0,Juventus-SP,F
+1983-03-06,America-RJ,4-0,Rio Branco-ES,F
+1983-03-06,Internacional,0-0,Botafogo,G
+1983-03-06,Ferroviária,3-1,Brasília,G
+1983-03-06,Vasco,5-2,Treze,H
+1983-03-06,Ferroviário,1-2,Náutico,H
+1983-03-07,Ponte Preta,3-1,Joinville,B
+1983-03-09,Campo Grande-RJ,3-1,Paysandu,1F
+1983-03-09,Sport,2-1,CSA,1F
+1983-03-09,Goiás,3-2,Juventus-SP,1F
+1983-03-09,Botafogo,3-1,Ferroviário,1F
+1983-03-10,Sergipe,0-3,Grêmio,N
+1983-03-12,Fluminense,0-0,Goiás,P
+1983-03-13,Santos,4-1,Comercial-MS,I
+1983-03-13,Guarani,1-0,Cruzeiro,I
+1983-03-13,Atlético Mineiro,2-1,Internacional,J
+1983-03-13,Sport,2-0,Ponte Preta,J
+1983-03-13,Colorado,1-0,Vila Nova,K
+1983-03-13,Uberaba,1-4,São Paulo,K
+1983-03-13,Corinthians,1-1,Vasco,L
+1983-03-13,Campo Grande-RJ,0-0,Bahia,L
+1983-03-13,Americano,2-2,Palmeiras,M
+1983-03-13,Tiradentes-PI,1-3,Flamengo,M
+1983-03-13,America-RJ,4-2,Grêmio,N
+1983-03-13,Botafogo,3-1,Sergipe,N
+1983-03-13,América-RN,1-3,Ferroviária,O
+1983-03-13,Botafogo-SP,2-0,Atlético Paranaense,O
+1983-03-13,Rio Negro-AM,1-1,Náutico,P
+1983-03-16,Cruzeiro,2-0,Comercial-MS,I
+1983-03-16,Santos,1-1,Guarani,I
+1983-03-16,São Paulo,4-0,Vila Nova,K
+1983-03-16,Uberaba,2-3,Colorado,K
+1983-03-16,Bahia,0-1,Corinthians,L
+1983-03-16,Vasco,3-1,Campo Grande-RJ,L
+1983-03-16,Tiradentes-PI,0-0,Americano,M
+1983-03-16,Sergipe,3-1,America-RJ,N
+1983-03-16,Grêmio,1-1,Botafogo,N
+1983-03-16,Atlético Paranaense,1-1,Ferroviária,O
+1983-03-16,Botafogo-SP,1-0,América-RN,O
+1983-03-16,Fluminense,1-2,Náutico,P
+1983-03-16,Goiás,2-0,Rio Negro-AM,P
+1983-03-17,Sport,1-1,Atlético Mineiro,J
+1983-03-17,Ponte Preta,2-2,Internacional,J
+1983-03-17,Palmeiras,3-1,Flamengo,M
+1983-03-19,Cruzeiro,1-1,Santos,I
+1983-03-19,Comercial-MS,1-3,Guarani,I
+1983-03-19,Ponte Preta,2-2,Atlético Mineiro,J
+1983-03-19,Internacional,0-1,Sport,J
+1983-03-19,São Paulo,4-0,Colorado,K
+1983-03-19,Vila Nova,1-1,Uberaba,K
+1983-03-19,Bahia,0-0,Vasco,L
+1983-03-19,Palmeiras,5-1,Tiradentes-PI,M
+1983-03-19,Grêmio,5-0,Sergipe,N
+1983-03-19,Ferroviária,1-0,Botafogo-SP,O
+1983-03-19,Atlético Paranaense,3-2,América-RN,O
+1983-03-19,Rio Negro-AM,1-0,Fluminense,P
+1983-03-19,Náutico,4-0,Goiás,P
+1983-03-21,Flamengo,3-0,Americano,M
+1983-03-22,Campo Grande-RJ,1-1,Corinthians,L
+1983-03-22,America-RJ,0-0,Botafogo,N
+1983-03-23,Flamengo,2-0,Tiradentes-PI,M
+1983-03-26,Guarani,2-2,Santos,I
+1983-03-26,Comercial-MS,2-3,Cruzeiro,I
+1983-03-26,Internacional,1-0,Ponte Preta,J
+1983-03-26,Atlético Mineiro,2-1,Sport,J
+1983-03-26,Colorado,1-0,Uberaba,K
+1983-03-26,Vila Nova,0-2,São Paulo,K
+1983-03-26,Campo Grande-RJ,2-1,Vasco,L
+1983-03-26,Corinthians,2-0,Bahia,L
+1983-03-26,Americano,1-0,Tiradentes-PI,M
+1983-03-26,Flamengo,1-1,Palmeiras,M
+1983-03-26,Botafogo,1-2,America-RJ,N
+1983-03-26,Ferroviária,0-0,Atlético Paranaense,O
+1983-03-26,América-RN,0-1,Botafogo-SP,O
+1983-03-26,Náutico,0-1,Fluminense,P
+1983-03-26,Rio Negro-AM,0-1,Goiás,P
+1983-03-30,Guarani,1-1,Comercial-MS,I
+1983-03-30,Santos,5-0,Cruzeiro,I
+1983-03-30,Atlético Mineiro,3-0,Ponte Preta,J
+1983-03-30,Sport,1-1,Internacional,J
+1983-03-30,Uberaba,4-0,Vila Nova,K
+1983-03-30,Colorado,2-2,São Paulo,K
+1983-03-30,Bahia,2-0,Campo Grande-RJ,L
+1983-03-30,Tiradentes-PI,0-6,Palmeiras,M
+1983-03-30,Americano,2-2,Flamengo,M
+1983-03-30,Botafogo,1-1,Grêmio,N
+1983-03-30,America-RJ,4-3,Sergipe,N
+1983-03-30,América-RN,0-2,Atlético Paranaense,O
+1983-03-30,Botafogo-SP,0-0,Ferroviária,O
+1983-03-30,Fluminense,3-1,Rio Negro-AM,P
+1983-03-30,Goiás,1-0,Náutico,P
+1983-03-31,Vasco,0-0,Corinthians,L
+1983-04-02,São Paulo,5-1,Uberaba,K
+1983-04-02,Vila Nova,4-1,Colorado,K
+1983-04-02,Palmeiras,0-0,Americano,M
+1983-04-03,Comercial-MS,2-2,Santos,I
+1983-04-03,Cruzeiro,1-1,Guarani,I
+1983-04-03,Ponte Preta,2-1,Sport,J
+1983-04-03,Internacional,2-1,Atlético Mineiro,J
+1983-04-03,Vasco,1-1,Bahia,L
+1983-04-03,Corinthians,3-1,Campo Grande-RJ,L
+1983-04-03,Grêmio,1-1,America-RJ,N
+1983-04-03,Sergipe,2-6,Botafogo,N
+1983-04-03,Ferroviária,5-1,América-RN,O
+1983-04-03,Atlético Paranaense,2-0,Botafogo-SP,O
+1983-04-03,Goiás,1-1,Fluminense,P
+1983-04-03,Náutico,5-1,Rio Negro-AM,P
+1983-04-09,Sport,1-0,São Paulo,S
+1983-04-09,Ferroviária,2-2,Grêmio,S
+1983-04-10,Vasco,2-2,Palmeiras,Q
+1983-04-10,Santos,2-2,Náutico,Q
+1983-04-10,Atlético Mineiro,2-0,America-RJ,R
+1983-04-10,Colorado,2-1,Atlético Paranaense,R
+1983-04-10,Guarani,1-1,Corinthians,T
+1983-04-11,Flamengo,2-0,Goiás,T
+1983-04-13,Palmeiras,0-1,Santos,Q
+1983-04-13,Náutico,0-1,Vasco,Q
+1983-04-13,America-RJ,1-2,Atlético Paranaense,R
+1983-04-13,Colorado,0-2,Atlético Mineiro,R
+1983-04-13,Sport,2-2,Grêmio,S
+1983-04-13,São Paulo,3-1,Ferroviária,S
+1983-04-13,Corinthians,1-1,Goiás,T
+1983-04-13,Guarani,0-0,Flamengo,T
+1983-04-16,Colorado,4-2,America-RJ,R
+1983-04-17,Santos,1-0,Vasco,Q
+1983-04-17,Náutico,3-0,Palmeiras,Q
+1983-04-17,Atlético Paranaense,0-2,Atlético Mineiro,R
+1983-04-17,Ferroviária,0-1,Sport,S
+1983-04-17,Grêmio,5-1,São Paulo,S
+1983-04-17,Flamengo,5-1,Corinthians,T
+1983-04-17,Goiás,1-1,Guarani,T
+1983-04-20,Vasco,2-2,Náutico,Q
+1983-04-20,Santos,2-2,Palmeiras,Q
+1983-04-20,Atlético Paranaense,1-1,America-RJ,R
+1983-04-20,Atlético Mineiro,1-0,Colorado,R
+1983-04-20,Grêmio,2-1,Sport,S
+1983-04-20,Ferroviária,0-4,São Paulo,S
+1983-04-20,Corinthians,2-0,Guarani,T
+1983-04-20,Goiás,1-1,Flamengo,T
+1983-04-23,Palmeiras,6-0,Náutico,Q
+1983-04-23,Vasco,2-0,Santos,Q
+1983-04-23,America-RJ,2-4,Atlético Mineiro,R
+1983-04-23,Sport,4-1,Ferroviária,S
+1983-04-23,São Paulo,2-2,Grêmio,S
+1983-04-23,Goiás,2-1,Corinthians,T
+1983-04-25,Flamengo,2-0,Guarani,T
+1983-04-26,Atlético Paranaense,2-1,Colorado,R
+1983-04-30,Palmeiras,0-0,Vasco,Q
+1983-04-30,Náutico,0-1,Santos,Q
+1983-04-30,America-RJ,5-1,Colorado,R
+1983-04-30,Atlético Mineiro,1-1,Atlético Paranaense,R
+1983-04-30,Grêmio,1-3,Ferroviária,S
+1983-04-30,São Paulo,2-0,Sport,S
+1983-04-30,Corinthians,4-1,Flamengo,T
+1983-04-30,Guarani,1-2,Goiás,T
+1983-05-04,Atlético Paranaense,2-1,São Paulo,QF
+1983-05-05,Vasco,1-2,Flamengo,QF
+1983-05-05,Goiás,0-0,Santos,QF
+1983-05-05,Sport,0-0,Atlético Mineiro,QF
+1983-05-07,São Paulo,0-1,Atlético Paranaense,QF
+1983-05-08,Flamengo,1-1,Vasco,QF
+1983-05-08,Santos,2-2,Goiás,QF
+1983-05-08,Atlético Mineiro,4-1,Sport,QF
+1983-05-12,Santos,2-1,Atlético Mineiro,SF
+1983-05-12,Flamengo,3-0,Atlético Paranaense,SF
+1983-05-15,Atlético Mineiro,0-0,Santos,SF
+1983-05-15,Atlético Paranaense,2-0,Flamengo,SF
+1983-05-18,Santos,2-1,Flamengo,F
+1983-05-29,Flamengo,3-0,Santos,F

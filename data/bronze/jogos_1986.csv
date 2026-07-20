@@ -1,0 +1,683 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+1986-08-30,Coritiba,0-1,São Paulo,A
+1986-08-31,Remo,1-1,Ceará,A
+1986-08-31,Bangu,0-1,Fluminense,A
+1986-08-31,Sampaio Corrêa,1-2,Sport,A
+1986-08-31,Sobradinho,0-1,Internacional,A
+1986-08-31,Corinthians,3-0,Goiás,B
+1986-08-31,Joinville,2-0,Atlético Paranaense,B
+1986-08-31,Botafogo-PB,0-1,America-RJ,B
+1986-08-31,Sergipe,0-4,Ponte Preta,B
+1986-08-31,Atlético Goianiense,2-1,Piauí,C
+1986-08-31,Bahia,4-0,Rio Branco-ES,C
+1986-08-31,Guarani,1-0,Cruzeiro,C
+1986-08-31,Náutico,1-0,Vasco,C
+1986-08-31,Operário-MT,2-1,Tuna Luso,C
+1986-08-31,Atlético Mineiro,1-1,Santa Cruz,D
+1986-08-31,Comercial-MS,1-1,Botafogo,D
+1986-08-31,Fortaleza,0-0,CSA,D
+1986-08-31,Nacional-AM,1-0,Alecrim,D
+1986-08-31,Portuguesa,2-0,Vitória,D
+1986-09-02,Flamengo,4-1,Paysandu,B
+1986-09-02,Coritiba,1-0,Internacional,A
+1986-09-02,Fluminense,1-0,Operário-MS,A
+1986-09-02,Remo,0-0,Sport,A
+1986-09-02,Sampaio Corrêa,0-3,Ceará,A
+1986-09-02,Sobradinho,1-1,São Paulo,A
+1986-09-02,Grêmio,2-1,Atlético Paranaense,B
+1986-09-02,Botafogo-PB,1-4,Ponte Preta,B
+1986-09-02,Sergipe,1-0,America-RJ,B
+1986-09-02,Atlético Goianiense,1-0,Tuna Luso,C
+1986-09-02,Náutico,0-1,Rio Branco-ES,C
+1986-09-02,Operário-MT,0-0,Piauí,C
+1986-09-02,Cruzeiro,2-3,Santos,C
+1986-09-02,Fortaleza,2-0,Alecrim,D
+1986-09-04,Corinthians,1-0,Paysandu,B
+1986-09-04,Flamengo,0-0,Goiás,B
+1986-09-04,Vasco,0-1,Bahia,C
+1986-09-04,Portuguesa,1-1,Santa Cruz,D
+1986-09-04,Vitória,0-0,Atlético Mineiro,D
+1986-09-04,Nacional-AM,0-0,CSA,D
+1986-09-06,Moto Club,1-0,Sport Belém,E
+1986-09-06,Rio Negro-AM,1-1,América-RN,E
+1986-09-06,River-PI,2-2,Guarany de Sobral,E
+1986-09-06,Treze,1-0,Ferroviário,E
+1986-09-06,Catuense,0-0,Fluminense de Feira,F
+1986-09-06,Central,2-1,Desportiva Ferroviária,F
+1986-09-06,CRB,2-1,Taguatinga,F
+1986-09-06,Goytacaz,0-1,Americano,F
+1986-09-06,América Mineiro,2-2,Itumbiara,G
+1986-09-06,Inter de Limeira,2-0,Uberlândia,G
+1986-09-06,Mixto,2-1,Anápolis,G
+1986-09-06,Santo André,1-1,Juventus-SP,G
+1986-09-06,Avaí,0-1,Marcílio Dias,H
+1986-09-06,GE Brasil,0-0,Juventude,H
+1986-09-06,Criciúma,2-0,Novo Hamburgo,H
+1986-09-06,Londrina,2-0,Cascavel EC,H
+1986-09-06,Sport,1-0,Coritiba,A
+1986-09-06,Tuna Luso,3-1,Náutico,C
+1986-09-06,Botafogo,2-0,Fortaleza,D
+1986-09-07,Internacional,2-0,Fluminense,A
+1986-09-07,São Paulo,1-1,Bangu,A
+1986-09-07,Operário-MS,0-1,Sampaio Corrêa,A
+1986-09-07,Ceará,1-2,Sobradinho,A
+1986-09-07,America-RJ,0-2,Flamengo,B
+1986-09-07,Atlético Paranaense,0-0,Botafogo-PB,B
+1986-09-07,Goiás,0-0,Joinville,B
+1986-09-07,Paysandu,1-0,Grêmio,B
+1986-09-07,Ponte Preta,1-1,Corinthians,B
+1986-09-07,Cruzeiro,2-0,Atlético Goianiense,C
+1986-09-07,Piauí,1-3,Bahia,C
+1986-09-07,Rio Branco-ES,0-0,Santos,C
+1986-09-07,Vasco,0-1,Guarani,C
+1986-09-07,Alecrim,2-2,Portuguesa,D
+1986-09-07,CSA,0-2,Atlético Mineiro,D
+1986-09-07,Santa Cruz,2-1,Palmeiras,D
+1986-09-07,Vitória,2-0,Comercial-MS,D
+1986-09-10,Moto Club,1-0,América-RN,E
+1986-09-10,River-PI,1-1,Ferroviário,E
+1986-09-10,Sport Belém,0-0,Maranhão,E
+1986-09-10,Treze,1-0,Guarany de Sobral,E
+1986-09-10,Americano,3-0,Confiança,F
+1986-09-10,Catuense,4-3,Taguatinga,F
+1986-09-10,CRB,2-0,Fluminense de Feira,F
+1986-09-10,Goytacaz,1-2,Desportiva Ferroviária,F
+1986-09-10,América Mineiro,1-1,Juventus-SP,G
+1986-09-10,Anápolis,2-0,Ubiratan-MS,G
+1986-09-10,Mixto,0-0,Uberlândia,G
+1986-09-10,Santo André,0-0,Itumbiara,G
+1986-09-10,Avaí,1-1,Cascavel EC,H
+1986-09-10,GE Brasil,1-2,Novo Hamburgo,H
+1986-09-10,Juventude,1-1,Pinheiros-PR,H
+1986-09-10,Londrina,1-0,Marcílio Dias,H
+1986-09-10,Sport,1-0,Sobradinho,A
+1986-09-10,Ceará,1-0,Coritiba,A
+1986-09-10,Fluminense,0-0,Sampaio Corrêa,A
+1986-09-10,Internacional,1-1,Bangu,A
+1986-09-10,Goiás,1-1,Grêmio,B
+1986-09-10,Tuna Luso,0-3,Bahia,C
+1986-09-10,Rio Branco-ES,0-0,Guarani,C
+1986-09-10,Piauí,1-0,Náutico,C
+1986-09-10,CSA,4-0,Portuguesa,D
+1986-09-10,Alecrim,1-2,Atlético Mineiro,D
+1986-09-10,Palmeiras,2-2,Vitória,D
+1986-09-10,Botafogo,0-0,Nacional-AM,D
+1986-09-11,Operário-MS,2-1,Remo,A
+1986-09-11,Ponte Preta,0-1,Flamengo,B
+1986-09-11,America-RJ,0-0,Corinthians,B
+1986-09-11,Paysandu,1-1,Joinville,B
+1986-09-11,Atlético Paranaense,1-0,Sergipe,B
+1986-09-11,Santos,0-0,Vasco,C
+1986-09-11,Operário-MT,0-2,Cruzeiro,C
+1986-09-11,Santa Cruz,0-0,Comercial-MS,D
+1986-09-13,Fluminense,1-0,Coritiba,A
+1986-09-13,Atlético Goianiense,1-0,Guarani,C
+1986-09-13,Vitória,0-0,Botafogo,D
+1986-09-14,América-RN,0-0,Treze,E
+1986-09-14,Guarany de Sobral,0-0,Ferroviário,E
+1986-09-14,Maranhão,2-3,Moto Club,E
+1986-09-14,Rio Negro-AM,0-0,River-PI,E
+1986-09-14,Central,2-0,CRB,F
+1986-09-14,Confiança,2-1,Goytacaz,F
+1986-09-14,Desportiva Ferroviária,0-0,Catuense,F
+1986-09-14,Taguatinga,3-0,Fluminense de Feira,F
+1986-09-14,Inter de Limeira,3-1,Santo André,G
+1986-09-14,Juventus-SP,0-0,Itumbiara,G
+1986-09-14,Uberlândia,0-1,América Mineiro,G
+1986-09-14,Ubiratan-MS,4-2,Mixto,G
+1986-09-14,Criciúma,1-0,Avaí,H
+1986-09-14,Marcílio Dias,1-0,Cascavel EC,H
+1986-09-14,Novo Hamburgo,1-1,Londrina,H
+1986-09-14,Pinheiros-PR,3-1,GE Brasil,H
+1986-09-14,São Paulo,4-0,Ceará,A
+1986-09-14,Sport,0-0,Internacional,A
+1986-09-14,Sobradinho,1-0,Remo,A
+1986-09-14,Bangu,2-0,Operário-MS,A
+1986-09-14,Corinthians,6-0,Sergipe,B
+1986-09-14,Grêmio,0-0,Flamengo,B
+1986-09-14,Goiás,0-0,Atlético Paranaense,B
+1986-09-14,Botafogo-PB,3-2,Joinville,B
+1986-09-14,Ponte Preta,1-0,Paysandu,B
+1986-09-14,Bahia,3-0,Santos,C
+1986-09-14,Vasco,0-0,Cruzeiro,C
+1986-09-14,Tuna Luso,0-0,Rio Branco-ES,C
+1986-09-14,Náutico,3-1,Operário-MT,C
+1986-09-14,Atlético Mineiro,1-0,Palmeiras,D
+1986-09-14,Portuguesa,2-1,Nacional-AM,D
+1986-09-14,Fortaleza,0-1,Comercial-MS,D
+1986-09-14,Alecrim,1-0,Santa Cruz,D
+1986-09-17,Ferroviário,2-3,Maranhão,E
+1986-09-17,Guarany de Sobral,1-0,Rio Negro-AM,E
+1986-09-17,River-PI,1-2,Moto Club,E
+1986-09-17,Sport Belém,1-2,Treze,E
+1986-09-17,Americano,0-1,Catuense,F
+1986-09-17,CRB,1-2,Goytacaz,F
+1986-09-17,Fluminense de Feira,1-0,Confiança,F
+1986-09-17,Taguatinga,2-1,Central,F
+1986-09-17,Anápolis,2-0,América Mineiro,G
+1986-09-17,Itumbiara,0-0,Ubiratan-MS,G
+1986-09-17,Juventus-SP,1-0,Inter de Limeira,G
+1986-09-17,Santo André,3-2,Mixto,G
+1986-09-17,Avaí,2-0,GE Brasil,H
+1986-09-17,Cascavel EC,1-1,Pinheiros-PR,H
+1986-09-17,Juventude,1-1,Londrina,H
+1986-09-17,Marcílio Dias,1-1,Criciúma,H
+1986-09-17,Bangu,3-0,Sobradinho,A
+1986-09-17,Internacional,1-1,Ceará,A
+1986-09-17,Coritiba,0-0,Sampaio Corrêa,A
+1986-09-17,Flamengo,1-0,Sergipe,B
+1986-09-17,Paysandu,0-1,America-RJ,B
+1986-09-17,Bahia,2-1,Operário-MT,C
+1986-09-17,Atlético Goianiense,0-1,Santos,C
+1986-09-17,Rio Branco-ES,4-0,Piauí,C
+1986-09-17,Guarani,1-0,Náutico,C
+1986-09-17,Cruzeiro,3-1,Tuna Luso,C
+1986-09-17,Palmeiras,6-0,Fortaleza,D
+1986-09-17,Santa Cruz,2-0,CSA,D
+1986-09-17,Atlético Mineiro,0-0,Nacional-AM,D
+1986-09-18,Remo,1-1,Fluminense,A
+1986-09-18,Grêmio,5-2,Botafogo-PB,B
+1986-09-18,Atlético Paranaense,4-0,Ponte Preta,B
+1986-09-18,Joinville,1-0,Corinthians,B
+1986-09-18,Botafogo,2-1,Alecrim,D
+1986-09-20,Santa Cruz,1-3,Vitória,D
+1986-09-21,América-RN,1-0,Sport Belém,E
+1986-09-21,Guarany de Sobral,2-1,Maranhão,E
+1986-09-21,Moto Club,0-1,Rio Negro-AM,E
+1986-09-21,Treze,2-0,River-PI,E
+1986-09-21,Catuense,0-0,CRB,F
+1986-09-21,Desportiva Ferroviária,1-2,Americano,F
+1986-09-21,Goytacaz,1-0,Central,F
+1986-09-21,Taguatinga,3-1,Confiança,F
+1986-09-21,América Mineiro,0-1,Santo André,G
+1986-09-21,Juventus-SP,1-0,Ubiratan-MS,G
+1986-09-21,Mixto,0-2,Inter de Limeira,G
+1986-09-21,Uberlândia,1-1,Anápolis,G
+1986-09-21,GE Brasil,1-2,Criciúma,H
+1986-09-21,Londrina,0-1,Avaí,H
+1986-09-21,Marcílio Dias,1-1,Pinheiros-PR,H
+1986-09-21,Novo Hamburgo,1-0,Juventude,H
+1986-09-21,São Paulo,0-0,Internacional,A
+1986-09-21,Sobradinho,0-1,Fluminense,A
+1986-09-21,Coritiba,1-1,Remo,A
+1986-09-21,Sampaio Corrêa,0-0,Bangu,A
+1986-09-21,Sport,4-1,Operário-MS,A
+1986-09-21,America-RJ,3-1,Ponte Preta,B
+1986-09-21,Flamengo,2-3,Corinthians,B
+1986-09-21,Grêmio,5-1,Joinville,B
+1986-09-21,Paysandu,1-2,Goiás,B
+1986-09-21,Bahia,1-0,Náutico,C
+1986-09-21,Santos,0-1,Guarani,C
+1986-09-21,Rio Branco-ES,1-0,Vasco,C
+1986-09-21,CSA,2-1,Alecrim,D
+1986-09-21,Atlético Mineiro,2-1,Portuguesa,D
+1986-09-21,Nacional-AM,0-1,Fortaleza,D
+1986-09-21,Palmeiras,4-2,Comercial-MS,D
+1986-09-22,Sergipe,1-0,Botafogo-PB,B
+1986-09-24,Ferroviário,0-0,América-RN,E
+1986-09-24,Maranhão,2-0,River-PI,E
+1986-09-24,Rio Negro-AM,0-0,Treze,E
+1986-09-24,Sport Belém,1-0,Guarany de Sobral,E
+1986-09-24,Americano,1-0,Taguatinga,F
+1986-09-24,Central,1-0,Catuense,F
+1986-09-24,Confiança,0-0,CRB,F
+1986-09-24,Fluminense de Feira,1-1,Desportiva Ferroviária,F
+1986-09-24,Anápolis,0-1,Juventus-SP,G
+1986-09-24,Inter de Limeira,2-0,América Mineiro,G
+1986-09-24,Itumbiara,1-0,Uberlândia,G
+1986-09-24,Ubiratan-MS,0-0,Santo André,G
+1986-09-24,Cascavel EC,2-3,Novo Hamburgo,H
+1986-09-24,Criciúma,3-1,Londrina,H
+1986-09-24,Juventude,2-0,Marcílio Dias,H
+1986-09-24,Pinheiros-PR,1-0,Avaí,H
+1986-09-24,Ceará,0-0,Operário-MS,A
+1986-09-24,Bangu,1-0,Coritiba,A
+1986-09-24,Internacional,3-1,Remo,A
+1986-09-24,São Paulo,4-0,Sampaio Corrêa,A
+1986-09-24,America-RJ,0-0,Atlético Paranaense,B
+1986-09-24,Botafogo-PB,0-1,Corinthians,B
+1986-09-24,Joinville,1-2,Flamengo,B
+1986-09-24,Guarani,1-1,Bahia,C
+1986-09-24,Náutico,1-0,Atlético Goianiense,C
+1986-09-24,Piauí,0-3,Cruzeiro,C
+1986-09-24,Tuna Luso,0-3,Vasco,C
+1986-09-24,Alecrim,1-1,Vitória,D
+1986-09-24,CSA,1-1,Botafogo,D
+1986-09-24,Nacional-AM,2-1,Palmeiras,D
+1986-09-25,Fluminense,0-1,Sport,A
+1986-09-25,Ponte Preta,1-0,Goiás,B
+1986-09-25,Sergipe,0-0,Grêmio,B
+1986-09-25,Santos,3-0,Operário-MT,C
+1986-09-25,Fortaleza,0-1,Portuguesa,D
+1986-09-25,Comercial-MS,1-2,Atlético Mineiro,D
+1986-09-27,Bahia,1-1,Atlético Goianiense,C
+1986-09-27,Cruzeiro,0-0,Rio Branco-ES,C
+1986-09-28,América-RN,3-0,Guarany de Sobral,E
+1986-09-28,Ferroviário,3-1,Sport Belém,E
+1986-09-28,Maranhão,0-0,Rio Negro-AM,E
+1986-09-28,Treze,2-0,Moto Club,E
+1986-09-28,Catuense,2-3,Goytacaz,F
+1986-09-28,Confiança,0-1,Central,F
+1986-09-28,Desportiva Ferroviária,1-0,Taguatinga,F
+1986-09-28,Fluminense de Feira,2-2,Americano,F
+1986-09-28,América Mineiro,6-1,Mixto,G
+1986-09-28,Itumbiara,1-1,Anápolis,G
+1986-09-28,Uberlândia,0-0,Juventus-SP,G
+1986-09-28,Ubiratan-MS,1-1,Inter de Limeira,G
+1986-09-28,Cascavel EC,1-1,Juventude,H
+1986-09-28,Londrina,1-1,GE Brasil,H
+1986-09-28,Novo Hamburgo,0-2,Marcílio Dias,H
+1986-09-28,Pinheiros-PR,1-2,Criciúma,H
+1986-09-28,Fluminense,2-3,São Paulo,A
+1986-09-28,Sampaio Corrêa,0-2,Internacional,A
+1986-09-28,Remo,2-2,Bangu,A
+1986-09-28,Ceará,0-0,Sport,A
+1986-09-28,Atlético Paranaense,4-0,Paysandu,B
+1986-09-28,Goiás,3-2,America-RJ,B
+1986-09-28,Corinthians,1-2,Grêmio,B
+1986-09-28,Flamengo,2-0,Botafogo-PB,B
+1986-09-28,Guarani,2-0,Operário-MT,C
+1986-09-28,Santos,5-0,Náutico,C
+1986-09-28,Atlético Mineiro,4-0,Fortaleza,D
+1986-09-28,Portuguesa,0-0,Palmeiras,D
+1986-09-28,Vitória,0-0,CSA,D
+1986-09-29,Joinville,1-1,Sergipe,B
+1986-09-30,Palmeiras,2-0,Botafogo,D
+1986-09-30,Operário-MS,1-2,São Paulo,A
+1986-09-30,Comercial-MS,1-1,Portuguesa,D
+1986-09-30,Operário-MT,0-3,Atlético Goianiense,C
+1986-10-01,Maranhão,1-0,Treze,E
+1986-10-01,Moto Club,1-1,Ferroviário,E
+1986-10-01,Rio Negro-AM,2-0,Sport Belém,E
+1986-10-01,River-PI,0-4,América-RN,E
+1986-10-01,Central,2-0,Americano,F
+1986-10-01,Confiança,2-2,Catuense,F
+1986-10-01,CRB,1-0,Desportiva Ferroviária,F
+1986-10-01,Goytacaz,2-1,Fluminense de Feira,F
+1986-10-01,Inter de Limeira,4-0,Anápolis,G
+1986-10-01,Mixto,2-2,Itumbiara,G
+1986-10-01,Santo André,2-1,Uberlândia,G
+1986-10-01,Ubiratan-MS,0-0,América Mineiro,G
+1986-10-01,Avaí,1-0,Novo Hamburgo,H
+1986-10-01,GE Brasil,3-1,Cascavel EC,H
+1986-10-01,Criciúma,1-0,Juventude,H
+1986-10-01,Pinheiros-PR,1-2,Londrina,H
+1986-10-01,Sport,0-1,Bangu,A
+1986-10-01,Ceará,0-2,Fluminense,A
+1986-10-01,Sobradinho,2-1,Sampaio Corrêa,A
+1986-10-01,Corinthians,0-0,Atlético Paranaense,B
+1986-10-01,Grêmio,0-2,Ponte Preta,B
+1986-10-01,Joinville,4-1,America-RJ,B
+1986-10-01,Botafogo-PB,1-0,Goiás,B
+1986-10-01,Fortaleza,2-2,Vitória,D
+1986-10-01,Nacional-AM,3-1,Santa Cruz,D
+1986-10-02,Remo,0-2,São Paulo,A
+1986-10-02,Operário-MS,2-0,Coritiba,A
+1986-10-02,Atlético Goianiense,0-0,Vasco,C
+1986-10-02,Guarani,8-2,Piauí,C
+1986-10-02,Operário-MT,0-2,Rio Branco-ES,C
+1986-10-02,Santos,2-0,Tuna Luso,C
+1986-10-02,Náutico,1-0,Cruzeiro,C
+1986-10-02,Palmeiras,3-0,Alecrim,D
+1986-10-02,Portuguesa,2-1,Botafogo,D
+1986-10-02,Comercial-MS,1-0,CSA,D
+1986-10-03,Sergipe,2-1,Paysandu,B
+1986-10-05,Uberlândia,ANU,Ubiratan-MS,G
+1986-10-05,América-RN,0-1,Maranhão,E
+1986-10-05,Ferroviário,0-1,Rio Negro-AM,E
+1986-10-05,Guarany de Sobral,3-1,Moto Club,E
+1986-10-05,Sport Belém,2-2,River-PI,E
+1986-10-05,Americano,2-0,CRB,F
+1986-10-05,Desportiva Ferroviária,3-0,Confiança,F
+1986-10-05,Fluminense de Feira,2-2,Central,F
+1986-10-05,Taguatinga,2-2,Goytacaz,F
+1986-10-05,Anápolis,1-0,Santo André,G
+1986-10-05,Itumbiara,0-2,Inter de Limeira,G
+1986-10-05,Juventus-SP,3-0,Mixto,G
+1986-10-05,Cascavel EC,0-0,Criciúma,H
+1986-10-05,Juventude,2-0,Avaí,H
+1986-10-05,Marcílio Dias,2-1,GE Brasil,H
+1986-10-05,Novo Hamburgo,1-2,Pinheiros-PR,H
+1986-10-05,São Paulo,3-2,Sport,A
+1986-10-05,Bangu,0-1,Ceará,A
+1986-10-05,Internacional,3-1,Operário-MS,A
+1986-10-05,Coritiba,1-1,Sobradinho,A
+1986-10-05,Sampaio Corrêa,2-2,Remo,A
+1986-10-05,America-RJ,2-0,Grêmio,B
+1986-10-05,Atlético Paranaense,2-1,Flamengo,B
+1986-10-05,Goiás,2-0,Sergipe,B
+1986-10-05,Ponte Preta,4-1,Joinville,B
+1986-10-05,Cruzeiro,0-0,Bahia,C
+1986-10-05,Piauí,0-2,Santos,C
+1986-10-05,Rio Branco-ES,2-1,Atlético Goianiense,C
+1986-10-05,Tuna Luso,1-4,Guarani,C
+1986-10-05,Vasco,6-0,Operário-MT,C
+1986-10-05,Vitória,2-2,Nacional-AM,D
+1986-10-05,Santa Cruz,3-2,Fortaleza,D
+1986-10-05,CSA,1-0,Palmeiras,D
+1986-10-05,Botafogo,2-4,Atlético Mineiro,D
+1986-10-07,Operário-MS,2-1,Sobradinho,A
+1986-10-07,Vasco,2-0,Piauí,C
+1986-10-07,Botafogo,2-0,Santa Cruz,D
+1986-10-07,Comercial-MS,2-1,Nacional-AM,D
+1986-10-08,Botafogo-PB,2-0,Paysandu,B
+1986-10-09,Piauí,1-2,Tuna Luso,C
+1986-10-09,Alecrim,0-0,Comercial-MS,D
+1986-10-12,Ponte Preta,0-2,São Paulo,I
+1986-10-12,Santos,0-1,Treze,I
+1986-10-12,America-RJ,1-0,Bangu,I
+1986-10-12,Atlético Goianiense,0-2,Fluminense,J
+1986-10-12,Flamengo,1-1,Grêmio,J
+1986-10-12,Cruzeiro,5-1,Inter de Limeira,K
+1986-10-12,Bahia,0-0,Atlético Paranaense,K
+1986-10-12,Corinthians,1-1,Criciúma,L
+1986-10-12,Internacional,2-0,Ceará,L
+1986-10-12,Rio Branco-ES,0-1,Atlético Mineiro,L
+1986-10-15,Bangu,0-0,Ponte Preta,I
+1986-10-15,Palmeiras,4-1,Treze,I
+1986-10-15,Santos,1-0,America-RJ,I
+1986-10-15,Atlético Mineiro,2-0,Ceará,L
+1986-10-15,Nacional-AM,2-1,Rio Branco-ES,L
+1986-10-16,Flamengo,2-1,Atlético Goianiense,J
+1986-10-16,Fluminense,2-0,Central,J
+1986-10-16,Grêmio,1-1,Vitória,J
+1986-10-16,Atlético Paranaense,1-1,Cruzeiro,K
+1986-10-16,Bahia,2-0,CSA,K
+1986-10-16,Criciúma,1-1,Internacional,L
+1986-10-19,São Paulo,2-0,Santos,I
+1986-10-19,Ponte Preta,0-0,Palmeiras,I
+1986-10-19,Treze,1-0,Bangu,I
+1986-10-19,Flamengo,0-0,Fluminense,J
+1986-10-19,Central,1-0,Vitória,J
+1986-10-19,Atlético Goianiense,0-3,Guarani,J
+1986-10-19,Bahia,1-0,Sport,K
+1986-10-19,Inter de Limeira,1-0,Atlético Paranaense,K
+1986-10-19,Portuguesa,0-0,Cruzeiro,K
+1986-10-19,Internacional,2-2,Corinthians,L
+1986-10-19,Atlético Mineiro,1-0,Nacional-AM,L
+1986-10-19,Ceará,3-0,Rio Branco-ES,L
+1986-10-19,Vasco,2-0,Criciúma,L
+1986-10-22,São Paulo,2-0,Bangu,I
+1986-10-22,Treze,1-0,Ponte Preta,I
+1986-10-22,Botafogo,1-1,Joinville,I
+1986-10-22,America-RJ,1-1,Palmeiras,I
+1986-10-22,Guarani,2-1,Grêmio,J
+1986-10-22,Central,2-1,Flamengo,J
+1986-10-22,Sport,1-2,Portuguesa,K
+1986-10-22,CSA,0-0,Atlético Paranaense,K
+1986-10-22,Corinthians,4-0,Ceará,L
+1986-10-22,Criciúma,2-1,Nacional-AM,L
+1986-10-23,Fluminense,1-0,Vitória,J
+1986-10-23,Goiás,0-2,Santa Cruz,J
+1986-10-23,Inter de Limeira,1-1,Bahia,K
+1986-10-23,Cruzeiro,3-1,Comercial-MS,K
+1986-10-23,Sobradinho,1-3,Vasco,L
+1986-10-25,Santos,1-1,Ponte Preta,I
+1986-10-25,Botafogo,2-0,Treze,I
+1986-10-25,Atlético Goianiense,0-1,Grêmio,J
+1986-10-25,Vitória,2-1,Goiás,J
+1986-10-26,São Paulo,1-1,America-RJ,I
+1986-10-26,Bangu,0-1,Palmeiras,I
+1986-10-26,Santa Cruz,1-1,Fluminense,J
+1986-10-26,Grêmio,1-0,Fluminense,J
+1986-10-26,Flamengo,0-0,Guarani,J
+1986-10-26,Central,1-1,Atlético Goianiense,J
+1986-10-26,Bahia,1-0,Cruzeiro,K
+1986-10-26,Sport,3-2,Inter de Limeira,K
+1986-10-26,Portuguesa,0-0,CSA,K
+1986-10-26,Atlético Paranaense,2-1,Náutico,K
+1986-10-26,Atlético Mineiro,1-0,Internacional,L
+1986-10-26,Nacional-AM,1-3,Corinthians,L
+1986-10-26,Criciúma,0-0,Rio Branco-ES,L
+1986-10-27,Vitória,1-1,Santa Cruz,J
+1986-10-29,Palmeiras,1-0,Santos,I
+1986-10-29,Bangu,1-0,Botafogo,I
+1986-10-29,Ponte Preta,3-1,America-RJ,I
+1986-10-29,Treze,0-0,Joinville,I
+1986-10-29,Comercial-MS,1-2,Bahia,K
+1986-10-29,Portuguesa,4-0,Náutico,K
+1986-10-29,Cruzeiro,0-0,Sport,K
+1986-10-29,CSA,1-1,Inter de Limeira,K
+1986-10-29,Sobradinho,0-5,Corinthians,L
+1986-10-29,Ceará,1-2,Nacional-AM,L
+1986-10-29,Vasco,1-2,Rio Branco-ES,L
+1986-10-30,Guarani,3-0,Central,J
+1986-10-30,Atlético Mineiro,1-1,Criciúma,L
+1986-11-01,Santos,2-0,Bangu,I
+1986-11-01,Atlético Goianiense,1-0,Vitória,J
+1986-11-01,Portuguesa,2-0,Bahia,K
+1986-11-01,Náutico,3-1,Comercial-MS,K
+1986-11-02,São Paulo,0-0,Palmeiras,I
+1986-11-02,America-RJ,1-0,Treze,I
+1986-11-02,Joinville,1-0,Ponte Preta,I
+1986-11-02,Goiás,0-4,Flamengo,J
+1986-11-02,Central,2-2,Grêmio,J
+1986-11-02,Fluminense,1-2,Guarani,J
+1986-11-02,Sport,1-1,Atlético Paranaense,K
+1986-11-02,Cruzeiro,2-0,CSA,K
+1986-11-02,Corinthians,1-2,Atlético Mineiro,L
+1986-11-02,Nacional-AM,2-1,Internacional,L
+1986-11-02,Criciúma,2-0,Ceará,L
+1986-11-02,Rio Branco-ES,2-3,Sobradinho,L
+1986-11-05,Bangu,1-1,Joinville,I
+1986-11-05,Guarani,3-1,Santa Cruz,J
+1986-11-05,Goiás,1-1,Central,J
+1986-11-05,Náutico,1-1,CSA,K
+1986-11-05,Comercial-MS,1-0,Portuguesa,K
+1986-11-05,Vasco,2-1,Nacional-AM,L
+1986-11-05,Internacional,3-1,Sobradinho,L
+1986-11-06,Ponte Preta,1-0,Botafogo,I
+1986-11-08,Santa Cruz,1-1,Atlético Goianiense,J
+1986-11-09,Palmeiras,3-2,Botafogo,I
+1986-11-09,Joinville,0-0,São Paulo,I
+1986-11-09,Grêmio,0-3,Goiás,J
+1986-11-09,Vitória,0-1,Flamengo,J
+1986-11-09,Atlético Paranaense,1-1,Portuguesa,K
+1986-11-09,CSA,1-0,Sport,K
+1986-11-09,Náutico,1-1,Cruzeiro,K
+1986-11-09,Comercial-MS,0-0,Inter de Limeira,K
+1986-11-09,Rio Branco-ES,1-2,Corinthians,L
+1986-11-09,Vasco,0-0,Atlético Mineiro,L
+1986-11-09,Ceará,3-1,Sobradinho,L
+1986-11-12,Treze,1-0,São Paulo,I
+1986-11-12,America-RJ,2-1,Botafogo,I
+1986-11-12,Santa Cruz,0-0,Central,J
+1986-11-12,Inter de Limeira,1-2,Náutico,K
+1986-11-12,Comercial-MS,2-1,Sport,K
+1986-11-12,Ceará,2-2,Vasco,L
+1986-11-12,Sobradinho,0-1,Criciúma,L
+1986-11-13,Joinville,0-0,Santos,I
+1986-11-13,Goiás,1-2,Fluminense,J
+1986-11-16,Botafogo,2-3,Santos,I
+1986-11-16,Palmeiras,2-0,Joinville,I
+1986-11-16,Grêmio,0-1,Santa Cruz,J
+1986-11-16,Atlético Goianiense,1-1,Goiás,J
+1986-11-16,Vitória,0-2,Guarani,J
+1986-11-16,Sport,0-2,Náutico,K
+1986-11-16,Inter de Limeira,1-1,Portuguesa,K
+1986-11-16,Atlético Paranaense,1-0,Comercial-MS,K
+1986-11-16,Corinthians,0-0,Vasco,L
+1986-11-16,Rio Branco-ES,2-1,Internacional,L
+1986-11-16,Sobradinho,1-1,Atlético Mineiro,L
+1986-11-19,Joinville,2-0,America-RJ,I
+1986-11-19,Guarani,0-1,Goiás,J
+1986-11-19,Santa Cruz,0-1,Flamengo,J
+1986-11-19,CSA,0-0,Comercial-MS,K
+1986-11-19,Internacional,0-1,Vasco,L
+1986-11-19,Nacional-AM,1-1,Sobradinho,L
+1986-11-20,São Paulo,5-0,Botafogo,I
+1986-11-20,Náutico,0-1,Bahia,K
+1986-11-22,Flamengo,1-2,Goiás,J
+1986-11-23,Santos,0-0,São Paulo,I
+1986-11-23,America-RJ,2-1,Ponte Preta,I
+1986-11-23,Joinville,0-0,Palmeiras,I
+1986-11-23,Treze,0-1,Botafogo,I
+1986-11-23,Central,1-5,Fluminense,J
+1986-11-23,Vitória,1-0,Grêmio,J
+1986-11-23,Atlético Goianiense,3-1,Santa Cruz,J
+1986-11-23,Atlético Paranaense,3-1,Bahia,K
+1986-11-23,Comercial-MS,0-1,Náutico,K
+1986-11-23,Sport,2-1,Cruzeiro,K
+1986-11-23,CSA,1-1,Portuguesa,K
+1986-11-23,Atlético Mineiro,0-1,Corinthians,L
+1986-11-23,Nacional-AM,0-0,Ceará,L
+1986-11-23,Sobradinho,2-3,Rio Branco-ES,L
+1986-11-23,Vasco,2-3,Internacional,L
+1986-11-26,Palmeiras,1-1,America-RJ,I
+1986-11-26,Bangu,1-1,Santos,I
+1986-11-26,Joinville,3-0,Treze,I
+1986-11-26,Botafogo,0-0,Ponte Preta,I
+1986-11-26,Flamengo,5-0,Central,J
+1986-11-26,Goiás,0-0,Guarani,J
+1986-11-26,Grêmio,4-2,Atlético Goianiense,J
+1986-11-26,Santa Cruz,2-2,Vitória,J
+1986-11-26,Cruzeiro,2-0,Portuguesa,K
+1986-11-26,Inter de Limeira,2-1,Sport,K
+1986-11-26,Comercial-MS,0-3,CSA,K
+1986-11-26,Rio Branco-ES,1-1,Vasco,L
+1986-11-26,Sobradinho,0-2,Ceará,L
+1986-11-26,Criciúma,1-2,Atlético Mineiro,L
+1986-11-27,Náutico,1-0,Atlético Paranaense,K
+1986-11-27,Corinthians,1-0,Nacional-AM,L
+1986-11-29,Palmeiras,2-0,Ponte Preta,I
+1986-11-29,Santa Cruz,0-0,Grêmio,J
+1986-11-30,Santos,0-0,Botafogo,I
+1986-11-30,America-RJ,0-0,São Paulo,I
+1986-11-30,Fluminense,1-0,Flamengo,J
+1986-11-30,Goiás,2-2,Atlético Goianiense,J
+1986-11-30,Guarani,4-0,Vitória,J
+1986-11-30,Náutico,1-0,Sport,K
+1986-11-30,Portuguesa,3-2,Comercial-MS,K
+1986-11-30,Cruzeiro,1-0,Atlético Paranaense,K
+1986-11-30,Bahia,2-1,Inter de Limeira,K
+1986-11-30,Internacional,2-0,Criciúma,L
+1986-11-30,Ceará,0-0,Corinthians,L
+1986-11-30,Vasco,4-0,Sobradinho,L
+1986-11-30,Nacional-AM,2-1,Atlético Mineiro,L
+1986-11-30,Joinville,4-0,Bangu,I
+1986-12-03,Palmeiras,2-2,Bangu,I
+1986-12-03,São Paulo,4-1,Treze,I
+1986-12-03,Ponte Preta,2-0,Joinville,I
+1986-12-03,Vitória,1-0,Central,J
+1986-12-03,Santa Cruz,1-1,Guarani,J
+1986-12-03,Atlético Goianiense,0-0,Flamengo,J
+1986-12-03,Fluminense,2-0,Goiás,J
+1986-12-03,Atlético Paranaense,2-0,Sport,K
+1986-12-03,Comercial-MS,3-3,Cruzeiro,K
+1986-12-03,CSA,1-0,Bahia,K
+1986-12-03,Atlético Mineiro,1-0,Rio Branco-ES,L
+1986-12-03,Internacional,2-1,Nacional-AM,L
+1986-12-03,Criciúma,1-0,Vasco,L
+1986-12-04,America-RJ,0-0,Botafogo,I
+1986-12-04,Portuguesa,0-0,Inter de Limeira,K
+1986-12-04,Corinthians,0-0,Sobradinho,L
+1986-12-06,Fluminense,0-0,Atlético Goianiense,J
+1986-12-07,Santos,1-1,Palmeiras,I
+1986-12-07,Botafogo,0-0,São Paulo,I
+1986-12-07,America-RJ,1-1,Joinville,I
+1986-12-07,Goiás,2-1,Vitória,J
+1986-12-07,Central,1-3,Guarani,J
+1986-12-07,Grêmio,2-0,Flamengo,J
+1986-12-07,Inter de Limeira,1-0,Cruzeiro,K
+1986-12-07,Sport,3-1,CSA,K
+1986-12-07,Comercial-MS,0-0,Atlético Paranaense,K
+1986-12-07,Bahia,1-0,Náutico,K
+1986-12-07,Rio Branco-ES,3-0,Nacional-AM,L
+1986-12-07,Atlético Mineiro,1-0,Vasco,L
+1986-12-07,Corinthians,1-1,Internacional,L
+1986-12-07,Ceará,2-0,Criciúma,L
+1986-12-07,Bangu,1-0,Treze,I
+1986-12-10,Joinville,1-0,Botafogo,I
+1986-12-10,Treze,0-0,Santos,I
+1986-12-10,São Paulo,6-1,Ponte Preta,I
+1986-12-10,Bangu,1-1,America-RJ,I
+1986-12-10,Santa Cruz,1-1,Goiás,J
+1986-12-10,Atlético Goianiense,2-0,Central,J
+1986-12-10,Fluminense,1-0,Grêmio,J
+1986-12-10,Atlético Paranaense,2-2,Inter de Limeira,K
+1986-12-10,CSA,2-1,Náutico,K
+1986-12-10,Bahia,0-1,Portuguesa,K
+1986-12-10,Criciúma,1-0,Corinthians,L
+1986-12-10,Internacional,5-1,Rio Branco-ES,L
+1986-12-10,Ceará,2-0,Atlético Mineiro,L
+1986-12-10,Sobradinho,2-1,Nacional-AM,L
+1986-12-11,Guarani,0-0,Flamengo,J
+1986-12-11,Sport,1-1,Comercial-MS,K
+1986-12-13,Botafogo,0-0,Bangu,I
+1986-12-13,Ponte Preta,1-1,Treze,I
+1986-12-13,Vitória,0-0,Atlético Goianiense,J
+1986-12-14,Palmeiras,2-2,São Paulo,I
+1986-12-14,Santos,0-0,Joinville,I
+1986-12-14,Guarani,0-0,Fluminense,J
+1986-12-14,Goiás,0-0,Grêmio,J
+1986-12-14,Central,0-0,Santa Cruz,J
+1986-12-14,Atlético Paranaense,2-1,CSA,K
+1986-12-14,Cruzeiro,2-1,Bahia,K
+1986-12-14,Inter de Limeira,2-0,Comercial-MS,K
+1986-12-14,Náutico,0-2,Portuguesa,K
+1986-12-14,Vasco,1-1,Corinthians,L
+1986-12-14,Internacional,0-2,Atlético Mineiro,L
+1986-12-14,Criciúma,1-0,Sobradinho,L
+1986-12-14,Rio Branco-ES,2-0,Ceará,L
+1987-01-24,São Paulo,5-0,Joinville,I
+1987-01-24,Fluminense,2-0,Santa Cruz,J
+1987-01-25,America-RJ,1-0,Santos,I
+1987-01-25,Treze,0-2,Palmeiras,I
+1987-01-25,Ponte Preta,1-2,Bangu,I
+1987-01-25,Flamengo,2-0,Vitória,J
+1987-01-25,Grêmio,0-1,Guarani,J
+1987-01-25,Central,2-2,Goiás,J
+1987-01-25,Portuguesa,1-1,Sport,K
+1987-01-25,Náutico,0-1,Inter de Limeira,K
+1987-01-25,Bahia,3-1,Comercial-MS,K
+1987-01-25,CSA,0-1,Cruzeiro,K
+1987-01-25,Atlético Mineiro,1-1,Sobradinho,L
+1987-01-25,Ceará,1-1,Internacional,L
+1987-01-25,Nacional-AM,1-2,Vasco,L
+1987-01-25,Rio Branco-ES,1-1,Criciúma,L
+1987-01-28,Bangu,1-0,São Paulo,I
+1987-01-28,Ponte Preta,0-0,Santos,I
+1987-01-28,Treze,1-1,America-RJ,I
+1987-01-28,Guarani,2-0,Atlético Goianiense,J
+1987-01-28,Flamengo,0-1,Santa Cruz,J
+1987-01-28,Vitória,2-1,Fluminense,J
+1987-01-28,Grêmio,3-0,Central,J
+1987-01-28,Portuguesa,1-0,Atlético Paranaense,K
+1987-01-28,Cruzeiro,1-0,Náutico,K
+1987-01-28,Sport,0-1,Bahia,K
+1987-01-28,Inter de Limeira,2-0,CSA,K
+1987-01-28,Corinthians,1-0,Rio Branco-ES,L
+1987-01-28,Vasco,3-1,Ceará,L
+1987-01-28,Sobradinho,0-3,Internacional,L
+1987-01-28,Nacional-AM,0-1,Criciúma,L
+1987-01-29,Botafogo,1-0,Palmeiras,I
+1987-01-31,Vasco,0-3,Guarani,1/8
+1987-02-01,Flamengo,1-1,Atlético Mineiro,1/8
+1987-02-01,Inter de Limeira,2-1,São Paulo,1/8
+1987-02-01,Criciúma,2-1,Fluminense,1/8
+1987-02-01,America-RJ,1-0,Portuguesa,1/8
+1987-02-01,Bahia,2-0,Palmeiras,1/8
+1987-02-01,Joinville,1-1,Cruzeiro,1/8
+1987-02-01,Grêmio,0-0,Corinthians,1/8
+1987-02-04,Guarani,2-0,Vasco,1/8
+1987-02-04,Atlético Mineiro,1-0,Flamengo,1/8
+1987-02-04,São Paulo,3-0,Inter de Limeira,1/8
+1987-02-04,Fluminense,1-0,Criciúma,1/8
+1987-02-04,Portuguesa,0-0,America-RJ,1/8
+1987-02-05,Palmeiras,1-0,Bahia,1/8
+1987-02-05,Cruzeiro,1-1,Joinville,1/8
+1987-02-05,Corinthians,1-1,Grêmio,1/8
+1987-02-08,Bahia,2-2,Guarani,QF
+1987-02-08,Cruzeiro,0-0,Atlético Mineiro,QF
+1987-02-08,Fluminense,1-0,São Paulo,QF
+1987-02-08,Corinthians,0-2,America-RJ,QF
+1987-02-11,Guarani,1-0,Bahia,QF
+1987-02-11,Atlético Mineiro,1-1,Cruzeiro,QF
+1987-02-11,São Paulo,2-0,Fluminense,QF
+1987-02-11,America-RJ,1-2,Corinthians,QF
+1987-02-15,Atlético Mineiro,0-0,Guarani,SF
+1987-02-15,São Paulo,1-0,America-RJ,SF
+1987-02-18,Guarani,2-1,Atlético Mineiro,SF
+1987-02-18,America-RJ,1-1,São Paulo,SF
+1987-02-22,São Paulo,1-1,Guarani,F
+1987-02-25,Guarani,3-3,São Paulo,F

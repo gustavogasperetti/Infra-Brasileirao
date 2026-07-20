@@ -1,0 +1,584 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1979,1979-09-16,River-PI,Moto Club,2,1,V,D,NORMAL,E
+1979,1979-09-22,Goiânia,Avaí,1,1,E,E,NORMAL,A
+1979,1979-09-22,Tuna Luso,Treze,2,0,V,D,NORMAL,D
+1979,1979-09-22,Villa Nova-MG,Paysandu,2,0,V,D,NORMAL,D
+1979,1979-09-23,Confiança,Londrina,2,1,V,D,NORMAL,A
+1979,1979-09-23,Anapolina,Sergipe,2,0,V,D,NORMAL,A
+1979,1979-09-23,AA Colatina,Brasil de Pelotas,0,0,E,E,NORMAL,B
+1979,1979-09-23,Caxias,Caldense,0,1,D,V,NORMAL,B
+1979,1979-09-23,Grêmio Maringá,Desportiva Ferroviária,2,0,V,D,NORMAL,B
+1979,1979-09-23,Operário-MT,Brasília,3,0,V,D,NORMAL,C
+1979,1979-09-23,Itumbiara,CR Guará,3,1,V,D,NORMAL,C
+1979,1979-09-23,Gama,Atlético Goianiense,4,3,V,D,NORMAL,C
+1979,1979-09-23,Maranhão,Uberlândia,1,1,E,E,NORMAL,E
+1979,1979-09-23,Tiradentes-PI,Sampaio Corrêa,1,1,E,E,NORMAL,E
+1979,1979-09-23,Piauí,Moto Club,0,0,E,E,NORMAL,E
+1979,1979-09-23,ASA,Itabaiana,1,0,V,D,NORMAL,F
+1979,1979-09-23,Athletico Paranaense,Internacional,0,0,E,E,NORMAL,G
+1979,1979-09-23,Grêmio,Coritiba,4,1,V,D,NORMAL,G
+1979,1979-09-23,Operário-MS,Rio Branco-ES,4,0,V,D,NORMAL,G
+1979,1979-09-23,Remo,Dom Bosco,1,2,D,V,NORMAL,H
+1979,1979-09-23,Vila Nova,Cruzeiro,0,1,D,V,NORMAL,H
+1979,1979-09-23,Atlético Mineiro,Goiás,0,0,E,E,NORMAL,H
+1979,1979-09-25,Anapolina,Avaí,2,1,V,D,NORMAL,A
+1979,1979-09-25,Joinville,Juventude,2,1,V,D,NORMAL,A
+1979,1979-09-25,América Mineiro,Paysandu,2,0,V,D,NORMAL,D
+1979,1979-09-25,Tuna Luso,Botafogo-PB,2,2,E,E,NORMAL,D
+1979,1979-09-25,Villa Nova-MG,Treze,1,0,V,D,NORMAL,D
+1979,1979-09-25,Potiguar,CSA,0,0,E,E,NORMAL,F
+1979,1979-09-25,ABC,CRB,4,2,V,D,NORMAL,F
+1979,1979-09-25,Fortaleza,Ferroviário,0,0,E,E,NORMAL,F
+1979,1979-09-26,Goiânia,Sergipe,1,1,E,E,NORMAL,A
+1979,1979-09-26,São Paulo-RS,Desportiva Ferroviária,1,2,D,V,NORMAL,B
+1979,1979-09-26,Grêmio Maringá,Caldense,3,2,V,D,NORMAL,B
+1979,1979-09-26,Operário Ferroviário,Brasil de Pelotas,1,1,E,E,NORMAL,B
+1979,1979-09-26,Mixto,CR Guará,3,0,V,D,NORMAL,C
+1979,1979-09-26,Atlético Goianiense,Comercial-MS,4,1,V,D,NORMAL,C
+1979,1979-09-26,Piauí,Uberlândia,0,0,E,E,NORMAL,E
+1979,1979-09-26,Grêmio,Sport,4,0,V,D,NORMAL,G
+1979,1979-09-26,Athletico Paranaense,Operário-MS,0,2,D,V,NORMAL,G
+1979,1979-09-26,Santa Cruz,Internacional,1,2,D,V,NORMAL,G
+1979,1979-09-27,Náutico,Uberaba,0,1,D,V,NORMAL,E
+1979,1979-09-27,Central,Tiradentes-PI,1,1,E,E,NORMAL,E
+1979,1979-09-27,Maranhão,Sampaio Corrêa,3,0,V,D,NORMAL,E
+1979,1979-09-27,Dom Bosco,Goiás,0,1,D,V,NORMAL,H
+1979,1979-09-28,Grêmio Maringá,Caxias,0,0,E,E,NORMAL,B
+1979,1979-09-29,Desportiva Ferroviária,Chapecoense,0,0,E,E,NORMAL,B
+1979,1979-09-30,Joinville,Novo Hamburgo,3,0,V,D,NORMAL,A
+1979,1979-09-30,Colorado,Confiança,1,1,E,E,NORMAL,A
+1979,1979-09-30,Avaí,Londrina,1,1,E,E,NORMAL,A
+1979,1979-09-30,Juventude,Anapolina,2,0,V,D,NORMAL,A
+1979,1979-09-30,Criciúma,Operário Ferroviário,4,0,V,D,NORMAL,B
+1979,1979-09-30,Brasil de Pelotas,Grêmio Maringá,0,0,E,E,NORMAL,B
+1979,1979-09-30,AA Colatina,São Paulo-RS,0,1,D,V,NORMAL,B
+1979,1979-09-30,Mixto,Itumbiara,1,0,V,D,NORMAL,C
+1979,1979-09-30,Comercial-MS,Operário-MT,0,1,D,V,NORMAL,C
+1979,1979-09-30,Brasília,CR Guará,1,0,V,D,NORMAL,C
+1979,1979-09-30,Campinense,Rio Negro-AM,2,0,V,D,NORMAL,D
+1979,1979-09-30,Campo Grande-RJ,América Mineiro,1,0,V,D,NORMAL,D
+1979,1979-09-30,Botafogo-PB,Fast Clube,3,0,V,D,NORMAL,D
+1979,1979-09-30,River-PI,Uberaba,1,2,D,V,NORMAL,E
+1979,1979-09-30,Uberlândia,Náutico,0,1,D,V,NORMAL,E
+1979,1979-09-30,Potiguar,Ferroviário,1,2,D,V,NORMAL,F
+1979,1979-09-30,América-RN,ASA,2,0,V,D,NORMAL,F
+1979,1979-09-30,ABC,Fortaleza,1,0,V,D,NORMAL,F
+1979,1979-09-30,Itabaiana,CRB,2,0,V,D,NORMAL,F
+1979,1979-09-30,Internacional,Figueirense,1,0,V,D,NORMAL,G
+1979,1979-09-30,Santa Cruz,Coritiba,0,0,E,E,NORMAL,G
+1979,1979-09-30,Rio Branco-ES,Grêmio,0,0,E,E,NORMAL,G
+1979,1979-09-30,Cruzeiro,Dom Bosco,1,1,E,E,NORMAL,H
+1979,1979-09-30,Vila Nova,Remo,2,1,V,D,NORMAL,H
+1979,1979-09-30,Nacional-AM,Atlético Mineiro,0,0,E,E,NORMAL,H
+1979,1979-10-03,Londrina,Anapolina,1,0,V,D,NORMAL,A
+1979,1979-10-03,Criciúma,Caldense,2,0,V,D,NORMAL,B
+1979,1979-10-03,AA Colatina,Chapecoense,1,1,E,E,NORMAL,B
+1979,1979-10-03,São Paulo-RS,Grêmio Maringá,1,1,E,E,NORMAL,B
+1979,1979-10-03,Caxias,Operário Ferroviário,3,0,V,D,NORMAL,B
+1979,1979-10-03,Brasília,Comercial-MS,2,2,E,E,NORMAL,C
+1979,1979-10-03,Gama,Itabuna,1,0,V,D,NORMAL,C
+1979,1979-10-03,Atlético Goianiense,Operário-MT,2,2,E,E,NORMAL,C
+1979,1979-10-03,Fluminense de Feira,CR Guará,1,1,E,E,NORMAL,C
+1979,1979-10-03,América Mineiro,Rio Negro-AM,3,2,V,D,NORMAL,D
+1979,1979-10-03,Campo Grande-RJ,Paysandu,2,1,V,D,NORMAL,D
+1979,1979-10-03,Moto Club,Tiradentes-PI,1,0,V,D,NORMAL,E
+1979,1979-10-03,ASA,CRB,1,1,E,E,NORMAL,F
+1979,1979-10-03,Itabaiana,Fortaleza,3,1,V,D,NORMAL,F
+1979,1979-10-03,Potiguar,ABC,1,1,E,E,NORMAL,F
+1979,1979-10-03,América-RN,CSA,2,1,V,D,NORMAL,F
+1979,1979-10-03,Sport,Figueirense,2,2,E,E,NORMAL,G
+1979,1979-10-03,Operário-MS,Grêmio,0,3,D,V,NORMAL,G
+1979,1979-10-03,Rio Branco-ES,Athletico Paranaense,1,1,E,E,NORMAL,G
+1979,1979-10-03,Nacional-AM,Vitória,0,0,E,E,NORMAL,H
+1979,1979-10-03,Ceará,Remo,4,1,V,D,NORMAL,H
+1979,1979-10-03,Bahia,Dom Bosco,2,1,V,D,NORMAL,H
+1979,1979-10-04,Colorado,Joinville,1,0,V,D,NORMAL,A
+1979,1979-10-04,Fast Clube,Villa Nova-MG,0,1,D,V,NORMAL,D
+1979,1979-10-04,Uberaba,Central,2,1,V,D,NORMAL,E
+1979,1979-10-04,Sampaio Corrêa,Piauí,4,2,V,D,NORMAL,E
+1979,1979-10-04,Atlético Mineiro,Vila Nova,0,0,E,E,NORMAL,H
+1979,1979-10-04,Goiás,Cruzeiro,3,1,V,D,NORMAL,H
+1979,1979-10-06,Juventude,Colorado,0,0,E,E,NORMAL,A
+1979,1979-10-06,Confiança,Goiânia,0,1,D,V,NORMAL,A
+1979,1979-10-06,Joinville,Londrina,0,0,E,E,NORMAL,A
+1979,1979-10-06,Sergipe,Novo Hamburgo,0,0,E,E,NORMAL,A
+1979,1979-10-06,Desportiva Ferroviária,Operário Ferroviário,2,0,V,D,NORMAL,B
+1979,1979-10-06,Caldense,São Paulo-RS,1,0,V,D,NORMAL,B
+1979,1979-10-06,Criciúma,Caxias,0,0,E,E,NORMAL,B
+1979,1979-10-06,Itabuna,Mixto,0,1,D,V,NORMAL,C
+1979,1979-10-06,CR Guará,Atlético Goianiense,0,3,D,V,NORMAL,C
+1979,1979-10-06,Itumbiara,Gama,1,0,V,D,NORMAL,C
+1979,1979-10-06,Comercial-MS,Fluminense de Feira,2,0,V,D,NORMAL,C
+1979,1979-10-06,Campo Grande-RJ,Tuna Luso,3,0,V,D,NORMAL,D
+1979,1979-10-06,Botafogo-PB,Treze,0,1,D,V,NORMAL,D
+1979,1979-10-06,Campinense,Fast Clube,3,0,V,D,NORMAL,D
+1979,1979-10-06,Rio Negro-AM,Villa Nova-MG,0,1,D,V,NORMAL,D
+1979,1979-10-06,Maranhão,Moto Club,3,0,V,D,NORMAL,E
+1979,1979-10-06,Uberaba,Uberlândia,3,1,V,D,NORMAL,E
+1979,1979-10-06,Sampaio Corrêa,River-PI,0,0,E,E,NORMAL,E
+1979,1979-10-06,Tiradentes-PI,Piauí,2,2,E,E,NORMAL,E
+1979,1979-10-06,Náutico,Central,1,1,E,E,NORMAL,E
+1979,1979-10-06,CSA,ASA,2,1,V,D,NORMAL,F
+1979,1979-10-06,Fortaleza,Potiguar,0,1,D,V,NORMAL,F
+1979,1979-10-06,CRB,Leônico,1,0,V,D,NORMAL,F
+1979,1979-10-06,Ferroviário,Itabaiana,1,1,E,E,NORMAL,F
+1979,1979-10-06,ABC,América-RN,1,0,V,D,NORMAL,F
+1979,1979-10-06,Rio Branco-ES,Sport,2,0,V,D,NORMAL,G
+1979,1979-10-06,Coritiba,Athletico Paranaense,1,1,E,E,NORMAL,G
+1979,1979-10-06,America-RJ,Operário-MS,3,0,V,D,NORMAL,G
+1979,1979-10-06,Internacional,Grêmio,1,0,V,D,NORMAL,G
+1979,1979-10-06,Bahia,Vitória,1,2,D,V,NORMAL,H
+1979,1979-10-06,Remo,Nacional-AM,3,0,V,D,NORMAL,H
+1979,1979-10-06,Vila Nova,Goiás,2,1,V,D,NORMAL,H
+1979,1979-10-06,Dom Bosco,Ceará,2,5,D,V,NORMAL,H
+1979,1979-10-07,Cruzeiro,Atlético Mineiro,1,1,E,E,NORMAL,H
+1979,1979-10-10,Londrina,Novo Hamburgo,1,0,V,D,NORMAL,A
+1979,1979-10-10,Avaí,Colorado,0,1,D,V,NORMAL,A
+1979,1979-10-10,Grêmio Maringá,AA Colatina,2,0,V,D,NORMAL,B
+1979,1979-10-10,Caxias,Brasil de Pelotas,0,0,E,E,NORMAL,B
+1979,1979-10-10,Chapecoense,São Paulo-RS,1,2,D,V,NORMAL,B
+1979,1979-10-10,Operário-MT,Fluminense de Feira,1,0,V,D,NORMAL,C
+1979,1979-10-10,Botafogo-PB,Campinense,2,0,V,D,NORMAL,D
+1979,1979-10-10,Fast Clube,América Mineiro,1,3,D,V,NORMAL,D
+1979,1979-10-10,Náutico,Sampaio Corrêa,2,0,V,D,NORMAL,E
+1979,1979-10-10,Central,River-PI,1,0,V,D,NORMAL,E
+1979,1979-10-10,CSA,Leônico,2,1,V,D,NORMAL,F
+1979,1979-10-10,America-RJ,Rio Branco-ES,3,1,V,D,NORMAL,G
+1979,1979-10-10,Vitória,Vila Nova,0,0,E,E,NORMAL,H
+1979,1979-10-10,Cruzeiro,Remo,3,0,V,D,NORMAL,H
+1979,1979-10-10,Ceará,Bahia,3,1,V,D,NORMAL,H
+1979,1979-10-11,Anapolina,Joinville,1,0,V,D,NORMAL,A
+1979,1979-10-11,Goiânia,Juventude,2,1,V,D,NORMAL,A
+1979,1979-10-11,Gama,Mixto,2,1,V,D,NORMAL,C
+1979,1979-10-11,Itumbiara,Itabuna,1,1,E,E,NORMAL,C
+1979,1979-10-11,Uberlândia,Moto Club,2,0,V,D,NORMAL,E
+1979,1979-10-11,Sport,Internacional,0,3,D,V,NORMAL,G
+1979,1979-10-11,Goiás,Nacional-AM,2,0,V,D,NORMAL,H
+1979,1979-10-13,Paysandu,Tuna Luso,1,0,V,D,NORMAL,D
+1979,1979-10-13,Rio Negro-AM,Campo Grande-RJ,0,0,E,E,NORMAL,D
+1979,1979-10-13,Campinense,Treze,1,0,V,D,NORMAL,D
+1979,1979-10-13,Athletico Paranaense,Santa Cruz,0,1,D,V,NORMAL,G
+1979,1979-10-13,Coritiba,Internacional,0,3,D,V,NORMAL,G
+1979,1979-10-14,Novo Hamburgo,Anapolina,1,0,V,D,NORMAL,A
+1979,1979-10-14,Juventude,Confiança,2,1,V,D,NORMAL,A
+1979,1979-10-14,Londrina,Sergipe,2,2,E,E,NORMAL,A
+1979,1979-10-14,Caldense,Chapecoense,2,0,V,D,NORMAL,B
+1979,1979-10-14,Operário Ferroviário,AA Colatina,1,0,V,D,NORMAL,B
+1979,1979-10-14,Brasil de Pelotas,Criciúma,3,0,V,D,NORMAL,B
+1979,1979-10-14,Gama,CR Guará,2,0,V,D,NORMAL,C
+1979,1979-10-14,Mixto,Operário-MT,4,3,V,D,NORMAL,C
+1979,1979-10-14,Fluminense de Feira,Atlético Goianiense,1,0,V,D,NORMAL,C
+1979,1979-10-14,Itabuna,Comercial-MS,1,1,E,E,NORMAL,C
+1979,1979-10-14,Itumbiara,Brasília,2,1,V,D,NORMAL,C
+1979,1979-10-14,Central,Maranhão,2,2,E,E,NORMAL,E
+1979,1979-10-14,Uberaba,Piauí,3,0,V,D,NORMAL,E
+1979,1979-10-14,Uberlândia,River-PI,2,1,V,D,NORMAL,E
+1979,1979-10-14,Tiradentes-PI,Náutico,0,1,D,V,NORMAL,E
+1979,1979-10-14,ASA,Ferroviário,0,2,D,V,NORMAL,F
+1979,1979-10-14,CSA,CRB,1,0,V,D,NORMAL,F
+1979,1979-10-14,Potiguar,América-RN,1,0,V,D,NORMAL,F
+1979,1979-10-14,ABC,Itabaiana,1,1,E,E,NORMAL,F
+1979,1979-10-14,Fortaleza,Leônico,3,1,V,D,NORMAL,F
+1979,1979-10-14,Figueirense,Operário-MS,0,0,E,E,NORMAL,G
+1979,1979-10-14,Grêmio,America-RJ,1,3,D,V,NORMAL,G
+1979,1979-10-14,Nacional-AM,Bahia,1,0,V,D,NORMAL,H
+1979,1979-10-14,Atlético Mineiro,Ceará,3,1,V,D,NORMAL,H
+1979,1979-10-14,Vitória,Cruzeiro,2,4,D,V,NORMAL,H
+1979,1979-10-14,Vila Nova,Dom Bosco,1,1,E,E,NORMAL,H
+1979,1979-10-17,Juventude,Sergipe,2,0,V,D,NORMAL,A
+1979,1979-10-17,Novo Hamburgo,Colorado,0,0,E,E,NORMAL,A
+1979,1979-10-17,Joinville,Goiânia,0,0,E,E,NORMAL,A
+1979,1979-10-17,Avaí,Confiança,1,1,E,E,NORMAL,A
+1979,1979-10-17,Brasil de Pelotas,Caldense,2,0,V,D,NORMAL,B
+1979,1979-10-17,Desportiva Ferroviária,Criciúma,1,0,V,D,NORMAL,B
+1979,1979-10-17,AA Colatina,Caxias,0,1,D,V,NORMAL,B
+1979,1979-10-17,Chapecoense,Grêmio Maringá,2,3,D,V,NORMAL,B
+1979,1979-10-17,Itabuna,Atlético Goianiense,1,0,V,D,NORMAL,C
+1979,1979-10-17,Comercial-MS,Mixto,2,0,V,D,NORMAL,C
+1979,1979-10-17,Operário-MT,Gama,0,0,E,E,NORMAL,C
+1979,1979-10-17,Fluminense de Feira,Itumbiara,1,0,V,D,NORMAL,C
+1979,1979-10-17,Treze,Rio Negro-AM,3,1,V,D,NORMAL,D
+1979,1979-10-17,Villa Nova-MG,América Mineiro,0,0,E,E,NORMAL,D
+1979,1979-10-17,Campo Grande-RJ,Campinense,1,0,V,D,NORMAL,D
+1979,1979-10-17,Paysandu,Botafogo-PB,4,2,V,D,NORMAL,D
+1979,1979-10-17,Fast Clube,Tuna Luso,3,2,V,D,NORMAL,D
+1979,1979-10-17,Central,Sampaio Corrêa,2,0,V,D,NORMAL,E
+1979,1979-10-17,Náutico,Piauí,2,2,E,E,NORMAL,E
+1979,1979-10-17,Moto Club,Uberaba,2,0,V,D,NORMAL,E
+1979,1979-10-17,CRB,América-RN,1,0,V,D,NORMAL,F
+1979,1979-10-17,ASA,Fortaleza,2,0,V,D,NORMAL,F
+1979,1979-10-17,Itabaiana,Potiguar,0,0,E,E,NORMAL,F
+1979,1979-10-17,Leônico,ABC,1,0,V,D,NORMAL,F
+1979,1979-10-17,Ferroviário,CSA,1,1,E,E,NORMAL,F
+1979,1979-10-17,Grêmio,Santa Cruz,1,0,V,D,NORMAL,G
+1979,1979-10-17,America-RJ,Figueirense,1,0,V,D,NORMAL,G
+1979,1979-10-17,Operário-MS,Coritiba,2,0,V,D,NORMAL,G
+1979,1979-10-17,Bahia,Goiás,1,0,V,D,NORMAL,H
+1979,1979-10-17,Ceará,Vila Nova,2,4,D,V,NORMAL,H
+1979,1979-10-17,Remo,Atlético Mineiro,2,2,E,E,NORMAL,H
+1979,1979-10-17,Cruzeiro,Nacional-AM,4,1,V,D,NORMAL,H
+1979,1979-10-18,Sport,Athletico Paranaense,2,2,E,E,NORMAL,G
+1979,1979-10-20,Novo Hamburgo,Goiânia,1,0,V,D,NORMAL,A
+1979,1979-10-20,Juventude,Avaí,2,2,E,E,NORMAL,A
+1979,1979-10-20,Criciúma,AA Colatina,0,1,D,V,NORMAL,B
+1979,1979-10-20,Brasil de Pelotas,Desportiva Ferroviária,1,1,E,E,NORMAL,B
+1979,1979-10-20,São Paulo-RS,Caxias,2,1,V,D,NORMAL,B
+1979,1979-10-20,Brasília,Mixto,2,1,V,D,NORMAL,C
+1979,1979-10-20,Comercial-MS,Gama,3,1,V,D,NORMAL,C
+1979,1979-10-20,Atlético Goianiense,Itumbiara,3,2,V,D,NORMAL,C
+1979,1979-10-20,América Mineiro,Botafogo-PB,3,0,V,D,NORMAL,D
+1979,1979-10-20,Fast Clube,Paysandu,1,1,E,E,NORMAL,D
+1979,1979-10-20,Villa Nova-MG,Campinense,0,0,E,E,NORMAL,D
+1979,1979-10-20,Rio Negro-AM,Tuna Luso,1,4,D,V,NORMAL,D
+1979,1979-10-20,Tiradentes-PI,River-PI,3,1,V,D,NORMAL,E
+1979,1979-10-20,Piauí,Central,0,2,D,V,NORMAL,E
+1979,1979-10-20,Itabaiana,América-RN,1,0,V,D,NORMAL,F
+1979,1979-10-20,ABC,ASA,1,2,D,V,NORMAL,F
+1979,1979-10-20,Ferroviário,CRB,0,0,E,E,NORMAL,F
+1979,1979-10-20,Leônico,Potiguar,2,0,V,D,NORMAL,F
+1979,1979-10-20,Coritiba,Rio Branco-ES,1,1,E,E,NORMAL,G
+1979,1979-10-20,Santa Cruz,Sport,0,1,D,V,NORMAL,G
+1979,1979-10-20,Internacional,America-RJ,1,1,E,E,NORMAL,G
+1979,1979-10-20,Ceará,Goiás,0,2,D,V,NORMAL,H
+1979,1979-10-20,Bahia,Atlético Mineiro,0,1,D,V,NORMAL,H
+1979,1979-10-20,Dom Bosco,Nacional-AM,2,1,V,D,NORMAL,H
+1979,1979-10-21,Confiança,Sergipe,0,2,D,V,NORMAL,A
+1979,1979-10-21,Colorado,Londrina,1,2,D,V,NORMAL,A
+1979,1979-10-21,Operário Ferroviário,Chapecoense,1,0,V,D,NORMAL,B
+1979,1979-10-21,Operário-MT,Itabuna,1,4,D,V,NORMAL,C
+1979,1979-10-21,Treze,Campo Grande-RJ,2,0,V,D,NORMAL,D
+1979,1979-10-21,Uberaba,Maranhão,0,1,D,V,NORMAL,E
+1979,1979-10-21,CSA,Fortaleza,3,0,V,D,NORMAL,F
+1979,1979-10-21,Figueirense,Grêmio,2,1,V,D,NORMAL,G
+1979,1979-10-21,Remo,Vitória,1,1,E,E,NORMAL,H
+1979,1979-10-23,Colorado,Anapolina,3,2,V,D,NORMAL,A
+1979,1979-10-23,Criciúma,São Paulo-RS,2,1,V,D,NORMAL,B
+1979,1979-10-23,Operário Ferroviário,Grêmio Maringá,0,2,D,V,NORMAL,B
+1979,1979-10-23,Desportiva Ferroviária,Caldense,2,0,V,D,NORMAL,B
+1979,1979-10-23,Atlético Goianiense,Brasília,2,1,V,D,NORMAL,C
+1979,1979-10-23,Rio Negro-AM,Fast Clube,1,3,D,V,NORMAL,D
+1979,1979-10-23,Tuna Luso,Villa Nova-MG,0,1,D,V,NORMAL,D
+1979,1979-10-23,Botafogo-PB,Campo Grande-RJ,2,0,V,D,NORMAL,D
+1979,1979-10-23,Náutico,Maranhão,2,3,D,V,NORMAL,E
+1979,1979-10-23,Moto Club,Central,2,1,V,D,NORMAL,E
+1979,1979-10-23,Uberlândia,Tiradentes-PI,4,0,V,D,NORMAL,E
+1979,1979-10-23,Leônico,América-RN,4,0,V,D,NORMAL,F
+1979,1979-10-23,Rio Branco-ES,Figueirense,1,1,E,E,NORMAL,G
+1979,1979-10-23,Vitória,Ceará,4,1,V,D,NORMAL,H
+1979,1979-10-25,Confiança,Novo Hamburgo,1,0,V,D,NORMAL,A
+1979,1979-10-25,Avaí,Sergipe,0,2,D,V,NORMAL,A
+1979,1979-10-25,Caxias,Chapecoense,5,1,V,D,NORMAL,B
+1979,1979-10-25,Itumbiara,Operário-MT,1,0,V,D,NORMAL,C
+1979,1979-10-25,Itabuna,CR Guará,0,0,E,E,NORMAL,C
+1979,1979-10-25,Mixto,Fluminense de Feira,1,1,E,E,NORMAL,C
+1979,1979-10-25,Paysandu,Treze,2,2,E,E,NORMAL,D
+1979,1979-10-25,Campinense,América Mineiro,0,1,D,V,NORMAL,D
+1979,1979-10-25,Santa Cruz,America-RJ,1,0,V,D,NORMAL,G
+1979,1979-10-25,Athletico Paranaense,Grêmio,1,0,V,D,NORMAL,G
+1979,1979-10-25,Operário-MS,Sport,1,0,V,D,NORMAL,G
+1979,1979-10-25,Cruzeiro,Bahia,5,0,V,D,NORMAL,H
+1979,1979-10-27,Tuna Luso,América Mineiro,2,1,V,D,NORMAL,D
+1979,1979-10-27,Maranhão,River-PI,1,0,V,D,NORMAL,E
+1979,1979-10-27,Nacional-AM,Ceará,1,1,E,E,NORMAL,H
+1979,1979-10-28,Novo Hamburgo,Juventude,1,1,E,E,NORMAL,A
+1979,1979-10-28,Anapolina,Goiânia,2,1,V,D,NORMAL,A
+1979,1979-10-28,Sergipe,Colorado,1,1,E,E,NORMAL,A
+1979,1979-10-28,Joinville,Avaí,3,2,V,D,NORMAL,A
+1979,1979-10-28,AA Colatina,Desportiva Ferroviária,0,0,E,E,NORMAL,B
+1979,1979-10-28,São Paulo-RS,Brasil de Pelotas,1,1,E,E,NORMAL,B
+1979,1979-10-28,Caldense,Operário Ferroviário,1,0,V,D,NORMAL,B
+1979,1979-10-28,Chapecoense,Criciúma,0,1,D,V,NORMAL,B
+1979,1979-10-28,Brasília,Gama,1,4,D,V,NORMAL,C
+1979,1979-10-28,Itabuna,Fluminense de Feira,1,0,V,D,NORMAL,C
+1979,1979-10-28,Treze,Fast Clube,6,1,V,D,NORMAL,D
+1979,1979-10-28,Rio Negro-AM,Botafogo-PB,0,0,E,E,NORMAL,D
+1979,1979-10-28,Uberaba,Tiradentes-PI,2,0,V,D,NORMAL,E
+1979,1979-10-28,Sampaio Corrêa,Moto Club,1,0,V,D,NORMAL,E
+1979,1979-10-28,Central,Uberlândia,2,0,V,D,NORMAL,E
+1979,1979-10-28,CRB,Potiguar,3,0,V,D,NORMAL,F
+1979,1979-10-28,ASA,Leônico,2,1,V,D,NORMAL,F
+1979,1979-10-28,Ferroviário,ABC,0,3,D,V,NORMAL,F
+1979,1979-10-28,Coritiba,Figueirense,1,0,V,D,NORMAL,G
+1979,1979-10-28,Sport,America-RJ,0,2,D,V,NORMAL,G
+1979,1979-10-28,Internacional,Rio Branco-ES,5,1,V,D,NORMAL,G
+1979,1979-10-28,Operário-MS,Santa Cruz,0,5,D,V,NORMAL,G
+1979,1979-10-28,Atlético Mineiro,Vitória,1,1,E,E,NORMAL,H
+1979,1979-10-28,Vila Nova,Bahia,0,0,E,E,NORMAL,H
+1979,1979-10-30,River-PI,Náutico,3,1,V,D,NORMAL,E
+1979,1979-10-30,Maranhão,Piauí,1,1,E,E,NORMAL,E
+1979,1979-10-30,Itabaiana,CSA,2,1,V,D,NORMAL,F
+1979,1979-10-30,Fortaleza,América-RN,3,1,V,D,NORMAL,F
+1979,1979-10-30,Coritiba,Sport,2,0,V,D,NORMAL,G
+1979,1979-10-30,Figueirense,Santa Cruz,1,1,E,E,NORMAL,G
+1979,1979-10-30,Remo,Goiás,1,0,V,D,NORMAL,H
+1979,1979-11-01,Goiânia,Londrina,0,1,D,V,NORMAL,A
+1979,1979-11-01,Confiança,Joinville,1,3,D,V,NORMAL,A
+1979,1979-11-01,Fluminense de Feira,Brasília,1,0,V,D,NORMAL,C
+1979,1979-11-01,Paysandu,Campinense,0,1,D,V,NORMAL,D
+1979,1979-11-01,Villa Nova-MG,Campo Grande-RJ,1,2,D,V,NORMAL,D
+1979,1979-11-01,Uberlândia,Sampaio Corrêa,4,1,V,D,NORMAL,E
+1979,1979-11-01,Leônico,Ferroviário,1,0,V,D,NORMAL,F
+1979,1979-11-01,America-RJ,Athletico Paranaense,1,3,D,V,NORMAL,G
+1979,1979-11-01,Vitória,Dom Bosco,0,2,D,V,NORMAL,H
+1979,1979-11-03,Londrina,Juventude,1,1,E,E,NORMAL,A
+1979,1979-11-03,Sergipe,Joinville,2,1,V,D,NORMAL,A
+1979,1979-11-03,Colorado,Goiânia,2,0,V,D,NORMAL,A
+1979,1979-11-03,Anapolina,Confiança,4,0,V,D,NORMAL,A
+1979,1979-11-03,Novo Hamburgo,Avaí,1,1,E,E,NORMAL,A
+1979,1979-11-03,Grêmio Maringá,Criciúma,2,0,V,D,NORMAL,B
+1979,1979-11-03,Chapecoense,Brasil de Pelotas,1,1,E,E,NORMAL,B
+1979,1979-11-03,Desportiva Ferroviária,Caxias,2,1,V,D,NORMAL,B
+1979,1979-11-03,Caldense,AA Colatina,3,0,V,D,NORMAL,B
+1979,1979-11-03,São Paulo-RS,Operário Ferroviário,,,,,WO,B
+1979,1979-11-03,Brasília,Itabuna,3,2,V,D,NORMAL,C
+1979,1979-11-03,Mixto,Atlético Goianiense,2,0,V,D,NORMAL,C
+1979,1979-11-03,Fluminense de Feira,Gama,0,0,E,E,NORMAL,C
+1979,1979-11-03,Comercial-MS,Itumbiara,3,1,V,D,NORMAL,C
+1979,1979-11-03,CR Guará,Operário-MT,0,1,D,V,NORMAL,C
+1979,1979-11-03,Botafogo-PB,Villa Nova-MG,4,2,V,D,NORMAL,D
+1979,1979-11-03,Campinense,Tuna Luso,1,0,V,D,NORMAL,D
+1979,1979-11-03,Campo Grande-RJ,Fast Clube,0,0,E,E,NORMAL,D
+1979,1979-11-03,América Mineiro,Treze,2,1,V,D,NORMAL,D
+1979,1979-11-03,Paysandu,Rio Negro-AM,1,2,D,V,NORMAL,D
+1979,1979-11-03,Náutico,Moto Club,1,0,V,D,NORMAL,E
+1979,1979-11-03,Tiradentes-PI,Maranhão,0,3,D,V,NORMAL,E
+1979,1979-11-03,River-PI,Piauí,1,1,E,E,NORMAL,E
+1979,1979-11-03,Sampaio Corrêa,Uberaba,0,2,D,V,NORMAL,E
+1979,1979-11-03,Fortaleza,CRB,0,0,E,E,NORMAL,F
+1979,1979-11-03,Leônico,Itabaiana,1,0,V,D,NORMAL,F
+1979,1979-11-03,América-RN,Ferroviário,0,0,E,E,NORMAL,F
+1979,1979-11-03,Potiguar,ASA,1,2,D,V,NORMAL,F
+1979,1979-11-03,CSA,ABC,3,1,V,D,NORMAL,F
+1979,1979-11-03,America-RJ,Coritiba,3,0,V,D,NORMAL,G
+1979,1979-11-03,Santa Cruz,Rio Branco-ES,3,3,E,E,NORMAL,G
+1979,1979-11-03,Figueirense,Athletico Paranaense,1,0,V,D,NORMAL,G
+1979,1979-11-03,Internacional,Operário-MS,2,2,E,E,NORMAL,G
+1979,1979-11-03,Bahia,Remo,1,0,V,D,NORMAL,H
+1979,1979-11-03,Nacional-AM,Vila Nova,2,4,D,V,NORMAL,H
+1979,1979-11-03,Dom Bosco,Atlético Mineiro,1,1,E,E,NORMAL,H
+1979,1979-11-03,Ceará,Cruzeiro,1,1,E,E,NORMAL,H
+1979,1979-11-03,Goiás,Vitória,1,0,V,D,NORMAL,H
+1979,1979-11-07,Colorado,America-RJ,2,1,V,D,NORMAL,I
+1979,1979-11-07,Brasil de Pelotas,Coritiba,0,1,D,V,NORMAL,I
+1979,1979-11-07,Botafogo,São Bento,6,1,V,D,NORMAL,J
+1979,1979-11-07,Internacional,Goytacaz,1,0,V,D,NORMAL,K
+1979,1979-11-07,São Paulo-RS,Caldense,1,1,E,E,NORMAL,K
+1979,1979-11-07,Santa Cruz,Gama,2,0,V,D,NORMAL,L
+1979,1979-11-07,Ceará,Central,2,1,V,D,NORMAL,M
+1979,1979-11-07,CSA,Villa Nova-MG,1,0,V,D,NORMAL,O
+1979,1979-11-07,Cruzeiro,Dom Bosco,4,0,V,D,NORMAL,O
+1979,1979-11-07,Comercial,Uberaba,1,0,V,D,NORMAL,O
+1979,1979-11-08,Campinense,Atlético Mineiro,1,1,E,E,NORMAL,I
+1979,1979-11-08,Mixto,Francana,0,1,D,V,NORMAL,I
+1979,1979-11-08,Grêmio Maringá,Joinville,1,0,V,D,NORMAL,J
+1979,1979-11-08,Operário-MS,Comercial-MS,2,0,V,D,NORMAL,J
+1979,1979-11-08,Desportiva Ferroviária,Inter de Limeira,2,2,E,E,NORMAL,K
+1979,1979-11-08,Athletico Paranaense,Anapolina,3,1,V,D,NORMAL,K
+1979,1979-11-08,Grêmio,Náutico,1,0,V,D,NORMAL,L
+1979,1979-11-08,Bahia,Londrina,0,1,D,V,NORMAL,L
+1979,1979-11-08,Flamengo,XV de Piracicaba,3,0,V,D,NORMAL,L
+1979,1979-11-08,Goiás,ASA,4,0,V,D,NORMAL,M
+1979,1979-11-08,Vasco,Operário-MT,5,1,V,D,NORMAL,M
+1979,1979-11-08,América Mineiro,Botafogo-PB,1,0,V,D,NORMAL,M
+1979,1979-11-08,Vila Nova,Vitória,2,0,V,D,NORMAL,N
+1979,1979-11-08,Maranhão,XV de Jaú,1,0,V,D,NORMAL,N
+1979,1979-11-08,Campo Grande-RJ,Fluminense,1,1,E,E,NORMAL,N
+1979,1979-11-08,Leônico,Americano,2,2,E,E,NORMAL,O
+1979,1979-11-10,Goytacaz,Caldense,2,0,V,D,NORMAL,K
+1979,1979-11-10,Vasco,Ceará,3,0,V,D,NORMAL,M
+1979,1979-11-10,Dom Bosco,Leônico,2,1,V,D,NORMAL,O
+1979,1979-11-10,Villa Nova-MG,Comercial,0,1,D,V,NORMAL,O
+1979,1979-11-11,Francana,Brasil de Pelotas,2,1,V,D,NORMAL,I
+1979,1979-11-11,Atlético Mineiro,Colorado,2,1,V,D,NORMAL,I
+1979,1979-11-11,São Bento,Operário-MS,2,2,E,E,NORMAL,J
+1979,1979-11-11,Joinville,ABC,3,2,V,D,NORMAL,J
+1979,1979-11-11,Figueirense,Grêmio Maringá,0,0,E,E,NORMAL,J
+1979,1979-11-11,Comercial-MS,Botafogo,1,1,E,E,NORMAL,J
+1979,1979-11-11,Inter de Limeira,Athletico Paranaense,0,0,E,E,NORMAL,K
+1979,1979-11-11,Desportiva Ferroviária,Anapolina,2,1,V,D,NORMAL,K
+1979,1979-11-11,Internacional,São Paulo-RS,3,1,V,D,NORMAL,K
+1979,1979-11-11,Gama,Londrina,0,2,D,V,NORMAL,L
+1979,1979-11-11,Santa Cruz,Bahia,1,0,V,D,NORMAL,L
+1979,1979-11-11,Flamengo,Náutico,2,0,V,D,NORMAL,L
+1979,1979-11-11,XV de Piracicaba,Grêmio,3,0,V,D,NORMAL,L
+1979,1979-11-11,ASA,América Mineiro,2,2,E,E,NORMAL,M
+1979,1979-11-11,Operário-MT,Central,2,1,V,D,NORMAL,M
+1979,1979-11-11,Goiás,Botafogo-PB,3,1,V,D,NORMAL,M
+1979,1979-11-11,XV de Jaú,Fluminense,2,2,E,E,NORMAL,N
+1979,1979-11-11,Itabaiana,Vila Nova,1,1,E,E,NORMAL,N
+1979,1979-11-11,Campo Grande-RJ,Maranhão,5,0,V,D,NORMAL,N
+1979,1979-11-11,Vitória,Uberlândia,3,0,V,D,NORMAL,N
+1979,1979-11-11,Uberaba,CSA,1,0,V,D,NORMAL,O
+1979,1979-11-11,Americano,Cruzeiro,2,5,D,V,NORMAL,O
+1979,1979-11-12,Coritiba,Mixto,5,0,V,D,NORMAL,I
+1979,1979-11-12,America-RJ,Campinense,0,1,D,V,NORMAL,I
+1979,1979-11-14,Athletico Paranaense,São Paulo-RS,1,0,V,D,NORMAL,K
+1979,1979-11-14,América Mineiro,Ceará,1,1,E,E,NORMAL,M
+1979,1979-11-15,America-RJ,Francana,4,1,V,D,NORMAL,I
+1979,1979-11-15,Colorado,Brasil de Pelotas,1,1,E,E,NORMAL,I
+1979,1979-11-15,Mixto,Atlético Mineiro,0,2,D,V,NORMAL,I
+1979,1979-11-15,Grêmio Maringá,Operário-MS,1,4,D,V,NORMAL,J
+1979,1979-11-15,Botafogo,Figueirense,0,0,E,E,NORMAL,J
+1979,1979-11-15,ABC,Comercial-MS,1,2,D,V,NORMAL,J
+1979,1979-11-15,Joinville,São Bento,2,1,V,D,NORMAL,J
+1979,1979-11-15,Anapolina,Inter de Limeira,0,2,D,V,NORMAL,K
+1979,1979-11-15,Caldense,Internacional,1,1,E,E,NORMAL,K
+1979,1979-11-15,Goytacaz,Desportiva Ferroviária,0,1,D,V,NORMAL,K
+1979,1979-11-15,Náutico,XV de Piracicaba,2,1,V,D,NORMAL,L
+1979,1979-11-15,Gama,Flamengo,1,2,D,V,NORMAL,L
+1979,1979-11-15,Grêmio,Bahia,2,0,V,D,NORMAL,L
+1979,1979-11-15,Londrina,Santa Cruz,6,2,V,D,NORMAL,L
+1979,1979-11-15,Central,Vasco,0,1,D,V,NORMAL,M
+1979,1979-11-15,Botafogo-PB,ASA,3,1,V,D,NORMAL,M
+1979,1979-11-15,Operário-MT,Goiás,1,1,E,E,NORMAL,M
+1979,1979-11-15,Vila Nova,Fluminense,2,2,E,E,NORMAL,N
+1979,1979-11-15,Uberlândia,Campo Grande-RJ,2,1,V,D,NORMAL,N
+1979,1979-11-15,Vitória,XV de Jaú,3,1,V,D,NORMAL,N
+1979,1979-11-15,Maranhão,Itabaiana,1,0,V,D,NORMAL,N
+1979,1979-11-15,Leônico,Uberaba,1,1,E,E,NORMAL,O
+1979,1979-11-15,Cruzeiro,Comercial,2,1,V,D,NORMAL,O
+1979,1979-11-15,Dom Bosco,Villa Nova-MG,0,1,D,V,NORMAL,O
+1979,1979-11-15,CSA,Americano,0,0,E,E,NORMAL,O
+1979,1979-11-17,Atlético Mineiro,Coritiba,1,0,V,D,NORMAL,I
+1979,1979-11-17,Mixto,Campinense,0,0,E,E,NORMAL,I
+1979,1979-11-17,Vila Nova,XV de Jaú,0,0,E,E,NORMAL,N
+1979,1979-11-17,Fluminense,Vitória,2,1,V,D,NORMAL,N
+1979,1979-11-18,Brasil de Pelotas,America-RJ,1,1,E,E,NORMAL,I
+1979,1979-11-18,Colorado,Francana,2,1,V,D,NORMAL,I
+1979,1979-11-18,Figueirense,Comercial-MS,2,0,V,D,NORMAL,J
+1979,1979-11-18,Operário-MS,Joinville,4,1,V,D,NORMAL,J
+1979,1979-11-18,Botafogo,ABC,1,0,V,D,NORMAL,J
+1979,1979-11-18,Grêmio Maringá,São Bento,2,3,D,V,NORMAL,J
+1979,1979-11-18,Inter de Limeira,Caldense,1,1,E,E,NORMAL,K
+1979,1979-11-18,Desportiva Ferroviária,Athletico Paranaense,1,0,V,D,NORMAL,K
+1979,1979-11-18,São Paulo-RS,Goytacaz,1,0,V,D,NORMAL,K
+1979,1979-11-18,Internacional,Anapolina,0,0,E,E,NORMAL,K
+1979,1979-11-18,Santa Cruz,Náutico,2,0,V,D,NORMAL,L
+1979,1979-11-18,XV de Piracicaba,Londrina,2,1,V,D,NORMAL,L
+1979,1979-11-18,Flamengo,Grêmio,2,0,V,D,NORMAL,L
+1979,1979-11-18,Bahia,Gama,2,1,V,D,NORMAL,L
+1979,1979-11-18,ASA,Central,2,1,V,D,NORMAL,M
+1979,1979-11-18,Vasco,Botafogo-PB,4,0,V,D,NORMAL,M
+1979,1979-11-18,Ceará,Operário-MT,0,0,E,E,NORMAL,M
+1979,1979-11-18,Goiás,América Mineiro,2,0,V,D,NORMAL,M
+1979,1979-11-18,Maranhão,Uberlândia,0,1,D,V,NORMAL,N
+1979,1979-11-18,Itabaiana,Campo Grande-RJ,1,2,D,V,NORMAL,N
+1979,1979-11-18,CSA,Leônico,1,0,V,D,NORMAL,O
+1979,1979-11-18,Comercial,Dom Bosco,2,3,D,V,NORMAL,O
+1979,1979-11-18,Cruzeiro,Villa Nova-MG,4,1,V,D,NORMAL,O
+1979,1979-11-18,Americano,Uberaba,1,0,V,D,NORMAL,O
+1979,1979-11-21,Brasil de Pelotas,Atlético Mineiro,2,1,V,D,NORMAL,I
+1979,1979-11-21,Coritiba,Colorado,1,0,V,D,NORMAL,I
+1979,1979-11-21,Francana,Campinense,1,0,V,D,NORMAL,I
+1979,1979-11-21,Joinville,Botafogo,0,0,E,E,NORMAL,J
+1979,1979-11-21,São Bento,ABC,1,0,V,D,NORMAL,J
+1979,1979-11-21,Comercial-MS,Grêmio Maringá,1,0,V,D,NORMAL,J
+1979,1979-11-21,Caldense,Desportiva Ferroviária,1,0,V,D,NORMAL,K
+1979,1979-11-21,Inter de Limeira,Goytacaz,2,0,V,D,NORMAL,K
+1979,1979-11-21,Náutico,Bahia,0,1,D,V,NORMAL,L
+1979,1979-11-21,Grêmio,Santa Cruz,2,0,V,D,NORMAL,L
+1979,1979-11-21,XV de Piracicaba,Gama,5,0,V,D,NORMAL,L
+1979,1979-11-21,Londrina,Flamengo,1,1,E,E,NORMAL,L
+1979,1979-11-21,Central,Goiás,1,1,E,E,NORMAL,M
+1979,1979-11-21,ASA,Operário-MT,2,2,E,E,NORMAL,M
+1979,1979-11-21,Botafogo-PB,Ceará,2,1,V,D,NORMAL,M
+1979,1979-11-21,América Mineiro,Vasco,0,0,E,E,NORMAL,M
+1979,1979-11-21,Campo Grande-RJ,Vila Nova,0,0,E,E,NORMAL,N
+1979,1979-11-21,Fluminense,Itabaiana,5,0,V,D,NORMAL,N
+1979,1979-11-21,Vitória,Maranhão,2,1,V,D,NORMAL,N
+1979,1979-11-21,XV de Jaú,Uberlândia,1,2,D,V,NORMAL,N
+1979,1979-11-21,Comercial,Americano,1,0,V,D,NORMAL,O
+1979,1979-11-21,Dom Bosco,CSA,3,1,V,D,NORMAL,O
+1979,1979-11-21,Uberaba,Cruzeiro,2,2,E,E,NORMAL,O
+1979,1979-11-22,America-RJ,Mixto,6,1,V,D,NORMAL,I
+1979,1979-11-22,Operário-MS,Figueirense,1,1,E,E,NORMAL,J
+1979,1979-11-22,Athletico Paranaense,Internacional,0,0,E,E,NORMAL,K
+1979,1979-11-22,Anapolina,São Paulo-RS,1,1,E,E,NORMAL,K
+1979,1979-11-22,Villa Nova-MG,Leônico,1,4,D,V,NORMAL,O
+1979,1979-11-23,Uberlândia,Itabaiana,3,0,V,D,NORMAL,N
+1979,1979-11-24,Botafogo,Grêmio Maringá,1,0,V,D,NORMAL,J
+1979,1979-11-24,Operário-MT,América Mineiro,0,2,D,V,NORMAL,M
+1979,1979-11-24,Americano,Dom Bosco,1,0,V,D,NORMAL,O
+1979,1979-11-25,Coritiba,Francana,2,1,V,D,NORMAL,I
+1979,1979-11-25,Mixto,Colorado,3,2,V,D,NORMAL,I
+1979,1979-11-25,Atlético Mineiro,America-RJ,2,1,V,D,NORMAL,I
+1979,1979-11-25,Campinense,Brasil de Pelotas,2,0,V,D,NORMAL,I
+1979,1979-11-25,Figueirense,Joinville,1,1,E,E,NORMAL,J
+1979,1979-11-25,ABC,Operário-MS,0,1,D,V,NORMAL,J
+1979,1979-11-25,Comercial-MS,São Bento,0,1,D,V,NORMAL,J
+1979,1979-11-25,Caldense,Anapolina,1,0,V,D,NORMAL,K
+1979,1979-11-25,Internacional,Desportiva Ferroviária,4,0,V,D,NORMAL,K
+1979,1979-11-25,Goytacaz,Athletico Paranaense,0,1,D,V,NORMAL,K
+1979,1979-11-25,São Paulo-RS,Inter de Limeira,0,0,E,E,NORMAL,K
+1979,1979-11-25,Gama,Grêmio,0,3,D,V,NORMAL,L
+1979,1979-11-25,Bahia,XV de Piracicaba,1,2,D,V,NORMAL,L
+1979,1979-11-25,Santa Cruz,Flamengo,0,0,E,E,NORMAL,L
+1979,1979-11-25,Londrina,Náutico,4,2,V,D,NORMAL,L
+1979,1979-11-25,Vasco,Goiás,0,0,E,E,NORMAL,M
+1979,1979-11-25,Central,Botafogo-PB,2,1,V,D,NORMAL,M
+1979,1979-11-25,Ceará,ASA,5,0,V,D,NORMAL,M
+1979,1979-11-25,Itabaiana,Vitória,1,2,D,V,NORMAL,N
+1979,1979-11-25,Uberlândia,Fluminense,0,0,E,E,NORMAL,N
+1979,1979-11-25,Maranhão,Vila Nova,0,1,D,V,NORMAL,N
+1979,1979-11-25,Campo Grande-RJ,XV de Jaú,1,2,D,V,NORMAL,N
+1979,1979-11-25,Uberaba,Villa Nova-MG,2,0,V,D,NORMAL,O
+1979,1979-11-25,CSA,Cruzeiro,2,1,V,D,NORMAL,O
+1979,1979-11-25,Leônico,Comercial,1,1,E,E,NORMAL,O
+1979,1979-11-28,Campinense,Colorado,2,1,V,D,NORMAL,I
+1979,1979-11-28,Francana,Atlético Mineiro,0,0,E,E,NORMAL,I
+1979,1979-11-28,Brasil de Pelotas,Mixto,3,0,V,D,NORMAL,I
+1979,1979-11-28,America-RJ,Coritiba,1,1,E,E,NORMAL,I
+1979,1979-11-28,Joinville,Comercial-MS,1,0,V,D,NORMAL,J
+1979,1979-11-28,São Bento,Figueirense,2,0,V,D,NORMAL,J
+1979,1979-11-28,Operário-MS,Botafogo,2,0,V,D,NORMAL,J
+1979,1979-11-28,Desportiva Ferroviária,São Paulo-RS,4,0,V,D,NORMAL,K
+1979,1979-11-28,Inter de Limeira,Internacional,0,1,D,V,NORMAL,K
+1979,1979-11-28,Anapolina,Goytacaz,2,1,V,D,NORMAL,K
+1979,1979-11-28,Flamengo,Bahia,4,0,V,D,NORMAL,L
+1979,1979-11-28,XV de Piracicaba,Santa Cruz,2,1,V,D,NORMAL,L
+1979,1979-11-28,Náutico,Gama,2,2,E,E,NORMAL,L
+1979,1979-11-28,Grêmio,Londrina,1,0,V,D,NORMAL,L
+1979,1979-11-28,América Mineiro,Central,0,0,E,E,NORMAL,M
+1979,1979-11-28,Goiás,Ceará,1,0,V,D,NORMAL,M
+1979,1979-11-28,Botafogo-PB,Operário-MT,1,1,E,E,NORMAL,M
+1979,1979-11-28,ASA,Vasco,0,1,D,V,NORMAL,M
+1979,1979-11-28,XV de Jaú,Itabaiana,2,1,V,D,NORMAL,N
+1979,1979-11-28,Vitória,Campo Grande-RJ,1,0,V,D,NORMAL,N
+1979,1979-11-28,Villa Nova-MG,Americano,3,2,V,D,NORMAL,O
+1979,1979-11-28,Comercial,CSA,1,0,V,D,NORMAL,O
+1979,1979-11-28,Dom Bosco,Uberaba,0,1,D,V,NORMAL,O
+1979,1979-11-29,Athletico Paranaense,Caldense,1,0,V,D,NORMAL,K
+1979,1979-11-29,Fluminense,Maranhão,6,0,V,D,NORMAL,N
+1979,1979-11-29,Vila Nova,Uberlândia,0,0,E,E,NORMAL,N
+1979,1979-11-29,Cruzeiro,Leônico,1,0,V,D,NORMAL,O
+1979,1979-11-30,Campinense,Coritiba,0,1,D,V,NORMAL,I
+1979,1979-12-02,XV de Piracicaba,Guarani,0,2,D,V,NORMAL,P
+1979,1979-12-02,Palmeiras,Comercial,5,1,V,D,NORMAL,Q
+1979,1979-12-02,Flamengo,São Bento,4,0,V,D,NORMAL,Q
+1979,1979-12-02,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,R
+1979,1979-12-02,Internacional,Goiás,1,0,V,D,NORMAL,R
+1979,1979-12-02,Athletico Paranaense,Vasco,1,1,E,E,NORMAL,S
+1979,1979-12-04,Coritiba,Vitória,4,0,V,D,NORMAL,P
+1979,1979-12-04,Cruzeiro,Internacional,2,3,D,V,NORMAL,R
+1979,1979-12-04,Goiás,Atlético Mineiro,,,,,WO,R
+1979,1979-12-04,Operário-MS,Uberlândia,3,0,V,D,NORMAL,S
+1979,1979-12-05,Comercial,Flamengo,0,2,D,V,NORMAL,Q
+1979,1979-12-05,Palmeiras,São Bento,4,0,V,D,NORMAL,Q
+1979,1979-12-06,Vitória,XV de Piracicaba,3,1,V,D,NORMAL,P
+1979,1979-12-06,Guarani,Coritiba,0,0,E,E,NORMAL,P
+1979,1979-12-06,Vasco,Uberlândia,5,0,V,D,NORMAL,S
+1979,1979-12-06,Operário-MS,Athletico Paranaense,1,0,V,D,NORMAL,S
+1979,1979-12-08,Coritiba,XV de Piracicaba,1,0,V,D,NORMAL,P
+1979,1979-12-08,Vitória,Guarani,3,0,V,D,NORMAL,P
+1979,1979-12-08,Goiás,Cruzeiro,1,1,E,E,NORMAL,R
+1979,1979-12-08,Atlético Mineiro,Internacional,,,,,WO,R
+1979,1979-12-08,Vasco,Operário-MS,4,0,V,D,NORMAL,S
+1979,1979-12-08,Uberlândia,Athletico Paranaense,3,2,V,D,NORMAL,S
+1979,1979-12-09,São Bento,Comercial,2,2,E,E,NORMAL,Q
+1979,1979-12-09,Flamengo,Palmeiras,1,4,D,V,NORMAL,Q
+1979,1979-12-12,Coritiba,Vasco,1,1,E,E,NORMAL,SF
+1979,1979-12-13,Palmeiras,Internacional,2,3,D,V,NORMAL,SF
+1979,1979-12-16,Vasco,Coritiba,2,1,V,D,NORMAL,SF
+1979,1979-12-16,Internacional,Palmeiras,1,1,E,E,NORMAL,SF
+1979,1979-12-20,Vasco,Internacional,0,2,D,V,NORMAL,F
+1979,1979-12-23,Internacional,Vasco,2,1,V,D,NORMAL,F

@@ -28,15 +28,19 @@ ENV/
 env.bak/
 venv.bak/
 
-# --- Dados (Arquitetura Medalhão) ---
-data/bronze/
-data/silver/
-data/gold/
-*.csv
-*.json
+# --- Dados ---
+# Os CSVs das camadas bronze/silver/gold SÃO versionados: eles são o ativo
+# deste projeto open-source e permitem que o GitHub Actions rode de forma
+# incremental (re-raspando apenas o ano corrente).
 *.parquet
 *.sql
 *.sqlite
+
+# --- Credenciais (NUNCA versionar) ---
+credentials.json
+secrets.json
+.env
+.flaskenv
 
 # --- Configurações de IDE e SO ---
 .vscode/
@@ -45,8 +49,3 @@ data/gold/
 *.swo
 .DS_Store
 Thumbs.db
-
-# --- Variáveis de Ambiente (Segurança) ---
-.env
-.flaskenv
-secrets.json

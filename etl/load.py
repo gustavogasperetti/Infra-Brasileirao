@@ -1,38 +1,43 @@
 """
 etl/load.py
 ===========
-Camada Load — Ingestão dos CSVs Gold no PostgreSQL via SQLAlchemy.
+Camada Load — Publicação da One Big Table no Google Sheets.
 
-Entrada  : data/gold/fato_partidas_ouro.csv
-           data/gold/dim_times.csv
-Destino  : PostgreSQL (tabelas ``dim_times`` e ``fato_partidas_ouro``)
+Entrada  : data/gold/brasileirao_obt.csv  (ou um DataFrame já em memória)
+Destino  : Planilha pública do Google Sheets (aba "partidas")
 
-Estratégia:
-  - Idempotente: DROP + CREATE + INSERT a cada execução.
-  - Usa pandas.to_sql() com chunksize para performance.
-  - Valida contagem pós-carga.
+Autenticação (Service Account):
+  1. GOOGLE_CREDENTIALS  → variável de ambiente com o CONTEÚDO JSON do
+     credentials.json (é assim que o GitHub Actions injeta o Secret).
+  2. Fallback local: arquivo apontado por GOOGLE_APPLICATION_CREDENTIALS
+     ou ./credentials.json na raiz (apenas desenvolvimento — o arquivo é
+     ignorado pelo git).
+
+Estratégia de escrita:
+  - overwrite (padrão): limpa a aba e regrava tudo — idempotente, a
+    planilha sempre espelha exatamente a OBT gerada pela pipeline.
+  - append: acrescenta linhas ao final (sem cabeçalho), para cargas
+    incrementais.
+  - Upload em chunks para respeitar os limites de payload da API.
 
 Uso:
-  python -m etl.load
+  python etl/load.py
 
 Autor  : Brasileirão Analytics — Engenharia de Dados
-Versão : 1.0.0
+Versão : 2.0.0
 """
 
+import json
 import logging
+import os
 import time
 from pathlib import Path
 
+import gspread
 import pandas as pd
-from sqlalchemy import text
+from google.oauth2.service_account import Credentials
 
-# ---------------------------------------------------------------------------
-# Reutiliza engine e Base do módulo da API
-# ---------------------------------------------------------------------------
-from api.database import engine, Base
-
-# Importa os modelos para que o Base.metadata conheça as tabelas
-import api.models  # noqa: F401
+from config import SPREADSHEET_ID, WORKSHEET_PARTIDAS
 
 # ---------------------------------------------------------------------------
 # Configuração de Logging
@@ -45,108 +50,159 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
-# Caminhos
+# Caminhos e Constantes
 # ---------------------------------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parents[1]
-GOLD_DIR = BASE_DIR / "data" / "gold"
+OBT_CSV = BASE_DIR / "data" / "gold" / "brasileirao_obt.csv"
 
-FATO_CSV = GOLD_DIR / "fato_partidas_ouro.csv"
-DIM_CSV  = GOLD_DIR / "dim_times.csv"
+SCOPES = [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive",
+]
+
+CHUNK_ROWS = 5_000  # linhas por requisição de escrita
 
 
 # ===================================================================
-# Funções de Carga
+# Autenticação
 # ===================================================================
 
-def verificar_csvs() -> None:
-    """Verifica se os CSVs Gold existem antes de tentar a carga."""
-    for path in [FATO_CSV, DIM_CSV]:
-        if not path.exists():
-            raise FileNotFoundError(
-                f"❌ CSV não encontrado: {path}\n"
-                f"Execute primeiro o pipeline Gold (python -m etl.gold)."
-            )
-
-
-def carregar_dim_times() -> pd.DataFrame:
-    """Carrega e prepara o CSV da dimensão de times."""
-    logger.info("📂 Carregando dim_times.csv ...")
-    df = pd.read_csv(DIM_CSV)
-    logger.info(f"   {len(df)} times carregados do CSV")
-    return df
-
-
-def carregar_fato_partidas() -> pd.DataFrame:
-    """Carrega e prepara o CSV da tabela fato."""
-    logger.info("📂 Carregando fato_partidas_ouro.csv ...")
-    df = pd.read_csv(FATO_CSV, parse_dates=["Data"])
-
-    # Converter Data para date (sem hora) para compatibilidade com o ORM
-    df["Data"] = pd.to_datetime(df["Data"]).dt.date
-
-    logger.info(f"   {len(df)} partidas carregadas do CSV ({len(df.columns)} colunas)")
-    return df
-
-
-def recriar_tabelas() -> None:
+def obter_credenciais() -> Credentials:
     """
-    DROP + CREATE de todas as tabelas mapeadas no Base.metadata.
-    Isso garante idempotência — cada execução recria do zero.
+    Constrói as credenciais da Service Account.
+
+    Prioridade:
+      1. GOOGLE_CREDENTIALS (conteúdo JSON — Secrets do GitHub Actions)
+      2. GOOGLE_APPLICATION_CREDENTIALS (caminho para o arquivo)
+      3. ./credentials.json (fallback para desenvolvimento local)
     """
-    logger.info("🗑️  Removendo tabelas existentes (DROP ALL) ...")
-    Base.metadata.drop_all(bind=engine)
+    raw = os.getenv("GOOGLE_CREDENTIALS", "").strip()
+    if raw:
+        logger.info("🔐 Autenticando via variável de ambiente GOOGLE_CREDENTIALS")
+        try:
+            info = json.loads(raw)
+        except json.JSONDecodeError as e:
+            raise ValueError(
+                "GOOGLE_CREDENTIALS não contém um JSON válido. "
+                "O Secret deve receber o conteúdo integral do credentials.json."
+            ) from e
+        return Credentials.from_service_account_info(info, scopes=SCOPES)
 
-    logger.info("🏗️  Criando tabelas (CREATE ALL) ...")
-    Base.metadata.create_all(bind=engine)
+    caminho = os.getenv(
+        "GOOGLE_APPLICATION_CREDENTIALS",
+        str(BASE_DIR / "credentials.json"),
+    )
+    if Path(caminho).exists():
+        logger.info(f"🔐 Autenticando via arquivo local: {caminho}")
+        return Credentials.from_service_account_file(caminho, scopes=SCOPES)
 
-    logger.info("   ✅ Tabelas recriadas com sucesso")
-
-
-def inserir_dataframe(df: pd.DataFrame, tabela: str, chunksize: int = 500) -> None:
-    """
-    Insere um DataFrame no PostgreSQL usando pandas.to_sql().
-    Usa ``if_exists='append'`` pois as tabelas já foram criadas pelo ORM.
-    """
-    t0 = time.time()
-    logger.info(f"⬆️  Inserindo {len(df)} registros na tabela '{tabela}' ...")
-
-    df.to_sql(
-        name=tabela,
-        con=engine,
-        if_exists="append",
-        index=False,
-        chunksize=chunksize,
-        method="multi",
+    raise RuntimeError(
+        "Nenhuma credencial encontrada. Defina a variável de ambiente "
+        "GOOGLE_CREDENTIALS (conteúdo do credentials.json) ou disponibilize "
+        "o arquivo credentials.json na raiz do projeto."
     )
 
+
+def conectar_worksheet(creds: Credentials) -> gspread.Worksheet:
+    """Abre a planilha pelo ID e retorna a aba de destino (cria se não existir)."""
+    if not SPREADSHEET_ID:
+        raise RuntimeError(
+            "SPREADSHEET_ID não definido. Configure a variável de ambiente "
+            "(Secret no GitHub Actions ou .env local)."
+        )
+
+    gc = gspread.authorize(creds)
+    planilha = gc.open_by_key(SPREADSHEET_ID)
+    logger.info(f"📄 Planilha conectada: '{planilha.title}'")
+
+    try:
+        ws = planilha.worksheet(WORKSHEET_PARTIDAS)
+    except gspread.WorksheetNotFound:
+        logger.info(f"   Aba '{WORKSHEET_PARTIDAS}' não existe — criando...")
+        ws = planilha.add_worksheet(title=WORKSHEET_PARTIDAS, rows=1, cols=1)
+
+    return ws
+
+
+# ===================================================================
+# Preparação dos dados
+# ===================================================================
+
+def preparar_valores(df: pd.DataFrame) -> list[list]:
+    """
+    Converte o DataFrame em uma matriz de valores serializáveis para a API:
+      - datas   → string ISO (YYYY-MM-DD)
+      - NA/NaN  → célula vazia
+      - bool    → TRUE/FALSE
+      - números → tipos nativos do Python
+    """
+    out = df.copy()
+
+    for col in out.select_dtypes(include=["datetime64[ns]"]).columns:
+        out[col] = out[col].dt.strftime("%Y-%m-%d")
+
+    for col in out.select_dtypes(include=["bool"]).columns:
+        out[col] = out[col].map({True: "TRUE", False: "FALSE"})
+
+    # Nullable Int64 / float / string → objeto nativo, NA vira ""
+    out = out.astype(object).where(out.notna(), "")
+
+    return out.values.tolist()
+
+
+# ===================================================================
+# Escrita no Google Sheets
+# ===================================================================
+
+def carregar_para_sheets(df: pd.DataFrame, modo: str = "overwrite") -> None:
+    """
+    Publica o DataFrame final no Google Sheets.
+
+    Parâmetros:
+      df   : DataFrame processado (One Big Table)
+      modo : 'overwrite' (limpa e regrava tudo — padrão) ou
+             'append' (acrescenta linhas ao final, sem cabeçalho)
+    """
+    if modo not in {"overwrite", "append"}:
+        raise ValueError(f"Modo inválido: '{modo}'. Use 'overwrite' ou 'append'.")
+
+    t0 = time.time()
+
+    creds = obter_credenciais()
+    ws = conectar_worksheet(creds)
+
+    header = df.columns.tolist()
+    valores = preparar_valores(df)
+
+    if modo == "overwrite":
+        logger.info(f"🗑️  Modo overwrite — limpando a aba '{ws.title}' ...")
+        ws.clear()
+
+        # Redimensiona a grade para o tamanho exato dos dados (+1 do header)
+        ws.resize(rows=len(valores) + 1, cols=len(header))
+
+        logger.info(f"⬆️  Enviando {len(valores)} linhas em chunks de {CHUNK_ROWS} ...")
+        ws.update(values=[header], range_name="A1")
+
+        for inicio in range(0, len(valores), CHUNK_ROWS):
+            chunk = valores[inicio: inicio + CHUNK_ROWS]
+            primeira_linha = inicio + 2  # +1 do header, +1 pois Sheets é 1-indexed
+            ws.update(
+                values=chunk,
+                range_name=f"A{primeira_linha}",
+                value_input_option="RAW",
+            )
+            logger.info(f"   ... linhas {inicio + 1} a {inicio + len(chunk)} enviadas")
+
+    else:  # append
+        logger.info(f"⬆️  Modo append — acrescentando {len(valores)} linhas ...")
+        for inicio in range(0, len(valores), CHUNK_ROWS):
+            chunk = valores[inicio: inicio + CHUNK_ROWS]
+            ws.append_rows(chunk, value_input_option="RAW")
+            logger.info(f"   ... linhas {inicio + 1} a {inicio + len(chunk)} enviadas")
+
     elapsed = time.time() - t0
-    logger.info(f"   ✅ '{tabela}' — {len(df)} registros inseridos em {elapsed:.1f}s")
-
-
-def validar_carga() -> None:
-    """Valida a integridade da carga com queries de contagem."""
-    logger.info("🔍 Validando carga ...")
-
-    with engine.connect() as conn:
-        n_times = conn.execute(text("SELECT COUNT(*) FROM dim_times")).scalar()
-        n_partidas = conn.execute(text("SELECT COUNT(*) FROM fato_partidas_ouro")).scalar()
-
-        # Verificar integridade referencial (FKs sem match)
-        fk_orfas = conn.execute(text("""
-            SELECT COUNT(*)
-            FROM fato_partidas_ouro f
-            LEFT JOIN dim_times d1 ON f.id_mandante = d1.id_time
-            LEFT JOIN dim_times d2 ON f.id_visitante = d2.id_time
-            WHERE d1.id_time IS NULL OR d2.id_time IS NULL
-        """)).scalar()
-
-    logger.info(f"   dim_times         : {n_times} registros")
-    logger.info(f"   fato_partidas_ouro: {n_partidas} registros")
-
-    if fk_orfas and fk_orfas > 0:
-        logger.warning(f"   ⚠ {fk_orfas} partidas com FK órfã (time sem match na dimensão)")
-    else:
-        logger.info("   ✅ Integridade referencial OK — 0 FKs órfãs")
+    logger.info(f"✅ Carga concluída em {elapsed:.1f}s — {len(valores)} linhas na aba '{ws.title}'")
 
 
 # ===================================================================
@@ -155,35 +211,30 @@ def validar_carga() -> None:
 
 def main() -> None:
     logger.info("=" * 60)
-    logger.info("LOAD — Ingestão Gold → PostgreSQL")
+    logger.info("LOAD — One Big Table → Google Sheets")
     logger.info("=" * 60)
 
-    t_total = time.time()
+    if not OBT_CSV.exists():
+        raise FileNotFoundError(
+            f"❌ OBT não encontrada: {OBT_CSV}\n"
+            f"Execute primeiro a camada Gold (python etl/gold.py)."
+        )
 
-    # 1. Verificar CSVs
-    verificar_csvs()
+    logger.info(f"📂 Carregando {OBT_CSV.name} ...")
+    df = pd.read_csv(OBT_CSV, parse_dates=["Data"], encoding="utf-8-sig")
 
-    # 2. Carregar DataFrames
-    df_dim = carregar_dim_times()
-    df_fato = carregar_fato_partidas()
+    # read_csv promove inteiros com nulos para float (1 → 1.0);
+    # restaura Int64 nullable para não subir "1.0" na planilha
+    for col in df.select_dtypes(include=["float"]).columns:
+        if (df[col].dropna() % 1 == 0).all():
+            df[col] = df[col].astype("Int64")
 
-    # 3. Recriar tabelas (idempotente)
-    recriar_tabelas()
+    logger.info(f"   {len(df)} partidas, {len(df.columns)} colunas")
 
-    # 4. Inserir dados (dimensão primeiro por causa das FKs)
-    inserir_dataframe(df_dim, "dim_times")
-    inserir_dataframe(df_fato, "fato_partidas_ouro")
+    modo = os.getenv("LOAD_MODO", "overwrite").strip().lower()
+    carregar_para_sheets(df, modo=modo)
 
-    # 5. Validar
-    validar_carga()
-
-    # 6. Resumo
-    elapsed = time.time() - t_total
-    logger.info("")
-    logger.info("=" * 60)
-    logger.info("LOAD CONCLUÍDO")
-    logger.info(f"Tempo total: {elapsed:.1f}s")
-    logger.info("=" * 60)
+    logger.info("Load finalizado.")
 
 
 if __name__ == "__main__":

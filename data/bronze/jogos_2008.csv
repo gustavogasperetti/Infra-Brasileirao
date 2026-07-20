@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2008-05-10,São Paulo,0-1,Grêmio,R1
+2008-05-10,Náutico,2-1,Goiás,R1
+2008-05-10,Vitória,0-2,Cruzeiro,R1
+2008-05-11,Ipatinga,0-1,Atlético Paranaense,R1
+2008-05-11,Coritiba,2-0,Palmeiras,R1
+2008-05-11,Internacional,1-0,Vasco,R1
+2008-05-11,Botafogo,2-0,Sport,R1
+2008-05-11,Atlético Mineiro,0-0,Fluminense,R1
+2008-05-11,Flamengo,3-1,Santos,R1
+2008-05-11,Portuguesa,5-5,Figueirense,R1
+2008-05-17,Cruzeiro,1-0,Botafogo,R2
+2008-05-17,Vasco,3-1,Portuguesa,R2
+2008-05-17,Sport,0-0,Vitória,R2
+2008-05-18,Atlético Paranaense,1-1,São Paulo,R2
+2008-05-18,Goiás,1-1,Atlético Mineiro,R2
+2008-05-18,Grêmio,0-0,Flamengo,R2
+2008-05-18,Fluminense,0-2,Náutico,R2
+2008-05-18,Palmeiras,2-1,Internacional,R2
+2008-05-18,Figueirense,2-1,Coritiba,R2
+2008-05-18,Santos,4-0,Ipatinga,R2
+2008-05-24,Flamengo,2-1,Internacional,R3
+2008-05-24,Vitória,4-0,Figueirense,R3
+2008-05-24,Grêmio,2-0,Náutico,R3
+2008-05-25,Cruzeiro,4-0,Santos,R3
+2008-05-25,Goiás,1-1,Ipatinga,R3
+2008-05-25,Sport,2-1,Fluminense,R3
+2008-05-25,São Paulo,1-1,Coritiba,R3
+2008-05-25,Atlético Paranaense,1-1,Atlético Mineiro,R3
+2008-05-25,Portuguesa,1-1,Palmeiras,R3
+2008-05-25,Botafogo,1-1,Vasco,R3
+2008-05-31,Vasco,2-1,Grêmio,R4
+2008-05-31,Figueirense,0-0,Goiás,R4
+2008-05-31,Internacional,1-1,Sport,R4
+2008-05-31,Fluminense,0-1,Flamengo,R4
+2008-06-01,Ipatinga,2-0,Vitória,R4
+2008-06-01,Náutico,3-0,Botafogo,R4
+2008-06-01,Coritiba,1-1,Cruzeiro,R4
+2008-06-01,Santos,0-0,São Paulo,R4
+2008-06-01,Palmeiras,1-0,Atlético Paranaense,R4
+2008-06-01,Atlético Mineiro,2-0,Portuguesa,R4
+2008-06-07,Flamengo,5-0,Figueirense,R5
+2008-06-07,Ipatinga,0-0,Náutico,R5
+2008-06-07,São Paulo,5-1,Atlético Mineiro,R5
+2008-06-08,Grêmio,2-1,Fluminense,R5
+2008-06-08,Portuguesa,3-1,Internacional,R5
+2008-06-08,Atlético Paranaense,5-0,Goiás,R5
+2008-06-08,Sport,2-0,Palmeiras,R5
+2008-06-08,Botafogo,2-1,Coritiba,R5
+2008-06-08,Vitória,1-0,Santos,R5
+2008-06-08,Cruzeiro,1-0,Vasco,R5
+2008-06-12,Fluminense,1-1,Santos,R6
+2008-06-12,Atlético Mineiro,4-2,Ipatinga,R6
+2008-06-12,Palmeiras,5-2,Cruzeiro,R6
+2008-06-14,Internacional,2-1,Botafogo,R6
+2008-06-14,Flamengo,2-4,São Paulo,R6
+2008-06-14,Figueirense,3-1,Sport,R6
+2008-06-14,Goiás,0-3,Grêmio,R6
+2008-06-14,Portuguesa,1-0,Atlético Paranaense,R6
+2008-06-14,Coritiba,0-0,Vitória,R6
+2008-06-14,Náutico,1-1,Vasco,R6
+2008-06-21,Botafogo,0-1,Portuguesa,R7
+2008-06-21,Coritiba,2-1,Fluminense,R7
+2008-06-21,Cruzeiro,3-0,Figueirense,R7
+2008-06-21,São Paulo,1-0,Sport,R7
+2008-06-22,Vitória,2-1,Internacional,R7
+2008-06-22,Vasco,0-2,Palmeiras,R7
+2008-06-22,Ipatinga,1-3,Flamengo,R7
+2008-06-22,Grêmio,3-0,Atlético Paranaense,R7
+2008-06-22,Santos,0-4,Goiás,R7
+2008-06-22,Náutico,2-1,Atlético Mineiro,R7
+2008-06-28,Vitória,3-0,Goiás,R8
+2008-06-28,Portuguesa,0-0,Santos,R8
+2008-06-28,Vasco,4-2,Ipatinga,R8
+2008-06-29,Atlético Paranaense,1-1,Coritiba,R8
+2008-06-29,Sport,1-2,Flamengo,R8
+2008-06-29,Figueirense,1-1,Atlético Mineiro,R8
+2008-06-29,Cruzeiro,1-1,São Paulo,R8
+2008-06-29,Grêmio,1-1,Internacional,R8
+2008-06-29,Fluminense,0-0,Botafogo,R8
+2008-06-29,Palmeiras,2-0,Náutico,R8
+2008-07-05,Atlético Paranaense,1-0,Santos,R9
+2008-07-05,Sport,1-0,Cruzeiro,R9
+2008-07-05,Flamengo,3-0,Náutico,R9
+2008-07-06,Portuguesa,1-2,Vitória,R9
+2008-07-06,Internacional,3-0,Coritiba,R9
+2008-07-06,Figueirense,2-1,Vasco,R9
+2008-07-06,Atlético Mineiro,1-1,Palmeiras,R9
+2008-07-06,Botafogo,2-0,Grêmio,R9
+2008-07-06,Goiás,1-0,Fluminense,R9
+2008-07-06,São Paulo,1-1,Ipatinga,R9
+2008-07-09,Internacional,1-0,Goiás,R10
+2008-07-09,Coritiba,4-0,Portuguesa,R10
+2008-07-09,Fluminense,3-0,Atlético Paranaense,R10
+2008-07-09,Vitória,5-2,Botafogo,R10
+2008-07-09,Santos,1-1,Grêmio,R10
+2008-07-09,Náutico,2-1,São Paulo,R10
+2008-07-09,Atlético Mineiro,1-1,Flamengo,R10
+2008-07-10,Vasco,4-0,Sport,R10
+2008-07-10,Ipatinga,2-2,Cruzeiro,R10
+2008-07-10,Palmeiras,1-1,Figueirense,R10
+2008-07-12,Fluminense,2-1,Vitória,R11
+2008-07-12,Goiás,2-2,Coritiba,R11
+2008-07-13,Santos,2-2,Botafogo,R11
+2008-07-13,Atlético Paranaense,1-1,Internacional,R11
+2008-07-13,Ipatinga,0-1,Figueirense,R11
+2008-07-13,Cruzeiro,2-1,Atlético Mineiro,R11
+2008-07-13,São Paulo,2-1,Palmeiras,R11
+2008-07-13,Grêmio,2-1,Portuguesa,R11
+2008-07-13,Náutico,0-2,Sport,R11
+2008-07-13,Flamengo,3-1,Vasco,R11
+2008-07-16,Botafogo,4-0,Ipatinga,R12
+2008-07-16,Sport,2-2,Grêmio,R12
+2008-07-16,Portuguesa,3-2,Náutico,R12
+2008-07-16,Figueirense,3-0,Santos,R12
+2008-07-16,Vitória,1-3,São Paulo,R12
+2008-07-16,Cruzeiro,1-0,Atlético Paranaense,R12
+2008-07-16,Palmeiras,3-1,Fluminense,R12
+2008-07-17,Internacional,1-0,Atlético Mineiro,R12
+2008-07-17,Coritiba,1-0,Flamengo,R12
+2008-07-17,Vasco,1-1,Goiás,R12
+2008-07-19,Fluminense,1-0,Figueirense,R13
+2008-07-19,Grêmio,1-0,Cruzeiro,R13
+2008-07-19,Ipatinga,4-1,Portuguesa,R13
+2008-07-20,Goiás,3-2,Palmeiras,R13
+2008-07-20,Santos,1-0,Sport,R13
+2008-07-20,Atlético Paranaense,3-1,Vasco,R13
+2008-07-20,Náutico,1-1,Internacional,R13
+2008-07-20,Flamengo,0-1,Vitória,R13
+2008-07-20,Atlético Mineiro,3-2,Coritiba,R13
+2008-07-20,São Paulo,2-1,Botafogo,R13
+2008-07-23,Coritiba,1-0,Ipatinga,R14
+2008-07-23,Cruzeiro,0-1,Goiás,R14
+2008-07-23,Vitória,2-0,Náutico,R14
+2008-07-23,Botafogo,4-0,Atlético Mineiro,R14
+2008-07-23,Internacional,2-0,São Paulo,R14
+2008-07-23,Portuguesa,2-2,Flamengo,R14
+2008-07-23,Vasco,3-3,Fluminense,R14
+2008-07-24,Sport,1-0,Atlético Paranaense,R14
+2008-07-24,Figueirense,1-7,Grêmio,R14
+2008-07-24,Palmeiras,4-2,Santos,R14
+2008-07-26,Fluminense,1-3,Cruzeiro,R15
+2008-07-26,Náutico,1-2,Coritiba,R15
+2008-07-26,Ipatinga,1-0,Internacional,R15
+2008-07-27,Grêmio,1-1,Palmeiras,R15
+2008-07-27,Goiás,1-2,Sport,R15
+2008-07-27,Santos,5-2,Vasco,R15
+2008-07-27,Atlético Paranaense,0-0,Figueirense,R15
+2008-07-27,Flamengo,0-0,Botafogo,R15
+2008-07-27,Atlético Mineiro,2-1,Vitória,R15
+2008-07-27,São Paulo,3-1,Portuguesa,R15
+2008-07-30,Vitória,2-1,Atlético Paranaense,R16
+2008-07-30,Cruzeiro,4-2,Náutico,R16
+2008-07-30,Botafogo,2-0,Goiás,R16
+2008-07-30,Portuguesa,3-1,Fluminense,R16
+2008-07-30,Internacional,0-1,Santos,R16
+2008-07-30,Figueirense,1-1,São Paulo,R16
+2008-07-30,Palmeiras,1-0,Flamengo,R16
+2008-07-31,Coritiba,0-1,Grêmio,R16
+2008-07-31,Sport,3-1,Ipatinga,R16
+2008-07-31,Vasco,6-1,Atlético Mineiro,R16
+2008-08-02,Fluminense,1-2,Internacional,R17
+2008-08-02,Goiás,4-0,Portuguesa,R17
+2008-08-02,Náutico,1-2,Figueirense,R17
+2008-08-03,Grêmio,2-0,Vitória,R17
+2008-08-03,Ipatinga,1-2,Palmeiras,R17
+2008-08-03,São Paulo,4-0,Vasco,R17
+2008-08-03,Flamengo,1-2,Cruzeiro,R17
+2008-08-03,Santos,1-3,Coritiba,R17
+2008-08-03,Atlético Paranaense,0-3,Botafogo,R17
+2008-08-03,Atlético Mineiro,2-1,Sport,R17
+2008-08-06,Grêmio,1-0,Ipatinga,R18
+2008-08-06,Vasco,0-2,Coritiba,R18
+2008-08-06,Atlético Paranaense,2-0,Náutico,R18
+2008-08-06,Sport,2-0,Portuguesa,R18
+2008-08-06,Fluminense,3-1,São Paulo,R18
+2008-08-06,Goiás,2-1,Flamengo,R18
+2008-08-06,Santos,2-3,Atlético Mineiro,R18
+2008-08-07,Figueirense,1-2,Botafogo,R18
+2008-08-07,Cruzeiro,2-0,Internacional,R18
+2008-08-07,Palmeiras,3-0,Vitória,R18
+2008-08-09,Flamengo,1-0,Atlético Paranaense,R19
+2008-08-09,Atlético Mineiro,0-4,Grêmio,R19
+2008-08-09,São Paulo,2-1,Goiás,R19
+2008-08-10,Botafogo,1-0,Palmeiras,R19
+2008-08-10,Vitória,5-0,Vasco,R19
+2008-08-10,Portuguesa,2-1,Cruzeiro,R19
+2008-08-10,Coritiba,3-0,Sport,R19
+2008-08-10,Internacional,1-1,Figueirense,R19
+2008-08-10,Náutico,1-0,Santos,R19
+2008-08-10,Ipatinga,2-1,Fluminense,R19
+2008-08-16,Atlético Paranaense,5-0,Ipatinga,R20
+2008-08-16,Figueirense,2-1,Portuguesa,R20
+2008-08-16,Cruzeiro,2-1,Vitória,R20
+2008-08-17,Grêmio,1-0,São Paulo,R20
+2008-08-17,Goiás,3-0,Náutico,R20
+2008-08-17,Santos,2-2,Flamengo,R20
+2008-08-17,Vasco,4-0,Internacional,R20
+2008-08-17,Fluminense,1-0,Atlético Mineiro,R20
+2008-08-17,Sport,0-1,Botafogo,R20
+2008-08-17,Palmeiras,1-0,Coritiba,R20
+2008-08-20,Vitória,0-0,Sport,R21
+2008-08-20,Coritiba,3-0,Figueirense,R21
+2008-08-20,Botafogo,1-0,Cruzeiro,R21
+2008-08-20,São Paulo,3-1,Atlético Paranaense,R21
+2008-08-20,Internacional,4-1,Palmeiras,R21
+2008-08-20,Náutico,1-3,Fluminense,R21
+2008-08-20,Ipatinga,1-1,Santos,R21
+2008-08-21,Portuguesa,0-1,Vasco,R21
+2008-08-21,Flamengo,2-1,Grêmio,R21
+2008-08-21,Atlético Mineiro,1-1,Goiás,R21
+2008-08-23,Fluminense,1-1,Sport,R22
+2008-08-23,Figueirense,1-2,Vitória,R22
+2008-08-24,Internacional,1-1,Flamengo,R22
+2008-08-24,Santos,2-0,Cruzeiro,R22
+2008-08-24,Coritiba,2-2,São Paulo,R22
+2008-08-24,Ipatinga,1-0,Goiás,R22
+2008-08-24,Palmeiras,4-2,Portuguesa,R22
+2008-08-24,Náutico,1-1,Grêmio,R22
+2008-08-24,Vasco,1-1,Botafogo,R22
+2008-08-24,Atlético Mineiro,4-0,Atlético Paranaense,R22
+2008-08-30,Botafogo,1-1,Náutico,R23
+2008-08-30,Vitória,0-0,Ipatinga,R23
+2008-08-30,Goiás,2-0,Figueirense,R23
+2008-08-31,Grêmio,2-1,Vasco,R23
+2008-08-31,Atlético Paranaense,1-2,Palmeiras,R23
+2008-08-31,Sport,1-0,Internacional,R23
+2008-08-31,São Paulo,0-0,Santos,R23
+2008-08-31,Portuguesa,1-1,Atlético Mineiro,R23
+2008-08-31,Flamengo,2-2,Fluminense,R23
+2008-08-31,Cruzeiro,1-1,Coritiba,R23
+2008-09-03,Goiás,4-0,Atlético Paranaense,R24
+2008-09-03,Santos,2-0,Vitória,R24
+2008-09-03,Figueirense,2-3,Flamengo,R24
+2008-09-03,Atlético Mineiro,1-1,São Paulo,R24
+2008-09-04,Vasco,1-3,Cruzeiro,R24
+2008-09-04,Palmeiras,0-3,Sport,R24
+2008-09-06,Fluminense,0-0,Grêmio,R24
+2008-09-06,Internacional,1-0,Portuguesa,R24
+2008-09-06,Coritiba,0-1,Botafogo,R24
+2008-09-06,Náutico,2-0,Ipatinga,R24
+2008-09-13,Grêmio,1-2,Goiás,R25
+2008-09-13,Atlético Paranaense,2-0,Portuguesa,R25
+2008-09-13,Ipatinga,3-2,Atlético Mineiro,R25
+2008-09-14,Vasco,1-3,Náutico,R25
+2008-09-14,Cruzeiro,0-1,Palmeiras,R25
+2008-09-14,São Paulo,2-0,Flamengo,R25
+2008-09-14,Sport,5-0,Figueirense,R25
+2008-09-14,Botafogo,1-2,Internacional,R25
+2008-09-14,Santos,2-1,Fluminense,R25
+2008-09-14,Vitória,1-0,Coritiba,R25
+2008-09-20,Fluminense,2-3,Coritiba,R26
+2008-09-20,Goiás,4-1,Santos,R26
+2008-09-20,Atlético Mineiro,2-1,Náutico,R26
+2008-09-21,Portuguesa,3-1,Botafogo,R26
+2008-09-21,Atlético Paranaense,0-0,Grêmio,R26
+2008-09-21,Sport,0-0,São Paulo,R26
+2008-09-21,Figueirense,3-4,Cruzeiro,R26
+2008-09-21,Palmeiras,2-0,Vasco,R26
+2008-09-21,Internacional,1-0,Vitória,R26
+2008-09-21,Flamengo,1-0,Ipatinga,R26
+2008-09-27,Goiás,3-0,Vitória,R27
+2008-09-27,Flamengo,2-1,Sport,R27
+2008-09-27,Atlético Mineiro,0-0,Figueirense,R27
+2008-09-28,Coritiba,1-1,Atlético Paranaense,R27
+2008-09-28,Náutico,0-0,Palmeiras,R27
+2008-09-28,Ipatinga,3-1,Vasco,R27
+2008-09-28,São Paulo,2-0,Cruzeiro,R27
+2008-09-28,Botafogo,1-1,Fluminense,R27
+2008-09-28,Internacional,4-1,Grêmio,R27
+2008-09-28,Santos,1-1,Portuguesa,R27
+2008-10-01,Fluminense,1-1,Goiás,R28
+2008-10-02,Vitória,3-1,Portuguesa,R28
+2008-10-02,Cruzeiro,1-0,Sport,R28
+2008-10-04,Grêmio,2-1,Botafogo,R28
+2008-10-04,Ipatinga,1-3,São Paulo,R28
+2008-10-04,Palmeiras,3-1,Atlético Mineiro,R28
+2008-10-04,Santos,4-0,Atlético Paranaense,R28
+2008-10-04,Coritiba,4-2,Internacional,R28
+2008-10-04,Náutico,0-2,Flamengo,R28
+2008-10-04,Vasco,2-4,Figueirense,R28
+2008-10-08,Grêmio,2-0,Santos,R29
+2008-10-08,Sport,2-2,Vasco,R29
+2008-10-08,Figueirense,0-0,Palmeiras,R29
+2008-10-09,Botafogo,3-1,Vitória,R29
+2008-10-09,Cruzeiro,1-0,Ipatinga,R29
+2008-10-09,São Paulo,1-0,Náutico,R29
+2008-10-11,Goiás,1-1,Internacional,R29
+2008-10-11,Portuguesa,0-0,Coritiba,R29
+2008-10-11,Atlético Paranaense,1-3,Fluminense,R29
+2008-10-11,Flamengo,0-3,Atlético Mineiro,R29
+2008-10-18,Botafogo,0-1,Santos,R30
+2008-10-18,Internacional,2-1,Atlético Paranaense,R30
+2008-10-18,Figueirense,1-1,Ipatinga,R30
+2008-10-19,Vitória,2-2,Fluminense,R30
+2008-10-19,Coritiba,1-1,Goiás,R30
+2008-10-19,Atlético Mineiro,0-2,Cruzeiro,R30
+2008-10-19,Palmeiras,2-2,São Paulo,R30
+2008-10-19,Portuguesa,2-0,Grêmio,R30
+2008-10-19,Sport,2-2,Náutico,R30
+2008-10-19,Vasco,0-1,Flamengo,R30
+2008-10-22,Goiás,2-4,Vasco,R31
+2008-10-23,Grêmio,1-0,Sport,R31
+2008-10-23,Flamengo,5-0,Coritiba,R31
+2008-10-23,São Paulo,2-1,Vitória,R31
+2008-10-25,Fluminense,3-0,Palmeiras,R31
+2008-10-25,Ipatinga,0-3,Botafogo,R31
+2008-10-25,Santos,3-0,Figueirense,R31
+2008-10-25,Atlético Paranaense,1-0,Cruzeiro,R31
+2008-10-25,Náutico,1-1,Portuguesa,R31
+2008-10-25,Atlético Mineiro,2-2,Internacional,R31
+2008-10-29,Portuguesa,2-0,Ipatinga,R32
+2008-10-29,Coritiba,2-1,Atlético Mineiro,R32
+2008-10-29,Internacional,1-1,Náutico,R32
+2008-10-29,Palmeiras,1-0,Goiás,R32
+2008-10-29,Botafogo,1-2,São Paulo,R32
+2008-10-29,Vitória,0-0,Flamengo,R32
+2008-10-29,Cruzeiro,3-0,Grêmio,R32
+2008-10-30,Sport,1-1,Santos,R32
+2008-10-30,Vasco,2-2,Atlético Paranaense,R32
+2008-11-01,Náutico,1-0,Vitória,R33
+2008-11-01,Flamengo,2-2,Portuguesa,R33
+2008-11-01,Ipatinga,2-0,Coritiba,R33
+2008-11-02,Atlético Mineiro,2-1,Botafogo,R33
+2008-11-02,Goiás,3-0,Cruzeiro,R33
+2008-11-02,Santos,1-2,Palmeiras,R33
+2008-11-02,Atlético Paranaense,1-0,Sport,R33
+2008-11-02,São Paulo,3-0,Internacional,R33
+2008-11-02,Fluminense,0-1,Vasco,R33
+2008-11-02,Grêmio,1-1,Figueirense,R33
+2008-11-05,Figueirense,0-1,Fluminense,R32
+2008-11-08,Portuguesa,2-3,São Paulo,R34
+2008-11-08,Vasco,1-0,Santos,R34
+2008-11-08,Figueirense,0-2,Atlético Paranaense,R34
+2008-11-09,Cruzeiro,1-0,Fluminense,R34
+2008-11-09,Coritiba,0-0,Náutico,R34
+2008-11-09,Sport,2-1,Goiás,R34
+2008-11-09,Palmeiras,0-1,Grêmio,R34
+2008-11-09,Botafogo,0-1,Flamengo,R34
+2008-11-09,Internacional,4-0,Ipatinga,R34
+2008-11-09,Vitória,0-1,Atlético Mineiro,R34
+2008-11-12,Atlético Mineiro,4-1,Vasco,R35
+2008-11-15,Fluminense,3-1,Portuguesa,R35
+2008-11-15,Náutico,5-2,Cruzeiro,R35
+2008-11-15,Ipatinga,3-0,Sport,R35
+2008-11-16,Goiás,3-1,Botafogo,R35
+2008-11-16,Flamengo,5-2,Palmeiras,R35
+2008-11-16,São Paulo,3-1,Figueirense,R35
+2008-11-16,Grêmio,2-1,Coritiba,R35
+2008-11-16,Santos,1-0,Internacional,R35
+2008-11-16,Atlético Paranaense,2-1,Vitória,R35
+2008-11-20,Figueirense,4-3,Náutico,R36
+2008-11-22,Botafogo,2-2,Atlético Paranaense,R36
+2008-11-22,Portuguesa,0-0,Goiás,R36
+2008-11-22,Coritiba,5-1,Santos,R36
+2008-11-23,Cruzeiro,3-2,Flamengo,R36
+2008-11-23,Vitória,4-2,Grêmio,R36
+2008-11-23,Vasco,1-2,São Paulo,R36
+2008-11-23,Internacional,0-2,Fluminense,R36
+2008-11-23,Sport,3-0,Atlético Mineiro,R36
+2008-11-23,Palmeiras,2-0,Ipatinga,R36
+2008-11-30,Botafogo,1-3,Figueirense,R37
+2008-11-30,Internacional,1-0,Cruzeiro,R37
+2008-11-30,Vitória,0-0,Palmeiras,R37
+2008-11-30,Portuguesa,2-2,Sport,R37
+2008-11-30,Coritiba,0-2,Vasco,R37
+2008-11-30,Náutico,2-1,Atlético Paranaense,R37
+2008-11-30,Flamengo,3-3,Goiás,R37
+2008-11-30,Ipatinga,1-4,Grêmio,R37
+2008-11-30,Atlético Mineiro,0-0,Santos,R37
+2008-11-30,São Paulo,1-1,Fluminense,R37
+2008-12-07,Fluminense,1-1,Ipatinga,R38
+2008-12-07,Grêmio,2-0,Atlético Mineiro,R38
+2008-12-07,Goiás,0-1,São Paulo,R38
+2008-12-07,Santos,0-0,Náutico,R38
+2008-12-07,Atlético Paranaense,5-3,Flamengo,R38
+2008-12-07,Sport,4-3,Coritiba,R38
+2008-12-07,Vasco,0-2,Vitória,R38
+2008-12-07,Figueirense,3-1,Internacional,R38
+2008-12-07,Cruzeiro,4-1,Portuguesa,R38
+2008-12-07,Palmeiras,0-1,Botafogo,R38

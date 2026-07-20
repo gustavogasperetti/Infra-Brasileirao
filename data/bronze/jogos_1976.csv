@@ -1,0 +1,412 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+1976-08-29,Coritiba,0-2,São Paulo,B
+1976-08-29,Londrina,0-3,Atlético Paranaense,B
+1976-08-29,Confiança,2-1,Portuguesa,B
+1976-08-29,Rio Negro-AM,0-3,Guarani,C
+1976-08-29,Remo,2-0,Ceará,C
+1976-08-29,Corinthians,2-1,Fortaleza,C
+1976-08-29,América Mineiro,6-0,Goiânia,D
+1976-08-29,Mixto,1-1,Goiás,D
+1976-08-29,Fluminense de Feira,0-0,CSA,E
+1976-08-29,Treze,0-2,CRB,E
+1976-08-29,Botafogo-PB,1-0,Vitória,E
+1976-08-29,América-RN,0-0,Santa Cruz,F
+1976-08-29,Sampaio Corrêa,0-0,Flamengo-PI,F
+1976-08-29,Sport,1-0,ABC,F
+1976-09-01,Internacional,6-0,Figueirense,A
+1976-09-01,Santos,2-1,Caxias,A
+1976-09-01,Rio Branco-ES,1-4,Grêmio,A
+1976-09-01,Londrina,0-0,São Paulo,B
+1976-09-01,Uberaba,0-0,Atlético Paranaense,B
+1976-09-01,Ponte Preta,1-1,Corinthians,C
+1976-09-01,Remo,0-0,Guarani,C
+1976-09-01,Rio Negro-AM,1-1,Ceará,C
+1976-09-01,Vasco,1-0,América Mineiro,D
+1976-09-01,Mixto,1-1,Operário-MS,D
+1976-09-01,Goiânia,1-1,Atlético Mineiro,D
+1976-09-01,Americano,1-2,Goiás,D
+1976-09-01,Fluminense de Feira,0-2,Bahia,E
+1976-09-01,Botafogo-PB,0-0,Botafogo,E
+1976-09-01,Treze,0-2,Vitória,E
+1976-09-01,Fluminense,1-1,CSA,E
+1976-09-01,Flamengo,2-0,ABC,F
+1976-09-01,Sampaio Corrêa,0-2,Santa Cruz,F
+1976-09-01,Náutico,3-0,Flamengo-PI,F
+1976-09-01,Volta Redonda,1-1,América-RN,F
+1976-09-02,Paysandu,3-0,Nacional-AM,C
+1976-09-04,Grêmio,1-0,Caxias,A
+1976-09-04,Desportiva Ferroviária,0-1,Palmeiras,A
+1976-09-04,Figueirense,1-4,Santos,A
+1976-09-04,São Paulo,0-0,Portuguesa,B
+1976-09-04,Cruzeiro,0-0,Botafogo-SP,B
+1976-09-04,Ceará,0-0,Guarani,C
+1976-09-04,Fortaleza,1-0,Remo,C
+1976-09-04,Vasco,1-0,Goiás,D
+1976-09-04,Vitória,3-1,CSA,E
+1976-09-04,Treze,2-4,Botafogo,E
+1976-09-04,Sport,1-0,Santa Cruz,F
+1976-09-04,Flamengo-PI,2-3,Flamengo,F
+1976-09-04,América-RN,1-0,Náutico,F
+1976-09-04,Volta Redonda,0-0,ABC,F
+1976-09-05,Confiança,1-0,Londrina,B
+1976-09-05,Americano,3-2,Mixto,D
+1976-09-05,Operário-MS,1-1,America-RJ,D
+1976-09-05,Atlético Mineiro,1-0,América Mineiro,D
+1976-09-07,Palmeiras,0-1,Santos,A
+1976-09-07,Internacional,3-1,Grêmio,A
+1976-09-07,Desportiva Ferroviária,2-1,Rio Branco-ES,A
+1976-09-07,Uberaba,0-1,Botafogo-SP,B
+1976-09-07,Cruzeiro,2-1,Portuguesa,B
+1976-09-07,Nacional-AM,2-1,Rio Negro-AM,C
+1976-09-07,Ceará,0-1,Fortaleza,C
+1976-09-07,Remo,5-2,Paysandu,C
+1976-09-07,Goiás,3-0,Goiânia,D
+1976-09-07,Botafogo-PB,2-0,Treze,E
+1976-09-07,CRB,2-1,CSA,E
+1976-09-07,Bahia,0-0,Vitória,E
+1976-09-07,Botafogo,2-0,Fluminense,E
+1976-09-07,América-RN,3-1,ABC,F
+1976-09-07,Santa Cruz,2-1,Flamengo,F
+1976-09-07,Sampaio Corrêa,2-3,Náutico,F
+1976-09-08,Figueirense,1-0,Avaí,A
+1976-09-08,Coritiba,2-1,Atlético Paranaense,B
+1976-09-08,Confiança,1-1,São Paulo,B
+1976-09-08,America-RJ,1-0,Mixto,D
+1976-09-08,Americano,2-3,Vasco,D
+1976-09-08,Operário-MS,1-1,Atlético Mineiro,D
+1976-09-08,Volta Redonda,1-0,Sport,F
+1976-09-11,Palmeiras,4-0,Figueirense,A
+1976-09-11,Paysandu,1-5,Fortaleza,C
+1976-09-11,America-RJ,2-1,Atlético Mineiro,D
+1976-09-11,Vitória,2-0,Fluminense de Feira,E
+1976-09-12,Grêmio,0-0,Santos,A
+1976-09-12,Caxias,2-1,Internacional,A
+1976-09-12,Desportiva Ferroviária,0-3,Avaí,A
+1976-09-12,Botafogo-SP,2-0,São Paulo,B
+1976-09-12,Atlético Paranaense,1-1,Cruzeiro,B
+1976-09-12,Uberaba,1-0,Portuguesa,B
+1976-09-12,Corinthians,0-1,Guarani,C
+1976-09-12,Remo,2-0,Rio Negro-AM,C
+1976-09-12,Nacional-AM,1-0,Ponte Preta,C
+1976-09-12,Mixto,3-0,América Mineiro,D
+1976-09-12,Goiânia,2-4,Vasco,D
+1976-09-12,CRB,0-0,Botafogo-PB,E
+1976-09-12,Bahia,0-0,Fluminense,E
+1976-09-12,ABC,1-1,Náutico,F
+1976-09-12,Volta Redonda,5-1,Sampaio Corrêa,F
+1976-09-12,Flamengo,3-0,Sport,F
+1976-09-15,Rio Branco-ES,0-0,Figueirense,A
+1976-09-15,Caxias,0-0,Palmeiras,A
+1976-09-15,Santos,0-0,Avaí,A
+1976-09-15,São Paulo,0-2,Atlético Paranaense,B
+1976-09-15,Confiança,1-1,Coritiba,B
+1976-09-15,Paysandu,0-0,Ponte Preta,C
+1976-09-15,Nacional-AM,0-0,Fortaleza,C
+1976-09-15,Mixto,1-0,Vasco,D
+1976-09-15,Atlético Mineiro,2-1,Goiás,D
+1976-09-15,Americano,0-0,America-RJ,D
+1976-09-15,Fluminense de Feira,2-3,Fluminense,E
+1976-09-15,Botafogo,0-0,Bahia,E
+1976-09-15,CRB,0-2,Vitória,E
+1976-09-15,Flamengo-PI,0-0,Santa Cruz,F
+1976-09-15,Volta Redonda,0-0,Náutico,F
+1976-09-15,Sport,0-0,América-RN,F
+1976-09-16,Londrina,1-1,Cruzeiro,B
+1976-09-16,Rio Negro-AM,1-2,Corinthians,C
+1976-09-16,Operário-MS,5-3,Goiânia,D
+1976-09-16,Flamengo,8-1,Sampaio Corrêa,F
+1976-09-18,Desportiva Ferroviária,1-0,Figueirense,A
+1976-09-18,São Paulo,4-0,Uberaba,B
+1976-09-18,Guarani,1-1,Fortaleza,C
+1976-09-18,América Mineiro,0-1,Americano,D
+1976-09-18,Botafogo,2-1,CRB,E
+1976-09-19,Avaí,0-4,Internacional,A
+1976-09-19,Rio Branco-ES,0-1,Santos,A
+1976-09-19,Palmeiras,0-0,Grêmio,A
+1976-09-19,Londrina,1-0,Botafogo-SP,B
+1976-09-19,Cruzeiro,2-1,Coritiba,B
+1976-09-19,Atlético Paranaense,0-0,Portuguesa,B
+1976-09-19,Nacional-AM,1-0,Remo,C
+1976-09-19,Ponte Preta,2-0,Ceará,C
+1976-09-19,Paysandu,0-0,Corinthians,C
+1976-09-19,Vasco,0-2,America-RJ,D
+1976-09-19,Goiás,1-1,Operário-MS,D
+1976-09-19,Mixto,1-2,Goiânia,D
+1976-09-19,Fluminense de Feira,0-1,Botafogo-PB,E
+1976-09-19,Treze,0-2,Fluminense,E
+1976-09-19,CSA,1-1,Bahia,E
+1976-09-19,ABC,2-4,Santa Cruz,F
+1976-09-19,Flamengo-PI,2-2,Volta Redonda,F
+1976-09-19,Sport,1-0,Náutico,F
+1976-09-19,Sampaio Corrêa,0-0,América-RN,F
+1976-09-22,Palmeiras,1-0,Rio Branco-ES,A
+1976-09-22,Desportiva Ferroviária,1-4,Internacional,A
+1976-09-22,Caxias,1-0,Avaí,A
+1976-09-22,Atlético Paranaense,1-0,Confiança,B
+1976-09-22,Ceará,0-2,Corinthians,C
+1976-09-22,Guarani,1-1,Nacional-AM,C
+1976-09-22,Rio Negro-AM,2-0,Paysandu,C
+1976-09-22,América Mineiro,0-0,America-RJ,D
+1976-09-22,Operário-MS,0-0,Americano,D
+1976-09-22,Fluminense,3-0,Botafogo-PB,E
+1976-09-22,CSA,2-1,Botafogo,E
+1976-09-22,Bahia,3-0,Treze,E
+1976-09-22,Fluminense de Feira,2-0,CRB,E
+1976-09-22,América-RN,0-0,Flamengo,F
+1976-09-22,Santa Cruz,2-0,Volta Redonda,F
+1976-09-22,Sampaio Corrêa,0-3,Sport,F
+1976-09-22,Flamengo-PI,0-0,ABC,F
+1976-09-23,Figueirense,0-2,Grêmio,A
+1976-09-23,Coritiba,1-0,Uberaba,B
+1976-09-23,Portuguesa,3-1,Botafogo-SP,B
+1976-09-23,Fortaleza,3-1,Ponte Preta,C
+1976-09-23,Atlético Mineiro,3-1,Mixto,D
+1976-09-25,Avaí,2-1,Rio Branco-ES,A
+1976-09-25,Botafogo-SP,3-0,Confiança,B
+1976-09-25,Corinthians,2-0,Nacional-AM,C
+1976-09-25,Ceará,0-1,Paysandu,C
+1976-09-25,Goiânia,0-0,Americano,D
+1976-09-25,Botafogo,4-1,Fluminense de Feira,E
+1976-09-26,Grêmio,3-1,Desportiva Ferroviária,A
+1976-09-26,Santos,1-3,Internacional,A
+1976-09-26,Figueirense,1-0,Caxias,A
+1976-09-26,Uberaba,1-1,Cruzeiro,B
+1976-09-26,Coritiba,1-0,Londrina,B
+1976-09-26,Ponte Preta,1-1,Remo,C
+1976-09-26,Fortaleza,0-0,Rio Negro-AM,C
+1976-09-26,Goiás,1-0,America-RJ,D
+1976-09-26,Operário-MS,1-1,América Mineiro,D
+1976-09-26,Atlético Mineiro,3-0,Vasco,D
+1976-09-26,Fluminense,0-1,Vitória,E
+1976-09-26,Bahia,3-0,CRB,E
+1976-09-26,CSA,3-2,Treze,E
+1976-09-26,ABC,1-1,Sampaio Corrêa,F
+1976-09-26,Flamengo-PI,1-2,Sport,F
+1976-09-26,Náutico,0-3,Flamengo,F
+1976-09-29,Internacional,3-0,Rio Branco-ES,A
+1976-09-29,Avaí,0-1,Palmeiras,A
+1976-09-29,Caxias,2-0,Desportiva Ferroviária,A
+1976-09-29,Botafogo-SP,1-0,Atlético Paranaense,B
+1976-09-29,Cruzeiro,2-0,Confiança,B
+1976-09-29,Uberaba,1-2,Londrina,B
+1976-09-29,Portuguesa,0-2,Coritiba,B
+1976-09-29,Ponte Preta,1-1,Rio Negro-AM,C
+1976-09-29,Corinthians,3-0,Remo,C
+1976-09-29,Americano,1-3,Atlético Mineiro,D
+1976-09-29,Goiás,2-1,América Mineiro,D
+1976-09-29,Vasco,0-1,Operário-MS,D
+1976-09-29,America-RJ,3-1,Goiânia,D
+1976-09-29,CRB,0-4,Fluminense,E
+1976-09-29,Vitória,1-1,Botafogo,E
+1976-09-29,Botafogo-PB,1-1,CSA,E
+1976-09-29,Treze,2-1,Fluminense de Feira,E
+1976-09-29,Santa Cruz,2-1,Náutico,F
+1976-09-30,Guarani,2-0,Paysandu,C
+1976-09-30,Ceará,1-1,Nacional-AM,C
+1976-09-30,Botafogo-PB,1-2,Bahia,E
+1976-09-30,Flamengo,4-0,Volta Redonda,F
+1976-09-30,América-RN,1-2,Flamengo-PI,F
+1976-10-02,Rio Branco-ES,0-2,Caxias,A
+1976-10-02,Portuguesa,1-1,Londrina,B
+1976-10-03,Santos,0-0,Desportiva Ferroviária,A
+1976-10-03,Avaí,0-3,Grêmio,A
+1976-10-03,Internacional,1-0,Palmeiras,A
+1976-10-03,Botafogo-SP,1-1,Coritiba,B
+1976-10-03,São Paulo,1-0,Cruzeiro,B
+1976-10-03,Confiança,1-1,Uberaba,B
+1976-10-03,Guarani,0-0,Ponte Preta,C
+1976-10-09,Bahia,3-0,Santa Cruz,I
+1976-10-09,America-RJ,1-1,São Paulo,J
+1976-10-09,Portuguesa,1-0,Uberaba,L
+1976-10-09,Ponte Preta,3-0,Paysandu,M
+1976-10-10,Fluminense,1-1,Internacional,G
+1976-10-10,Fortaleza,1-1,Goiás,G
+1976-10-10,América-RN,1-3,Botafogo-SP,G
+1976-10-10,Coritiba,1-0,Sport,H
+1976-10-10,Grêmio,3-0,Corinthians,H
+1976-10-10,Operário-MS,2-0,Botafogo,H
+1976-10-10,Santos,2-1,Atlético Paranaense,I
+1976-10-10,Vitória,0-3,Flamengo,J
+1976-10-10,Guarani,0-1,Palmeiras,J
+1976-10-10,Caxias,0-0,Rio Branco-ES,K
+1976-10-10,Figueirense,3-1,Desportiva Ferroviária,K
+1976-10-10,Nacional-AM,1-1,Ceará,M
+1976-10-10,Mixto,4-1,Americano,N
+1976-10-10,Goiânia,4-0,América Mineiro,N
+1976-10-10,CSA,3-5,Botafogo-PB,O
+1976-10-10,Fluminense de Feira,1-0,Treze,O
+1976-10-10,Náutico,2-1,ABC,P
+1976-10-10,Volta Redonda,0-0,Flamengo-PI,P
+1976-10-13,Goiás,0-3,Internacional,G
+1976-10-13,Fortaleza,1-1,Botafogo-SP,G
+1976-10-13,América-RN,2-1,Fluminense,G
+1976-10-13,Grêmio,1-0,Operário-MS,H
+1976-10-13,Botafogo,1-0,Sport,H
+1976-10-13,Corinthians,1-0,Coritiba,H
+1976-10-13,Remo,1-2,Santos,I
+1976-10-13,Santa Cruz,2-2,Atlético Mineiro,I
+1976-10-13,Bahia,1-0,Atlético Paranaense,I
+1976-10-13,America-RJ,3-0,Vitória,J
+1976-10-13,Desportiva Ferroviária,0-0,Caxias,K
+1976-10-13,Londrina,1-2,Uberaba,L
+1976-10-13,Portuguesa,4-0,Confiança,L
+1976-10-13,Ponte Preta,5-0,Nacional-AM,M
+1976-10-13,América Mineiro,1-3,Mixto,N
+1976-10-13,CRB,1-1,Fluminense de Feira,O
+1976-10-13,Treze,1-0,CSA,O
+1976-10-13,Sampaio Corrêa,2-0,ABC,P
+1976-10-14,Flamengo,0-2,Palmeiras,J
+1976-10-14,São Paulo,0-1,Guarani,J
+1976-10-14,Rio Branco-ES,0-0,Avaí,K
+1976-10-14,Paysandu,2-0,Rio Negro-AM,M
+1976-10-14,Vasco,2-2,Goiânia,N
+1976-10-14,Náutico,0-0,Volta Redonda,P
+1976-10-16,Fluminense,3-1,Fortaleza,G
+1976-10-16,Corinthians,1-2,Botafogo,H
+1976-10-16,Sport,0-2,Operário-MS,H
+1976-10-16,Santos,0-0,Bahia,I
+1976-10-16,Cruzeiro,1-0,Uberaba,L
+1976-10-17,Internacional,2-0,América-RN,G
+1976-10-17,Botafogo-SP,4-0,Goiás,G
+1976-10-17,Coritiba,1-1,Grêmio,H
+1976-10-17,Atlético Mineiro,5-0,Atlético Paranaense,I
+1976-10-17,Santa Cruz,2-1,Remo,I
+1976-10-17,São Paulo,1-2,Palmeiras,J
+1976-10-17,Flamengo,1-0,America-RJ,J
+1976-10-17,Vitória,0-4,Guarani,J
+1976-10-17,Rio Branco-ES,1-0,Desportiva Ferroviária,K
+1976-10-17,Avaí,1-0,Figueirense,K
+1976-10-17,Londrina,1-2,Confiança,L
+1976-10-17,Rio Negro-AM,1-0,Nacional-AM,M
+1976-10-17,Ceará,2-1,Ponte Preta,M
+1976-10-17,Vasco,3-1,Americano,N
+1976-10-17,Goiânia,0-1,Mixto,N
+1976-10-17,CRB,1-0,CSA,O
+1976-10-17,Treze,2-1,Botafogo-PB,O
+1976-10-17,ABC,0-1,Volta Redonda,P
+1976-10-17,Flamengo-PI,2-0,Sampaio Corrêa,P
+1976-10-20,Goiás,0-0,América-RN,G
+1976-10-20,Internacional,2-0,Fortaleza,G
+1976-10-20,Botafogo-SP,1-1,Fluminense,G
+1976-10-20,Corinthians,3-1,Operário-MS,H
+1976-10-20,Atlético Paranaense,1-1,Remo,I
+1976-10-20,Santa Cruz,2-0,Santos,I
+1976-10-20,Atlético Mineiro,2-1,Bahia,I
+1976-10-20,Flamengo,4-0,Guarani,J
+1976-10-20,Vitória,2-4,São Paulo,J
+1976-10-20,Figueirense,0-1,Rio Branco-ES,K
+1976-10-20,Uberaba,1-0,Confiança,L
+1976-10-20,Rio Negro-AM,1-1,Ponte Preta,M
+1976-10-20,Paysandu,1-0,Ceará,M
+1976-10-20,Botafogo-PB,2-1,Fluminense de Feira,O
+1976-10-20,CRB,2-0,Treze,O
+1976-10-20,Sampaio Corrêa,3-1,Volta Redonda,P
+1976-10-20,Flamengo-PI,0-0,Náutico,P
+1976-10-21,Grêmio,1-0,Sport,H
+1976-10-21,Botafogo,0-2,Coritiba,H
+1976-10-21,Palmeiras,0-0,America-RJ,J
+1976-10-21,Avaí,0-0,Caxias,K
+1976-10-21,Portuguesa,1-1,Cruzeiro,L
+1976-10-21,América Mineiro,2-3,Vasco,N
+1976-10-21,Americano,5-0,Goiânia,N
+1976-10-23,Fluminense,1-1,Goiás,G
+1976-10-23,Ceará,0-0,Rio Negro-AM,M
+1976-10-23,Nacional-AM,2-2,Paysandu,M
+1976-10-23,Náutico,4-0,Sampaio Corrêa,P
+1976-10-23,ABC,5-1,Flamengo-PI,P
+1976-10-24,Internacional,3-0,Botafogo-SP,G
+1976-10-24,Fortaleza,2-1,América-RN,G
+1976-10-24,Sport,0-1,Corinthians,H
+1976-10-24,Botafogo,0-1,Grêmio,H
+1976-10-24,Operário-MS,0-1,Coritiba,H
+1976-10-24,Bahia,3-1,Remo,I
+1976-10-24,Atlético Paranaense,1-0,Santa Cruz,I
+1976-10-24,Atlético Mineiro,1-1,Santos,I
+1976-10-24,Guarani,6-1,America-RJ,J
+1976-10-24,Palmeiras,2-0,Vitória,J
+1976-10-24,São Paulo,1-2,Flamengo,J
+1976-10-24,Caxias,5-1,Figueirense,K
+1976-10-24,Avaí,1-0,Desportiva Ferroviária,K
+1976-10-24,Confiança,0-3,Cruzeiro,L
+1976-10-24,Londrina,1-3,Portuguesa,L
+1976-10-24,Americano,0-1,América Mineiro,N
+1976-10-24,Vasco,1-0,Mixto,N
+1976-10-24,Botafogo-PB,2-2,CRB,O
+1976-10-24,CSA,1-1,Fluminense de Feira,O
+1976-10-27,Remo,1-1,Atlético Mineiro,I
+1976-10-27,Cruzeiro,1-0,Londrina,L
+1976-10-30,Ponte Preta,1-0,Botafogo-SP,Q
+1976-10-30,Coritiba,1-0,Internacional,Q
+1976-10-30,Vasco,1-0,CRB,R
+1976-10-30,Bahia,1-1,Náutico,R
+1976-10-31,Corinthians,0-0,Portuguesa,Q
+1976-10-31,Santa Cruz,3-3,Palmeiras,Q
+1976-10-31,Flamengo,2-1,Atlético Mineiro,R
+1976-10-31,Grêmio,1-2,Fluminense,R
+1976-11-03,Palmeiras,2-1,Portuguesa,Q
+1976-11-03,Coritiba,1-0,Corinthians,Q
+1976-11-03,Botafogo-SP,1-4,Internacional,Q
+1976-11-03,Caxias,1-2,Santa Cruz,Q
+1976-11-03,Náutico,1-1,Vasco,R
+1976-11-03,Fluminense,1-0,CRB,R
+1976-11-03,Guarani,1-1,Flamengo,R
+1976-11-03,Bahia,0-2,Atlético Mineiro,R
+1976-11-06,Vasco,0-1,Bahia,R
+1976-11-07,Palmeiras,0-0,Corinthians,Q
+1976-11-07,Ponte Preta,1-0,Coritiba,Q
+1976-11-07,Botafogo-SP,1-0,Caxias,Q
+1976-11-07,Internacional,5-1,Santa Cruz,Q
+1976-11-07,Atlético Mineiro,4-1,CRB,R
+1976-11-07,Fluminense,1-0,Flamengo,R
+1976-11-07,Grêmio,1-1,Guarani,R
+1976-11-10,Internacional,2-0,Caxias,Q
+1976-11-10,Santa Cruz,2-4,Coritiba,Q
+1976-11-10,Portuguesa,0-1,Ponte Preta,Q
+1976-11-10,CRB,0-2,Flamengo,R
+1976-11-10,Bahia,2-1,Grêmio,R
+1976-11-10,Atlético Mineiro,2-0,Náutico,R
+1976-11-10,Fluminense,4-2,Guarani,R
+1976-11-11,Corinthians,2-1,Botafogo-SP,Q
+1976-11-14,Palmeiras,1-2,Internacional,Q
+1976-11-14,Caxias,1-4,Corinthians,Q
+1976-11-14,Ponte Preta,2-0,Santa Cruz,Q
+1976-11-14,Botafogo-SP,3-0,Portuguesa,Q
+1976-11-14,Fluminense,3-0,Vasco,R
+1976-11-14,CRB,2-0,Guarani,R
+1976-11-14,Náutico,0-3,Grêmio,R
+1976-11-14,Bahia,2-2,Flamengo,R
+1976-11-17,Portuguesa,2-2,Santa Cruz,Q
+1976-11-17,Caxias,3-0,Coritiba,Q
+1976-11-17,Botafogo-SP,0-3,Palmeiras,Q
+1976-11-17,Grêmio,1-3,Vasco,R
+1976-11-17,Náutico,3-1,Fluminense,R
+1976-11-17,CRB,2-2,Bahia,R
+1976-11-17,Guarani,1-0,Atlético Mineiro,R
+1976-11-18,Corinthians,2-0,Ponte Preta,Q
+1976-11-20,Portuguesa,3-4,Caxias,Q
+1976-11-21,Coritiba,0-1,Botafogo-SP,Q
+1976-11-21,Corinthians,2-1,Internacional,Q
+1976-11-21,Ponte Preta,2-1,Palmeiras,Q
+1976-11-21,Vasco,1-0,Flamengo,R
+1976-11-21,Grêmio,2-1,CRB,R
+1976-11-21,Náutico,0-1,Guarani,R
+1976-11-21,Atlético Mineiro,0-0,Fluminense,R
+1976-11-24,Coritiba,2-1,Portuguesa,Q
+1976-11-24,Internacional,2-0,Ponte Preta,Q
+1976-11-24,Santa Cruz,3-1,Botafogo-SP,Q
+1976-11-24,Palmeiras,0-0,Caxias,Q
+1976-11-24,Guarani,3-0,Bahia,R
+1976-11-24,Flamengo,5-1,Grêmio,R
+1976-11-24,CRB,1-3,Náutico,R
+1976-11-25,Vasco,0-4,Atlético Mineiro,R
+1976-11-27,Palmeiras,0-0,Coritiba,Q
+1976-11-27,Flamengo,2-0,Náutico,R
+1976-11-28,Internacional,3-0,Portuguesa,Q
+1976-11-28,Caxias,1-0,Ponte Preta,Q
+1976-11-28,Santa Cruz,1-2,Corinthians,Q
+1976-11-28,Guarani,2-3,Vasco,R
+1976-11-28,Fluminense,1-0,Bahia,R
+1976-11-28,Atlético Mineiro,0-0,Grêmio,R
+1976-12-05,Fluminense,1-1,Corinthians,SF
+1976-12-05,Internacional,2-1,Atlético Mineiro,SF
+1976-12-12,Internacional,2-0,Corinthians,F

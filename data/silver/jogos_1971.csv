@@ -1,0 +1,230 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1971,1971-08-07,Santa Cruz,Corinthians,1,4,D,V,NORMAL,1R
+1971,1971-08-07,Internacional,Fluminense,0,0,E,E,NORMAL,1R
+1971,1971-08-07,Palmeiras,Portuguesa,1,0,V,D,NORMAL,1R
+1971,1971-08-07,Ceará,Vasco,0,0,E,E,NORMAL,1R
+1971,1971-08-07,Coritiba,Cruzeiro,0,2,D,V,NORMAL,1R
+1971,1971-08-07,São Paulo,Grêmio,0,3,D,V,NORMAL,1R
+1971,1971-08-07,Sport,Flamengo,1,0,V,D,NORMAL,1R
+1971,1971-08-07,Bahia,Santos,0,0,E,E,NORMAL,1R
+1971,1971-08-07,Atlético Mineiro,América Mineiro,1,1,E,E,NORMAL,1R
+1971,1971-08-07,Botafogo,America-RJ,0,0,E,E,NORMAL,1R
+1971,1971-08-11,Ceará,Corinthians,0,1,D,V,NORMAL,1R
+1971,1971-08-11,Cruzeiro,Portuguesa,2,1,V,D,NORMAL,1R
+1971,1971-08-11,Bahia,Flamengo,1,1,E,E,NORMAL,1R
+1971,1971-08-11,America-RJ,Grêmio,0,2,D,V,NORMAL,1R
+1971,1971-08-11,Sport,Santos,0,2,D,V,NORMAL,1R
+1971,1971-08-12,Santa Cruz,Vasco,1,0,V,D,NORMAL,1R
+1971,1971-08-14,Santos,São Paulo,3,1,V,D,NORMAL,1R
+1971,1971-08-14,Flamengo,Botafogo,1,1,E,E,NORMAL,1R
+1971,1971-08-14,América Mineiro,America-RJ,1,1,E,E,NORMAL,1R
+1971,1971-08-14,Grêmio,Atlético Mineiro,1,1,E,E,NORMAL,1R
+1971,1971-08-15,Coritiba,Portuguesa,2,1,V,D,NORMAL,1R
+1971,1971-08-15,Corinthians,Palmeiras,0,0,E,E,NORMAL,1R
+1971,1971-08-15,Fluminense,Vasco,0,1,D,V,NORMAL,1R
+1971,1971-08-15,Ceará,Santa Cruz,0,0,E,E,NORMAL,1R
+1971,1971-08-15,Cruzeiro,Internacional,2,0,V,D,NORMAL,1R
+1971,1971-08-15,Bahia,Sport,3,0,V,D,NORMAL,1R
+1971,1971-08-18,Fluminense,Coritiba,2,1,V,D,NORMAL,1R
+1971,1971-08-18,Bahia,São Paulo,0,1,D,V,NORMAL,1R
+1971,1971-08-18,Santos,Botafogo,0,0,E,E,NORMAL,1R
+1971,1971-08-18,América Mineiro,Grêmio,0,0,E,E,NORMAL,1R
+1971,1971-08-21,Internacional,Palmeiras,2,1,V,D,NORMAL,1R
+1971,1971-08-21,Corinthians,Cruzeiro,0,0,E,E,NORMAL,1R
+1971,1971-08-21,Coritiba,Santa Cruz,1,0,V,D,NORMAL,1R
+1971,1971-08-21,Ceará,Fluminense,1,0,V,D,NORMAL,1R
+1971,1971-08-21,Flamengo,Atlético Mineiro,0,1,D,V,NORMAL,1R
+1971,1971-08-22,Vasco,Portuguesa,0,3,D,V,NORMAL,1R
+1971,1971-08-22,Sport,São Paulo,0,0,E,E,NORMAL,1R
+1971,1971-08-22,Santos,America-RJ,0,0,E,E,NORMAL,1R
+1971,1971-08-22,Grêmio,Botafogo,1,1,E,E,NORMAL,1R
+1971,1971-08-25,Botafogo,América Mineiro,2,1,V,D,NORMAL,1R
+1971,1971-08-25,Atlético Mineiro,Bahia,4,0,V,D,NORMAL,1R
+1971,1971-08-25,Grêmio,Sport,2,0,V,D,NORMAL,1R
+1971,1971-08-25,Santa Cruz,Fluminense,2,2,E,E,NORMAL,1R
+1971,1971-08-25,Coritiba,Internacional,0,1,D,V,NORMAL,1R
+1971,1971-08-25,Palmeiras,Cruzeiro,1,1,E,E,NORMAL,1R
+1971,1971-08-26,Corinthians,Portuguesa,4,1,V,D,NORMAL,1R
+1971,1971-08-26,Flamengo,America-RJ,1,1,E,E,NORMAL,1R
+1971,1971-08-28,Sport,Atlético Mineiro,1,1,E,E,NORMAL,1R
+1971,1971-08-29,Santa Cruz,Palmeiras,2,2,E,E,NORMAL,1R
+1971,1971-08-29,Internacional,Portuguesa,0,1,D,V,NORMAL,1R
+1971,1971-08-29,Fluminense,Corinthians,0,1,D,V,NORMAL,1R
+1971,1971-08-29,Cruzeiro,Ceará,6,0,V,D,NORMAL,1R
+1971,1971-08-29,Coritiba,Vasco,0,2,D,V,NORMAL,1R
+1971,1971-08-29,Bahia,América Mineiro,0,0,E,E,NORMAL,1R
+1971,1971-08-29,São Paulo,Flamengo,0,0,E,E,NORMAL,1R
+1971,1971-09-01,Portuguesa,Fluminense,1,0,V,D,NORMAL,1R
+1971,1971-09-01,Santa Cruz,Cruzeiro,1,0,V,D,NORMAL,1R
+1971,1971-09-01,Ceará,Palmeiras,0,3,D,V,NORMAL,1R
+1971,1971-09-01,Vasco,Internacional,1,1,E,E,NORMAL,1R
+1971,1971-09-01,Bahia,America-RJ,1,3,D,V,NORMAL,1R
+1971,1971-09-01,Atlético Mineiro,São Paulo,2,0,V,D,NORMAL,1R
+1971,1971-09-01,Grêmio,Santos,1,0,V,D,NORMAL,1R
+1971,1971-09-02,América Mineiro,Flamengo,1,1,E,E,NORMAL,1R
+1971,1971-09-02,Sport,Botafogo,0,1,D,V,NORMAL,1R
+1971,1971-09-04,Palmeiras,Fluminense,1,0,V,D,NORMAL,1R
+1971,1971-09-04,Cruzeiro,Vasco,0,0,E,E,NORMAL,1R
+1971,1971-09-05,Internacional,Corinthians,2,2,E,E,NORMAL,1R
+1971,1971-09-05,Coritiba,Ceará,2,1,V,D,NORMAL,1R
+1971,1971-09-05,São Paulo,América Mineiro,1,1,E,E,NORMAL,1R
+1971,1971-09-05,Flamengo,Grêmio,1,1,E,E,NORMAL,1R
+1971,1971-09-05,Atlético Mineiro,Santos,2,1,V,D,NORMAL,1R
+1971,1971-09-05,Bahia,Botafogo,0,1,D,V,NORMAL,1R
+1971,1971-09-05,Sport,America-RJ,0,3,D,V,NORMAL,1R
+1971,1971-09-07,Vasco,Palmeiras,1,0,V,D,NORMAL,1R
+1971,1971-09-08,Santa Cruz,Portuguesa,3,2,V,D,NORMAL,1R
+1971,1971-09-08,Corinthians,Coritiba,2,3,D,V,NORMAL,1R
+1971,1971-09-08,Ceará,Internacional,0,0,E,E,NORMAL,1R
+1971,1971-09-08,America-RJ,Atlético Mineiro,2,0,V,D,NORMAL,1R
+1971,1971-09-09,Santos,América Mineiro,3,0,V,D,NORMAL,1R
+1971,1971-09-09,Botafogo,São Paulo,2,1,V,D,NORMAL,1R
+1971,1971-09-11,Coritiba,Palmeiras,0,1,D,V,NORMAL,1R
+1971,1971-09-11,Santa Cruz,Internacional,2,2,E,E,NORMAL,1R
+1971,1971-09-11,Fluminense,Cruzeiro,0,1,D,V,NORMAL,1R
+1971,1971-09-11,Ceará,Portuguesa,0,0,E,E,NORMAL,1R
+1971,1971-09-11,Corinthians,Vasco,1,0,V,D,NORMAL,1R
+1971,1971-09-12,Atlético Mineiro,Botafogo,2,2,E,E,NORMAL,1R
+1971,1971-09-12,São Paulo,America-RJ,2,1,V,D,NORMAL,1R
+1971,1971-09-12,Flamengo,Santos,1,0,V,D,NORMAL,1R
+1971,1971-09-12,Grêmio,Bahia,0,0,E,E,NORMAL,1R
+1971,1971-09-12,Sport,América Mineiro,1,0,V,D,NORMAL,1R
+1971,1971-09-18,Vasco,São Paulo,0,0,E,E,NORMAL,1R
+1971,1971-09-18,Sport,Corinthians,0,1,D,V,NORMAL,1R
+1971,1971-09-18,Santos,Portuguesa,0,0,E,E,NORMAL,1R
+1971,1971-09-19,Fluminense,America-RJ,0,0,E,E,NORMAL,1R
+1971,1971-09-19,Ceará,Atlético Mineiro,0,2,D,V,NORMAL,1R
+1971,1971-09-19,Cruzeiro,Bahia,0,0,E,E,NORMAL,1R
+1971,1971-09-19,Internacional,América Mineiro,1,0,V,D,NORMAL,1R
+1971,1971-09-19,Coritiba,Grêmio,2,0,V,D,NORMAL,1R
+1971,1971-09-19,Palmeiras,Flamengo,1,2,D,V,NORMAL,1R
+1971,1971-09-19,Santa Cruz,Botafogo,0,0,E,E,NORMAL,1R
+1971,1971-09-22,Corinthians,Atlético Mineiro,0,0,E,E,NORMAL,1R
+1971,1971-09-25,Portuguesa,America-RJ,0,3,D,V,NORMAL,1R
+1971,1971-09-25,Grêmio,Ceará,1,0,V,D,NORMAL,1R
+1971,1971-09-25,Atlético Mineiro,Santa Cruz,2,2,E,E,NORMAL,1R
+1971,1971-09-25,Flamengo,Coritiba,1,1,E,E,NORMAL,1R
+1971,1971-09-26,Bahia,Corinthians,1,2,D,V,NORMAL,1R
+1971,1971-09-26,São Paulo,Cruzeiro,1,1,E,E,NORMAL,1R
+1971,1971-09-26,Fluminense,Botafogo,0,0,E,E,NORMAL,1R
+1971,1971-09-26,América Mineiro,Palmeiras,1,2,D,V,NORMAL,1R
+1971,1971-09-26,Sport,Vasco,0,1,D,V,NORMAL,1R
+1971,1971-09-26,Internacional,Santos,1,1,E,E,NORMAL,1R
+1971,1971-09-29,America-RJ,Cruzeiro,2,1,V,D,NORMAL,1R
+1971,1971-10-02,Corinthians,América Mineiro,3,1,V,D,NORMAL,1R
+1971,1971-10-02,Internacional,America-RJ,2,0,V,D,NORMAL,1R
+1971,1971-10-03,Grêmio,Portuguesa,1,0,V,D,NORMAL,1R
+1971,1971-10-03,Sport,Fluminense,0,1,D,V,NORMAL,1R
+1971,1971-10-03,Bahia,Santa Cruz,2,0,V,D,NORMAL,1R
+1971,1971-10-03,Coritiba,Atlético Mineiro,1,0,V,D,NORMAL,1R
+1971,1971-10-03,Flamengo,Vasco,0,0,E,E,NORMAL,1R
+1971,1971-10-03,Ceará,São Paulo,0,1,D,V,NORMAL,1R
+1971,1971-10-03,Cruzeiro,Santos,0,1,D,V,NORMAL,1R
+1971,1971-10-03,Palmeiras,Botafogo,3,1,V,D,NORMAL,1R
+1971,1971-10-06,Vasco,América Mineiro,2,0,V,D,NORMAL,1R
+1971,1971-10-06,São Paulo,Internacional,1,1,E,E,NORMAL,1R
+1971,1971-10-06,Santa Cruz,Grêmio,1,1,E,E,NORMAL,1R
+1971,1971-10-09,Botafogo,Corinthians,1,0,V,D,NORMAL,1R
+1971,1971-10-09,América Mineiro,Santa Cruz,0,0,E,E,NORMAL,1R
+1971,1971-10-10,Coritiba,America-RJ,2,1,V,D,NORMAL,1R
+1971,1971-10-10,Grêmio,Vasco,1,0,V,D,NORMAL,1R
+1971,1971-10-10,Bahia,Internacional,1,1,E,E,NORMAL,1R
+1971,1971-10-10,São Paulo,Portuguesa,0,1,D,V,NORMAL,1R
+1971,1971-10-10,Atlético Mineiro,Cruzeiro,1,1,E,E,NORMAL,1R
+1971,1971-10-10,Ceará,Santos,0,0,E,E,NORMAL,1R
+1971,1971-10-10,Sport,Palmeiras,0,2,D,V,NORMAL,1R
+1971,1971-10-10,Fluminense,Flamengo,1,0,V,D,NORMAL,1R
+1971,1971-10-13,Flamengo,Portuguesa,1,0,V,D,NORMAL,1R
+1971,1971-10-13,América Mineiro,Coritiba,2,0,V,D,NORMAL,1R
+1971,1971-10-16,Palmeiras,Santos,0,1,D,V,NORMAL,1R
+1971,1971-10-16,Fluminense,Atlético Mineiro,2,0,V,D,NORMAL,1R
+1971,1971-10-17,Coritiba,Bahia,2,0,V,D,NORMAL,1R
+1971,1971-10-17,Cruzeiro,Sport,5,1,V,D,NORMAL,1R
+1971,1971-10-17,Ceará,Botafogo,1,0,V,D,NORMAL,1R
+1971,1971-10-17,Vasco,America-RJ,2,2,E,E,NORMAL,1R
+1971,1971-10-17,Santa Cruz,Flamengo,1,1,E,E,NORMAL,1R
+1971,1971-10-17,São Paulo,Corinthians,2,0,V,D,NORMAL,1R
+1971,1971-10-17,Internacional,Grêmio,1,0,V,D,NORMAL,1R
+1971,1971-10-20,Bahia,Ceará,3,1,V,D,NORMAL,1R
+1971,1971-10-20,Sport,Coritiba,2,1,V,D,NORMAL,1R
+1971,1971-10-23,São Paulo,Palmeiras,1,1,E,E,NORMAL,1R
+1971,1971-10-23,Botafogo,Internacional,0,0,E,E,NORMAL,1R
+1971,1971-10-23,Atlético Mineiro,Portuguesa,5,1,V,D,NORMAL,1R
+1971,1971-10-24,Ceará,America-RJ,0,1,D,V,NORMAL,1R
+1971,1971-10-24,Cruzeiro,América Mineiro,0,0,E,E,NORMAL,1R
+1971,1971-10-24,Santos,Vasco,2,0,V,D,NORMAL,1R
+1971,1971-10-24,Sport,Santa Cruz,1,1,E,E,NORMAL,1R
+1971,1971-10-24,Grêmio,Fluminense,1,0,V,D,NORMAL,1R
+1971,1971-10-24,Flamengo,Corinthians,1,3,D,V,NORMAL,1R
+1971,1971-10-27,Coritiba,Santos,1,0,V,D,NORMAL,1R
+1971,1971-10-27,Fluminense,América Mineiro,0,0,E,E,NORMAL,1R
+1971,1971-10-27,Portuguesa,Botafogo,3,1,V,D,NORMAL,1R
+1971,1971-10-30,Cruzeiro,Grêmio,2,1,V,D,NORMAL,1R
+1971,1971-10-30,Corinthians,Santos,1,1,E,E,NORMAL,1R
+1971,1971-10-30,Santa Cruz,São Paulo,0,2,D,V,NORMAL,1R
+1971,1971-10-30,America-RJ,Palmeiras,2,0,V,D,NORMAL,1R
+1971,1971-10-31,Atlético Mineiro,Internacional,3,1,V,D,NORMAL,1R
+1971,1971-10-31,Sport,Portuguesa,0,0,E,E,NORMAL,1R
+1971,1971-10-31,Bahia,Fluminense,0,0,E,E,NORMAL,1R
+1971,1971-10-31,Ceará,Flamengo,0,1,D,V,NORMAL,1R
+1971,1971-10-31,Vasco,Botafogo,1,0,V,D,NORMAL,1R
+1971,1971-11-06,São Paulo,Fluminense,2,1,V,D,NORMAL,1R
+1971,1971-11-06,Vasco,Atlético Mineiro,0,0,E,E,NORMAL,1R
+1971,1971-11-06,Internacional,Sport,2,1,V,D,NORMAL,1R
+1971,1971-11-07,Coritiba,Botafogo,0,0,E,E,NORMAL,1R
+1971,1971-11-07,Grêmio,Palmeiras,0,1,D,V,NORMAL,1R
+1971,1971-11-07,América Mineiro,Ceará,2,0,V,D,NORMAL,1R
+1971,1971-11-07,Bahia,Portuguesa,1,0,V,D,NORMAL,1R
+1971,1971-11-07,Santa Cruz,Santos,0,1,D,V,NORMAL,1R
+1971,1971-11-07,Corinthians,America-RJ,3,1,V,D,NORMAL,1R
+1971,1971-11-07,Flamengo,Cruzeiro,0,0,E,E,NORMAL,1R
+1971,1971-11-10,Palmeiras,Bahia,0,0,E,E,NORMAL,1R
+1971,1971-11-13,Portuguesa,América Mineiro,1,0,V,D,NORMAL,1R
+1971,1971-11-13,Fluminense,Santos,3,1,V,D,NORMAL,1R
+1971,1971-11-14,Ceará,Sport,1,2,D,V,NORMAL,1R
+1971,1971-11-14,Botafogo,Cruzeiro,2,2,E,E,NORMAL,1R
+1971,1971-11-14,Santa Cruz,America-RJ,0,0,E,E,NORMAL,1R
+1971,1971-11-14,Bahia,Vasco,1,0,V,D,NORMAL,1R
+1971,1971-11-14,Corinthians,Grêmio,1,1,E,E,NORMAL,1R
+1971,1971-11-14,Atlético Mineiro,Palmeiras,0,0,E,E,NORMAL,1R
+1971,1971-11-14,Internacional,Flamengo,3,0,V,D,NORMAL,1R
+1971,1971-11-14,Coritiba,São Paulo,2,0,V,D,NORMAL,1R
+1971,1971-11-20,Palmeiras,Coritiba,1,1,E,E,NORMAL,C
+1971,1971-11-20,Internacional,Santos,1,1,E,E,NORMAL,B
+1971,1971-11-21,São Paulo,Corinthians,1,0,V,D,NORMAL,A
+1971,1971-11-21,America-RJ,Cruzeiro,0,0,E,E,NORMAL,A
+1971,1971-11-21,Grêmio,Botafogo,1,1,E,E,NORMAL,C
+1971,1971-11-21,Atlético Mineiro,Vasco,2,1,V,D,NORMAL,B
+1971,1971-11-24,Corinthians,America-RJ,1,0,V,D,NORMAL,A
+1971,1971-11-24,Cruzeiro,São Paulo,0,2,D,V,NORMAL,A
+1971,1971-11-24,Botafogo,Palmeiras,3,3,E,E,NORMAL,C
+1971,1971-11-24,Coritiba,Grêmio,0,1,D,V,NORMAL,C
+1971,1971-11-25,Santos,Atlético Mineiro,2,1,V,D,NORMAL,B
+1971,1971-11-25,Vasco,Internacional,2,0,V,D,NORMAL,B
+1971,1971-11-27,São Paulo,America-RJ,1,0,V,D,NORMAL,A
+1971,1971-11-28,Cruzeiro,Corinthians,1,0,V,D,NORMAL,A
+1971,1971-11-28,Coritiba,Botafogo,1,0,V,D,NORMAL,C
+1971,1971-11-28,Palmeiras,Grêmio,3,1,V,D,NORMAL,C
+1971,1971-11-28,Vasco,Santos,0,0,E,E,NORMAL,B
+1971,1971-11-28,Internacional,Atlético Mineiro,1,4,D,V,NORMAL,B
+1971,1971-12-01,America-RJ,Corinthians,3,1,V,D,NORMAL,A
+1971,1971-12-01,São Paulo,Cruzeiro,1,1,E,E,NORMAL,A
+1971,1971-12-01,Atlético Mineiro,Santos,2,0,V,D,NORMAL,B
+1971,1971-12-01,Internacional,Vasco,3,0,V,D,NORMAL,B
+1971,1971-12-02,Palmeiras,Botafogo,0,1,D,V,NORMAL,C
+1971,1971-12-02,Grêmio,Coritiba,2,0,V,D,NORMAL,C
+1971,1971-12-04,Corinthians,São Paulo,0,0,E,E,NORMAL,A
+1971,1971-12-04,Vasco,Atlético Mineiro,1,1,E,E,NORMAL,B
+1971,1971-12-05,Cruzeiro,America-RJ,0,0,E,E,NORMAL,A
+1971,1971-12-05,Coritiba,Palmeiras,0,0,E,E,NORMAL,C
+1971,1971-12-05,Botafogo,Grêmio,3,1,V,D,NORMAL,C
+1971,1971-12-05,Santos,Internacional,0,1,D,V,NORMAL,B
+1971,1971-12-08,Corinthians,Cruzeiro,2,0,V,D,NORMAL,A
+1971,1971-12-08,São Paulo,America-RJ,1,1,E,E,NORMAL,A
+1971,1971-12-09,Botafogo,Coritiba,3,0,V,D,NORMAL,C
+1971,1971-12-09,Grêmio,Palmeiras,0,0,E,E,NORMAL,C
+1971,1971-12-09,Santos,Vasco,4,0,V,D,NORMAL,B
+1971,1971-12-09,Atlético Mineiro,Internacional,0,1,D,V,NORMAL,B
+1971,1971-12-12,Atlético Mineiro,São Paulo,1,0,V,D,NORMAL,A
+1971,1971-12-15,São Paulo,Botafogo,4,1,V,D,NORMAL,A
+1971,1971-12-19,Botafogo,Atlético Mineiro,0,1,D,V,NORMAL,A

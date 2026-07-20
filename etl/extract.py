@@ -19,6 +19,7 @@ Autor  : Brasileirão Analytics — Engenharia de Dados
 Versão : 5.0.0
 """
 
+import os
 import time
 import logging
 from pathlib import Path
@@ -333,6 +334,40 @@ def save_to_csv(matches: list[dict], output_path: Path, ano: int) -> None:
 
 
 # ---------------------------------------------------------------------------
+# Seleção de anos
+# ---------------------------------------------------------------------------
+
+def selecionar_anos() -> dict[int, str]:
+    """
+    Filtra os anos a extrair com base na variável de ambiente ANOS_EXTRACAO:
+      - "todos" (padrão) → todas as edições mapeadas
+      - "atual"          → apenas a edição mais recente (uso do GitHub Actions)
+      - "2024,2025"      → lista explícita de anos
+    """
+    raw = os.getenv("ANOS_EXTRACAO", "todos").strip().lower()
+
+    if raw in ("", "todos", "all"):
+        return dict(URLS_OGOL_BRASILEIRAO)
+
+    if raw in ("atual", "current"):
+        ano_atual = max(URLS_OGOL_BRASILEIRAO)
+        return {ano_atual: URLS_OGOL_BRASILEIRAO[ano_atual]}
+
+    anos = []
+    for parte in raw.split(","):
+        parte = parte.strip()
+        if parte.isdigit() and int(parte) in URLS_OGOL_BRASILEIRAO:
+            anos.append(int(parte))
+        elif parte:
+            logger.warning(f"ANOS_EXTRACAO: ano inválido ou não mapeado ignorado: '{parte}'")
+
+    if not anos:
+        raise ValueError(f"ANOS_EXTRACAO='{raw}' não resultou em nenhum ano válido.")
+
+    return {a: URLS_OGOL_BRASILEIRAO[a] for a in anos}
+
+
+# ---------------------------------------------------------------------------
 # Ponto de Entrada
 # ---------------------------------------------------------------------------
 
@@ -342,9 +377,11 @@ def main() -> None:
         if u not in ("SEGUNDO_EMAIL_AQUI", "") and p not in ("SEGUNDA_SENHA_AQUI", "")
     ]
 
+    urls_selecionadas = selecionar_anos()
+
     logger.info("=" * 60)
     logger.info("EXTRAÇÃO BRONZE — Brasileirão Histórico (Ogol)")
-    logger.info(f"Anos a processar : {len(URLS_OGOL_BRASILEIRAO)}")
+    logger.info(f"Anos a processar : {len(urls_selecionadas)} → {sorted(urls_selecionadas)}")
     logger.info(f"Contas disponíveis: {len(valid_accounts)}")
     logger.info("=" * 60)
 
@@ -352,7 +389,7 @@ def main() -> None:
     anos_ok: list[int] = []
     anos_falha: list[int] = []
 
-    anos_para_processar = sorted(URLS_OGOL_BRASILEIRAO.items())
+    anos_para_processar = sorted(urls_selecionadas.items())
     current_account_idx = 0
 
     with sync_playwright() as pw:

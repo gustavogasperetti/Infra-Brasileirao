@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2007,2007-05-12,Figueirense,Athletico Paranaense,3,6,D,V,NORMAL,R1
+2007,2007-05-12,Fluminense,Cruzeiro,2,2,E,E,NORMAL,R1
+2007,2007-05-12,São Paulo,Goiás,2,0,V,D,NORMAL,R1
+2007,2007-05-13,Atlético Mineiro,Náutico,2,1,V,D,NORMAL,R1
+2007,2007-05-13,Flamengo,Palmeiras,2,4,D,V,NORMAL,R1
+2007,2007-05-13,Internacional,Botafogo,2,3,D,V,NORMAL,R1
+2007,2007-05-13,Paraná,Grêmio,3,0,V,D,NORMAL,R1
+2007,2007-05-13,América-RN,Vasco,0,1,D,V,NORMAL,R1
+2007,2007-05-13,Corinthians,Juventude,1,0,V,D,NORMAL,R1
+2007,2007-05-13,Sport,Santos,4,1,V,D,NORMAL,R1
+2007,2007-05-19,Santos,América-RN,2,3,D,V,NORMAL,R2
+2007,2007-05-19,Athletico Paranaense,Internacional,2,1,V,D,NORMAL,R2
+2007,2007-05-19,Juventude,Paraná,1,2,D,V,NORMAL,R2
+2007,2007-05-20,Palmeiras,Figueirense,2,1,V,D,NORMAL,R2
+2007,2007-05-20,Botafogo,Atlético Mineiro,2,1,V,D,NORMAL,R2
+2007,2007-05-20,Cruzeiro,Corinthians,0,3,D,V,NORMAL,R2
+2007,2007-05-20,Goiás,Flamengo,1,3,D,V,NORMAL,R2
+2007,2007-05-20,Náutico,São Paulo,1,0,V,D,NORMAL,R2
+2007,2007-05-20,Vasco,Sport,3,1,V,D,NORMAL,R2
+2007,2007-05-20,Grêmio,Fluminense,2,0,V,D,NORMAL,R2
+2007,2007-05-26,América-RN,Figueirense,0,1,D,V,NORMAL,R3
+2007,2007-05-26,Corinthians,Atlético Mineiro,0,0,E,E,NORMAL,R3
+2007,2007-05-26,Fluminense,Internacional,3,0,V,D,NORMAL,R3
+2007,2007-05-27,Athletico Paranaense,Santos,0,1,D,V,NORMAL,R3
+2007,2007-05-27,Grêmio,Sport,1,0,V,D,NORMAL,R3
+2007,2007-05-27,Náutico,Vasco,2,2,E,E,NORMAL,R3
+2007,2007-05-27,São Paulo,Palmeiras,0,0,E,E,NORMAL,R3
+2007,2007-05-27,Cruzeiro,Paraná,3,4,D,V,NORMAL,R3
+2007,2007-05-27,Flamengo,Botafogo,2,2,E,E,NORMAL,R3
+2007,2007-05-27,Goiás,Juventude,3,1,V,D,NORMAL,R3
+2007,2007-06-02,Atlético Mineiro,Athletico Paranaense,1,1,E,E,NORMAL,R4
+2007,2007-06-02,Botafogo,Grêmio,3,0,V,D,NORMAL,R4
+2007,2007-06-02,Figueirense,Goiás,2,1,V,D,NORMAL,R4
+2007,2007-06-03,Juventude,América-RN,3,0,V,D,NORMAL,R4
+2007,2007-06-03,Palmeiras,Cruzeiro,1,3,D,V,NORMAL,R4
+2007,2007-06-03,Santos,Corinthians,1,1,E,E,NORMAL,R4
+2007,2007-06-03,Sport,Flamengo,2,2,E,E,NORMAL,R4
+2007,2007-06-03,Paraná,São Paulo,0,1,D,V,NORMAL,R4
+2007,2007-06-03,Vasco,Fluminense,1,1,E,E,NORMAL,R4
+2007,2007-06-04,Internacional,Náutico,2,0,V,D,NORMAL,R4
+2007,2007-06-09,Náutico,Paraná,4,4,E,E,NORMAL,R5
+2007,2007-06-09,Palmeiras,Botafogo,1,1,E,E,NORMAL,R5
+2007,2007-06-09,Vasco,Grêmio,4,0,V,D,NORMAL,R5
+2007,2007-06-10,América-RN,Corinthians,1,2,D,V,NORMAL,R5
+2007,2007-06-10,Athletico Paranaense,Goiás,0,3,D,V,NORMAL,R5
+2007,2007-06-10,Figueirense,Flamengo,4,0,V,D,NORMAL,R5
+2007,2007-06-10,Fluminense,Sport,3,0,V,D,NORMAL,R5
+2007,2007-06-10,Cruzeiro,Juventude,2,3,D,V,NORMAL,R5
+2007,2007-06-10,Internacional,Santos,1,0,V,D,NORMAL,R5
+2007,2007-06-10,São Paulo,Atlético Mineiro,0,1,D,V,NORMAL,R5
+2007,2007-06-14,Botafogo,Vasco,4,0,V,D,NORMAL,R12
+2007,2007-06-16,Corinthians,Paraná,0,0,E,E,NORMAL,R6
+2007,2007-06-16,Flamengo,Internacional,2,2,E,E,NORMAL,R6
+2007,2007-06-16,Grêmio,Cruzeiro,0,2,D,V,NORMAL,R6
+2007,2007-06-17,Atlético Mineiro,Figueirense,4,1,V,D,NORMAL,R6
+2007,2007-06-17,Athletico Paranaense,Fluminense,1,1,E,E,NORMAL,R6
+2007,2007-06-17,Goiás,Palmeiras,3,1,V,D,NORMAL,R6
+2007,2007-06-17,São Paulo,Vasco,2,0,V,D,NORMAL,R6
+2007,2007-06-17,Botafogo,Náutico,3,1,V,D,NORMAL,R6
+2007,2007-06-17,Juventude,Santos,0,2,D,V,NORMAL,R6
+2007,2007-06-17,Sport,América-RN,2,2,E,E,NORMAL,R6
+2007,2007-06-23,Juventude,Figueirense,1,1,E,E,NORMAL,R7
+2007,2007-06-24,América-RN,Fluminense,0,1,D,V,NORMAL,R7
+2007,2007-06-24,Cruzeiro,Atlético Mineiro,4,2,V,D,NORMAL,R7
+2007,2007-06-24,Palmeiras,Athletico Paranaense,0,2,D,V,NORMAL,R7
+2007,2007-06-24,Santos,São Paulo,0,2,D,V,NORMAL,R7
+2007,2007-06-24,Paraná,Sport,1,0,V,D,NORMAL,R7
+2007,2007-06-24,Internacional,Grêmio,0,2,D,V,NORMAL,R7
+2007,2007-06-24,Náutico,Goiás,0,2,D,V,NORMAL,R7
+2007,2007-06-28,Figueirense,São Paulo,0,0,E,E,NORMAL,R8
+2007,2007-06-28,Sport,Náutico,4,1,V,D,NORMAL,R8
+2007,2007-06-30,América-RN,Goiás,0,3,D,V,NORMAL,R8
+2007,2007-06-30,Cruzeiro,Vasco,3,1,V,D,NORMAL,R8
+2007,2007-06-30,Santos,Grêmio,0,0,E,E,NORMAL,R8
+2007,2007-06-30,Corinthians,Palmeiras,0,1,D,V,NORMAL,R8
+2007,2007-06-30,Fluminense,Botafogo,1,2,D,V,NORMAL,R8
+2007,2007-06-30,Internacional,Atlético Mineiro,1,1,E,E,NORMAL,R8
+2007,2007-06-30,Paraná,Athletico Paranaense,2,2,E,E,NORMAL,R8
+2007,2007-07-03,Palmeiras,América-RN,2,0,V,D,NORMAL,R9
+2007,2007-07-03,Athletico Paranaense,Náutico,1,1,E,E,NORMAL,R9
+2007,2007-07-03,Figueirense,Cruzeiro,2,1,V,D,NORMAL,R9
+2007,2007-07-03,Fluminense,Paraná,0,0,E,E,NORMAL,R9
+2007,2007-07-03,Grêmio,Juventude,3,1,V,D,NORMAL,R9
+2007,2007-07-03,São Paulo,Internacional,1,0,V,D,NORMAL,R9
+2007,2007-07-03,Goiás,Botafogo,1,1,E,E,NORMAL,R9
+2007,2007-07-04,Atlético Mineiro,Flamengo,1,1,E,E,NORMAL,R9
+2007,2007-07-04,Sport,Corinthians,2,1,V,D,NORMAL,R9
+2007,2007-07-04,Vasco,Santos,4,0,V,D,NORMAL,R9
+2007,2007-07-06,Paraná,América-RN,0,1,D,V,NORMAL,R10
+2007,2007-07-07,Atlético Mineiro,Grêmio,0,1,D,V,NORMAL,R10
+2007,2007-07-07,Corinthians,Fluminense,1,1,E,E,NORMAL,R10
+2007,2007-07-07,Santos,Cruzeiro,4,1,V,D,NORMAL,R10
+2007,2007-07-07,Botafogo,Athletico Paranaense,2,0,V,D,NORMAL,R10
+2007,2007-07-07,São Paulo,Flamengo,0,0,E,E,NORMAL,R10
+2007,2007-07-07,Goiás,Sport,3,2,V,D,NORMAL,R10
+2007,2007-07-07,Internacional,Figueirense,2,1,V,D,NORMAL,R10
+2007,2007-07-07,Juventude,Vasco,2,0,V,D,NORMAL,R10
+2007,2007-07-07,Náutico,Palmeiras,0,1,D,V,NORMAL,R10
+2007,2007-07-12,Juventude,Náutico,1,1,E,E,NORMAL,R11
+2007,2007-07-12,Paraná,Figueirense,1,2,D,V,NORMAL,R11
+2007,2007-07-12,Vasco,Athletico Paranaense,1,0,V,D,NORMAL,R11
+2007,2007-07-14,Grêmio,Palmeiras,1,1,E,E,NORMAL,R11
+2007,2007-07-14,Santos,Botafogo,3,0,V,D,NORMAL,R11
+2007,2007-07-14,Sport,Atlético Mineiro,2,0,V,D,NORMAL,R11
+2007,2007-07-14,América-RN,Internacional,1,2,D,V,NORMAL,R11
+2007,2007-07-14,Cruzeiro,Goiás,2,1,V,D,NORMAL,R11
+2007,2007-07-14,Corinthians,São Paulo,1,1,E,E,NORMAL,R11
+2007,2007-07-18,Figueirense,Sport,0,1,D,V,NORMAL,R12
+2007,2007-07-18,Atlético Mineiro,América-RN,4,1,V,D,NORMAL,R12
+2007,2007-07-18,Athletico Paranaense,Juventude,4,0,V,D,NORMAL,R12
+2007,2007-07-18,Internacional,Corinthians,3,0,V,D,NORMAL,R12
+2007,2007-07-18,Náutico,Cruzeiro,1,4,D,V,NORMAL,R12
+2007,2007-07-18,São Paulo,Fluminense,0,1,D,V,NORMAL,R12
+2007,2007-07-19,Flamengo,Paraná,1,2,D,V,NORMAL,R12
+2007,2007-07-19,Goiás,Grêmio,0,0,E,E,NORMAL,R12
+2007,2007-07-19,Palmeiras,Santos,2,2,E,E,NORMAL,R12
+2007,2007-07-21,América-RN,Athletico Paranaense,2,1,V,D,NORMAL,R13
+2007,2007-07-21,Juventude,Internacional,2,0,V,D,NORMAL,R13
+2007,2007-07-21,Vasco,Atlético Mineiro,4,0,V,D,NORMAL,R13
+2007,2007-07-22,Corinthians,Náutico,0,3,D,V,NORMAL,R13
+2007,2007-07-22,Cruzeiro,São Paulo,1,2,D,V,NORMAL,R13
+2007,2007-07-22,Fluminense,Goiás,3,0,V,D,NORMAL,R13
+2007,2007-07-22,Grêmio,Flamengo,1,0,V,D,NORMAL,R13
+2007,2007-07-22,Paraná,Palmeiras,1,0,V,D,NORMAL,R13
+2007,2007-07-22,Santos,Figueirense,3,1,V,D,NORMAL,R13
+2007,2007-07-22,Sport,Botafogo,3,3,E,E,NORMAL,R13
+2007,2007-07-25,Athletico Paranaense,Cruzeiro,2,2,E,E,NORMAL,R14
+2007,2007-07-25,Goiás,Santos,1,0,V,D,NORMAL,R14
+2007,2007-07-25,Flamengo,América-RN,3,1,V,D,NORMAL,R14
+2007,2007-07-25,Náutico,Grêmio,0,2,D,V,NORMAL,R14
+2007,2007-07-25,Figueirense,Corinthians,2,2,E,E,NORMAL,R14
+2007,2007-07-25,Internacional,Paraná,1,0,V,D,NORMAL,R14
+2007,2007-07-25,Palmeiras,Vasco,3,2,V,D,NORMAL,R14
+2007,2007-07-26,Atlético Mineiro,Fluminense,3,0,V,D,NORMAL,R14
+2007,2007-07-26,Botafogo,Juventude,3,1,V,D,NORMAL,R14
+2007,2007-07-26,São Paulo,Sport,3,1,V,D,NORMAL,R14
+2007,2007-07-28,Grêmio,Athletico Paranaense,1,1,E,E,NORMAL,R15
+2007,2007-07-28,Santos,Náutico,1,2,D,V,NORMAL,R15
+2007,2007-07-28,Vasco,Goiás,4,1,V,D,NORMAL,R15
+2007,2007-07-29,Corinthians,Flamengo,2,2,E,E,NORMAL,R15
+2007,2007-07-29,Juventude,Palmeiras,1,1,E,E,NORMAL,R15
+2007,2007-07-29,Paraná,Atlético Mineiro,1,3,D,V,NORMAL,R15
+2007,2007-07-29,Sport,Internacional,1,5,D,V,NORMAL,R15
+2007,2007-07-29,América-RN,São Paulo,0,1,D,V,NORMAL,R15
+2007,2007-07-29,Cruzeiro,Botafogo,3,2,V,D,NORMAL,R15
+2007,2007-07-29,Fluminense,Figueirense,1,1,E,E,NORMAL,R15
+2007,2007-08-01,Goiás,Paraná,2,0,V,D,NORMAL,R16
+2007,2007-08-01,Náutico,Fluminense,0,0,E,E,NORMAL,R16
+2007,2007-08-01,Botafogo,América-RN,4,2,V,D,NORMAL,R16
+2007,2007-08-01,Palmeiras,Sport,1,2,D,V,NORMAL,R16
+2007,2007-08-01,Atlético Mineiro,Santos,1,2,D,V,NORMAL,R16
+2007,2007-08-01,Athletico Paranaense,Corinthians,2,2,E,E,NORMAL,R16
+2007,2007-08-01,Internacional,Vasco,0,2,D,V,NORMAL,R16
+2007,2007-08-02,Figueirense,Grêmio,1,0,V,D,NORMAL,R16
+2007,2007-08-02,São Paulo,Juventude,3,1,V,D,NORMAL,R16
+2007,2007-08-04,América-RN,Náutico,1,5,D,V,NORMAL,R17
+2007,2007-08-04,Corinthians,Goiás,1,0,V,D,NORMAL,R17
+2007,2007-08-04,Sport,Athletico Paranaense,3,2,V,D,NORMAL,R17
+2007,2007-08-05,Cruzeiro,Internacional,3,2,V,D,NORMAL,R17
+2007,2007-08-05,Fluminense,Palmeiras,0,1,D,V,NORMAL,R17
+2007,2007-08-05,Juventude,Atlético Mineiro,1,2,D,V,NORMAL,R17
+2007,2007-08-05,Santos,Flamengo,3,0,V,D,NORMAL,R17
+2007,2007-08-05,Grêmio,São Paulo,0,2,D,V,NORMAL,R17
+2007,2007-08-05,Paraná,Botafogo,0,0,E,E,NORMAL,R17
+2007,2007-08-05,Vasco,Figueirense,2,2,E,E,NORMAL,R17
+2007,2007-08-08,Cruzeiro,Sport,2,0,V,D,NORMAL,R18
+2007,2007-08-08,Juventude,Fluminense,0,0,E,E,NORMAL,R18
+2007,2007-08-08,Botafogo,São Paulo,0,2,D,V,NORMAL,R18
+2007,2007-08-08,Náutico,Figueirense,4,2,V,D,NORMAL,R18
+2007,2007-08-08,Athletico Paranaense,Flamengo,2,0,V,D,NORMAL,R18
+2007,2007-08-08,Goiás,Atlético Mineiro,3,2,V,D,NORMAL,R18
+2007,2007-08-09,Grêmio,América-RN,3,0,V,D,NORMAL,R18
+2007,2007-08-09,Palmeiras,Internacional,1,1,E,E,NORMAL,R18
+2007,2007-08-09,Santos,Paraná,2,0,V,D,NORMAL,R18
+2007,2007-08-09,Vasco,Corinthians,2,0,V,D,NORMAL,R18
+2007,2007-08-11,Flamengo,Náutico,2,1,V,D,NORMAL,R19
+2007,2007-08-11,São Paulo,Athletico Paranaense,2,0,V,D,NORMAL,R19
+2007,2007-08-11,Sport,Juventude,3,0,V,D,NORMAL,R19
+2007,2007-08-12,Atlético Mineiro,Palmeiras,1,2,D,V,NORMAL,R19
+2007,2007-08-12,Corinthians,Grêmio,2,1,V,D,NORMAL,R19
+2007,2007-08-12,Figueirense,Botafogo,1,1,E,E,NORMAL,R19
+2007,2007-08-12,Internacional,Goiás,1,0,V,D,NORMAL,R19
+2007,2007-08-12,América-RN,Cruzeiro,1,2,D,V,NORMAL,R19
+2007,2007-08-12,Fluminense,Santos,3,0,V,D,NORMAL,R19
+2007,2007-08-12,Paraná,Vasco,0,0,E,E,NORMAL,R19
+2007,2007-08-15,Botafogo,Corinthians,2,3,D,V,NORMAL,R7
+2007,2007-08-16,Fluminense,Flamengo,0,1,D,V,NORMAL,R11
+2007,2007-08-18,Athletico Paranaense,Figueirense,1,1,E,E,NORMAL,R20
+2007,2007-08-18,Grêmio,Paraná,2,0,V,D,NORMAL,R20
+2007,2007-08-18,Santos,Sport,2,0,V,D,NORMAL,R20
+2007,2007-08-19,Juventude,Corinthians,2,2,E,E,NORMAL,R20
+2007,2007-08-19,Náutico,Atlético Mineiro,0,1,D,V,NORMAL,R20
+2007,2007-08-19,Palmeiras,Flamengo,2,1,V,D,NORMAL,R20
+2007,2007-08-19,Vasco,América-RN,2,0,V,D,NORMAL,R20
+2007,2007-08-19,Botafogo,Internacional,1,1,E,E,NORMAL,R20
+2007,2007-08-19,Cruzeiro,Fluminense,4,2,V,D,NORMAL,R20
+2007,2007-08-19,Goiás,São Paulo,0,0,E,E,NORMAL,R20
+2007,2007-08-23,Flamengo,Juventude,4,0,V,D,NORMAL,R8
+2007,2007-08-25,Corinthians,Cruzeiro,0,3,D,V,NORMAL,R21
+2007,2007-08-25,Fluminense,Grêmio,1,1,E,E,NORMAL,R21
+2007,2007-08-25,Internacional,Athletico Paranaense,1,0,V,D,NORMAL,R21
+2007,2007-08-26,Atlético Mineiro,Botafogo,1,2,D,V,NORMAL,R21
+2007,2007-08-26,Figueirense,Palmeiras,1,2,D,V,NORMAL,R21
+2007,2007-08-26,Paraná,Juventude,3,1,V,D,NORMAL,R21
+2007,2007-08-26,São Paulo,Náutico,5,0,V,D,NORMAL,R21
+2007,2007-08-26,América-RN,Santos,1,4,D,V,NORMAL,R21
+2007,2007-08-26,Flamengo,Goiás,3,1,V,D,NORMAL,R21
+2007,2007-08-26,Sport,Vasco,0,0,E,E,NORMAL,R21
+2007,2007-08-29,Juventude,Goiás,2,0,V,D,NORMAL,R22
+2007,2007-08-29,Paraná,Cruzeiro,2,2,E,E,NORMAL,R22
+2007,2007-08-29,Botafogo,Flamengo,1,1,E,E,NORMAL,R22
+2007,2007-08-29,Figueirense,América-RN,3,1,V,D,NORMAL,R22
+2007,2007-08-29,Palmeiras,São Paulo,0,1,D,V,NORMAL,R22
+2007,2007-08-29,Atlético Mineiro,Corinthians,5,2,V,D,NORMAL,R22
+2007,2007-08-29,Internacional,Fluminense,1,4,D,V,NORMAL,R22
+2007,2007-08-29,Sport,Grêmio,2,0,V,D,NORMAL,R22
+2007,2007-08-30,Santos,Athletico Paranaense,3,1,V,D,NORMAL,R22
+2007,2007-08-30,Vasco,Náutico,4,1,V,D,NORMAL,R22
+2007,2007-09-01,América-RN,Juventude,0,3,D,V,NORMAL,R23
+2007,2007-09-01,Flamengo,Sport,1,1,E,E,NORMAL,R23
+2007,2007-09-01,São Paulo,Paraná,6,0,V,D,NORMAL,R23
+2007,2007-09-02,Athletico Paranaense,Atlético Mineiro,1,0,V,D,NORMAL,R23
+2007,2007-09-02,Corinthians,Santos,2,0,V,D,NORMAL,R23
+2007,2007-09-02,Cruzeiro,Palmeiras,5,0,V,D,NORMAL,R23
+2007,2007-09-02,Grêmio,Botafogo,3,0,V,D,NORMAL,R23
+2007,2007-09-02,Fluminense,Vasco,1,1,E,E,NORMAL,R23
+2007,2007-09-02,Goiás,Figueirense,2,1,V,D,NORMAL,R23
+2007,2007-09-02,Náutico,Internacional,1,1,E,E,NORMAL,R23
+2007,2007-09-05,Corinthians,América-RN,1,0,V,D,NORMAL,R24
+2007,2007-09-05,Goiás,Athletico Paranaense,2,3,D,V,NORMAL,R24
+2007,2007-09-05,Flamengo,Figueirense,4,1,V,D,NORMAL,R24
+2007,2007-09-05,Juventude,Cruzeiro,1,0,V,D,NORMAL,R24
+2007,2007-09-05,Atlético Mineiro,São Paulo,0,0,E,E,NORMAL,R24
+2007,2007-09-05,Grêmio,Vasco,3,1,V,D,NORMAL,R24
+2007,2007-09-05,Santos,Internacional,2,1,V,D,NORMAL,R24
+2007,2007-09-06,Botafogo,Palmeiras,1,1,E,E,NORMAL,R24
+2007,2007-09-06,Paraná,Náutico,2,4,D,V,NORMAL,R24
+2007,2007-09-06,Sport,Fluminense,0,2,D,V,NORMAL,R24
+2007,2007-09-08,Figueirense,Atlético Mineiro,2,1,V,D,NORMAL,R25
+2007,2007-09-08,Internacional,Flamengo,3,0,V,D,NORMAL,R25
+2007,2007-09-08,Vasco,São Paulo,0,2,D,V,NORMAL,R25
+2007,2007-09-08,Cruzeiro,Grêmio,2,0,V,D,NORMAL,R25
+2007,2007-09-08,Santos,Juventude,1,0,V,D,NORMAL,R25
+2007,2007-09-09,América-RN,Sport,1,1,E,E,NORMAL,R25
+2007,2007-09-09,Fluminense,Athletico Paranaense,2,0,V,D,NORMAL,R25
+2007,2007-09-09,Náutico,Botafogo,4,1,V,D,NORMAL,R25
+2007,2007-09-09,Palmeiras,Goiás,2,0,V,D,NORMAL,R25
+2007,2007-09-09,Paraná,Corinthians,1,0,V,D,NORMAL,R25
+2007,2007-09-12,Flamengo,Cruzeiro,3,1,V,D,NORMAL,R16
+2007,2007-09-15,Fluminense,América-RN,2,0,V,D,NORMAL,R26
+2007,2007-09-15,Goiás,Náutico,0,3,D,V,NORMAL,R26
+2007,2007-09-15,São Paulo,Santos,2,1,V,D,NORMAL,R26
+2007,2007-09-16,Atlético Mineiro,Cruzeiro,3,4,D,V,NORMAL,R26
+2007,2007-09-16,Athletico Paranaense,Palmeiras,2,1,V,D,NORMAL,R26
+2007,2007-09-16,Corinthians,Botafogo,0,1,D,V,NORMAL,R26
+2007,2007-09-16,Sport,Paraná,3,1,V,D,NORMAL,R26
+2007,2007-09-16,Figueirense,Juventude,4,1,V,D,NORMAL,R26
+2007,2007-09-16,Flamengo,Vasco,1,1,E,E,NORMAL,R26
+2007,2007-09-16,Grêmio,Internacional,1,0,V,D,NORMAL,R26
+2007,2007-09-22,Goiás,América-RN,1,1,E,E,NORMAL,R27
+2007,2007-09-22,Grêmio,Santos,1,0,V,D,NORMAL,R27
+2007,2007-09-22,São Paulo,Figueirense,2,0,V,D,NORMAL,R27
+2007,2007-09-23,Atlético Mineiro,Internacional,2,2,E,E,NORMAL,R27
+2007,2007-09-23,Juventude,Flamengo,2,2,E,E,NORMAL,R27
+2007,2007-09-23,Náutico,Sport,2,0,V,D,NORMAL,R27
+2007,2007-09-23,Palmeiras,Corinthians,1,0,V,D,NORMAL,R27
+2007,2007-09-23,Athletico Paranaense,Paraná,2,1,V,D,NORMAL,R27
+2007,2007-09-23,Botafogo,Fluminense,0,2,D,V,NORMAL,R27
+2007,2007-09-23,Vasco,Cruzeiro,0,2,D,V,NORMAL,R27
+2007,2007-09-29,Corinthians,Sport,1,2,D,V,NORMAL,R28
+2007,2007-09-29,Flamengo,Atlético Mineiro,1,0,V,D,NORMAL,R28
+2007,2007-09-29,Náutico,Athletico Paranaense,5,0,V,D,NORMAL,R28
+2007,2007-09-30,Botafogo,Goiás,0,3,D,V,NORMAL,R28
+2007,2007-09-30,Internacional,São Paulo,1,2,D,V,NORMAL,R28
+2007,2007-09-30,Juventude,Grêmio,1,2,D,V,NORMAL,R28
+2007,2007-09-30,Santos,Vasco,1,0,V,D,NORMAL,R28
+2007,2007-09-30,América-RN,Palmeiras,0,0,E,E,NORMAL,R28
+2007,2007-09-30,Cruzeiro,Figueirense,1,2,D,V,NORMAL,R28
+2007,2007-09-30,Paraná,Fluminense,3,1,V,D,NORMAL,R28
+2007,2007-10-03,Palmeiras,Náutico,2,1,V,D,NORMAL,R29
+2007,2007-10-03,Sport,Goiás,4,0,V,D,NORMAL,R29
+2007,2007-10-03,Grêmio,Atlético Mineiro,2,2,E,E,NORMAL,R29
+2007,2007-10-03,Vasco,Juventude,0,1,D,V,NORMAL,R29
+2007,2007-10-03,Athletico Paranaense,Botafogo,2,0,V,D,NORMAL,R29
+2007,2007-10-03,Cruzeiro,Santos,0,1,D,V,NORMAL,R29
+2007,2007-10-03,Fluminense,Corinthians,1,1,E,E,NORMAL,R29
+2007,2007-10-04,América-RN,Paraná,3,2,V,D,NORMAL,R29
+2007,2007-10-04,Figueirense,Internacional,0,0,E,E,NORMAL,R29
+2007,2007-10-04,Flamengo,São Paulo,1,0,V,D,NORMAL,R29
+2007,2007-10-06,Botafogo,Santos,1,2,D,V,NORMAL,R30
+2007,2007-10-06,Náutico,Juventude,4,1,V,D,NORMAL,R30
+2007,2007-10-06,Palmeiras,Grêmio,2,0,V,D,NORMAL,R30
+2007,2007-10-07,Atlético Mineiro,Sport,3,1,V,D,NORMAL,R30
+2007,2007-10-07,Athletico Paranaense,Vasco,1,0,V,D,NORMAL,R30
+2007,2007-10-07,Internacional,América-RN,2,0,V,D,NORMAL,R30
+2007,2007-10-07,São Paulo,Corinthians,0,1,D,V,NORMAL,R30
+2007,2007-10-07,Figueirense,Paraná,4,0,V,D,NORMAL,R30
+2007,2007-10-07,Flamengo,Fluminense,0,2,D,V,NORMAL,R30
+2007,2007-10-07,Goiás,Cruzeiro,0,0,E,E,NORMAL,R30
+2007,2007-10-12,Cruzeiro,Náutico,2,2,E,E,NORMAL,R31
+2007,2007-10-12,Juventude,Athletico Paranaense,0,0,E,E,NORMAL,R31
+2007,2007-10-12,Sport,Figueirense,0,0,E,E,NORMAL,R31
+2007,2007-10-13,Corinthians,Internacional,1,1,E,E,NORMAL,R31
+2007,2007-10-13,Fluminense,São Paulo,1,1,E,E,NORMAL,R31
+2007,2007-10-13,Paraná,Flamengo,0,1,D,V,NORMAL,R31
+2007,2007-10-13,América-RN,Atlético Mineiro,0,1,D,V,NORMAL,R31
+2007,2007-10-13,Grêmio,Goiás,2,1,V,D,NORMAL,R31
+2007,2007-10-13,Santos,Palmeiras,1,1,E,E,NORMAL,R31
+2007,2007-10-14,Vasco,Botafogo,2,1,V,D,NORMAL,R31
+2007,2007-10-18,Vasco,Flamengo,1,2,D,V,NORMAL,R7
+2007,2007-10-20,Botafogo,Sport,3,1,V,D,NORMAL,R32
+2007,2007-10-20,Goiás,Fluminense,5,3,V,D,NORMAL,R32
+2007,2007-10-20,Palmeiras,Paraná,3,0,V,D,NORMAL,R32
+2007,2007-10-21,Atlético Mineiro,Vasco,1,0,V,D,NORMAL,R32
+2007,2007-10-21,Náutico,Corinthians,1,0,V,D,NORMAL,R32
+2007,2007-10-21,São Paulo,Cruzeiro,1,0,V,D,NORMAL,R32
+2007,2007-10-21,Athletico Paranaense,América-RN,2,0,V,D,NORMAL,R32
+2007,2007-10-21,Figueirense,Santos,1,0,V,D,NORMAL,R32
+2007,2007-10-21,Flamengo,Grêmio,2,0,V,D,NORMAL,R32
+2007,2007-10-21,Internacional,Juventude,3,0,V,D,NORMAL,R32
+2007,2007-10-27,Cruzeiro,Athletico Paranaense,1,1,E,E,NORMAL,R33
+2007,2007-10-27,Fluminense,Atlético Mineiro,1,1,E,E,NORMAL,R33
+2007,2007-10-27,Santos,Goiás,3,0,V,D,NORMAL,R33
+2007,2007-10-28,América-RN,Flamengo,0,1,D,V,NORMAL,R33
+2007,2007-10-28,Grêmio,Náutico,4,3,V,D,NORMAL,R33
+2007,2007-10-28,Sport,São Paulo,1,2,D,V,NORMAL,R33
+2007,2007-10-28,Corinthians,Figueirense,2,1,V,D,NORMAL,R33
+2007,2007-10-28,Juventude,Botafogo,1,1,E,E,NORMAL,R33
+2007,2007-10-28,Paraná,Internacional,1,0,V,D,NORMAL,R33
+2007,2007-10-28,Vasco,Palmeiras,2,2,E,E,NORMAL,R33
+2007,2007-10-31,Athletico Paranaense,Grêmio,2,0,V,D,NORMAL,R34
+2007,2007-10-31,Figueirense,Fluminense,0,2,D,V,NORMAL,R34
+2007,2007-10-31,Atlético Mineiro,Paraná,0,0,E,E,NORMAL,R34
+2007,2007-10-31,Flamengo,Corinthians,2,1,V,D,NORMAL,R34
+2007,2007-10-31,Goiás,Vasco,2,3,D,V,NORMAL,R34
+2007,2007-10-31,Náutico,Santos,1,2,D,V,NORMAL,R34
+2007,2007-10-31,São Paulo,América-RN,3,0,V,D,NORMAL,R34
+2007,2007-11-01,Botafogo,Cruzeiro,4,1,V,D,NORMAL,R34
+2007,2007-11-01,Internacional,Sport,0,0,E,E,NORMAL,R34
+2007,2007-11-01,Palmeiras,Juventude,0,1,D,V,NORMAL,R34
+2007,2007-11-03,Fluminense,Náutico,2,1,V,D,NORMAL,R35
+2007,2007-11-03,Paraná,Goiás,1,0,V,D,NORMAL,R35
+2007,2007-11-04,Cruzeiro,Flamengo,3,1,V,D,NORMAL,R35
+2007,2007-11-04,Grêmio,Figueirense,1,2,D,V,NORMAL,R35
+2007,2007-11-04,Santos,Atlético Mineiro,2,2,E,E,NORMAL,R35
+2007,2007-11-04,Corinthians,Athletico Paranaense,2,2,E,E,NORMAL,R35
+2007,2007-11-04,América-RN,Botafogo,1,1,E,E,NORMAL,R35
+2007,2007-11-04,Sport,Palmeiras,3,1,V,D,NORMAL,R35
+2007,2007-11-04,Vasco,Internacional,1,2,D,V,NORMAL,R35
+2007,2007-11-07,Juventude,São Paulo,2,0,V,D,NORMAL,R35
+2007,2007-11-10,Botafogo,Paraná,3,2,V,D,NORMAL,R36
+2007,2007-11-10,Internacional,Cruzeiro,1,0,V,D,NORMAL,R36
+2007,2007-11-10,Náutico,América-RN,4,0,V,D,NORMAL,R36
+2007,2007-11-11,Figueirense,Vasco,3,3,E,E,NORMAL,R36
+2007,2007-11-11,Goiás,Corinthians,1,1,E,E,NORMAL,R36
+2007,2007-11-11,Athletico Paranaense,Sport,0,0,E,E,NORMAL,R36
+2007,2007-11-11,Atlético Mineiro,Juventude,4,1,V,D,NORMAL,R36
+2007,2007-11-11,Flamengo,Santos,1,0,V,D,NORMAL,R36
+2007,2007-11-11,São Paulo,Grêmio,1,0,V,D,NORMAL,R36
+2007,2007-11-14,Palmeiras,Fluminense,1,0,V,D,NORMAL,R36
+2007,2007-11-24,América-RN,Grêmio,0,3,D,V,NORMAL,R37
+2007,2007-11-24,Fluminense,Juventude,3,2,V,D,NORMAL,R37
+2007,2007-11-25,Internacional,Palmeiras,2,1,V,D,NORMAL,R37
+2007,2007-11-25,São Paulo,Botafogo,2,2,E,E,NORMAL,R37
+2007,2007-11-25,Flamengo,Athletico Paranaense,2,0,V,D,NORMAL,R37
+2007,2007-11-25,Paraná,Santos,2,3,D,V,NORMAL,R37
+2007,2007-11-25,Sport,Cruzeiro,1,0,V,D,NORMAL,R37
+2007,2007-11-28,Atlético Mineiro,Goiás,4,1,V,D,NORMAL,R37
+2007,2007-11-28,Corinthians,Vasco,0,1,D,V,NORMAL,R37
+2007,2007-11-28,Figueirense,Náutico,2,0,V,D,NORMAL,R37
+2007,2007-12-02,Athletico Paranaense,São Paulo,2,1,V,D,NORMAL,R38
+2007,2007-12-02,Botafogo,Figueirense,1,1,E,E,NORMAL,R38
+2007,2007-12-02,Cruzeiro,América-RN,2,0,V,D,NORMAL,R38
+2007,2007-12-02,Goiás,Internacional,2,1,V,D,NORMAL,R38
+2007,2007-12-02,Grêmio,Corinthians,1,1,E,E,NORMAL,R38
+2007,2007-12-02,Juventude,Sport,2,1,V,D,NORMAL,R38
+2007,2007-12-02,Náutico,Flamengo,1,0,V,D,NORMAL,R38
+2007,2007-12-02,Palmeiras,Atlético Mineiro,1,3,D,V,NORMAL,R38
+2007,2007-12-02,Santos,Fluminense,2,4,D,V,NORMAL,R38
+2007,2007-12-02,Vasco,Paraná,3,0,V,D,NORMAL,R38

@@ -1,0 +1,683 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1986,1986-08-30,Coritiba,São Paulo,0,1,D,V,NORMAL,A
+1986,1986-08-31,Remo,Ceará,1,1,E,E,NORMAL,A
+1986,1986-08-31,Bangu,Fluminense,0,1,D,V,NORMAL,A
+1986,1986-08-31,Sampaio Corrêa,Sport,1,2,D,V,NORMAL,A
+1986,1986-08-31,Sobradinho,Internacional,0,1,D,V,NORMAL,A
+1986,1986-08-31,Corinthians,Goiás,3,0,V,D,NORMAL,B
+1986,1986-08-31,Joinville,Athletico Paranaense,2,0,V,D,NORMAL,B
+1986,1986-08-31,Botafogo-PB,America-RJ,0,1,D,V,NORMAL,B
+1986,1986-08-31,Sergipe,Ponte Preta,0,4,D,V,NORMAL,B
+1986,1986-08-31,Atlético Goianiense,Piauí,2,1,V,D,NORMAL,C
+1986,1986-08-31,Bahia,Rio Branco-ES,4,0,V,D,NORMAL,C
+1986,1986-08-31,Guarani,Cruzeiro,1,0,V,D,NORMAL,C
+1986,1986-08-31,Náutico,Vasco,1,0,V,D,NORMAL,C
+1986,1986-08-31,Operário-MT,Tuna Luso,2,1,V,D,NORMAL,C
+1986,1986-08-31,Atlético Mineiro,Santa Cruz,1,1,E,E,NORMAL,D
+1986,1986-08-31,Comercial-MS,Botafogo,1,1,E,E,NORMAL,D
+1986,1986-08-31,Fortaleza,CSA,0,0,E,E,NORMAL,D
+1986,1986-08-31,Nacional-AM,Alecrim,1,0,V,D,NORMAL,D
+1986,1986-08-31,Portuguesa,Vitória,2,0,V,D,NORMAL,D
+1986,1986-09-02,Flamengo,Paysandu,4,1,V,D,NORMAL,B
+1986,1986-09-02,Coritiba,Internacional,1,0,V,D,NORMAL,A
+1986,1986-09-02,Fluminense,Operário-MS,1,0,V,D,NORMAL,A
+1986,1986-09-02,Remo,Sport,0,0,E,E,NORMAL,A
+1986,1986-09-02,Sampaio Corrêa,Ceará,0,3,D,V,NORMAL,A
+1986,1986-09-02,Sobradinho,São Paulo,1,1,E,E,NORMAL,A
+1986,1986-09-02,Grêmio,Athletico Paranaense,2,1,V,D,NORMAL,B
+1986,1986-09-02,Botafogo-PB,Ponte Preta,1,4,D,V,NORMAL,B
+1986,1986-09-02,Sergipe,America-RJ,1,0,V,D,NORMAL,B
+1986,1986-09-02,Atlético Goianiense,Tuna Luso,1,0,V,D,NORMAL,C
+1986,1986-09-02,Náutico,Rio Branco-ES,0,1,D,V,NORMAL,C
+1986,1986-09-02,Operário-MT,Piauí,0,0,E,E,NORMAL,C
+1986,1986-09-02,Cruzeiro,Santos,2,3,D,V,NORMAL,C
+1986,1986-09-02,Fortaleza,Alecrim,2,0,V,D,NORMAL,D
+1986,1986-09-04,Corinthians,Paysandu,1,0,V,D,NORMAL,B
+1986,1986-09-04,Flamengo,Goiás,0,0,E,E,NORMAL,B
+1986,1986-09-04,Vasco,Bahia,0,1,D,V,NORMAL,C
+1986,1986-09-04,Portuguesa,Santa Cruz,1,1,E,E,NORMAL,D
+1986,1986-09-04,Vitória,Atlético Mineiro,0,0,E,E,NORMAL,D
+1986,1986-09-04,Nacional-AM,CSA,0,0,E,E,NORMAL,D
+1986,1986-09-06,Moto Club,Sport Belém,1,0,V,D,NORMAL,E
+1986,1986-09-06,Rio Negro-AM,América-RN,1,1,E,E,NORMAL,E
+1986,1986-09-06,River-PI,Guarany de Sobral,2,2,E,E,NORMAL,E
+1986,1986-09-06,Treze,Ferroviário,1,0,V,D,NORMAL,E
+1986,1986-09-06,Catuense,Fluminense de Feira,0,0,E,E,NORMAL,F
+1986,1986-09-06,Central,Desportiva Ferroviária,2,1,V,D,NORMAL,F
+1986,1986-09-06,CRB,Taguatinga,2,1,V,D,NORMAL,F
+1986,1986-09-06,Goytacaz,Americano,0,1,D,V,NORMAL,F
+1986,1986-09-06,América Mineiro,Itumbiara,2,2,E,E,NORMAL,G
+1986,1986-09-06,Inter de Limeira,Uberlândia,2,0,V,D,NORMAL,G
+1986,1986-09-06,Mixto,Anápolis,2,1,V,D,NORMAL,G
+1986,1986-09-06,Santo André,Juventus-SP,1,1,E,E,NORMAL,G
+1986,1986-09-06,Avaí,Marcílio Dias,0,1,D,V,NORMAL,H
+1986,1986-09-06,Brasil de Pelotas,Juventude,0,0,E,E,NORMAL,H
+1986,1986-09-06,Criciúma,Novo Hamburgo,2,0,V,D,NORMAL,H
+1986,1986-09-06,Londrina,Cascavel EC,2,0,V,D,NORMAL,H
+1986,1986-09-06,Sport,Coritiba,1,0,V,D,NORMAL,A
+1986,1986-09-06,Tuna Luso,Náutico,3,1,V,D,NORMAL,C
+1986,1986-09-06,Botafogo,Fortaleza,2,0,V,D,NORMAL,D
+1986,1986-09-07,Internacional,Fluminense,2,0,V,D,NORMAL,A
+1986,1986-09-07,São Paulo,Bangu,1,1,E,E,NORMAL,A
+1986,1986-09-07,Operário-MS,Sampaio Corrêa,0,1,D,V,NORMAL,A
+1986,1986-09-07,Ceará,Sobradinho,1,2,D,V,NORMAL,A
+1986,1986-09-07,America-RJ,Flamengo,0,2,D,V,NORMAL,B
+1986,1986-09-07,Athletico Paranaense,Botafogo-PB,0,0,E,E,NORMAL,B
+1986,1986-09-07,Goiás,Joinville,0,0,E,E,NORMAL,B
+1986,1986-09-07,Paysandu,Grêmio,1,0,V,D,NORMAL,B
+1986,1986-09-07,Ponte Preta,Corinthians,1,1,E,E,NORMAL,B
+1986,1986-09-07,Cruzeiro,Atlético Goianiense,2,0,V,D,NORMAL,C
+1986,1986-09-07,Piauí,Bahia,1,3,D,V,NORMAL,C
+1986,1986-09-07,Rio Branco-ES,Santos,0,0,E,E,NORMAL,C
+1986,1986-09-07,Vasco,Guarani,0,1,D,V,NORMAL,C
+1986,1986-09-07,Alecrim,Portuguesa,2,2,E,E,NORMAL,D
+1986,1986-09-07,CSA,Atlético Mineiro,0,2,D,V,NORMAL,D
+1986,1986-09-07,Santa Cruz,Palmeiras,2,1,V,D,NORMAL,D
+1986,1986-09-07,Vitória,Comercial-MS,2,0,V,D,NORMAL,D
+1986,1986-09-10,Moto Club,América-RN,1,0,V,D,NORMAL,E
+1986,1986-09-10,River-PI,Ferroviário,1,1,E,E,NORMAL,E
+1986,1986-09-10,Sport Belém,Maranhão,0,0,E,E,NORMAL,E
+1986,1986-09-10,Treze,Guarany de Sobral,1,0,V,D,NORMAL,E
+1986,1986-09-10,Americano,Confiança,3,0,V,D,NORMAL,F
+1986,1986-09-10,Catuense,Taguatinga,4,3,V,D,NORMAL,F
+1986,1986-09-10,CRB,Fluminense de Feira,2,0,V,D,NORMAL,F
+1986,1986-09-10,Goytacaz,Desportiva Ferroviária,1,2,D,V,NORMAL,F
+1986,1986-09-10,América Mineiro,Juventus-SP,1,1,E,E,NORMAL,G
+1986,1986-09-10,Anápolis,Ubiratan-MS,2,0,V,D,NORMAL,G
+1986,1986-09-10,Mixto,Uberlândia,0,0,E,E,NORMAL,G
+1986,1986-09-10,Santo André,Itumbiara,0,0,E,E,NORMAL,G
+1986,1986-09-10,Avaí,Cascavel EC,1,1,E,E,NORMAL,H
+1986,1986-09-10,Brasil de Pelotas,Novo Hamburgo,1,2,D,V,NORMAL,H
+1986,1986-09-10,Juventude,Pinheiros-PR,1,1,E,E,NORMAL,H
+1986,1986-09-10,Londrina,Marcílio Dias,1,0,V,D,NORMAL,H
+1986,1986-09-10,Sport,Sobradinho,1,0,V,D,NORMAL,A
+1986,1986-09-10,Ceará,Coritiba,1,0,V,D,NORMAL,A
+1986,1986-09-10,Fluminense,Sampaio Corrêa,0,0,E,E,NORMAL,A
+1986,1986-09-10,Internacional,Bangu,1,1,E,E,NORMAL,A
+1986,1986-09-10,Goiás,Grêmio,1,1,E,E,NORMAL,B
+1986,1986-09-10,Tuna Luso,Bahia,0,3,D,V,NORMAL,C
+1986,1986-09-10,Rio Branco-ES,Guarani,0,0,E,E,NORMAL,C
+1986,1986-09-10,Piauí,Náutico,1,0,V,D,NORMAL,C
+1986,1986-09-10,CSA,Portuguesa,4,0,V,D,NORMAL,D
+1986,1986-09-10,Alecrim,Atlético Mineiro,1,2,D,V,NORMAL,D
+1986,1986-09-10,Palmeiras,Vitória,2,2,E,E,NORMAL,D
+1986,1986-09-10,Botafogo,Nacional-AM,0,0,E,E,NORMAL,D
+1986,1986-09-11,Operário-MS,Remo,2,1,V,D,NORMAL,A
+1986,1986-09-11,Ponte Preta,Flamengo,0,1,D,V,NORMAL,B
+1986,1986-09-11,America-RJ,Corinthians,0,0,E,E,NORMAL,B
+1986,1986-09-11,Paysandu,Joinville,1,1,E,E,NORMAL,B
+1986,1986-09-11,Athletico Paranaense,Sergipe,1,0,V,D,NORMAL,B
+1986,1986-09-11,Santos,Vasco,0,0,E,E,NORMAL,C
+1986,1986-09-11,Operário-MT,Cruzeiro,0,2,D,V,NORMAL,C
+1986,1986-09-11,Santa Cruz,Comercial-MS,0,0,E,E,NORMAL,D
+1986,1986-09-13,Fluminense,Coritiba,1,0,V,D,NORMAL,A
+1986,1986-09-13,Atlético Goianiense,Guarani,1,0,V,D,NORMAL,C
+1986,1986-09-13,Vitória,Botafogo,0,0,E,E,NORMAL,D
+1986,1986-09-14,América-RN,Treze,0,0,E,E,NORMAL,E
+1986,1986-09-14,Guarany de Sobral,Ferroviário,0,0,E,E,NORMAL,E
+1986,1986-09-14,Maranhão,Moto Club,2,3,D,V,NORMAL,E
+1986,1986-09-14,Rio Negro-AM,River-PI,0,0,E,E,NORMAL,E
+1986,1986-09-14,Central,CRB,2,0,V,D,NORMAL,F
+1986,1986-09-14,Confiança,Goytacaz,2,1,V,D,NORMAL,F
+1986,1986-09-14,Desportiva Ferroviária,Catuense,0,0,E,E,NORMAL,F
+1986,1986-09-14,Taguatinga,Fluminense de Feira,3,0,V,D,NORMAL,F
+1986,1986-09-14,Inter de Limeira,Santo André,3,1,V,D,NORMAL,G
+1986,1986-09-14,Juventus-SP,Itumbiara,0,0,E,E,NORMAL,G
+1986,1986-09-14,Uberlândia,América Mineiro,0,1,D,V,NORMAL,G
+1986,1986-09-14,Ubiratan-MS,Mixto,4,2,V,D,NORMAL,G
+1986,1986-09-14,Criciúma,Avaí,1,0,V,D,NORMAL,H
+1986,1986-09-14,Marcílio Dias,Cascavel EC,1,0,V,D,NORMAL,H
+1986,1986-09-14,Novo Hamburgo,Londrina,1,1,E,E,NORMAL,H
+1986,1986-09-14,Pinheiros-PR,Brasil de Pelotas,3,1,V,D,NORMAL,H
+1986,1986-09-14,São Paulo,Ceará,4,0,V,D,NORMAL,A
+1986,1986-09-14,Sport,Internacional,0,0,E,E,NORMAL,A
+1986,1986-09-14,Sobradinho,Remo,1,0,V,D,NORMAL,A
+1986,1986-09-14,Bangu,Operário-MS,2,0,V,D,NORMAL,A
+1986,1986-09-14,Corinthians,Sergipe,6,0,V,D,NORMAL,B
+1986,1986-09-14,Grêmio,Flamengo,0,0,E,E,NORMAL,B
+1986,1986-09-14,Goiás,Athletico Paranaense,0,0,E,E,NORMAL,B
+1986,1986-09-14,Botafogo-PB,Joinville,3,2,V,D,NORMAL,B
+1986,1986-09-14,Ponte Preta,Paysandu,1,0,V,D,NORMAL,B
+1986,1986-09-14,Bahia,Santos,3,0,V,D,NORMAL,C
+1986,1986-09-14,Vasco,Cruzeiro,0,0,E,E,NORMAL,C
+1986,1986-09-14,Tuna Luso,Rio Branco-ES,0,0,E,E,NORMAL,C
+1986,1986-09-14,Náutico,Operário-MT,3,1,V,D,NORMAL,C
+1986,1986-09-14,Atlético Mineiro,Palmeiras,1,0,V,D,NORMAL,D
+1986,1986-09-14,Portuguesa,Nacional-AM,2,1,V,D,NORMAL,D
+1986,1986-09-14,Fortaleza,Comercial-MS,0,1,D,V,NORMAL,D
+1986,1986-09-14,Alecrim,Santa Cruz,1,0,V,D,NORMAL,D
+1986,1986-09-17,Ferroviário,Maranhão,2,3,D,V,NORMAL,E
+1986,1986-09-17,Guarany de Sobral,Rio Negro-AM,1,0,V,D,NORMAL,E
+1986,1986-09-17,River-PI,Moto Club,1,2,D,V,NORMAL,E
+1986,1986-09-17,Sport Belém,Treze,1,2,D,V,NORMAL,E
+1986,1986-09-17,Americano,Catuense,0,1,D,V,NORMAL,F
+1986,1986-09-17,CRB,Goytacaz,1,2,D,V,NORMAL,F
+1986,1986-09-17,Fluminense de Feira,Confiança,1,0,V,D,NORMAL,F
+1986,1986-09-17,Taguatinga,Central,2,1,V,D,NORMAL,F
+1986,1986-09-17,Anápolis,América Mineiro,2,0,V,D,NORMAL,G
+1986,1986-09-17,Itumbiara,Ubiratan-MS,0,0,E,E,NORMAL,G
+1986,1986-09-17,Juventus-SP,Inter de Limeira,1,0,V,D,NORMAL,G
+1986,1986-09-17,Santo André,Mixto,3,2,V,D,NORMAL,G
+1986,1986-09-17,Avaí,Brasil de Pelotas,2,0,V,D,NORMAL,H
+1986,1986-09-17,Cascavel EC,Pinheiros-PR,1,1,E,E,NORMAL,H
+1986,1986-09-17,Juventude,Londrina,1,1,E,E,NORMAL,H
+1986,1986-09-17,Marcílio Dias,Criciúma,1,1,E,E,NORMAL,H
+1986,1986-09-17,Bangu,Sobradinho,3,0,V,D,NORMAL,A
+1986,1986-09-17,Internacional,Ceará,1,1,E,E,NORMAL,A
+1986,1986-09-17,Coritiba,Sampaio Corrêa,0,0,E,E,NORMAL,A
+1986,1986-09-17,Flamengo,Sergipe,1,0,V,D,NORMAL,B
+1986,1986-09-17,Paysandu,America-RJ,0,1,D,V,NORMAL,B
+1986,1986-09-17,Bahia,Operário-MT,2,1,V,D,NORMAL,C
+1986,1986-09-17,Atlético Goianiense,Santos,0,1,D,V,NORMAL,C
+1986,1986-09-17,Rio Branco-ES,Piauí,4,0,V,D,NORMAL,C
+1986,1986-09-17,Guarani,Náutico,1,0,V,D,NORMAL,C
+1986,1986-09-17,Cruzeiro,Tuna Luso,3,1,V,D,NORMAL,C
+1986,1986-09-17,Palmeiras,Fortaleza,6,0,V,D,NORMAL,D
+1986,1986-09-17,Santa Cruz,CSA,2,0,V,D,NORMAL,D
+1986,1986-09-17,Atlético Mineiro,Nacional-AM,0,0,E,E,NORMAL,D
+1986,1986-09-18,Remo,Fluminense,1,1,E,E,NORMAL,A
+1986,1986-09-18,Grêmio,Botafogo-PB,5,2,V,D,NORMAL,B
+1986,1986-09-18,Athletico Paranaense,Ponte Preta,4,0,V,D,NORMAL,B
+1986,1986-09-18,Joinville,Corinthians,1,0,V,D,NORMAL,B
+1986,1986-09-18,Botafogo,Alecrim,2,1,V,D,NORMAL,D
+1986,1986-09-20,Santa Cruz,Vitória,1,3,D,V,NORMAL,D
+1986,1986-09-21,América-RN,Sport Belém,1,0,V,D,NORMAL,E
+1986,1986-09-21,Guarany de Sobral,Maranhão,2,1,V,D,NORMAL,E
+1986,1986-09-21,Moto Club,Rio Negro-AM,0,1,D,V,NORMAL,E
+1986,1986-09-21,Treze,River-PI,2,0,V,D,NORMAL,E
+1986,1986-09-21,Catuense,CRB,0,0,E,E,NORMAL,F
+1986,1986-09-21,Desportiva Ferroviária,Americano,1,2,D,V,NORMAL,F
+1986,1986-09-21,Goytacaz,Central,1,0,V,D,NORMAL,F
+1986,1986-09-21,Taguatinga,Confiança,3,1,V,D,NORMAL,F
+1986,1986-09-21,América Mineiro,Santo André,0,1,D,V,NORMAL,G
+1986,1986-09-21,Juventus-SP,Ubiratan-MS,1,0,V,D,NORMAL,G
+1986,1986-09-21,Mixto,Inter de Limeira,0,2,D,V,NORMAL,G
+1986,1986-09-21,Uberlândia,Anápolis,1,1,E,E,NORMAL,G
+1986,1986-09-21,Brasil de Pelotas,Criciúma,1,2,D,V,NORMAL,H
+1986,1986-09-21,Londrina,Avaí,0,1,D,V,NORMAL,H
+1986,1986-09-21,Marcílio Dias,Pinheiros-PR,1,1,E,E,NORMAL,H
+1986,1986-09-21,Novo Hamburgo,Juventude,1,0,V,D,NORMAL,H
+1986,1986-09-21,São Paulo,Internacional,0,0,E,E,NORMAL,A
+1986,1986-09-21,Sobradinho,Fluminense,0,1,D,V,NORMAL,A
+1986,1986-09-21,Coritiba,Remo,1,1,E,E,NORMAL,A
+1986,1986-09-21,Sampaio Corrêa,Bangu,0,0,E,E,NORMAL,A
+1986,1986-09-21,Sport,Operário-MS,4,1,V,D,NORMAL,A
+1986,1986-09-21,America-RJ,Ponte Preta,3,1,V,D,NORMAL,B
+1986,1986-09-21,Flamengo,Corinthians,2,3,D,V,NORMAL,B
+1986,1986-09-21,Grêmio,Joinville,5,1,V,D,NORMAL,B
+1986,1986-09-21,Paysandu,Goiás,1,2,D,V,NORMAL,B
+1986,1986-09-21,Bahia,Náutico,1,0,V,D,NORMAL,C
+1986,1986-09-21,Santos,Guarani,0,1,D,V,NORMAL,C
+1986,1986-09-21,Rio Branco-ES,Vasco,1,0,V,D,NORMAL,C
+1986,1986-09-21,CSA,Alecrim,2,1,V,D,NORMAL,D
+1986,1986-09-21,Atlético Mineiro,Portuguesa,2,1,V,D,NORMAL,D
+1986,1986-09-21,Nacional-AM,Fortaleza,0,1,D,V,NORMAL,D
+1986,1986-09-21,Palmeiras,Comercial-MS,4,2,V,D,NORMAL,D
+1986,1986-09-22,Sergipe,Botafogo-PB,1,0,V,D,NORMAL,B
+1986,1986-09-24,Ferroviário,América-RN,0,0,E,E,NORMAL,E
+1986,1986-09-24,Maranhão,River-PI,2,0,V,D,NORMAL,E
+1986,1986-09-24,Rio Negro-AM,Treze,0,0,E,E,NORMAL,E
+1986,1986-09-24,Sport Belém,Guarany de Sobral,1,0,V,D,NORMAL,E
+1986,1986-09-24,Americano,Taguatinga,1,0,V,D,NORMAL,F
+1986,1986-09-24,Central,Catuense,1,0,V,D,NORMAL,F
+1986,1986-09-24,Confiança,CRB,0,0,E,E,NORMAL,F
+1986,1986-09-24,Fluminense de Feira,Desportiva Ferroviária,1,1,E,E,NORMAL,F
+1986,1986-09-24,Anápolis,Juventus-SP,0,1,D,V,NORMAL,G
+1986,1986-09-24,Inter de Limeira,América Mineiro,2,0,V,D,NORMAL,G
+1986,1986-09-24,Itumbiara,Uberlândia,1,0,V,D,NORMAL,G
+1986,1986-09-24,Ubiratan-MS,Santo André,0,0,E,E,NORMAL,G
+1986,1986-09-24,Cascavel EC,Novo Hamburgo,2,3,D,V,NORMAL,H
+1986,1986-09-24,Criciúma,Londrina,3,1,V,D,NORMAL,H
+1986,1986-09-24,Juventude,Marcílio Dias,2,0,V,D,NORMAL,H
+1986,1986-09-24,Pinheiros-PR,Avaí,1,0,V,D,NORMAL,H
+1986,1986-09-24,Ceará,Operário-MS,0,0,E,E,NORMAL,A
+1986,1986-09-24,Bangu,Coritiba,1,0,V,D,NORMAL,A
+1986,1986-09-24,Internacional,Remo,3,1,V,D,NORMAL,A
+1986,1986-09-24,São Paulo,Sampaio Corrêa,4,0,V,D,NORMAL,A
+1986,1986-09-24,America-RJ,Athletico Paranaense,0,0,E,E,NORMAL,B
+1986,1986-09-24,Botafogo-PB,Corinthians,0,1,D,V,NORMAL,B
+1986,1986-09-24,Joinville,Flamengo,1,2,D,V,NORMAL,B
+1986,1986-09-24,Guarani,Bahia,1,1,E,E,NORMAL,C
+1986,1986-09-24,Náutico,Atlético Goianiense,1,0,V,D,NORMAL,C
+1986,1986-09-24,Piauí,Cruzeiro,0,3,D,V,NORMAL,C
+1986,1986-09-24,Tuna Luso,Vasco,0,3,D,V,NORMAL,C
+1986,1986-09-24,Alecrim,Vitória,1,1,E,E,NORMAL,D
+1986,1986-09-24,CSA,Botafogo,1,1,E,E,NORMAL,D
+1986,1986-09-24,Nacional-AM,Palmeiras,2,1,V,D,NORMAL,D
+1986,1986-09-25,Fluminense,Sport,0,1,D,V,NORMAL,A
+1986,1986-09-25,Ponte Preta,Goiás,1,0,V,D,NORMAL,B
+1986,1986-09-25,Sergipe,Grêmio,0,0,E,E,NORMAL,B
+1986,1986-09-25,Santos,Operário-MT,3,0,V,D,NORMAL,C
+1986,1986-09-25,Fortaleza,Portuguesa,0,1,D,V,NORMAL,D
+1986,1986-09-25,Comercial-MS,Atlético Mineiro,1,2,D,V,NORMAL,D
+1986,1986-09-27,Bahia,Atlético Goianiense,1,1,E,E,NORMAL,C
+1986,1986-09-27,Cruzeiro,Rio Branco-ES,0,0,E,E,NORMAL,C
+1986,1986-09-28,América-RN,Guarany de Sobral,3,0,V,D,NORMAL,E
+1986,1986-09-28,Ferroviário,Sport Belém,3,1,V,D,NORMAL,E
+1986,1986-09-28,Maranhão,Rio Negro-AM,0,0,E,E,NORMAL,E
+1986,1986-09-28,Treze,Moto Club,2,0,V,D,NORMAL,E
+1986,1986-09-28,Catuense,Goytacaz,2,3,D,V,NORMAL,F
+1986,1986-09-28,Confiança,Central,0,1,D,V,NORMAL,F
+1986,1986-09-28,Desportiva Ferroviária,Taguatinga,1,0,V,D,NORMAL,F
+1986,1986-09-28,Fluminense de Feira,Americano,2,2,E,E,NORMAL,F
+1986,1986-09-28,América Mineiro,Mixto,6,1,V,D,NORMAL,G
+1986,1986-09-28,Itumbiara,Anápolis,1,1,E,E,NORMAL,G
+1986,1986-09-28,Uberlândia,Juventus-SP,0,0,E,E,NORMAL,G
+1986,1986-09-28,Ubiratan-MS,Inter de Limeira,1,1,E,E,NORMAL,G
+1986,1986-09-28,Cascavel EC,Juventude,1,1,E,E,NORMAL,H
+1986,1986-09-28,Londrina,Brasil de Pelotas,1,1,E,E,NORMAL,H
+1986,1986-09-28,Novo Hamburgo,Marcílio Dias,0,2,D,V,NORMAL,H
+1986,1986-09-28,Pinheiros-PR,Criciúma,1,2,D,V,NORMAL,H
+1986,1986-09-28,Fluminense,São Paulo,2,3,D,V,NORMAL,A
+1986,1986-09-28,Sampaio Corrêa,Internacional,0,2,D,V,NORMAL,A
+1986,1986-09-28,Remo,Bangu,2,2,E,E,NORMAL,A
+1986,1986-09-28,Ceará,Sport,0,0,E,E,NORMAL,A
+1986,1986-09-28,Athletico Paranaense,Paysandu,4,0,V,D,NORMAL,B
+1986,1986-09-28,Goiás,America-RJ,3,2,V,D,NORMAL,B
+1986,1986-09-28,Corinthians,Grêmio,1,2,D,V,NORMAL,B
+1986,1986-09-28,Flamengo,Botafogo-PB,2,0,V,D,NORMAL,B
+1986,1986-09-28,Guarani,Operário-MT,2,0,V,D,NORMAL,C
+1986,1986-09-28,Santos,Náutico,5,0,V,D,NORMAL,C
+1986,1986-09-28,Atlético Mineiro,Fortaleza,4,0,V,D,NORMAL,D
+1986,1986-09-28,Portuguesa,Palmeiras,0,0,E,E,NORMAL,D
+1986,1986-09-28,Vitória,CSA,0,0,E,E,NORMAL,D
+1986,1986-09-29,Joinville,Sergipe,1,1,E,E,NORMAL,B
+1986,1986-09-30,Palmeiras,Botafogo,2,0,V,D,NORMAL,D
+1986,1986-09-30,Operário-MS,São Paulo,1,2,D,V,NORMAL,A
+1986,1986-09-30,Comercial-MS,Portuguesa,1,1,E,E,NORMAL,D
+1986,1986-09-30,Operário-MT,Atlético Goianiense,0,3,D,V,NORMAL,C
+1986,1986-10-01,Maranhão,Treze,1,0,V,D,NORMAL,E
+1986,1986-10-01,Moto Club,Ferroviário,1,1,E,E,NORMAL,E
+1986,1986-10-01,Rio Negro-AM,Sport Belém,2,0,V,D,NORMAL,E
+1986,1986-10-01,River-PI,América-RN,0,4,D,V,NORMAL,E
+1986,1986-10-01,Central,Americano,2,0,V,D,NORMAL,F
+1986,1986-10-01,Confiança,Catuense,2,2,E,E,NORMAL,F
+1986,1986-10-01,CRB,Desportiva Ferroviária,1,0,V,D,NORMAL,F
+1986,1986-10-01,Goytacaz,Fluminense de Feira,2,1,V,D,NORMAL,F
+1986,1986-10-01,Inter de Limeira,Anápolis,4,0,V,D,NORMAL,G
+1986,1986-10-01,Mixto,Itumbiara,2,2,E,E,NORMAL,G
+1986,1986-10-01,Santo André,Uberlândia,2,1,V,D,NORMAL,G
+1986,1986-10-01,Ubiratan-MS,América Mineiro,0,0,E,E,NORMAL,G
+1986,1986-10-01,Avaí,Novo Hamburgo,1,0,V,D,NORMAL,H
+1986,1986-10-01,Brasil de Pelotas,Cascavel EC,3,1,V,D,NORMAL,H
+1986,1986-10-01,Criciúma,Juventude,1,0,V,D,NORMAL,H
+1986,1986-10-01,Pinheiros-PR,Londrina,1,2,D,V,NORMAL,H
+1986,1986-10-01,Sport,Bangu,0,1,D,V,NORMAL,A
+1986,1986-10-01,Ceará,Fluminense,0,2,D,V,NORMAL,A
+1986,1986-10-01,Sobradinho,Sampaio Corrêa,2,1,V,D,NORMAL,A
+1986,1986-10-01,Corinthians,Athletico Paranaense,0,0,E,E,NORMAL,B
+1986,1986-10-01,Grêmio,Ponte Preta,0,2,D,V,NORMAL,B
+1986,1986-10-01,Joinville,America-RJ,4,1,V,D,NORMAL,B
+1986,1986-10-01,Botafogo-PB,Goiás,1,0,V,D,NORMAL,B
+1986,1986-10-01,Fortaleza,Vitória,2,2,E,E,NORMAL,D
+1986,1986-10-01,Nacional-AM,Santa Cruz,3,1,V,D,NORMAL,D
+1986,1986-10-02,Remo,São Paulo,0,2,D,V,NORMAL,A
+1986,1986-10-02,Operário-MS,Coritiba,2,0,V,D,NORMAL,A
+1986,1986-10-02,Atlético Goianiense,Vasco,0,0,E,E,NORMAL,C
+1986,1986-10-02,Guarani,Piauí,8,2,V,D,NORMAL,C
+1986,1986-10-02,Operário-MT,Rio Branco-ES,0,2,D,V,NORMAL,C
+1986,1986-10-02,Santos,Tuna Luso,2,0,V,D,NORMAL,C
+1986,1986-10-02,Náutico,Cruzeiro,1,0,V,D,NORMAL,C
+1986,1986-10-02,Palmeiras,Alecrim,3,0,V,D,NORMAL,D
+1986,1986-10-02,Portuguesa,Botafogo,2,1,V,D,NORMAL,D
+1986,1986-10-02,Comercial-MS,CSA,1,0,V,D,NORMAL,D
+1986,1986-10-03,Sergipe,Paysandu,2,1,V,D,NORMAL,B
+1986,1986-10-05,Uberlândia,Ubiratan-MS,,,,,ANU,G
+1986,1986-10-05,América-RN,Maranhão,0,1,D,V,NORMAL,E
+1986,1986-10-05,Ferroviário,Rio Negro-AM,0,1,D,V,NORMAL,E
+1986,1986-10-05,Guarany de Sobral,Moto Club,3,1,V,D,NORMAL,E
+1986,1986-10-05,Sport Belém,River-PI,2,2,E,E,NORMAL,E
+1986,1986-10-05,Americano,CRB,2,0,V,D,NORMAL,F
+1986,1986-10-05,Desportiva Ferroviária,Confiança,3,0,V,D,NORMAL,F
+1986,1986-10-05,Fluminense de Feira,Central,2,2,E,E,NORMAL,F
+1986,1986-10-05,Taguatinga,Goytacaz,2,2,E,E,NORMAL,F
+1986,1986-10-05,Anápolis,Santo André,1,0,V,D,NORMAL,G
+1986,1986-10-05,Itumbiara,Inter de Limeira,0,2,D,V,NORMAL,G
+1986,1986-10-05,Juventus-SP,Mixto,3,0,V,D,NORMAL,G
+1986,1986-10-05,Cascavel EC,Criciúma,0,0,E,E,NORMAL,H
+1986,1986-10-05,Juventude,Avaí,2,0,V,D,NORMAL,H
+1986,1986-10-05,Marcílio Dias,Brasil de Pelotas,2,1,V,D,NORMAL,H
+1986,1986-10-05,Novo Hamburgo,Pinheiros-PR,1,2,D,V,NORMAL,H
+1986,1986-10-05,São Paulo,Sport,3,2,V,D,NORMAL,A
+1986,1986-10-05,Bangu,Ceará,0,1,D,V,NORMAL,A
+1986,1986-10-05,Internacional,Operário-MS,3,1,V,D,NORMAL,A
+1986,1986-10-05,Coritiba,Sobradinho,1,1,E,E,NORMAL,A
+1986,1986-10-05,Sampaio Corrêa,Remo,2,2,E,E,NORMAL,A
+1986,1986-10-05,America-RJ,Grêmio,2,0,V,D,NORMAL,B
+1986,1986-10-05,Athletico Paranaense,Flamengo,2,1,V,D,NORMAL,B
+1986,1986-10-05,Goiás,Sergipe,2,0,V,D,NORMAL,B
+1986,1986-10-05,Ponte Preta,Joinville,4,1,V,D,NORMAL,B
+1986,1986-10-05,Cruzeiro,Bahia,0,0,E,E,NORMAL,C
+1986,1986-10-05,Piauí,Santos,0,2,D,V,NORMAL,C
+1986,1986-10-05,Rio Branco-ES,Atlético Goianiense,2,1,V,D,NORMAL,C
+1986,1986-10-05,Tuna Luso,Guarani,1,4,D,V,NORMAL,C
+1986,1986-10-05,Vasco,Operário-MT,6,0,V,D,NORMAL,C
+1986,1986-10-05,Vitória,Nacional-AM,2,2,E,E,NORMAL,D
+1986,1986-10-05,Santa Cruz,Fortaleza,3,2,V,D,NORMAL,D
+1986,1986-10-05,CSA,Palmeiras,1,0,V,D,NORMAL,D
+1986,1986-10-05,Botafogo,Atlético Mineiro,2,4,D,V,NORMAL,D
+1986,1986-10-07,Operário-MS,Sobradinho,2,1,V,D,NORMAL,A
+1986,1986-10-07,Vasco,Piauí,2,0,V,D,NORMAL,C
+1986,1986-10-07,Botafogo,Santa Cruz,2,0,V,D,NORMAL,D
+1986,1986-10-07,Comercial-MS,Nacional-AM,2,1,V,D,NORMAL,D
+1986,1986-10-08,Botafogo-PB,Paysandu,2,0,V,D,NORMAL,B
+1986,1986-10-09,Piauí,Tuna Luso,1,2,D,V,NORMAL,C
+1986,1986-10-09,Alecrim,Comercial-MS,0,0,E,E,NORMAL,D
+1986,1986-10-12,Ponte Preta,São Paulo,0,2,D,V,NORMAL,I
+1986,1986-10-12,Santos,Treze,0,1,D,V,NORMAL,I
+1986,1986-10-12,America-RJ,Bangu,1,0,V,D,NORMAL,I
+1986,1986-10-12,Atlético Goianiense,Fluminense,0,2,D,V,NORMAL,J
+1986,1986-10-12,Flamengo,Grêmio,1,1,E,E,NORMAL,J
+1986,1986-10-12,Cruzeiro,Inter de Limeira,5,1,V,D,NORMAL,K
+1986,1986-10-12,Bahia,Athletico Paranaense,0,0,E,E,NORMAL,K
+1986,1986-10-12,Corinthians,Criciúma,1,1,E,E,NORMAL,L
+1986,1986-10-12,Internacional,Ceará,2,0,V,D,NORMAL,L
+1986,1986-10-12,Rio Branco-ES,Atlético Mineiro,0,1,D,V,NORMAL,L
+1986,1986-10-15,Bangu,Ponte Preta,0,0,E,E,NORMAL,I
+1986,1986-10-15,Palmeiras,Treze,4,1,V,D,NORMAL,I
+1986,1986-10-15,Santos,America-RJ,1,0,V,D,NORMAL,I
+1986,1986-10-15,Atlético Mineiro,Ceará,2,0,V,D,NORMAL,L
+1986,1986-10-15,Nacional-AM,Rio Branco-ES,2,1,V,D,NORMAL,L
+1986,1986-10-16,Flamengo,Atlético Goianiense,2,1,V,D,NORMAL,J
+1986,1986-10-16,Fluminense,Central,2,0,V,D,NORMAL,J
+1986,1986-10-16,Grêmio,Vitória,1,1,E,E,NORMAL,J
+1986,1986-10-16,Athletico Paranaense,Cruzeiro,1,1,E,E,NORMAL,K
+1986,1986-10-16,Bahia,CSA,2,0,V,D,NORMAL,K
+1986,1986-10-16,Criciúma,Internacional,1,1,E,E,NORMAL,L
+1986,1986-10-19,São Paulo,Santos,2,0,V,D,NORMAL,I
+1986,1986-10-19,Ponte Preta,Palmeiras,0,0,E,E,NORMAL,I
+1986,1986-10-19,Treze,Bangu,1,0,V,D,NORMAL,I
+1986,1986-10-19,Flamengo,Fluminense,0,0,E,E,NORMAL,J
+1986,1986-10-19,Central,Vitória,1,0,V,D,NORMAL,J
+1986,1986-10-19,Atlético Goianiense,Guarani,0,3,D,V,NORMAL,J
+1986,1986-10-19,Bahia,Sport,1,0,V,D,NORMAL,K
+1986,1986-10-19,Inter de Limeira,Athletico Paranaense,1,0,V,D,NORMAL,K
+1986,1986-10-19,Portuguesa,Cruzeiro,0,0,E,E,NORMAL,K
+1986,1986-10-19,Internacional,Corinthians,2,2,E,E,NORMAL,L
+1986,1986-10-19,Atlético Mineiro,Nacional-AM,1,0,V,D,NORMAL,L
+1986,1986-10-19,Ceará,Rio Branco-ES,3,0,V,D,NORMAL,L
+1986,1986-10-19,Vasco,Criciúma,2,0,V,D,NORMAL,L
+1986,1986-10-22,São Paulo,Bangu,2,0,V,D,NORMAL,I
+1986,1986-10-22,Treze,Ponte Preta,1,0,V,D,NORMAL,I
+1986,1986-10-22,Botafogo,Joinville,1,1,E,E,NORMAL,I
+1986,1986-10-22,America-RJ,Palmeiras,1,1,E,E,NORMAL,I
+1986,1986-10-22,Guarani,Grêmio,2,1,V,D,NORMAL,J
+1986,1986-10-22,Central,Flamengo,2,1,V,D,NORMAL,J
+1986,1986-10-22,Sport,Portuguesa,1,2,D,V,NORMAL,K
+1986,1986-10-22,CSA,Athletico Paranaense,0,0,E,E,NORMAL,K
+1986,1986-10-22,Corinthians,Ceará,4,0,V,D,NORMAL,L
+1986,1986-10-22,Criciúma,Nacional-AM,2,1,V,D,NORMAL,L
+1986,1986-10-23,Fluminense,Vitória,1,0,V,D,NORMAL,J
+1986,1986-10-23,Goiás,Santa Cruz,0,2,D,V,NORMAL,J
+1986,1986-10-23,Inter de Limeira,Bahia,1,1,E,E,NORMAL,K
+1986,1986-10-23,Cruzeiro,Comercial-MS,3,1,V,D,NORMAL,K
+1986,1986-10-23,Sobradinho,Vasco,1,3,D,V,NORMAL,L
+1986,1986-10-25,Santos,Ponte Preta,1,1,E,E,NORMAL,I
+1986,1986-10-25,Botafogo,Treze,2,0,V,D,NORMAL,I
+1986,1986-10-25,Atlético Goianiense,Grêmio,0,1,D,V,NORMAL,J
+1986,1986-10-25,Vitória,Goiás,2,1,V,D,NORMAL,J
+1986,1986-10-26,São Paulo,America-RJ,1,1,E,E,NORMAL,I
+1986,1986-10-26,Bangu,Palmeiras,0,1,D,V,NORMAL,I
+1986,1986-10-26,Santa Cruz,Fluminense,1,1,E,E,NORMAL,J
+1986,1986-10-26,Grêmio,Fluminense,1,0,V,D,NORMAL,J
+1986,1986-10-26,Flamengo,Guarani,0,0,E,E,NORMAL,J
+1986,1986-10-26,Central,Atlético Goianiense,1,1,E,E,NORMAL,J
+1986,1986-10-26,Bahia,Cruzeiro,1,0,V,D,NORMAL,K
+1986,1986-10-26,Sport,Inter de Limeira,3,2,V,D,NORMAL,K
+1986,1986-10-26,Portuguesa,CSA,0,0,E,E,NORMAL,K
+1986,1986-10-26,Athletico Paranaense,Náutico,2,1,V,D,NORMAL,K
+1986,1986-10-26,Atlético Mineiro,Internacional,1,0,V,D,NORMAL,L
+1986,1986-10-26,Nacional-AM,Corinthians,1,3,D,V,NORMAL,L
+1986,1986-10-26,Criciúma,Rio Branco-ES,0,0,E,E,NORMAL,L
+1986,1986-10-27,Vitória,Santa Cruz,1,1,E,E,NORMAL,J
+1986,1986-10-29,Palmeiras,Santos,1,0,V,D,NORMAL,I
+1986,1986-10-29,Bangu,Botafogo,1,0,V,D,NORMAL,I
+1986,1986-10-29,Ponte Preta,America-RJ,3,1,V,D,NORMAL,I
+1986,1986-10-29,Treze,Joinville,0,0,E,E,NORMAL,I
+1986,1986-10-29,Comercial-MS,Bahia,1,2,D,V,NORMAL,K
+1986,1986-10-29,Portuguesa,Náutico,4,0,V,D,NORMAL,K
+1986,1986-10-29,Cruzeiro,Sport,0,0,E,E,NORMAL,K
+1986,1986-10-29,CSA,Inter de Limeira,1,1,E,E,NORMAL,K
+1986,1986-10-29,Sobradinho,Corinthians,0,5,D,V,NORMAL,L
+1986,1986-10-29,Ceará,Nacional-AM,1,2,D,V,NORMAL,L
+1986,1986-10-29,Vasco,Rio Branco-ES,1,2,D,V,NORMAL,L
+1986,1986-10-30,Guarani,Central,3,0,V,D,NORMAL,J
+1986,1986-10-30,Atlético Mineiro,Criciúma,1,1,E,E,NORMAL,L
+1986,1986-11-01,Santos,Bangu,2,0,V,D,NORMAL,I
+1986,1986-11-01,Atlético Goianiense,Vitória,1,0,V,D,NORMAL,J
+1986,1986-11-01,Portuguesa,Bahia,2,0,V,D,NORMAL,K
+1986,1986-11-01,Náutico,Comercial-MS,3,1,V,D,NORMAL,K
+1986,1986-11-02,São Paulo,Palmeiras,0,0,E,E,NORMAL,I
+1986,1986-11-02,America-RJ,Treze,1,0,V,D,NORMAL,I
+1986,1986-11-02,Joinville,Ponte Preta,1,0,V,D,NORMAL,I
+1986,1986-11-02,Goiás,Flamengo,0,4,D,V,NORMAL,J
+1986,1986-11-02,Central,Grêmio,2,2,E,E,NORMAL,J
+1986,1986-11-02,Fluminense,Guarani,1,2,D,V,NORMAL,J
+1986,1986-11-02,Sport,Athletico Paranaense,1,1,E,E,NORMAL,K
+1986,1986-11-02,Cruzeiro,CSA,2,0,V,D,NORMAL,K
+1986,1986-11-02,Corinthians,Atlético Mineiro,1,2,D,V,NORMAL,L
+1986,1986-11-02,Nacional-AM,Internacional,2,1,V,D,NORMAL,L
+1986,1986-11-02,Criciúma,Ceará,2,0,V,D,NORMAL,L
+1986,1986-11-02,Rio Branco-ES,Sobradinho,2,3,D,V,NORMAL,L
+1986,1986-11-05,Bangu,Joinville,1,1,E,E,NORMAL,I
+1986,1986-11-05,Guarani,Santa Cruz,3,1,V,D,NORMAL,J
+1986,1986-11-05,Goiás,Central,1,1,E,E,NORMAL,J
+1986,1986-11-05,Náutico,CSA,1,1,E,E,NORMAL,K
+1986,1986-11-05,Comercial-MS,Portuguesa,1,0,V,D,NORMAL,K
+1986,1986-11-05,Vasco,Nacional-AM,2,1,V,D,NORMAL,L
+1986,1986-11-05,Internacional,Sobradinho,3,1,V,D,NORMAL,L
+1986,1986-11-06,Ponte Preta,Botafogo,1,0,V,D,NORMAL,I
+1986,1986-11-08,Santa Cruz,Atlético Goianiense,1,1,E,E,NORMAL,J
+1986,1986-11-09,Palmeiras,Botafogo,3,2,V,D,NORMAL,I
+1986,1986-11-09,Joinville,São Paulo,0,0,E,E,NORMAL,I
+1986,1986-11-09,Grêmio,Goiás,0,3,D,V,NORMAL,J
+1986,1986-11-09,Vitória,Flamengo,0,1,D,V,NORMAL,J
+1986,1986-11-09,Athletico Paranaense,Portuguesa,1,1,E,E,NORMAL,K
+1986,1986-11-09,CSA,Sport,1,0,V,D,NORMAL,K
+1986,1986-11-09,Náutico,Cruzeiro,1,1,E,E,NORMAL,K
+1986,1986-11-09,Comercial-MS,Inter de Limeira,0,0,E,E,NORMAL,K
+1986,1986-11-09,Rio Branco-ES,Corinthians,1,2,D,V,NORMAL,L
+1986,1986-11-09,Vasco,Atlético Mineiro,0,0,E,E,NORMAL,L
+1986,1986-11-09,Ceará,Sobradinho,3,1,V,D,NORMAL,L
+1986,1986-11-12,Treze,São Paulo,1,0,V,D,NORMAL,I
+1986,1986-11-12,America-RJ,Botafogo,2,1,V,D,NORMAL,I
+1986,1986-11-12,Santa Cruz,Central,0,0,E,E,NORMAL,J
+1986,1986-11-12,Inter de Limeira,Náutico,1,2,D,V,NORMAL,K
+1986,1986-11-12,Comercial-MS,Sport,2,1,V,D,NORMAL,K
+1986,1986-11-12,Ceará,Vasco,2,2,E,E,NORMAL,L
+1986,1986-11-12,Sobradinho,Criciúma,0,1,D,V,NORMAL,L
+1986,1986-11-13,Joinville,Santos,0,0,E,E,NORMAL,I
+1986,1986-11-13,Goiás,Fluminense,1,2,D,V,NORMAL,J
+1986,1986-11-16,Botafogo,Santos,2,3,D,V,NORMAL,I
+1986,1986-11-16,Palmeiras,Joinville,2,0,V,D,NORMAL,I
+1986,1986-11-16,Grêmio,Santa Cruz,0,1,D,V,NORMAL,J
+1986,1986-11-16,Atlético Goianiense,Goiás,1,1,E,E,NORMAL,J
+1986,1986-11-16,Vitória,Guarani,0,2,D,V,NORMAL,J
+1986,1986-11-16,Sport,Náutico,0,2,D,V,NORMAL,K
+1986,1986-11-16,Inter de Limeira,Portuguesa,1,1,E,E,NORMAL,K
+1986,1986-11-16,Athletico Paranaense,Comercial-MS,1,0,V,D,NORMAL,K
+1986,1986-11-16,Corinthians,Vasco,0,0,E,E,NORMAL,L
+1986,1986-11-16,Rio Branco-ES,Internacional,2,1,V,D,NORMAL,L
+1986,1986-11-16,Sobradinho,Atlético Mineiro,1,1,E,E,NORMAL,L
+1986,1986-11-19,Joinville,America-RJ,2,0,V,D,NORMAL,I
+1986,1986-11-19,Guarani,Goiás,0,1,D,V,NORMAL,J
+1986,1986-11-19,Santa Cruz,Flamengo,0,1,D,V,NORMAL,J
+1986,1986-11-19,CSA,Comercial-MS,0,0,E,E,NORMAL,K
+1986,1986-11-19,Internacional,Vasco,0,1,D,V,NORMAL,L
+1986,1986-11-19,Nacional-AM,Sobradinho,1,1,E,E,NORMAL,L
+1986,1986-11-20,São Paulo,Botafogo,5,0,V,D,NORMAL,I
+1986,1986-11-20,Náutico,Bahia,0,1,D,V,NORMAL,K
+1986,1986-11-22,Flamengo,Goiás,1,2,D,V,NORMAL,J
+1986,1986-11-23,Santos,São Paulo,0,0,E,E,NORMAL,I
+1986,1986-11-23,America-RJ,Ponte Preta,2,1,V,D,NORMAL,I
+1986,1986-11-23,Joinville,Palmeiras,0,0,E,E,NORMAL,I
+1986,1986-11-23,Treze,Botafogo,0,1,D,V,NORMAL,I
+1986,1986-11-23,Central,Fluminense,1,5,D,V,NORMAL,J
+1986,1986-11-23,Vitória,Grêmio,1,0,V,D,NORMAL,J
+1986,1986-11-23,Atlético Goianiense,Santa Cruz,3,1,V,D,NORMAL,J
+1986,1986-11-23,Athletico Paranaense,Bahia,3,1,V,D,NORMAL,K
+1986,1986-11-23,Comercial-MS,Náutico,0,1,D,V,NORMAL,K
+1986,1986-11-23,Sport,Cruzeiro,2,1,V,D,NORMAL,K
+1986,1986-11-23,CSA,Portuguesa,1,1,E,E,NORMAL,K
+1986,1986-11-23,Atlético Mineiro,Corinthians,0,1,D,V,NORMAL,L
+1986,1986-11-23,Nacional-AM,Ceará,0,0,E,E,NORMAL,L
+1986,1986-11-23,Sobradinho,Rio Branco-ES,2,3,D,V,NORMAL,L
+1986,1986-11-23,Vasco,Internacional,2,3,D,V,NORMAL,L
+1986,1986-11-26,Palmeiras,America-RJ,1,1,E,E,NORMAL,I
+1986,1986-11-26,Bangu,Santos,1,1,E,E,NORMAL,I
+1986,1986-11-26,Joinville,Treze,3,0,V,D,NORMAL,I
+1986,1986-11-26,Botafogo,Ponte Preta,0,0,E,E,NORMAL,I
+1986,1986-11-26,Flamengo,Central,5,0,V,D,NORMAL,J
+1986,1986-11-26,Goiás,Guarani,0,0,E,E,NORMAL,J
+1986,1986-11-26,Grêmio,Atlético Goianiense,4,2,V,D,NORMAL,J
+1986,1986-11-26,Santa Cruz,Vitória,2,2,E,E,NORMAL,J
+1986,1986-11-26,Cruzeiro,Portuguesa,2,0,V,D,NORMAL,K
+1986,1986-11-26,Inter de Limeira,Sport,2,1,V,D,NORMAL,K
+1986,1986-11-26,Comercial-MS,CSA,0,3,D,V,NORMAL,K
+1986,1986-11-26,Rio Branco-ES,Vasco,1,1,E,E,NORMAL,L
+1986,1986-11-26,Sobradinho,Ceará,0,2,D,V,NORMAL,L
+1986,1986-11-26,Criciúma,Atlético Mineiro,1,2,D,V,NORMAL,L
+1986,1986-11-27,Náutico,Athletico Paranaense,1,0,V,D,NORMAL,K
+1986,1986-11-27,Corinthians,Nacional-AM,1,0,V,D,NORMAL,L
+1986,1986-11-29,Palmeiras,Ponte Preta,2,0,V,D,NORMAL,I
+1986,1986-11-29,Santa Cruz,Grêmio,0,0,E,E,NORMAL,J
+1986,1986-11-30,Santos,Botafogo,0,0,E,E,NORMAL,I
+1986,1986-11-30,America-RJ,São Paulo,0,0,E,E,NORMAL,I
+1986,1986-11-30,Fluminense,Flamengo,1,0,V,D,NORMAL,J
+1986,1986-11-30,Goiás,Atlético Goianiense,2,2,E,E,NORMAL,J
+1986,1986-11-30,Guarani,Vitória,4,0,V,D,NORMAL,J
+1986,1986-11-30,Náutico,Sport,1,0,V,D,NORMAL,K
+1986,1986-11-30,Portuguesa,Comercial-MS,3,2,V,D,NORMAL,K
+1986,1986-11-30,Cruzeiro,Athletico Paranaense,1,0,V,D,NORMAL,K
+1986,1986-11-30,Bahia,Inter de Limeira,2,1,V,D,NORMAL,K
+1986,1986-11-30,Internacional,Criciúma,2,0,V,D,NORMAL,L
+1986,1986-11-30,Ceará,Corinthians,0,0,E,E,NORMAL,L
+1986,1986-11-30,Vasco,Sobradinho,4,0,V,D,NORMAL,L
+1986,1986-11-30,Nacional-AM,Atlético Mineiro,2,1,V,D,NORMAL,L
+1986,1986-11-30,Joinville,Bangu,4,0,V,D,NORMAL,I
+1986,1986-12-03,Palmeiras,Bangu,2,2,E,E,NORMAL,I
+1986,1986-12-03,São Paulo,Treze,4,1,V,D,NORMAL,I
+1986,1986-12-03,Ponte Preta,Joinville,2,0,V,D,NORMAL,I
+1986,1986-12-03,Vitória,Central,1,0,V,D,NORMAL,J
+1986,1986-12-03,Santa Cruz,Guarani,1,1,E,E,NORMAL,J
+1986,1986-12-03,Atlético Goianiense,Flamengo,0,0,E,E,NORMAL,J
+1986,1986-12-03,Fluminense,Goiás,2,0,V,D,NORMAL,J
+1986,1986-12-03,Athletico Paranaense,Sport,2,0,V,D,NORMAL,K
+1986,1986-12-03,Comercial-MS,Cruzeiro,3,3,E,E,NORMAL,K
+1986,1986-12-03,CSA,Bahia,1,0,V,D,NORMAL,K
+1986,1986-12-03,Atlético Mineiro,Rio Branco-ES,1,0,V,D,NORMAL,L
+1986,1986-12-03,Internacional,Nacional-AM,2,1,V,D,NORMAL,L
+1986,1986-12-03,Criciúma,Vasco,1,0,V,D,NORMAL,L
+1986,1986-12-04,America-RJ,Botafogo,0,0,E,E,NORMAL,I
+1986,1986-12-04,Portuguesa,Inter de Limeira,0,0,E,E,NORMAL,K
+1986,1986-12-04,Corinthians,Sobradinho,0,0,E,E,NORMAL,L
+1986,1986-12-06,Fluminense,Atlético Goianiense,0,0,E,E,NORMAL,J
+1986,1986-12-07,Santos,Palmeiras,1,1,E,E,NORMAL,I
+1986,1986-12-07,Botafogo,São Paulo,0,0,E,E,NORMAL,I
+1986,1986-12-07,America-RJ,Joinville,1,1,E,E,NORMAL,I
+1986,1986-12-07,Goiás,Vitória,2,1,V,D,NORMAL,J
+1986,1986-12-07,Central,Guarani,1,3,D,V,NORMAL,J
+1986,1986-12-07,Grêmio,Flamengo,2,0,V,D,NORMAL,J
+1986,1986-12-07,Inter de Limeira,Cruzeiro,1,0,V,D,NORMAL,K
+1986,1986-12-07,Sport,CSA,3,1,V,D,NORMAL,K
+1986,1986-12-07,Comercial-MS,Athletico Paranaense,0,0,E,E,NORMAL,K
+1986,1986-12-07,Bahia,Náutico,1,0,V,D,NORMAL,K
+1986,1986-12-07,Rio Branco-ES,Nacional-AM,3,0,V,D,NORMAL,L
+1986,1986-12-07,Atlético Mineiro,Vasco,1,0,V,D,NORMAL,L
+1986,1986-12-07,Corinthians,Internacional,1,1,E,E,NORMAL,L
+1986,1986-12-07,Ceará,Criciúma,2,0,V,D,NORMAL,L
+1986,1986-12-07,Bangu,Treze,1,0,V,D,NORMAL,I
+1986,1986-12-10,Joinville,Botafogo,1,0,V,D,NORMAL,I
+1986,1986-12-10,Treze,Santos,0,0,E,E,NORMAL,I
+1986,1986-12-10,São Paulo,Ponte Preta,6,1,V,D,NORMAL,I
+1986,1986-12-10,Bangu,America-RJ,1,1,E,E,NORMAL,I
+1986,1986-12-10,Santa Cruz,Goiás,1,1,E,E,NORMAL,J
+1986,1986-12-10,Atlético Goianiense,Central,2,0,V,D,NORMAL,J
+1986,1986-12-10,Fluminense,Grêmio,1,0,V,D,NORMAL,J
+1986,1986-12-10,Athletico Paranaense,Inter de Limeira,2,2,E,E,NORMAL,K
+1986,1986-12-10,CSA,Náutico,2,1,V,D,NORMAL,K
+1986,1986-12-10,Bahia,Portuguesa,0,1,D,V,NORMAL,K
+1986,1986-12-10,Criciúma,Corinthians,1,0,V,D,NORMAL,L
+1986,1986-12-10,Internacional,Rio Branco-ES,5,1,V,D,NORMAL,L
+1986,1986-12-10,Ceará,Atlético Mineiro,2,0,V,D,NORMAL,L
+1986,1986-12-10,Sobradinho,Nacional-AM,2,1,V,D,NORMAL,L
+1986,1986-12-11,Guarani,Flamengo,0,0,E,E,NORMAL,J
+1986,1986-12-11,Sport,Comercial-MS,1,1,E,E,NORMAL,K
+1986,1986-12-13,Botafogo,Bangu,0,0,E,E,NORMAL,I
+1986,1986-12-13,Ponte Preta,Treze,1,1,E,E,NORMAL,I
+1986,1986-12-13,Vitória,Atlético Goianiense,0,0,E,E,NORMAL,J
+1986,1986-12-14,Palmeiras,São Paulo,2,2,E,E,NORMAL,I
+1986,1986-12-14,Santos,Joinville,0,0,E,E,NORMAL,I
+1986,1986-12-14,Guarani,Fluminense,0,0,E,E,NORMAL,J
+1986,1986-12-14,Goiás,Grêmio,0,0,E,E,NORMAL,J
+1986,1986-12-14,Central,Santa Cruz,0,0,E,E,NORMAL,J
+1986,1986-12-14,Athletico Paranaense,CSA,2,1,V,D,NORMAL,K
+1986,1986-12-14,Cruzeiro,Bahia,2,1,V,D,NORMAL,K
+1986,1986-12-14,Inter de Limeira,Comercial-MS,2,0,V,D,NORMAL,K
+1986,1986-12-14,Náutico,Portuguesa,0,2,D,V,NORMAL,K
+1986,1986-12-14,Vasco,Corinthians,1,1,E,E,NORMAL,L
+1986,1986-12-14,Internacional,Atlético Mineiro,0,2,D,V,NORMAL,L
+1986,1986-12-14,Criciúma,Sobradinho,1,0,V,D,NORMAL,L
+1986,1986-12-14,Rio Branco-ES,Ceará,2,0,V,D,NORMAL,L
+1986,1987-01-24,São Paulo,Joinville,5,0,V,D,NORMAL,I
+1986,1987-01-24,Fluminense,Santa Cruz,2,0,V,D,NORMAL,J
+1986,1987-01-25,America-RJ,Santos,1,0,V,D,NORMAL,I
+1986,1987-01-25,Treze,Palmeiras,0,2,D,V,NORMAL,I
+1986,1987-01-25,Ponte Preta,Bangu,1,2,D,V,NORMAL,I
+1986,1987-01-25,Flamengo,Vitória,2,0,V,D,NORMAL,J
+1986,1987-01-25,Grêmio,Guarani,0,1,D,V,NORMAL,J
+1986,1987-01-25,Central,Goiás,2,2,E,E,NORMAL,J
+1986,1987-01-25,Portuguesa,Sport,1,1,E,E,NORMAL,K
+1986,1987-01-25,Náutico,Inter de Limeira,0,1,D,V,NORMAL,K
+1986,1987-01-25,Bahia,Comercial-MS,3,1,V,D,NORMAL,K
+1986,1987-01-25,CSA,Cruzeiro,0,1,D,V,NORMAL,K
+1986,1987-01-25,Atlético Mineiro,Sobradinho,1,1,E,E,NORMAL,L
+1986,1987-01-25,Ceará,Internacional,1,1,E,E,NORMAL,L
+1986,1987-01-25,Nacional-AM,Vasco,1,2,D,V,NORMAL,L
+1986,1987-01-25,Rio Branco-ES,Criciúma,1,1,E,E,NORMAL,L
+1986,1987-01-28,Bangu,São Paulo,1,0,V,D,NORMAL,I
+1986,1987-01-28,Ponte Preta,Santos,0,0,E,E,NORMAL,I
+1986,1987-01-28,Treze,America-RJ,1,1,E,E,NORMAL,I
+1986,1987-01-28,Guarani,Atlético Goianiense,2,0,V,D,NORMAL,J
+1986,1987-01-28,Flamengo,Santa Cruz,0,1,D,V,NORMAL,J
+1986,1987-01-28,Vitória,Fluminense,2,1,V,D,NORMAL,J
+1986,1987-01-28,Grêmio,Central,3,0,V,D,NORMAL,J
+1986,1987-01-28,Portuguesa,Athletico Paranaense,1,0,V,D,NORMAL,K
+1986,1987-01-28,Cruzeiro,Náutico,1,0,V,D,NORMAL,K
+1986,1987-01-28,Sport,Bahia,0,1,D,V,NORMAL,K
+1986,1987-01-28,Inter de Limeira,CSA,2,0,V,D,NORMAL,K
+1986,1987-01-28,Corinthians,Rio Branco-ES,1,0,V,D,NORMAL,L
+1986,1987-01-28,Vasco,Ceará,3,1,V,D,NORMAL,L
+1986,1987-01-28,Sobradinho,Internacional,0,3,D,V,NORMAL,L
+1986,1987-01-28,Nacional-AM,Criciúma,0,1,D,V,NORMAL,L
+1986,1987-01-29,Botafogo,Palmeiras,1,0,V,D,NORMAL,I
+1986,1987-01-31,Vasco,Guarani,0,3,D,V,NORMAL,1/8
+1986,1987-02-01,Flamengo,Atlético Mineiro,1,1,E,E,NORMAL,1/8
+1986,1987-02-01,Inter de Limeira,São Paulo,2,1,V,D,NORMAL,1/8
+1986,1987-02-01,Criciúma,Fluminense,2,1,V,D,NORMAL,1/8
+1986,1987-02-01,America-RJ,Portuguesa,1,0,V,D,NORMAL,1/8
+1986,1987-02-01,Bahia,Palmeiras,2,0,V,D,NORMAL,1/8
+1986,1987-02-01,Joinville,Cruzeiro,1,1,E,E,NORMAL,1/8
+1986,1987-02-01,Grêmio,Corinthians,0,0,E,E,NORMAL,1/8
+1986,1987-02-04,Guarani,Vasco,2,0,V,D,NORMAL,1/8
+1986,1987-02-04,Atlético Mineiro,Flamengo,1,0,V,D,NORMAL,1/8
+1986,1987-02-04,São Paulo,Inter de Limeira,3,0,V,D,NORMAL,1/8
+1986,1987-02-04,Fluminense,Criciúma,1,0,V,D,NORMAL,1/8
+1986,1987-02-04,Portuguesa,America-RJ,0,0,E,E,NORMAL,1/8
+1986,1987-02-05,Palmeiras,Bahia,1,0,V,D,NORMAL,1/8
+1986,1987-02-05,Cruzeiro,Joinville,1,1,E,E,NORMAL,1/8
+1986,1987-02-05,Corinthians,Grêmio,1,1,E,E,NORMAL,1/8
+1986,1987-02-08,Bahia,Guarani,2,2,E,E,NORMAL,QF
+1986,1987-02-08,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,QF
+1986,1987-02-08,Fluminense,São Paulo,1,0,V,D,NORMAL,QF
+1986,1987-02-08,Corinthians,America-RJ,0,2,D,V,NORMAL,QF
+1986,1987-02-11,Guarani,Bahia,1,0,V,D,NORMAL,QF
+1986,1987-02-11,Atlético Mineiro,Cruzeiro,1,1,E,E,NORMAL,QF
+1986,1987-02-11,São Paulo,Fluminense,2,0,V,D,NORMAL,QF
+1986,1987-02-11,America-RJ,Corinthians,1,2,D,V,NORMAL,QF
+1986,1987-02-15,Atlético Mineiro,Guarani,0,0,E,E,NORMAL,SF
+1986,1987-02-15,São Paulo,America-RJ,1,0,V,D,NORMAL,SF
+1986,1987-02-18,Guarani,Atlético Mineiro,2,1,V,D,NORMAL,SF
+1986,1987-02-18,America-RJ,São Paulo,1,1,E,E,NORMAL,SF
+1986,1987-02-22,São Paulo,Guarani,1,1,E,E,NORMAL,F
+1986,1987-02-25,Guarani,São Paulo,3,3,E,E,NORMAL,F

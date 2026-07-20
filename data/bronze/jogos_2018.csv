@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2018-04-14,Cruzeiro,0-1,Grêmio,R1
+2018-04-14,Vitória,2-2,Flamengo,R1
+2018-04-14,Santos,2-0,Ceará,R1
+2018-04-15,América Mineiro,3-0,Sport,R1
+2018-04-15,Vasco,2-1,Atlético Mineiro,R1
+2018-04-15,Corinthians,2-1,Fluminense,R1
+2018-04-15,Internacional,2-0,Bahia,R1
+2018-04-15,Atlético Paranaense,5-1,Chapecoense,R1
+2018-04-16,Botafogo,1-1,Palmeiras,R1
+2018-04-16,São Paulo,1-0,Paraná,R1
+2018-04-21,Bahia,1-0,Santos,R2
+2018-04-21,Flamengo,2-0,América Mineiro,R2
+2018-04-22,Paraná,0-4,Corinthians,R2
+2018-04-22,Atlético Mineiro,2-1,Vitória,R2
+2018-04-22,Chapecoense,1-1,Vasco,R2
+2018-04-22,Fluminense,1-0,Cruzeiro,R2
+2018-04-22,Ceará,0-0,São Paulo,R2
+2018-04-22,Palmeiras,1-0,Internacional,R2
+2018-04-22,Grêmio,0-0,Atlético Paranaense,R2
+2018-04-23,Sport,1-1,Botafogo,R2
+2018-04-28,Botafogo,2-1,Grêmio,R3
+2018-04-29,Atlético Mineiro,1-0,Corinthians,R3
+2018-04-29,Paraná,1-2,Sport,R3
+2018-04-29,Bahia,0-0,Atlético Paranaense,R3
+2018-04-29,Fluminense,1-1,São Paulo,R3
+2018-04-29,Ceará,0-3,Flamengo,R3
+2018-04-29,Palmeiras,0-0,Chapecoense,R3
+2018-04-29,Internacional,0-0,Cruzeiro,R3
+2018-04-30,América Mineiro,2-1,Vitória,R3
+2018-05-05,Vasco,4-1,América Mineiro,R4
+2018-05-05,São Paulo,2-2,Atlético Mineiro,R4
+2018-05-06,Corinthians,1-1,Ceará,R4
+2018-05-06,Cruzeiro,1-0,Botafogo,R4
+2018-05-06,Atlético Paranaense,1-3,Palmeiras,R4
+2018-05-06,Vitória,1-2,Fluminense,R4
+2018-05-06,Flamengo,2-0,Internacional,R4
+2018-05-06,Sport,2-0,Bahia,R4
+2018-05-06,Grêmio,5-1,Santos,R4
+2018-05-07,Chapecoense,1-1,Paraná,R4
+2018-05-12,Grêmio,0-0,Internacional,R5
+2018-05-13,Cruzeiro,2-0,Sport,R5
+2018-05-13,Atlético Paranaense,1-2,Atlético Mineiro,R5
+2018-05-13,Chapecoense,3-2,Flamengo,R5
+2018-05-13,Bahia,2-2,São Paulo,R5
+2018-05-13,Vasco,2-3,Vitória,R5
+2018-05-13,Corinthians,1-0,Palmeiras,R5
+2018-05-13,Santos,3-1,Paraná,R5
+2018-05-14,Botafogo,2-1,Fluminense,R5
+2018-05-14,Ceará,2-2,América Mineiro,R5
+2018-05-19,Atlético Mineiro,1-0,Cruzeiro,R6
+2018-05-19,Flamengo,1-1,Vasco,R6
+2018-05-19,Palmeiras,3-0,Bahia,R6
+2018-05-20,Vitória,2-1,Ceará,R6
+2018-05-20,Paraná,0-0,Grêmio,R6
+2018-05-20,América Mineiro,1-0,Botafogo,R6
+2018-05-20,São Paulo,1-0,Santos,R6
+2018-05-20,Sport,1-1,Corinthians,R6
+2018-05-20,Fluminense,2-0,Atlético Paranaense,R6
+2018-05-21,Internacional,3-0,Chapecoense,R6
+2018-05-26,Fluminense,3-1,Chapecoense,R7
+2018-05-26,Palmeiras,2-3,Sport,R7
+2018-05-26,Atlético Mineiro,0-1,Flamengo,R7
+2018-05-27,Paraná,0-0,Atlético Paranaense,R7
+2018-05-27,Bahia,3-0,Vasco,R7
+2018-05-27,Botafogo,1-1,Vitória,R7
+2018-05-27,Santos,0-1,Cruzeiro,R7
+2018-05-27,Internacional,2-1,Corinthians,R7
+2018-05-27,América Mineiro,1-3,São Paulo,R7
+2018-05-27,Ceará,0-1,Grêmio,R7
+2018-05-30,Vitória,2-3,Internacional,R8
+2018-05-30,Vasco,1-0,Paraná,R8
+2018-05-30,Sport,3-2,Atlético Mineiro,R8
+2018-05-30,Chapecoense,2-0,Ceará,R8
+2018-05-30,São Paulo,3-2,Botafogo,R8
+2018-05-30,Cruzeiro,1-0,Palmeiras,R8
+2018-05-30,Grêmio,0-0,Fluminense,R8
+2018-05-31,Flamengo,2-0,Bahia,R8
+2018-05-31,Corinthians,1-0,América Mineiro,R8
+2018-05-31,Atlético Paranaense,2-0,Santos,R8
+2018-06-02,Atlético Mineiro,3-3,Chapecoense,R9
+2018-06-02,Internacional,0-0,Sport,R9
+2018-06-02,Vasco,1-2,Botafogo,R9
+2018-06-02,Palmeiras,3-1,São Paulo,R9
+2018-06-03,América Mineiro,3-1,Atlético Paranaense,R9
+2018-06-03,Bahia,0-2,Grêmio,R9
+2018-06-03,Flamengo,1-0,Corinthians,R9
+2018-06-03,Santos,5-2,Vitória,R9
+2018-06-03,Ceará,0-1,Cruzeiro,R9
+2018-06-04,Paraná,2-1,Fluminense,R9
+2018-06-05,São Paulo,0-0,Internacional,R10
+2018-06-06,Vitória,1-0,Chapecoense,R10
+2018-06-06,Botafogo,0-0,Ceará,R10
+2018-06-06,Sport,1-0,Atlético Paranaense,R10
+2018-06-06,Corinthians,1-1,Santos,R10
+2018-06-06,Cruzeiro,1-1,Vasco,R10
+2018-06-06,Grêmio,0-2,Palmeiras,R10
+2018-06-07,Paraná,1-0,Bahia,R10
+2018-06-07,Fluminense,0-2,Flamengo,R10
+2018-06-07,América Mineiro,1-3,Atlético Mineiro,R10
+2018-06-09,Atlético Paranaense,0-1,São Paulo,R11
+2018-06-09,Chapecoense,2-0,Cruzeiro,R11
+2018-06-09,Vasco,3-2,Sport,R11
+2018-06-09,Corinthians,0-0,Vitória,R11
+2018-06-10,Atlético Mineiro,5-2,Fluminense,R11
+2018-06-10,Bahia,3-3,Botafogo,R11
+2018-06-10,Ceará,2-2,Palmeiras,R11
+2018-06-10,Grêmio,1-0,América Mineiro,R11
+2018-06-10,Flamengo,2-0,Paraná,R11
+2018-06-10,Santos,1-2,Internacional,R11
+2018-06-12,São Paulo,3-0,Vitória,R12
+2018-06-13,América Mineiro,0-0,Chapecoense,R12
+2018-06-13,Fluminense,0-1,Santos,R12
+2018-06-13,Paraná,1-1,Cruzeiro,R12
+2018-06-13,Sport,0-0,Grêmio,R12
+2018-06-13,Botafogo,2-0,Atlético Paranaense,R12
+2018-06-13,Palmeiras,1-1,Flamengo,R12
+2018-06-13,Atlético Mineiro,2-1,Ceará,R12
+2018-06-13,Bahia,1-0,Corinthians,R12
+2018-06-13,Internacional,3-1,Vasco,R12
+2018-07-18,Ceará,1-0,Sport,R13
+2018-07-18,Vitória,1-0,Paraná,R13
+2018-07-18,Flamengo,0-1,São Paulo,R13
+2018-07-18,Corinthians,2-0,Botafogo,R13
+2018-07-18,Grêmio,2-0,Atlético Mineiro,R13
+2018-07-19,Cruzeiro,3-1,América Mineiro,R13
+2018-07-19,Chapecoense,1-1,Bahia,R13
+2018-07-19,Vasco,1-1,Fluminense,R13
+2018-07-19,Santos,1-1,Palmeiras,R13
+2018-07-19,Atlético Paranaense,2-2,Internacional,R13
+2018-07-21,Flamengo,2-0,Botafogo,R14
+2018-07-21,São Paulo,3-1,Corinthians,R14
+2018-07-22,Paraná,1-0,América Mineiro,R14
+2018-07-22,Bahia,4-1,Vitória,R14
+2018-07-22,Vasco,1-0,Grêmio,R14
+2018-07-22,Sport,1-2,Fluminense,R14
+2018-07-22,Palmeiras,3-2,Atlético Mineiro,R14
+2018-07-22,Cruzeiro,2-1,Atlético Paranaense,R14
+2018-07-22,Chapecoense,0-0,Santos,R14
+2018-07-23,Internacional,1-0,Ceará,R14
+2018-07-25,Fluminense,1-0,Palmeiras,R15
+2018-07-25,Atlético Mineiro,2-0,Paraná,R15
+2018-07-25,Santos,1-1,Flamengo,R15
+2018-07-25,Corinthians,2-0,Cruzeiro,R15
+2018-07-26,Vitória,1-0,Sport,R15
+2018-07-26,Botafogo,1-0,Chapecoense,R15
+2018-07-26,Grêmio,2-1,São Paulo,R15
+2018-07-26,América Mineiro,2-1,Internacional,R15
+2018-07-28,Ceará,1-0,Fluminense,R16
+2018-07-29,Vasco,1-4,Corinthians,R16
+2018-07-29,Palmeiras,3-0,Paraná,R16
+2018-07-29,Cruzeiro,0-2,São Paulo,R16
+2018-07-29,Atlético Paranaense,4-0,Vitória,R16
+2018-07-29,Flamengo,4-1,Sport,R16
+2018-07-29,Internacional,3-0,Botafogo,R16
+2018-07-29,Chapecoense,1-1,Grêmio,R16
+2018-07-29,Santos,0-1,América Mineiro,R16
+2018-07-30,Bahia,2-2,Atlético Mineiro,R16
+2018-08-04,Botafogo,0-0,Santos,R17
+2018-08-04,Grêmio,2-0,Flamengo,R17
+2018-08-04,Corinthians,0-0,Atlético Paranaense,R17
+2018-08-05,Paraná,0-1,Ceará,R17
+2018-08-05,América Mineiro,0-0,Palmeiras,R17
+2018-08-05,Vitória,1-1,Cruzeiro,R17
+2018-08-05,São Paulo,2-1,Vasco,R17
+2018-08-05,Fluminense,1-1,Bahia,R17
+2018-08-05,Sport,1-1,Chapecoense,R17
+2018-08-06,Atlético Mineiro,0-1,Internacional,R17
+2018-08-08,Ceará,1-1,Santos,R20
+2018-08-11,Ceará,0-0,Atlético Paranaense,R18
+2018-08-11,Bahia,1-0,América Mineiro,R18
+2018-08-12,Atlético Mineiro,3-1,Santos,R18
+2018-08-12,Paraná,1-1,Botafogo,R18
+2018-08-12,Chapecoense,2-1,Corinthians,R18
+2018-08-12,Flamengo,1-0,Cruzeiro,R18
+2018-08-12,Sport,1-3,São Paulo,R18
+2018-08-12,Palmeiras,1-0,Vasco,R18
+2018-08-12,Grêmio,4-0,Vitória,R18
+2018-08-13,Fluminense,0-3,Internacional,R18
+2018-08-18,Santos,3-0,Sport,R19
+2018-08-18,Corinthians,0-1,Grêmio,R19
+2018-08-19,Atlético Paranaense,3-0,Flamengo,R19
+2018-08-19,Internacional,1-0,Paraná,R19
+2018-08-19,Cruzeiro,1-1,Bahia,R19
+2018-08-19,Vitória,0-3,Palmeiras,R19
+2018-08-19,Botafogo,0-3,Atlético Mineiro,R19
+2018-08-19,América Mineiro,0-0,Fluminense,R19
+2018-08-19,São Paulo,2-0,Chapecoense,R19
+2018-08-20,Vasco,1-1,Ceará,R19
+2018-08-22,Paraná,1-1,São Paulo,R20
+2018-08-22,Bahia,0-1,Internacional,R20
+2018-08-22,Sport,0-2,América Mineiro,R20
+2018-08-22,Palmeiras,2-0,Botafogo,R20
+2018-08-22,Fluminense,1-0,Corinthians,R20
+2018-08-22,Grêmio,1-1,Cruzeiro,R20
+2018-08-23,Flamengo,1-0,Vitória,R20
+2018-08-23,Atlético Mineiro,0-0,Vasco,R20
+2018-08-25,Santos,2-0,Bahia,R21
+2018-08-25,Atlético Paranaense,2-1,Grêmio,R21
+2018-08-25,Corinthians,1-0,Paraná,R21
+2018-08-25,Cruzeiro,2-1,Fluminense,R21
+2018-08-25,Botafogo,2-0,Sport,R21
+2018-08-26,São Paulo,1-0,Ceará,R21
+2018-08-26,América Mineiro,2-2,Flamengo,R21
+2018-08-26,Vitória,1-0,Atlético Mineiro,R21
+2018-08-26,Internacional,0-0,Palmeiras,R21
+2018-08-26,Vasco,3-1,Chapecoense,R21
+2018-08-29,Atlético Paranaense,1-0,Vasco,R15
+2018-08-29,Ceará,0-2,Bahia,R15
+2018-09-01,Vitória,1-0,América Mineiro,R22
+2018-09-01,Grêmio,4-0,Botafogo,R22
+2018-09-01,Vasco,0-3,Santos,R22
+2018-09-01,Corinthians,1-1,Atlético Mineiro,R22
+2018-09-02,Flamengo,0-1,Ceará,R22
+2018-09-02,Atlético Paranaense,2-0,Bahia,R22
+2018-09-02,São Paulo,1-1,Fluminense,R22
+2018-09-02,Sport,1-0,Paraná,R22
+2018-09-02,Cruzeiro,0-0,Internacional,R22
+2018-09-02,Chapecoense,1-2,Palmeiras,R22
+2018-09-05,Bahia,2-0,Sport,R23
+2018-09-05,Botafogo,1-1,Cruzeiro,R23
+2018-09-05,Ceará,2-1,Corinthians,R23
+2018-09-05,Paraná,1-1,Chapecoense,R23
+2018-09-05,Palmeiras,2-0,Atlético Paranaense,R23
+2018-09-05,Atlético Mineiro,1-0,São Paulo,R23
+2018-09-05,Internacional,2-1,Flamengo,R23
+2018-09-06,Santos,0-0,Grêmio,R23
+2018-09-06,Fluminense,0-0,Vitória,R23
+2018-09-06,América Mineiro,2-1,Vasco,R23
+2018-09-08,Sport,0-0,Cruzeiro,R24
+2018-09-08,São Paulo,1-0,Bahia,R24
+2018-09-08,Flamengo,2-0,Chapecoense,R24
+2018-09-09,América Mineiro,0-0,Ceará,R24
+2018-09-09,Fluminense,1-0,Botafogo,R24
+2018-09-09,Palmeiras,1-0,Corinthians,R24
+2018-09-09,Internacional,1-0,Grêmio,R24
+2018-09-09,Paraná,0-2,Santos,R24
+2018-09-09,Vitória,1-0,Vasco,R24
+2018-09-10,Atlético Mineiro,3-1,Atlético Paranaense,R24
+2018-09-13,Chapecoense,2-1,Atlético Paranaense,R20
+2018-09-15,Ceará,2-0,Vitória,R25
+2018-09-15,Grêmio,2-0,Paraná,R25
+2018-09-15,Vasco,1-1,Flamengo,R25
+2018-09-16,Botafogo,1-0,América Mineiro,R25
+2018-09-16,Cruzeiro,0-0,Atlético Mineiro,R25
+2018-09-16,Atlético Paranaense,3-1,Fluminense,R25
+2018-09-16,Bahia,1-1,Palmeiras,R25
+2018-09-16,Santos,0-0,São Paulo,R25
+2018-09-16,Corinthians,2-1,Sport,R25
+2018-09-17,Chapecoense,2-1,Internacional,R25
+2018-09-22,São Paulo,1-1,América Mineiro,R26
+2018-09-23,Grêmio,3-2,Ceará,R26
+2018-09-23,Atlético Paranaense,3-0,Paraná,R26
+2018-09-23,Flamengo,2-1,Atlético Mineiro,R26
+2018-09-23,Corinthians,1-1,Internacional,R26
+2018-09-23,Vitória,3-4,Botafogo,R26
+2018-09-23,Sport,0-1,Palmeiras,R26
+2018-09-23,Cruzeiro,2-1,Santos,R26
+2018-09-24,Chapecoense,1-2,Fluminense,R26
+2018-09-24,Vasco,2-1,Bahia,R26
+2018-09-27,Santos,1-1,Vasco,R3
+2018-09-29,Fluminense,0-1,Grêmio,R27
+2018-09-29,América Mineiro,0-0,Corinthians,R27
+2018-09-29,Bahia,0-0,Flamengo,R27
+2018-09-30,Palmeiras,3-1,Cruzeiro,R27
+2018-09-30,Atlético Mineiro,5-2,Sport,R27
+2018-09-30,Botafogo,2-2,São Paulo,R27
+2018-09-30,Santos,1-0,Atlético Paranaense,R27
+2018-09-30,Internacional,2-1,Vitória,R27
+2018-09-30,Ceará,3-1,Chapecoense,R27
+2018-10-01,Paraná,1-1,Vasco,R27
+2018-10-05,Sport,2-1,Internacional,R28
+2018-10-05,Corinthians,0-3,Flamengo,R28
+2018-10-05,Vitória,0-1,Santos,R28
+2018-10-06,Atlético Paranaense,4-0,América Mineiro,R28
+2018-10-06,Chapecoense,1-0,Atlético Mineiro,R28
+2018-10-06,São Paulo,0-2,Palmeiras,R28
+2018-10-06,Grêmio,2-2,Bahia,R28
+2018-10-08,Fluminense,4-0,Paraná,R28
+2018-10-09,Botafogo,1-1,Vasco,R28
+2018-10-13,Flamengo,3-0,Fluminense,R29
+2018-10-13,Santos,1-0,Corinthians,R29
+2018-10-13,Bahia,2-0,Paraná,R29
+2018-10-14,Chapecoense,0-1,Vitória,R29
+2018-10-14,Vasco,2-0,Cruzeiro,R29
+2018-10-14,Palmeiras,2-0,Grêmio,R29
+2018-10-14,Internacional,3-1,São Paulo,R29
+2018-10-14,Atlético Mineiro,0-0,América Mineiro,R29
+2018-10-14,Atlético Paranaense,4-0,Sport,R29
+2018-10-15,Ceará,0-0,Botafogo,R29
+2018-10-20,América Mineiro,1-1,Grêmio,R30
+2018-10-20,Botafogo,0-1,Bahia,R30
+2018-10-20,São Paulo,0-0,Atlético Paranaense,R30
+2018-10-20,Sport,2-1,Vasco,R30
+2018-10-21,Vitória,2-2,Corinthians,R30
+2018-10-21,Fluminense,1-0,Atlético Mineiro,R30
+2018-10-21,Palmeiras,2-1,Ceará,R30
+2018-10-21,Cruzeiro,3-0,Chapecoense,R30
+2018-10-21,Paraná,0-4,Flamengo,R30
+2018-10-22,Internacional,2-2,Santos,R30
+2018-10-24,Cruzeiro,0-2,Ceará,R28
+2018-10-26,Vitória,0-1,São Paulo,R31
+2018-10-26,Vasco,1-1,Internacional,R31
+2018-10-27,Santos,3-0,Fluminense,R31
+2018-10-27,Grêmio,3-4,Sport,R31
+2018-10-27,Chapecoense,1-0,América Mineiro,R31
+2018-10-27,Flamengo,1-1,Palmeiras,R31
+2018-10-27,Corinthians,2-1,Bahia,R31
+2018-10-27,Cruzeiro,3-1,Paraná,R31
+2018-10-27,Atlético Paranaense,2-1,Botafogo,R31
+2018-10-29,Ceará,2-1,Atlético Mineiro,R31
+2018-11-03,Atlético Mineiro,0-1,Grêmio,R32
+2018-11-03,Fluminense,0-1,Vasco,R32
+2018-11-03,Palmeiras,3-2,Santos,R32
+2018-11-04,Paraná,1-1,Vitória,R32
+2018-11-04,América Mineiro,1-2,Cruzeiro,R32
+2018-11-04,Botafogo,1-0,Corinthians,R32
+2018-11-04,São Paulo,2-2,Flamengo,R32
+2018-11-04,Bahia,1-0,Chapecoense,R32
+2018-11-04,Internacional,2-1,Atlético Paranaense,R32
+2018-11-05,Sport,1-0,Ceará,R32
+2018-11-10,América Mineiro,0-1,Paraná,R33
+2018-11-10,Corinthians,1-1,São Paulo,R33
+2018-11-10,Atlético Paranaense,2-0,Cruzeiro,R33
+2018-11-10,Botafogo,2-1,Flamengo,R33
+2018-11-11,Atlético Mineiro,1-1,Palmeiras,R33
+2018-11-11,Vitória,2-2,Bahia,R33
+2018-11-11,Ceará,1-1,Internacional,R33
+2018-11-11,Grêmio,2-1,Vasco,R33
+2018-11-11,Fluminense,0-0,Sport,R33
+2018-11-12,Santos,0-1,Chapecoense,R33
+2018-11-14,Vasco,1-1,Atlético Paranaense,R34
+2018-11-14,Paraná,0-1,Atlético Mineiro,R34
+2018-11-14,Bahia,2-1,Ceará,R34
+2018-11-14,Cruzeiro,1-0,Corinthians,R34
+2018-11-14,Sport,0-0,Vitória,R34
+2018-11-14,Palmeiras,3-0,Fluminense,R34
+2018-11-15,Chapecoense,0-1,Botafogo,R34
+2018-11-15,Flamengo,1-0,Santos,R34
+2018-11-15,São Paulo,1-1,Grêmio,R34
+2018-11-15,Internacional,2-0,América Mineiro,R34
+2018-11-17,Vitória,1-2,Atlético Paranaense,R35
+2018-11-17,Corinthians,1-0,Vasco,R35
+2018-11-17,Atlético Mineiro,1-0,Bahia,R35
+2018-11-18,Paraná,1-1,Palmeiras,R35
+2018-11-18,América Mineiro,2-1,Santos,R35
+2018-11-18,Botafogo,1-0,Internacional,R35
+2018-11-18,Sport,0-1,Flamengo,R35
+2018-11-18,São Paulo,1-0,Cruzeiro,R35
+2018-11-18,Grêmio,2-0,Chapecoense,R35
+2018-11-19,Fluminense,0-0,Ceará,R35
+2018-11-21,Internacional,1-2,Atlético Mineiro,R36
+2018-11-21,Santos,1-1,Botafogo,R36
+2018-11-21,Cruzeiro,3-0,Vitória,R36
+2018-11-21,Atlético Paranaense,1-0,Corinthians,R36
+2018-11-21,Flamengo,2-0,Grêmio,R36
+2018-11-21,Palmeiras,4-0,América Mineiro,R36
+2018-11-22,Vasco,2-0,São Paulo,R36
+2018-11-22,Chapecoense,2-1,Sport,R36
+2018-11-22,Bahia,2-0,Fluminense,R36
+2018-11-22,Ceará,1-0,Paraná,R36
+2018-11-24,Santos,3-2,Atlético Mineiro,R37
+2018-11-25,Cruzeiro,0-2,Flamengo,R37
+2018-11-25,Atlético Paranaense,2-2,Ceará,R37
+2018-11-25,Vitória,0-0,Grêmio,R37
+2018-11-25,Vasco,0-1,Palmeiras,R37
+2018-11-25,América Mineiro,1-0,Bahia,R37
+2018-11-25,Corinthians,0-0,Chapecoense,R37
+2018-11-25,Internacional,2-0,Fluminense,R37
+2018-11-26,Botafogo,2-1,Paraná,R37
+2018-11-26,São Paulo,0-0,Sport,R37
+2018-12-01,Atlético Mineiro,1-0,Botafogo,R38
+2018-12-01,Flamengo,1-2,Atlético Paranaense,R38
+2018-12-02,Paraná,1-1,Internacional,R38
+2018-12-02,Bahia,0-0,Cruzeiro,R38
+2018-12-02,Fluminense,1-0,América Mineiro,R38
+2018-12-02,Palmeiras,3-2,Vitória,R38
+2018-12-02,Chapecoense,1-0,São Paulo,R38
+2018-12-02,Ceará,0-0,Vasco,R38
+2018-12-02,Sport,2-1,Santos,R38
+2018-12-02,Grêmio,1-0,Corinthians,R38

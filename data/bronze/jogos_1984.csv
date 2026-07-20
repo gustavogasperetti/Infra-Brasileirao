@@ -1,0 +1,311 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+1984-01-28,Flamengo,1-0,Palmeiras,E
+1984-01-29,Vasco,2-3,São Paulo,A
+1984-01-29,Fortaleza,0-0,Tuna Luso,A
+1984-01-29,Bahia,2-0,Atlético Mineiro,B
+1984-01-29,Bangu,1-0,Treze,B
+1984-01-29,ABC,3-1,Confiança,C
+1984-01-29,Santos,1-1,Fluminense,C
+1984-01-29,Catuense,0-1,Santo André,D
+1984-01-29,Grêmio,2-0,Náutico,D
+1984-01-29,Brasília,0-2,Operário-MS,E
+1984-01-29,Cruzeiro,1-2,America-RJ,F
+1984-01-29,Atlético Paranaense,1-0,Rio Branco-ES,F
+1984-01-29,Anapolina,0-0,Operário-MT,G
+1984-01-29,Joinville,0-0,Internacional,G
+1984-01-29,Santa Cruz,0-0,Portuguesa,H
+1984-01-29,Auto Esporte-PI,4-2,Moto Club,H
+1984-01-31,Palmeiras,3-1,Goiás,E
+1984-02-01,Nacional-AM,1-1,Tuna Luso,A
+1984-02-01,Ferroviário,0-0,Fluminense,C
+1984-02-01,Santo André,1-0,Grêmio,D
+1984-02-01,Coritiba,4-1,Catuense,D
+1984-02-01,GE Brasil,1-0,Cruzeiro,F
+1984-02-01,America-RJ,1-0,Atlético Paranaense,F
+1984-02-01,Internacional,5-0,Anapolina,G
+1984-02-01,Portuguesa,0-1,Botafogo,H
+1984-02-01,Auto Esporte-PI,0-1,Santa Cruz,H
+1984-02-01,CRB,0-0,Bangu,B
+1984-02-02,Vasco,1-0,Fortaleza,A
+1984-02-02,Treze,1-1,Bahia,B
+1984-02-02,Confiança,0-2,Santos,C
+1984-02-02,Brasília,0-2,Flamengo,E
+1984-02-03,Corinthians,0-0,Operário-MT,G
+1984-02-04,Cruzeiro,1-3,Rio Branco-ES,F
+1984-02-05,São Paulo,5-0,Fortaleza,A
+1984-02-05,Nacional-AM,0-3,Vasco,A
+1984-02-05,Atlético Mineiro,4-1,Treze,B
+1984-02-05,CRB,1-0,Bahia,B
+1984-02-05,Ferroviário,1-0,Confiança,C
+1984-02-05,ABC,0-2,Santos,C
+1984-02-05,Náutico,3-2,Coritiba,D
+1984-02-05,Grêmio,3-0,Catuense,D
+1984-02-05,Goiás,0-0,Flamengo,E
+1984-02-05,Operário-MS,1-1,Palmeiras,E
+1984-02-05,America-RJ,1-1,GE Brasil,F
+1984-02-05,Corinthians,1-0,Anapolina,G
+1984-02-05,Operário-MT,1-0,Joinville,G
+1984-02-05,Moto Club,0-1,Portuguesa,H
+1984-02-05,Botafogo,0-1,Santa Cruz,H
+1984-02-08,Nacional-AM,1-1,São Paulo,A
+1984-02-08,Tuna Luso,1-1,Vasco,A
+1984-02-08,Bahia,2-0,Bangu,B
+1984-02-08,Fluminense,1-0,ABC,C
+1984-02-08,Santo André,1-0,Coritiba,D
+1984-02-08,Flamengo,3-2,Operário-MS,E
+1984-02-08,Goiás,4-1,Brasília,E
+1984-02-08,Rio Branco-ES,1-0,GE Brasil,F
+1984-02-08,Atlético Paranaense,3-2,Cruzeiro,F
+1984-02-08,Operário-MT,2-2,Internacional,G
+1984-02-08,Santa Cruz,3-1,Moto Club,H
+1984-02-09,Atlético Mineiro,4-0,CRB,B
+1984-02-09,Santos,2-0,Ferroviário,C
+1984-02-09,Catuense,1-1,Náutico,D
+1984-02-09,Joinville,2-1,Corinthians,G
+1984-02-09,Botafogo,2-0,Auto Esporte-PI,H
+1984-02-11,Fortaleza,3-2,Nacional-AM,A
+1984-02-11,Fluminense,1-0,Confiança,C
+1984-02-12,Tuna Luso,0-0,São Paulo,A
+1984-02-12,Treze,1-2,CRB,B
+1984-02-12,Ferroviário,0-3,ABC,C
+1984-02-12,Náutico,2-1,Santo André,D
+1984-02-12,Coritiba,1-3,Grêmio,D
+1984-02-12,Palmeiras,4-0,Brasília,E
+1984-02-12,Operário-MS,2-0,Goiás,E
+1984-02-12,Rio Branco-ES,2-1,America-RJ,F
+1984-02-12,GE Brasil,1-1,Atlético Paranaense,F
+1984-02-12,Anapolina,1-0,Joinville,G
+1984-02-12,Internacional,1-1,Corinthians,G
+1984-02-12,Moto Club,1-1,Botafogo,H
+1984-02-12,Portuguesa,5-0,Auto Esporte-PI,H
+1984-02-12,Bangu,0-1,Atlético Mineiro,B
+1984-02-15,Vasco,1-0,Nacional-AM,A
+1984-02-15,Fortaleza,1-0,São Paulo,A
+1984-02-15,Atlético Mineiro,6-0,Bahia,B
+1984-02-15,Bangu,0-0,CRB,B
+1984-02-15,Santos,4-1,ABC,C
+1984-02-15,Confiança,4-1,Ferroviário,C
+1984-02-15,Náutico,2-0,Catuense,D
+1984-02-15,Grêmio,4-4,Santo André,D
+1984-02-15,Brasília,0-2,Goiás,E
+1984-02-15,GE Brasil,3-1,Rio Branco-ES,F
+1984-02-15,Joinville,2-1,Operário-MT,G
+1984-02-15,Anapolina,1-1,Internacional,G
+1984-02-15,Auto Esporte-PI,1-2,Botafogo,H
+1984-02-15,Moto Club,2-2,Santa Cruz,H
+1984-02-16,Operário-MS,1-1,Flamengo,E
+1984-02-16,America-RJ,1-1,Cruzeiro,F
+1984-02-18,São Paulo,1-1,Nacional-AM,A
+1984-02-18,Coritiba,1-2,Náutico,D
+1984-02-18,Portuguesa,0-0,Santa Cruz,H
+1984-02-19,Vasco,9-0,Tuna Luso,A
+1984-02-19,Atlético Mineiro,1-1,Bangu,B
+1984-02-19,Bahia,2-1,Treze,B
+1984-02-19,Confiança,0-2,Fluminense,C
+1984-02-19,ABC,0-0,Ferroviário,C
+1984-02-19,Santo André,1-1,Catuense,D
+1984-02-19,Palmeiras,1-1,Flamengo,E
+1984-02-19,Operário-MS,4-2,Brasília,E
+1984-02-19,Rio Branco-ES,1-5,Cruzeiro,F
+1984-02-19,Atlético Paranaense,0-1,America-RJ,F
+1984-02-19,Corinthians,2-1,Joinville,G
+1984-02-19,Internacional,2-0,Operário-MT,G
+1984-02-19,Moto Club,0-1,Auto Esporte-PI,H
+1984-02-22,São Paulo,3-1,Tuna Luso,A
+1984-02-22,Nacional-AM,0-0,Fortaleza,A
+1984-02-22,CRB,1-2,Atlético Mineiro,B
+1984-02-22,Treze,1-0,Bangu,B
+1984-02-22,ABC,1-2,Fluminense,C
+1984-02-22,Catuense,0-2,Coritiba,D
+1984-02-22,Brasília,1-3,Palmeiras,E
+1984-02-22,Goiás,2-1,Operário-MS,E
+1984-02-22,Cruzeiro,4-0,GE Brasil,F
+1984-02-22,Rio Branco-ES,1-3,Atlético Paranaense,F
+1984-02-22,Operário-MT,0-4,Corinthians,G
+1984-02-22,Botafogo,0-1,Moto Club,H
+1984-02-22,Auto Esporte-PI,3-2,Portuguesa,H
+1984-02-23,Ferroviário,0-5,Santos,C
+1984-02-23,Náutico,0-0,Grêmio,D
+1984-02-23,Joinville,0-0,Anapolina,G
+1984-02-25,São Paulo,3-2,Vasco,A
+1984-02-25,Flamengo,3-0,Brasília,E
+1984-02-25,Botafogo,0-0,Portuguesa,H
+1984-02-26,Tuna Luso,2-1,Fortaleza,A
+1984-02-26,Bangu,2-2,Bahia,B
+1984-02-26,CRB,1-2,Treze,B
+1984-02-26,Confiança,0-1,ABC,C
+1984-02-26,Fluminense,0-1,Santos,C
+1984-02-26,Catuense,1-2,Grêmio,D
+1984-02-26,Coritiba,1-2,Santo André,D
+1984-02-26,Goiás,0-1,Palmeiras,E
+1984-02-26,GE Brasil,1-1,America-RJ,F
+1984-02-26,Cruzeiro,2-2,Atlético Paranaense,F
+1984-02-26,Corinthians,0-0,Internacional,G
+1984-02-26,Operário-MT,6-1,Anapolina,G
+1984-02-26,Santa Cruz,3-1,Auto Esporte-PI,H
+1984-02-29,Tuna Luso,1-0,Nacional-AM,A
+1984-02-29,Fortaleza,2-1,Vasco,A
+1984-02-29,Bahia,0-0,CRB,B
+1984-02-29,Treze,0-0,Atlético Mineiro,B
+1984-02-29,Santos,3-0,Confiança,C
+1984-02-29,Fluminense,2-0,Ferroviário,C
+1984-02-29,Santo André,1-0,Náutico,D
+1984-02-29,Grêmio,5-0,Coritiba,D
+1984-02-29,Palmeiras,2-2,Operário-MS,E
+1984-02-29,Flamengo,2-2,Goiás,E
+1984-02-29,America-RJ,3-1,Rio Branco-ES,F
+1984-02-29,Atlético Paranaense,0-0,GE Brasil,F
+1984-02-29,Internacional,1-1,Joinville,G
+1984-02-29,Anapolina,0-0,Corinthians,G
+1984-02-29,Portuguesa,2-0,Moto Club,H
+1984-02-29,Santa Cruz,1-2,Botafogo,H
+1984-03-02,Tuna Luso,0-1,Treze,1F
+1984-03-02,Coritiba,3-1,Ferroviário,1F
+1984-03-02,Goiás,2-1,Rio Branco-ES,1F
+1984-03-02,Joinville,2-0,Auto Esporte-PI,1F
+1984-03-10,Flamengo,3-0,GE Brasil,M
+1984-03-11,Goiás,2-2,São Paulo,I
+1984-03-11,Bahia,1-1,Fluminense,I
+1984-03-11,Vasco,3-1,Atlético Mineiro,J
+1984-03-11,Grêmio,1-0,Joinville,J
+1984-03-11,Santos,1-1,Fortaleza,K
+1984-03-11,CRB,1-0,Palmeiras,K
+1984-03-11,Atlético Paranaense,5-0,ABC,L
+1984-03-11,Santo André,0-1,Operário-MS,L
+1984-03-11,Portuguesa,0-0,Internacional,M
+1984-03-11,Operário-MT,1-1,Botafogo,N
+1984-03-11,America-RJ,0-1,Coritiba,N
+1984-03-11,Santa Cruz,1-1,Treze,O
+1984-03-11,Corinthians,4-0,Náutico,O
+1984-03-14,Bahia,0-0,São Paulo,I
+1984-03-14,Fluminense,3-0,Goiás,I
+1984-03-14,Grêmio,0-0,Vasco,J
+1984-03-14,Joinville,1-1,Atlético Mineiro,J
+1984-03-14,CRB,0-0,Santos,K
+1984-03-14,Palmeiras,0-1,Fortaleza,K
+1984-03-14,Atlético Paranaense,3-2,Santo André,L
+1984-03-14,ABC,2-2,Operário-MS,L
+1984-03-14,GE Brasil,1-0,Internacional,M
+1984-03-14,America-RJ,3-1,Operário-MT,N
+1984-03-14,Santa Cruz,1-1,Corinthians,O
+1984-03-14,Treze,0-1,Náutico,O
+1984-03-15,Portuguesa,0-1,Flamengo,M
+1984-03-15,Botafogo,3-1,Coritiba,N
+1984-03-17,Palmeiras,2-2,Santos,K
+1984-03-18,São Paulo,0-2,Fluminense,I
+1984-03-18,Goiás,2-0,Bahia,I
+1984-03-18,Joinville,1-0,Vasco,J
+1984-03-18,Atlético Mineiro,0-1,Grêmio,J
+1984-03-18,Fortaleza,1-0,CRB,K
+1984-03-18,Operário-MS,1-0,Atlético Paranaense,L
+1984-03-18,ABC,2-4,Santo André,L
+1984-03-18,Internacional,4-0,Flamengo,M
+1984-03-18,GE Brasil,0-1,Portuguesa,M
+1984-03-18,Botafogo,0-0,America-RJ,N
+1984-03-18,Coritiba,2-0,Operário-MT,N
+1984-03-18,Treze,0-0,Corinthians,O
+1984-03-18,Náutico,1-1,Santa Cruz,O
+1984-03-21,Fluminense,3-1,Bahia,I
+1984-03-21,Atlético Mineiro,3-1,Joinville,J
+1984-03-21,Santos,2-0,CRB,K
+1984-03-21,Fortaleza,3-3,Palmeiras,K
+1984-03-21,Santo André,0-0,Atlético Paranaense,L
+1984-03-21,Operário-MS,1-0,ABC,L
+1984-03-21,GE Brasil,1-0,Flamengo,M
+1984-03-21,Internacional,0-1,Portuguesa,M
+1984-03-21,Operário-MT,1-4,America-RJ,N
+1984-03-21,Coritiba,1-1,Botafogo,N
+1984-03-21,Corinthians,1-0,Santa Cruz,O
+1984-03-21,Náutico,1-0,Treze,O
+1984-03-22,São Paulo,3-2,Goiás,I
+1984-03-22,Vasco,1-0,Grêmio,J
+1984-03-24,Internacional,1-1,GE Brasil,M
+1984-03-24,Flamengo,1-1,Portuguesa,M
+1984-03-24,America-RJ,2-1,Botafogo,N
+1984-03-24,Corinthians,1-1,Treze,O
+1984-03-25,Bahia,1-2,Goiás,I
+1984-03-25,Fluminense,0-0,São Paulo,I
+1984-03-25,Grêmio,1-0,Atlético Mineiro,J
+1984-03-25,Vasco,6-0,Joinville,J
+1984-03-25,Santos,2-3,Palmeiras,K
+1984-03-25,CRB,0-0,Fortaleza,K
+1984-03-25,Santo André,2-0,ABC,L
+1984-03-25,Atlético Paranaense,1-0,Operário-MS,L
+1984-03-25,Operário-MT,2-0,Coritiba,N
+1984-03-25,Santa Cruz,2-0,Náutico,O
+1984-03-30,Fortaleza,1-4,Santos,K
+1984-03-30,Palmeiras,7-0,CRB,K
+1984-04-01,São Paulo,2-0,Bahia,I
+1984-04-01,Goiás,3-0,Fluminense,I
+1984-04-01,Atlético Mineiro,1-0,Vasco,J
+1984-04-01,Joinville,1-0,Grêmio,J
+1984-04-01,ABC,1-0,Atlético Paranaense,L
+1984-04-01,Operário-MS,0-2,Santo André,L
+1984-04-01,Flamengo,2-0,Internacional,M
+1984-04-01,Portuguesa,4-1,GE Brasil,M
+1984-04-01,Botafogo,0-1,Operário-MT,N
+1984-04-01,Coritiba,3-2,America-RJ,N
+1984-04-01,Náutico,5-1,Corinthians,O
+1984-04-01,Treze,0-1,Santa Cruz,O
+1984-04-07,Fluminense,1-0,Santo André,P
+1984-04-08,Operário-MS,1-1,Portuguesa,P
+1984-04-08,Fortaleza,1-1,Coritiba,Q
+1984-04-08,Uberlândia,0-0,Vasco,Q
+1984-04-08,Flamengo,3-0,America-RJ,R
+1984-04-08,Atlético Paranaense,1-1,Corinthians,S
+1984-04-08,Goiás,1-1,Grêmio,S
+1984-04-09,Santos,4-2,Náutico,R
+1984-04-11,Portuguesa,1-1,Santo André,P
+1984-04-11,Operário-MS,0-0,Fluminense,P
+1984-04-11,Uberlândia,1-0,Fortaleza,Q
+1984-04-11,Vasco,1-0,Coritiba,Q
+1984-04-11,Grêmio,2-1,Corinthians,S
+1984-04-11,Goiás,0-0,Atlético Paranaense,S
+1984-04-12,America-RJ,1-1,Santos,R
+1984-04-12,Flamengo,2-0,Náutico,R
+1984-04-14,Corinthians,5-0,Goiás,S
+1984-04-15,Portuguesa,0-1,Fluminense,P
+1984-04-15,Santo André,1-1,Operário-MS,P
+1984-04-15,Coritiba,1-0,Uberlândia,Q
+1984-04-15,Vasco,2-0,Fortaleza,Q
+1984-04-15,Santos,0-1,Flamengo,R
+1984-04-15,Náutico,3-1,America-RJ,R
+1984-04-15,Grêmio,1-1,Atlético Paranaense,S
+1984-04-18,Santo André,0-0,Portuguesa,P
+1984-04-18,Fluminense,2-0,Operário-MS,P
+1984-04-18,Coritiba,0-0,Vasco,Q
+1984-04-18,Fortaleza,0-2,Uberlândia,Q
+1984-04-18,America-RJ,0-0,Flamengo,R
+1984-04-18,Náutico,1-0,Santos,R
+1984-04-18,Corinthians,0-0,Grêmio,S
+1984-04-19,Atlético Paranaense,2-1,Goiás,S
+1984-04-21,Fluminense,4-2,Portuguesa,P
+1984-04-22,Operário-MS,1-0,Santo André,P
+1984-04-22,Fortaleza,1-5,Vasco,Q
+1984-04-22,Uberlândia,1-1,Coritiba,Q
+1984-04-22,Flamengo,2-2,Santos,R
+1984-04-22,America-RJ,1-1,Náutico,R
+1984-04-22,Atlético Paranaense,1-4,Grêmio,S
+1984-04-22,Goiás,0-1,Corinthians,S
+1984-04-25,Portuguesa,3-2,Operário-MS,P
+1984-04-25,Santo André,1-1,Fluminense,P
+1984-04-25,Vasco,1-0,Uberlândia,Q
+1984-04-25,Coritiba,2-1,Fortaleza,Q
+1984-04-25,Santos,1-0,America-RJ,R
+1984-04-25,Náutico,2-1,Flamengo,R
+1984-04-25,Grêmio,2-0,Goiás,S
+1984-04-25,Corinthians,2-0,Atlético Paranaense,S
+1984-04-29,Coritiba,2-2,Fluminense,QF
+1984-04-29,Flamengo,2-0,Corinthians,QF
+1984-05-01,Portuguesa,2-5,Vasco,QF
+1984-05-01,Náutico,2-3,Grêmio,QF
+1984-05-05,Vasco,4-3,Portuguesa,QF
+1984-05-06,Fluminense,5-0,Coritiba,QF
+1984-05-06,Corinthians,4-1,Flamengo,QF
+1984-05-06,Grêmio,3-1,Náutico,QF
+1984-05-12,Grêmio,1-0,Vasco,SF
+1984-05-13,Corinthians,0-2,Fluminense,SF
+1984-05-19,Vasco,3-0,Grêmio,SF
+1984-05-20,Fluminense,0-0,Corinthians,SF
+1984-05-24,Fluminense,1-0,Vasco,F
+1984-05-28,Vasco,0-0,Fluminense,F

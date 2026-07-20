@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2024-04-13,Internacional,2-1,Bahia,R1
+2024-04-13,Criciúma,1-1,Juventude,R1
+2024-04-13,Fluminense,2-2,Red Bull Bragantino,R1
+2024-04-13,São Paulo,1-2,Fortaleza,R1
+2024-04-14,Vasco,2-1,Grêmio,R1
+2024-04-14,Corinthians,0-0,Atlético Mineiro,R1
+2024-04-14,Athletico Paranaense,4-0,Cuiabá,R1
+2024-04-14,Atlético Goianiense,1-2,Flamengo,R1
+2024-04-14,Cruzeiro,3-2,Botafogo,R1
+2024-04-14,Vitória,0-1,Palmeiras,R1
+2024-04-16,Bahia,2-1,Fluminense,R2
+2024-04-17,Grêmio,2-0,Athletico Paranaense,R2
+2024-04-17,Red Bull Bragantino,2-1,Vasco,R2
+2024-04-17,Atlético Mineiro,1-1,Criciúma,R2
+2024-04-17,Palmeiras,0-1,Internacional,R2
+2024-04-17,Fortaleza,1-1,Cruzeiro,R2
+2024-04-17,Juventude,2-0,Corinthians,R2
+2024-04-17,Flamengo,2-1,São Paulo,R2
+2024-04-18,Botafogo,1-0,Atlético Goianiense,R2
+2024-04-20,Fluminense,2-1,Vasco,R3
+2024-04-20,Grêmio,1-0,Cuiabá,R3
+2024-04-20,Red Bull Bragantino,1-0,Corinthians,R3
+2024-04-20,Atlético Mineiro,3-0,Cruzeiro,R3
+2024-04-21,Vitória,2-2,Bahia,R3
+2024-04-21,Palmeiras,0-0,Flamengo,R3
+2024-04-21,Athletico Paranaense,1-0,Internacional,R3
+2024-04-21,Botafogo,5-1,Juventude,R3
+2024-04-21,Atlético Goianiense,0-3,São Paulo,R3
+2024-04-27,Vasco,0-4,Criciúma,R4
+2024-04-27,Cuiabá,0-3,Atlético Mineiro,R4
+2024-04-27,Bahia,1-0,Grêmio,R4
+2024-04-28,Flamengo,0-2,Botafogo,R4
+2024-04-28,Cruzeiro,3-1,Vitória,R4
+2024-04-28,Corinthians,3-0,Fluminense,R4
+2024-04-28,Fortaleza,1-1,Red Bull Bragantino,R4
+2024-04-28,Juventude,1-1,Athletico Paranaense,R4
+2024-04-28,Internacional,1-1,Atlético Goianiense,R4
+2024-04-29,São Paulo,0-0,Palmeiras,R4
+2024-05-04,Fluminense,2-2,Atlético Mineiro,R5
+2024-05-04,Red Bull Bragantino,1-1,Flamengo,R5
+2024-05-04,Corinthians,0-0,Fortaleza,R5
+2024-05-05,Vitória,1-3,São Paulo,R5
+2024-05-05,Athletico Paranaense,1-0,Vasco,R5
+2024-05-05,Botafogo,1-2,Bahia,R5
+2024-05-05,Cuiabá,0-2,Palmeiras,R5
+2024-05-11,Flamengo,2-0,Corinthians,R6
+2024-05-12,Palmeiras,0-2,Athletico Paranaense,R6
+2024-05-12,Fortaleza,1-1,Botafogo,R6
+2024-05-12,Atlético Goianiense,0-1,Cruzeiro,R6
+2024-05-12,Bahia,1-0,Red Bull Bragantino,R6
+2024-05-12,Vasco,2-1,Vitória,R6
+2024-05-13,São Paulo,2-1,Fluminense,R6
+2024-06-01,Grêmio,0-2,Red Bull Bragantino,R7
+2024-06-01,Vitória,0-2,Atlético Goianiense,R7
+2024-06-01,Fluminense,1-1,Juventude,R7
+2024-06-01,Cuiabá,0-1,Internacional,R7
+2024-06-01,Corinthians,0-1,Botafogo,R7
+2024-06-02,Atlético Mineiro,1-1,Bahia,R7
+2024-06-02,Vasco,1-6,Flamengo,R7
+2024-06-02,Criciúma,1-2,Palmeiras,R7
+2024-06-02,São Paulo,2-0,Cruzeiro,R7
+2024-06-02,Fortaleza,1-0,Athletico Paranaense,R7
+2024-06-05,Juventude,1-0,Atlético Goianiense,R5
+2024-06-05,Cuiabá,0-0,Vitória,R2
+2024-06-09,Criciúma,2-5,Cuiabá,R6
+2024-06-11,Atlético Goianiense,2-2,Corinthians,R8
+2024-06-11,Juventude,1-1,Vitória,R8
+2024-06-11,Botafogo,1-0,Fluminense,R8
+2024-06-11,Red Bull Bragantino,1-2,Atlético Mineiro,R8
+2024-06-13,Cruzeiro,2-1,Cuiabá,R8
+2024-06-13,Internacional,0-0,São Paulo,R8
+2024-06-13,Flamengo,2-1,Grêmio,R8
+2024-06-13,Athletico Paranaense,3-1,Criciúma,R8
+2024-06-13,Bahia,1-0,Fortaleza,R8
+2024-06-13,Palmeiras,2-0,Vasco,R8
+2024-06-15,Red Bull Bragantino,2-1,Juventude,R9
+2024-06-15,Fluminense,1-2,Atlético Goianiense,R9
+2024-06-16,Vitória,2-1,Internacional,R9
+2024-06-16,Corinthians,2-2,São Paulo,R9
+2024-06-16,Athletico Paranaense,1-1,Flamengo,R9
+2024-06-16,Grêmio,1-2,Botafogo,R9
+2024-06-16,Vasco,0-0,Cruzeiro,R9
+2024-06-16,Cuiabá,5-0,Fortaleza,R9
+2024-06-16,Criciúma,2-2,Bahia,R9
+2024-06-17,Atlético Mineiro,0-4,Palmeiras,R9
+2024-06-19,Botafogo,1-1,Athletico Paranaense,R10
+2024-06-19,Atlético Goianiense,1-2,Criciúma,R10
+2024-06-19,São Paulo,0-1,Cuiabá,R10
+2024-06-19,Fortaleza,1-0,Grêmio,R10
+2024-06-19,Juventude,2-0,Vasco,R10
+2024-06-19,Internacional,1-0,Corinthians,R10
+2024-06-19,Cruzeiro,2-0,Fluminense,R10
+2024-06-20,Vitória,4-2,Atlético Mineiro,R10
+2024-06-20,Flamengo,2-1,Bahia,R10
+2024-06-20,Palmeiras,2-1,Red Bull Bragantino,R10
+2024-06-22,Criciúma,2-1,Botafogo,R11
+2024-06-22,Grêmio,0-1,Internacional,R11
+2024-06-22,Cuiabá,0-0,Atlético Goianiense,R11
+2024-06-22,Vasco,4-1,São Paulo,R11
+2024-06-23,Bahia,4-1,Cruzeiro,R11
+2024-06-23,Fluminense,0-1,Flamengo,R11
+2024-06-23,Athletico Paranaense,1-1,Corinthians,R11
+2024-06-23,Atlético Mineiro,1-1,Fortaleza,R11
+2024-06-23,Palmeiras,3-1,Juventude,R11
+2024-06-23,Red Bull Bragantino,2-1,Vitória,R11
+2024-06-26,Cruzeiro,2-0,Athletico Paranaense,R12
+2024-06-26,Botafogo,2-1,Red Bull Bragantino,R12
+2024-06-26,Corinthians,1-1,Cuiabá,R12
+2024-06-26,Atlético Goianiense,1-1,Grêmio,R12
+2024-06-26,Juventude,2-1,Flamengo,R12
+2024-06-26,Internacional,1-2,Atlético Mineiro,R12
+2024-06-26,Bahia,2-1,Vasco,R12
+2024-06-26,Fortaleza,3-0,Palmeiras,R12
+2024-06-27,Fluminense,0-1,Vitória,R12
+2024-06-27,São Paulo,2-1,Criciúma,R12
+2024-06-29,Vasco,1-1,Botafogo,R13
+2024-06-29,Cuiabá,1-1,Red Bull Bragantino,R13
+2024-06-30,Atlético Mineiro,1-1,Atlético Goianiense,R13
+2024-06-30,Grêmio,1-0,Fluminense,R13
+2024-06-30,São Paulo,3-1,Bahia,R13
+2024-06-30,Fortaleza,2-1,Juventude,R13
+2024-06-30,Vitória,0-1,Athletico Paranaense,R13
+2024-06-30,Flamengo,2-1,Cruzeiro,R13
+2024-06-30,Criciúma,1-1,Internacional,R13
+2024-07-01,Palmeiras,2-0,Corinthians,R13
+2024-07-03,Cuiabá,1-2,Botafogo,R14
+2024-07-03,Vasco,2-0,Fortaleza,R14
+2024-07-03,Criciúma,1-0,Cruzeiro,R14
+2024-07-03,Atlético Mineiro,2-4,Flamengo,R14
+2024-07-03,Red Bull Bragantino,3-1,Atlético Goianiense,R14
+2024-07-03,Athletico Paranaense,1-2,São Paulo,R14
+2024-07-04,Grêmio,2-2,Palmeiras,R14
+2024-07-04,Bahia,2-0,Juventude,R14
+2024-07-04,Fluminense,1-1,Internacional,R14
+2024-07-04,Corinthians,3-2,Vitória,R14
+2024-07-06,Flamengo,1-1,Cuiabá,R15
+2024-07-06,São Paulo,2-0,Red Bull Bragantino,R15
+2024-07-07,Cruzeiro,3-0,Corinthians,R15
+2024-07-07,Fortaleza,1-0,Fluminense,R15
+2024-07-07,Juventude,3-0,Grêmio,R15
+2024-07-07,Internacional,1-2,Vasco,R15
+2024-07-07,Vitória,2-1,Criciúma,R15
+2024-07-07,Palmeiras,2-0,Bahia,R15
+2024-07-07,Atlético Goianiense,1-2,Athletico Paranaense,R15
+2024-07-07,Botafogo,3-0,Atlético Mineiro,R15
+2024-07-10,Grêmio,0-2,Cruzeiro,R16
+2024-07-10,Vasco,2-0,Corinthians,R16
+2024-07-10,Athletico Paranaense,1-3,Bahia,R16
+2024-07-11,Palmeiras,3-1,Atlético Goianiense,R16
+2024-07-11,Flamengo,1-2,Fortaleza,R16
+2024-07-11,Criciúma,1-1,Fluminense,R16
+2024-07-11,Atlético Mineiro,2-1,São Paulo,R16
+2024-07-11,Vitória,0-1,Botafogo,R16
+2024-07-13,Cruzeiro,2-1,Red Bull Bragantino,R17
+2024-07-13,Bahia,1-2,Cuiabá,R17
+2024-07-16,Juventude,1-1,Atlético Mineiro,R17
+2024-07-16,Corinthians,2-1,Criciúma,R17
+2024-07-17,Atlético Goianiense,0-1,Vasco,R17
+2024-07-17,São Paulo,1-0,Grêmio,R17
+2024-07-17,Botafogo,1-0,Palmeiras,R17
+2024-07-17,Fortaleza,3-1,Vitória,R17
+2024-07-20,Flamengo,2-1,Criciúma,R18
+2024-07-20,Botafogo,1-0,Internacional,R18
+2024-07-20,Palmeiras,2-0,Cruzeiro,R18
+2024-07-21,Grêmio,2-0,Vitória,R18
+2024-07-21,Atlético Mineiro,2-0,Vasco,R18
+2024-07-21,Bahia,0-1,Corinthians,R18
+2024-07-21,Red Bull Bragantino,1-0,Athletico Paranaense,R18
+2024-07-21,Fortaleza,3-1,Atlético Goianiense,R18
+2024-07-21,Juventude,0-0,São Paulo,R18
+2024-07-21,Cuiabá,0-1,Fluminense,R18
+2024-07-24,Criciúma,1-1,Fortaleza,R3
+2024-07-24,Cruzeiro,2-0,Juventude,R19
+2024-07-24,São Paulo,2-2,Botafogo,R19
+2024-07-24,Vitória,1-2,Flamengo,R19
+2024-07-24,Fluminense,1-0,Palmeiras,R19
+2024-07-24,Atlético Goianiense,1-1,Bahia,R19
+2024-07-25,Corinthians,2-2,Grêmio,R19
+2024-07-27,Palmeiras,0-2,Vitória,R20
+2024-07-27,Juventude,1-2,Criciúma,R20
+2024-07-27,Bahia,1-1,Internacional,R20
+2024-07-27,Botafogo,0-3,Cruzeiro,R20
+2024-07-27,Fortaleza,1-0,São Paulo,R20
+2024-07-28,Red Bull Bragantino,0-1,Fluminense,R20
+2024-07-28,Flamengo,2-0,Atlético Goianiense,R20
+2024-07-28,Grêmio,1-0,Vasco,R20
+2024-07-28,Atlético Mineiro,2-1,Corinthians,R20
+2024-07-28,Cuiabá,1-2,Athletico Paranaense,R20
+2024-08-03,Vitória,1-0,Cuiabá,R21
+2024-08-03,Vasco,2-2,Red Bull Bragantino,R21
+2024-08-03,Atlético Goianiense,1-4,Botafogo,R21
+2024-08-03,Criciúma,2-1,Atlético Mineiro,R21
+2024-08-03,São Paulo,1-0,Flamengo,R21
+2024-08-04,Fluminense,1-0,Bahia,R21
+2024-08-04,Corinthians,1-1,Juventude,R21
+2024-08-04,Athletico Paranaense,0-2,Grêmio,R21
+2024-08-04,Internacional,1-1,Palmeiras,R21
+2024-08-05,Cruzeiro,1-2,Fortaleza,R21
+2024-08-10,Fortaleza,1-0,Criciúma,R22
+2024-08-10,Cuiabá,1-3,Grêmio,R22
+2024-08-10,Cruzeiro,0-0,Atlético Mineiro,R22
+2024-08-10,Vasco,2-0,Fluminense,R22
+2024-08-10,Corinthians,1-1,Red Bull Bragantino,R22
+2024-08-11,Juventude,3-2,Botafogo,R22
+2024-08-11,Bahia,2-0,Vitória,R22
+2024-08-11,Flamengo,1-1,Palmeiras,R22
+2024-08-11,São Paulo,1-0,Atlético Goianiense,R22
+2024-08-11,Internacional,2-2,Athletico Paranaense,R22
+2024-08-14,Internacional,2-1,Juventude,R6
+2024-08-17,Grêmio,0-2,Bahia,R23
+2024-08-17,Atlético Mineiro,1-1,Cuiabá,R23
+2024-08-17,Red Bull Bragantino,1-2,Fortaleza,R23
+2024-08-17,Fluminense,0-0,Corinthians,R23
+2024-08-18,Palmeiras,2-1,São Paulo,R23
+2024-08-18,Atlético Goianiense,1-0,Internacional,R23
+2024-08-18,Criciúma,2-2,Vasco,R23
+2024-08-18,Botafogo,4-1,Flamengo,R23
+2024-08-18,Athletico Paranaense,1-2,Juventude,R23
+2024-08-19,Vitória,2-2,Cruzeiro,R23
+2024-08-24,Atlético Goianiense,2-1,Juventude,R24
+2024-08-24,Palmeiras,5-0,Cuiabá,R24
+2024-08-24,Atlético Mineiro,0-2,Fluminense,R24
+2024-08-25,Bahia,0-0,Botafogo,R24
+2024-08-25,Fortaleza,1-0,Corinthians,R24
+2024-08-25,Criciúma,0-1,Grêmio,R24
+2024-08-25,São Paulo,2-1,Vitória,R24
+2024-08-25,Internacional,1-0,Cruzeiro,R24
+2024-08-25,Flamengo,2-1,Red Bull Bragantino,R24
+2024-08-26,Vasco,2-1,Athletico Paranaense,R24
+2024-08-28,Cruzeiro,0-0,Internacional,R5
+2024-08-28,Criciúma,1-0,Red Bull Bragantino,R19
+2024-08-31,Cuiabá,2-1,Criciúma,R25
+2024-08-31,Botafogo,2-0,Fortaleza,R25
+2024-09-01,Grêmio,2-3,Atlético Mineiro,R25
+2024-09-01,Cruzeiro,3-1,Atlético Goianiense,R25
+2024-09-01,Corinthians,2-1,Flamengo,R25
+2024-09-01,Athletico Paranaense,0-2,Palmeiras,R25
+2024-09-01,Vitória,0-1,Vasco,R25
+2024-09-01,Fluminense,2-0,São Paulo,R25
+2024-09-01,Red Bull Bragantino,2-1,Bahia,R25
+2024-09-01,Juventude,1-3,Internacional,R25
+2024-09-05,Cuiabá,0-0,Juventude,R16
+2024-09-11,Internacional,2-1,Fortaleza,R19
+2024-09-14,Atlético Goianiense,0-2,Vitória,R26
+2024-09-14,Athletico Paranaense,1-1,Fortaleza,R26
+2024-09-14,Botafogo,2-1,Corinthians,R26
+2024-09-15,Palmeiras,5-0,Criciúma,R26
+2024-09-15,Red Bull Bragantino,2-2,Grêmio,R26
+2024-09-15,Juventude,2-1,Fluminense,R26
+2024-09-15,Cruzeiro,0-1,São Paulo,R26
+2024-09-15,Bahia,3-0,Atlético Mineiro,R26
+2024-09-15,Flamengo,1-1,Vasco,R26
+2024-09-16,Internacional,3-0,Cuiabá,R26
+2024-09-21,Vitória,1-0,Juventude,R27
+2024-09-21,Corinthians,3-0,Atlético Goianiense,R27
+2024-09-21,Fluminense,0-1,Botafogo,R27
+2024-09-21,Fortaleza,4-1,Bahia,R27
+2024-09-22,Atlético Mineiro,3-0,Red Bull Bragantino,R27
+2024-09-22,Vasco,0-1,Palmeiras,R27
+2024-09-22,Grêmio,3-2,Flamengo,R27
+2024-09-22,São Paulo,1-3,Internacional,R27
+2024-09-22,Cuiabá,0-0,Cruzeiro,R27
+2024-09-22,Criciúma,0-0,Athletico Paranaense,R27
+2024-09-25,Grêmio,1-2,Criciúma,R5
+2024-09-25,Red Bull Bragantino,2-2,Internacional,R16
+2024-09-28,Palmeiras,2-1,Atlético Mineiro,R28
+2024-09-28,Botafogo,0-0,Grêmio,R28
+2024-09-29,Juventude,1-1,Red Bull Bragantino,R28
+2024-09-29,São Paulo,3-1,Corinthians,R28
+2024-09-29,Fortaleza,1-0,Cuiabá,R28
+2024-09-29,Atlético Goianiense,1-0,Fluminense,R28
+2024-09-29,Internacional,3-1,Vitória,R28
+2024-09-29,Cruzeiro,1-1,Vasco,R28
+2024-09-29,Bahia,1-0,Criciúma,R28
+2024-09-29,Flamengo,1-0,Athletico Paranaense,R28
+2024-10-03,Criciúma,2-0,Atlético Goianiense,R29
+2024-10-03,Fluminense,1-0,Cruzeiro,R29
+2024-10-04,Grêmio,3-1,Fortaleza,R29
+2024-10-05,Atlético Mineiro,2-2,Vitória,R29
+2024-10-05,Red Bull Bragantino,0-0,Palmeiras,R29
+2024-10-05,Athletico Paranaense,0-1,Botafogo,R29
+2024-10-05,Bahia,0-2,Flamengo,R29
+2024-10-05,Corinthians,2-2,Internacional,R29
+2024-10-05,Cuiabá,2-0,São Paulo,R29
+2024-10-05,Vasco,1-1,Juventude,R29
+2024-10-09,Atlético Mineiro,2-1,Grêmio,R6
+2024-10-16,São Paulo,3-0,Vasco,R30
+2024-10-16,Fortaleza,1-1,Atlético Mineiro,R30
+2024-10-17,Flamengo,0-2,Fluminense,R30
+2024-10-17,Corinthians,5-2,Athletico Paranaense,R30
+2024-10-18,Atlético Goianiense,0-0,Cuiabá,R30
+2024-10-18,Botafogo,1-1,Criciúma,R30
+2024-10-18,Cruzeiro,1-1,Bahia,R30
+2024-10-19,Internacional,1-0,Grêmio,R30
+2024-10-19,Vitória,1-0,Red Bull Bragantino,R30
+2024-10-20,Juventude,3-5,Palmeiras,R30
+2024-10-22,Fluminense,1-0,Athletico Paranaense,R17
+2024-10-24,Vasco,1-0,Cuiabá,R19
+2024-10-26,Grêmio,3-1,Atlético Goianiense,R31
+2024-10-26,Vitória,2-1,Fluminense,R31
+2024-10-26,Flamengo,4-2,Juventude,R31
+2024-10-26,Palmeiras,2-2,Fortaleza,R31
+2024-10-26,Athletico Paranaense,3-0,Cruzeiro,R31
+2024-10-26,Atlético Mineiro,1-3,Internacional,R31
+2024-10-26,Red Bull Bragantino,0-1,Botafogo,R31
+2024-10-26,Criciúma,1-1,São Paulo,R31
+2024-10-28,Cuiabá,0-1,Corinthians,R31
+2024-10-28,Vasco,3-2,Bahia,R31
+2024-10-30,Internacional,1-1,Flamengo,R17
+2024-11-01,Fluminense,2-2,Grêmio,R32
+2024-11-02,Red Bull Bragantino,0-0,Cuiabá,R32
+2024-11-02,Athletico Paranaense,1-2,Vitória,R32
+2024-11-02,Juventude,0-3,Fortaleza,R32
+2024-11-04,Corinthians,2-0,Palmeiras,R32
+2024-11-05,Internacional,2-0,Criciúma,R32
+2024-11-05,Bahia,0-3,São Paulo,R32
+2024-11-05,Botafogo,3-0,Vasco,R32
+2024-11-06,Cruzeiro,0-1,Flamengo,R32
+2024-11-06,Atlético Goianiense,1-0,Atlético Mineiro,R32
+2024-11-08,Internacional,2-0,Fluminense,R33
+2024-11-08,Palmeiras,1-0,Grêmio,R33
+2024-11-09,Vitória,1-2,Corinthians,R33
+2024-11-09,Botafogo,0-0,Cuiabá,R33
+2024-11-09,Cruzeiro,2-1,Criciúma,R33
+2024-11-09,Fortaleza,3-0,Vasco,R33
+2024-11-09,Atlético Goianiense,0-0,Red Bull Bragantino,R33
+2024-11-09,Juventude,2-1,Bahia,R33
+2024-11-09,São Paulo,2-1,Athletico Paranaense,R33
+2024-11-13,Flamengo,0-0,Atlético Mineiro,R33
+2024-11-16,Athletico Paranaense,1-0,Atlético Mineiro,R19
+2024-11-20,Corinthians,2-1,Cruzeiro,R34
+2024-11-20,Red Bull Bragantino,1-1,São Paulo,R34
+2024-11-20,Athletico Paranaense,2-0,Atlético Goianiense,R34
+2024-11-20,Criciúma,0-1,Vitória,R34
+2024-11-20,Bahia,1-2,Palmeiras,R34
+2024-11-20,Grêmio,2-2,Juventude,R34
+2024-11-20,Cuiabá,1-2,Flamengo,R34
+2024-11-20,Atlético Mineiro,0-0,Botafogo,R34
+2024-11-21,Vasco,0-1,Internacional,R34
+2024-11-22,Fluminense,2-2,Fortaleza,R34
+2024-11-23,Botafogo,1-1,Vitória,R35
+2024-11-23,Atlético Goianiense,0-1,Palmeiras,R35
+2024-11-23,Juventude,1-1,Cuiabá,R35
+2024-11-23,São Paulo,2-2,Atlético Mineiro,R35
+2024-11-24,Internacional,4-1,Red Bull Bragantino,R35
+2024-11-24,Bahia,1-1,Athletico Paranaense,R35
+2024-11-24,Corinthians,3-1,Vasco,R35
+2024-11-26,Fluminense,0-0,Criciúma,R35
+2024-11-26,Fortaleza,0-0,Flamengo,R35
+2024-11-26,Atlético Mineiro,2-3,Juventude,R36
+2024-11-26,Palmeiras,1-3,Botafogo,R36
+2024-11-27,Cruzeiro,1-1,Grêmio,R35
+2024-11-30,Cuiabá,1-2,Bahia,R36
+2024-11-30,Criciúma,2-4,Corinthians,R36
+2024-11-30,Vasco,2-2,Atlético Goianiense,R36
+2024-12-01,Grêmio,2-1,São Paulo,R36
+2024-12-01,Flamengo,3-2,Internacional,R36
+2024-12-01,Vitória,2-0,Fortaleza,R36
+2024-12-01,Red Bull Bragantino,1-1,Cruzeiro,R36
+2024-12-01,Athletico Paranaense,1-1,Fluminense,R36
+2024-12-03,Corinthians,3-0,Bahia,R37
+2024-12-04,Vasco,2-0,Atlético Mineiro,R37
+2024-12-04,Vitória,1-1,Grêmio,R37
+2024-12-04,São Paulo,1-2,Juventude,R37
+2024-12-04,Criciúma,0-3,Flamengo,R37
+2024-12-04,Internacional,0-1,Botafogo,R37
+2024-12-04,Cruzeiro,1-2,Palmeiras,R37
+2024-12-04,Atlético Goianiense,3-1,Fortaleza,R37
+2024-12-05,Fluminense,1-0,Cuiabá,R37
+2024-12-05,Athletico Paranaense,1-2,Red Bull Bragantino,R37
+2024-12-08,Grêmio,0-3,Corinthians,R38
+2024-12-08,Atlético Mineiro,1-0,Athletico Paranaense,R38
+2024-12-08,Bahia,2-0,Atlético Goianiense,R38
+2024-12-08,Flamengo,2-2,Vitória,R38
+2024-12-08,Botafogo,2-1,São Paulo,R38
+2024-12-08,Palmeiras,0-1,Fluminense,R38
+2024-12-08,Red Bull Bragantino,5-1,Criciúma,R38
+2024-12-08,Fortaleza,3-0,Internacional,R38
+2024-12-08,Cuiabá,1-2,Vasco,R38
+2024-12-08,Juventude,0-1,Cruzeiro,R38

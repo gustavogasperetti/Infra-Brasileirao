@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2009,2009-05-09,Avaí,Atlético Mineiro,2,2,E,E,NORMAL,R1
+2009,2009-05-09,Palmeiras,Coritiba,2,1,V,D,NORMAL,R1
+2009,2009-05-09,Sport,Grêmio Barueri,1,1,E,E,NORMAL,R1
+2009,2009-05-10,Corinthians,Internacional,0,1,D,V,NORMAL,R1
+2009,2009-05-10,Athletico Paranaense,Vitória,0,2,D,V,NORMAL,R1
+2009,2009-05-10,Fluminense,São Paulo,1,0,V,D,NORMAL,R1
+2009,2009-05-10,Cruzeiro,Flamengo,2,0,V,D,NORMAL,R1
+2009,2009-05-10,Santo André,Botafogo,1,1,E,E,NORMAL,R1
+2009,2009-05-10,Grêmio,Santos,1,1,E,E,NORMAL,R1
+2009,2009-05-10,Goiás,Náutico,3,3,E,E,NORMAL,R1
+2009,2009-05-16,Coritiba,Santo André,2,4,D,V,NORMAL,R2
+2009,2009-05-16,Flamengo,Avaí,0,0,E,E,NORMAL,R2
+2009,2009-05-16,Atlético Mineiro,Grêmio,2,1,V,D,NORMAL,R2
+2009,2009-05-17,São Paulo,Athletico Paranaense,2,2,E,E,NORMAL,R2
+2009,2009-05-17,Santos,Goiás,3,3,E,E,NORMAL,R2
+2009,2009-05-17,Grêmio Barueri,Fluminense,0,0,E,E,NORMAL,R2
+2009,2009-05-17,Internacional,Palmeiras,2,0,V,D,NORMAL,R2
+2009,2009-05-17,Vitória,Sport,1,0,V,D,NORMAL,R2
+2009,2009-05-17,Náutico,Cruzeiro,2,0,V,D,NORMAL,R2
+2009,2009-05-17,Botafogo,Corinthians,0,0,E,E,NORMAL,R2
+2009,2009-05-23,Corinthians,Grêmio Barueri,2,1,V,D,NORMAL,R3
+2009,2009-05-23,Goiás,Internacional,0,1,D,V,NORMAL,R3
+2009,2009-05-23,Cruzeiro,Vitória,2,0,V,D,NORMAL,R3
+2009,2009-05-24,Palmeiras,São Paulo,0,0,E,E,NORMAL,R3
+2009,2009-05-24,Athletico Paranaense,Náutico,2,3,D,V,NORMAL,R3
+2009,2009-05-24,Grêmio,Botafogo,2,0,V,D,NORMAL,R3
+2009,2009-05-24,Fluminense,Santos,1,4,D,V,NORMAL,R3
+2009,2009-05-24,Santo André,Flamengo,1,2,D,V,NORMAL,R3
+2009,2009-05-24,Sport,Atlético Mineiro,2,3,D,V,NORMAL,R3
+2009,2009-05-24,Avaí,Coritiba,2,2,E,E,NORMAL,R3
+2009,2009-05-30,Coritiba,Goiás,1,3,D,V,NORMAL,R4
+2009,2009-05-30,Atlético Mineiro,Santo André,0,0,E,E,NORMAL,R4
+2009,2009-05-30,Botafogo,Sport,2,2,E,E,NORMAL,R4
+2009,2009-05-31,São Paulo,Cruzeiro,3,0,V,D,NORMAL,R4
+2009,2009-05-31,Santos,Corinthians,3,1,V,D,NORMAL,R4
+2009,2009-05-31,Flamengo,Athletico Paranaense,2,1,V,D,NORMAL,R4
+2009,2009-05-31,Vitória,Grêmio,1,0,V,D,NORMAL,R4
+2009,2009-05-31,Náutico,Fluminense,1,1,E,E,NORMAL,R4
+2009,2009-05-31,Grêmio Barueri,Palmeiras,2,2,E,E,NORMAL,R4
+2009,2009-05-31,Internacional,Avaí,2,1,V,D,NORMAL,R4
+2009,2009-06-04,Santo André,Santos,3,3,E,E,NORMAL,R5
+2009,2009-06-04,Grêmio,Náutico,3,0,V,D,NORMAL,R5
+2009,2009-06-06,Corinthians,Coritiba,2,0,V,D,NORMAL,R5
+2009,2009-06-07,Palmeiras,Vitória,2,1,V,D,NORMAL,R5
+2009,2009-06-07,Athletico Paranaense,Atlético Mineiro,0,4,D,V,NORMAL,R5
+2009,2009-06-07,Sport,Flamengo,4,2,V,D,NORMAL,R5
+2009,2009-06-07,Avaí,São Paulo,0,0,E,E,NORMAL,R5
+2009,2009-06-07,Fluminense,Botafogo,1,0,V,D,NORMAL,R5
+2009,2009-06-07,Goiás,Grêmio Barueri,2,2,E,E,NORMAL,R5
+2009,2009-06-07,Cruzeiro,Internacional,1,1,E,E,NORMAL,R5
+2009,2009-06-13,São Paulo,Santo André,1,1,E,E,NORMAL,R6
+2009,2009-06-13,Sport,Athletico Paranaense,0,1,D,V,NORMAL,R6
+2009,2009-06-13,Botafogo,Santos,2,0,V,D,NORMAL,R6
+2009,2009-06-14,Coritiba,Flamengo,5,0,V,D,NORMAL,R6
+2009,2009-06-14,Fluminense,Grêmio,0,0,E,E,NORMAL,R6
+2009,2009-06-14,Goiás,Corinthians,0,0,E,E,NORMAL,R6
+2009,2009-06-14,Atlético Mineiro,Náutico,3,0,V,D,NORMAL,R6
+2009,2009-06-14,Palmeiras,Cruzeiro,3,1,V,D,NORMAL,R6
+2009,2009-06-14,Grêmio Barueri,Avaí,3,1,V,D,NORMAL,R6
+2009,2009-06-14,Internacional,Vitória,0,0,E,E,NORMAL,R6
+2009,2009-06-20,Santo André,Sport,2,1,V,D,NORMAL,R7
+2009,2009-06-20,Athletico Paranaense,Palmeiras,2,2,E,E,NORMAL,R7
+2009,2009-06-20,Vitória,Botafogo,4,3,V,D,NORMAL,R7
+2009,2009-06-20,Grêmio,Goiás,2,2,E,E,NORMAL,R7
+2009,2009-06-20,Náutico,Coritiba,0,1,D,V,NORMAL,R7
+2009,2009-06-20,Avaí,Fluminense,3,2,V,D,NORMAL,R7
+2009,2009-06-21,Corinthians,São Paulo,3,1,V,D,NORMAL,R7
+2009,2009-06-21,Santos,Atlético Mineiro,2,3,D,V,NORMAL,R7
+2009,2009-06-21,Flamengo,Internacional,4,0,V,D,NORMAL,R7
+2009,2009-06-21,Cruzeiro,Grêmio Barueri,2,4,D,V,NORMAL,R7
+2009,2009-06-27,São Paulo,Náutico,2,0,V,D,NORMAL,R8
+2009,2009-06-27,Grêmio Barueri,Atlético Mineiro,4,2,V,D,NORMAL,R8
+2009,2009-06-27,Athletico Paranaense,Corinthians,1,0,V,D,NORMAL,R8
+2009,2009-06-27,Cruzeiro,Avaí,1,0,V,D,NORMAL,R8
+2009,2009-06-27,Botafogo,Goiás,1,4,D,V,NORMAL,R8
+2009,2009-06-28,Palmeiras,Santos,1,1,E,E,NORMAL,R8
+2009,2009-06-28,Internacional,Coritiba,3,0,V,D,NORMAL,R8
+2009,2009-06-28,Fluminense,Flamengo,0,0,E,E,NORMAL,R8
+2009,2009-06-28,Vitória,Santo André,4,1,V,D,NORMAL,R8
+2009,2009-06-28,Sport,Grêmio,3,1,V,D,NORMAL,R8
+2009,2009-07-04,Santos,Sport,1,0,V,D,NORMAL,R9
+2009,2009-07-04,Santo André,Grêmio Barueri,1,1,E,E,NORMAL,R9
+2009,2009-07-04,Flamengo,Vitória,2,1,V,D,NORMAL,R9
+2009,2009-07-05,Coritiba,São Paulo,2,0,V,D,NORMAL,R9
+2009,2009-07-05,Grêmio,Athletico Paranaense,4,1,V,D,NORMAL,R9
+2009,2009-07-05,Goiás,Cruzeiro,1,0,V,D,NORMAL,R9
+2009,2009-07-05,Atlético Mineiro,Botafogo,1,1,E,E,NORMAL,R9
+2009,2009-07-05,Náutico,Internacional,0,2,D,V,NORMAL,R9
+2009,2009-07-05,Avaí,Palmeiras,0,3,D,V,NORMAL,R9
+2009,2009-07-08,Corinthians,Fluminense,4,2,V,D,NORMAL,R9
+2009,2009-07-11,Palmeiras,Náutico,4,1,V,D,NORMAL,R10
+2009,2009-07-11,Grêmio Barueri,Coritiba,3,1,V,D,NORMAL,R10
+2009,2009-07-11,Avaí,Botafogo,1,2,D,V,NORMAL,R10
+2009,2009-07-12,São Paulo,Flamengo,2,2,E,E,NORMAL,R10
+2009,2009-07-12,Athletico Paranaense,Internacional,3,2,V,D,NORMAL,R10
+2009,2009-07-12,Grêmio,Corinthians,3,0,V,D,NORMAL,R10
+2009,2009-07-12,Cruzeiro,Atlético Mineiro,0,3,D,V,NORMAL,R10
+2009,2009-07-12,Fluminense,Santo André,0,1,D,V,NORMAL,R10
+2009,2009-07-12,Vitória,Santos,6,2,V,D,NORMAL,R10
+2009,2009-07-12,Sport,Goiás,1,0,V,D,NORMAL,R10
+2009,2009-07-15,Coritiba,Grêmio,2,1,V,D,NORMAL,R11
+2009,2009-07-15,Goiás,Avaí,0,2,D,V,NORMAL,R11
+2009,2009-07-15,Santos,Grêmio Barueri,3,3,E,E,NORMAL,R11
+2009,2009-07-15,Santo André,Athletico Paranaense,1,0,V,D,NORMAL,R11
+2009,2009-07-15,Internacional,Fluminense,4,2,V,D,NORMAL,R11
+2009,2009-07-15,Flamengo,Palmeiras,1,2,D,V,NORMAL,R11
+2009,2009-07-16,Corinthians,Sport,4,3,V,D,NORMAL,R11
+2009,2009-07-16,Náutico,Vitória,1,1,E,E,NORMAL,R11
+2009,2009-07-16,Atlético Mineiro,São Paulo,2,0,V,D,NORMAL,R11
+2009,2009-07-18,Palmeiras,Santo André,1,0,V,D,NORMAL,R12
+2009,2009-07-18,Fluminense,Goiás,1,4,D,V,NORMAL,R12
+2009,2009-07-19,São Paulo,Santos,2,1,V,D,NORMAL,R12
+2009,2009-07-19,Athletico Paranaense,Coritiba,0,0,E,E,NORMAL,R12
+2009,2009-07-19,Grêmio,Internacional,2,1,V,D,NORMAL,R12
+2009,2009-07-19,Vitória,Atlético Mineiro,0,0,E,E,NORMAL,R12
+2009,2009-07-19,Cruzeiro,Corinthians,1,2,D,V,NORMAL,R12
+2009,2009-07-19,Grêmio Barueri,Náutico,4,0,V,D,NORMAL,R12
+2009,2009-07-19,Sport,Avaí,1,3,D,V,NORMAL,R12
+2009,2009-07-19,Flamengo,Botafogo,2,2,E,E,NORMAL,R12
+2009,2009-07-22,Santo André,Cruzeiro,0,2,D,V,NORMAL,R13
+2009,2009-07-22,Flamengo,Grêmio Barueri,1,1,E,E,NORMAL,R13
+2009,2009-07-22,Avaí,Grêmio,1,0,V,D,NORMAL,R13
+2009,2009-07-22,Santos,Athletico Paranaense,1,0,V,D,NORMAL,R13
+2009,2009-07-22,Internacional,São Paulo,2,2,E,E,NORMAL,R13
+2009,2009-07-22,Goiás,Palmeiras,2,1,V,D,NORMAL,R13
+2009,2009-07-22,Náutico,Botafogo,2,2,E,E,NORMAL,R13
+2009,2009-07-23,Corinthians,Vitória,2,1,V,D,NORMAL,R13
+2009,2009-07-23,Coritiba,Sport,1,1,E,E,NORMAL,R13
+2009,2009-07-23,Atlético Mineiro,Fluminense,2,1,V,D,NORMAL,R13
+2009,2009-07-25,Athletico Paranaense,Avaí,1,3,D,V,NORMAL,R14
+2009,2009-07-25,Grêmio,Santo André,3,2,V,D,NORMAL,R14
+2009,2009-07-25,Botafogo,Internacional,3,2,V,D,NORMAL,R14
+2009,2009-07-26,Corinthians,Palmeiras,0,3,D,V,NORMAL,R14
+2009,2009-07-26,Santos,Flamengo,1,2,D,V,NORMAL,R14
+2009,2009-07-26,Sport,Náutico,3,3,E,E,NORMAL,R14
+2009,2009-07-26,Atlético Mineiro,Goiás,0,1,D,V,NORMAL,R14
+2009,2009-07-26,Grêmio Barueri,São Paulo,1,2,D,V,NORMAL,R14
+2009,2009-07-26,Fluminense,Cruzeiro,1,1,E,E,NORMAL,R14
+2009,2009-07-26,Vitória,Coritiba,1,0,V,D,NORMAL,R14
+2009,2009-07-29,Coritiba,Botafogo,2,2,E,E,NORMAL,R15
+2009,2009-07-29,Náutico,Santos,1,2,D,V,NORMAL,R15
+2009,2009-07-29,Internacional,Grêmio Barueri,3,2,V,D,NORMAL,R15
+2009,2009-07-29,Goiás,Athletico Paranaense,3,0,V,D,NORMAL,R15
+2009,2009-07-29,Palmeiras,Fluminense,1,0,V,D,NORMAL,R15
+2009,2009-07-29,Santo André,Corinthians,1,1,E,E,NORMAL,R15
+2009,2009-07-29,Cruzeiro,Sport,1,0,V,D,NORMAL,R15
+2009,2009-07-30,São Paulo,Grêmio,2,1,V,D,NORMAL,R15
+2009,2009-07-30,Flamengo,Atlético Mineiro,3,1,V,D,NORMAL,R15
+2009,2009-07-30,Avaí,Vitória,4,0,V,D,NORMAL,R15
+2009,2009-08-01,Sport,Palmeiras,0,1,D,V,NORMAL,R16
+2009,2009-08-01,Botafogo,Grêmio Barueri,2,1,V,D,NORMAL,R16
+2009,2009-08-02,Corinthians,Avaí,0,0,E,E,NORMAL,R16
+2009,2009-08-02,Athletico Paranaense,Fluminense,1,0,V,D,NORMAL,R16
+2009,2009-08-02,Flamengo,Náutico,1,1,E,E,NORMAL,R16
+2009,2009-08-02,Vitória,São Paulo,0,1,D,V,NORMAL,R16
+2009,2009-08-02,Santo André,Goiás,1,2,D,V,NORMAL,R16
+2009,2009-08-02,Grêmio,Cruzeiro,4,1,V,D,NORMAL,R16
+2009,2009-08-02,Atlético Mineiro,Coritiba,3,2,V,D,NORMAL,R16
+2009,2009-08-05,Cruzeiro,Athletico Paranaense,0,2,D,V,NORMAL,R17
+2009,2009-08-05,São Paulo,Botafogo,3,1,V,D,NORMAL,R17
+2009,2009-08-05,Avaí,Santo André,1,0,V,D,NORMAL,R17
+2009,2009-08-05,Coritiba,Santos,0,1,D,V,NORMAL,R17
+2009,2009-08-05,Goiás,Flamengo,3,2,V,D,NORMAL,R17
+2009,2009-08-05,Náutico,Corinthians,1,0,V,D,NORMAL,R17
+2009,2009-08-06,Palmeiras,Grêmio,1,1,E,E,NORMAL,R17
+2009,2009-08-06,Grêmio Barueri,Vitória,4,0,V,D,NORMAL,R17
+2009,2009-08-06,Fluminense,Sport,5,1,V,D,NORMAL,R17
+2009,2009-08-08,Santos,Avaí,2,2,E,E,NORMAL,R18
+2009,2009-08-08,Náutico,Santo André,2,1,V,D,NORMAL,R18
+2009,2009-08-08,Botafogo,Athletico Paranaense,0,1,D,V,NORMAL,R18
+2009,2009-08-09,Flamengo,Corinthians,1,0,V,D,NORMAL,R18
+2009,2009-08-09,Vitória,Fluminense,2,2,E,E,NORMAL,R18
+2009,2009-08-09,São Paulo,Goiás,3,1,V,D,NORMAL,R18
+2009,2009-08-09,Grêmio Barueri,Grêmio,1,0,V,D,NORMAL,R18
+2009,2009-08-09,Coritiba,Cruzeiro,1,3,D,V,NORMAL,R18
+2009,2009-08-10,Internacional,Sport,3,0,V,D,NORMAL,R18
+2009,2009-08-12,Atlético Mineiro,Palmeiras,1,1,E,E,NORMAL,R18
+2009,2009-08-15,Palmeiras,Botafogo,1,1,E,E,NORMAL,R19
+2009,2009-08-15,Santo André,Internacional,0,2,D,V,NORMAL,R19
+2009,2009-08-15,Avaí,Náutico,2,1,V,D,NORMAL,R19
+2009,2009-08-16,Corinthians,Atlético Mineiro,2,0,V,D,NORMAL,R19
+2009,2009-08-16,Grêmio,Flamengo,4,1,V,D,NORMAL,R19
+2009,2009-08-16,Fluminense,Coritiba,1,3,D,V,NORMAL,R19
+2009,2009-08-16,Goiás,Vitória,3,2,V,D,NORMAL,R19
+2009,2009-08-16,Sport,São Paulo,1,2,D,V,NORMAL,R19
+2009,2009-08-16,Athletico Paranaense,Grêmio Barueri,3,0,V,D,NORMAL,R19
+2009,2009-08-16,Cruzeiro,Santos,0,0,E,E,NORMAL,R19
+2009,2009-08-19,Santos,Grêmio,1,0,V,D,NORMAL,R20
+2009,2009-08-19,Vitória,Athletico Paranaense,2,1,V,D,NORMAL,R20
+2009,2009-08-19,Botafogo,Santo André,1,2,D,V,NORMAL,R20
+2009,2009-08-19,Grêmio Barueri,Sport,2,1,V,D,NORMAL,R20
+2009,2009-08-19,São Paulo,Fluminense,1,0,V,D,NORMAL,R20
+2009,2009-08-19,Coritiba,Palmeiras,1,0,V,D,NORMAL,R20
+2009,2009-08-19,Internacional,Corinthians,1,2,D,V,NORMAL,R20
+2009,2009-08-20,Flamengo,Cruzeiro,1,2,D,V,NORMAL,R20
+2009,2009-08-20,Náutico,Goiás,2,0,V,D,NORMAL,R20
+2009,2009-08-20,Atlético Mineiro,Avaí,2,2,E,E,NORMAL,R20
+2009,2009-08-22,Palmeiras,Internacional,2,1,V,D,NORMAL,R21
+2009,2009-08-22,Santo André,Coritiba,1,0,V,D,NORMAL,R21
+2009,2009-08-22,Sport,Vitória,2,0,V,D,NORMAL,R21
+2009,2009-08-23,Corinthians,Botafogo,3,3,E,E,NORMAL,R21
+2009,2009-08-23,Athletico Paranaense,São Paulo,1,0,V,D,NORMAL,R21
+2009,2009-08-23,Grêmio,Atlético Mineiro,4,1,V,D,NORMAL,R21
+2009,2009-08-23,Fluminense,Grêmio Barueri,0,0,E,E,NORMAL,R21
+2009,2009-08-23,Goiás,Santos,2,1,V,D,NORMAL,R21
+2009,2009-08-23,Cruzeiro,Náutico,4,2,V,D,NORMAL,R21
+2009,2009-08-23,Avaí,Flamengo,3,0,V,D,NORMAL,R21
+2009,2009-08-26,Santos,Internacional,3,3,E,E,NORMAL,R16
+2009,2009-08-26,Grêmio Barueri,Corinthians,2,2,E,E,NORMAL,R22
+2009,2009-08-27,Botafogo,Cruzeiro,1,1,E,E,NORMAL,R11
+2009,2009-08-29,Coritiba,Avaí,2,0,V,D,NORMAL,R22
+2009,2009-08-29,Flamengo,Santo André,3,0,V,D,NORMAL,R22
+2009,2009-08-29,Náutico,Athletico Paranaense,3,0,V,D,NORMAL,R22
+2009,2009-08-29,Internacional,Goiás,4,0,V,D,NORMAL,R22
+2009,2009-08-30,São Paulo,Palmeiras,0,0,E,E,NORMAL,R22
+2009,2009-08-30,Santos,Fluminense,2,0,V,D,NORMAL,R22
+2009,2009-08-30,Atlético Mineiro,Sport,1,1,E,E,NORMAL,R22
+2009,2009-08-30,Vitória,Cruzeiro,3,3,E,E,NORMAL,R22
+2009,2009-08-30,Botafogo,Grêmio,3,3,E,E,NORMAL,R22
+2009,2009-09-02,Internacional,Atlético Mineiro,3,0,V,D,NORMAL,R17
+2009,2009-09-02,Corinthians,Santos,2,1,V,D,NORMAL,R23
+2009,2009-09-05,Palmeiras,Grêmio Barueri,2,1,V,D,NORMAL,R23
+2009,2009-09-05,Grêmio,Vitória,1,1,E,E,NORMAL,R23
+2009,2009-09-05,Sport,Botafogo,2,1,V,D,NORMAL,R23
+2009,2009-09-06,Athletico Paranaense,Flamengo,0,0,E,E,NORMAL,R23
+2009,2009-09-06,Goiás,Coritiba,2,2,E,E,NORMAL,R23
+2009,2009-09-06,Cruzeiro,São Paulo,1,2,D,V,NORMAL,R23
+2009,2009-09-06,Santo André,Atlético Mineiro,1,2,D,V,NORMAL,R23
+2009,2009-09-06,Fluminense,Náutico,1,1,E,E,NORMAL,R23
+2009,2009-09-06,Avaí,Internacional,0,2,D,V,NORMAL,R23
+2009,2009-09-12,São Paulo,Avaí,2,0,V,D,NORMAL,R24
+2009,2009-09-12,Flamengo,Sport,3,0,V,D,NORMAL,R24
+2009,2009-09-13,Santos,Santo André,1,0,V,D,NORMAL,R24
+2009,2009-09-13,Internacional,Cruzeiro,2,3,D,V,NORMAL,R24
+2009,2009-09-13,Vitória,Palmeiras,3,2,V,D,NORMAL,R24
+2009,2009-09-13,Atlético Mineiro,Athletico Paranaense,2,1,V,D,NORMAL,R24
+2009,2009-09-13,Grêmio Barueri,Goiás,3,1,V,D,NORMAL,R24
+2009,2009-09-13,Náutico,Grêmio,0,2,D,V,NORMAL,R24
+2009,2009-09-13,Botafogo,Fluminense,0,0,E,E,NORMAL,R24
+2009,2009-09-16,Coritiba,Corinthians,1,1,E,E,NORMAL,R24
+2009,2009-09-19,Athletico Paranaense,Sport,1,0,V,D,NORMAL,R25
+2009,2009-09-19,Vitória,Internacional,2,0,V,D,NORMAL,R25
+2009,2009-09-19,Náutico,Atlético Mineiro,0,0,E,E,NORMAL,R25
+2009,2009-09-20,Santo André,São Paulo,1,1,E,E,NORMAL,R25
+2009,2009-09-20,Grêmio,Fluminense,5,1,V,D,NORMAL,R25
+2009,2009-09-20,Avaí,Grêmio Barueri,4,0,V,D,NORMAL,R25
+2009,2009-09-20,Corinthians,Goiás,1,4,D,V,NORMAL,R25
+2009,2009-09-20,Santos,Botafogo,0,0,E,E,NORMAL,R25
+2009,2009-09-20,Flamengo,Coritiba,3,0,V,D,NORMAL,R25
+2009,2009-09-23,Cruzeiro,Palmeiras,1,2,D,V,NORMAL,R25
+2009,2009-09-26,Palmeiras,Athletico Paranaense,2,1,V,D,NORMAL,R26
+2009,2009-09-26,Grêmio Barueri,Cruzeiro,0,1,D,V,NORMAL,R26
+2009,2009-09-27,São Paulo,Corinthians,1,1,E,E,NORMAL,R26
+2009,2009-09-27,Coritiba,Náutico,2,0,V,D,NORMAL,R26
+2009,2009-09-27,Internacional,Flamengo,0,0,E,E,NORMAL,R26
+2009,2009-09-27,Fluminense,Avaí,3,2,V,D,NORMAL,R26
+2009,2009-09-27,Goiás,Grêmio,2,1,V,D,NORMAL,R26
+2009,2009-09-27,Sport,Santo André,2,1,V,D,NORMAL,R26
+2009,2009-09-27,Atlético Mineiro,Santos,3,1,V,D,NORMAL,R26
+2009,2009-09-27,Botafogo,Vitória,1,3,D,V,NORMAL,R26
+2009,2009-09-30,Náutico,São Paulo,1,2,D,V,NORMAL,R27
+2009,2009-10-03,Corinthians,Athletico Paranaense,1,3,D,V,NORMAL,R27
+2009,2009-10-03,Santo André,Vitória,1,0,V,D,NORMAL,R27
+2009,2009-10-03,Atlético Mineiro,Grêmio Barueri,2,1,V,D,NORMAL,R27
+2009,2009-10-04,Santos,Palmeiras,1,3,D,V,NORMAL,R27
+2009,2009-10-04,Grêmio,Sport,3,3,E,E,NORMAL,R27
+2009,2009-10-04,Goiás,Botafogo,1,3,D,V,NORMAL,R27
+2009,2009-10-04,Coritiba,Internacional,2,0,V,D,NORMAL,R27
+2009,2009-10-04,Flamengo,Fluminense,2,0,V,D,NORMAL,R27
+2009,2009-10-04,Avaí,Cruzeiro,2,2,E,E,NORMAL,R27
+2009,2009-10-07,Grêmio Barueri,Santo André,0,0,E,E,NORMAL,R28
+2009,2009-10-07,Sport,Santos,0,1,D,V,NORMAL,R28
+2009,2009-10-07,São Paulo,Coritiba,2,2,E,E,NORMAL,R28
+2009,2009-10-07,Athletico Paranaense,Grêmio,0,0,E,E,NORMAL,R28
+2009,2009-10-07,Internacional,Náutico,3,1,V,D,NORMAL,R28
+2009,2009-10-07,Fluminense,Corinthians,1,1,E,E,NORMAL,R28
+2009,2009-10-07,Vitória,Flamengo,3,3,E,E,NORMAL,R28
+2009,2009-10-08,Palmeiras,Avaí,2,2,E,E,NORMAL,R28
+2009,2009-10-08,Cruzeiro,Goiás,3,0,V,D,NORMAL,R28
+2009,2009-10-08,Botafogo,Atlético Mineiro,3,1,V,D,NORMAL,R28
+2009,2009-10-10,Corinthians,Grêmio,2,1,V,D,NORMAL,R29
+2009,2009-10-10,Santo André,Fluminense,1,2,D,V,NORMAL,R29
+2009,2009-10-10,Flamengo,São Paulo,2,1,V,D,NORMAL,R29
+2009,2009-10-10,Coritiba,Grêmio Barueri,1,2,D,V,NORMAL,R29
+2009,2009-10-10,Internacional,Athletico Paranaense,1,1,E,E,NORMAL,R29
+2009,2009-10-12,Santos,Vitória,0,0,E,E,NORMAL,R29
+2009,2009-10-12,Goiás,Sport,1,1,E,E,NORMAL,R29
+2009,2009-10-12,Náutico,Palmeiras,3,0,V,D,NORMAL,R29
+2009,2009-10-12,Atlético Mineiro,Cruzeiro,0,1,D,V,NORMAL,R29
+2009,2009-10-12,Botafogo,Avaí,2,2,E,E,NORMAL,R29
+2009,2009-10-17,São Paulo,Atlético Mineiro,0,1,D,V,NORMAL,R30
+2009,2009-10-17,Grêmio Barueri,Santos,0,0,E,E,NORMAL,R30
+2009,2009-10-17,Avaí,Goiás,2,1,V,D,NORMAL,R30
+2009,2009-10-18,Palmeiras,Flamengo,0,2,D,V,NORMAL,R30
+2009,2009-10-18,Grêmio,Coritiba,2,0,V,D,NORMAL,R30
+2009,2009-10-18,Fluminense,Internacional,2,2,E,E,NORMAL,R30
+2009,2009-10-18,Sport,Corinthians,2,0,V,D,NORMAL,R30
+2009,2009-10-18,Athletico Paranaense,Santo André,3,0,V,D,NORMAL,R30
+2009,2009-10-18,Vitória,Náutico,3,1,V,D,NORMAL,R30
+2009,2009-10-18,Cruzeiro,Botafogo,1,0,V,D,NORMAL,R30
+2009,2009-10-21,Santo André,Palmeiras,2,0,V,D,NORMAL,R31
+2009,2009-10-24,Náutico,Grêmio Barueri,2,1,V,D,NORMAL,R31
+2009,2009-10-24,Atlético Mineiro,Vitória,1,0,V,D,NORMAL,R31
+2009,2009-10-25,Santos,São Paulo,3,4,D,V,NORMAL,R31
+2009,2009-10-25,Coritiba,Athletico Paranaense,3,2,V,D,NORMAL,R31
+2009,2009-10-25,Internacional,Grêmio,1,0,V,D,NORMAL,R31
+2009,2009-10-25,Goiás,Fluminense,2,2,E,E,NORMAL,R31
+2009,2009-10-25,Botafogo,Flamengo,0,1,D,V,NORMAL,R31
+2009,2009-10-25,Corinthians,Cruzeiro,0,1,D,V,NORMAL,R31
+2009,2009-10-25,Avaí,Sport,2,2,E,E,NORMAL,R31
+2009,2009-10-28,Athletico Paranaense,Santos,1,1,E,E,NORMAL,R32
+2009,2009-10-28,Botafogo,Náutico,1,0,V,D,NORMAL,R32
+2009,2009-10-28,Grêmio,Avaí,3,1,V,D,NORMAL,R32
+2009,2009-10-28,Cruzeiro,Santo André,3,2,V,D,NORMAL,R32
+2009,2009-10-28,São Paulo,Internacional,1,0,V,D,NORMAL,R32
+2009,2009-10-28,Grêmio Barueri,Flamengo,2,0,V,D,NORMAL,R32
+2009,2009-10-28,Vitória,Corinthians,0,1,D,V,NORMAL,R32
+2009,2009-10-29,Palmeiras,Goiás,4,0,V,D,NORMAL,R32
+2009,2009-10-29,Fluminense,Atlético Mineiro,2,1,V,D,NORMAL,R32
+2009,2009-10-29,Sport,Coritiba,1,1,E,E,NORMAL,R32
+2009,2009-10-31,São Paulo,Grêmio Barueri,1,0,V,D,NORMAL,R33
+2009,2009-10-31,Flamengo,Santos,1,0,V,D,NORMAL,R33
+2009,2009-10-31,Avaí,Athletico Paranaense,2,0,V,D,NORMAL,R33
+2009,2009-11-01,Palmeiras,Corinthians,2,2,E,E,NORMAL,R33
+2009,2009-11-01,Coritiba,Vitória,1,0,V,D,NORMAL,R33
+2009,2009-11-01,Internacional,Botafogo,0,1,D,V,NORMAL,R33
+2009,2009-11-01,Goiás,Atlético Mineiro,2,3,D,V,NORMAL,R33
+2009,2009-11-01,Santo André,Grêmio,2,0,V,D,NORMAL,R33
+2009,2009-11-01,Náutico,Sport,3,2,V,D,NORMAL,R33
+2009,2009-11-01,Cruzeiro,Fluminense,2,3,D,V,NORMAL,R33
+2009,2009-11-04,Grêmio,São Paulo,1,1,E,E,NORMAL,R34
+2009,2009-11-07,Santos,Náutico,3,1,V,D,NORMAL,R34
+2009,2009-11-07,Vitória,Avaí,0,1,D,V,NORMAL,R34
+2009,2009-11-08,Corinthians,Santo André,2,0,V,D,NORMAL,R34
+2009,2009-11-08,Fluminense,Palmeiras,1,0,V,D,NORMAL,R34
+2009,2009-11-08,Atlético Mineiro,Flamengo,1,3,D,V,NORMAL,R34
+2009,2009-11-08,Grêmio Barueri,Internacional,1,1,E,E,NORMAL,R34
+2009,2009-11-08,Athletico Paranaense,Goiás,2,0,V,D,NORMAL,R34
+2009,2009-11-08,Sport,Cruzeiro,2,3,D,V,NORMAL,R34
+2009,2009-11-08,Botafogo,Coritiba,2,0,V,D,NORMAL,R34
+2009,2009-11-11,Palmeiras,Sport,2,2,E,E,NORMAL,R35
+2009,2009-11-14,Coritiba,Atlético Mineiro,2,1,V,D,NORMAL,R35
+2009,2009-11-14,São Paulo,Vitória,2,0,V,D,NORMAL,R35
+2009,2009-11-14,Cruzeiro,Grêmio,1,1,E,E,NORMAL,R35
+2009,2009-11-15,Náutico,Flamengo,0,2,D,V,NORMAL,R35
+2009,2009-11-15,Avaí,Corinthians,3,1,V,D,NORMAL,R35
+2009,2009-11-15,Grêmio Barueri,Botafogo,3,0,V,D,NORMAL,R35
+2009,2009-11-15,Internacional,Santos,3,1,V,D,NORMAL,R35
+2009,2009-11-15,Fluminense,Athletico Paranaense,2,1,V,D,NORMAL,R35
+2009,2009-11-15,Goiás,Santo André,3,1,V,D,NORMAL,R35
+2009,2009-11-18,Grêmio,Palmeiras,2,0,V,D,NORMAL,R36
+2009,2009-11-21,Corinthians,Náutico,2,3,D,V,NORMAL,R36
+2009,2009-11-21,Athletico Paranaense,Cruzeiro,1,1,E,E,NORMAL,R36
+2009,2009-11-22,Santos,Coritiba,4,0,V,D,NORMAL,R36
+2009,2009-11-22,Santo André,Avaí,4,2,V,D,NORMAL,R36
+2009,2009-11-22,Sport,Fluminense,0,3,D,V,NORMAL,R36
+2009,2009-11-22,Botafogo,São Paulo,3,2,V,D,NORMAL,R36
+2009,2009-11-22,Flamengo,Goiás,0,0,E,E,NORMAL,R36
+2009,2009-11-22,Vitória,Grêmio Barueri,2,1,V,D,NORMAL,R36
+2009,2009-11-22,Atlético Mineiro,Internacional,0,1,D,V,NORMAL,R36
+2009,2009-11-29,Corinthians,Flamengo,0,2,D,V,NORMAL,R37
+2009,2009-11-29,Palmeiras,Atlético Mineiro,3,1,V,D,NORMAL,R37
+2009,2009-11-29,Santo André,Náutico,5,3,V,D,NORMAL,R37
+2009,2009-11-29,Athletico Paranaense,Botafogo,2,0,V,D,NORMAL,R37
+2009,2009-11-29,Grêmio,Grêmio Barueri,4,2,V,D,NORMAL,R37
+2009,2009-11-29,Fluminense,Vitória,4,0,V,D,NORMAL,R37
+2009,2009-11-29,Goiás,São Paulo,4,2,V,D,NORMAL,R37
+2009,2009-11-29,Sport,Internacional,1,2,D,V,NORMAL,R37
+2009,2009-11-29,Cruzeiro,Coritiba,4,1,V,D,NORMAL,R37
+2009,2009-11-29,Avaí,Santos,2,2,E,E,NORMAL,R37
+2009,2009-12-01,Internacional,Santo André,4,1,V,D,NORMAL,R38
+2009,2009-12-05,Náutico,Avaí,0,1,D,V,NORMAL,R38
+2009,2009-12-05,Atlético Mineiro,Corinthians,0,3,D,V,NORMAL,R38
+2009,2009-12-06,São Paulo,Sport,4,0,V,D,NORMAL,R38
+2009,2009-12-06,Santos,Cruzeiro,1,2,D,V,NORMAL,R38
+2009,2009-12-06,Grêmio Barueri,Athletico Paranaense,0,0,E,E,NORMAL,R38
+2009,2009-12-06,Coritiba,Fluminense,1,1,E,E,NORMAL,R38
+2009,2009-12-06,Flamengo,Grêmio,2,1,V,D,NORMAL,R38
+2009,2009-12-06,Vitória,Goiás,2,2,E,E,NORMAL,R38
+2009,2009-12-06,Botafogo,Palmeiras,2,1,V,D,NORMAL,R38

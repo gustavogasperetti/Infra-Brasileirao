@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2013-05-25,Vasco,1-0,Portuguesa,R1
+2013-05-25,Vitória,2-2,Internacional,R1
+2013-05-25,Corinthians,1-1,Botafogo,R1
+2013-05-26,Grêmio,2-0,Náutico,R1
+2013-05-26,Ponte Preta,0-2,São Paulo,R1
+2013-05-26,Criciúma,3-1,Bahia,R1
+2013-05-26,Santos,0-0,Flamengo,R1
+2013-05-26,Fluminense,2-1,Atlético Paranaense,R1
+2013-05-26,Cruzeiro,5-0,Goiás,R1
+2013-05-26,Coritiba,2-1,Atlético Mineiro,R1
+2013-05-29,Atlético Paranaense,2-2,Cruzeiro,R2
+2013-05-29,Botafogo,2-1,Santos,R2
+2013-05-29,São Paulo,5-1,Vasco,R2
+2013-05-29,Flamengo,0-2,Ponte Preta,R2
+2013-05-29,Bahia,0-0,Coritiba,R2
+2013-05-29,Náutico,0-3,Vitória,R2
+2013-05-29,Goiás,1-1,Corinthians,R2
+2013-05-30,Internacional,2-0,Criciúma,R2
+2013-06-01,Botafogo,2-1,Cruzeiro,R3
+2013-06-01,Atlético Paranaense,2-2,Flamengo,R3
+2013-06-01,Santos,1-1,Grêmio,R3
+2013-06-01,Vitória,2-0,Vasco,R3
+2013-06-01,Goiás,1-1,Coritiba,R3
+2013-06-01,Corinthians,1-0,Ponte Preta,R3
+2013-06-02,Fluminense,3-0,Criciúma,R3
+2013-06-02,Internacional,1-2,Bahia,R3
+2013-06-02,Náutico,2-2,Portuguesa,R3
+2013-06-02,Atlético Mineiro,0-0,São Paulo,R3
+2013-06-05,São Paulo,0-1,Goiás,R4
+2013-06-05,Criciúma,3-1,Santos,R4
+2013-06-05,Portuguesa,1-1,Internacional,R4
+2013-06-05,Vasco,2-0,Atlético Mineiro,R4
+2013-06-05,Grêmio,1-0,Vitória,R4
+2013-06-05,Ponte Preta,3-4,Atlético Paranaense,R4
+2013-06-05,Flamengo,0-1,Náutico,R4
+2013-06-05,Bahia,2-1,Botafogo,R4
+2013-06-05,Cruzeiro,1-0,Corinthians,R4
+2013-06-06,Coritiba,2-1,Fluminense,R4
+2013-06-08,Criciúma,0-3,Flamengo,R5
+2013-06-08,Cruzeiro,2-2,Internacional,R5
+2013-06-08,Vasco,1-1,Bahia,R5
+2013-06-08,Corinthians,0-0,Portuguesa,R5
+2013-06-08,Ponte Preta,0-2,Botafogo,R5
+2013-06-09,Atlético Mineiro,2-0,Grêmio,R2
+2013-06-09,Fluminense,2-1,Goiás,R5
+2013-06-09,Vitória,3-2,Atlético Paranaense,R5
+2013-06-09,Coritiba,1-0,Náutico,R5
+2013-06-12,Santos,1-0,Atlético Mineiro,R5
+2013-06-12,Portuguesa,2-1,Fluminense,R2
+2013-06-12,Grêmio,1-1,São Paulo,R5
+2013-07-06,Flamengo,2-2,Coritiba,R6
+2013-07-06,Náutico,1-3,Ponte Preta,R6
+2013-07-06,Atlético Paranaense,1-1,Grêmio,R6
+2013-07-06,Portuguesa,1-1,Cruzeiro,R6
+2013-07-07,São Paulo,0-2,Santos,R6
+2013-07-07,Bahia,0-2,Corinthians,R6
+2013-07-07,Internacional,5-3,Vasco,R6
+2013-07-07,Goiás,1-0,Vitória,R6
+2013-07-07,Botafogo,1-0,Fluminense,R6
+2013-07-07,Atlético Mineiro,3-2,Criciúma,R6
+2013-07-10,São Paulo,1-2,Bahia,R11
+2013-07-13,Fluminense,2-3,Internacional,R7
+2013-07-13,Santos,4-1,Portuguesa,R7
+2013-07-13,Ponte Preta,0-0,Bahia,R7
+2013-07-14,Corinthians,0-1,Atlético Mineiro,R7
+2013-07-14,Vitória,3-2,São Paulo,R7
+2013-07-14,Grêmio,2-1,Botafogo,R7
+2013-07-14,Coritiba,1-0,Atlético Paranaense,R7
+2013-07-14,Vasco,0-1,Flamengo,R7
+2013-07-14,Criciúma,0-0,Goiás,R7
+2013-07-14,Cruzeiro,3-0,Náutico,R7
+2013-07-20,São Paulo,0-3,Cruzeiro,R8
+2013-07-20,Criciúma,2-1,Grêmio,R8
+2013-07-20,Botafogo,2-0,Náutico,R8
+2013-07-21,Vitória,0-0,Bahia,R8
+2013-07-21,Internacional,1-0,Flamengo,R8
+2013-07-21,Atlético Paranaense,1-1,Corinthians,R8
+2013-07-21,Santos,2-2,Coritiba,R8
+2013-07-21,Fluminense,1-3,Vasco,R8
+2013-07-21,Goiás,2-1,Portuguesa,R8
+2013-07-24,São Paulo,0-1,Internacional,R12
+2013-07-27,Vasco,3-2,Criciúma,R9
+2013-07-27,Portuguesa,2-3,Atlético Paranaense,R9
+2013-07-27,Ponte Preta,1-0,Santos,R9
+2013-07-28,Corinthians,0-0,São Paulo,R9
+2013-07-28,Grêmio,2-0,Fluminense,R9
+2013-07-28,Náutico,3-0,Internacional,R9
+2013-07-28,Cruzeiro,4-1,Atlético Mineiro,R9
+2013-07-28,Flamengo,1-1,Botafogo,R9
+2013-07-28,Bahia,2-1,Goiás,R9
+2013-07-28,Coritiba,1-1,Vitória,R9
+2013-07-31,Fluminense,1-0,Cruzeiro,R10
+2013-07-31,Atlético Mineiro,1-2,Atlético Paranaense,R10
+2013-07-31,Portuguesa,1-1,Criciúma,R10
+2013-07-31,Coritiba,5-3,Ponte Preta,R10
+2013-07-31,Corinthians,2-0,Grêmio,R10
+2013-07-31,Bahia,3-0,Flamengo,R10
+2013-08-01,Botafogo,2-0,Vitória,R10
+2013-08-01,Goiás,1-1,Vasco,R10
+2013-08-03,Cruzeiro,1-0,Coritiba,R11
+2013-08-04,Flamengo,3-0,Atlético Mineiro,R11
+2013-08-04,Grêmio,1-1,Internacional,R11
+2013-08-04,Ponte Preta,1-1,Fluminense,R11
+2013-08-04,Criciúma,0-2,Corinthians,R11
+2013-08-04,Atlético Paranaense,2-0,Goiás,R11
+2013-08-04,Vasco,2-3,Botafogo,R11
+2013-08-04,Vitória,2-1,Portuguesa,R11
+2013-08-07,Vitória,1-1,Fluminense,R12
+2013-08-07,Criciúma,1-2,Cruzeiro,R12
+2013-08-07,Flamengo,1-1,Portuguesa,R12
+2013-08-07,Atlético Paranaense,1-0,Bahia,R12
+2013-08-07,Goiás,2-1,Náutico,R12
+2013-08-07,Atlético Mineiro,2-2,Botafogo,R12
+2013-08-07,Santos,1-1,Corinthians,R12
+2013-08-08,Vasco,1-1,Ponte Preta,R12
+2013-08-08,Grêmio,0-1,Coritiba,R12
+2013-08-10,Botafogo,1-1,Goiás,R13
+2013-08-10,Náutico,0-0,Atlético Mineiro,R13
+2013-08-11,Fluminense,2-3,Flamengo,R13
+2013-08-11,Corinthians,2-0,Vitória,R13
+2013-08-11,Cruzeiro,0-0,Santos,R13
+2013-08-11,Coritiba,0-1,Vasco,R13
+2013-08-11,Bahia,0-3,Grêmio,R13
+2013-08-11,Internacional,2-2,Atlético Paranaense,R13
+2013-08-11,Ponte Preta,3-1,Criciúma,R13
+2013-08-11,Portuguesa,2-1,São Paulo,R13
+2013-08-14,Criciúma,3-0,Náutico,R14
+2013-08-14,Atlético Mineiro,2-0,Bahia,R14
+2013-08-14,Santos,1-1,Vasco,R14
+2013-08-14,Vitória,3-1,Ponte Preta,R14
+2013-08-14,Coritiba,1-1,Portuguesa,R14
+2013-08-14,Fluminense,0-0,Corinthians,R14
+2013-08-14,Grêmio,3-1,Cruzeiro,R14
+2013-08-14,Goiás,1-1,Flamengo,R14
+2013-08-15,São Paulo,1-1,Atlético Paranaense,R14
+2013-08-15,Botafogo,3-3,Internacional,R14
+2013-08-17,Náutico,0-1,Fluminense,R15
+2013-08-17,Cruzeiro,5-1,Vitória,R15
+2013-08-17,Vasco,2-3,Grêmio,R15
+2013-08-18,Flamengo,0-0,São Paulo,R15
+2013-08-18,Corinthians,1-0,Coritiba,R15
+2013-08-18,Ponte Preta,0-1,Goiás,R15
+2013-08-18,Portuguesa,1-3,Botafogo,R15
+2013-08-18,Bahia,0-0,Santos,R15
+2013-08-18,Internacional,0-0,Atlético Mineiro,R15
+2013-08-18,Atlético Paranaense,2-1,Criciúma,R15
+2013-08-24,Flamengo,0-1,Grêmio,R16
+2013-08-24,Ponte Preta,0-2,Cruzeiro,R16
+2013-08-24,Santos,2-0,Vitória,R16
+2013-08-24,Criciúma,2-1,Coritiba,R16
+2013-08-25,Vasco,1-1,Corinthians,R16
+2013-08-25,São Paulo,2-1,Fluminense,R16
+2013-08-25,Bahia,2-0,Náutico,R16
+2013-08-25,Atlético Mineiro,2-1,Portuguesa,R16
+2013-08-25,Internacional,3-3,Goiás,R16
+2013-08-25,Atlético Paranaense,2-0,Botafogo,R16
+2013-08-31,Grêmio,1-0,Ponte Preta,R17
+2013-08-31,Goiás,0-0,Atlético Mineiro,R17
+2013-08-31,Náutico,1-4,Atlético Paranaense,R17
+2013-08-31,Portuguesa,4-2,Bahia,R17
+2013-08-31,Fluminense,0-2,Santos,R17
+2013-09-01,Botafogo,0-0,São Paulo,R17
+2013-09-01,Corinthians,4-0,Flamengo,R17
+2013-09-01,Vitória,0-1,Criciúma,R17
+2013-09-01,Coritiba,0-0,Internacional,R17
+2013-09-01,Cruzeiro,5-3,Vasco,R17
+2013-09-03,Goiás,2-0,Grêmio,R18
+2013-09-03,Náutico,0-1,São Paulo,R10
+2013-09-04,Flamengo,2-1,Vitória,R18
+2013-09-04,Atlético Paranaense,2-1,Santos,R18
+2013-09-04,Portuguesa,2-1,Ponte Preta,R18
+2013-09-04,Bahia,1-3,Cruzeiro,R18
+2013-09-04,Internacional,1-0,Corinthians,R18
+2013-09-04,Atlético Mineiro,2-2,Fluminense,R18
+2013-09-05,Botafogo,3-1,Coritiba,R18
+2013-09-05,São Paulo,1-2,Criciúma,R18
+2013-09-05,Náutico,0-3,Vasco,R18
+2013-09-07,Fluminense,1-0,Bahia,R19
+2013-09-07,Vitória,1-1,Atlético Mineiro,R19
+2013-09-07,Ponte Preta,1-3,Internacional,R19
+2013-09-07,Santos,1-0,Goiás,R19
+2013-09-07,Grêmio,3-2,Portuguesa,R19
+2013-09-08,Corinthians,0-0,Náutico,R19
+2013-09-08,Cruzeiro,1-0,Flamengo,R19
+2013-09-08,Coritiba,2-0,São Paulo,R19
+2013-09-08,Vasco,0-0,Atlético Paranaense,R19
+2013-09-08,Criciúma,1-2,Botafogo,R19
+2013-09-10,Internacional,1-2,Santos,R10
+2013-09-11,Atlético Paranaense,1-1,Fluminense,R20
+2013-09-11,Bahia,2-2,Criciúma,R20
+2013-09-11,Goiás,1-2,Cruzeiro,R20
+2013-09-11,Portuguesa,2-0,Vasco,R20
+2013-09-11,Botafogo,1-0,Corinthians,R20
+2013-09-11,Náutico,0-2,Grêmio,R20
+2013-09-12,Internacional,2-2,Vitória,R20
+2013-09-12,São Paulo,1-0,Ponte Preta,R20
+2013-09-12,Atlético Mineiro,3-0,Coritiba,R20
+2013-09-12,Flamengo,2-1,Santos,R20
+2013-09-14,Cruzeiro,1-0,Atlético Paranaense,R21
+2013-09-14,Fluminense,2-1,Portuguesa,R21
+2013-09-15,Ponte Preta,1-1,Flamengo,R21
+2013-09-15,Vasco,0-2,São Paulo,R21
+2013-09-15,Coritiba,2-2,Bahia,R21
+2013-09-15,Criciúma,0-1,Internacional,R21
+2013-09-15,Corinthians,1-2,Goiás,R21
+2013-09-15,Santos,1-2,Botafogo,R21
+2013-09-15,Vitória,2-1,Náutico,R21
+2013-09-15,Grêmio,0-1,Atlético Mineiro,R21
+2013-09-18,Vasco,1-2,Vitória,R22
+2013-09-18,Grêmio,1-1,Santos,R22
+2013-09-18,Criciúma,1-2,Fluminense,R22
+2013-09-18,Coritiba,2-2,Goiás,R22
+2013-09-18,Cruzeiro,3-0,Botafogo,R22
+2013-09-18,Ponte Preta,2-0,Corinthians,R22
+2013-09-18,São Paulo,1-0,Atlético Mineiro,R22
+2013-09-19,Flamengo,2-4,Atlético Paranaense,R22
+2013-09-19,Bahia,2-0,Internacional,R22
+2013-09-19,Portuguesa,3-0,Náutico,R22
+2013-09-21,Fluminense,1-1,Coritiba,R23
+2013-09-21,Vitória,0-0,Grêmio,R23
+2013-09-22,Náutico,0-0,Flamengo,R23
+2013-09-22,Goiás,1-0,São Paulo,R23
+2013-09-22,Botafogo,1-2,Bahia,R23
+2013-09-22,Corinthians,0-0,Cruzeiro,R23
+2013-09-22,Internacional,0-1,Portuguesa,R23
+2013-09-22,Atlético Mineiro,2-1,Vasco,R23
+2013-09-22,Atlético Paranaense,1-0,Ponte Preta,R23
+2013-09-22,Santos,2-1,Criciúma,R23
+2013-09-25,Criciúma,1-1,Atlético Mineiro,R25
+2013-09-25,Santos,1-1,Náutico,R11
+2013-09-28,Goiás,1-2,Fluminense,R24
+2013-09-28,Náutico,3-0,Coritiba,R24
+2013-09-28,Botafogo,0-1,Ponte Preta,R24
+2013-09-29,Bahia,0-0,Vasco,R24
+2013-09-29,Portuguesa,4-0,Corinthians,R24
+2013-09-29,São Paulo,0-1,Grêmio,R24
+2013-09-29,Flamengo,4-1,Criciúma,R24
+2013-09-29,Atlético Paranaense,3-5,Vitória,R24
+2013-09-29,Internacional,1-2,Cruzeiro,R24
+2013-09-29,Atlético Mineiro,3-1,Santos,R24
+2013-10-01,Ponte Preta,1-2,Náutico,R25
+2013-10-02,Grêmio,1-0,Atlético Paranaense,R25
+2013-10-02,Cruzeiro,4-0,Portuguesa,R25
+2013-10-02,Fluminense,1-1,Botafogo,R25
+2013-10-02,Vitória,2-1,Goiás,R25
+2013-10-02,Coritiba,0-2,Flamengo,R25
+2013-10-02,Santos,3-0,São Paulo,R25
+2013-10-02,Corinthians,2-0,Bahia,R25
+2013-10-03,Atlético Mineiro,4-0,Ponte Preta,R8
+2013-10-03,Vasco,3-1,Internacional,R25
+2013-10-05,Botafogo,0-1,Grêmio,R26
+2013-10-05,São Paulo,3-2,Vitória,R26
+2013-10-06,Flamengo,1-1,Vasco,R26
+2013-10-06,Internacional,1-0,Fluminense,R26
+2013-10-06,Atlético Mineiro,0-0,Corinthians,R26
+2013-10-06,Náutico,1-4,Cruzeiro,R26
+2013-10-06,Atlético Paranaense,2-1,Coritiba,R26
+2013-10-06,Bahia,1-1,Ponte Preta,R26
+2013-10-06,Goiás,1-1,Criciúma,R26
+2013-10-06,Portuguesa,3-0,Santos,R26
+2013-10-09,Grêmio,1-2,Criciúma,R27
+2013-10-09,Coritiba,1-0,Santos,R27
+2013-10-09,Bahia,2-0,Vitória,R27
+2013-10-09,Ponte Preta,2-0,Atlético Mineiro,R27
+2013-10-09,Náutico,1-3,Botafogo,R27
+2013-10-09,Vasco,1-0,Fluminense,R27
+2013-10-09,Cruzeiro,0-2,São Paulo,R27
+2013-10-09,Corinthians,0-0,Atlético Paranaense,R27
+2013-10-10,Portuguesa,1-2,Goiás,R27
+2013-10-10,Flamengo,2-1,Internacional,R27
+2013-10-12,Fluminense,1-1,Grêmio,R28
+2013-10-12,Vitória,2-1,Coritiba,R28
+2013-10-12,Santos,2-1,Ponte Preta,R28
+2013-10-13,Criciúma,3-2,Vasco,R28
+2013-10-13,São Paulo,0-0,Corinthians,R28
+2013-10-13,Internacional,4-1,Náutico,R28
+2013-10-13,Atlético Mineiro,1-0,Cruzeiro,R28
+2013-10-13,Botafogo,2-1,Flamengo,R28
+2013-10-13,Goiás,3-1,Bahia,R28
+2013-10-13,Atlético Paranaense,1-0,Portuguesa,R28
+2013-10-16,Cruzeiro,1-0,Fluminense,R29
+2013-10-16,Santos,0-0,Internacional,R29
+2013-10-16,São Paulo,3-0,Náutico,R29
+2013-10-16,Ponte Preta,1-0,Coritiba,R29
+2013-10-16,Criciúma,1-3,Portuguesa,R29
+2013-10-16,Grêmio,1-0,Corinthians,R29
+2013-10-16,Flamengo,2-1,Bahia,R29
+2013-10-16,Atlético Paranaense,1-0,Atlético Mineiro,R29
+2013-10-17,Vasco,0-2,Goiás,R29
+2013-10-17,Vitória,1-0,Botafogo,R29
+2013-10-19,Fluminense,1-1,Ponte Preta,R30
+2013-10-19,Náutico,1-5,Santos,R30
+2013-10-19,Corinthians,1-0,Criciúma,R30
+2013-10-20,Atlético Mineiro,1-0,Flamengo,R30
+2013-10-20,Bahia,0-1,São Paulo,R30
+2013-10-20,Internacional,2-2,Grêmio,R30
+2013-10-20,Goiás,3-0,Atlético Paranaense,R30
+2013-10-20,Botafogo,2-2,Vasco,R30
+2013-10-20,Portuguesa,1-1,Vitória,R30
+2013-10-20,Coritiba,2-1,Cruzeiro,R30
+2013-10-26,Cruzeiro,5-3,Criciúma,R31
+2013-10-26,Botafogo,1-0,Atlético Mineiro,R31
+2013-10-27,Ponte Preta,2-1,Vasco,R31
+2013-10-27,Portuguesa,0-0,Flamengo,R31
+2013-10-27,Internacional,2-3,São Paulo,R31
+2013-10-27,Bahia,1-1,Atlético Paranaense,R31
+2013-10-27,Corinthians,1-1,Santos,R31
+2013-10-27,Fluminense,2-3,Vitória,R31
+2013-10-27,Coritiba,4-0,Grêmio,R31
+2013-10-27,Náutico,0-2,Goiás,R31
+2013-11-02,Vasco,2-1,Coritiba,R32
+2013-11-02,São Paulo,2-1,Portuguesa,R32
+2013-11-02,Atlético Mineiro,5-0,Náutico,R32
+2013-11-03,Goiás,1-0,Botafogo,R32
+2013-11-03,Vitória,1-1,Corinthians,R32
+2013-11-03,Grêmio,0-0,Bahia,R32
+2013-11-03,Santos,0-1,Cruzeiro,R32
+2013-11-03,Flamengo,1-0,Fluminense,R32
+2013-11-03,Atlético Paranaense,1-0,Internacional,R32
+2013-11-03,Criciúma,1-1,Ponte Preta,R32
+2013-11-09,Bahia,0-0,Atlético Mineiro,R33
+2013-11-09,Portuguesa,0-0,Coritiba,R33
+2013-11-09,Flamengo,1-1,Goiás,R33
+2013-11-10,Internacional,2-1,Botafogo,R33
+2013-11-10,Atlético Paranaense,3-0,São Paulo,R33
+2013-11-10,Ponte Preta,0-3,Vitória,R33
+2013-11-10,Cruzeiro,3-0,Grêmio,R33
+2013-11-10,Corinthians,1-0,Fluminense,R33
+2013-11-10,Náutico,0-1,Criciúma,R33
+2013-11-10,Vasco,2-2,Santos,R33
+2013-11-13,Grêmio,1-0,Vasco,R34
+2013-11-13,Goiás,2-0,Ponte Preta,R34
+2013-11-13,Criciúma,2-1,Atlético Paranaense,R34
+2013-11-13,Botafogo,0-0,Portuguesa,R34
+2013-11-13,São Paulo,2-0,Flamengo,R34
+2013-11-13,Coritiba,0-1,Corinthians,R34
+2013-11-13,Vitória,1-3,Cruzeiro,R34
+2013-11-14,Santos,3-0,Bahia,R34
+2013-11-14,Atlético Mineiro,2-1,Internacional,R34
+2013-11-14,Fluminense,2-0,Náutico,R34
+2013-11-16,Botafogo,4-0,Atlético Paranaense,R35
+2013-11-16,Coritiba,1-2,Criciúma,R35
+2013-11-17,Corinthians,0-0,Vasco,R35
+2013-11-17,Fluminense,2-1,São Paulo,R35
+2013-11-17,Cruzeiro,2-2,Ponte Preta,R35
+2013-11-17,Vitória,2-0,Santos,R35
+2013-11-17,Grêmio,2-1,Flamengo,R35
+2013-11-17,Náutico,0-1,Bahia,R35
+2013-11-17,Goiás,3-1,Internacional,R35
+2013-11-17,Portuguesa,2-0,Atlético Mineiro,R35
+2013-11-23,Criciúma,1-1,Vitória,R36
+2013-11-23,Vasco,2-1,Cruzeiro,R36
+2013-11-23,Atlético Mineiro,4-1,Goiás,R36
+2013-11-24,Santos,1-0,Fluminense,R36
+2013-11-24,Flamengo,1-0,Corinthians,R36
+2013-11-24,Ponte Preta,1-1,Grêmio,R36
+2013-11-24,Atlético Paranaense,6-1,Náutico,R36
+2013-11-24,São Paulo,1-1,Botafogo,R36
+2013-11-24,Internacional,0-0,Coritiba,R36
+2013-11-24,Bahia,1-0,Portuguesa,R36
+2013-11-30,Fluminense,2-2,Atlético Mineiro,R37
+2013-11-30,Corinthians,0-0,Internacional,R37
+2013-12-01,Coritiba,2-1,Botafogo,R37
+2013-12-01,Vitória,4-2,Flamengo,R37
+2013-12-01,Criciúma,1-0,São Paulo,R37
+2013-12-01,Cruzeiro,1-2,Bahia,R37
+2013-12-01,Vasco,2-0,Náutico,R37
+2013-12-01,Ponte Preta,0-2,Portuguesa,R37
+2013-12-01,Grêmio,1-0,Goiás,R37
+2013-12-01,Santos,2-1,Atlético Paranaense,R37
+2013-12-07,Flamengo,1-1,Cruzeiro,R38
+2013-12-07,Náutico,1-0,Corinthians,R38
+2013-12-08,Atlético Paranaense,5-1,Vasco,R38
+2013-12-08,Bahia,1-2,Fluminense,R38
+2013-12-08,Atlético Mineiro,2-2,Vitória,R38
+2013-12-08,Portuguesa,0-0,Grêmio,R38
+2013-12-08,Internacional,0-0,Ponte Preta,R38
+2013-12-08,Botafogo,3-0,Criciúma,R38
+2013-12-08,São Paulo,0-1,Coritiba,R38
+2013-12-08,Goiás,0-3,Santos,R38

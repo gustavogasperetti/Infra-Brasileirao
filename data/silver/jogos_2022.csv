@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2022,2022-04-09,Fluminense,Santos,0,0,E,E,NORMAL,R1
+2022,2022-04-09,Atlético Goianiense,Flamengo,1,1,E,E,NORMAL,R1
+2022,2022-04-09,Palmeiras,Ceará,2,3,D,V,NORMAL,R1
+2022,2022-04-10,Coritiba,Goiás,3,0,V,D,NORMAL,R1
+2022,2022-04-10,Atlético Mineiro,Internacional,2,0,V,D,NORMAL,R1
+2022,2022-04-10,Botafogo,Corinthians,1,3,D,V,NORMAL,R1
+2022,2022-04-10,Fortaleza,Cuiabá,0,1,D,V,NORMAL,R1
+2022,2022-04-10,São Paulo,Athletico Paranaense,4,0,V,D,NORMAL,R1
+2022,2022-04-10,Avaí,América Mineiro,1,0,V,D,NORMAL,R1
+2022,2022-04-11,Juventude,Red Bull Bragantino,2,2,E,E,NORMAL,R1
+2022,2022-04-16,Goiás,Palmeiras,1,1,E,E,NORMAL,R2
+2022,2022-04-16,América Mineiro,Juventude,4,1,V,D,NORMAL,R2
+2022,2022-04-16,Corinthians,Avaí,3,0,V,D,NORMAL,R2
+2022,2022-04-16,Cuiabá,Fluminense,0,1,D,V,NORMAL,R2
+2022,2022-04-17,Santos,Coritiba,2,1,V,D,NORMAL,R2
+2022,2022-04-17,Flamengo,São Paulo,3,1,V,D,NORMAL,R2
+2022,2022-04-17,Red Bull Bragantino,Atlético Goianiense,4,0,V,D,NORMAL,R2
+2022,2022-04-17,Internacional,Fortaleza,2,1,V,D,NORMAL,R2
+2022,2022-04-17,Athletico Paranaense,Atlético Mineiro,0,1,D,V,NORMAL,R2
+2022,2022-04-17,Ceará,Botafogo,1,3,D,V,NORMAL,R2
+2022,2022-04-20,Flamengo,Palmeiras,0,0,E,E,NORMAL,R4
+2022,2022-04-23,Red Bull Bragantino,São Paulo,1,1,E,E,NORMAL,R3
+2022,2022-04-23,Athletico Paranaense,Flamengo,1,0,V,D,NORMAL,R3
+2022,2022-04-23,Fluminense,Internacional,0,1,D,V,NORMAL,R3
+2022,2022-04-23,Palmeiras,Corinthians,3,0,V,D,NORMAL,R3
+2022,2022-04-23,Atlético Mineiro,Coritiba,2,2,E,E,NORMAL,R3
+2022,2022-04-24,Atlético Goianiense,Botafogo,1,1,E,E,NORMAL,R3
+2022,2022-04-24,Santos,América Mineiro,3,0,V,D,NORMAL,R3
+2022,2022-04-24,Juventude,Cuiabá,0,1,D,V,NORMAL,R3
+2022,2022-04-25,Avaí,Goiás,3,2,V,D,NORMAL,R3
+2022,2022-04-30,América Mineiro,Athletico Paranaense,1,0,V,D,NORMAL,R4
+2022,2022-04-30,Ceará,Red Bull Bragantino,0,1,D,V,NORMAL,R4
+2022,2022-04-30,Goiás,Atlético Mineiro,2,2,E,E,NORMAL,R4
+2022,2022-04-30,Cuiabá,Atlético Goianiense,1,1,E,E,NORMAL,R4
+2022,2022-05-01,Botafogo,Juventude,1,1,E,E,NORMAL,R4
+2022,2022-05-01,Corinthians,Fortaleza,1,0,V,D,NORMAL,R4
+2022,2022-05-01,Coritiba,Fluminense,3,2,V,D,NORMAL,R4
+2022,2022-05-01,Internacional,Avaí,0,0,E,E,NORMAL,R4
+2022,2022-05-02,São Paulo,Santos,2,1,V,D,NORMAL,R4
+2022,2022-05-07,Atlético Mineiro,América Mineiro,1,2,D,V,NORMAL,R5
+2022,2022-05-07,Athletico Paranaense,Ceará,1,0,V,D,NORMAL,R5
+2022,2022-05-08,Flamengo,Botafogo,0,1,D,V,NORMAL,R5
+2022,2022-05-08,Palmeiras,Fluminense,1,1,E,E,NORMAL,R5
+2022,2022-05-08,Atlético Goianiense,Goiás,0,1,D,V,NORMAL,R5
+2022,2022-05-08,Red Bull Bragantino,Corinthians,0,1,D,V,NORMAL,R5
+2022,2022-05-08,Santos,Cuiabá,4,1,V,D,NORMAL,R5
+2022,2022-05-08,Juventude,Internacional,1,1,E,E,NORMAL,R5
+2022,2022-05-08,Fortaleza,São Paulo,1,1,E,E,NORMAL,R5
+2022,2022-05-09,Avaí,Coritiba,2,1,V,D,NORMAL,R5
+2022,2022-05-11,Red Bull Bragantino,Atlético Mineiro,1,1,E,E,NORMAL,R7
+2022,2022-05-14,Palmeiras,Red Bull Bragantino,2,0,V,D,NORMAL,R6
+2022,2022-05-14,Ceará,Flamengo,2,2,E,E,NORMAL,R6
+2022,2022-05-14,Atlético Mineiro,Atlético Goianiense,2,0,V,D,NORMAL,R6
+2022,2022-05-14,Internacional,Corinthians,2,2,E,E,NORMAL,R6
+2022,2022-05-14,Fluminense,Athletico Paranaense,2,1,V,D,NORMAL,R6
+2022,2022-05-15,São Paulo,Cuiabá,2,1,V,D,NORMAL,R6
+2022,2022-05-15,Coritiba,América Mineiro,1,0,V,D,NORMAL,R6
+2022,2022-05-15,Botafogo,Fortaleza,3,1,V,D,NORMAL,R6
+2022,2022-05-15,Avaí,Juventude,1,2,D,V,NORMAL,R6
+2022,2022-05-15,Goiás,Santos,1,0,V,D,NORMAL,R6
+2022,2022-05-21,Flamengo,Goiás,1,0,V,D,NORMAL,R7
+2022,2022-05-21,Atlético Goianiense,Coritiba,2,0,V,D,NORMAL,R7
+2022,2022-05-21,Santos,Ceará,0,0,E,E,NORMAL,R7
+2022,2022-05-21,Juventude,Palmeiras,0,3,D,V,NORMAL,R7
+2022,2022-05-21,América Mineiro,Botafogo,1,1,E,E,NORMAL,R7
+2022,2022-05-21,Cuiabá,Internacional,1,1,E,E,NORMAL,R7
+2022,2022-05-22,Corinthians,São Paulo,1,1,E,E,NORMAL,R7
+2022,2022-05-22,Fortaleza,Fluminense,0,1,D,V,NORMAL,R7
+2022,2022-05-22,Athletico Paranaense,Avaí,2,1,V,D,NORMAL,R7
+2022,2022-05-28,Goiás,Red Bull Bragantino,1,1,E,E,NORMAL,R8
+2022,2022-05-28,São Paulo,Ceará,2,2,E,E,NORMAL,R8
+2022,2022-05-28,Fortaleza,Juventude,1,1,E,E,NORMAL,R8
+2022,2022-05-29,Santos,Palmeiras,0,1,D,V,NORMAL,R8
+2022,2022-05-29,Coritiba,Botafogo,1,0,V,D,NORMAL,R8
+2022,2022-05-29,Fluminense,Flamengo,1,2,D,V,NORMAL,R8
+2022,2022-05-29,Corinthians,América Mineiro,1,1,E,E,NORMAL,R8
+2022,2022-05-29,Cuiabá,Athletico Paranaense,0,1,D,V,NORMAL,R8
+2022,2022-05-29,Atlético Mineiro,Avaí,2,1,V,D,NORMAL,R8
+2022,2022-05-30,Internacional,Atlético Goianiense,1,1,E,E,NORMAL,R8
+2022,2022-06-01,Fortaleza,Ceará,0,1,D,V,NORMAL,R3
+2022,2022-06-04,América Mineiro,Cuiabá,2,1,V,D,NORMAL,R9
+2022,2022-06-04,Ceará,Coritiba,1,1,E,E,NORMAL,R9
+2022,2022-06-04,Avaí,São Paulo,1,1,E,E,NORMAL,R9
+2022,2022-06-04,Athletico Paranaense,Santos,2,2,E,E,NORMAL,R9
+2022,2022-06-04,Atlético Goianiense,Corinthians,0,1,D,V,NORMAL,R9
+2022,2022-06-05,Juventude,Fluminense,1,0,V,D,NORMAL,R9
+2022,2022-06-05,Flamengo,Fortaleza,1,2,D,V,NORMAL,R9
+2022,2022-06-05,Palmeiras,Atlético Mineiro,0,0,E,E,NORMAL,R9
+2022,2022-06-05,Red Bull Bragantino,Internacional,0,2,D,V,NORMAL,R9
+2022,2022-06-06,Botafogo,Goiás,1,2,D,V,NORMAL,R9
+2022,2022-06-07,Cuiabá,Corinthians,1,0,V,D,NORMAL,R10
+2022,2022-06-08,América Mineiro,Ceará,0,2,D,V,NORMAL,R10
+2022,2022-06-08,Juventude,Athletico Paranaense,1,3,D,V,NORMAL,R10
+2022,2022-06-08,Red Bull Bragantino,Flamengo,1,0,V,D,NORMAL,R10
+2022,2022-06-08,Atlético Goianiense,Avaí,2,1,V,D,NORMAL,R10
+2022,2022-06-08,Fluminense,Atlético Mineiro,5,3,V,D,NORMAL,R10
+2022,2022-06-08,Santos,Internacional,1,1,E,E,NORMAL,R10
+2022,2022-06-09,Palmeiras,Botafogo,4,0,V,D,NORMAL,R10
+2022,2022-06-09,Fortaleza,Goiás,1,1,E,E,NORMAL,R10
+2022,2022-06-09,Coritiba,São Paulo,1,1,E,E,NORMAL,R10
+2022,2022-06-11,Corinthians,Juventude,2,0,V,D,NORMAL,R11
+2022,2022-06-11,Atlético Mineiro,Santos,1,1,E,E,NORMAL,R11
+2022,2022-06-11,Fluminense,Atlético Goianiense,0,2,D,V,NORMAL,R11
+2022,2022-06-11,Cuiabá,Red Bull Bragantino,1,1,E,E,NORMAL,R11
+2022,2022-06-11,Internacional,Flamengo,3,1,V,D,NORMAL,R11
+2022,2022-06-12,São Paulo,América Mineiro,1,0,V,D,NORMAL,R11
+2022,2022-06-12,Goiás,Ceará,1,1,E,E,NORMAL,R11
+2022,2022-06-12,Coritiba,Palmeiras,0,2,D,V,NORMAL,R11
+2022,2022-06-12,Fortaleza,Athletico Paranaense,0,0,E,E,NORMAL,R11
+2022,2022-06-13,Botafogo,Avaí,0,1,D,V,NORMAL,R11
+2022,2022-06-14,Juventude,Santos,1,2,D,V,NORMAL,R12
+2022,2022-06-15,Red Bull Bragantino,Coritiba,4,2,V,D,NORMAL,R12
+2022,2022-06-15,Ceará,Atlético Mineiro,0,0,E,E,NORMAL,R12
+2022,2022-06-15,Flamengo,Cuiabá,2,0,V,D,NORMAL,R12
+2022,2022-06-15,Goiás,Internacional,1,2,D,V,NORMAL,R12
+2022,2022-06-15,América Mineiro,Fluminense,0,0,E,E,NORMAL,R12
+2022,2022-06-15,Athletico Paranaense,Corinthians,1,1,E,E,NORMAL,R12
+2022,2022-06-16,Botafogo,São Paulo,1,0,V,D,NORMAL,R12
+2022,2022-06-16,Palmeiras,Atlético Goianiense,4,2,V,D,NORMAL,R12
+2022,2022-06-16,Avaí,Fortaleza,3,2,V,D,NORMAL,R12
+2022,2022-06-18,Cuiabá,Ceará,0,0,E,E,NORMAL,R13
+2022,2022-06-18,Santos,Red Bull Bragantino,2,2,E,E,NORMAL,R13
+2022,2022-06-19,Atlético Mineiro,Flamengo,2,0,V,D,NORMAL,R13
+2022,2022-06-19,Corinthians,Goiás,1,0,V,D,NORMAL,R13
+2022,2022-06-19,Coritiba,Athletico Paranaense,0,1,D,V,NORMAL,R13
+2022,2022-06-19,Internacional,Botafogo,2,3,D,V,NORMAL,R13
+2022,2022-06-19,Fortaleza,América Mineiro,1,0,V,D,NORMAL,R13
+2022,2022-06-19,Atlético Goianiense,Juventude,3,1,V,D,NORMAL,R13
+2022,2022-06-19,Fluminense,Avaí,2,0,V,D,NORMAL,R13
+2022,2022-06-20,São Paulo,Palmeiras,1,2,D,V,NORMAL,R13
+2022,2022-06-24,Internacional,Coritiba,3,0,V,D,NORMAL,R14
+2022,2022-06-25,Athletico Paranaense,Red Bull Bragantino,4,2,V,D,NORMAL,R14
+2022,2022-06-25,Flamengo,América Mineiro,3,0,V,D,NORMAL,R14
+2022,2022-06-25,Corinthians,Santos,0,0,E,E,NORMAL,R14
+2022,2022-06-25,Atlético Mineiro,Fortaleza,3,2,V,D,NORMAL,R14
+2022,2022-06-26,Botafogo,Fluminense,0,1,D,V,NORMAL,R14
+2022,2022-06-26,Avaí,Palmeiras,2,2,E,E,NORMAL,R14
+2022,2022-06-26,São Paulo,Juventude,0,0,E,E,NORMAL,R14
+2022,2022-06-26,Ceará,Atlético Goianiense,1,1,E,E,NORMAL,R14
+2022,2022-06-26,Goiás,Cuiabá,1,0,V,D,NORMAL,R14
+2022,2022-07-02,Fluminense,Corinthians,4,0,V,D,NORMAL,R15
+2022,2022-07-02,Juventude,Atlético Mineiro,1,2,D,V,NORMAL,R15
+2022,2022-07-02,Santos,Flamengo,1,2,D,V,NORMAL,R15
+2022,2022-07-02,Ceará,Internacional,1,1,E,E,NORMAL,R15
+2022,2022-07-02,Palmeiras,Athletico Paranaense,0,2,D,V,NORMAL,R15
+2022,2022-07-03,Avaí,Cuiabá,1,2,D,V,NORMAL,R15
+2022,2022-07-03,Atlético Goianiense,São Paulo,1,2,D,V,NORMAL,R15
+2022,2022-07-03,América Mineiro,Goiás,1,0,V,D,NORMAL,R15
+2022,2022-07-03,Coritiba,Fortaleza,2,1,V,D,NORMAL,R15
+2022,2022-07-04,Red Bull Bragantino,Botafogo,0,1,D,V,NORMAL,R15
+2022,2022-07-09,Red Bull Bragantino,Avaí,4,0,V,D,NORMAL,R16
+2022,2022-07-09,Fluminense,Ceará,2,1,V,D,NORMAL,R16
+2022,2022-07-09,Goiás,Athletico Paranaense,2,1,V,D,NORMAL,R16
+2022,2022-07-10,Coritiba,Juventude,2,2,E,E,NORMAL,R16
+2022,2022-07-10,Corinthians,Flamengo,1,0,V,D,NORMAL,R16
+2022,2022-07-10,Atlético Mineiro,São Paulo,0,0,E,E,NORMAL,R16
+2022,2022-07-10,Santos,Atlético Goianiense,1,0,V,D,NORMAL,R16
+2022,2022-07-10,Fortaleza,Palmeiras,0,0,E,E,NORMAL,R16
+2022,2022-07-10,Cuiabá,Botafogo,2,0,V,D,NORMAL,R16
+2022,2022-07-11,Internacional,América Mineiro,1,0,V,D,NORMAL,R16
+2022,2022-07-16,Athletico Paranaense,Internacional,0,0,E,E,NORMAL,R17
+2022,2022-07-16,Flamengo,Coritiba,2,0,V,D,NORMAL,R17
+2022,2022-07-16,Avaí,Santos,1,0,V,D,NORMAL,R17
+2022,2022-07-16,Ceará,Corinthians,3,1,V,D,NORMAL,R17
+2022,2022-07-17,Juventude,Goiás,0,0,E,E,NORMAL,R17
+2022,2022-07-17,São Paulo,Fluminense,2,2,E,E,NORMAL,R17
+2022,2022-07-17,Botafogo,Atlético Mineiro,0,1,D,V,NORMAL,R17
+2022,2022-07-17,Atlético Goianiense,Fortaleza,0,1,D,V,NORMAL,R17
+2022,2022-07-17,América Mineiro,Red Bull Bragantino,0,3,D,V,NORMAL,R17
+2022,2022-07-18,Palmeiras,Cuiabá,1,0,V,D,NORMAL,R17
+2022,2022-07-19,Ceará,Avaí,1,0,V,D,NORMAL,R18
+2022,2022-07-20,Red Bull Bragantino,Fortaleza,2,1,V,D,NORMAL,R18
+2022,2022-07-20,Goiás,Fluminense,2,3,D,V,NORMAL,R18
+2022,2022-07-20,Athletico Paranaense,Atlético Goianiense,4,1,V,D,NORMAL,R18
+2022,2022-07-20,Flamengo,Juventude,4,0,V,D,NORMAL,R18
+2022,2022-07-20,Internacional,São Paulo,3,3,E,E,NORMAL,R18
+2022,2022-07-20,Corinthians,Coritiba,3,1,V,D,NORMAL,R18
+2022,2022-07-20,Santos,Botafogo,2,0,V,D,NORMAL,R18
+2022,2022-07-21,Cuiabá,Atlético Mineiro,1,1,E,E,NORMAL,R18
+2022,2022-07-21,América Mineiro,Palmeiras,0,1,D,V,NORMAL,R18
+2022,2022-07-23,São Paulo,Goiás,3,3,E,E,NORMAL,R19
+2022,2022-07-23,Botafogo,Athletico Paranaense,2,0,V,D,NORMAL,R19
+2022,2022-07-24,Avaí,Flamengo,1,2,D,V,NORMAL,R19
+2022,2022-07-24,Fluminense,Red Bull Bragantino,2,1,V,D,NORMAL,R19
+2022,2022-07-24,Palmeiras,Internacional,2,1,V,D,NORMAL,R19
+2022,2022-07-24,Juventude,Ceará,1,0,V,D,NORMAL,R19
+2022,2022-07-24,Atlético Mineiro,Corinthians,1,2,D,V,NORMAL,R19
+2022,2022-07-24,Atlético Goianiense,América Mineiro,0,1,D,V,NORMAL,R19
+2022,2022-07-24,Fortaleza,Santos,0,0,E,E,NORMAL,R19
+2022,2022-07-25,Coritiba,Cuiabá,1,0,V,D,NORMAL,R19
+2022,2022-07-30,Ceará,Palmeiras,1,2,D,V,NORMAL,R20
+2022,2022-07-30,Goiás,Coritiba,1,0,V,D,NORMAL,R20
+2022,2022-07-30,Corinthians,Botafogo,1,0,V,D,NORMAL,R20
+2022,2022-07-30,Flamengo,Atlético Goianiense,4,1,V,D,NORMAL,R20
+2022,2022-07-31,Internacional,Atlético Mineiro,3,0,V,D,NORMAL,R20
+2022,2022-07-31,Athletico Paranaense,São Paulo,1,0,V,D,NORMAL,R20
+2022,2022-07-31,América Mineiro,Avaí,3,1,V,D,NORMAL,R20
+2022,2022-07-31,Cuiabá,Fortaleza,0,1,D,V,NORMAL,R20
+2022,2022-07-31,Red Bull Bragantino,Juventude,1,0,V,D,NORMAL,R20
+2022,2022-08-01,Santos,Fluminense,2,2,E,E,NORMAL,R20
+2022,2022-08-06,Botafogo,Ceará,1,1,E,E,NORMAL,R21
+2022,2022-08-06,Juventude,América Mineiro,0,1,D,V,NORMAL,R21
+2022,2022-08-06,Atlético Goianiense,Red Bull Bragantino,2,1,V,D,NORMAL,R21
+2022,2022-08-06,Avaí,Corinthians,1,1,E,E,NORMAL,R21
+2022,2022-08-06,São Paulo,Flamengo,0,2,D,V,NORMAL,R21
+2022,2022-08-07,Fluminense,Cuiabá,1,0,V,D,NORMAL,R21
+2022,2022-08-07,Palmeiras,Goiás,3,0,V,D,NORMAL,R21
+2022,2022-08-07,Fortaleza,Internacional,3,0,V,D,NORMAL,R21
+2022,2022-08-07,Atlético Mineiro,Athletico Paranaense,2,3,D,V,NORMAL,R21
+2022,2022-08-08,Coritiba,Santos,1,2,D,V,NORMAL,R21
+2022,2022-08-13,Goiás,Avaí,1,1,E,E,NORMAL,R22
+2022,2022-08-13,Corinthians,Palmeiras,0,1,D,V,NORMAL,R22
+2022,2022-08-13,Cuiabá,Juventude,1,0,V,D,NORMAL,R22
+2022,2022-08-13,Botafogo,Atlético Goianiense,0,0,E,E,NORMAL,R22
+2022,2022-08-14,Coritiba,Atlético Mineiro,0,1,D,V,NORMAL,R22
+2022,2022-08-14,Flamengo,Athletico Paranaense,5,0,V,D,NORMAL,R22
+2022,2022-08-14,São Paulo,Red Bull Bragantino,3,0,V,D,NORMAL,R22
+2022,2022-08-14,Ceará,Fortaleza,0,1,D,V,NORMAL,R22
+2022,2022-08-14,América Mineiro,Santos,1,0,V,D,NORMAL,R22
+2022,2022-08-14,Internacional,Fluminense,3,0,V,D,NORMAL,R22
+2022,2022-08-20,Atlético Mineiro,Goiás,0,1,D,V,NORMAL,R23
+2022,2022-08-20,Fluminense,Coritiba,5,2,V,D,NORMAL,R23
+2022,2022-08-21,Juventude,Botafogo,2,2,E,E,NORMAL,R23
+2022,2022-08-21,Palmeiras,Flamengo,1,1,E,E,NORMAL,R23
+2022,2022-08-21,Red Bull Bragantino,Ceará,1,1,E,E,NORMAL,R23
+2022,2022-08-21,Santos,São Paulo,1,0,V,D,NORMAL,R23
+2022,2022-08-21,Fortaleza,Corinthians,1,0,V,D,NORMAL,R23
+2022,2022-08-21,Atlético Goianiense,Cuiabá,1,1,E,E,NORMAL,R23
+2022,2022-08-21,Athletico Paranaense,América Mineiro,1,1,E,E,NORMAL,R23
+2022,2022-08-22,Avaí,Internacional,0,1,D,V,NORMAL,R23
+2022,2022-08-27,Goiás,Atlético Goianiense,2,1,V,D,NORMAL,R24
+2022,2022-08-27,Coritiba,Avaí,1,0,V,D,NORMAL,R24
+2022,2022-08-27,Fluminense,Palmeiras,1,1,E,E,NORMAL,R24
+2022,2022-08-27,Ceará,Athletico Paranaense,0,0,E,E,NORMAL,R24
+2022,2022-08-28,América Mineiro,Atlético Mineiro,1,1,E,E,NORMAL,R24
+2022,2022-08-28,São Paulo,Fortaleza,0,1,D,V,NORMAL,R24
+2022,2022-08-28,Botafogo,Flamengo,0,1,D,V,NORMAL,R24
+2022,2022-08-28,Cuiabá,Santos,0,0,E,E,NORMAL,R24
+2022,2022-08-29,Internacional,Juventude,4,0,V,D,NORMAL,R24
+2022,2022-08-29,Corinthians,Red Bull Bragantino,1,0,V,D,NORMAL,R24
+2022,2022-09-03,Juventude,Avaí,1,1,E,E,NORMAL,R25
+2022,2022-09-03,Red Bull Bragantino,Palmeiras,2,2,E,E,NORMAL,R25
+2022,2022-09-03,Athletico Paranaense,Fluminense,1,0,V,D,NORMAL,R25
+2022,2022-09-03,América Mineiro,Coritiba,2,0,V,D,NORMAL,R25
+2022,2022-09-04,Flamengo,Ceará,1,1,E,E,NORMAL,R25
+2022,2022-09-04,Corinthians,Internacional,2,2,E,E,NORMAL,R25
+2022,2022-09-04,Fortaleza,Botafogo,1,3,D,V,NORMAL,R25
+2022,2022-09-04,Atlético Goianiense,Atlético Mineiro,0,2,D,V,NORMAL,R25
+2022,2022-09-04,Cuiabá,São Paulo,1,1,E,E,NORMAL,R25
+2022,2022-09-05,Santos,Goiás,1,2,D,V,NORMAL,R25
+2022,2022-09-07,Atlético Mineiro,Red Bull Bragantino,1,1,E,E,NORMAL,R26
+2022,2022-09-10,Internacional,Cuiabá,1,0,V,D,NORMAL,R26
+2022,2022-09-10,Ceará,Santos,2,1,V,D,NORMAL,R26
+2022,2022-09-10,Fluminense,Fortaleza,2,1,V,D,NORMAL,R26
+2022,2022-09-10,Palmeiras,Juventude,2,1,V,D,NORMAL,R26
+2022,2022-09-11,Botafogo,América Mineiro,0,0,E,E,NORMAL,R26
+2022,2022-09-11,Avaí,Athletico Paranaense,1,1,E,E,NORMAL,R26
+2022,2022-09-11,São Paulo,Corinthians,1,1,E,E,NORMAL,R26
+2022,2022-09-11,Coritiba,Atlético Goianiense,2,0,V,D,NORMAL,R26
+2022,2022-09-11,Goiás,Flamengo,1,1,E,E,NORMAL,R26
+2022,2022-09-17,Avaí,Atlético Mineiro,1,0,V,D,NORMAL,R27
+2022,2022-09-17,Botafogo,Coritiba,2,0,V,D,NORMAL,R27
+2022,2022-09-18,Red Bull Bragantino,Goiás,1,1,E,E,NORMAL,R27
+2022,2022-09-18,Flamengo,Fluminense,1,2,D,V,NORMAL,R27
+2022,2022-09-18,Ceará,São Paulo,0,2,D,V,NORMAL,R27
+2022,2022-09-18,América Mineiro,Corinthians,1,0,V,D,NORMAL,R27
+2022,2022-09-18,Juventude,Fortaleza,1,1,E,E,NORMAL,R27
+2022,2022-09-18,Palmeiras,Santos,1,0,V,D,NORMAL,R27
+2022,2022-09-18,Athletico Paranaense,Cuiabá,2,2,E,E,NORMAL,R27
+2022,2022-09-19,Atlético Goianiense,Internacional,1,2,D,V,NORMAL,R27
+2022,2022-09-25,São Paulo,Avaí,4,0,V,D,NORMAL,R28
+2022,2022-09-27,Santos,Athletico Paranaense,2,0,V,D,NORMAL,R28
+2022,2022-09-28,Fluminense,Juventude,4,0,V,D,NORMAL,R28
+2022,2022-09-28,Corinthians,Atlético Goianiense,2,1,V,D,NORMAL,R28
+2022,2022-09-28,Fortaleza,Flamengo,3,2,V,D,NORMAL,R28
+2022,2022-09-28,Coritiba,Ceará,1,0,V,D,NORMAL,R28
+2022,2022-09-28,Cuiabá,América Mineiro,2,1,V,D,NORMAL,R28
+2022,2022-09-28,Atlético Mineiro,Palmeiras,0,1,D,V,NORMAL,R28
+2022,2022-09-28,Internacional,Red Bull Bragantino,0,0,E,E,NORMAL,R28
+2022,2022-09-28,Goiás,Botafogo,0,1,D,V,NORMAL,R28
+2022,2022-10-01,Atlético Mineiro,Fluminense,2,0,V,D,NORMAL,R29
+2022,2022-10-01,Internacional,Santos,1,0,V,D,NORMAL,R29
+2022,2022-10-01,Ceará,América Mineiro,1,2,D,V,NORMAL,R29
+2022,2022-10-01,Flamengo,Red Bull Bragantino,4,1,V,D,NORMAL,R29
+2022,2022-10-01,Goiás,Fortaleza,0,1,D,V,NORMAL,R29
+2022,2022-10-01,Avaí,Atlético Goianiense,1,2,D,V,NORMAL,R29
+2022,2022-10-01,Athletico Paranaense,Juventude,2,0,V,D,NORMAL,R29
+2022,2022-10-01,Corinthians,Cuiabá,2,0,V,D,NORMAL,R29
+2022,2022-10-03,Botafogo,Palmeiras,1,3,D,V,NORMAL,R29
+2022,2022-10-04,Juventude,Corinthians,2,2,E,E,NORMAL,R30
+2022,2022-10-05,Red Bull Bragantino,Cuiabá,2,1,V,D,NORMAL,R30
+2022,2022-10-05,Ceará,Goiás,1,1,E,E,NORMAL,R30
+2022,2022-10-05,Atlético Goianiense,Fluminense,3,2,V,D,NORMAL,R30
+2022,2022-10-05,Athletico Paranaense,Fortaleza,1,1,E,E,NORMAL,R30
+2022,2022-10-05,Flamengo,Internacional,0,0,E,E,NORMAL,R30
+2022,2022-10-05,Santos,Atlético Mineiro,1,2,D,V,NORMAL,R30
+2022,2022-10-06,Palmeiras,Coritiba,4,0,V,D,NORMAL,R30
+2022,2022-10-06,Avaí,Botafogo,1,2,D,V,NORMAL,R30
+2022,2022-10-06,América Mineiro,São Paulo,1,2,D,V,NORMAL,R30
+2022,2022-10-08,Cuiabá,Flamengo,1,2,D,V,NORMAL,R31
+2022,2022-10-08,Corinthians,Athletico Paranaense,2,1,V,D,NORMAL,R31
+2022,2022-10-09,Internacional,Goiás,4,2,V,D,NORMAL,R31
+2022,2022-10-09,São Paulo,Botafogo,0,1,D,V,NORMAL,R31
+2022,2022-10-09,Fortaleza,Avaí,2,0,V,D,NORMAL,R31
+2022,2022-10-09,Atlético Mineiro,Ceará,0,0,E,E,NORMAL,R31
+2022,2022-10-09,Fluminense,América Mineiro,0,2,D,V,NORMAL,R31
+2022,2022-10-09,Coritiba,Red Bull Bragantino,2,1,V,D,NORMAL,R31
+2022,2022-10-10,Atlético Goianiense,Palmeiras,1,1,E,E,NORMAL,R31
+2022,2022-10-10,Santos,Juventude,4,1,V,D,NORMAL,R31
+2022,2022-10-15,América Mineiro,Fortaleza,1,2,D,V,NORMAL,R32
+2022,2022-10-15,Flamengo,Atlético Mineiro,1,0,V,D,NORMAL,R32
+2022,2022-10-16,Palmeiras,São Paulo,0,0,E,E,NORMAL,R32
+2022,2022-10-16,Ceará,Cuiabá,1,1,E,E,NORMAL,R32
+2022,2022-10-16,Botafogo,Internacional,0,1,D,V,NORMAL,R32
+2022,2022-10-16,Juventude,Atlético Goianiense,1,1,E,E,NORMAL,R32
+2022,2022-10-16,Avaí,Fluminense,0,3,D,V,NORMAL,R32
+2022,2022-10-16,Athletico Paranaense,Coritiba,1,0,V,D,NORMAL,R32
+2022,2022-10-17,Red Bull Bragantino,Santos,0,2,D,V,NORMAL,R32
+2022,2022-10-20,São Paulo,Coritiba,3,1,V,D,NORMAL,R29
+2022,2022-10-22,Red Bull Bragantino,Athletico Paranaense,4,2,V,D,NORMAL,R33
+2022,2022-10-22,América Mineiro,Flamengo,1,2,D,V,NORMAL,R33
+2022,2022-10-22,Santos,Corinthians,0,1,D,V,NORMAL,R33
+2022,2022-10-22,Palmeiras,Avaí,3,0,V,D,NORMAL,R33
+2022,2022-10-23,Fluminense,Botafogo,2,2,E,E,NORMAL,R33
+2022,2022-10-23,Juventude,São Paulo,1,2,D,V,NORMAL,R33
+2022,2022-10-23,Atlético Goianiense,Ceará,1,0,V,D,NORMAL,R33
+2022,2022-10-23,Cuiabá,Goiás,1,2,D,V,NORMAL,R33
+2022,2022-10-23,Coritiba,Internacional,1,1,E,E,NORMAL,R33
+2022,2022-10-24,Fortaleza,Atlético Mineiro,0,0,E,E,NORMAL,R33
+2022,2022-10-25,Flamengo,Santos,3,2,V,D,NORMAL,R34
+2022,2022-10-25,Athletico Paranaense,Palmeiras,1,3,D,V,NORMAL,R34
+2022,2022-10-26,Botafogo,Red Bull Bragantino,2,1,V,D,NORMAL,R34
+2022,2022-10-26,Corinthians,Fluminense,0,2,D,V,NORMAL,R34
+2022,2022-10-26,Internacional,Ceará,2,1,V,D,NORMAL,R34
+2022,2022-10-26,Goiás,América Mineiro,2,2,E,E,NORMAL,R34
+2022,2022-10-27,São Paulo,Atlético Goianiense,2,1,V,D,NORMAL,R34
+2022,2022-10-27,Fortaleza,Coritiba,3,1,V,D,NORMAL,R34
+2022,2022-10-27,Atlético Mineiro,Juventude,1,0,V,D,NORMAL,R34
+2022,2022-10-27,Cuiabá,Avaí,1,0,V,D,NORMAL,R34
+2022,2022-10-29,Goiás,Corinthians,0,0,E,E,NORMAL,R32
+2022,2022-10-31,Ceará,Fluminense,0,1,D,V,NORMAL,R35
+2022,2022-11-01,Botafogo,Cuiabá,0,2,D,V,NORMAL,R35
+2022,2022-11-01,São Paulo,Atlético Mineiro,2,2,E,E,NORMAL,R35
+2022,2022-11-02,América Mineiro,Internacional,1,0,V,D,NORMAL,R35
+2022,2022-11-02,Athletico Paranaense,Goiás,3,2,V,D,NORMAL,R35
+2022,2022-11-02,Juventude,Coritiba,0,1,D,V,NORMAL,R35
+2022,2022-11-02,Atlético Goianiense,Santos,2,3,D,V,NORMAL,R35
+2022,2022-11-02,Avaí,Red Bull Bragantino,1,2,D,V,NORMAL,R35
+2022,2022-11-02,Flamengo,Corinthians,1,2,D,V,NORMAL,R35
+2022,2022-11-02,Palmeiras,Fortaleza,4,0,V,D,NORMAL,R35
+2022,2022-11-05,Fluminense,São Paulo,3,1,V,D,NORMAL,R36
+2022,2022-11-05,Santos,Avaí,1,1,E,E,NORMAL,R36
+2022,2022-11-05,Red Bull Bragantino,América Mineiro,1,4,D,V,NORMAL,R36
+2022,2022-11-05,Goiás,Juventude,1,0,V,D,NORMAL,R36
+2022,2022-11-05,Corinthians,Ceará,1,0,V,D,NORMAL,R36
+2022,2022-11-05,Internacional,Athletico Paranaense,2,0,V,D,NORMAL,R36
+2022,2022-11-06,Fortaleza,Atlético Goianiense,1,1,E,E,NORMAL,R36
+2022,2022-11-06,Coritiba,Flamengo,1,0,V,D,NORMAL,R36
+2022,2022-11-06,Cuiabá,Palmeiras,1,1,E,E,NORMAL,R36
+2022,2022-11-07,Atlético Mineiro,Botafogo,0,2,D,V,NORMAL,R36
+2022,2022-11-08,São Paulo,Internacional,0,1,D,V,NORMAL,R37
+2022,2022-11-09,Fluminense,Goiás,3,0,V,D,NORMAL,R37
+2022,2022-11-09,Avaí,Ceará,2,0,V,D,NORMAL,R37
+2022,2022-11-09,Coritiba,Corinthians,2,2,E,E,NORMAL,R37
+2022,2022-11-09,Fortaleza,Red Bull Bragantino,6,0,V,D,NORMAL,R37
+2022,2022-11-09,Atlético Goianiense,Athletico Paranaense,1,1,E,E,NORMAL,R37
+2022,2022-11-09,Palmeiras,América Mineiro,2,1,V,D,NORMAL,R37
+2022,2022-11-09,Juventude,Flamengo,2,2,E,E,NORMAL,R37
+2022,2022-11-10,Atlético Mineiro,Cuiabá,3,0,V,D,NORMAL,R37
+2022,2022-11-10,Botafogo,Santos,3,0,V,D,NORMAL,R37
+2022,2022-11-12,Flamengo,Avaí,1,2,D,V,NORMAL,R38
+2022,2022-11-13,América Mineiro,Atlético Goianiense,1,1,E,E,NORMAL,R38
+2022,2022-11-13,Red Bull Bragantino,Fluminense,0,1,D,V,NORMAL,R38
+2022,2022-11-13,Corinthians,Atlético Mineiro,0,1,D,V,NORMAL,R38
+2022,2022-11-13,Santos,Fortaleza,0,2,D,V,NORMAL,R38
+2022,2022-11-13,Internacional,Palmeiras,3,0,V,D,NORMAL,R38
+2022,2022-11-13,Ceará,Juventude,4,1,V,D,NORMAL,R38
+2022,2022-11-13,Goiás,São Paulo,0,4,D,V,NORMAL,R38
+2022,2022-11-13,Cuiabá,Coritiba,2,1,V,D,NORMAL,R38
+2022,2022-11-13,Athletico Paranaense,Botafogo,3,0,V,D,NORMAL,R38

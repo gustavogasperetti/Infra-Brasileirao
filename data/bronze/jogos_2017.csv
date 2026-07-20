@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2017-05-13,Flamengo,1-1,Atlético Mineiro,R1
+2017-05-13,Corinthians,1-1,Chapecoense,R1
+2017-05-14,Fluminense,3-2,Santos,R1
+2017-05-14,Palmeiras,4-0,Vasco,R1
+2017-05-14,Cruzeiro,1-0,São Paulo,R1
+2017-05-14,Bahia,6-2,Atlético Paranaense,R1
+2017-05-14,Ponte Preta,4-0,Sport,R1
+2017-05-14,Avaí,0-0,Vitória,R1
+2017-05-14,Grêmio,2-0,Botafogo,R1
+2017-05-15,Coritiba,4-1,Atlético Goianiense,R1
+2017-05-20,Santos,1-0,Coritiba,R2
+2017-05-20,Atlético Goianiense,0-3,Flamengo,R2
+2017-05-20,Chapecoense,1-0,Palmeiras,R2
+2017-05-21,Vasco,2-1,Bahia,R2
+2017-05-21,Atlético Mineiro,1-2,Fluminense,R2
+2017-05-21,Atlético Paranaense,0-2,Grêmio,R2
+2017-05-21,Vitória,0-1,Corinthians,R2
+2017-05-21,Botafogo,2-0,Ponte Preta,R2
+2017-05-21,Sport,1-1,Cruzeiro,R2
+2017-05-22,São Paulo,2-0,Avaí,R2
+2017-05-27,Vasco,3-2,Fluminense,R3
+2017-05-27,São Paulo,2-0,Palmeiras,R3
+2017-05-27,Vitória,0-1,Coritiba,R3
+2017-05-28,Atlético Mineiro,2-2,Ponte Preta,R3
+2017-05-28,Santos,0-1,Cruzeiro,R3
+2017-05-28,Atlético Paranaense,1-1,Flamengo,R3
+2017-05-28,Atlético Goianiense,0-1,Corinthians,R3
+2017-05-28,Sport,4-3,Grêmio,R3
+2017-05-28,Botafogo,1-0,Bahia,R3
+2017-05-29,Chapecoense,2-0,Avaí,R3
+2017-06-03,Coritiba,1-0,Atlético Paranaense,R4
+2017-06-03,Fluminense,2-1,Vitória,R4
+2017-06-03,Corinthians,2-0,Santos,R4
+2017-06-04,Flamengo,0-0,Botafogo,R4
+2017-06-04,Avaí,1-0,Sport,R4
+2017-06-04,Palmeiras,0-0,Atlético Mineiro,R4
+2017-06-04,Grêmio,2-0,Vasco,R4
+2017-06-04,Ponte Preta,1-0,São Paulo,R4
+2017-06-04,Cruzeiro,0-2,Chapecoense,R4
+2017-06-05,Bahia,3-0,Atlético Goianiense,R4
+2017-06-06,Fluminense,1-1,Atlético Paranaense,R5
+2017-06-07,Atlético Mineiro,1-0,Avaí,R5
+2017-06-07,Coritiba,1-0,Palmeiras,R5
+2017-06-07,Santos,1-0,Botafogo,R5
+2017-06-07,Vasco,2-5,Corinthians,R5
+2017-06-07,Sport,2-0,Flamengo,R5
+2017-06-08,São Paulo,2-0,Vitória,R5
+2017-06-08,Atlético Goianiense,3-0,Ponte Preta,R5
+2017-06-08,Chapecoense,3-6,Grêmio,R5
+2017-06-08,Bahia,1-0,Cruzeiro,R5
+2017-06-10,Palmeiras,3-1,Fluminense,R6
+2017-06-10,Vasco,2-1,Sport,R6
+2017-06-11,Botafogo,2-2,Coritiba,R6
+2017-06-11,Corinthians,3-2,São Paulo,R6
+2017-06-11,Vitória,2-0,Atlético Mineiro,R6
+2017-06-11,Ponte Preta,3-2,Chapecoense,R6
+2017-06-11,Avaí,1-1,Flamengo,R6
+2017-06-11,Cruzeiro,2-0,Atlético Goianiense,R6
+2017-06-11,Atlético Paranaense,0-2,Santos,R6
+2017-06-12,Grêmio,1-0,Bahia,R6
+2017-06-14,Atlético Mineiro,0-1,Atlético Paranaense,R7
+2017-06-14,Sport,0-0,São Paulo,R7
+2017-06-14,Vitória,2-2,Botafogo,R7
+2017-06-14,Atlético Goianiense,3-1,Avaí,R7
+2017-06-14,Flamengo,2-0,Ponte Preta,R7
+2017-06-14,Santos,1-0,Palmeiras,R7
+2017-06-14,Corinthians,1-0,Cruzeiro,R7
+2017-06-14,Chapecoense,2-1,Vasco,R7
+2017-06-15,Coritiba,0-0,Bahia,R7
+2017-06-15,Fluminense,0-2,Grêmio,R7
+2017-06-17,Atlético Goianiense,0-1,Atlético Paranaense,R8
+2017-06-17,Vasco,1-0,Avaí,R8
+2017-06-17,Santos,0-0,Ponte Preta,R8
+2017-06-18,Coritiba,0-0,Corinthians,R8
+2017-06-18,Fluminense,2-2,Flamengo,R8
+2017-06-18,São Paulo,1-2,Atlético Mineiro,R8
+2017-06-18,Bahia,2-4,Palmeiras,R8
+2017-06-18,Chapecoense,0-2,Botafogo,R8
+2017-06-18,Sport,1-3,Vitória,R8
+2017-06-19,Cruzeiro,3-3,Grêmio,R8
+2017-06-21,Vitória,0-2,Santos,R9
+2017-06-21,Botafogo,3-1,Vasco,R9
+2017-06-21,Palmeiras,1-0,Atlético Goianiense,R9
+2017-06-21,Atlético Mineiro,2-2,Sport,R9
+2017-06-21,Atlético Paranaense,1-0,São Paulo,R9
+2017-06-21,Avaí,0-3,Fluminense,R9
+2017-06-22,Corinthians,3-0,Bahia,R9
+2017-06-22,Ponte Preta,1-0,Cruzeiro,R9
+2017-06-22,Flamengo,5-1,Chapecoense,R9
+2017-06-22,Grêmio,2-0,Coritiba,R9
+2017-06-24,Santos,0-1,Sport,R10
+2017-06-25,Vasco,1-0,Atlético Goianiense,R10
+2017-06-25,São Paulo,1-1,Fluminense,R10
+2017-06-25,Cruzeiro,2-0,Coritiba,R10
+2017-06-25,Atlético Paranaense,4-1,Vitória,R10
+2017-06-25,Grêmio,0-1,Corinthians,R10
+2017-06-25,Ponte Preta,1-2,Palmeiras,R10
+2017-06-25,Bahia,0-1,Flamengo,R10
+2017-06-25,Chapecoense,0-1,Atlético Mineiro,R10
+2017-06-26,Botafogo,0-2,Avaí,R10
+2017-07-01,Palmeiras,1-0,Grêmio,R11
+2017-07-01,Atlético Goianiense,1-1,Santos,R11
+2017-07-02,Flamengo,2-0,São Paulo,R11
+2017-07-02,Corinthians,1-0,Botafogo,R11
+2017-07-02,Atlético Mineiro,3-1,Cruzeiro,R11
+2017-07-02,Sport,1-0,Atlético Paranaense,R11
+2017-07-02,Vitória,0-0,Bahia,R11
+2017-07-02,Coritiba,2-2,Vasco,R11
+2017-07-02,Avaí,0-0,Ponte Preta,R11
+2017-07-03,Fluminense,3-3,Chapecoense,R11
+2017-07-08,Atlético Goianiense,1-2,Vitória,R12
+2017-07-08,Vasco,0-1,Flamengo,R12
+2017-07-08,Corinthians,2-0,Ponte Preta,R12
+2017-07-09,Chapecoense,1-1,Atlético Paranaense,R12
+2017-07-09,Cruzeiro,3-1,Palmeiras,R12
+2017-07-09,Grêmio,0-2,Avaí,R12
+2017-07-09,Bahia,1-1,Fluminense,R12
+2017-07-09,Botafogo,1-1,Atlético Mineiro,R12
+2017-07-09,Santos,3-2,São Paulo,R12
+2017-07-10,Coritiba,0-3,Sport,R12
+2017-07-12,Atlético Mineiro,0-1,Santos,R13
+2017-07-12,Ponte Preta,0-3,Bahia,R13
+2017-07-12,Fluminense,0-1,Botafogo,R13
+2017-07-12,Palmeiras,0-2,Corinthians,R13
+2017-07-12,Atlético Paranaense,0-2,Cruzeiro,R13
+2017-07-12,Vitória,1-4,Vasco,R13
+2017-07-13,Flamengo,0-1,Grêmio,R13
+2017-07-13,São Paulo,2-2,Atlético Goianiense,R13
+2017-07-13,Sport,3-0,Chapecoense,R13
+2017-07-13,Avaí,1-4,Coritiba,R13
+2017-07-15,Corinthians,2-2,Atlético Paranaense,R14
+2017-07-16,Palmeiras,4-2,Vitória,R14
+2017-07-16,Vasco,0-0,Santos,R14
+2017-07-16,Cruzeiro,1-1,Flamengo,R14
+2017-07-16,Grêmio,3-1,Ponte Preta,R14
+2017-07-16,Atlético Goianiense,1-2,Atlético Mineiro,R14
+2017-07-16,Chapecoense,2-0,São Paulo,R14
+2017-07-16,Coritiba,1-2,Fluminense,R14
+2017-07-16,Bahia,1-1,Avaí,R14
+2017-07-17,Botafogo,2-1,Sport,R14
+2017-07-19,Santos,1-0,Chapecoense,R15
+2017-07-19,Vitória,1-3,Grêmio,R15
+2017-07-19,Ponte Preta,4-0,Coritiba,R15
+2017-07-19,Avaí,0-0,Corinthians,R15
+2017-07-19,Flamengo,2-2,Palmeiras,R15
+2017-07-19,São Paulo,1-0,Vasco,R15
+2017-07-19,Atlético Mineiro,0-2,Bahia,R15
+2017-07-20,Fluminense,1-1,Cruzeiro,R15
+2017-07-20,Sport,4-0,Atlético Goianiense,R15
+2017-07-20,Atlético Paranaense,0-0,Botafogo,R15
+2017-07-22,Vitória,1-2,Chapecoense,R16
+2017-07-22,Flamengo,2-1,Coritiba,R16
+2017-07-23,Santos,3-0,Bahia,R16
+2017-07-23,Fluminense,0-1,Corinthians,R16
+2017-07-23,Sport,0-2,Palmeiras,R16
+2017-07-23,Avaí,1-0,Cruzeiro,R16
+2017-07-23,Atlético Mineiro,1-2,Vasco,R16
+2017-07-23,Atlético Paranaense,0-2,Ponte Preta,R16
+2017-07-23,Atlético Goianiense,1-1,Botafogo,R16
+2017-07-24,São Paulo,1-1,Grêmio,R16
+2017-07-29,Botafogo,3-4,São Paulo,R17
+2017-07-29,Palmeiras,2-0,Avaí,R17
+2017-07-30,Chapecoense,1-2,Atlético Goianiense,R17
+2017-07-30,Corinthians,1-1,Flamengo,R17
+2017-07-30,Coritiba,0-2,Atlético Mineiro,R17
+2017-07-30,Bahia,1-3,Sport,R17
+2017-07-30,Cruzeiro,0-0,Vitória,R17
+2017-07-30,Grêmio,1-1,Santos,R17
+2017-07-31,Vasco,0-1,Atlético Paranaense,R17
+2017-08-02,Sport,2-2,Fluminense,R18
+2017-08-02,Chapecoense,1-1,Bahia,R18
+2017-08-02,Atlético Mineiro,0-2,Corinthians,R18
+2017-08-02,Vitória,3-1,Ponte Preta,R18
+2017-08-02,Botafogo,1-2,Palmeiras,R18
+2017-08-02,Santos,3-2,Flamengo,R18
+2017-08-02,Atlético Goianiense,0-1,Grêmio,R18
+2017-08-03,São Paulo,1-2,Coritiba,R18
+2017-08-03,Atlético Paranaense,5-0,Avaí,R18
+2017-08-03,Vasco,0-3,Cruzeiro,R18
+2017-08-05,Fluminense,3-1,Atlético Goianiense,R19
+2017-08-05,Corinthians,3-1,Sport,R19
+2017-08-06,Flamengo,0-2,Vitória,R19
+2017-08-06,Palmeiras,0-1,Atlético Paranaense,R19
+2017-08-06,Cruzeiro,0-0,Botafogo,R19
+2017-08-06,Coritiba,2-0,Chapecoense,R19
+2017-08-06,Grêmio,2-0,Atlético Mineiro,R19
+2017-08-06,Bahia,2-1,São Paulo,R19
+2017-08-06,Ponte Preta,0-0,Vasco,R19
+2017-08-06,Avaí,0-0,Santos,R19
+2017-08-09,Ponte Preta,0-0,Fluminense,R17
+2017-08-12,Atlético Goianiense,1-0,Coritiba,R20
+2017-08-12,Vitória,0-1,Avaí,R20
+2017-08-13,São Paulo,3-2,Cruzeiro,R20
+2017-08-13,Vasco,1-1,Palmeiras,R20
+2017-08-13,Atlético Mineiro,2-0,Flamengo,R20
+2017-08-13,Sport,0-0,Ponte Preta,R20
+2017-08-13,Botafogo,1-0,Grêmio,R20
+2017-08-13,Atlético Paranaense,4-1,Bahia,R20
+2017-08-14,Santos,0-0,Fluminense,R20
+2017-08-19,Corinthians,0-1,Vitória,R21
+2017-08-19,Flamengo,2-0,Atlético Goianiense,R21
+2017-08-20,Grêmio,0-0,Atlético Paranaense,R21
+2017-08-20,Cruzeiro,2-0,Sport,R21
+2017-08-20,Bahia,3-0,Vasco,R21
+2017-08-20,Ponte Preta,2-1,Botafogo,R21
+2017-08-20,Avaí,1-1,São Paulo,R21
+2017-08-20,Palmeiras,0-2,Chapecoense,R21
+2017-08-20,Coritiba,0-0,Santos,R21
+2017-08-21,Fluminense,2-1,Atlético Mineiro,R21
+2017-08-23,Chapecoense,0-1,Corinthians,R20
+2017-08-26,Fluminense,0-1,Vasco,R22
+2017-08-26,Corinthians,0-1,Atlético Goianiense,R22
+2017-08-27,Flamengo,2-0,Atlético Paranaense,R22
+2017-08-27,Palmeiras,4-2,São Paulo,R22
+2017-08-27,Bahia,1-2,Botafogo,R22
+2017-08-27,Ponte Preta,1-2,Atlético Mineiro,R22
+2017-08-27,Cruzeiro,1-1,Santos,R22
+2017-08-27,Avaí,1-0,Chapecoense,R22
+2017-08-28,Coritiba,0-1,Vitória,R22
+2017-09-02,Grêmio,5-0,Sport,R22
+2017-09-09,Atlético Mineiro,1-1,Palmeiras,R23
+2017-09-09,Vasco,1-0,Grêmio,R23
+2017-09-09,São Paulo,2-2,Ponte Preta,R23
+2017-09-10,Atlético Paranaense,1-1,Coritiba,R23
+2017-09-10,Santos,2-0,Corinthians,R23
+2017-09-10,Sport,0-1,Avaí,R23
+2017-09-10,Vitória,2-2,Fluminense,R23
+2017-09-10,Botafogo,2-0,Flamengo,R23
+2017-09-10,Chapecoense,1-2,Cruzeiro,R23
+2017-09-11,Atlético Goianiense,1-1,Bahia,R23
+2017-09-16,Botafogo,2-0,Santos,R24
+2017-09-16,Ponte Preta,1-3,Atlético Goianiense,R24
+2017-09-17,Avaí,1-1,Atlético Mineiro,R24
+2017-09-17,Flamengo,2-0,Sport,R24
+2017-09-17,Corinthians,1-0,Vasco,R24
+2017-09-17,Atlético Paranaense,3-1,Fluminense,R24
+2017-09-17,Grêmio,0-1,Chapecoense,R24
+2017-09-17,Vitória,1-2,São Paulo,R24
+2017-09-17,Cruzeiro,1-0,Bahia,R24
+2017-09-18,Palmeiras,1-0,Coritiba,R24
+2017-09-23,Flamengo,1-1,Avaí,R25
+2017-09-23,Santos,1-0,Atlético Paranaense,R25
+2017-09-24,São Paulo,1-1,Corinthians,R25
+2017-09-24,Fluminense,0-1,Palmeiras,R25
+2017-09-24,Coritiba,2-3,Botafogo,R25
+2017-09-24,Atlético Goianiense,1-2,Cruzeiro,R25
+2017-09-24,Chapecoense,1-0,Ponte Preta,R25
+2017-09-24,Atlético Mineiro,1-3,Vitória,R25
+2017-09-24,Bahia,1-0,Grêmio,R25
+2017-09-25,Sport,1-1,Vasco,R25
+2017-09-30,Vasco,1-1,Chapecoense,R26
+2017-09-30,Bahia,1-1,Coritiba,R26
+2017-09-30,Palmeiras,0-1,Santos,R26
+2017-10-01,Botafogo,2-3,Vitória,R26
+2017-10-01,São Paulo,1-0,Sport,R26
+2017-10-01,Cruzeiro,1-1,Corinthians,R26
+2017-10-01,Grêmio,1-0,Fluminense,R26
+2017-10-01,Avaí,0-2,Atlético Goianiense,R26
+2017-10-01,Atlético Paranaense,0-2,Atlético Mineiro,R26
+2017-10-02,Ponte Preta,1-0,Flamengo,R26
+2017-10-07,Cruzeiro,2-1,Ponte Preta,R28
+2017-10-11,Botafogo,2-1,Chapecoense,R27
+2017-10-11,Atlético Paranaense,2-2,Atlético Goianiense,R27
+2017-10-11,Corinthians,3-1,Coritiba,R27
+2017-10-11,Atlético Mineiro,1-0,São Paulo,R27
+2017-10-11,Grêmio,0-1,Cruzeiro,R27
+2017-10-11,Avaí,1-2,Vasco,R27
+2017-10-12,Flamengo,1-1,Fluminense,R27
+2017-10-12,Vitória,1-2,Sport,R27
+2017-10-12,Ponte Preta,1-1,Santos,R27
+2017-10-12,Palmeiras,2-2,Bahia,R27
+2017-10-14,Vasco,1-0,Botafogo,R28
+2017-10-14,São Paulo,2-1,Atlético Paranaense,R28
+2017-10-15,Fluminense,1-0,Avaí,R28
+2017-10-15,Sport,1-1,Atlético Mineiro,R28
+2017-10-15,Atlético Goianiense,1-3,Palmeiras,R28
+2017-10-15,Chapecoense,0-1,Flamengo,R28
+2017-10-15,Coritiba,0-1,Grêmio,R28
+2017-10-15,Bahia,2-0,Corinthians,R28
+2017-10-16,Santos,2-2,Vitória,R28
+2017-10-18,Coritiba,1-0,Cruzeiro,R29
+2017-10-18,Atlético Goianiense,0-1,Vasco,R29
+2017-10-18,Atlético Mineiro,2-3,Chapecoense,R29
+2017-10-18,Fluminense,3-1,São Paulo,R29
+2017-10-18,Corinthians,0-0,Grêmio,R29
+2017-10-18,Avaí,1-1,Botafogo,R29
+2017-10-19,Palmeiras,2-0,Ponte Preta,R29
+2017-10-19,Vitória,2-3,Atlético Paranaense,R29
+2017-10-19,Flamengo,4-1,Bahia,R29
+2017-10-19,Sport,1-1,Santos,R29
+2017-10-21,Vasco,1-1,Coritiba,R30
+2017-10-22,Santos,1-0,Atlético Goianiense,R30
+2017-10-22,São Paulo,2-0,Flamengo,R30
+2017-10-22,Cruzeiro,1-3,Atlético Mineiro,R30
+2017-10-22,Atlético Paranaense,2-1,Sport,R30
+2017-10-22,Grêmio,1-3,Palmeiras,R30
+2017-10-22,Bahia,2-1,Vitória,R30
+2017-10-22,Ponte Preta,1-2,Avaí,R30
+2017-10-22,Chapecoense,2-0,Fluminense,R30
+2017-10-23,Botafogo,2-1,Corinthians,R30
+2017-10-28,São Paulo,2-1,Santos,R31
+2017-10-28,Flamengo,0-0,Vasco,R31
+2017-10-28,Atlético Paranaense,0-0,Chapecoense,R31
+2017-10-29,Fluminense,1-1,Bahia,R31
+2017-10-29,Atlético Mineiro,0-0,Botafogo,R31
+2017-10-29,Ponte Preta,1-0,Corinthians,R31
+2017-10-29,Sport,3-4,Coritiba,R31
+2017-10-29,Vitória,1-1,Atlético Goianiense,R31
+2017-10-29,Avaí,2-2,Grêmio,R31
+2017-10-30,Palmeiras,2-2,Cruzeiro,R31
+2017-11-04,Santos,3-1,Atlético Mineiro,R32
+2017-11-04,Botafogo,1-2,Fluminense,R32
+2017-11-04,Atlético Goianiense,0-1,São Paulo,R32
+2017-11-04,Coritiba,4-0,Avaí,R32
+2017-11-05,Corinthians,3-2,Palmeiras,R32
+2017-11-05,Cruzeiro,1-0,Atlético Paranaense,R32
+2017-11-05,Grêmio,3-1,Flamengo,R32
+2017-11-05,Bahia,2-0,Ponte Preta,R32
+2017-11-05,Vasco,1-1,Vitória,R32
+2017-11-05,Chapecoense,1-1,Sport,R32
+2017-11-08,Ponte Preta,0-1,Grêmio,R33
+2017-11-08,Avaí,1-2,Bahia,R33
+2017-11-08,Atlético Paranaense,0-1,Corinthians,R33
+2017-11-08,Sport,1-2,Botafogo,R33
+2017-11-08,Flamengo,2-0,Cruzeiro,R33
+2017-11-08,Santos,1-2,Vasco,R33
+2017-11-08,Vitória,3-1,Palmeiras,R33
+2017-11-09,São Paulo,2-2,Chapecoense,R33
+2017-11-09,Atlético Mineiro,3-2,Atlético Goianiense,R33
+2017-11-09,Fluminense,2-2,Coritiba,R33
+2017-11-11,Botafogo,0-1,Atlético Paranaense,R34
+2017-11-11,Corinthians,1-0,Avaí,R34
+2017-11-12,Vasco,1-1,São Paulo,R34
+2017-11-12,Palmeiras,2-0,Flamengo,R34
+2017-11-12,Grêmio,1-1,Vitória,R34
+2017-11-12,Atlético Goianiense,2-0,Sport,R34
+2017-11-12,Bahia,2-2,Atlético Mineiro,R34
+2017-11-12,Cruzeiro,3-1,Fluminense,R34
+2017-11-12,Coritiba,1-1,Ponte Preta,R34
+2017-11-13,Chapecoense,2-0,Santos,R34
+2017-11-15,Ponte Preta,2-1,Atlético Paranaense,R35
+2017-11-15,Cruzeiro,2-2,Avaí,R35
+2017-11-15,Grêmio,1-0,São Paulo,R35
+2017-11-15,Vasco,1-1,Atlético Mineiro,R35
+2017-11-15,Corinthians,3-1,Fluminense,R35
+2017-11-16,Botafogo,1-2,Atlético Goianiense,R35
+2017-11-16,Palmeiras,5-1,Sport,R35
+2017-11-16,Chapecoense,2-1,Vitória,R35
+2017-11-16,Coritiba,1-0,Flamengo,R35
+2017-11-16,Bahia,3-1,Santos,R35
+2017-11-19,Flamengo,3-0,Corinthians,R36
+2017-11-19,São Paulo,0-0,Botafogo,R36
+2017-11-19,Sport,1-0,Bahia,R36
+2017-11-19,Vitória,1-1,Cruzeiro,R36
+2017-11-19,Atlético Goianiense,1-1,Chapecoense,R36
+2017-11-19,Santos,1-0,Grêmio,R36
+2017-11-19,Atlético Mineiro,3-0,Coritiba,R36
+2017-11-19,Atlético Paranaense,3-1,Vasco,R36
+2017-11-20,Fluminense,2-0,Ponte Preta,R36
+2017-11-20,Avaí,2-1,Palmeiras,R36
+2017-11-25,Fluminense,1-2,Sport,R37
+2017-11-26,Corinthians,2-2,Atlético Mineiro,R37
+2017-11-26,Cruzeiro,0-1,Vasco,R37
+2017-11-26,Coritiba,1-2,São Paulo,R37
+2017-11-26,Grêmio,1-1,Atlético Goianiense,R37
+2017-11-26,Ponte Preta,2-3,Vitória,R37
+2017-11-26,Avaí,1-0,Atlético Paranaense,R37
+2017-11-26,Flamengo,1-2,Santos,R37
+2017-11-26,Bahia,0-1,Chapecoense,R37
+2017-11-27,Palmeiras,2-0,Botafogo,R37
+2017-12-03,Botafogo,2-2,Cruzeiro,R38
+2017-12-03,Vasco,2-1,Ponte Preta,R38
+2017-12-03,Santos,1-1,Avaí,R38
+2017-12-03,São Paulo,1-1,Bahia,R38
+2017-12-03,Atlético Mineiro,4-3,Grêmio,R38
+2017-12-03,Atlético Paranaense,3-0,Palmeiras,R38
+2017-12-03,Sport,1-0,Corinthians,R38
+2017-12-03,Vitória,1-2,Flamengo,R38
+2017-12-03,Atlético Goianiense,1-1,Fluminense,R38
+2017-12-03,Chapecoense,2-1,Coritiba,R38

@@ -1,0 +1,323 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1983,1983-01-22,Galícia,Sergipe,1,1,E,E,NORMAL,C
+1983,1983-01-22,Cruzeiro,Náutico,3,1,V,D,NORMAL,H
+1983,1983-01-23,Flamengo,Santos,2,0,V,D,NORMAL,A
+1983,1983-01-23,Moto Club,Paysandu,1,1,E,E,NORMAL,A
+1983,1983-01-23,Athletico Paranaense,Grêmio,0,1,D,V,NORMAL,B
+1983,1983-01-23,Campo Grande-RJ,Ponte Preta,0,1,D,V,NORMAL,B
+1983,1983-01-23,Sport,São Paulo,0,0,E,E,NORMAL,C
+1983,1983-01-23,Corinthians,Fluminense,2,1,V,D,NORMAL,D
+1983,1983-01-23,CSA,Tiradentes-PI,4,0,V,D,NORMAL,D
+1983,1983-01-23,Bahia,Palmeiras,0,0,E,E,NORMAL,E
+1983,1983-01-23,Mixto,Goiás,1,2,D,V,NORMAL,E
+1983,1983-01-23,Juventus-SP,Vila Nova,0,0,E,E,NORMAL,F
+1983,1983-01-23,Atlético Mineiro,America-RJ,1,2,D,V,NORMAL,F
+1983,1983-01-23,Internacional,Colorado,2,0,V,D,NORMAL,G
+1983,1983-01-23,Brasília,Botafogo,3,2,V,D,NORMAL,G
+1983,1983-01-23,Ferroviário,Vasco,0,2,D,V,NORMAL,H
+1983,1983-01-26,Santos,Moto Club,3,1,V,D,NORMAL,A
+1983,1983-01-26,Rio Negro-AM,Paysandu,1,0,V,D,NORMAL,A
+1983,1983-01-26,Joinville,Grêmio,1,0,V,D,NORMAL,B
+1983,1983-01-26,Galícia,São Paulo,0,0,E,E,NORMAL,C
+1983,1983-01-26,Sergipe,América-RN,1,0,V,D,NORMAL,C
+1983,1983-01-26,Fluminense,CSA,1,2,D,V,NORMAL,D
+1983,1983-01-26,Rio Branco-ES,America-RJ,0,2,D,V,NORMAL,F
+1983,1983-01-26,Juventus-SP,Atlético Mineiro,0,0,E,E,NORMAL,F
+1983,1983-01-26,Colorado,Brasília,2,0,V,D,NORMAL,G
+1983,1983-01-26,Náutico,Ferroviário,3,0,V,D,NORMAL,H
+1983,1983-01-26,Treze,Vasco,0,2,D,V,NORMAL,H
+1983,1983-01-27,Ponte Preta,Athletico Paranaense,2,4,D,V,NORMAL,B
+1983,1983-01-27,Fortaleza,Corinthians,1,3,D,V,NORMAL,D
+1983,1983-01-27,Comercial-MS,Palmeiras,1,1,E,E,NORMAL,E
+1983,1983-01-27,Botafogo,Ferroviária,0,1,D,V,NORMAL,G
+1983,1983-01-29,Flamengo,Moto Club,1,1,E,E,NORMAL,A
+1983,1983-01-29,Rio Negro-AM,Santos,0,1,D,V,NORMAL,A
+1983,1983-01-29,Grêmio,Ponte Preta,2,0,V,D,NORMAL,B
+1983,1983-01-29,Joinville,Campo Grande-RJ,1,3,D,V,NORMAL,B
+1983,1983-01-29,São Paulo,América-RN,4,0,V,D,NORMAL,C
+1983,1983-01-29,Sport,Galícia,2,0,V,D,NORMAL,C
+1983,1983-01-29,Fortaleza,Fluminense,0,0,E,E,NORMAL,D
+1983,1983-01-29,Comercial-MS,Goiás,2,1,V,D,NORMAL,E
+1983,1983-01-29,Mixto,Bahia,2,0,V,D,NORMAL,E
+1983,1983-01-29,Rio Branco-ES,Juventus-SP,1,1,E,E,NORMAL,F
+1983,1983-01-29,Vila Nova,Atlético Mineiro,1,2,D,V,NORMAL,F
+1983,1983-01-29,Ferroviária,Colorado,2,0,V,D,NORMAL,G
+1983,1983-01-29,Internacional,Brasília,2,0,V,D,NORMAL,G
+1983,1983-01-29,Cruzeiro,Ferroviário,1,1,E,E,NORMAL,H
+1983,1983-01-29,Treze,Náutico,1,4,D,V,NORMAL,H
+1983,1983-01-29,Tiradentes-PI,Corinthians,2,1,V,D,NORMAL,D
+1983,1983-02-02,Rio Negro-AM,Flamengo,1,1,E,E,NORMAL,A
+1983,1983-02-02,Campo Grande-RJ,Athletico Paranaense,0,0,E,E,NORMAL,B
+1983,1983-02-02,Joinville,Ponte Preta,0,0,E,E,NORMAL,B
+1983,1983-02-02,América-RN,Galícia,1,0,V,D,NORMAL,C
+1983,1983-02-02,Sergipe,Sport,3,1,V,D,NORMAL,C
+1983,1983-02-02,Tiradentes-PI,Fluminense,1,0,V,D,NORMAL,D
+1983,1983-02-02,CSA,Fortaleza,0,0,E,E,NORMAL,D
+1983,1983-02-02,Palmeiras,Goiás,1,0,V,D,NORMAL,E
+1983,1983-02-02,Comercial-MS,Mixto,2,1,V,D,NORMAL,E
+1983,1983-02-02,America-RJ,Juventus-SP,2,0,V,D,NORMAL,F
+1983,1983-02-02,Rio Branco-ES,Vila Nova,1,0,V,D,NORMAL,F
+1983,1983-02-02,Botafogo,Colorado,0,0,E,E,NORMAL,G
+1983,1983-02-02,Ferroviária,Internacional,2,0,V,D,NORMAL,G
+1983,1983-02-02,Treze,Cruzeiro,0,4,D,V,NORMAL,H
+1983,1983-02-02,Vasco,Náutico,1,1,E,E,NORMAL,H
+1983,1983-02-03,Paysandu,Santos,1,2,D,V,NORMAL,A
+1983,1983-02-05,Moto Club,Rio Negro-AM,0,0,E,E,NORMAL,A
+1983,1983-02-05,Paysandu,Flamengo,2,3,D,V,NORMAL,A
+1983,1983-02-05,Athletico Paranaense,Joinville,4,1,V,D,NORMAL,B
+1983,1983-02-05,Grêmio,Campo Grande-RJ,4,0,V,D,NORMAL,B
+1983,1983-02-05,Sport,América-RN,1,1,E,E,NORMAL,C
+1983,1983-02-05,Sergipe,São Paulo,0,0,E,E,NORMAL,C
+1983,1983-02-05,Corinthians,CSA,4,2,V,D,NORMAL,D
+1983,1983-02-05,Fortaleza,Tiradentes-PI,1,1,E,E,NORMAL,D
+1983,1983-02-05,Palmeiras,Mixto,4,0,V,D,NORMAL,E
+1983,1983-02-05,Bahia,Comercial-MS,1,0,V,D,NORMAL,E
+1983,1983-02-05,Atlético Mineiro,Rio Branco-ES,2,0,V,D,NORMAL,F
+1983,1983-02-05,America-RJ,Vila Nova,3,1,V,D,NORMAL,F
+1983,1983-02-05,Botafogo,Internacional,1,0,V,D,NORMAL,G
+1983,1983-02-05,Brasília,Ferroviária,0,0,E,E,NORMAL,G
+1983,1983-02-05,Vasco,Cruzeiro,0,0,E,E,NORMAL,H
+1983,1983-02-05,Ferroviário,Treze,2,1,V,D,NORMAL,H
+1983,1983-02-09,Moto Club,Flamengo,1,5,D,V,NORMAL,A
+1983,1983-02-09,Santos,Rio Negro-AM,3,0,V,D,NORMAL,A
+1983,1983-02-09,Grêmio,Joinville,1,1,E,E,NORMAL,B
+1983,1983-02-09,América-RN,Sergipe,3,1,V,D,NORMAL,C
+1983,1983-02-09,Corinthians,Tiradentes-PI,10,1,V,D,NORMAL,D
+1983,1983-02-09,Fluminense,Fortaleza,5,1,V,D,NORMAL,D
+1983,1983-02-09,Bahia,Mixto,2,1,V,D,NORMAL,E
+1983,1983-02-09,Goiás,Comercial-MS,0,1,D,V,NORMAL,E
+1983,1983-02-09,Juventus-SP,Rio Branco-ES,3,2,V,D,NORMAL,F
+1983,1983-02-09,Brasília,Internacional,1,2,D,V,NORMAL,G
+1983,1983-02-09,Colorado,Ferroviária,2,0,V,D,NORMAL,G
+1983,1983-02-09,Ferroviário,Cruzeiro,0,3,D,V,NORMAL,H
+1983,1983-02-09,Náutico,Treze,4,0,V,D,NORMAL,H
+1983,1983-02-10,Athletico Paranaense,Ponte Preta,1,3,D,V,NORMAL,B
+1983,1983-02-10,São Paulo,Galícia,1,0,V,D,NORMAL,C
+1983,1983-02-10,Atlético Mineiro,Vila Nova,4,1,V,D,NORMAL,F
+1983,1983-02-13,Goiás,Bahia,1,1,E,E,NORMAL,E
+1983,1983-02-19,Santos,Paysandu,4,1,V,D,NORMAL,A
+1983,1983-02-19,Flamengo,Rio Negro-AM,7,1,V,D,NORMAL,A
+1983,1983-02-19,Campo Grande-RJ,Joinville,1,0,V,D,NORMAL,B
+1983,1983-02-19,Ponte Preta,Grêmio,1,1,E,E,NORMAL,B
+1983,1983-02-19,América-RN,São Paulo,0,2,D,V,NORMAL,C
+1983,1983-02-19,Galícia,Sport,1,1,E,E,NORMAL,C
+1983,1983-02-19,Fluminense,Tiradentes-PI,3,0,V,D,NORMAL,D
+1983,1983-02-19,Fortaleza,CSA,1,1,E,E,NORMAL,D
+1983,1983-02-19,Mixto,Comercial-MS,1,1,E,E,NORMAL,E
+1983,1983-02-19,Goiás,Palmeiras,0,2,D,V,NORMAL,E
+1983,1983-02-19,Juventus-SP,America-RJ,1,3,D,V,NORMAL,F
+1983,1983-02-19,Vila Nova,Rio Branco-ES,2,0,V,D,NORMAL,F
+1983,1983-02-19,Colorado,Botafogo,3,0,V,D,NORMAL,G
+1983,1983-02-19,Internacional,Ferroviária,0,0,E,E,NORMAL,G
+1983,1983-02-19,Cruzeiro,Treze,3,1,V,D,NORMAL,H
+1983,1983-02-19,Náutico,Vasco,1,1,E,E,NORMAL,H
+1983,1983-02-23,Flamengo,Paysandu,3,2,V,D,NORMAL,A
+1983,1983-02-23,Rio Negro-AM,Moto Club,1,0,V,D,NORMAL,A
+1983,1983-02-23,Joinville,Athletico Paranaense,2,0,V,D,NORMAL,B
+1983,1983-02-23,Campo Grande-RJ,Grêmio,0,0,E,E,NORMAL,B
+1983,1983-02-23,Sport,Sergipe,4,1,V,D,NORMAL,C
+1983,1983-02-23,Galícia,América-RN,0,1,D,V,NORMAL,C
+1983,1983-02-23,Corinthians,Fortaleza,3,1,V,D,NORMAL,D
+1983,1983-02-23,CSA,Fluminense,1,2,D,V,NORMAL,D
+1983,1983-02-23,Comercial-MS,Bahia,1,0,V,D,NORMAL,E
+1983,1983-02-23,Mixto,Palmeiras,0,3,D,V,NORMAL,E
+1983,1983-02-23,Rio Branco-ES,Atlético Mineiro,0,2,D,V,NORMAL,F
+1983,1983-02-23,Vila Nova,America-RJ,3,0,V,D,NORMAL,F
+1983,1983-02-23,Brasília,Colorado,0,0,E,E,NORMAL,G
+1983,1983-02-23,Ferroviária,Botafogo,2,1,V,D,NORMAL,G
+1983,1983-02-23,Cruzeiro,Vasco,0,0,E,E,NORMAL,H
+1983,1983-02-23,Treze,Ferroviário,2,1,V,D,NORMAL,H
+1983,1983-02-26,São Paulo,Sergipe,3,0,V,D,NORMAL,C
+1983,1983-02-26,Palmeiras,Bahia,4,0,V,D,NORMAL,E
+1983,1983-02-26,Vila Nova,Juventus-SP,1,0,V,D,NORMAL,F
+1983,1983-02-26,Botafogo,Brasília,3,0,V,D,NORMAL,G
+1983,1983-02-27,Santos,Flamengo,3,2,V,D,NORMAL,A
+1983,1983-02-27,Paysandu,Moto Club,2,1,V,D,NORMAL,A
+1983,1983-02-27,Ponte Preta,Campo Grande-RJ,2,0,V,D,NORMAL,B
+1983,1983-02-27,Grêmio,Athletico Paranaense,1,2,D,V,NORMAL,B
+1983,1983-02-27,América-RN,Sport,1,0,V,D,NORMAL,C
+1983,1983-02-27,CSA,Corinthians,1,2,D,V,NORMAL,D
+1983,1983-02-27,Tiradentes-PI,Fortaleza,4,1,V,D,NORMAL,D
+1983,1983-02-27,Goiás,Mixto,3,1,V,D,NORMAL,E
+1983,1983-02-27,America-RJ,Atlético Mineiro,1,1,E,E,NORMAL,F
+1983,1983-02-27,Colorado,Internacional,2,0,V,D,NORMAL,G
+1983,1983-02-27,Vasco,Ferroviário,3,0,V,D,NORMAL,H
+1983,1983-02-27,Náutico,Cruzeiro,4,0,V,D,NORMAL,H
+1983,1983-03-05,Palmeiras,Comercial-MS,2,1,V,D,NORMAL,E
+1983,1983-03-06,Moto Club,Santos,1,1,E,E,NORMAL,A
+1983,1983-03-06,Paysandu,Rio Negro-AM,3,0,V,D,NORMAL,A
+1983,1983-03-06,Athletico Paranaense,Campo Grande-RJ,1,1,E,E,NORMAL,B
+1983,1983-03-06,São Paulo,Sport,3,1,V,D,NORMAL,C
+1983,1983-03-06,Sergipe,Galícia,2,0,V,D,NORMAL,C
+1983,1983-03-06,Fluminense,Corinthians,1,0,V,D,NORMAL,D
+1983,1983-03-06,Tiradentes-PI,CSA,2,1,V,D,NORMAL,D
+1983,1983-03-06,Bahia,Goiás,3,0,V,D,NORMAL,E
+1983,1983-03-06,Atlético Mineiro,Juventus-SP,1,0,V,D,NORMAL,F
+1983,1983-03-06,America-RJ,Rio Branco-ES,4,0,V,D,NORMAL,F
+1983,1983-03-06,Internacional,Botafogo,0,0,E,E,NORMAL,G
+1983,1983-03-06,Ferroviária,Brasília,3,1,V,D,NORMAL,G
+1983,1983-03-06,Vasco,Treze,5,2,V,D,NORMAL,H
+1983,1983-03-06,Ferroviário,Náutico,1,2,D,V,NORMAL,H
+1983,1983-03-07,Ponte Preta,Joinville,3,1,V,D,NORMAL,B
+1983,1983-03-09,Campo Grande-RJ,Paysandu,3,1,V,D,NORMAL,1F
+1983,1983-03-09,Sport,CSA,2,1,V,D,NORMAL,1F
+1983,1983-03-09,Goiás,Juventus-SP,3,2,V,D,NORMAL,1F
+1983,1983-03-09,Botafogo,Ferroviário,3,1,V,D,NORMAL,1F
+1983,1983-03-10,Sergipe,Grêmio,0,3,D,V,NORMAL,N
+1983,1983-03-12,Fluminense,Goiás,0,0,E,E,NORMAL,P
+1983,1983-03-13,Santos,Comercial-MS,4,1,V,D,NORMAL,I
+1983,1983-03-13,Guarani,Cruzeiro,1,0,V,D,NORMAL,I
+1983,1983-03-13,Atlético Mineiro,Internacional,2,1,V,D,NORMAL,J
+1983,1983-03-13,Sport,Ponte Preta,2,0,V,D,NORMAL,J
+1983,1983-03-13,Colorado,Vila Nova,1,0,V,D,NORMAL,K
+1983,1983-03-13,Uberaba,São Paulo,1,4,D,V,NORMAL,K
+1983,1983-03-13,Corinthians,Vasco,1,1,E,E,NORMAL,L
+1983,1983-03-13,Campo Grande-RJ,Bahia,0,0,E,E,NORMAL,L
+1983,1983-03-13,Americano,Palmeiras,2,2,E,E,NORMAL,M
+1983,1983-03-13,Tiradentes-PI,Flamengo,1,3,D,V,NORMAL,M
+1983,1983-03-13,America-RJ,Grêmio,4,2,V,D,NORMAL,N
+1983,1983-03-13,Botafogo,Sergipe,3,1,V,D,NORMAL,N
+1983,1983-03-13,América-RN,Ferroviária,1,3,D,V,NORMAL,O
+1983,1983-03-13,Botafogo-SP,Athletico Paranaense,2,0,V,D,NORMAL,O
+1983,1983-03-13,Rio Negro-AM,Náutico,1,1,E,E,NORMAL,P
+1983,1983-03-16,Cruzeiro,Comercial-MS,2,0,V,D,NORMAL,I
+1983,1983-03-16,Santos,Guarani,1,1,E,E,NORMAL,I
+1983,1983-03-16,São Paulo,Vila Nova,4,0,V,D,NORMAL,K
+1983,1983-03-16,Uberaba,Colorado,2,3,D,V,NORMAL,K
+1983,1983-03-16,Bahia,Corinthians,0,1,D,V,NORMAL,L
+1983,1983-03-16,Vasco,Campo Grande-RJ,3,1,V,D,NORMAL,L
+1983,1983-03-16,Tiradentes-PI,Americano,0,0,E,E,NORMAL,M
+1983,1983-03-16,Sergipe,America-RJ,3,1,V,D,NORMAL,N
+1983,1983-03-16,Grêmio,Botafogo,1,1,E,E,NORMAL,N
+1983,1983-03-16,Athletico Paranaense,Ferroviária,1,1,E,E,NORMAL,O
+1983,1983-03-16,Botafogo-SP,América-RN,1,0,V,D,NORMAL,O
+1983,1983-03-16,Fluminense,Náutico,1,2,D,V,NORMAL,P
+1983,1983-03-16,Goiás,Rio Negro-AM,2,0,V,D,NORMAL,P
+1983,1983-03-17,Sport,Atlético Mineiro,1,1,E,E,NORMAL,J
+1983,1983-03-17,Ponte Preta,Internacional,2,2,E,E,NORMAL,J
+1983,1983-03-17,Palmeiras,Flamengo,3,1,V,D,NORMAL,M
+1983,1983-03-19,Cruzeiro,Santos,1,1,E,E,NORMAL,I
+1983,1983-03-19,Comercial-MS,Guarani,1,3,D,V,NORMAL,I
+1983,1983-03-19,Ponte Preta,Atlético Mineiro,2,2,E,E,NORMAL,J
+1983,1983-03-19,Internacional,Sport,0,1,D,V,NORMAL,J
+1983,1983-03-19,São Paulo,Colorado,4,0,V,D,NORMAL,K
+1983,1983-03-19,Vila Nova,Uberaba,1,1,E,E,NORMAL,K
+1983,1983-03-19,Bahia,Vasco,0,0,E,E,NORMAL,L
+1983,1983-03-19,Palmeiras,Tiradentes-PI,5,1,V,D,NORMAL,M
+1983,1983-03-19,Grêmio,Sergipe,5,0,V,D,NORMAL,N
+1983,1983-03-19,Ferroviária,Botafogo-SP,1,0,V,D,NORMAL,O
+1983,1983-03-19,Athletico Paranaense,América-RN,3,2,V,D,NORMAL,O
+1983,1983-03-19,Rio Negro-AM,Fluminense,1,0,V,D,NORMAL,P
+1983,1983-03-19,Náutico,Goiás,4,0,V,D,NORMAL,P
+1983,1983-03-21,Flamengo,Americano,3,0,V,D,NORMAL,M
+1983,1983-03-22,Campo Grande-RJ,Corinthians,1,1,E,E,NORMAL,L
+1983,1983-03-22,America-RJ,Botafogo,0,0,E,E,NORMAL,N
+1983,1983-03-23,Flamengo,Tiradentes-PI,2,0,V,D,NORMAL,M
+1983,1983-03-26,Guarani,Santos,2,2,E,E,NORMAL,I
+1983,1983-03-26,Comercial-MS,Cruzeiro,2,3,D,V,NORMAL,I
+1983,1983-03-26,Internacional,Ponte Preta,1,0,V,D,NORMAL,J
+1983,1983-03-26,Atlético Mineiro,Sport,2,1,V,D,NORMAL,J
+1983,1983-03-26,Colorado,Uberaba,1,0,V,D,NORMAL,K
+1983,1983-03-26,Vila Nova,São Paulo,0,2,D,V,NORMAL,K
+1983,1983-03-26,Campo Grande-RJ,Vasco,2,1,V,D,NORMAL,L
+1983,1983-03-26,Corinthians,Bahia,2,0,V,D,NORMAL,L
+1983,1983-03-26,Americano,Tiradentes-PI,1,0,V,D,NORMAL,M
+1983,1983-03-26,Flamengo,Palmeiras,1,1,E,E,NORMAL,M
+1983,1983-03-26,Botafogo,America-RJ,1,2,D,V,NORMAL,N
+1983,1983-03-26,Ferroviária,Athletico Paranaense,0,0,E,E,NORMAL,O
+1983,1983-03-26,América-RN,Botafogo-SP,0,1,D,V,NORMAL,O
+1983,1983-03-26,Náutico,Fluminense,0,1,D,V,NORMAL,P
+1983,1983-03-26,Rio Negro-AM,Goiás,0,1,D,V,NORMAL,P
+1983,1983-03-30,Guarani,Comercial-MS,1,1,E,E,NORMAL,I
+1983,1983-03-30,Santos,Cruzeiro,5,0,V,D,NORMAL,I
+1983,1983-03-30,Atlético Mineiro,Ponte Preta,3,0,V,D,NORMAL,J
+1983,1983-03-30,Sport,Internacional,1,1,E,E,NORMAL,J
+1983,1983-03-30,Uberaba,Vila Nova,4,0,V,D,NORMAL,K
+1983,1983-03-30,Colorado,São Paulo,2,2,E,E,NORMAL,K
+1983,1983-03-30,Bahia,Campo Grande-RJ,2,0,V,D,NORMAL,L
+1983,1983-03-30,Tiradentes-PI,Palmeiras,0,6,D,V,NORMAL,M
+1983,1983-03-30,Americano,Flamengo,2,2,E,E,NORMAL,M
+1983,1983-03-30,Botafogo,Grêmio,1,1,E,E,NORMAL,N
+1983,1983-03-30,America-RJ,Sergipe,4,3,V,D,NORMAL,N
+1983,1983-03-30,América-RN,Athletico Paranaense,0,2,D,V,NORMAL,O
+1983,1983-03-30,Botafogo-SP,Ferroviária,0,0,E,E,NORMAL,O
+1983,1983-03-30,Fluminense,Rio Negro-AM,3,1,V,D,NORMAL,P
+1983,1983-03-30,Goiás,Náutico,1,0,V,D,NORMAL,P
+1983,1983-03-31,Vasco,Corinthians,0,0,E,E,NORMAL,L
+1983,1983-04-02,São Paulo,Uberaba,5,1,V,D,NORMAL,K
+1983,1983-04-02,Vila Nova,Colorado,4,1,V,D,NORMAL,K
+1983,1983-04-02,Palmeiras,Americano,0,0,E,E,NORMAL,M
+1983,1983-04-03,Comercial-MS,Santos,2,2,E,E,NORMAL,I
+1983,1983-04-03,Cruzeiro,Guarani,1,1,E,E,NORMAL,I
+1983,1983-04-03,Ponte Preta,Sport,2,1,V,D,NORMAL,J
+1983,1983-04-03,Internacional,Atlético Mineiro,2,1,V,D,NORMAL,J
+1983,1983-04-03,Vasco,Bahia,1,1,E,E,NORMAL,L
+1983,1983-04-03,Corinthians,Campo Grande-RJ,3,1,V,D,NORMAL,L
+1983,1983-04-03,Grêmio,America-RJ,1,1,E,E,NORMAL,N
+1983,1983-04-03,Sergipe,Botafogo,2,6,D,V,NORMAL,N
+1983,1983-04-03,Ferroviária,América-RN,5,1,V,D,NORMAL,O
+1983,1983-04-03,Athletico Paranaense,Botafogo-SP,2,0,V,D,NORMAL,O
+1983,1983-04-03,Goiás,Fluminense,1,1,E,E,NORMAL,P
+1983,1983-04-03,Náutico,Rio Negro-AM,5,1,V,D,NORMAL,P
+1983,1983-04-09,Sport,São Paulo,1,0,V,D,NORMAL,S
+1983,1983-04-09,Ferroviária,Grêmio,2,2,E,E,NORMAL,S
+1983,1983-04-10,Vasco,Palmeiras,2,2,E,E,NORMAL,Q
+1983,1983-04-10,Santos,Náutico,2,2,E,E,NORMAL,Q
+1983,1983-04-10,Atlético Mineiro,America-RJ,2,0,V,D,NORMAL,R
+1983,1983-04-10,Colorado,Athletico Paranaense,2,1,V,D,NORMAL,R
+1983,1983-04-10,Guarani,Corinthians,1,1,E,E,NORMAL,T
+1983,1983-04-11,Flamengo,Goiás,2,0,V,D,NORMAL,T
+1983,1983-04-13,Palmeiras,Santos,0,1,D,V,NORMAL,Q
+1983,1983-04-13,Náutico,Vasco,0,1,D,V,NORMAL,Q
+1983,1983-04-13,America-RJ,Athletico Paranaense,1,2,D,V,NORMAL,R
+1983,1983-04-13,Colorado,Atlético Mineiro,0,2,D,V,NORMAL,R
+1983,1983-04-13,Sport,Grêmio,2,2,E,E,NORMAL,S
+1983,1983-04-13,São Paulo,Ferroviária,3,1,V,D,NORMAL,S
+1983,1983-04-13,Corinthians,Goiás,1,1,E,E,NORMAL,T
+1983,1983-04-13,Guarani,Flamengo,0,0,E,E,NORMAL,T
+1983,1983-04-16,Colorado,America-RJ,4,2,V,D,NORMAL,R
+1983,1983-04-17,Santos,Vasco,1,0,V,D,NORMAL,Q
+1983,1983-04-17,Náutico,Palmeiras,3,0,V,D,NORMAL,Q
+1983,1983-04-17,Athletico Paranaense,Atlético Mineiro,0,2,D,V,NORMAL,R
+1983,1983-04-17,Ferroviária,Sport,0,1,D,V,NORMAL,S
+1983,1983-04-17,Grêmio,São Paulo,5,1,V,D,NORMAL,S
+1983,1983-04-17,Flamengo,Corinthians,5,1,V,D,NORMAL,T
+1983,1983-04-17,Goiás,Guarani,1,1,E,E,NORMAL,T
+1983,1983-04-20,Vasco,Náutico,2,2,E,E,NORMAL,Q
+1983,1983-04-20,Santos,Palmeiras,2,2,E,E,NORMAL,Q
+1983,1983-04-20,Athletico Paranaense,America-RJ,1,1,E,E,NORMAL,R
+1983,1983-04-20,Atlético Mineiro,Colorado,1,0,V,D,NORMAL,R
+1983,1983-04-20,Grêmio,Sport,2,1,V,D,NORMAL,S
+1983,1983-04-20,Ferroviária,São Paulo,0,4,D,V,NORMAL,S
+1983,1983-04-20,Corinthians,Guarani,2,0,V,D,NORMAL,T
+1983,1983-04-20,Goiás,Flamengo,1,1,E,E,NORMAL,T
+1983,1983-04-23,Palmeiras,Náutico,6,0,V,D,NORMAL,Q
+1983,1983-04-23,Vasco,Santos,2,0,V,D,NORMAL,Q
+1983,1983-04-23,America-RJ,Atlético Mineiro,2,4,D,V,NORMAL,R
+1983,1983-04-23,Sport,Ferroviária,4,1,V,D,NORMAL,S
+1983,1983-04-23,São Paulo,Grêmio,2,2,E,E,NORMAL,S
+1983,1983-04-23,Goiás,Corinthians,2,1,V,D,NORMAL,T
+1983,1983-04-25,Flamengo,Guarani,2,0,V,D,NORMAL,T
+1983,1983-04-26,Athletico Paranaense,Colorado,2,1,V,D,NORMAL,R
+1983,1983-04-30,Palmeiras,Vasco,0,0,E,E,NORMAL,Q
+1983,1983-04-30,Náutico,Santos,0,1,D,V,NORMAL,Q
+1983,1983-04-30,America-RJ,Colorado,5,1,V,D,NORMAL,R
+1983,1983-04-30,Atlético Mineiro,Athletico Paranaense,1,1,E,E,NORMAL,R
+1983,1983-04-30,Grêmio,Ferroviária,1,3,D,V,NORMAL,S
+1983,1983-04-30,São Paulo,Sport,2,0,V,D,NORMAL,S
+1983,1983-04-30,Corinthians,Flamengo,4,1,V,D,NORMAL,T
+1983,1983-04-30,Guarani,Goiás,1,2,D,V,NORMAL,T
+1983,1983-05-04,Athletico Paranaense,São Paulo,2,1,V,D,NORMAL,QF
+1983,1983-05-05,Vasco,Flamengo,1,2,D,V,NORMAL,QF
+1983,1983-05-05,Goiás,Santos,0,0,E,E,NORMAL,QF
+1983,1983-05-05,Sport,Atlético Mineiro,0,0,E,E,NORMAL,QF
+1983,1983-05-07,São Paulo,Athletico Paranaense,0,1,D,V,NORMAL,QF
+1983,1983-05-08,Flamengo,Vasco,1,1,E,E,NORMAL,QF
+1983,1983-05-08,Santos,Goiás,2,2,E,E,NORMAL,QF
+1983,1983-05-08,Atlético Mineiro,Sport,4,1,V,D,NORMAL,QF
+1983,1983-05-12,Santos,Atlético Mineiro,2,1,V,D,NORMAL,SF
+1983,1983-05-12,Flamengo,Athletico Paranaense,3,0,V,D,NORMAL,SF
+1983,1983-05-15,Atlético Mineiro,Santos,0,0,E,E,NORMAL,SF
+1983,1983-05-15,Athletico Paranaense,Flamengo,2,0,V,D,NORMAL,SF
+1983,1983-05-18,Santos,Flamengo,2,1,V,D,NORMAL,F
+1983,1983-05-29,Flamengo,Santos,3,0,V,D,NORMAL,F

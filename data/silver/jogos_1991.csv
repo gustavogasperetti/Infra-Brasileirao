@@ -1,0 +1,197 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1991,1991-02-02,Santos,Vasco,0,0,E,E,NORMAL,1F
+1991,1991-02-02,Atlético Mineiro,São Paulo,0,3,D,V,NORMAL,1F
+1991,1991-02-03,Corinthians,Vitória,1,1,E,E,NORMAL,1F
+1991,1991-02-03,Portuguesa,Sport,1,0,V,D,NORMAL,1F
+1991,1991-02-03,Fluminense,Palmeiras,4,2,V,D,NORMAL,1F
+1991,1991-02-03,Botafogo,Náutico,2,0,V,D,NORMAL,1F
+1991,1991-02-03,Red Bull Bragantino,Bahia,1,1,E,E,NORMAL,1F
+1991,1991-02-03,Athletico Paranaense,Flamengo,3,0,V,D,NORMAL,1F
+1991,1991-02-03,Cruzeiro,Internacional,0,0,E,E,NORMAL,1F
+1991,1991-02-03,Grêmio,Goiás,3,2,V,D,NORMAL,1F
+1991,1991-02-06,Flamengo,São Paulo,1,0,V,D,NORMAL,1F
+1991,1991-02-06,Red Bull Bragantino,Corinthians,2,0,V,D,NORMAL,1F
+1991,1991-02-06,Botafogo,Portuguesa,2,0,V,D,NORMAL,1F
+1991,1991-02-06,Cruzeiro,Vasco,3,0,V,D,NORMAL,1F
+1991,1991-02-06,Bahia,Atlético Mineiro,2,2,E,E,NORMAL,1F
+1991,1991-02-06,Náutico,Santos,2,0,V,D,NORMAL,1F
+1991,1991-02-06,Sport,Palmeiras,1,2,D,V,NORMAL,1F
+1991,1991-02-06,Internacional,Vitória,2,1,V,D,NORMAL,1F
+1991,1991-02-07,Fluminense,Goiás,3,2,V,D,NORMAL,1F
+1991,1991-02-07,Athletico Paranaense,Grêmio,4,2,V,D,NORMAL,1F
+1991,1991-02-16,Corinthians,Botafogo,2,1,V,D,NORMAL,1F
+1991,1991-02-16,Vasco,Red Bull Bragantino,2,2,E,E,NORMAL,1F
+1991,1991-02-17,São Paulo,Santos,1,2,D,V,NORMAL,1F
+1991,1991-02-17,Palmeiras,Portuguesa,0,2,D,V,NORMAL,1F
+1991,1991-02-17,Fluminense,Athletico Paranaense,0,2,D,V,NORMAL,1F
+1991,1991-02-17,Goiás,Flamengo,5,1,V,D,NORMAL,1F
+1991,1991-02-17,Cruzeiro,Atlético Mineiro,2,2,E,E,NORMAL,1F
+1991,1991-02-17,Bahia,Vitória,0,1,D,V,NORMAL,1F
+1991,1991-02-17,Náutico,Sport,2,0,V,D,NORMAL,1F
+1991,1991-02-17,Grêmio,Internacional,0,0,E,E,NORMAL,1F
+1991,1991-02-23,São Paulo,Fluminense,1,0,V,D,NORMAL,1F
+1991,1991-02-23,Portuguesa,Red Bull Bragantino,0,0,E,E,NORMAL,1F
+1991,1991-02-23,Bahia,Flamengo,2,1,V,D,NORMAL,1F
+1991,1991-02-24,Corinthians,Cruzeiro,1,1,E,E,NORMAL,1F
+1991,1991-02-24,Palmeiras,Náutico,2,0,V,D,NORMAL,1F
+1991,1991-02-24,Botafogo,Vitória,2,0,V,D,NORMAL,1F
+1991,1991-02-24,Atlético Mineiro,Grêmio,1,0,V,D,NORMAL,1F
+1991,1991-02-24,Internacional,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1991,1991-02-24,Goiás,Vasco,2,2,E,E,NORMAL,1F
+1991,1991-02-25,Santos,Sport,3,1,V,D,NORMAL,1F
+1991,1991-03-02,Vasco,Corinthians,0,1,D,V,NORMAL,1F
+1991,1991-03-02,Palmeiras,Goiás,2,1,V,D,NORMAL,1F
+1991,1991-03-02,São Paulo,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1991,1991-03-02,Red Bull Bragantino,Internacional,1,1,E,E,NORMAL,1F
+1991,1991-03-02,Bahia,Botafogo,0,0,E,E,NORMAL,1F
+1991,1991-03-02,Fluminense,Grêmio,2,0,V,D,NORMAL,1F
+1991,1991-03-02,Vitória,Cruzeiro,0,0,E,E,NORMAL,1F
+1991,1991-03-02,Sport,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1991,1991-03-03,Flamengo,Náutico,1,0,V,D,NORMAL,1F
+1991,1991-03-06,Botafogo,Goiás,0,0,E,E,NORMAL,1F
+1991,1991-03-06,Fluminense,Bahia,2,0,V,D,NORMAL,1F
+1991,1991-03-06,Vitória,Vasco,0,1,D,V,NORMAL,1F
+1991,1991-03-06,Corinthians,Santos,2,0,V,D,NORMAL,1F
+1991,1991-03-06,Náutico,São Paulo,2,1,V,D,NORMAL,1F
+1991,1991-03-06,Cruzeiro,Red Bull Bragantino,1,3,D,V,NORMAL,1F
+1991,1991-03-06,Sport,Internacional,1,0,V,D,NORMAL,1F
+1991,1991-03-07,Palmeiras,Flamengo,2,0,V,D,NORMAL,1F
+1991,1991-03-07,Grêmio,Portuguesa,1,1,E,E,NORMAL,1F
+1991,1991-03-07,Atlético Mineiro,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1991,1991-03-09,São Paulo,Bahia,1,0,V,D,NORMAL,1F
+1991,1991-03-09,Internacional,Corinthians,1,1,E,E,NORMAL,1F
+1991,1991-03-09,Flamengo,Santos,1,0,V,D,NORMAL,1F
+1991,1991-03-09,Vasco,Sport,1,1,E,E,NORMAL,1F
+1991,1991-03-09,Athletico Paranaense,Palmeiras,1,1,E,E,NORMAL,1F
+1991,1991-03-09,Náutico,Fluminense,0,1,D,V,NORMAL,1F
+1991,1991-03-09,Vitória,Grêmio,1,0,V,D,NORMAL,1F
+1991,1991-03-09,Cruzeiro,Portuguesa,1,1,E,E,NORMAL,1F
+1991,1991-03-11,Red Bull Bragantino,Botafogo,3,0,V,D,NORMAL,1F
+1991,1991-03-13,Goiás,Atlético Mineiro,0,1,D,V,NORMAL,1F
+1991,1991-03-14,Santos,Portuguesa,1,1,E,E,NORMAL,1F
+1991,1991-03-16,Grêmio,Flamengo,0,0,E,E,NORMAL,1F
+1991,1991-03-16,Goiás,São Paulo,1,1,E,E,NORMAL,1F
+1991,1991-03-17,Corinthians,Palmeiras,0,0,E,E,NORMAL,1F
+1991,1991-03-17,Fluminense,Red Bull Bragantino,0,0,E,E,NORMAL,1F
+1991,1991-03-17,Portuguesa,Internacional,1,0,V,D,NORMAL,1F
+1991,1991-03-17,Vasco,Bahia,1,0,V,D,NORMAL,1F
+1991,1991-03-17,Cruzeiro,Sport,5,1,V,D,NORMAL,1F
+1991,1991-03-17,Atlético Mineiro,Náutico,4,0,V,D,NORMAL,1F
+1991,1991-03-18,Santos,Vitória,2,0,V,D,NORMAL,1F
+1991,1991-03-20,Athletico Paranaense,Botafogo,2,2,E,E,NORMAL,1F
+1991,1991-03-22,Palmeiras,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1991,1991-03-22,São Paulo,Grêmio,2,0,V,D,NORMAL,1F
+1991,1991-03-23,Botafogo,Santos,0,3,D,V,NORMAL,1F
+1991,1991-03-24,Flamengo,Vasco,3,0,V,D,NORMAL,1F
+1991,1991-03-24,Internacional,Fluminense,2,1,V,D,NORMAL,1F
+1991,1991-03-24,Vitória,Portuguesa,1,1,E,E,NORMAL,1F
+1991,1991-03-24,Náutico,Cruzeiro,2,0,V,D,NORMAL,1F
+1991,1991-03-24,Sport,Red Bull Bragantino,1,0,V,D,NORMAL,1F
+1991,1991-03-24,Goiás,Bahia,1,1,E,E,NORMAL,1F
+1991,1991-03-24,Corinthians,Athletico Paranaense,1,1,E,E,NORMAL,1F
+1991,1991-03-30,Flamengo,Atlético Mineiro,1,3,D,V,NORMAL,1F
+1991,1991-03-30,Internacional,Santos,1,1,E,E,NORMAL,1F
+1991,1991-03-31,Vasco,Fluminense,1,1,E,E,NORMAL,1F
+1991,1991-03-31,Portuguesa,Corinthians,0,2,D,V,NORMAL,1F
+1991,1991-03-31,Red Bull Bragantino,São Paulo,1,2,D,V,NORMAL,1F
+1991,1991-03-31,Bahia,Athletico Paranaense,1,1,E,E,NORMAL,1F
+1991,1991-03-31,Vitória,Sport,1,1,E,E,NORMAL,1F
+1991,1991-03-31,Náutico,Goiás,2,2,E,E,NORMAL,1F
+1991,1991-04-01,Grêmio,Palmeiras,0,1,D,V,NORMAL,1F
+1991,1991-04-01,Botafogo,Cruzeiro,3,2,V,D,NORMAL,1F
+1991,1991-04-02,Sport,Corinthians,1,1,E,E,NORMAL,1F
+1991,1991-04-03,Santos,Fluminense,1,1,E,E,NORMAL,1F
+1991,1991-04-03,Portuguesa,Vasco,1,1,E,E,NORMAL,1F
+1991,1991-04-03,Internacional,Botafogo,2,0,V,D,NORMAL,1F
+1991,1991-04-03,Atlético Mineiro,Vitória,2,0,V,D,NORMAL,1F
+1991,1991-04-03,Athletico Paranaense,Náutico,3,0,V,D,NORMAL,1F
+1991,1991-04-04,São Paulo,Palmeiras,0,0,E,E,NORMAL,1F
+1991,1991-04-04,Red Bull Bragantino,Flamengo,1,1,E,E,NORMAL,1F
+1991,1991-04-04,Grêmio,Bahia,0,0,E,E,NORMAL,1F
+1991,1991-04-04,Cruzeiro,Goiás,2,1,V,D,NORMAL,1F
+1991,1991-04-04,Flamengo,Corinthians,2,3,D,V,NORMAL,1F
+1991,1991-04-05,Palmeiras,Red Bull Bragantino,0,2,D,V,NORMAL,1F
+1991,1991-04-05,Bahia,Internacional,1,1,E,E,NORMAL,1F
+1991,1991-04-05,Náutico,Vasco,0,0,E,E,NORMAL,1F
+1991,1991-04-05,Goiás,Sport,3,1,V,D,NORMAL,1F
+1991,1991-04-05,Athletico Paranaense,Vitória,3,1,V,D,NORMAL,1F
+1991,1991-04-06,Atlético Mineiro,Santos,4,1,V,D,NORMAL,1F
+1991,1991-04-06,Portuguesa,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1991,1991-04-07,Flamengo,Fluminense,2,1,V,D,NORMAL,1F
+1991,1991-04-07,Corinthians,São Paulo,1,1,E,E,NORMAL,1F
+1991,1991-04-07,Bahia,Palmeiras,1,2,D,V,NORMAL,1F
+1991,1991-04-07,Vasco,Internacional,2,2,E,E,NORMAL,1F
+1991,1991-04-07,Náutico,Grêmio,3,1,V,D,NORMAL,1F
+1991,1991-04-07,Sport,Botafogo,1,1,E,E,NORMAL,1F
+1991,1991-04-07,Vitória,Red Bull Bragantino,1,2,D,V,NORMAL,1F
+1991,1991-04-07,Goiás,Athletico Paranaense,1,0,V,D,NORMAL,1F
+1991,1991-04-08,Santos,Cruzeiro,4,0,V,D,NORMAL,1F
+1991,1991-04-13,Goiás,Corinthians,1,0,V,D,NORMAL,1F
+1991,1991-04-13,Atlético Mineiro,Fluminense,1,1,E,E,NORMAL,1F
+1991,1991-04-13,Flamengo,Internacional,1,1,E,E,NORMAL,1F
+1991,1991-04-14,Vasco,Botafogo,3,0,V,D,NORMAL,1F
+1991,1991-04-14,São Paulo,Portuguesa,1,0,V,D,NORMAL,1F
+1991,1991-04-14,Red Bull Bragantino,Santos,1,0,V,D,NORMAL,1F
+1991,1991-04-14,Grêmio,Sport,2,0,V,D,NORMAL,1F
+1991,1991-04-14,Athletico Paranaense,Cruzeiro,2,3,D,V,NORMAL,1F
+1991,1991-04-14,Palmeiras,Vitória,2,2,E,E,NORMAL,1F
+1991,1991-04-14,Bahia,Náutico,2,1,V,D,NORMAL,1F
+1991,1991-04-18,Santos,Grêmio,1,0,V,D,NORMAL,1F
+1991,1991-04-20,Corinthians,Fluminense,3,1,V,D,NORMAL,1F
+1991,1991-04-20,Vasco,São Paulo,2,2,E,E,NORMAL,1F
+1991,1991-04-21,Internacional,Atlético Mineiro,2,2,E,E,NORMAL,1F
+1991,1991-04-21,Flamengo,Portuguesa,0,0,E,E,NORMAL,1F
+1991,1991-04-21,Cruzeiro,Bahia,0,1,D,V,NORMAL,1F
+1991,1991-04-21,Red Bull Bragantino,Náutico,3,1,V,D,NORMAL,1F
+1991,1991-04-21,Vitória,Goiás,3,1,V,D,NORMAL,1F
+1991,1991-04-21,Sport,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1991,1991-04-22,Botafogo,Palmeiras,0,0,E,E,NORMAL,1F
+1991,1991-04-24,Bahia,Santos,1,0,V,D,NORMAL,1F
+1991,1991-04-27,Atlético Mineiro,Corinthians,2,0,V,D,NORMAL,1F
+1991,1991-04-27,Fluminense,Cruzeiro,2,0,V,D,NORMAL,1F
+1991,1991-04-28,Botafogo,Flamengo,0,0,E,E,NORMAL,1F
+1991,1991-04-28,São Paulo,Sport,2,0,V,D,NORMAL,1F
+1991,1991-04-28,Grêmio,Red Bull Bragantino,1,1,E,E,NORMAL,1F
+1991,1991-04-28,Athletico Paranaense,Portuguesa,1,1,E,E,NORMAL,1F
+1991,1991-04-28,Goiás,Internacional,1,0,V,D,NORMAL,1F
+1991,1991-04-28,Náutico,Vitória,1,1,E,E,NORMAL,1F
+1991,1991-04-29,Palmeiras,Vasco,2,2,E,E,NORMAL,1F
+1991,1991-05-01,Corinthians,Grêmio,2,1,V,D,NORMAL,1F
+1991,1991-05-01,Vitória,São Paulo,1,2,D,V,NORMAL,1F
+1991,1991-05-01,Red Bull Bragantino,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1991,1991-05-01,Portuguesa,Goiás,1,0,V,D,NORMAL,1F
+1991,1991-05-01,Internacional,Náutico,1,2,D,V,NORMAL,1F
+1991,1991-05-01,Sport,Bahia,1,2,D,V,NORMAL,1F
+1991,1991-05-01,Fluminense,Botafogo,,,,,IC,1F
+1991,1991-05-01,Vasco,Athletico Paranaense,3,2,V,D,NORMAL,1F
+1991,1991-05-02,Santos,Palmeiras,1,1,E,E,NORMAL,1F
+1991,1991-05-04,Portuguesa,Fluminense,1,2,D,V,NORMAL,1F
+1991,1991-05-04,São Paulo,Botafogo,1,0,V,D,NORMAL,1F
+1991,1991-05-04,Grêmio,Cruzeiro,0,0,E,E,NORMAL,1F
+1991,1991-05-08,Santos,Athletico Paranaense,3,0,V,D,NORMAL,1F
+1991,1991-05-10,Cruzeiro,Flamengo,0,2,D,V,NORMAL,1F
+1991,1991-05-11,Bahia,Corinthians,1,1,E,E,NORMAL,1F
+1991,1991-05-11,Palmeiras,Internacional,0,0,E,E,NORMAL,1F
+1991,1991-05-11,Náutico,Portuguesa,1,0,V,D,NORMAL,1F
+1991,1991-05-12,São Paulo,Cruzeiro,3,1,V,D,NORMAL,1F
+1991,1991-05-12,Fluminense,Sport,3,0,V,D,NORMAL,1F
+1991,1991-05-12,Red Bull Bragantino,Goiás,1,0,V,D,NORMAL,1F
+1991,1991-05-12,Atlético Mineiro,Botafogo,0,3,D,V,NORMAL,1F
+1991,1991-05-12,Grêmio,Vasco,3,0,V,D,NORMAL,1F
+1991,1991-05-12,Flamengo,Vitória,2,1,V,D,NORMAL,1F
+1991,1991-05-18,Internacional,São Paulo,1,0,V,D,NORMAL,1F
+1991,1991-05-19,Vasco,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1991,1991-05-19,Corinthians,Náutico,1,0,V,D,NORMAL,1F
+1991,1991-05-19,Vitória,Fluminense,1,2,D,V,NORMAL,1F
+1991,1991-05-19,Botafogo,Grêmio,3,1,V,D,NORMAL,1F
+1991,1991-05-19,Sport,Flamengo,2,1,V,D,NORMAL,1F
+1991,1991-05-19,Goiás,Santos,3,0,V,D,NORMAL,1F
+1991,1991-05-19,Portuguesa,Bahia,1,0,V,D,NORMAL,1F
+1991,1991-05-19,Cruzeiro,Palmeiras,2,0,V,D,NORMAL,1F
+1991,1991-05-19,Athletico Paranaense,Red Bull Bragantino,1,2,D,V,NORMAL,1F
+1991,1991-05-25,Atlético Mineiro,São Paulo,1,1,E,E,NORMAL,SF
+1991,1991-05-26,Fluminense,Red Bull Bragantino,0,1,D,V,NORMAL,SF
+1991,1991-06-01,São Paulo,Atlético Mineiro,0,0,E,E,NORMAL,SF
+1991,1991-06-01,Red Bull Bragantino,Fluminense,1,1,E,E,NORMAL,SF
+1991,1991-06-04,São Paulo,Red Bull Bragantino,1,0,V,D,NORMAL,F
+1991,1991-06-09,Red Bull Bragantino,São Paulo,0,0,E,E,NORMAL,F

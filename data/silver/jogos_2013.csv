@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2013,2013-05-25,Vasco,Portuguesa,1,0,V,D,NORMAL,R1
+2013,2013-05-25,Vitória,Internacional,2,2,E,E,NORMAL,R1
+2013,2013-05-25,Corinthians,Botafogo,1,1,E,E,NORMAL,R1
+2013,2013-05-26,Grêmio,Náutico,2,0,V,D,NORMAL,R1
+2013,2013-05-26,Ponte Preta,São Paulo,0,2,D,V,NORMAL,R1
+2013,2013-05-26,Criciúma,Bahia,3,1,V,D,NORMAL,R1
+2013,2013-05-26,Santos,Flamengo,0,0,E,E,NORMAL,R1
+2013,2013-05-26,Fluminense,Athletico Paranaense,2,1,V,D,NORMAL,R1
+2013,2013-05-26,Cruzeiro,Goiás,5,0,V,D,NORMAL,R1
+2013,2013-05-26,Coritiba,Atlético Mineiro,2,1,V,D,NORMAL,R1
+2013,2013-05-29,Athletico Paranaense,Cruzeiro,2,2,E,E,NORMAL,R2
+2013,2013-05-29,Botafogo,Santos,2,1,V,D,NORMAL,R2
+2013,2013-05-29,São Paulo,Vasco,5,1,V,D,NORMAL,R2
+2013,2013-05-29,Flamengo,Ponte Preta,0,2,D,V,NORMAL,R2
+2013,2013-05-29,Bahia,Coritiba,0,0,E,E,NORMAL,R2
+2013,2013-05-29,Náutico,Vitória,0,3,D,V,NORMAL,R2
+2013,2013-05-29,Goiás,Corinthians,1,1,E,E,NORMAL,R2
+2013,2013-05-30,Internacional,Criciúma,2,0,V,D,NORMAL,R2
+2013,2013-06-01,Botafogo,Cruzeiro,2,1,V,D,NORMAL,R3
+2013,2013-06-01,Athletico Paranaense,Flamengo,2,2,E,E,NORMAL,R3
+2013,2013-06-01,Santos,Grêmio,1,1,E,E,NORMAL,R3
+2013,2013-06-01,Vitória,Vasco,2,0,V,D,NORMAL,R3
+2013,2013-06-01,Goiás,Coritiba,1,1,E,E,NORMAL,R3
+2013,2013-06-01,Corinthians,Ponte Preta,1,0,V,D,NORMAL,R3
+2013,2013-06-02,Fluminense,Criciúma,3,0,V,D,NORMAL,R3
+2013,2013-06-02,Internacional,Bahia,1,2,D,V,NORMAL,R3
+2013,2013-06-02,Náutico,Portuguesa,2,2,E,E,NORMAL,R3
+2013,2013-06-02,Atlético Mineiro,São Paulo,0,0,E,E,NORMAL,R3
+2013,2013-06-05,São Paulo,Goiás,0,1,D,V,NORMAL,R4
+2013,2013-06-05,Criciúma,Santos,3,1,V,D,NORMAL,R4
+2013,2013-06-05,Portuguesa,Internacional,1,1,E,E,NORMAL,R4
+2013,2013-06-05,Vasco,Atlético Mineiro,2,0,V,D,NORMAL,R4
+2013,2013-06-05,Grêmio,Vitória,1,0,V,D,NORMAL,R4
+2013,2013-06-05,Ponte Preta,Athletico Paranaense,3,4,D,V,NORMAL,R4
+2013,2013-06-05,Flamengo,Náutico,0,1,D,V,NORMAL,R4
+2013,2013-06-05,Bahia,Botafogo,2,1,V,D,NORMAL,R4
+2013,2013-06-05,Cruzeiro,Corinthians,1,0,V,D,NORMAL,R4
+2013,2013-06-06,Coritiba,Fluminense,2,1,V,D,NORMAL,R4
+2013,2013-06-08,Criciúma,Flamengo,0,3,D,V,NORMAL,R5
+2013,2013-06-08,Cruzeiro,Internacional,2,2,E,E,NORMAL,R5
+2013,2013-06-08,Vasco,Bahia,1,1,E,E,NORMAL,R5
+2013,2013-06-08,Corinthians,Portuguesa,0,0,E,E,NORMAL,R5
+2013,2013-06-08,Ponte Preta,Botafogo,0,2,D,V,NORMAL,R5
+2013,2013-06-09,Atlético Mineiro,Grêmio,2,0,V,D,NORMAL,R2
+2013,2013-06-09,Fluminense,Goiás,2,1,V,D,NORMAL,R5
+2013,2013-06-09,Vitória,Athletico Paranaense,3,2,V,D,NORMAL,R5
+2013,2013-06-09,Coritiba,Náutico,1,0,V,D,NORMAL,R5
+2013,2013-06-12,Santos,Atlético Mineiro,1,0,V,D,NORMAL,R5
+2013,2013-06-12,Portuguesa,Fluminense,2,1,V,D,NORMAL,R2
+2013,2013-06-12,Grêmio,São Paulo,1,1,E,E,NORMAL,R5
+2013,2013-07-06,Flamengo,Coritiba,2,2,E,E,NORMAL,R6
+2013,2013-07-06,Náutico,Ponte Preta,1,3,D,V,NORMAL,R6
+2013,2013-07-06,Athletico Paranaense,Grêmio,1,1,E,E,NORMAL,R6
+2013,2013-07-06,Portuguesa,Cruzeiro,1,1,E,E,NORMAL,R6
+2013,2013-07-07,São Paulo,Santos,0,2,D,V,NORMAL,R6
+2013,2013-07-07,Bahia,Corinthians,0,2,D,V,NORMAL,R6
+2013,2013-07-07,Internacional,Vasco,5,3,V,D,NORMAL,R6
+2013,2013-07-07,Goiás,Vitória,1,0,V,D,NORMAL,R6
+2013,2013-07-07,Botafogo,Fluminense,1,0,V,D,NORMAL,R6
+2013,2013-07-07,Atlético Mineiro,Criciúma,3,2,V,D,NORMAL,R6
+2013,2013-07-10,São Paulo,Bahia,1,2,D,V,NORMAL,R11
+2013,2013-07-13,Fluminense,Internacional,2,3,D,V,NORMAL,R7
+2013,2013-07-13,Santos,Portuguesa,4,1,V,D,NORMAL,R7
+2013,2013-07-13,Ponte Preta,Bahia,0,0,E,E,NORMAL,R7
+2013,2013-07-14,Corinthians,Atlético Mineiro,0,1,D,V,NORMAL,R7
+2013,2013-07-14,Vitória,São Paulo,3,2,V,D,NORMAL,R7
+2013,2013-07-14,Grêmio,Botafogo,2,1,V,D,NORMAL,R7
+2013,2013-07-14,Coritiba,Athletico Paranaense,1,0,V,D,NORMAL,R7
+2013,2013-07-14,Vasco,Flamengo,0,1,D,V,NORMAL,R7
+2013,2013-07-14,Criciúma,Goiás,0,0,E,E,NORMAL,R7
+2013,2013-07-14,Cruzeiro,Náutico,3,0,V,D,NORMAL,R7
+2013,2013-07-20,São Paulo,Cruzeiro,0,3,D,V,NORMAL,R8
+2013,2013-07-20,Criciúma,Grêmio,2,1,V,D,NORMAL,R8
+2013,2013-07-20,Botafogo,Náutico,2,0,V,D,NORMAL,R8
+2013,2013-07-21,Vitória,Bahia,0,0,E,E,NORMAL,R8
+2013,2013-07-21,Internacional,Flamengo,1,0,V,D,NORMAL,R8
+2013,2013-07-21,Athletico Paranaense,Corinthians,1,1,E,E,NORMAL,R8
+2013,2013-07-21,Santos,Coritiba,2,2,E,E,NORMAL,R8
+2013,2013-07-21,Fluminense,Vasco,1,3,D,V,NORMAL,R8
+2013,2013-07-21,Goiás,Portuguesa,2,1,V,D,NORMAL,R8
+2013,2013-07-24,São Paulo,Internacional,0,1,D,V,NORMAL,R12
+2013,2013-07-27,Vasco,Criciúma,3,2,V,D,NORMAL,R9
+2013,2013-07-27,Portuguesa,Athletico Paranaense,2,3,D,V,NORMAL,R9
+2013,2013-07-27,Ponte Preta,Santos,1,0,V,D,NORMAL,R9
+2013,2013-07-28,Corinthians,São Paulo,0,0,E,E,NORMAL,R9
+2013,2013-07-28,Grêmio,Fluminense,2,0,V,D,NORMAL,R9
+2013,2013-07-28,Náutico,Internacional,3,0,V,D,NORMAL,R9
+2013,2013-07-28,Cruzeiro,Atlético Mineiro,4,1,V,D,NORMAL,R9
+2013,2013-07-28,Flamengo,Botafogo,1,1,E,E,NORMAL,R9
+2013,2013-07-28,Bahia,Goiás,2,1,V,D,NORMAL,R9
+2013,2013-07-28,Coritiba,Vitória,1,1,E,E,NORMAL,R9
+2013,2013-07-31,Fluminense,Cruzeiro,1,0,V,D,NORMAL,R10
+2013,2013-07-31,Atlético Mineiro,Athletico Paranaense,1,2,D,V,NORMAL,R10
+2013,2013-07-31,Portuguesa,Criciúma,1,1,E,E,NORMAL,R10
+2013,2013-07-31,Coritiba,Ponte Preta,5,3,V,D,NORMAL,R10
+2013,2013-07-31,Corinthians,Grêmio,2,0,V,D,NORMAL,R10
+2013,2013-07-31,Bahia,Flamengo,3,0,V,D,NORMAL,R10
+2013,2013-08-01,Botafogo,Vitória,2,0,V,D,NORMAL,R10
+2013,2013-08-01,Goiás,Vasco,1,1,E,E,NORMAL,R10
+2013,2013-08-03,Cruzeiro,Coritiba,1,0,V,D,NORMAL,R11
+2013,2013-08-04,Flamengo,Atlético Mineiro,3,0,V,D,NORMAL,R11
+2013,2013-08-04,Grêmio,Internacional,1,1,E,E,NORMAL,R11
+2013,2013-08-04,Ponte Preta,Fluminense,1,1,E,E,NORMAL,R11
+2013,2013-08-04,Criciúma,Corinthians,0,2,D,V,NORMAL,R11
+2013,2013-08-04,Athletico Paranaense,Goiás,2,0,V,D,NORMAL,R11
+2013,2013-08-04,Vasco,Botafogo,2,3,D,V,NORMAL,R11
+2013,2013-08-04,Vitória,Portuguesa,2,1,V,D,NORMAL,R11
+2013,2013-08-07,Vitória,Fluminense,1,1,E,E,NORMAL,R12
+2013,2013-08-07,Criciúma,Cruzeiro,1,2,D,V,NORMAL,R12
+2013,2013-08-07,Flamengo,Portuguesa,1,1,E,E,NORMAL,R12
+2013,2013-08-07,Athletico Paranaense,Bahia,1,0,V,D,NORMAL,R12
+2013,2013-08-07,Goiás,Náutico,2,1,V,D,NORMAL,R12
+2013,2013-08-07,Atlético Mineiro,Botafogo,2,2,E,E,NORMAL,R12
+2013,2013-08-07,Santos,Corinthians,1,1,E,E,NORMAL,R12
+2013,2013-08-08,Vasco,Ponte Preta,1,1,E,E,NORMAL,R12
+2013,2013-08-08,Grêmio,Coritiba,0,1,D,V,NORMAL,R12
+2013,2013-08-10,Botafogo,Goiás,1,1,E,E,NORMAL,R13
+2013,2013-08-10,Náutico,Atlético Mineiro,0,0,E,E,NORMAL,R13
+2013,2013-08-11,Fluminense,Flamengo,2,3,D,V,NORMAL,R13
+2013,2013-08-11,Corinthians,Vitória,2,0,V,D,NORMAL,R13
+2013,2013-08-11,Cruzeiro,Santos,0,0,E,E,NORMAL,R13
+2013,2013-08-11,Coritiba,Vasco,0,1,D,V,NORMAL,R13
+2013,2013-08-11,Bahia,Grêmio,0,3,D,V,NORMAL,R13
+2013,2013-08-11,Internacional,Athletico Paranaense,2,2,E,E,NORMAL,R13
+2013,2013-08-11,Ponte Preta,Criciúma,3,1,V,D,NORMAL,R13
+2013,2013-08-11,Portuguesa,São Paulo,2,1,V,D,NORMAL,R13
+2013,2013-08-14,Criciúma,Náutico,3,0,V,D,NORMAL,R14
+2013,2013-08-14,Atlético Mineiro,Bahia,2,0,V,D,NORMAL,R14
+2013,2013-08-14,Santos,Vasco,1,1,E,E,NORMAL,R14
+2013,2013-08-14,Vitória,Ponte Preta,3,1,V,D,NORMAL,R14
+2013,2013-08-14,Coritiba,Portuguesa,1,1,E,E,NORMAL,R14
+2013,2013-08-14,Fluminense,Corinthians,0,0,E,E,NORMAL,R14
+2013,2013-08-14,Grêmio,Cruzeiro,3,1,V,D,NORMAL,R14
+2013,2013-08-14,Goiás,Flamengo,1,1,E,E,NORMAL,R14
+2013,2013-08-15,São Paulo,Athletico Paranaense,1,1,E,E,NORMAL,R14
+2013,2013-08-15,Botafogo,Internacional,3,3,E,E,NORMAL,R14
+2013,2013-08-17,Náutico,Fluminense,0,1,D,V,NORMAL,R15
+2013,2013-08-17,Cruzeiro,Vitória,5,1,V,D,NORMAL,R15
+2013,2013-08-17,Vasco,Grêmio,2,3,D,V,NORMAL,R15
+2013,2013-08-18,Flamengo,São Paulo,0,0,E,E,NORMAL,R15
+2013,2013-08-18,Corinthians,Coritiba,1,0,V,D,NORMAL,R15
+2013,2013-08-18,Ponte Preta,Goiás,0,1,D,V,NORMAL,R15
+2013,2013-08-18,Portuguesa,Botafogo,1,3,D,V,NORMAL,R15
+2013,2013-08-18,Bahia,Santos,0,0,E,E,NORMAL,R15
+2013,2013-08-18,Internacional,Atlético Mineiro,0,0,E,E,NORMAL,R15
+2013,2013-08-18,Athletico Paranaense,Criciúma,2,1,V,D,NORMAL,R15
+2013,2013-08-24,Flamengo,Grêmio,0,1,D,V,NORMAL,R16
+2013,2013-08-24,Ponte Preta,Cruzeiro,0,2,D,V,NORMAL,R16
+2013,2013-08-24,Santos,Vitória,2,0,V,D,NORMAL,R16
+2013,2013-08-24,Criciúma,Coritiba,2,1,V,D,NORMAL,R16
+2013,2013-08-25,Vasco,Corinthians,1,1,E,E,NORMAL,R16
+2013,2013-08-25,São Paulo,Fluminense,2,1,V,D,NORMAL,R16
+2013,2013-08-25,Bahia,Náutico,2,0,V,D,NORMAL,R16
+2013,2013-08-25,Atlético Mineiro,Portuguesa,2,1,V,D,NORMAL,R16
+2013,2013-08-25,Internacional,Goiás,3,3,E,E,NORMAL,R16
+2013,2013-08-25,Athletico Paranaense,Botafogo,2,0,V,D,NORMAL,R16
+2013,2013-08-31,Grêmio,Ponte Preta,1,0,V,D,NORMAL,R17
+2013,2013-08-31,Goiás,Atlético Mineiro,0,0,E,E,NORMAL,R17
+2013,2013-08-31,Náutico,Athletico Paranaense,1,4,D,V,NORMAL,R17
+2013,2013-08-31,Portuguesa,Bahia,4,2,V,D,NORMAL,R17
+2013,2013-08-31,Fluminense,Santos,0,2,D,V,NORMAL,R17
+2013,2013-09-01,Botafogo,São Paulo,0,0,E,E,NORMAL,R17
+2013,2013-09-01,Corinthians,Flamengo,4,0,V,D,NORMAL,R17
+2013,2013-09-01,Vitória,Criciúma,0,1,D,V,NORMAL,R17
+2013,2013-09-01,Coritiba,Internacional,0,0,E,E,NORMAL,R17
+2013,2013-09-01,Cruzeiro,Vasco,5,3,V,D,NORMAL,R17
+2013,2013-09-03,Goiás,Grêmio,2,0,V,D,NORMAL,R18
+2013,2013-09-03,Náutico,São Paulo,0,1,D,V,NORMAL,R10
+2013,2013-09-04,Flamengo,Vitória,2,1,V,D,NORMAL,R18
+2013,2013-09-04,Athletico Paranaense,Santos,2,1,V,D,NORMAL,R18
+2013,2013-09-04,Portuguesa,Ponte Preta,2,1,V,D,NORMAL,R18
+2013,2013-09-04,Bahia,Cruzeiro,1,3,D,V,NORMAL,R18
+2013,2013-09-04,Internacional,Corinthians,1,0,V,D,NORMAL,R18
+2013,2013-09-04,Atlético Mineiro,Fluminense,2,2,E,E,NORMAL,R18
+2013,2013-09-05,Botafogo,Coritiba,3,1,V,D,NORMAL,R18
+2013,2013-09-05,São Paulo,Criciúma,1,2,D,V,NORMAL,R18
+2013,2013-09-05,Náutico,Vasco,0,3,D,V,NORMAL,R18
+2013,2013-09-07,Fluminense,Bahia,1,0,V,D,NORMAL,R19
+2013,2013-09-07,Vitória,Atlético Mineiro,1,1,E,E,NORMAL,R19
+2013,2013-09-07,Ponte Preta,Internacional,1,3,D,V,NORMAL,R19
+2013,2013-09-07,Santos,Goiás,1,0,V,D,NORMAL,R19
+2013,2013-09-07,Grêmio,Portuguesa,3,2,V,D,NORMAL,R19
+2013,2013-09-08,Corinthians,Náutico,0,0,E,E,NORMAL,R19
+2013,2013-09-08,Cruzeiro,Flamengo,1,0,V,D,NORMAL,R19
+2013,2013-09-08,Coritiba,São Paulo,2,0,V,D,NORMAL,R19
+2013,2013-09-08,Vasco,Athletico Paranaense,0,0,E,E,NORMAL,R19
+2013,2013-09-08,Criciúma,Botafogo,1,2,D,V,NORMAL,R19
+2013,2013-09-10,Internacional,Santos,1,2,D,V,NORMAL,R10
+2013,2013-09-11,Athletico Paranaense,Fluminense,1,1,E,E,NORMAL,R20
+2013,2013-09-11,Bahia,Criciúma,2,2,E,E,NORMAL,R20
+2013,2013-09-11,Goiás,Cruzeiro,1,2,D,V,NORMAL,R20
+2013,2013-09-11,Portuguesa,Vasco,2,0,V,D,NORMAL,R20
+2013,2013-09-11,Botafogo,Corinthians,1,0,V,D,NORMAL,R20
+2013,2013-09-11,Náutico,Grêmio,0,2,D,V,NORMAL,R20
+2013,2013-09-12,Internacional,Vitória,2,2,E,E,NORMAL,R20
+2013,2013-09-12,São Paulo,Ponte Preta,1,0,V,D,NORMAL,R20
+2013,2013-09-12,Atlético Mineiro,Coritiba,3,0,V,D,NORMAL,R20
+2013,2013-09-12,Flamengo,Santos,2,1,V,D,NORMAL,R20
+2013,2013-09-14,Cruzeiro,Athletico Paranaense,1,0,V,D,NORMAL,R21
+2013,2013-09-14,Fluminense,Portuguesa,2,1,V,D,NORMAL,R21
+2013,2013-09-15,Ponte Preta,Flamengo,1,1,E,E,NORMAL,R21
+2013,2013-09-15,Vasco,São Paulo,0,2,D,V,NORMAL,R21
+2013,2013-09-15,Coritiba,Bahia,2,2,E,E,NORMAL,R21
+2013,2013-09-15,Criciúma,Internacional,0,1,D,V,NORMAL,R21
+2013,2013-09-15,Corinthians,Goiás,1,2,D,V,NORMAL,R21
+2013,2013-09-15,Santos,Botafogo,1,2,D,V,NORMAL,R21
+2013,2013-09-15,Vitória,Náutico,2,1,V,D,NORMAL,R21
+2013,2013-09-15,Grêmio,Atlético Mineiro,0,1,D,V,NORMAL,R21
+2013,2013-09-18,Vasco,Vitória,1,2,D,V,NORMAL,R22
+2013,2013-09-18,Grêmio,Santos,1,1,E,E,NORMAL,R22
+2013,2013-09-18,Criciúma,Fluminense,1,2,D,V,NORMAL,R22
+2013,2013-09-18,Coritiba,Goiás,2,2,E,E,NORMAL,R22
+2013,2013-09-18,Cruzeiro,Botafogo,3,0,V,D,NORMAL,R22
+2013,2013-09-18,Ponte Preta,Corinthians,2,0,V,D,NORMAL,R22
+2013,2013-09-18,São Paulo,Atlético Mineiro,1,0,V,D,NORMAL,R22
+2013,2013-09-19,Flamengo,Athletico Paranaense,2,4,D,V,NORMAL,R22
+2013,2013-09-19,Bahia,Internacional,2,0,V,D,NORMAL,R22
+2013,2013-09-19,Portuguesa,Náutico,3,0,V,D,NORMAL,R22
+2013,2013-09-21,Fluminense,Coritiba,1,1,E,E,NORMAL,R23
+2013,2013-09-21,Vitória,Grêmio,0,0,E,E,NORMAL,R23
+2013,2013-09-22,Náutico,Flamengo,0,0,E,E,NORMAL,R23
+2013,2013-09-22,Goiás,São Paulo,1,0,V,D,NORMAL,R23
+2013,2013-09-22,Botafogo,Bahia,1,2,D,V,NORMAL,R23
+2013,2013-09-22,Corinthians,Cruzeiro,0,0,E,E,NORMAL,R23
+2013,2013-09-22,Internacional,Portuguesa,0,1,D,V,NORMAL,R23
+2013,2013-09-22,Atlético Mineiro,Vasco,2,1,V,D,NORMAL,R23
+2013,2013-09-22,Athletico Paranaense,Ponte Preta,1,0,V,D,NORMAL,R23
+2013,2013-09-22,Santos,Criciúma,2,1,V,D,NORMAL,R23
+2013,2013-09-25,Criciúma,Atlético Mineiro,1,1,E,E,NORMAL,R25
+2013,2013-09-25,Santos,Náutico,1,1,E,E,NORMAL,R11
+2013,2013-09-28,Goiás,Fluminense,1,2,D,V,NORMAL,R24
+2013,2013-09-28,Náutico,Coritiba,3,0,V,D,NORMAL,R24
+2013,2013-09-28,Botafogo,Ponte Preta,0,1,D,V,NORMAL,R24
+2013,2013-09-29,Bahia,Vasco,0,0,E,E,NORMAL,R24
+2013,2013-09-29,Portuguesa,Corinthians,4,0,V,D,NORMAL,R24
+2013,2013-09-29,São Paulo,Grêmio,0,1,D,V,NORMAL,R24
+2013,2013-09-29,Flamengo,Criciúma,4,1,V,D,NORMAL,R24
+2013,2013-09-29,Athletico Paranaense,Vitória,3,5,D,V,NORMAL,R24
+2013,2013-09-29,Internacional,Cruzeiro,1,2,D,V,NORMAL,R24
+2013,2013-09-29,Atlético Mineiro,Santos,3,1,V,D,NORMAL,R24
+2013,2013-10-01,Ponte Preta,Náutico,1,2,D,V,NORMAL,R25
+2013,2013-10-02,Grêmio,Athletico Paranaense,1,0,V,D,NORMAL,R25
+2013,2013-10-02,Cruzeiro,Portuguesa,4,0,V,D,NORMAL,R25
+2013,2013-10-02,Fluminense,Botafogo,1,1,E,E,NORMAL,R25
+2013,2013-10-02,Vitória,Goiás,2,1,V,D,NORMAL,R25
+2013,2013-10-02,Coritiba,Flamengo,0,2,D,V,NORMAL,R25
+2013,2013-10-02,Santos,São Paulo,3,0,V,D,NORMAL,R25
+2013,2013-10-02,Corinthians,Bahia,2,0,V,D,NORMAL,R25
+2013,2013-10-03,Atlético Mineiro,Ponte Preta,4,0,V,D,NORMAL,R8
+2013,2013-10-03,Vasco,Internacional,3,1,V,D,NORMAL,R25
+2013,2013-10-05,Botafogo,Grêmio,0,1,D,V,NORMAL,R26
+2013,2013-10-05,São Paulo,Vitória,3,2,V,D,NORMAL,R26
+2013,2013-10-06,Flamengo,Vasco,1,1,E,E,NORMAL,R26
+2013,2013-10-06,Internacional,Fluminense,1,0,V,D,NORMAL,R26
+2013,2013-10-06,Atlético Mineiro,Corinthians,0,0,E,E,NORMAL,R26
+2013,2013-10-06,Náutico,Cruzeiro,1,4,D,V,NORMAL,R26
+2013,2013-10-06,Athletico Paranaense,Coritiba,2,1,V,D,NORMAL,R26
+2013,2013-10-06,Bahia,Ponte Preta,1,1,E,E,NORMAL,R26
+2013,2013-10-06,Goiás,Criciúma,1,1,E,E,NORMAL,R26
+2013,2013-10-06,Portuguesa,Santos,3,0,V,D,NORMAL,R26
+2013,2013-10-09,Grêmio,Criciúma,1,2,D,V,NORMAL,R27
+2013,2013-10-09,Coritiba,Santos,1,0,V,D,NORMAL,R27
+2013,2013-10-09,Bahia,Vitória,2,0,V,D,NORMAL,R27
+2013,2013-10-09,Ponte Preta,Atlético Mineiro,2,0,V,D,NORMAL,R27
+2013,2013-10-09,Náutico,Botafogo,1,3,D,V,NORMAL,R27
+2013,2013-10-09,Vasco,Fluminense,1,0,V,D,NORMAL,R27
+2013,2013-10-09,Cruzeiro,São Paulo,0,2,D,V,NORMAL,R27
+2013,2013-10-09,Corinthians,Athletico Paranaense,0,0,E,E,NORMAL,R27
+2013,2013-10-10,Portuguesa,Goiás,1,2,D,V,NORMAL,R27
+2013,2013-10-10,Flamengo,Internacional,2,1,V,D,NORMAL,R27
+2013,2013-10-12,Fluminense,Grêmio,1,1,E,E,NORMAL,R28
+2013,2013-10-12,Vitória,Coritiba,2,1,V,D,NORMAL,R28
+2013,2013-10-12,Santos,Ponte Preta,2,1,V,D,NORMAL,R28
+2013,2013-10-13,Criciúma,Vasco,3,2,V,D,NORMAL,R28
+2013,2013-10-13,São Paulo,Corinthians,0,0,E,E,NORMAL,R28
+2013,2013-10-13,Internacional,Náutico,4,1,V,D,NORMAL,R28
+2013,2013-10-13,Atlético Mineiro,Cruzeiro,1,0,V,D,NORMAL,R28
+2013,2013-10-13,Botafogo,Flamengo,2,1,V,D,NORMAL,R28
+2013,2013-10-13,Goiás,Bahia,3,1,V,D,NORMAL,R28
+2013,2013-10-13,Athletico Paranaense,Portuguesa,1,0,V,D,NORMAL,R28
+2013,2013-10-16,Cruzeiro,Fluminense,1,0,V,D,NORMAL,R29
+2013,2013-10-16,Santos,Internacional,0,0,E,E,NORMAL,R29
+2013,2013-10-16,São Paulo,Náutico,3,0,V,D,NORMAL,R29
+2013,2013-10-16,Ponte Preta,Coritiba,1,0,V,D,NORMAL,R29
+2013,2013-10-16,Criciúma,Portuguesa,1,3,D,V,NORMAL,R29
+2013,2013-10-16,Grêmio,Corinthians,1,0,V,D,NORMAL,R29
+2013,2013-10-16,Flamengo,Bahia,2,1,V,D,NORMAL,R29
+2013,2013-10-16,Athletico Paranaense,Atlético Mineiro,1,0,V,D,NORMAL,R29
+2013,2013-10-17,Vasco,Goiás,0,2,D,V,NORMAL,R29
+2013,2013-10-17,Vitória,Botafogo,1,0,V,D,NORMAL,R29
+2013,2013-10-19,Fluminense,Ponte Preta,1,1,E,E,NORMAL,R30
+2013,2013-10-19,Náutico,Santos,1,5,D,V,NORMAL,R30
+2013,2013-10-19,Corinthians,Criciúma,1,0,V,D,NORMAL,R30
+2013,2013-10-20,Atlético Mineiro,Flamengo,1,0,V,D,NORMAL,R30
+2013,2013-10-20,Bahia,São Paulo,0,1,D,V,NORMAL,R30
+2013,2013-10-20,Internacional,Grêmio,2,2,E,E,NORMAL,R30
+2013,2013-10-20,Goiás,Athletico Paranaense,3,0,V,D,NORMAL,R30
+2013,2013-10-20,Botafogo,Vasco,2,2,E,E,NORMAL,R30
+2013,2013-10-20,Portuguesa,Vitória,1,1,E,E,NORMAL,R30
+2013,2013-10-20,Coritiba,Cruzeiro,2,1,V,D,NORMAL,R30
+2013,2013-10-26,Cruzeiro,Criciúma,5,3,V,D,NORMAL,R31
+2013,2013-10-26,Botafogo,Atlético Mineiro,1,0,V,D,NORMAL,R31
+2013,2013-10-27,Ponte Preta,Vasco,2,1,V,D,NORMAL,R31
+2013,2013-10-27,Portuguesa,Flamengo,0,0,E,E,NORMAL,R31
+2013,2013-10-27,Internacional,São Paulo,2,3,D,V,NORMAL,R31
+2013,2013-10-27,Bahia,Athletico Paranaense,1,1,E,E,NORMAL,R31
+2013,2013-10-27,Corinthians,Santos,1,1,E,E,NORMAL,R31
+2013,2013-10-27,Fluminense,Vitória,2,3,D,V,NORMAL,R31
+2013,2013-10-27,Coritiba,Grêmio,4,0,V,D,NORMAL,R31
+2013,2013-10-27,Náutico,Goiás,0,2,D,V,NORMAL,R31
+2013,2013-11-02,Vasco,Coritiba,2,1,V,D,NORMAL,R32
+2013,2013-11-02,São Paulo,Portuguesa,2,1,V,D,NORMAL,R32
+2013,2013-11-02,Atlético Mineiro,Náutico,5,0,V,D,NORMAL,R32
+2013,2013-11-03,Goiás,Botafogo,1,0,V,D,NORMAL,R32
+2013,2013-11-03,Vitória,Corinthians,1,1,E,E,NORMAL,R32
+2013,2013-11-03,Grêmio,Bahia,0,0,E,E,NORMAL,R32
+2013,2013-11-03,Santos,Cruzeiro,0,1,D,V,NORMAL,R32
+2013,2013-11-03,Flamengo,Fluminense,1,0,V,D,NORMAL,R32
+2013,2013-11-03,Athletico Paranaense,Internacional,1,0,V,D,NORMAL,R32
+2013,2013-11-03,Criciúma,Ponte Preta,1,1,E,E,NORMAL,R32
+2013,2013-11-09,Bahia,Atlético Mineiro,0,0,E,E,NORMAL,R33
+2013,2013-11-09,Portuguesa,Coritiba,0,0,E,E,NORMAL,R33
+2013,2013-11-09,Flamengo,Goiás,1,1,E,E,NORMAL,R33
+2013,2013-11-10,Internacional,Botafogo,2,1,V,D,NORMAL,R33
+2013,2013-11-10,Athletico Paranaense,São Paulo,3,0,V,D,NORMAL,R33
+2013,2013-11-10,Ponte Preta,Vitória,0,3,D,V,NORMAL,R33
+2013,2013-11-10,Cruzeiro,Grêmio,3,0,V,D,NORMAL,R33
+2013,2013-11-10,Corinthians,Fluminense,1,0,V,D,NORMAL,R33
+2013,2013-11-10,Náutico,Criciúma,0,1,D,V,NORMAL,R33
+2013,2013-11-10,Vasco,Santos,2,2,E,E,NORMAL,R33
+2013,2013-11-13,Grêmio,Vasco,1,0,V,D,NORMAL,R34
+2013,2013-11-13,Goiás,Ponte Preta,2,0,V,D,NORMAL,R34
+2013,2013-11-13,Criciúma,Athletico Paranaense,2,1,V,D,NORMAL,R34
+2013,2013-11-13,Botafogo,Portuguesa,0,0,E,E,NORMAL,R34
+2013,2013-11-13,São Paulo,Flamengo,2,0,V,D,NORMAL,R34
+2013,2013-11-13,Coritiba,Corinthians,0,1,D,V,NORMAL,R34
+2013,2013-11-13,Vitória,Cruzeiro,1,3,D,V,NORMAL,R34
+2013,2013-11-14,Santos,Bahia,3,0,V,D,NORMAL,R34
+2013,2013-11-14,Atlético Mineiro,Internacional,2,1,V,D,NORMAL,R34
+2013,2013-11-14,Fluminense,Náutico,2,0,V,D,NORMAL,R34
+2013,2013-11-16,Botafogo,Athletico Paranaense,4,0,V,D,NORMAL,R35
+2013,2013-11-16,Coritiba,Criciúma,1,2,D,V,NORMAL,R35
+2013,2013-11-17,Corinthians,Vasco,0,0,E,E,NORMAL,R35
+2013,2013-11-17,Fluminense,São Paulo,2,1,V,D,NORMAL,R35
+2013,2013-11-17,Cruzeiro,Ponte Preta,2,2,E,E,NORMAL,R35
+2013,2013-11-17,Vitória,Santos,2,0,V,D,NORMAL,R35
+2013,2013-11-17,Grêmio,Flamengo,2,1,V,D,NORMAL,R35
+2013,2013-11-17,Náutico,Bahia,0,1,D,V,NORMAL,R35
+2013,2013-11-17,Goiás,Internacional,3,1,V,D,NORMAL,R35
+2013,2013-11-17,Portuguesa,Atlético Mineiro,2,0,V,D,NORMAL,R35
+2013,2013-11-23,Criciúma,Vitória,1,1,E,E,NORMAL,R36
+2013,2013-11-23,Vasco,Cruzeiro,2,1,V,D,NORMAL,R36
+2013,2013-11-23,Atlético Mineiro,Goiás,4,1,V,D,NORMAL,R36
+2013,2013-11-24,Santos,Fluminense,1,0,V,D,NORMAL,R36
+2013,2013-11-24,Flamengo,Corinthians,1,0,V,D,NORMAL,R36
+2013,2013-11-24,Ponte Preta,Grêmio,1,1,E,E,NORMAL,R36
+2013,2013-11-24,Athletico Paranaense,Náutico,6,1,V,D,NORMAL,R36
+2013,2013-11-24,São Paulo,Botafogo,1,1,E,E,NORMAL,R36
+2013,2013-11-24,Internacional,Coritiba,0,0,E,E,NORMAL,R36
+2013,2013-11-24,Bahia,Portuguesa,1,0,V,D,NORMAL,R36
+2013,2013-11-30,Fluminense,Atlético Mineiro,2,2,E,E,NORMAL,R37
+2013,2013-11-30,Corinthians,Internacional,0,0,E,E,NORMAL,R37
+2013,2013-12-01,Coritiba,Botafogo,2,1,V,D,NORMAL,R37
+2013,2013-12-01,Vitória,Flamengo,4,2,V,D,NORMAL,R37
+2013,2013-12-01,Criciúma,São Paulo,1,0,V,D,NORMAL,R37
+2013,2013-12-01,Cruzeiro,Bahia,1,2,D,V,NORMAL,R37
+2013,2013-12-01,Vasco,Náutico,2,0,V,D,NORMAL,R37
+2013,2013-12-01,Ponte Preta,Portuguesa,0,2,D,V,NORMAL,R37
+2013,2013-12-01,Grêmio,Goiás,1,0,V,D,NORMAL,R37
+2013,2013-12-01,Santos,Athletico Paranaense,2,1,V,D,NORMAL,R37
+2013,2013-12-07,Flamengo,Cruzeiro,1,1,E,E,NORMAL,R38
+2013,2013-12-07,Náutico,Corinthians,1,0,V,D,NORMAL,R38
+2013,2013-12-08,Athletico Paranaense,Vasco,5,1,V,D,NORMAL,R38
+2013,2013-12-08,Bahia,Fluminense,1,2,D,V,NORMAL,R38
+2013,2013-12-08,Atlético Mineiro,Vitória,2,2,E,E,NORMAL,R38
+2013,2013-12-08,Portuguesa,Grêmio,0,0,E,E,NORMAL,R38
+2013,2013-12-08,Internacional,Ponte Preta,0,0,E,E,NORMAL,R38
+2013,2013-12-08,Botafogo,Criciúma,3,0,V,D,NORMAL,R38
+2013,2013-12-08,São Paulo,Coritiba,0,1,D,V,NORMAL,R38
+2013,2013-12-08,Goiás,Santos,0,3,D,V,NORMAL,R38

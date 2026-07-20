@@ -1,0 +1,553 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2004-04-21,Botafogo,1-4,Goiás,R1
+2004-04-21,Figueirense,1-0,Internacional,R1
+2004-04-21,São Caetano,1-0,Vitória,R1
+2004-04-21,Cruzeiro,2-1,Juventude,R1
+2004-04-21,Palmeiras,0-0,Atlético Mineiro,R1
+2004-04-21,Grêmio,0-0,Flamengo,R1
+2004-04-21,Ponte Preta,3-2,Corinthians,R1
+2004-04-21,Paraná,3-2,Santos,R1
+2004-04-22,Coritiba,1-0,Guarani,R1
+2004-04-22,Vasco,0-1,Criciúma,R1
+2004-04-22,Paysandu,3-3,Fluminense,R1
+2004-04-22,São Paulo,1-0,Atlético Paranaense,R1
+2004-04-24,Flamengo,0-0,Ponte Preta,R2
+2004-04-24,Goiás,2-2,Cruzeiro,R2
+2004-04-24,Juventude,1-1,Grêmio,R2
+2004-04-25,Internacional,1-0,Palmeiras,R2
+2004-04-25,Atlético Mineiro,1-1,Vasco,R2
+2004-04-25,Fluminense,1-1,Coritiba,R2
+2004-04-25,Corinthians,2-1,Paysandu,R2
+2004-04-25,Guarani,1-1,São Caetano,R2
+2004-04-25,Atlético Paranaense,0-3,Figueirense,R2
+2004-04-25,Vitória,6-1,Paraná,R2
+2004-04-25,Criciúma,1-1,São Paulo,R2
+2004-04-25,Santos,2-0,Botafogo,R2
+2004-04-28,Botafogo,2-2,Atlético Mineiro,R3
+2004-04-28,Coritiba,1-1,Internacional,R3
+2004-04-28,Cruzeiro,2-2,Criciúma,R3
+2004-04-28,Paysandu,0-3,Atlético Paranaense,R3
+2004-04-28,São Caetano,1-0,Juventude,R3
+2004-04-28,Ponte Preta,2-0,Goiás,R3
+2004-04-28,Figueirense,2-1,Santos,R3
+2004-04-28,Grêmio,4-0,Corinthians,R3
+2004-04-28,São Paulo,1-0,Fluminense,R3
+2004-04-29,Vasco,0-1,Guarani,R3
+2004-04-29,Paraná,2-1,Flamengo,R3
+2004-04-29,Palmeiras,2-2,Vitória,R3
+2004-05-01,Internacional,1-0,Paysandu,R4
+2004-05-01,Criciúma,1-0,Botafogo,R4
+2004-05-01,Goiás,4-0,Grêmio,R4
+2004-05-01,Atlético Mineiro,1-2,Ponte Preta,R4
+2004-05-02,Flamengo,1-1,São Caetano,R4
+2004-05-02,Santos,1-3,Cruzeiro,R4
+2004-05-02,Fluminense,1-0,Vasco,R4
+2004-05-02,Corinthians,0-4,Palmeiras,R4
+2004-05-02,Juventude,4-0,Paraná,R4
+2004-05-02,Vitória,3-1,Figueirense,R4
+2004-05-02,Guarani,2-3,São Paulo,R4
+2004-05-02,Atlético Paranaense,1-1,Coritiba,R4
+2004-05-08,Guarani,0-0,Atlético Paranaense,R5
+2004-05-08,Paraná,2-0,Cruzeiro,R5
+2004-05-08,Santos,2-1,Juventude,R5
+2004-05-08,São Caetano,5-0,Criciúma,R5
+2004-05-08,Vasco,1-1,Grêmio,R5
+2004-05-08,Palmeiras,3-0,Ponte Preta,R5
+2004-05-09,Internacional,0-0,Fluminense,R5
+2004-05-09,Atlético Mineiro,2-2,Corinthians,R5
+2004-05-09,Botafogo,2-2,Paysandu,R5
+2004-05-09,Goiás,1-0,Figueirense,R5
+2004-05-09,Vitória,5-1,Flamengo,R5
+2004-05-09,Coritiba,1-2,São Paulo,R5
+2004-05-15,Paysandu,1-2,Vasco,R6
+2004-05-15,Atlético Paranaense,1-0,Santos,R6
+2004-05-16,Cruzeiro,2-1,Palmeiras,R6
+2004-05-16,Flamengo,1-2,Internacional,R6
+2004-05-16,Juventude,1-1,Atlético Mineiro,R6
+2004-05-16,Figueirense,1-0,São Caetano,R6
+2004-05-16,Criciúma,7-2,Goiás,R6
+2004-05-16,Ponte Preta,0-0,Coritiba,R6
+2004-05-16,Fluminense,1-0,Vitória,R6
+2004-05-16,Grêmio,2-2,Botafogo,R6
+2004-05-16,São Paulo,2-2,Paraná,R6
+2004-05-16,Corinthians,1-0,Guarani,R6
+2004-05-22,Botafogo,1-1,Figueirense,R7
+2004-05-22,Paysandu,1-3,Grêmio,R7
+2004-05-22,Internacional,1-0,Goiás,R7
+2004-05-22,Coritiba,0-1,Atlético Mineiro,R7
+2004-05-23,São Caetano,3-2,Vasco,R7
+2004-05-23,Santos,0-4,Palmeiras,R7
+2004-05-23,Flamengo,1-2,Fluminense,R7
+2004-05-23,Criciúma,2-0,Vitória,R7
+2004-05-23,Paraná,0-1,Ponte Preta,R7
+2004-05-23,Juventude,2-0,Guarani,R7
+2004-05-23,Cruzeiro,2-1,São Paulo,R7
+2004-05-23,Corinthians,0-5,Atlético Paranaense,R7
+2004-05-29,Fluminense,1-1,Criciúma,R8
+2004-05-29,Ponte Preta,0-1,Juventude,R8
+2004-05-29,Figueirense,1-1,Paysandu,R8
+2004-05-29,Vitória,2-1,Internacional,R8
+2004-05-29,Palmeiras,2-0,Coritiba,R8
+2004-05-30,Goiás,2-2,Flamengo,R8
+2004-05-30,Atlético Mineiro,3-3,Santos,R8
+2004-05-30,Vasco,4-0,Botafogo,R8
+2004-05-30,São Paulo,1-1,Corinthians,R8
+2004-05-30,Guarani,1-0,Paraná,R8
+2004-05-30,Grêmio,1-2,São Caetano,R8
+2004-05-30,Atlético Paranaense,3-1,Cruzeiro,R8
+2004-06-12,Fluminense,1-1,Guarani,R9
+2004-06-12,Paraná,1-1,Botafogo,R9
+2004-06-12,Internacional,4-1,Atlético Mineiro,R9
+2004-06-12,São Paulo,3-2,Grêmio,R9
+2004-06-13,Goiás,1-1,Corinthians,R9
+2004-06-13,Palmeiras,2-2,Vasco,R9
+2004-06-13,Cruzeiro,1-0,Paysandu,R9
+2004-06-13,Coritiba,1-0,São Caetano,R9
+2004-06-13,Criciúma,2-0,Juventude,R9
+2004-06-13,Ponte Preta,0-2,Figueirense,R9
+2004-06-13,Flamengo,3-0,Atlético Paranaense,R9
+2004-06-13,Vitória,1-2,Santos,R9
+2004-06-19,Grêmio,1-1,Coritiba,R10
+2004-06-19,Atlético Paranaense,1-3,Vitória,R10
+2004-06-19,Vasco,0-0,Paraná,R10
+2004-06-19,Figueirense,0-0,Cruzeiro,R10
+2004-06-20,São Caetano,1-1,Palmeiras,R10
+2004-06-20,Corinthians,1-1,Flamengo,R10
+2004-06-20,Botafogo,0-1,Ponte Preta,R10
+2004-06-20,Paysandu,1-0,São Paulo,R10
+2004-06-20,Guarani,2-1,Criciúma,R10
+2004-06-20,Juventude,1-1,Goiás,R10
+2004-06-20,Atlético Mineiro,2-1,Fluminense,R10
+2004-06-20,Santos,3-0,Internacional,R10
+2004-06-26,Criciúma,1-2,Grêmio,R11
+2004-06-26,Coritiba,1-1,Paraná,R11
+2004-06-26,Flamengo,0-3,Figueirense,R11
+2004-06-26,Santos,2-1,Guarani,R11
+2004-06-27,Internacional,1-3,Vasco,R11
+2004-06-27,Juventude,1-0,Corinthians,R11
+2004-06-27,Paysandu,4-2,Vitória,R11
+2004-06-27,Botafogo,3-3,Fluminense,R11
+2004-06-27,Palmeiras,2-1,São Paulo,R11
+2004-06-27,Goiás,3-2,São Caetano,R11
+2004-06-27,Atlético Mineiro,0-1,Atlético Paranaense,R11
+2004-06-27,Ponte Preta,1-0,Cruzeiro,R11
+2004-07-03,Internacional,3-0,Criciúma,R12
+2004-07-03,São Paulo,2-0,Ponte Preta,R12
+2004-07-03,Figueirense,2-2,Vasco,R12
+2004-07-03,Atlético Paranaense,4-1,Juventude,R12
+2004-07-03,Vitória,0-0,Goiás,R12
+2004-07-03,Guarani,1-1,Atlético Mineiro,R12
+2004-07-03,Fluminense,2-0,Grêmio,R12
+2004-07-04,Paraná,1-2,Palmeiras,R12
+2004-07-04,São Caetano,1-2,Botafogo,R12
+2004-07-04,Corinthians,2-3,Santos,R12
+2004-07-04,Flamengo,4-1,Paysandu,R12
+2004-07-04,Cruzeiro,0-3,Coritiba,R12
+2004-07-06,Vasco,3-1,Vitória,R13
+2004-07-06,Grêmio,2-2,Figueirense,R13
+2004-07-06,Goiás,4-0,Fluminense,R13
+2004-07-06,São Paulo,1-0,Atlético Mineiro,R13
+2004-07-07,Botafogo,5-1,Internacional,R13
+2004-07-07,Paraná,1-0,Atlético Paranaense,R13
+2004-07-07,Cruzeiro,2-0,Guarani,R13
+2004-07-07,Palmeiras,4-1,Juventude,R13
+2004-07-07,Paysandu,0-0,São Caetano,R13
+2004-07-07,Criciúma,1-1,Flamengo,R13
+2004-07-07,Ponte Preta,0-4,Santos,R13
+2004-07-07,Coritiba,1-2,Corinthians,R13
+2004-07-10,Vitória,1-0,Botafogo,R14
+2004-07-10,Santos,2-1,São Paulo,R14
+2004-07-10,Internacional,2-0,Grêmio,R14
+2004-07-10,Flamengo,0-1,Vasco,R14
+2004-07-10,Juventude,1-0,Coritiba,R14
+2004-07-10,Goiás,3-2,Paysandu,R14
+2004-07-10,Atlético Paranaense,0-0,Palmeiras,R14
+2004-07-10,Corinthians,1-0,Paraná,R14
+2004-07-10,Fluminense,1-0,São Caetano,R14
+2004-07-10,Figueirense,2-0,Criciúma,R14
+2004-07-10,Ponte Preta,3-1,Guarani,R14
+2004-07-10,Atlético Mineiro,2-0,Cruzeiro,R14
+2004-07-13,Atlético Mineiro,1-1,Vitória,R15
+2004-07-13,Corinthians,1-0,Criciúma,R15
+2004-07-13,Juventude,2-1,Fluminense,R15
+2004-07-13,Vasco,2-3,Coritiba,R15
+2004-07-13,Grêmio,2-3,Cruzeiro,R15
+2004-07-13,Guarani,2-1,Internacional,R15
+2004-07-13,Figueirense,0-0,Paraná,R15
+2004-07-13,Paysandu,3-0,Ponte Preta,R15
+2004-07-13,Atlético Paranaense,6-0,Goiás,R15
+2004-07-13,Botafogo,1-1,Palmeiras,R15
+2004-07-13,Santos,2-0,Flamengo,R15
+2004-07-13,São Caetano,0-0,São Paulo,R15
+2004-07-17,Vitória,1-1,Corinthians,R16
+2004-07-17,Cruzeiro,3-2,Botafogo,R16
+2004-07-17,Internacional,6-0,Atlético Paranaense,R16
+2004-07-17,Palmeiras,2-0,Grêmio,R16
+2004-07-17,Paraná,0-1,São Caetano,R16
+2004-07-17,Goiás,2-0,Guarani,R16
+2004-07-17,Flamengo,0-1,Juventude,R16
+2004-07-17,Fluminense,1-0,Santos,R16
+2004-07-17,São Paulo,2-1,Figueirense,R16
+2004-07-17,Criciúma,4-2,Atlético Mineiro,R16
+2004-07-17,Ponte Preta,3-2,Vasco,R16
+2004-07-17,Coritiba,1-1,Paysandu,R16
+2004-07-20,Paysandu,1-0,Palmeiras,R17
+2004-07-20,Atlético Mineiro,0-2,Goiás,R17
+2004-07-20,Guarani,0-1,Flamengo,R17
+2004-07-20,Grêmio,4-0,Paraná,R17
+2004-07-20,Vasco,3-2,Cruzeiro,R17
+2004-07-20,Corinthians,0-0,Internacional,R17
+2004-07-20,Figueirense,1-1,Coritiba,R17
+2004-07-20,São Caetano,0-1,Ponte Preta,R17
+2004-07-20,Juventude,3-2,Vitória,R17
+2004-07-20,Santos,5-2,Criciúma,R17
+2004-07-20,Atlético Paranaense,4-1,Fluminense,R17
+2004-07-20,Botafogo,1-0,São Paulo,R17
+2004-07-24,Fluminense,2-0,Corinthians,R18
+2004-07-24,São Paulo,1-0,Vasco,R18
+2004-07-24,Internacional,1-2,Juventude,R18
+2004-07-24,Coritiba,1-0,Botafogo,R18
+2004-07-24,Criciúma,4-1,Atlético Paranaense,R18
+2004-07-24,Vitória,3-2,Guarani,R18
+2004-07-24,Flamengo,0-0,Atlético Mineiro,R18
+2004-07-24,Cruzeiro,0-1,São Caetano,R18
+2004-07-24,Goiás,3-3,Santos,R18
+2004-07-24,Palmeiras,0-0,Figueirense,R18
+2004-07-24,Ponte Preta,1-0,Grêmio,R18
+2004-07-24,Paraná,2-0,Paysandu,R18
+2004-07-28,Grêmio,4-0,Vitória,R19
+2004-07-28,Botafogo,0-0,Flamengo,R19
+2004-07-28,Paysandu,2-2,Criciúma,R19
+2004-07-28,Atlético Paranaense,4-0,Ponte Preta,R19
+2004-07-28,Corinthians,1-0,Cruzeiro,R19
+2004-07-28,Figueirense,2-1,Fluminense,R19
+2004-07-28,Guarani,1-0,Palmeiras,R19
+2004-07-28,Juventude,1-2,São Paulo,R19
+2004-07-29,Vasco,3-1,Goiás,R19
+2004-07-29,São Caetano,2-0,Internacional,R19
+2004-07-29,Atlético Mineiro,4-1,Paraná,R19
+2004-07-29,Santos,4-2,Coritiba,R19
+2004-07-31,Atlético Paranaense,0-0,Grêmio,R20
+2004-07-31,Fluminense,0-0,Cruzeiro,R20
+2004-08-01,Flamengo,0-1,Palmeiras,R20
+2004-08-01,Juventude,1-1,Vasco,R20
+2004-08-01,Atlético Mineiro,3-1,Figueirense,R20
+2004-08-01,Corinthians,2-0,São Caetano,R20
+2004-08-01,Santos,6-0,Paysandu,R20
+2004-08-01,Criciúma,3-1,Ponte Preta,R20
+2004-08-01,Vitória,2-2,Coritiba,R20
+2004-08-01,Goiás,3-0,Paraná,R20
+2004-08-01,Internacional,1-1,São Paulo,R20
+2004-08-01,Guarani,0-2,Botafogo,R20
+2004-08-04,Ponte Preta,3-2,Fluminense,R21
+2004-08-04,Palmeiras,0-3,Goiás,R21
+2004-08-04,Paysandu,2-1,Atlético Mineiro,R21
+2004-08-04,Figueirense,1-1,Guarani,R21
+2004-08-04,São Caetano,0-3,Atlético Paranaense,R21
+2004-08-04,Paraná,0-3,Criciúma,R21
+2004-08-04,Grêmio,3-1,Santos,R21
+2004-08-04,Vasco,1-3,Corinthians,R21
+2004-08-04,Coritiba,1-0,Flamengo,R21
+2004-08-05,Botafogo,0-1,Juventude,R21
+2004-08-05,Cruzeiro,2-0,Internacional,R21
+2004-08-05,São Paulo,2-1,Vitória,R21
+2004-08-07,Fluminense,3-1,Paraná,R22
+2004-08-07,Santos,0-1,São Caetano,R22
+2004-08-07,Goiás,1-2,Coritiba,R22
+2004-08-07,Atlético Mineiro,3-0,Grêmio,R22
+2004-08-08,Flamengo,1-0,São Paulo,R22
+2004-08-08,Corinthians,2-2,Botafogo,R22
+2004-08-08,Internacional,1-2,Ponte Preta,R22
+2004-08-08,Vitória,3-2,Cruzeiro,R22
+2004-08-08,Guarani,0-0,Paysandu,R22
+2004-08-08,Juventude,0-0,Figueirense,R22
+2004-08-08,Criciúma,1-2,Palmeiras,R22
+2004-08-08,Atlético Paranaense,2-0,Vasco,R22
+2004-08-11,Grêmio,1-1,Guarani,R23
+2004-08-11,São Paulo,4-0,Goiás,R23
+2004-08-11,Paraná,1-2,Internacional,R23
+2004-08-11,Paysandu,0-1,Juventude,R23
+2004-08-11,Ponte Preta,1-0,Vitória,R23
+2004-08-11,Figueirense,0-1,Corinthians,R23
+2004-08-11,Vasco,2-3,Santos,R23
+2004-08-11,Cruzeiro,2-0,Flamengo,R23
+2004-08-12,Botafogo,1-1,Atlético Paranaense,R23
+2004-08-12,Coritiba,1-0,Criciúma,R23
+2004-08-12,São Caetano,1-1,Atlético Mineiro,R23
+2004-08-12,Palmeiras,3-2,Fluminense,R23
+2004-08-14,Internacional,4-0,Figueirense,R24
+2004-08-14,Juventude,1-0,Cruzeiro,R24
+2004-08-14,Flamengo,3-0,Grêmio,R24
+2004-08-14,Corinthians,2-0,Ponte Preta,R24
+2004-08-15,Criciúma,1-0,Vasco,R24
+2004-08-15,Atlético Mineiro,1-2,Palmeiras,R24
+2004-08-15,Fluminense,1-1,Paysandu,R24
+2004-08-15,Goiás,3-1,Botafogo,R24
+2004-08-15,Guarani,0-0,Coritiba,R24
+2004-08-15,Vitória,1-2,São Caetano,R24
+2004-08-15,Santos,5-1,Paraná,R24
+2004-08-15,Atlético Paranaense,1-0,São Paulo,R24
+2004-08-18,Figueirense,1-1,Atlético Paranaense,R25
+2004-08-18,Grêmio,2-4,Juventude,R25
+2004-08-18,São Caetano,3-0,Guarani,R25
+2004-08-18,Cruzeiro,1-3,Goiás,R25
+2004-08-18,Palmeiras,3-1,Internacional,R25
+2004-08-18,Paraná,4-1,Vitória,R25
+2004-08-18,Botafogo,2-0,Santos,R25
+2004-08-18,Paysandu,2-1,Corinthians,R25
+2004-08-18,Ponte Preta,1-0,Flamengo,R25
+2004-08-19,Vasco,3-0,Atlético Mineiro,R25
+2004-08-19,São Paulo,2-0,Criciúma,R25
+2004-08-19,Coritiba,2-0,Fluminense,R25
+2004-08-21,Flamengo,2-1,Paraná,R26
+2004-08-21,Corinthians,1-1,Grêmio,R26
+2004-08-22,Santos,4-1,Figueirense,R26
+2004-08-22,Fluminense,1-0,São Paulo,R26
+2004-08-22,Guarani,1-1,Vasco,R26
+2004-08-22,Criciúma,1-2,Cruzeiro,R26
+2004-08-22,Internacional,1-1,Coritiba,R26
+2004-08-22,Goiás,5-0,Ponte Preta,R26
+2004-08-22,Atlético Paranaense,2-0,Paysandu,R26
+2004-08-22,Juventude,2-2,São Caetano,R26
+2004-08-22,Vitória,2-2,Palmeiras,R26
+2004-08-22,Atlético Mineiro,1-1,Botafogo,R26
+2004-08-28,Botafogo,1-1,Criciúma,R27
+2004-08-28,Paraná,1-2,Juventude,R27
+2004-08-28,São Paulo,3-3,Guarani,R27
+2004-08-28,Paysandu,2-1,Internacional,R27
+2004-08-28,Grêmio,1-1,Goiás,R27
+2004-08-29,São Caetano,0-1,Flamengo,R27
+2004-08-29,Palmeiras,0-1,Corinthians,R27
+2004-08-29,Vasco,1-1,Fluminense,R27
+2004-08-29,Coritiba,1-2,Atlético Paranaense,R27
+2004-08-29,Figueirense,2-1,Vitória,R27
+2004-08-29,Ponte Preta,1-1,Atlético Mineiro,R27
+2004-08-29,Cruzeiro,4-4,Santos,R27
+2004-09-01,Fluminense,3-1,Internacional,R28
+2004-09-01,São Paulo,2-3,Coritiba,R28
+2004-09-01,Figueirense,3-2,Goiás,R28
+2004-09-01,Criciúma,0-4,São Caetano,R28
+2004-09-01,Cruzeiro,1-4,Paraná,R28
+2004-09-01,Ponte Preta,0-0,Palmeiras,R28
+2004-09-01,Juventude,1-2,Santos,R28
+2004-09-01,Corinthians,1-0,Atlético Mineiro,R28
+2004-09-02,Paysandu,2-0,Botafogo,R28
+2004-09-02,Grêmio,1-2,Vasco,R28
+2004-09-02,Flamengo,2-0,Vitória,R28
+2004-09-02,Atlético Paranaense,2-0,Guarani,R28
+2004-09-07,Vasco,0-1,Paysandu,R29
+2004-09-07,Palmeiras,1-3,Cruzeiro,R29
+2004-09-08,Atlético Mineiro,1-1,Juventude,R29
+2004-09-08,Paraná,0-2,São Paulo,R29
+2004-09-08,São Caetano,1-0,Figueirense,R29
+2004-09-08,Goiás,2-1,Criciúma,R29
+2004-09-08,Santos,1-1,Atlético Paranaense,R29
+2004-09-08,Internacional,0-0,Flamengo,R29
+2004-09-08,Guarani,0-1,Corinthians,R29
+2004-09-09,Vitória,2-3,Fluminense,R29
+2004-09-09,Botafogo,2-1,Grêmio,R29
+2004-09-09,Coritiba,2-0,Ponte Preta,R29
+2004-09-11,São Paulo,0-0,Cruzeiro,R30
+2004-09-11,Vasco,1-2,São Caetano,R30
+2004-09-11,Guarani,3-1,Juventude,R30
+2004-09-11,Goiás,1-0,Internacional,R30
+2004-09-12,Figueirense,3-1,Botafogo,R30
+2004-09-12,Atlético Paranaense,3-1,Corinthians,R30
+2004-09-12,Fluminense,2-1,Flamengo,R30
+2004-09-12,Palmeiras,1-2,Santos,R30
+2004-09-12,Ponte Preta,0-2,Paraná,R30
+2004-09-12,Vitória,1-0,Criciúma,R30
+2004-09-12,Grêmio,1-1,Paysandu,R30
+2004-09-12,Atlético Mineiro,2-1,Coritiba,R30
+2004-09-18,São Caetano,2-0,Grêmio,R31
+2004-09-18,Paraná,0-0,Guarani,R31
+2004-09-18,Santos,2-0,Atlético Mineiro,R31
+2004-09-18,Criciúma,0-2,Fluminense,R31
+2004-09-19,Flamengo,4-0,Goiás,R31
+2004-09-19,Corinthians,0-0,São Paulo,R31
+2004-09-19,Internacional,2-1,Vitória,R31
+2004-09-19,Botafogo,2-2,Vasco,R31
+2004-09-19,Juventude,1-2,Ponte Preta,R31
+2004-09-19,Paysandu,3-1,Figueirense,R31
+2004-09-19,Cruzeiro,2-4,Atlético Paranaense,R31
+2004-09-19,Coritiba,0-0,Palmeiras,R31
+2004-09-24,Figueirense,0-1,Ponte Preta,R32
+2004-09-25,Paysandu,3-1,Cruzeiro,R32
+2004-09-25,Atlético Mineiro,1-1,Internacional,R32
+2004-09-25,São Caetano,1-0,Coritiba,R32
+2004-09-25,Grêmio,2-1,São Paulo,R32
+2004-09-25,Guarani,1-1,Fluminense,R32
+2004-09-26,Vasco,2-5,Palmeiras,R32
+2004-09-26,Atlético Paranaense,2-1,Flamengo,R32
+2004-09-26,Corinthians,1-0,Goiás,R32
+2004-09-26,Juventude,1-0,Criciúma,R32
+2004-09-26,Botafogo,4-3,Paraná,R32
+2004-09-26,Santos,4-1,Vitória,R32
+2004-09-28,Coritiba,2-1,Grêmio,R33
+2004-09-28,São Paulo,7-0,Paysandu,R33
+2004-09-28,Cruzeiro,3-3,Figueirense,R33
+2004-09-28,Fluminense,1-1,Atlético Mineiro,R33
+2004-09-29,Palmeiras,3-1,São Caetano,R33
+2004-09-29,Paraná,2-1,Vasco,R33
+2004-09-29,Criciúma,1-1,Guarani,R33
+2004-09-29,Vitória,2-3,Atlético Paranaense,R33
+2004-09-29,Goiás,1-2,Juventude,R33
+2004-09-29,Internacional,2-1,Santos,R33
+2004-09-29,Flamengo,0-0,Corinthians,R33
+2004-09-29,Ponte Preta,1-1,Botafogo,R33
+2004-10-02,Figueirense,3-2,Flamengo,R34
+2004-10-02,São Paulo,2-1,Palmeiras,R34
+2004-10-02,Fluminense,1-4,Botafogo,R34
+2004-10-02,Atlético Paranaense,5-0,Atlético Mineiro,R34
+2004-10-02,São Caetano,2-0,Goiás,R34
+2004-10-02,Vitória,4-1,Paysandu,R34
+2004-10-02,Guarani,0-1,Santos,R34
+2004-10-02,Cruzeiro,5-0,Ponte Preta,R34
+2004-10-02,Grêmio,2-0,Criciúma,R34
+2004-10-02,Vasco,2-0,Internacional,R34
+2004-10-02,Corinthians,1-2,Juventude,R34
+2004-10-02,Paraná,1-0,Coritiba,R34
+2004-10-06,Criciúma,2-1,Internacional,R35
+2004-10-06,Vasco,1-0,Figueirense,R35
+2004-10-06,Goiás,4-0,Vitória,R35
+2004-10-06,Coritiba,1-1,Cruzeiro,R35
+2004-10-06,Grêmio,2-3,Fluminense,R35
+2004-10-06,Ponte Preta,0-1,São Paulo,R35
+2004-10-06,Santos,1-1,Corinthians,R35
+2004-10-07,Botafogo,1-1,São Caetano,R35
+2004-10-07,Paysandu,2-2,Flamengo,R35
+2004-10-07,Atlético Mineiro,3-2,Guarani,R35
+2004-10-07,Palmeiras,1-1,Paraná,R35
+2004-10-07,Juventude,3-3,Atlético Paranaense,R35
+2004-10-16,Figueirense,2-0,Grêmio,R36
+2004-10-16,Vitória,4-1,Vasco,R36
+2004-10-16,Corinthians,0-0,Coritiba,R36
+2004-10-16,Fluminense,1-4,Goiás,R36
+2004-10-16,Santos,4-0,Ponte Preta,R36
+2004-10-17,Internacional,3-1,Botafogo,R36
+2004-10-17,São Caetano,3-0,Paysandu,R36
+2004-10-17,Guarani,2-0,Cruzeiro,R36
+2004-10-17,Atlético Mineiro,0-5,São Paulo,R36
+2004-10-17,Atlético Paranaense,1-1,Paraná,R36
+2004-10-17,Flamengo,3-1,Criciúma,R36
+2004-10-17,Juventude,0-2,Palmeiras,R36
+2004-10-23,Grêmio,1-3,Internacional,R37
+2004-10-23,Paysandu,4-2,Goiás,R37
+2004-10-23,Cruzeiro,0-3,Atlético Mineiro,R37
+2004-10-23,Coritiba,2-3,Juventude,R37
+2004-10-23,Botafogo,1-1,Vitória,R37
+2004-10-23,Palmeiras,3-1,Atlético Paranaense,R37
+2004-10-24,Criciúma,2-1,Figueirense,R37
+2004-10-24,Vasco,1-0,Flamengo,R37
+2004-10-24,São Caetano,2-0,Fluminense,R37
+2004-10-24,São Paulo,1-0,Santos,R37
+2004-10-24,Guarani,0-0,Ponte Preta,R37
+2004-10-24,Paraná,1-2,Corinthians,R37
+2004-10-26,Vitória,2-1,Atlético Mineiro,R38
+2004-10-26,Goiás,2-0,Atlético Paranaense,R38
+2004-10-26,Cruzeiro,2-0,Grêmio,R38
+2004-10-26,Palmeiras,2-1,Botafogo,R38
+2004-10-26,Internacional,1-3,Guarani,R38
+2004-10-26,Fluminense,7-1,Juventude,R38
+2004-10-26,Ponte Preta,3-0,Paysandu,R38
+2004-10-26,Paraná,2-1,Figueirense,R38
+2004-10-27,São Paulo,4-2,São Caetano,R38
+2004-10-27,Criciúma,1-1,Corinthians,R38
+2004-10-27,Flamengo,1-1,Santos,R38
+2004-10-27,Coritiba,0-1,Vasco,R38
+2004-10-30,Botafogo,2-1,Cruzeiro,R39
+2004-10-30,Paysandu,0-0,Coritiba,R39
+2004-10-30,Guarani,1-1,Goiás,R39
+2004-10-30,Santos,5-0,Fluminense,R39
+2004-10-30,Grêmio,2-3,Palmeiras,R39
+2004-10-30,Juventude,1-0,Flamengo,R39
+2004-10-30,Figueirense,1-0,São Paulo,R39
+2004-10-30,Atlético Mineiro,2-2,Criciúma,R39
+2004-10-30,Atlético Paranaense,2-1,Internacional,R39
+2004-10-30,Corinthians,1-0,Vitória,R39
+2004-10-31,Vasco,2-2,Ponte Preta,R39
+2004-11-06,Palmeiras,1-0,Paysandu,R40
+2004-11-06,Goiás,1-0,Atlético Mineiro,R40
+2004-11-06,Flamengo,1-0,Guarani,R40
+2004-11-06,Paraná,1-0,Grêmio,R40
+2004-11-07,Criciúma,1-1,Santos,R40
+2004-11-07,Internacional,3-0,Corinthians,R40
+2004-11-07,Fluminense,1-2,Atlético Paranaense,R40
+2004-11-07,Cruzeiro,3-2,Vasco,R40
+2004-11-07,Coritiba,2-0,Figueirense,R40
+2004-11-07,Vitória,1-1,Juventude,R40
+2004-11-07,Ponte Preta,0-3,São Caetano,R40
+2004-11-07,São Paulo,5-2,Botafogo,R40
+2004-11-10,São Caetano,2-1,Paraná,R39
+2004-11-13,Botafogo,4-1,Coritiba,R41
+2004-11-13,São Caetano,4-1,Cruzeiro,R41
+2004-11-13,Grêmio,6-1,Ponte Preta,R41
+2004-11-13,Corinthians,1-1,Fluminense,R41
+2004-11-14,Vasco,0-0,São Paulo,R41
+2004-11-14,Guarani,0-0,Vitória,R41
+2004-11-14,Atlético Mineiro,6-1,Flamengo,R41
+2004-11-14,Santos,2-1,Goiás,R41
+2004-11-14,Atlético Paranaense,6-1,Criciúma,R41
+2004-11-14,Paysandu,1-1,Paraná,R41
+2004-11-14,Figueirense,0-1,Palmeiras,R41
+2004-11-14,Juventude,2-3,Internacional,R41
+2004-11-20,Fluminense,0-2,Figueirense,R42
+2004-11-20,Paraná,1-0,Atlético Mineiro,R42
+2004-11-20,Vitória,2-0,Grêmio,R42
+2004-11-20,Palmeiras,0-2,Guarani,R42
+2004-11-21,Criciúma,1-0,Paysandu,R42
+2004-11-21,Flamengo,0-0,Botafogo,R42
+2004-11-21,Goiás,3-2,Vasco,R42
+2004-11-21,Ponte Preta,2-3,Atlético Paranaense,R42
+2004-11-21,Cruzeiro,0-1,Corinthians,R42
+2004-11-21,Coritiba,0-1,Santos,R42
+2004-11-21,Internacional,1-0,São Caetano,R42
+2004-11-21,São Paulo,4-0,Juventude,R42
+2004-11-27,Figueirense,2-1,Atlético Mineiro,R43
+2004-11-27,Botafogo,1-0,Guarani,R43
+2004-11-27,Paraná,2-1,Goiás,R43
+2004-11-27,Cruzeiro,2-3,Fluminense,R43
+2004-11-27,São Paulo,2-1,Internacional,R43
+2004-11-28,Paysandu,1-1,Santos,R43
+2004-11-28,São Caetano,2-1,Corinthians,R43
+2004-11-28,Ponte Preta,1-0,Criciúma,R43
+2004-11-28,Coritiba,5-1,Vitória,R43
+2004-11-28,Palmeiras,1-2,Flamengo,R43
+2004-11-28,Grêmio,3-3,Atlético Paranaense,R43
+2004-11-28,Vasco,1-1,Juventude,R43
+2004-12-04,Criciúma,1-2,Paraná,R44
+2004-12-04,Fluminense,1-0,Ponte Preta,R44
+2004-12-04,Guarani,2-1,Figueirense,R44
+2004-12-04,Atlético Mineiro,0-0,Paysandu,R44
+2004-12-04,Goiás,0-0,Palmeiras,R44
+2004-12-04,Corinthians,3-1,Vasco,R44
+2004-12-05,Vitória,1-4,São Paulo,R44
+2004-12-05,Santos,5-1,Grêmio,R44
+2004-12-05,Atlético Paranaense,5-2,São Caetano,R44
+2004-12-05,Juventude,1-0,Botafogo,R44
+2004-12-05,Internacional,2-0,Cruzeiro,R44
+2004-12-05,Flamengo,0-0,Coritiba,R44
+2004-12-11,Grêmio,0-1,Atlético Mineiro,R45
+2004-12-11,Paysandu,4-2,Guarani,R45
+2004-12-11,Palmeiras,3-2,Criciúma,R45
+2004-12-11,Paraná,0-1,Fluminense,R45
+2004-12-12,Figueirense,1-0,Juventude,R45
+2004-12-12,Vasco,1-0,Atlético Paranaense,R45
+2004-12-12,Botafogo,1-2,Corinthians,R45
+2004-12-12,São Caetano,0-3,Santos,R45
+2004-12-12,São Paulo,1-1,Flamengo,R45
+2004-12-12,Coritiba,1-0,Goiás,R45
+2004-12-12,Ponte Preta,1-2,Internacional,R45
+2004-12-12,Cruzeiro,4-0,Vitória,R45
+2004-12-19,Criciúma,3-3,Coritiba,R46
+2004-12-19,Internacional,2-1,Paraná,R46
+2004-12-19,Flamengo,6-2,Cruzeiro,R46
+2004-12-19,Fluminense,1-1,Palmeiras,R46
+2004-12-19,Vitória,1-2,Ponte Preta,R46
+2004-12-19,Goiás,2-0,São Paulo,R46
+2004-12-19,Guarani,2-0,Grêmio,R46
+2004-12-19,Atlético Mineiro,3-0,São Caetano,R46
+2004-12-19,Santos,2-1,Vasco,R46
+2004-12-19,Atlético Paranaense,1-1,Botafogo,R46
+2004-12-19,Corinthians,5-2,Figueirense,R46
+2004-12-19,Juventude,1-2,Paysandu,R46

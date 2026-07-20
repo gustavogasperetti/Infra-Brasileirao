@@ -1,0 +1,283 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1995,1995-08-19,Vitória,Botafogo,2,2,E,E,NORMAL,A
+1995,1995-08-19,Palmeiras,Guarani,3,0,V,D,NORMAL,A
+1995,1995-08-19,Santos,Goiás,1,1,E,E,NORMAL,B
+1995,1995-08-20,Cruzeiro,Juventude,0,0,E,E,NORMAL,A
+1995,1995-08-20,Paraná,Grêmio,2,0,V,D,NORMAL,A
+1995,1995-08-20,Fluminense,Criciúma,1,0,V,D,NORMAL,B
+1995,1995-08-20,Sport,Portuguesa,0,0,E,E,NORMAL,B
+1995,1995-08-23,Botafogo,Paysandu,3,1,V,D,NORMAL,A
+1995,1995-08-23,Red Bull Bragantino,Palmeiras,0,2,D,V,NORMAL,A
+1995,1995-08-23,Juventude,Paraná,1,2,D,V,NORMAL,A
+1995,1995-08-24,Guarani,Corinthians,2,1,V,D,NORMAL,A
+1995,1995-08-24,Bahia,Fluminense,0,1,D,V,NORMAL,B
+1995,1995-08-26,Paraná,Palmeiras,1,0,V,D,NORMAL,A
+1995,1995-08-26,Santos,Vasco,3,5,D,V,NORMAL,B
+1995,1995-08-27,Botafogo,Guarani,3,1,V,D,NORMAL,A
+1995,1995-08-27,Flamengo,Red Bull Bragantino,2,1,V,D,NORMAL,A
+1995,1995-08-27,Cruzeiro,Corinthians,2,0,V,D,NORMAL,A
+1995,1995-08-27,Paysandu,Vitória,1,1,E,E,NORMAL,A
+1995,1995-08-27,União São João,Fluminense,1,3,D,V,NORMAL,B
+1995,1995-08-27,São Paulo,Atlético Mineiro,1,1,E,E,NORMAL,B
+1995,1995-08-27,Portuguesa,Goiás,2,1,V,D,NORMAL,B
+1995,1995-08-27,Internacional,Criciúma,2,2,E,E,NORMAL,B
+1995,1995-08-27,Bahia,Sport,1,1,E,E,NORMAL,B
+1995,1995-08-30,Red Bull Bragantino,Botafogo,1,0,V,D,NORMAL,A
+1995,1995-08-30,Paysandu,Juventude,2,0,V,D,NORMAL,A
+1995,1995-08-30,Criciúma,Sport,1,0,V,D,NORMAL,B
+1995,1995-08-30,Vasco,União São João,1,0,V,D,NORMAL,B
+1995,1995-08-30,Fluminense,Santos,1,0,V,D,NORMAL,B
+1995,1995-08-30,Goiás,São Paulo,0,0,E,E,NORMAL,B
+1995,1995-08-30,Atlético Mineiro,Portuguesa,2,2,E,E,NORMAL,B
+1995,1995-08-30,Corinthians,Paraná,1,1,E,E,NORMAL,A
+1995,1995-08-31,Guarani,Flamengo,0,0,E,E,NORMAL,A
+1995,1995-08-31,Palmeiras,Cruzeiro,2,3,D,V,NORMAL,A
+1995,1995-08-31,Internacional,Bahia,2,1,V,D,NORMAL,B
+1995,1995-09-02,Botafogo,Corinthians,2,1,V,D,NORMAL,A
+1995,1995-09-02,São Paulo,Fluminense,1,1,E,E,NORMAL,B
+1995,1995-09-03,Flamengo,Palmeiras,1,2,D,V,NORMAL,A
+1995,1995-09-03,Guarani,Paraná,1,0,V,D,NORMAL,A
+1995,1995-09-03,Grêmio,Paysandu,1,1,E,E,NORMAL,A
+1995,1995-09-03,Red Bull Bragantino,Cruzeiro,2,1,V,D,NORMAL,A
+1995,1995-09-03,Portuguesa,Vasco,3,3,E,E,NORMAL,B
+1995,1995-09-03,Santos,Criciúma,1,0,V,D,NORMAL,B
+1995,1995-09-03,União São João,Internacional,0,1,D,V,NORMAL,B
+1995,1995-09-03,Bahia,Atlético Mineiro,2,0,V,D,NORMAL,B
+1995,1995-09-03,Sport,Goiás,2,3,D,V,NORMAL,B
+1995,1995-09-05,Juventude,Grêmio,1,1,E,E,NORMAL,A
+1995,1995-09-06,Paysandu,Flamengo,2,0,V,D,NORMAL,A
+1995,1995-09-06,Atlético Mineiro,Sport,0,0,E,E,NORMAL,B
+1995,1995-09-06,Corinthians,Red Bull Bragantino,1,2,D,V,NORMAL,A
+1995,1995-09-07,Vitória,Grêmio,2,0,V,D,NORMAL,A
+1995,1995-09-07,Palmeiras,Botafogo,2,1,V,D,NORMAL,A
+1995,1995-09-07,São Paulo,União São João,2,0,V,D,NORMAL,B
+1995,1995-09-07,Vasco,Fluminense,0,0,E,E,NORMAL,B
+1995,1995-09-07,Internacional,Santos,4,2,V,D,NORMAL,B
+1995,1995-09-07,Goiás,Bahia,2,0,V,D,NORMAL,B
+1995,1995-09-09,Corinthians,Flamengo,2,1,V,D,NORMAL,A
+1995,1995-09-09,Atlético Mineiro,Santos,1,2,D,V,NORMAL,B
+1995,1995-09-10,Juventude,Red Bull Bragantino,1,1,E,E,NORMAL,A
+1995,1995-09-10,Grêmio,Guarani,2,1,V,D,NORMAL,A
+1995,1995-09-10,Cruzeiro,Vitória,3,0,V,D,NORMAL,A
+1995,1995-09-10,Vasco,São Paulo,1,0,V,D,NORMAL,B
+1995,1995-09-10,Fluminense,Portuguesa,0,1,D,V,NORMAL,B
+1995,1995-09-10,Goiás,União São João,3,0,V,D,NORMAL,B
+1995,1995-09-10,Sport,Internacional,2,0,V,D,NORMAL,B
+1995,1995-09-10,Bahia,Criciúma,0,0,E,E,NORMAL,B
+1995,1995-09-13,Guarani,Red Bull Bragantino,3,3,E,E,NORMAL,A
+1995,1995-09-13,Paysandu,Cruzeiro,1,3,D,V,NORMAL,A
+1995,1995-09-13,Vitória,Paraná,3,3,E,E,NORMAL,A
+1995,1995-09-13,Juventude,Flamengo,0,2,D,V,NORMAL,A
+1995,1995-09-13,Sport,Vasco,1,0,V,D,NORMAL,B
+1995,1995-09-13,Criciúma,União São João,1,1,E,E,NORMAL,B
+1995,1995-09-16,Grêmio,Botafogo,2,3,D,V,NORMAL,A
+1995,1995-09-16,Juventude,Vitória,0,0,E,E,NORMAL,A
+1995,1995-09-16,Portuguesa,Santos,0,2,D,V,NORMAL,B
+1995,1995-09-16,Bahia,São Paulo,1,0,V,D,NORMAL,B
+1995,1995-09-16,Vasco,Internacional,0,2,D,V,NORMAL,B
+1995,1995-09-16,União São João,Atlético Mineiro,0,2,D,V,NORMAL,B
+1995,1995-09-17,Corinthians,Palmeiras,0,2,D,V,NORMAL,A
+1995,1995-09-19,Santos,São Paulo,0,1,D,V,NORMAL,B
+1995,1995-09-20,Botafogo,Juventude,0,0,E,E,NORMAL,A
+1995,1995-09-20,Palmeiras,Paysandu,2,1,V,D,NORMAL,A
+1995,1995-09-20,Paraná,Red Bull Bragantino,0,0,E,E,NORMAL,A
+1995,1995-09-20,Fluminense,Sport,2,0,V,D,NORMAL,B
+1995,1995-09-20,União São João,Portuguesa,2,0,V,D,NORMAL,B
+1995,1995-09-20,Criciúma,Atlético Mineiro,2,0,V,D,NORMAL,B
+1995,1995-09-20,Internacional,Goiás,1,1,E,E,NORMAL,B
+1995,1995-09-20,Corinthians,Vitória,3,0,V,D,NORMAL,A
+1995,1995-09-21,Flamengo,Grêmio,2,2,E,E,NORMAL,A
+1995,1995-09-21,Vasco,Bahia,2,3,D,V,NORMAL,B
+1995,1995-09-23,Vitória,Palmeiras,0,0,E,E,NORMAL,A
+1995,1995-09-23,Internacional,Fluminense,1,0,V,D,NORMAL,B
+1995,1995-09-23,São Paulo,Sport,1,0,V,D,NORMAL,B
+1995,1995-09-24,Flamengo,Botafogo,1,3,D,V,NORMAL,A
+1995,1995-09-24,Paysandu,Corinthians,3,3,E,E,NORMAL,A
+1995,1995-09-24,Red Bull Bragantino,Grêmio,2,0,V,D,NORMAL,A
+1995,1995-09-24,Guarani,Juventude,0,1,D,V,NORMAL,A
+1995,1995-09-24,Paraná,Cruzeiro,1,2,D,V,NORMAL,A
+1995,1995-09-24,Criciúma,Vasco,1,0,V,D,NORMAL,B
+1995,1995-09-24,Portuguesa,Bahia,5,2,V,D,NORMAL,B
+1995,1995-09-24,Santos,União São João,3,2,V,D,NORMAL,B
+1995,1995-09-24,Goiás,Atlético Mineiro,0,0,E,E,NORMAL,B
+1995,1995-09-26,União São João,Sport,1,2,D,V,NORMAL,B
+1995,1995-09-27,Goiás,Criciúma,0,2,D,V,NORMAL,B
+1995,1995-09-28,Grêmio,Cruzeiro,2,0,V,D,NORMAL,A
+1995,1995-09-28,Flamengo,Vitória,0,1,D,V,NORMAL,A
+1995,1995-09-28,Atlético Mineiro,Internacional,0,1,D,V,NORMAL,B
+1995,1995-09-30,Paraná,Flamengo,2,0,V,D,NORMAL,A
+1995,1995-09-30,Criciúma,São Paulo,0,1,D,V,NORMAL,B
+1995,1995-09-30,Corinthians,Juventude,0,1,D,V,NORMAL,A
+1995,1995-10-01,Cruzeiro,Botafogo,5,3,V,D,NORMAL,A
+1995,1995-10-01,Palmeiras,Grêmio,3,0,V,D,NORMAL,A
+1995,1995-10-01,Vitória,Red Bull Bragantino,0,1,D,V,NORMAL,A
+1995,1995-10-01,Paysandu,Guarani,2,2,E,E,NORMAL,A
+1995,1995-10-01,Vasco,Atlético Mineiro,2,3,D,V,NORMAL,B
+1995,1995-10-01,Fluminense,Goiás,1,0,V,D,NORMAL,B
+1995,1995-10-01,Internacional,Portuguesa,0,1,D,V,NORMAL,B
+1995,1995-10-01,Santos,Bahia,3,2,V,D,NORMAL,B
+1995,1995-10-04,Cruzeiro,Guarani,2,0,V,D,NORMAL,A
+1995,1995-10-04,Paraná,Paysandu,1,0,V,D,NORMAL,A
+1995,1995-10-04,São Paulo,Portuguesa,1,0,V,D,NORMAL,B
+1995,1995-10-07,Grêmio,Corinthians,2,1,V,D,NORMAL,A
+1995,1995-10-07,Goiás,Vasco,4,0,V,D,NORMAL,B
+1995,1995-10-07,Portuguesa,Criciúma,2,1,V,D,NORMAL,B
+1995,1995-10-08,Botafogo,Paraná,0,0,E,E,NORMAL,A
+1995,1995-10-08,Flamengo,Cruzeiro,0,2,D,V,NORMAL,A
+1995,1995-10-08,Juventude,Palmeiras,1,1,E,E,NORMAL,A
+1995,1995-10-08,Red Bull Bragantino,Paysandu,2,0,V,D,NORMAL,A
+1995,1995-10-08,Guarani,Vitória,3,1,V,D,NORMAL,A
+1995,1995-10-08,Atlético Mineiro,Fluminense,0,0,E,E,NORMAL,B
+1995,1995-10-08,São Paulo,Internacional,1,1,E,E,NORMAL,B
+1995,1995-10-08,Sport,Santos,1,2,D,V,NORMAL,B
+1995,1995-10-08,Bahia,União São João,1,0,V,D,NORMAL,B
+1995,1995-10-11,União São João,Guarani,1,2,D,V,NORMAL,B
+1995,1995-10-11,Goiás,Paraná,2,1,V,D,NORMAL,B
+1995,1995-10-12,São Paulo,Botafogo,0,2,D,V,NORMAL,B
+1995,1995-10-12,Portuguesa,Corinthians,0,1,D,V,NORMAL,B
+1995,1995-10-12,Vasco,Palmeiras,0,1,D,V,NORMAL,B
+1995,1995-10-12,Santos,Red Bull Bragantino,4,4,E,E,NORMAL,B
+1995,1995-10-12,Atlético Mineiro,Cruzeiro,2,0,V,D,NORMAL,B
+1995,1995-10-12,Bahia,Grêmio,1,0,V,D,NORMAL,B
+1995,1995-10-12,Sport,Juventude,3,1,V,D,NORMAL,B
+1995,1995-10-12,Internacional,Vitória,3,1,V,D,NORMAL,B
+1995,1995-10-12,Criciúma,Paysandu,4,1,V,D,NORMAL,B
+1995,1995-10-14,Guarani,São Paulo,4,2,V,D,NORMAL,B
+1995,1995-10-14,Paraná,Fluminense,1,1,E,E,NORMAL,B
+1995,1995-10-15,Botafogo,Internacional,0,0,E,E,NORMAL,B
+1995,1995-10-15,Flamengo,Criciúma,1,0,V,D,NORMAL,B
+1995,1995-10-15,Corinthians,Atlético Mineiro,3,1,V,D,NORMAL,B
+1995,1995-10-15,Red Bull Bragantino,Portuguesa,3,0,V,D,NORMAL,B
+1995,1995-10-15,Cruzeiro,Vasco,2,3,D,V,NORMAL,B
+1995,1995-10-15,Grêmio,União São João,2,0,V,D,NORMAL,B
+1995,1995-10-15,Juventude,Santos,1,1,E,E,NORMAL,B
+1995,1995-10-15,Vitória,Sport,0,2,D,V,NORMAL,B
+1995,1995-10-15,Paysandu,Bahia,2,2,E,E,NORMAL,B
+1995,1995-10-18,Fluminense,Flamengo,0,0,E,E,NORMAL,B
+1995,1995-10-19,Santos,Grêmio,4,1,V,D,NORMAL,B
+1995,1995-10-21,Bahia,Flamengo,2,2,E,E,NORMAL,B
+1995,1995-10-21,Criciúma,Corinthians,1,1,E,E,NORMAL,B
+1995,1995-10-22,Sport,Botafogo,1,2,D,V,NORMAL,B
+1995,1995-10-22,Internacional,Palmeiras,2,0,V,D,NORMAL,B
+1995,1995-10-22,Atlético Mineiro,Red Bull Bragantino,1,1,E,E,NORMAL,B
+1995,1995-10-22,Goiás,Guarani,3,1,V,D,NORMAL,B
+1995,1995-10-22,Santos,Cruzeiro,2,1,V,D,NORMAL,B
+1995,1995-10-22,União São João,Paraná,2,1,V,D,NORMAL,B
+1995,1995-10-22,Portuguesa,Grêmio,3,2,V,D,NORMAL,B
+1995,1995-10-22,São Paulo,Juventude,2,2,E,E,NORMAL,B
+1995,1995-10-22,Fluminense,Vitória,2,1,V,D,NORMAL,B
+1995,1995-10-22,Vasco,Paysandu,6,1,V,D,NORMAL,B
+1995,1995-10-24,Fluminense,Grêmio,0,0,E,E,NORMAL,B
+1995,1995-10-25,Palmeiras,Goiás,2,1,V,D,NORMAL,B
+1995,1995-10-28,Botafogo,Portuguesa,2,0,V,D,NORMAL,B
+1995,1995-10-28,Palmeiras,Fluminense,1,1,E,E,NORMAL,B
+1995,1995-10-29,Flamengo,Vasco,1,1,E,E,NORMAL,B
+1995,1995-10-29,Red Bull Bragantino,Criciúma,0,0,E,E,NORMAL,B
+1995,1995-10-29,Guarani,Internacional,2,1,V,D,NORMAL,B
+1995,1995-10-29,Cruzeiro,Goiás,0,0,E,E,NORMAL,B
+1995,1995-10-29,Paraná,Atlético Mineiro,2,3,D,V,NORMAL,B
+1995,1995-10-29,Grêmio,Sport,1,0,V,D,NORMAL,B
+1995,1995-10-29,Juventude,Bahia,3,0,V,D,NORMAL,B
+1995,1995-10-29,Vitória,Santos,4,0,V,D,NORMAL,B
+1995,1995-10-29,Paysandu,União São João,2,2,E,E,NORMAL,B
+1995,1995-10-29,Corinthians,São Paulo,1,0,V,D,NORMAL,B
+1995,1995-10-31,Internacional,Grêmio,0,1,D,V,NORMAL,B
+1995,1995-11-01,Vasco,Red Bull Bragantino,3,1,V,D,NORMAL,B
+1995,1995-11-03,Juventude,Internacional,2,1,V,D,NORMAL,B
+1995,1995-11-03,Vitória,Atlético Mineiro,0,3,D,V,NORMAL,B
+1995,1995-11-03,Guarani,Santos,0,2,D,V,NORMAL,B
+1995,1995-11-04,Criciúma,Botafogo,1,1,E,E,NORMAL,B
+1995,1995-11-04,Goiás,Corinthians,2,1,V,D,NORMAL,B
+1995,1995-11-05,Internacional,Flamengo,0,0,E,E,NORMAL,B
+1995,1995-11-05,Atlético Mineiro,Palmeiras,2,0,V,D,NORMAL,B
+1995,1995-11-05,Fluminense,Guarani,2,1,V,D,NORMAL,B
+1995,1995-11-05,Portuguesa,Cruzeiro,0,0,E,E,NORMAL,B
+1995,1995-11-05,São Paulo,Paraná,3,1,V,D,NORMAL,B
+1995,1995-11-05,União São João,Juventude,0,1,D,V,NORMAL,B
+1995,1995-11-05,Bahia,Vitória,1,1,E,E,NORMAL,B
+1995,1995-11-05,Sport,Paysandu,1,1,E,E,NORMAL,B
+1995,1995-11-05,Grêmio,Vasco,2,1,V,D,NORMAL,B
+1995,1995-11-07,Corinthians,Sport,3,2,V,D,NORMAL,B
+1995,1995-11-08,Cruzeiro,São Paulo,1,3,D,V,NORMAL,B
+1995,1995-11-08,Grêmio,Goiás,1,2,D,V,NORMAL,B
+1995,1995-11-08,Vitória,Criciúma,0,0,E,E,NORMAL,B
+1995,1995-11-09,Palmeiras,Bahia,3,0,V,D,NORMAL,B
+1995,1995-11-09,Botafogo,União São João,3,0,V,D,NORMAL,B
+1995,1995-11-09,Flamengo,Santos,0,3,D,V,NORMAL,B
+1995,1995-11-09,Red Bull Bragantino,Fluminense,1,0,V,D,NORMAL,B
+1995,1995-11-09,Juventude,Atlético Mineiro,1,1,E,E,NORMAL,B
+1995,1995-11-10,Paraná,Portuguesa,2,2,E,E,NORMAL,B
+1995,1995-11-11,Grêmio,São Paulo,2,1,V,D,NORMAL,B
+1995,1995-11-11,Vitória,Vasco,1,0,V,D,NORMAL,B
+1995,1995-11-11,Corinthians,Internacional,2,1,V,D,NORMAL,B
+1995,1995-11-12,Botafogo,Atlético Mineiro,5,0,V,D,NORMAL,B
+1995,1995-11-12,Flamengo,Goiás,2,1,V,D,NORMAL,B
+1995,1995-11-12,Palmeiras,Criciúma,2,0,V,D,NORMAL,B
+1995,1995-11-12,Red Bull Bragantino,Bahia,3,0,V,D,NORMAL,B
+1995,1995-11-12,Guarani,Sport,3,1,V,D,NORMAL,B
+1995,1995-11-12,Cruzeiro,União São João,2,1,V,D,NORMAL,B
+1995,1995-11-12,Paraná,Santos,0,0,E,E,NORMAL,B
+1995,1995-11-12,Juventude,Portuguesa,0,0,E,E,NORMAL,B
+1995,1995-11-12,Paysandu,Fluminense,0,0,E,E,NORMAL,B
+1995,1995-11-15,Paysandu,Internacional,0,0,E,E,NORMAL,B
+1995,1995-11-15,Criciúma,Juventude,1,1,E,E,NORMAL,B
+1995,1995-11-16,Guarani,Vasco,0,1,D,V,NORMAL,B
+1995,1995-11-16,Atlético Mineiro,Grêmio,2,1,V,D,NORMAL,B
+1995,1995-11-18,Goiás,Botafogo,0,1,D,V,NORMAL,B
+1995,1995-11-18,União São João,Palmeiras,0,3,D,V,NORMAL,B
+1995,1995-11-18,São Paulo,Vitória,2,0,V,D,NORMAL,B
+1995,1995-11-18,Grêmio,Criciúma,1,0,V,D,NORMAL,B
+1995,1995-11-19,Atlético Mineiro,Flamengo,2,1,V,D,NORMAL,B
+1995,1995-11-19,Vasco,Paraná,1,3,D,V,NORMAL,B
+1995,1995-11-19,Bahia,Guarani,1,0,V,D,NORMAL,B
+1995,1995-11-19,Sport,Red Bull Bragantino,2,0,V,D,NORMAL,B
+1995,1995-11-19,Fluminense,Cruzeiro,0,2,D,V,NORMAL,B
+1995,1995-11-19,Portuguesa,Paysandu,2,1,V,D,NORMAL,B
+1995,1995-11-19,Santos,Corinthians,3,0,V,D,NORMAL,B
+1995,1995-11-20,Paysandu,São Paulo,1,0,V,D,NORMAL,B
+1995,1995-11-21,Flamengo,Sport,2,1,V,D,NORMAL,B
+1995,1995-11-21,Cruzeiro,Criciúma,4,1,V,D,NORMAL,B
+1995,1995-11-21,Vitória,Portuguesa,1,2,D,V,NORMAL,B
+1995,1995-11-22,Palmeiras,Santos,0,1,D,V,NORMAL,B
+1995,1995-11-22,Botafogo,Bahia,2,0,V,D,NORMAL,B
+1995,1995-11-22,Red Bull Bragantino,Goiás,2,1,V,D,NORMAL,B
+1995,1995-11-22,Paraná,Internacional,2,2,E,E,NORMAL,B
+1995,1995-11-22,Juventude,Fluminense,3,1,V,D,NORMAL,B
+1995,1995-11-23,Guarani,Atlético Mineiro,1,3,D,V,NORMAL,B
+1995,1995-11-24,Corinthians,União São João,2,1,V,D,NORMAL,B
+1995,1995-11-25,Portuguesa,Flamengo,1,1,E,E,NORMAL,B
+1995,1995-11-25,Santos,Paysandu,2,1,V,D,NORMAL,B
+1995,1995-11-26,Vasco,Botafogo,0,2,D,V,NORMAL,B
+1995,1995-11-26,Fluminense,Corinthians,1,1,E,E,NORMAL,B
+1995,1995-11-26,São Paulo,Palmeiras,0,2,D,V,NORMAL,B
+1995,1995-11-26,Internacional,Red Bull Bragantino,2,2,E,E,NORMAL,B
+1995,1995-11-26,Criciúma,Guarani,2,0,V,D,NORMAL,B
+1995,1995-11-26,Sport,Cruzeiro,1,0,V,D,NORMAL,B
+1995,1995-11-26,Bahia,Paraná,0,2,D,V,NORMAL,B
+1995,1995-11-26,Goiás,Juventude,1,2,D,V,NORMAL,B
+1995,1995-11-26,União São João,Vitória,1,5,D,V,NORMAL,B
+1995,1995-11-27,Atlético Mineiro,Paysandu,3,0,V,D,NORMAL,B
+1995,1995-11-29,Santos,Botafogo,3,1,V,D,NORMAL,B
+1995,1995-11-29,Bahia,Corinthians,2,1,V,D,NORMAL,B
+1995,1995-11-29,Sport,Palmeiras,2,3,D,V,NORMAL,B
+1995,1995-11-29,Portuguesa,Guarani,0,0,E,E,NORMAL,B
+1995,1995-11-29,Internacional,Cruzeiro,2,0,V,D,NORMAL,B
+1995,1995-11-29,Criciúma,Paraná,0,0,E,E,NORMAL,B
+1995,1995-11-29,Goiás,Vitória,2,0,V,D,NORMAL,B
+1995,1995-11-30,São Paulo,Red Bull Bragantino,2,0,V,D,NORMAL,B
+1995,1995-11-30,Vasco,Juventude,1,2,D,V,NORMAL,B
+1995,1995-12-01,Red Bull Bragantino,União São João,3,1,V,D,NORMAL,B
+1995,1995-12-02,Corinthians,Vasco,3,1,V,D,NORMAL,B
+1995,1995-12-02,Palmeiras,Portuguesa,1,2,D,V,NORMAL,B
+1995,1995-12-02,Paraná,Sport,2,0,V,D,NORMAL,B
+1995,1995-12-03,Botafogo,Fluminense,1,1,E,E,NORMAL,B
+1995,1995-12-03,Flamengo,São Paulo,2,2,E,E,NORMAL,B
+1995,1995-12-03,Cruzeiro,Bahia,5,0,V,D,NORMAL,B
+1995,1995-12-03,Paysandu,Goiás,1,2,D,V,NORMAL,B
+1995,1995-12-06,Cruzeiro,Botafogo,1,1,E,E,NORMAL,SF
+1995,1995-12-07,Fluminense,Santos,4,1,V,D,NORMAL,SF
+1995,1995-12-08,União São João,Flamengo,2,2,E,E,NORMAL,B
+1995,1995-12-10,Santos,Fluminense,5,2,V,D,NORMAL,SF
+1995,1995-12-10,Botafogo,Cruzeiro,0,0,E,E,NORMAL,SF
+1995,1995-12-13,Botafogo,Santos,2,1,V,D,NORMAL,F
+1995,1995-12-17,Santos,Botafogo,1,1,E,E,NORMAL,F

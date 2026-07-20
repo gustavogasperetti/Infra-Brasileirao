@@ -1,0 +1,463 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2005,2005-04-23,Paraná,Goiás,0,2,D,V,NORMAL,R1
+2005,2005-04-23,Atlético Mineiro,Figueirense,4,1,V,D,NORMAL,R1
+2005,2005-04-23,São Caetano,Palmeiras,2,2,E,E,NORMAL,R1
+2005,2005-04-23,Flamengo,Cruzeiro,1,1,E,E,NORMAL,R1
+2005,2005-04-24,Internacional,Botafogo,0,2,D,V,NORMAL,R1
+2005,2005-04-24,Fortaleza,Coritiba,0,1,D,V,NORMAL,R1
+2005,2005-04-24,Fluminense,São Paulo,2,1,V,D,NORMAL,R1
+2005,2005-04-24,Corinthians,Juventude,2,2,E,E,NORMAL,R1
+2005,2005-04-24,Santos,Paysandu,4,1,V,D,NORMAL,R1
+2005,2005-04-24,Athletico Paranaense,Ponte Preta,0,1,D,V,NORMAL,R1
+2005,2005-04-24,Brasiliense,Vasco,0,1,D,V,NORMAL,R1
+2005,2005-04-30,Vasco,Fortaleza,0,0,E,E,NORMAL,R2
+2005,2005-04-30,Palmeiras,Brasiliense,2,1,V,D,NORMAL,R2
+2005,2005-04-30,Goiás,São Caetano,0,0,E,E,NORMAL,R2
+2005,2005-04-30,São Paulo,Paraná,1,1,E,E,NORMAL,R2
+2005,2005-04-30,Ponte Preta,Atlético Mineiro,3,3,E,E,NORMAL,R2
+2005,2005-05-01,Juventude,Athletico Paranaense,1,0,V,D,NORMAL,R2
+2005,2005-05-01,Figueirense,Flamengo,0,1,D,V,NORMAL,R2
+2005,2005-05-01,Botafogo,Corinthians,3,1,V,D,NORMAL,R2
+2005,2005-05-01,Cruzeiro,Internacional,3,2,V,D,NORMAL,R2
+2005,2005-05-01,Paysandu,Fluminense,1,2,D,V,NORMAL,R2
+2005,2005-05-01,Coritiba,Santos,2,3,D,V,NORMAL,R2
+2005,2005-05-07,Paraná,Juventude,2,2,E,E,NORMAL,R3
+2005,2005-05-07,Goiás,Figueirense,0,0,E,E,NORMAL,R3
+2005,2005-05-07,Santos,Athletico Paranaense,2,1,V,D,NORMAL,R3
+2005,2005-05-07,Ponte Preta,Paysandu,2,0,V,D,NORMAL,R3
+2005,2005-05-08,Internacional,Flamengo,1,0,V,D,NORMAL,R3
+2005,2005-05-08,Coritiba,Palmeiras,1,0,V,D,NORMAL,R3
+2005,2005-05-08,Corinthians,São Paulo,1,5,D,V,NORMAL,R3
+2005,2005-05-08,São Caetano,Fortaleza,2,1,V,D,NORMAL,R3
+2005,2005-05-08,Fluminense,Cruzeiro,2,1,V,D,NORMAL,R3
+2005,2005-05-08,Atlético Mineiro,Brasiliense,0,1,D,V,NORMAL,R3
+2005,2005-05-14,Fortaleza,Ponte Preta,2,1,V,D,NORMAL,R4
+2005,2005-05-14,São Paulo,Coritiba,1,0,V,D,NORMAL,R4
+2005,2005-05-14,Figueirense,Internacional,1,2,D,V,NORMAL,R4
+2005,2005-05-14,Botafogo,Atlético Mineiro,2,1,V,D,NORMAL,R4
+2005,2005-05-15,Juventude,Vasco,4,1,V,D,NORMAL,R4
+2005,2005-05-15,Paysandu,São Caetano,3,2,V,D,NORMAL,R4
+2005,2005-05-15,Athletico Paranaense,Corinthians,1,2,D,V,NORMAL,R4
+2005,2005-05-15,Cruzeiro,Goiás,3,1,V,D,NORMAL,R4
+2005,2005-05-15,Flamengo,Santos,2,1,V,D,NORMAL,R4
+2005,2005-05-15,Palmeiras,Paraná,1,2,D,V,NORMAL,R4
+2005,2005-05-15,Brasiliense,Fluminense,0,3,D,V,NORMAL,R4
+2005,2005-05-21,Juventude,Paysandu,2,0,V,D,NORMAL,R5
+2005,2005-05-21,Paraná,Ponte Preta,1,1,E,E,NORMAL,R5
+2005,2005-05-21,Fortaleza,Brasiliense,2,0,V,D,NORMAL,R5
+2005,2005-05-21,Fluminense,Coritiba,2,4,D,V,NORMAL,R5
+2005,2005-05-21,Goiás,Botafogo,4,0,V,D,NORMAL,R5
+2005,2005-05-22,Santos,Atlético Mineiro,3,0,V,D,NORMAL,R5
+2005,2005-05-22,São Caetano,Flamengo,1,0,V,D,NORMAL,R5
+2005,2005-05-22,Vasco,São Paulo,3,1,V,D,NORMAL,R5
+2005,2005-05-22,Athletico Paranaense,Internacional,1,3,D,V,NORMAL,R5
+2005,2005-05-22,Cruzeiro,Palmeiras,2,0,V,D,NORMAL,R5
+2005,2005-05-22,Corinthians,Figueirense,2,1,V,D,NORMAL,R5
+2005,2005-05-28,Paysandu,Goiás,1,0,V,D,NORMAL,R6
+2005,2005-05-28,São Paulo,Cruzeiro,1,1,E,E,NORMAL,R6
+2005,2005-05-28,Figueirense,São Caetano,2,0,V,D,NORMAL,R6
+2005,2005-05-29,Ponte Preta,Vasco,4,2,V,D,NORMAL,R6
+2005,2005-05-29,Flamengo,Fluminense,0,0,E,E,NORMAL,R6
+2005,2005-05-29,Atlético Mineiro,Corinthians,0,1,D,V,NORMAL,R6
+2005,2005-05-29,Palmeiras,Santos,2,1,V,D,NORMAL,R6
+2005,2005-05-29,Brasiliense,Paraná,1,0,V,D,NORMAL,R6
+2005,2005-05-29,Internacional,Fortaleza,1,0,V,D,NORMAL,R6
+2005,2005-05-29,Coritiba,Juventude,1,2,D,V,NORMAL,R6
+2005,2005-05-29,Botafogo,Athletico Paranaense,2,0,V,D,NORMAL,R6
+2005,2005-06-11,Paraná,Fortaleza,3,0,V,D,NORMAL,R7
+2005,2005-06-11,São Caetano,Brasiliense,2,0,V,D,NORMAL,R7
+2005,2005-06-11,Athletico Paranaense,Figueirense,0,0,E,E,NORMAL,R7
+2005,2005-06-11,Cruzeiro,Ponte Preta,1,2,D,V,NORMAL,R7
+2005,2005-06-11,Botafogo,Juventude,3,2,V,D,NORMAL,R7
+2005,2005-06-11,Goiás,Palmeiras,2,1,V,D,NORMAL,R7
+2005,2005-06-12,Santos,Fluminense,1,1,E,E,NORMAL,R7
+2005,2005-06-12,Internacional,Atlético Mineiro,1,1,E,E,NORMAL,R7
+2005,2005-06-12,Corinthians,Flamengo,4,2,V,D,NORMAL,R7
+2005,2005-06-12,Paysandu,São Paulo,2,2,E,E,NORMAL,R7
+2005,2005-06-12,Vasco,Coritiba,2,2,E,E,NORMAL,R7
+2005,2005-06-18,Figueirense,Paysandu,3,3,E,E,NORMAL,R8
+2005,2005-06-18,Palmeiras,Vasco,5,2,V,D,NORMAL,R8
+2005,2005-06-18,Brasiliense,Corinthians,2,4,D,V,NORMAL,R8
+2005,2005-06-18,Ponte Preta,Goiás,2,0,V,D,NORMAL,R8
+2005,2005-06-18,Flamengo,Athletico Paranaense,1,1,E,E,NORMAL,R8
+2005,2005-06-18,Atlético Mineiro,São Caetano,2,3,D,V,NORMAL,R8
+2005,2005-06-19,São Paulo,Botafogo,1,0,V,D,NORMAL,R8
+2005,2005-06-19,Juventude,Cruzeiro,0,0,E,E,NORMAL,R8
+2005,2005-06-19,Fortaleza,Santos,0,0,E,E,NORMAL,R8
+2005,2005-06-19,Coritiba,Paraná,2,1,V,D,NORMAL,R8
+2005,2005-06-19,Fluminense,Internacional,3,0,V,D,NORMAL,R8
+2005,2005-06-25,Juventude,Ponte Preta,1,3,D,V,NORMAL,R9
+2005,2005-06-25,Paraná,Atlético Mineiro,1,0,V,D,NORMAL,R9
+2005,2005-06-25,São Paulo,Internacional,1,3,D,V,NORMAL,R9
+2005,2005-06-25,Flamengo,Brasiliense,3,4,D,V,NORMAL,R9
+2005,2005-06-26,São Caetano,Santos,1,3,D,V,NORMAL,R9
+2005,2005-06-26,Botafogo,Figueirense,0,1,D,V,NORMAL,R9
+2005,2005-06-26,Corinthians,Fluminense,0,1,D,V,NORMAL,R9
+2005,2005-06-26,Goiás,Coritiba,2,1,V,D,NORMAL,R9
+2005,2005-06-26,Paysandu,Palmeiras,2,1,V,D,NORMAL,R9
+2005,2005-06-26,Athletico Paranaense,Fortaleza,0,0,E,E,NORMAL,R9
+2005,2005-06-26,Cruzeiro,Vasco,3,3,E,E,NORMAL,R9
+2005,2005-07-02,Vasco,Goiás,1,2,D,V,NORMAL,R10
+2005,2005-07-03,Figueirense,Cruzeiro,0,0,E,E,NORMAL,R10
+2005,2005-07-03,Fortaleza,Corinthians,2,1,V,D,NORMAL,R10
+2005,2005-07-03,Coritiba,Paysandu,3,1,V,D,NORMAL,R10
+2005,2005-07-03,Fluminense,Paraná,0,1,D,V,NORMAL,R10
+2005,2005-07-03,Atlético Mineiro,Flamengo,3,1,V,D,NORMAL,R10
+2005,2005-07-03,Santos,Juventude,0,0,E,E,NORMAL,R10
+2005,2005-07-03,Internacional,São Caetano,2,1,V,D,NORMAL,R10
+2005,2005-07-03,Palmeiras,Botafogo,4,1,V,D,NORMAL,R10
+2005,2005-07-03,Brasiliense,Athletico Paranaense,2,1,V,D,NORMAL,R10
+2005,2005-07-09,Juventude,Brasiliense,2,1,V,D,NORMAL,R11
+2005,2005-07-09,Paraná,Figueirense,3,0,V,D,NORMAL,R11
+2005,2005-07-09,São Paulo,Flamengo,2,0,V,D,NORMAL,R11
+2005,2005-07-09,São Caetano,Ponte Preta,2,1,V,D,NORMAL,R11
+2005,2005-07-09,Paysandu,Fortaleza,1,2,D,V,NORMAL,R11
+2005,2005-07-10,Botafogo,Fluminense,1,2,D,V,NORMAL,R11
+2005,2005-07-10,Corinthians,Palmeiras,3,1,V,D,NORMAL,R11
+2005,2005-07-10,Goiás,Santos,3,4,D,V,NORMAL,R11
+2005,2005-07-10,Vasco,Internacional,2,4,D,V,NORMAL,R11
+2005,2005-07-10,Athletico Paranaense,Coritiba,1,0,V,D,NORMAL,R11
+2005,2005-07-10,Cruzeiro,Atlético Mineiro,2,1,V,D,NORMAL,R11
+2005,2005-07-16,Ponte Preta,Figueirense,2,1,V,D,NORMAL,R12
+2005,2005-07-16,Goiás,Brasiliense,1,3,D,V,NORMAL,R12
+2005,2005-07-16,Paraná,Corinthians,2,3,D,V,NORMAL,R12
+2005,2005-07-16,Fluminense,São Caetano,0,1,D,V,NORMAL,R12
+2005,2005-07-17,Santos,São Paulo,2,1,V,D,NORMAL,R12
+2005,2005-07-17,Flamengo,Vasco,1,0,V,D,NORMAL,R12
+2005,2005-07-17,Coritiba,Botafogo,0,3,D,V,NORMAL,R12
+2005,2005-07-17,Atlético Mineiro,Athletico Paranaense,2,3,D,V,NORMAL,R12
+2005,2005-07-17,Internacional,Juventude,5,2,V,D,NORMAL,R12
+2005,2005-07-17,Palmeiras,Fortaleza,1,2,D,V,NORMAL,R12
+2005,2005-07-20,Internacional,Goiás,2,3,D,V,NORMAL,R13
+2005,2005-07-20,São Caetano,Paraná,1,1,E,E,NORMAL,R13
+2005,2005-07-20,Fortaleza,Atlético Mineiro,1,4,D,V,NORMAL,R13
+2005,2005-07-20,Athletico Paranaense,Fluminense,3,2,V,D,NORMAL,R13
+2005,2005-07-20,Botafogo,Ponte Preta,4,2,V,D,NORMAL,R13
+2005,2005-07-20,Santos,Vasco,2,3,D,V,NORMAL,R13
+2005,2005-07-20,Figueirense,Palmeiras,1,4,D,V,NORMAL,R13
+2005,2005-07-20,Brasiliense,São Paulo,3,3,E,E,NORMAL,R13
+2005,2005-07-21,Flamengo,Juventude,3,4,D,V,NORMAL,R13
+2005,2005-07-21,Cruzeiro,Coritiba,2,2,E,E,NORMAL,R13
+2005,2005-07-21,Corinthians,Paysandu,3,2,V,D,NORMAL,R13
+2005,2005-07-23,Paraná,Athletico Paranaense,2,0,V,D,NORMAL,R14
+2005,2005-07-23,Botafogo,Brasiliense,1,1,E,E,NORMAL,R14
+2005,2005-07-23,Goiás,Fortaleza,2,1,V,D,NORMAL,R14
+2005,2005-07-23,São Paulo,São Caetano,0,1,D,V,NORMAL,R14
+2005,2005-07-24,Vasco,Corinthians,2,3,D,V,NORMAL,R14
+2005,2005-07-24,Coritiba,Flamengo,3,2,V,D,NORMAL,R14
+2005,2005-07-24,Palmeiras,Atlético Mineiro,1,0,V,D,NORMAL,R14
+2005,2005-07-24,Ponte Preta,Fluminense,2,1,V,D,NORMAL,R14
+2005,2005-07-24,Paysandu,Internacional,1,2,D,V,NORMAL,R14
+2005,2005-07-24,Cruzeiro,Santos,3,2,V,D,NORMAL,R14
+2005,2005-07-27,São Caetano,Botafogo,0,1,D,V,NORMAL,R15
+2005,2005-07-27,Fortaleza,Juventude,2,0,V,D,NORMAL,R15
+2005,2005-07-27,Fluminense,Goiás,1,1,E,E,NORMAL,R15
+2005,2005-07-27,Corinthians,Cruzeiro,4,3,V,D,NORMAL,R15
+2005,2005-07-27,Santos,Ponte Preta,0,1,D,V,NORMAL,R15
+2005,2005-07-27,Athletico Paranaense,Vasco,7,2,V,D,NORMAL,R15
+2005,2005-07-27,Atlético Mineiro,São Paulo,0,0,E,E,NORMAL,R15
+2005,2005-07-28,Internacional,Paraná,0,2,D,V,NORMAL,R15
+2005,2005-07-28,Figueirense,Coritiba,0,0,E,E,NORMAL,R15
+2005,2005-07-28,Flamengo,Palmeiras,0,0,E,E,NORMAL,R15
+2005,2005-07-28,Brasiliense,Paysandu,0,0,E,E,NORMAL,R15
+2005,2005-07-30,Vasco,São Caetano,3,2,V,D,NORMAL,R16
+2005,2005-07-30,Cruzeiro,Fortaleza,3,0,V,D,NORMAL,R16
+2005,2005-07-30,Goiás,Atlético Mineiro,3,1,V,D,NORMAL,R16
+2005,2005-07-31,Juventude,São Paulo,2,1,V,D,NORMAL,R16
+2005,2005-07-31,Figueirense,Fluminense,1,1,E,E,NORMAL,R16
+2005,2005-07-31,Ponte Preta,Internacional,1,1,E,E,NORMAL,R16
+2005,2005-07-31,Paysandu,Paraná,3,4,D,V,NORMAL,R16
+2005,2005-07-31,Coritiba,Brasiliense,1,1,E,E,NORMAL,R16
+2005,2005-07-31,Botafogo,Flamengo,0,2,D,V,NORMAL,R16
+2005,2005-07-31,Palmeiras,Athletico Paranaense,1,1,E,E,NORMAL,R16
+2005,2005-08-03,São Caetano,Juventude,1,1,E,E,NORMAL,R17
+2005,2005-08-03,Brasiliense,Cruzeiro,1,2,D,V,NORMAL,R17
+2005,2005-08-03,Athletico Paranaense,Goiás,1,0,V,D,NORMAL,R17
+2005,2005-08-03,Atlético Mineiro,Paysandu,2,2,E,E,NORMAL,R17
+2005,2005-08-03,Corinthians,Coritiba,3,0,V,D,NORMAL,R17
+2005,2005-08-03,Internacional,Santos,0,1,D,V,NORMAL,R17
+2005,2005-08-03,Paraná,Botafogo,2,0,V,D,NORMAL,R17
+2005,2005-08-03,Flamengo,Ponte Preta,1,0,V,D,NORMAL,R17
+2005,2005-08-04,São Paulo,Palmeiras,3,3,E,E,NORMAL,R17
+2005,2005-08-04,Fortaleza,Figueirense,5,2,V,D,NORMAL,R17
+2005,2005-08-04,Fluminense,Vasco,3,2,V,D,NORMAL,R17
+2005,2005-08-06,Athletico Paranaense,Cruzeiro,5,4,V,D,NORMAL,R18
+2005,2005-08-06,Botafogo,Paysandu,2,0,V,D,NORMAL,R18
+2005,2005-08-06,Corinthians,São Caetano,0,2,D,V,NORMAL,R18
+2005,2005-08-07,Juventude,Palmeiras,1,2,D,V,NORMAL,R18
+2005,2005-08-07,Paraná,Santos,1,1,E,E,NORMAL,R18
+2005,2005-08-07,Fortaleza,Flamengo,2,1,V,D,NORMAL,R18
+2005,2005-08-07,São Paulo,Goiás,0,1,D,V,NORMAL,R18
+2005,2005-08-07,Ponte Preta,Coritiba,0,3,D,V,NORMAL,R18
+2005,2005-08-07,Atlético Mineiro,Fluminense,1,2,D,V,NORMAL,R18
+2005,2005-08-07,Brasiliense,Internacional,0,0,E,E,NORMAL,R18
+2005,2005-08-10,São Caetano,Athletico Paranaense,3,2,V,D,NORMAL,R19
+2005,2005-08-10,Paysandu,Vasco,0,2,D,V,NORMAL,R19
+2005,2005-08-10,Coritiba,Atlético Mineiro,1,0,V,D,NORMAL,R19
+2005,2005-08-10,Palmeiras,Ponte Preta,2,1,V,D,NORMAL,R19
+2005,2005-08-10,Internacional,Corinthians,0,0,E,E,NORMAL,R19
+2005,2005-08-10,Figueirense,São Paulo,3,1,V,D,NORMAL,R19
+2005,2005-08-11,Santos,Brasiliense,1,1,E,E,NORMAL,R19
+2005,2005-08-11,Flamengo,Paraná,1,1,E,E,NORMAL,R19
+2005,2005-08-11,Fluminense,Fortaleza,2,0,V,D,NORMAL,R19
+2005,2005-08-11,Goiás,Juventude,1,0,V,D,NORMAL,R19
+2005,2005-08-13,Coritiba,São Caetano,2,2,E,E,NORMAL,R20
+2005,2005-08-13,Palmeiras,Internacional,3,2,V,D,NORMAL,R20
+2005,2005-08-13,Paysandu,Athletico Paranaense,2,1,V,D,NORMAL,R20
+2005,2005-08-14,Figueirense,Brasiliense,2,2,E,E,NORMAL,R20
+2005,2005-08-14,Ponte Preta,Corinthians,3,5,D,V,NORMAL,R20
+2005,2005-08-14,Vasco,Atlético Mineiro,2,1,V,D,NORMAL,R20
+2005,2005-08-14,Cruzeiro,Paraná,0,1,D,V,NORMAL,R20
+2005,2005-08-14,Goiás,Flamengo,2,0,V,D,NORMAL,R20
+2005,2005-08-14,São Paulo,Fortaleza,3,2,V,D,NORMAL,R20
+2005,2005-08-14,Botafogo,Santos,3,3,E,E,NORMAL,R20
+2005,2005-08-20,Atlético Mineiro,Juventude,2,1,V,D,NORMAL,R21
+2005,2005-08-20,São Caetano,Cruzeiro,0,1,D,V,NORMAL,R21
+2005,2005-08-20,Athletico Paranaense,São Paulo,4,2,V,D,NORMAL,R21
+2005,2005-08-21,Paraná,Vasco,0,0,E,E,NORMAL,R21
+2005,2005-08-21,Fluminense,Palmeiras,2,2,E,E,NORMAL,R21
+2005,2005-08-21,Corinthians,Goiás,1,1,E,E,NORMAL,R21
+2005,2005-08-21,Brasiliense,Ponte Preta,4,0,V,D,NORMAL,R21
+2005,2005-08-21,Santos,Figueirense,4,3,V,D,NORMAL,R21
+2005,2005-08-21,Fortaleza,Botafogo,3,1,V,D,NORMAL,R21
+2005,2005-08-21,Flamengo,Paysandu,2,1,V,D,NORMAL,R21
+2005,2005-08-24,Ponte Preta,Athletico Paranaense,0,2,D,V,NORMAL,R22
+2005,2005-08-24,Palmeiras,São Caetano,2,1,V,D,NORMAL,R22
+2005,2005-08-24,Vasco,Brasiliense,1,0,V,D,NORMAL,R22
+2005,2005-08-24,Goiás,Paraná,1,1,E,E,NORMAL,R22
+2005,2005-08-24,São Paulo,Fluminense,1,1,E,E,NORMAL,R22
+2005,2005-08-24,Juventude,Corinthians,1,0,V,D,NORMAL,R22
+2005,2005-08-24,Paysandu,Santos,2,3,D,V,NORMAL,R22
+2005,2005-08-24,Cruzeiro,Flamengo,0,0,E,E,NORMAL,R22
+2005,2005-08-25,Figueirense,Atlético Mineiro,0,1,D,V,NORMAL,R22
+2005,2005-08-25,Coritiba,Fortaleza,2,0,V,D,NORMAL,R22
+2005,2005-08-25,Botafogo,Internacional,0,1,D,V,NORMAL,R22
+2005,2005-08-27,São Caetano,Goiás,0,1,D,V,NORMAL,R23
+2005,2005-08-27,Athletico Paranaense,Juventude,2,2,E,E,NORMAL,R23
+2005,2005-08-27,Brasiliense,Palmeiras,3,2,V,D,NORMAL,R23
+2005,2005-08-28,Internacional,Cruzeiro,4,1,V,D,NORMAL,R23
+2005,2005-08-28,Paraná,São Paulo,0,4,D,V,NORMAL,R23
+2005,2005-08-28,Flamengo,Figueirense,2,2,E,E,NORMAL,R23
+2005,2005-08-28,Atlético Mineiro,Ponte Preta,1,0,V,D,NORMAL,R23
+2005,2005-08-28,Corinthians,Botafogo,3,3,E,E,NORMAL,R23
+2005,2005-08-28,Santos,Coritiba,2,0,V,D,NORMAL,R23
+2005,2005-08-28,Fortaleza,Vasco,4,2,V,D,NORMAL,R23
+2005,2005-08-28,Fluminense,Paysandu,5,2,V,D,NORMAL,R23
+2005,2005-09-07,Figueirense,Goiás,3,0,V,D,NORMAL,R24
+2005,2005-09-07,Fortaleza,São Caetano,5,2,V,D,NORMAL,R24
+2005,2005-09-07,Botafogo,Vasco,2,2,E,E,NORMAL,R24
+2005,2005-09-07,Brasiliense,Atlético Mineiro,1,2,D,V,NORMAL,R24
+2005,2005-09-07,Juventude,Paraná,2,0,V,D,NORMAL,R24
+2005,2005-09-07,Paysandu,Ponte Preta,2,2,E,E,NORMAL,R24
+2005,2005-09-07,Athletico Paranaense,Santos,3,3,E,E,NORMAL,R24
+2005,2005-09-07,Cruzeiro,Fluminense,2,6,D,V,NORMAL,R24
+2005,2005-09-08,Flamengo,Internacional,1,1,E,E,NORMAL,R24
+2005,2005-09-08,Palmeiras,Coritiba,1,1,E,E,NORMAL,R24
+2005,2005-09-10,São Caetano,Paysandu,1,2,D,V,NORMAL,R25
+2005,2005-09-10,Goiás,Cruzeiro,1,0,V,D,NORMAL,R25
+2005,2005-09-11,Santos,Flamengo,0,0,E,E,NORMAL,R25
+2005,2005-09-11,Internacional,Figueirense,3,0,V,D,NORMAL,R25
+2005,2005-09-11,Paraná,Palmeiras,1,3,D,V,NORMAL,R25
+2005,2005-09-11,Vasco,Juventude,5,2,V,D,NORMAL,R25
+2005,2005-09-11,Corinthians,Athletico Paranaense,2,0,V,D,NORMAL,R25
+2005,2005-09-11,Ponte Preta,Fortaleza,2,1,V,D,NORMAL,R25
+2005,2005-09-11,Coritiba,São Paulo,1,4,D,V,NORMAL,R25
+2005,2005-09-11,Atlético Mineiro,Botafogo,0,2,D,V,NORMAL,R25
+2005,2005-09-17,Ponte Preta,Paraná,1,0,V,D,NORMAL,R26
+2005,2005-09-17,Paysandu,Juventude,3,0,V,D,NORMAL,R26
+2005,2005-09-17,Flamengo,São Caetano,2,0,V,D,NORMAL,R26
+2005,2005-09-17,Palmeiras,Cruzeiro,2,1,V,D,NORMAL,R26
+2005,2005-09-18,São Paulo,Vasco,4,2,V,D,NORMAL,R26
+2005,2005-09-18,Internacional,Athletico Paranaense,3,2,V,D,NORMAL,R26
+2005,2005-09-18,Figueirense,Corinthians,2,3,D,V,NORMAL,R26
+2005,2005-09-18,Botafogo,Goiás,3,1,V,D,NORMAL,R26
+2005,2005-09-18,Brasiliense,Fortaleza,0,2,D,V,NORMAL,R26
+2005,2005-09-18,Coritiba,Fluminense,0,0,E,E,NORMAL,R26
+2005,2005-09-18,Atlético Mineiro,Santos,3,0,V,D,NORMAL,R26
+2005,2005-09-21,São Caetano,Figueirense,0,1,D,V,NORMAL,R27
+2005,2005-09-21,Fortaleza,Internacional,1,2,D,V,NORMAL,R27
+2005,2005-09-21,Paraná,Brasiliense,4,1,V,D,NORMAL,R27
+2005,2005-09-21,Goiás,Paysandu,4,1,V,D,NORMAL,R27
+2005,2005-09-21,Santos,Palmeiras,2,1,V,D,NORMAL,R27
+2005,2005-09-21,Fluminense,Flamengo,2,2,E,E,NORMAL,R27
+2005,2005-09-21,Cruzeiro,São Paulo,2,3,D,V,NORMAL,R27
+2005,2005-09-22,Juventude,Coritiba,0,0,E,E,NORMAL,R27
+2005,2005-09-22,Vasco,Ponte Preta,0,0,E,E,NORMAL,R27
+2005,2005-09-22,Athletico Paranaense,Botafogo,2,0,V,D,NORMAL,R27
+2005,2005-09-22,Corinthians,Atlético Mineiro,1,1,E,E,NORMAL,R27
+2005,2005-09-24,São Paulo,Paysandu,4,1,V,D,NORMAL,R28
+2005,2005-09-24,Brasiliense,São Caetano,1,1,E,E,NORMAL,R28
+2005,2005-09-24,Fortaleza,Paraná,2,2,E,E,NORMAL,R28
+2005,2005-09-25,Juventude,Botafogo,0,0,E,E,NORMAL,R28
+2005,2005-09-25,Figueirense,Athletico Paranaense,2,0,V,D,NORMAL,R28
+2005,2005-09-25,Ponte Preta,Cruzeiro,2,3,D,V,NORMAL,R28
+2005,2005-09-25,Flamengo,Corinthians,1,3,D,V,NORMAL,R28
+2005,2005-09-25,Coritiba,Vasco,2,0,V,D,NORMAL,R28
+2005,2005-09-25,Fluminense,Santos,4,3,V,D,NORMAL,R28
+2005,2005-09-25,Atlético Mineiro,Internacional,1,1,E,E,NORMAL,R28
+2005,2005-09-25,Palmeiras,Goiás,3,1,V,D,NORMAL,R28
+2005,2005-10-01,Paraná,Coritiba,3,2,V,D,NORMAL,R29
+2005,2005-10-01,Cruzeiro,Juventude,2,0,V,D,NORMAL,R29
+2005,2005-10-01,Goiás,Ponte Preta,4,1,V,D,NORMAL,R29
+2005,2005-10-01,Paysandu,Figueirense,3,1,V,D,NORMAL,R29
+2005,2005-10-01,Santos,Fortaleza,0,0,E,E,NORMAL,R29
+2005,2005-10-01,São Caetano,Atlético Mineiro,3,1,V,D,NORMAL,R29
+2005,2005-10-02,Internacional,Fluminense,2,2,E,E,NORMAL,R29
+2005,2005-10-02,Vasco,Palmeiras,0,0,E,E,NORMAL,R29
+2005,2005-10-02,Corinthians,Brasiliense,3,2,V,D,NORMAL,R29
+2005,2005-10-02,Athletico Paranaense,Flamengo,2,0,V,D,NORMAL,R29
+2005,2005-10-02,Botafogo,São Paulo,1,1,E,E,NORMAL,R29
+2005,2005-10-04,Santos,São Caetano,2,0,V,D,NORMAL,R30
+2005,2005-10-04,Ponte Preta,Juventude,3,2,V,D,NORMAL,R30
+2005,2005-10-04,Coritiba,Goiás,0,2,D,V,NORMAL,R30
+2005,2005-10-04,Atlético Mineiro,Paraná,0,1,D,V,NORMAL,R30
+2005,2005-10-05,Figueirense,Botafogo,1,0,V,D,NORMAL,R30
+2005,2005-10-05,Fortaleza,Athletico Paranaense,1,4,D,V,NORMAL,R30
+2005,2005-10-05,Vasco,Cruzeiro,3,3,E,E,NORMAL,R30
+2005,2005-10-05,Palmeiras,Paysandu,5,3,V,D,NORMAL,R30
+2005,2005-10-05,Internacional,São Paulo,3,0,V,D,NORMAL,R30
+2005,2005-10-05,Fluminense,Corinthians,0,2,D,V,NORMAL,R30
+2005,2005-10-05,Brasiliense,Flamengo,2,3,D,V,NORMAL,R30
+2005,2005-10-08,Paraná,Fluminense,6,1,V,D,NORMAL,R31
+2005,2005-10-08,Botafogo,Palmeiras,1,2,D,V,NORMAL,R31
+2005,2005-10-08,Corinthians,Fortaleza,3,0,V,D,NORMAL,R31
+2005,2005-10-08,Juventude,Santos,3,1,V,D,NORMAL,R31
+2005,2005-10-08,Cruzeiro,Figueirense,4,0,V,D,NORMAL,R31
+2005,2005-10-08,Goiás,Vasco,4,3,V,D,NORMAL,R31
+2005,2005-10-11,São Paulo,Ponte Preta,3,2,V,D,NORMAL,R31
+2005,2005-10-11,São Caetano,Internacional,1,1,E,E,NORMAL,R31
+2005,2005-10-11,Paysandu,Coritiba,2,1,V,D,NORMAL,R31
+2005,2005-10-11,Flamengo,Atlético Mineiro,1,2,D,V,NORMAL,R31
+2005,2005-10-11,Athletico Paranaense,Brasiliense,4,0,V,D,NORMAL,R31
+2005,2005-10-12,Vasco,Figueirense,3,3,E,E,NORMAL,R18
+2005,2005-10-12,Cruzeiro,Botafogo,2,2,E,E,NORMAL,R19
+2005,2005-10-12,Juventude,Fluminense,3,4,D,V,NORMAL,R20
+2005,2005-10-13,Santos,Corinthians,2,3,D,V,NORMAL,R16
+2005,2005-10-15,Fortaleza,Paysandu,1,2,D,V,NORMAL,R32
+2005,2005-10-15,Fluminense,Botafogo,3,2,V,D,NORMAL,R32
+2005,2005-10-15,Brasiliense,Juventude,1,0,V,D,NORMAL,R32
+2005,2005-10-15,Figueirense,Paraná,2,0,V,D,NORMAL,R32
+2005,2005-10-15,Coritiba,Athletico Paranaense,1,2,D,V,NORMAL,R32
+2005,2005-10-16,Internacional,Vasco,3,1,V,D,NORMAL,R32
+2005,2005-10-16,Flamengo,São Paulo,1,6,D,V,NORMAL,R32
+2005,2005-10-16,Atlético Mineiro,Cruzeiro,0,1,D,V,NORMAL,R32
+2005,2005-10-16,Palmeiras,Corinthians,1,1,E,E,NORMAL,R32
+2005,2005-10-16,Santos,Goiás,1,1,E,E,NORMAL,R32
+2005,2005-10-16,Ponte Preta,São Caetano,1,2,D,V,NORMAL,R32
+2005,2005-10-19,Vasco,Botafogo,1,0,V,D,NORMAL,R3
+2005,2005-10-19,Juventude,Figueirense,2,2,E,E,NORMAL,R14
+2005,2005-10-19,Ponte Preta,São Paulo,2,0,V,D,NORMAL,R10
+2005,2005-10-19,Paysandu,Cruzeiro,4,1,V,D,NORMAL,R12
+2005,2005-10-21,São Caetano,Fluminense,2,2,E,E,NORMAL,R33
+2005,2005-10-21,Brasiliense,Goiás,1,2,D,V,NORMAL,R33
+2005,2005-10-22,Fortaleza,Palmeiras,1,1,E,E,NORMAL,R33
+2005,2005-10-22,Vasco,Flamengo,2,1,V,D,NORMAL,R33
+2005,2005-10-22,Athletico Paranaense,Atlético Mineiro,2,0,V,D,NORMAL,R33
+2005,2005-10-22,Corinthians,Paraná,1,0,V,D,NORMAL,R33
+2005,2005-10-22,Juventude,Internacional,2,1,V,D,NORMAL,R33
+2005,2005-10-22,Figueirense,Ponte Preta,4,0,V,D,NORMAL,R33
+2005,2005-10-22,Cruzeiro,Paysandu,4,3,V,D,NORMAL,R33
+2005,2005-10-22,São Paulo,Santos,1,2,D,V,NORMAL,R33
+2005,2005-10-22,Botafogo,Coritiba,2,0,V,D,NORMAL,R33
+2005,2005-10-24,São Paulo,Corinthians,1,1,E,E,NORMAL,R24
+2005,2005-10-24,Fluminense,Brasiliense,1,1,E,E,NORMAL,R25
+2005,2005-10-25,Coritiba,Cruzeiro,0,3,D,V,NORMAL,R34
+2005,2005-10-25,Goiás,Internacional,0,1,D,V,NORMAL,R34
+2005,2005-10-26,Atlético Mineiro,Fortaleza,2,3,D,V,NORMAL,R34
+2005,2005-10-26,Palmeiras,Figueirense,2,2,E,E,NORMAL,R34
+2005,2005-10-26,Juventude,Flamengo,2,2,E,E,NORMAL,R34
+2005,2005-10-26,Vasco,Santos,1,3,D,V,NORMAL,R34
+2005,2005-10-27,São Paulo,Brasiliense,1,2,D,V,NORMAL,R34
+2005,2005-10-27,Ponte Preta,Botafogo,0,1,D,V,NORMAL,R34
+2005,2005-10-27,Paysandu,Corinthians,0,2,D,V,NORMAL,R34
+2005,2005-10-27,Fluminense,Athletico Paranaense,4,1,V,D,NORMAL,R34
+2005,2005-10-28,Paraná,São Caetano,1,3,D,V,NORMAL,R34
+2005,2005-10-28,Internacional,Coritiba,3,2,V,D,NORMAL,R21
+2005,2005-10-29,Figueirense,Juventude,4,3,V,D,NORMAL,R35
+2005,2005-10-29,Fortaleza,Goiás,1,1,E,E,NORMAL,R35
+2005,2005-10-30,Santos,Cruzeiro,1,2,D,V,NORMAL,R35
+2005,2005-10-30,Athletico Paranaense,Paraná,2,1,V,D,NORMAL,R35
+2005,2005-10-30,Atlético Mineiro,Palmeiras,1,3,D,V,NORMAL,R35
+2005,2005-10-30,Corinthians,Vasco,1,1,E,E,NORMAL,R35
+2005,2005-10-30,São Caetano,São Paulo,0,1,D,V,NORMAL,R35
+2005,2005-10-30,Fluminense,Ponte Preta,4,3,V,D,NORMAL,R35
+2005,2005-10-30,Brasiliense,Botafogo,0,0,E,E,NORMAL,R35
+2005,2005-10-31,Internacional,Paysandu,1,0,V,D,NORMAL,R35
+2005,2005-10-31,Flamengo,Coritiba,2,1,V,D,NORMAL,R35
+2005,2005-11-02,São Paulo,Atlético Mineiro,2,2,E,E,NORMAL,R36
+2005,2005-11-02,Juventude,Fortaleza,2,0,V,D,NORMAL,R36
+2005,2005-11-02,Ponte Preta,Santos,2,1,V,D,NORMAL,R36
+2005,2005-11-02,Cruzeiro,Corinthians,2,1,V,D,NORMAL,R36
+2005,2005-11-02,Goiás,Fluminense,1,2,D,V,NORMAL,R36
+2005,2005-11-03,Coritiba,Figueirense,4,1,V,D,NORMAL,R36
+2005,2005-11-03,Paraná,Internacional,3,1,V,D,NORMAL,R36
+2005,2005-11-03,Vasco,Athletico Paranaense,2,1,V,D,NORMAL,R36
+2005,2005-11-03,Botafogo,São Caetano,1,0,V,D,NORMAL,R36
+2005,2005-11-03,Palmeiras,Flamengo,0,1,D,V,NORMAL,R36
+2005,2005-11-03,Paysandu,Brasiliense,2,1,V,D,NORMAL,R36
+2005,2005-11-05,São Paulo,Juventude,3,1,V,D,NORMAL,R37
+2005,2005-11-05,Fortaleza,Cruzeiro,3,1,V,D,NORMAL,R37
+2005,2005-11-06,Internacional,Ponte Preta,2,1,V,D,NORMAL,R37
+2005,2005-11-06,Paraná,Paysandu,2,0,V,D,NORMAL,R37
+2005,2005-11-06,São Caetano,Vasco,1,2,D,V,NORMAL,R37
+2005,2005-11-06,Flamengo,Botafogo,3,1,V,D,NORMAL,R37
+2005,2005-11-06,Corinthians,Santos,7,1,V,D,NORMAL,R37
+2005,2005-11-06,Athletico Paranaense,Palmeiras,4,0,V,D,NORMAL,R37
+2005,2005-11-06,Fluminense,Figueirense,2,0,V,D,NORMAL,R37
+2005,2005-11-06,Atlético Mineiro,Goiás,1,2,D,V,NORMAL,R37
+2005,2005-11-06,Brasiliense,Coritiba,1,1,E,E,NORMAL,R37
+2005,2005-11-12,Figueirense,Fortaleza,1,0,V,D,NORMAL,R38
+2005,2005-11-12,Paysandu,Atlético Mineiro,0,2,D,V,NORMAL,R38
+2005,2005-11-12,Botafogo,Paraná,2,0,V,D,NORMAL,R38
+2005,2005-11-12,Palmeiras,São Paulo,2,1,V,D,NORMAL,R38
+2005,2005-11-13,Ponte Preta,Flamengo,2,2,E,E,NORMAL,R38
+2005,2005-11-13,Coritiba,Corinthians,0,1,D,V,NORMAL,R38
+2005,2005-11-13,Goiás,Athletico Paranaense,4,2,V,D,NORMAL,R38
+2005,2005-11-13,Santos,Internacional,0,4,D,V,NORMAL,R38
+2005,2005-11-13,Juventude,São Caetano,3,1,V,D,NORMAL,R38
+2005,2005-11-13,Vasco,Fluminense,2,0,V,D,NORMAL,R38
+2005,2005-11-13,Cruzeiro,Brasiliense,1,0,V,D,NORMAL,R38
+2005,2005-11-16,Flamengo,Fortaleza,3,0,V,D,NORMAL,R39
+2005,2005-11-16,Palmeiras,Juventude,3,2,V,D,NORMAL,R39
+2005,2005-11-16,Internacional,Brasiliense,1,0,V,D,NORMAL,R39
+2005,2005-11-16,Goiás,São Paulo,3,0,V,D,NORMAL,R39
+2005,2005-11-16,Santos,Paraná,0,0,E,E,NORMAL,R39
+2005,2005-11-16,Figueirense,Vasco,5,1,V,D,NORMAL,R39
+2005,2005-11-16,São Caetano,Corinthians,1,0,V,D,NORMAL,R39
+2005,2005-11-17,Coritiba,Ponte Preta,2,1,V,D,NORMAL,R39
+2005,2005-11-17,Fluminense,Atlético Mineiro,0,2,D,V,NORMAL,R39
+2005,2005-11-17,Cruzeiro,Athletico Paranaense,1,2,D,V,NORMAL,R39
+2005,2005-11-17,Paysandu,Botafogo,2,0,V,D,NORMAL,R39
+2005,2005-11-19,São Paulo,Figueirense,4,2,V,D,NORMAL,R40
+2005,2005-11-19,Juventude,Goiás,2,1,V,D,NORMAL,R40
+2005,2005-11-19,Brasiliense,Santos,1,0,V,D,NORMAL,R40
+2005,2005-11-20,Paraná,Flamengo,0,1,D,V,NORMAL,R40
+2005,2005-11-20,Vasco,Paysandu,4,0,V,D,NORMAL,R40
+2005,2005-11-20,Athletico Paranaense,São Caetano,2,2,E,E,NORMAL,R40
+2005,2005-11-20,Atlético Mineiro,Coritiba,1,0,V,D,NORMAL,R40
+2005,2005-11-20,Corinthians,Internacional,1,1,E,E,NORMAL,R40
+2005,2005-11-20,Ponte Preta,Palmeiras,2,6,D,V,NORMAL,R40
+2005,2005-11-20,Fortaleza,Fluminense,5,1,V,D,NORMAL,R40
+2005,2005-11-20,Botafogo,Cruzeiro,2,1,V,D,NORMAL,R40
+2005,2005-11-27,Santos,Botafogo,2,1,V,D,NORMAL,R41
+2005,2005-11-27,Internacional,Palmeiras,2,1,V,D,NORMAL,R41
+2005,2005-11-27,Paraná,Cruzeiro,2,0,V,D,NORMAL,R41
+2005,2005-11-27,São Caetano,Coritiba,1,1,E,E,NORMAL,R41
+2005,2005-11-27,Fortaleza,São Paulo,1,0,V,D,NORMAL,R41
+2005,2005-11-27,Flamengo,Goiás,0,0,E,E,NORMAL,R41
+2005,2005-11-27,Athletico Paranaense,Paysandu,3,2,V,D,NORMAL,R41
+2005,2005-11-27,Fluminense,Juventude,1,2,D,V,NORMAL,R41
+2005,2005-11-27,Atlético Mineiro,Vasco,0,0,E,E,NORMAL,R41
+2005,2005-11-27,Corinthians,Ponte Preta,3,1,V,D,NORMAL,R41
+2005,2005-11-27,Brasiliense,Figueirense,0,2,D,V,NORMAL,R41
+2005,2005-12-04,São Paulo,Athletico Paranaense,3,1,V,D,NORMAL,R42
+2005,2005-12-04,Juventude,Atlético Mineiro,1,3,D,V,NORMAL,R42
+2005,2005-12-04,Figueirense,Santos,3,1,V,D,NORMAL,R42
+2005,2005-12-04,Ponte Preta,Brasiliense,3,1,V,D,NORMAL,R42
+2005,2005-12-04,Paysandu,Flamengo,1,4,D,V,NORMAL,R42
+2005,2005-12-04,Vasco,Paraná,3,1,V,D,NORMAL,R42
+2005,2005-12-04,Coritiba,Internacional,1,0,V,D,NORMAL,R42
+2005,2005-12-04,Botafogo,Fortaleza,2,0,V,D,NORMAL,R42
+2005,2005-12-04,Cruzeiro,São Caetano,1,3,D,V,NORMAL,R42
+2005,2005-12-04,Palmeiras,Fluminense,3,2,V,D,NORMAL,R42
+2005,2005-12-04,Goiás,Corinthians,3,2,V,D,NORMAL,R42

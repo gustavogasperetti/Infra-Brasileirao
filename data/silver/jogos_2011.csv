@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2011,2011-05-21,Flamengo,Avaí,4,0,V,D,NORMAL,R1
+2011,2011-05-21,Ceará,Vasco,1,3,D,V,NORMAL,R1
+2011,2011-05-21,Atlético Mineiro,Athletico Paranaense,3,0,V,D,NORMAL,R1
+2011,2011-05-21,Santos,Internacional,1,1,E,E,NORMAL,R1
+2011,2011-05-22,Palmeiras,Botafogo,1,0,V,D,NORMAL,R1
+2011,2011-05-22,Grêmio,Corinthians,1,2,D,V,NORMAL,R1
+2011,2011-05-22,Coritiba,Atlético Goianiense,0,1,D,V,NORMAL,R1
+2011,2011-05-22,Figueirense,Cruzeiro,1,0,V,D,NORMAL,R1
+2011,2011-05-22,Fluminense,São Paulo,0,2,D,V,NORMAL,R1
+2011,2011-05-22,América Mineiro,Bahia,2,1,V,D,NORMAL,R1
+2011,2011-05-28,Botafogo,Santos,1,0,V,D,NORMAL,R2
+2011,2011-05-28,Internacional,Ceará,0,1,D,V,NORMAL,R2
+2011,2011-05-28,Avaí,Atlético Mineiro,1,3,D,V,NORMAL,R2
+2011,2011-05-28,São Paulo,Figueirense,1,0,V,D,NORMAL,R2
+2011,2011-05-29,Corinthians,Coritiba,2,1,V,D,NORMAL,R2
+2011,2011-05-29,Bahia,Flamengo,3,3,E,E,NORMAL,R2
+2011,2011-05-29,Athletico Paranaense,Grêmio,0,1,D,V,NORMAL,R2
+2011,2011-05-29,Cruzeiro,Palmeiras,1,1,E,E,NORMAL,R2
+2011,2011-05-29,Vasco,América Mineiro,3,0,V,D,NORMAL,R2
+2011,2011-05-29,Atlético Goianiense,Fluminense,0,1,D,V,NORMAL,R2
+2011,2011-06-04,Palmeiras,Athletico Paranaense,1,0,V,D,NORMAL,R3
+2011,2011-06-04,Fluminense,Cruzeiro,2,1,V,D,NORMAL,R3
+2011,2011-06-04,Ceará,Botafogo,2,2,E,E,NORMAL,R3
+2011,2011-06-04,Figueirense,Atlético Goianiense,2,0,V,D,NORMAL,R3
+2011,2011-06-05,Flamengo,Corinthians,1,1,E,E,NORMAL,R3
+2011,2011-06-05,Grêmio,Bahia,2,0,V,D,NORMAL,R3
+2011,2011-06-05,Coritiba,Vasco,5,1,V,D,NORMAL,R3
+2011,2011-06-05,Santos,Avaí,3,1,V,D,NORMAL,R3
+2011,2011-06-05,América Mineiro,Internacional,2,4,D,V,NORMAL,R3
+2011,2011-06-08,Atlético Mineiro,São Paulo,0,1,D,V,NORMAL,R3
+2011,2011-06-11,Avaí,América Mineiro,2,2,E,E,NORMAL,R4
+2011,2011-06-11,Cruzeiro,Santos,1,1,E,E,NORMAL,R4
+2011,2011-06-11,São Paulo,Grêmio,3,1,V,D,NORMAL,R4
+2011,2011-06-11,Vasco,Figueirense,1,1,E,E,NORMAL,R4
+2011,2011-06-12,Bahia,Atlético Mineiro,1,1,E,E,NORMAL,R4
+2011,2011-06-12,Atlético Goianiense,Ceará,4,1,V,D,NORMAL,R4
+2011,2011-06-12,Internacional,Palmeiras,2,2,E,E,NORMAL,R4
+2011,2011-06-12,Corinthians,Fluminense,2,0,V,D,NORMAL,R4
+2011,2011-06-12,Athletico Paranaense,Flamengo,1,1,E,E,NORMAL,R4
+2011,2011-06-12,Botafogo,Coritiba,3,1,V,D,NORMAL,R4
+2011,2011-06-18,Fluminense,Bahia,0,1,D,V,NORMAL,R5
+2011,2011-06-18,América Mineiro,Cruzeiro,1,1,E,E,NORMAL,R5
+2011,2011-06-19,Palmeiras,Avaí,5,0,V,D,NORMAL,R5
+2011,2011-06-19,Flamengo,Botafogo,0,0,E,E,NORMAL,R5
+2011,2011-06-19,Grêmio,Vasco,1,1,E,E,NORMAL,R5
+2011,2011-06-19,Figueirense,Athletico Paranaense,2,0,V,D,NORMAL,R5
+2011,2011-06-19,Ceará,São Paulo,0,2,D,V,NORMAL,R5
+2011,2011-06-19,Atlético Mineiro,Atlético Goianiense,2,2,E,E,NORMAL,R5
+2011,2011-06-19,Coritiba,Internacional,1,1,E,E,NORMAL,R5
+2011,2011-06-25,Flamengo,Atlético Mineiro,4,1,V,D,NORMAL,R6
+2011,2011-06-25,Athletico Paranaense,Bahia,0,2,D,V,NORMAL,R6
+2011,2011-06-25,Cruzeiro,Coritiba,2,1,V,D,NORMAL,R6
+2011,2011-06-26,Corinthians,São Paulo,5,0,V,D,NORMAL,R6
+2011,2011-06-26,Botafogo,Grêmio,2,1,V,D,NORMAL,R6
+2011,2011-06-26,Avaí,Fluminense,0,1,D,V,NORMAL,R6
+2011,2011-06-26,Ceará,Palmeiras,2,0,V,D,NORMAL,R6
+2011,2011-06-26,Internacional,Figueirense,4,1,V,D,NORMAL,R6
+2011,2011-06-26,Atlético Goianiense,Vasco,0,1,D,V,NORMAL,R6
+2011,2011-06-29,Vasco,Cruzeiro,0,3,D,V,NORMAL,R7
+2011,2011-06-29,Grêmio,Avaí,2,2,E,E,NORMAL,R7
+2011,2011-06-29,América Mineiro,Flamengo,2,3,D,V,NORMAL,R7
+2011,2011-06-29,São Paulo,Botafogo,0,2,D,V,NORMAL,R7
+2011,2011-06-29,Figueirense,Santos,2,1,V,D,NORMAL,R7
+2011,2011-06-29,Bahia,Corinthians,0,1,D,V,NORMAL,R7
+2011,2011-06-30,Palmeiras,Atlético Goianiense,2,0,V,D,NORMAL,R7
+2011,2011-06-30,Coritiba,Ceará,3,1,V,D,NORMAL,R7
+2011,2011-06-30,Fluminense,Athletico Paranaense,3,1,V,D,NORMAL,R7
+2011,2011-06-30,Atlético Mineiro,Internacional,0,4,D,V,NORMAL,R7
+2011,2011-07-02,Santos,América Mineiro,1,0,V,D,NORMAL,R6
+2011,2011-07-06,Internacional,Athletico Paranaense,1,0,V,D,NORMAL,R8
+2011,2011-07-06,Cruzeiro,Grêmio,2,0,V,D,NORMAL,R8
+2011,2011-07-06,Avaí,Bahia,2,2,E,E,NORMAL,R8
+2011,2011-07-06,Corinthians,Vasco,2,1,V,D,NORMAL,R8
+2011,2011-07-06,Ceará,Atlético Mineiro,3,0,V,D,NORMAL,R8
+2011,2011-07-06,Flamengo,São Paulo,1,0,V,D,NORMAL,R8
+2011,2011-07-07,Botafogo,Atlético Goianiense,1,1,E,E,NORMAL,R8
+2011,2011-07-07,Coritiba,Figueirense,3,0,V,D,NORMAL,R8
+2011,2011-07-07,América Mineiro,Palmeiras,1,1,E,E,NORMAL,R8
+2011,2011-07-09,São Paulo,Cruzeiro,2,1,V,D,NORMAL,R9
+2011,2011-07-09,Vasco,Internacional,2,0,V,D,NORMAL,R9
+2011,2011-07-09,Athletico Paranaense,Avaí,0,0,E,E,NORMAL,R9
+2011,2011-07-10,Fluminense,Flamengo,0,1,D,V,NORMAL,R9
+2011,2011-07-10,Grêmio,Coritiba,2,0,V,D,NORMAL,R9
+2011,2011-07-10,Atlético Goianiense,Corinthians,0,1,D,V,NORMAL,R9
+2011,2011-07-10,Bahia,Botafogo,1,1,E,E,NORMAL,R9
+2011,2011-07-10,Palmeiras,Santos,3,0,V,D,NORMAL,R9
+2011,2011-07-10,Atlético Mineiro,América Mineiro,2,0,V,D,NORMAL,R9
+2011,2011-07-10,Figueirense,Ceará,1,1,E,E,NORMAL,R9
+2011,2011-07-14,Corinthians,Internacional,1,0,V,D,NORMAL,R12
+2011,2011-07-16,Vasco,Athletico Paranaense,2,1,V,D,NORMAL,R10
+2011,2011-07-16,Coritiba,Fluminense,3,1,V,D,NORMAL,R10
+2011,2011-07-16,Atlético Goianiense,Avaí,0,1,D,V,NORMAL,R10
+2011,2011-07-16,Santos,Atlético Mineiro,2,1,V,D,NORMAL,R10
+2011,2011-07-17,Internacional,São Paulo,0,3,D,V,NORMAL,R10
+2011,2011-07-17,Ceará,América Mineiro,4,0,V,D,NORMAL,R10
+2011,2011-07-17,Cruzeiro,Bahia,2,1,V,D,NORMAL,R10
+2011,2011-07-20,Palmeiras,Flamengo,0,0,E,E,NORMAL,R10
+2011,2011-07-20,Botafogo,Corinthians,0,2,D,V,NORMAL,R10
+2011,2011-07-20,Figueirense,Grêmio,0,0,E,E,NORMAL,R10
+2011,2011-07-21,Avaí,Internacional,1,3,D,V,NORMAL,R11
+2011,2011-07-23,São Paulo,Atlético Goianiense,2,2,E,E,NORMAL,R11
+2011,2011-07-23,Athletico Paranaense,Botafogo,2,1,V,D,NORMAL,R11
+2011,2011-07-23,América Mineiro,Figueirense,0,0,E,E,NORMAL,R11
+2011,2011-07-23,Flamengo,Ceará,1,1,E,E,NORMAL,R11
+2011,2011-07-24,Corinthians,Cruzeiro,0,1,D,V,NORMAL,R11
+2011,2011-07-24,Fluminense,Palmeiras,1,0,V,D,NORMAL,R11
+2011,2011-07-24,Atlético Mineiro,Vasco,1,2,D,V,NORMAL,R11
+2011,2011-07-24,Bahia,Coritiba,0,0,E,E,NORMAL,R11
+2011,2011-07-27,Botafogo,Avaí,2,1,V,D,NORMAL,R12
+2011,2011-07-27,Grêmio,América Mineiro,1,1,E,E,NORMAL,R12
+2011,2011-07-27,Atlético Mineiro,Fluminense,1,0,V,D,NORMAL,R12
+2011,2011-07-27,Atlético Goianiense,Cruzeiro,2,0,V,D,NORMAL,R12
+2011,2011-07-27,Santos,Flamengo,4,5,D,V,NORMAL,R12
+2011,2011-07-27,Figueirense,Palmeiras,0,1,D,V,NORMAL,R12
+2011,2011-07-27,Coritiba,São Paulo,3,4,D,V,NORMAL,R12
+2011,2011-07-28,Vasco,Bahia,1,1,E,E,NORMAL,R12
+2011,2011-07-28,Ceará,Athletico Paranaense,2,1,V,D,NORMAL,R12
+2011,2011-07-30,Flamengo,Grêmio,2,0,V,D,NORMAL,R13
+2011,2011-07-30,Cruzeiro,Botafogo,0,1,D,V,NORMAL,R13
+2011,2011-07-30,Palmeiras,Atlético Mineiro,3,2,V,D,NORMAL,R13
+2011,2011-07-31,São Paulo,Vasco,0,2,D,V,NORMAL,R13
+2011,2011-07-31,Fluminense,Ceará,4,0,V,D,NORMAL,R13
+2011,2011-07-31,Internacional,Atlético Goianiense,0,0,E,E,NORMAL,R13
+2011,2011-07-31,Avaí,Corinthians,3,2,V,D,NORMAL,R13
+2011,2011-07-31,Athletico Paranaense,Santos,3,2,V,D,NORMAL,R13
+2011,2011-07-31,América Mineiro,Coritiba,1,3,D,V,NORMAL,R13
+2011,2011-07-31,Bahia,Figueirense,3,1,V,D,NORMAL,R13
+2011,2011-08-03,Corinthians,América Mineiro,2,1,V,D,NORMAL,R14
+2011,2011-08-03,Grêmio,Atlético Mineiro,2,2,E,E,NORMAL,R14
+2011,2011-08-03,Figueirense,Botafogo,2,0,V,D,NORMAL,R14
+2011,2011-08-03,Ceará,Avaí,0,3,D,V,NORMAL,R14
+2011,2011-08-03,Vasco,Santos,2,0,V,D,NORMAL,R14
+2011,2011-08-03,Cruzeiro,Flamengo,0,1,D,V,NORMAL,R14
+2011,2011-08-03,Coritiba,Palmeiras,1,1,E,E,NORMAL,R14
+2011,2011-08-04,São Paulo,Bahia,3,0,V,D,NORMAL,R14
+2011,2011-08-04,Fluminense,Internacional,2,0,V,D,NORMAL,R14
+2011,2011-08-04,Atlético Goianiense,Athletico Paranaense,0,3,D,V,NORMAL,R14
+2011,2011-08-06,Atlético Mineiro,Figueirense,1,2,D,V,NORMAL,R15
+2011,2011-08-06,Palmeiras,Grêmio,0,0,E,E,NORMAL,R15
+2011,2011-08-06,Flamengo,Coritiba,1,0,V,D,NORMAL,R15
+2011,2011-08-07,Santos,Ceará,1,0,V,D,NORMAL,R15
+2011,2011-08-07,Internacional,Cruzeiro,3,2,V,D,NORMAL,R15
+2011,2011-08-07,Athletico Paranaense,Corinthians,1,1,E,E,NORMAL,R15
+2011,2011-08-07,América Mineiro,Fluminense,3,0,V,D,NORMAL,R15
+2011,2011-08-07,Botafogo,Vasco,4,0,V,D,NORMAL,R15
+2011,2011-08-07,Avaí,São Paulo,1,2,D,V,NORMAL,R15
+2011,2011-08-07,Bahia,Atlético Goianiense,2,1,V,D,NORMAL,R15
+2011,2011-08-10,Santos,Corinthians,0,0,E,E,NORMAL,R5
+2011,2011-08-13,São Paulo,Athletico Paranaense,2,2,E,E,NORMAL,R16
+2011,2011-08-13,Cruzeiro,Avaí,5,0,V,D,NORMAL,R16
+2011,2011-08-13,Atlético Goianiense,Santos,2,0,V,D,NORMAL,R16
+2011,2011-08-13,Botafogo,América Mineiro,4,2,V,D,NORMAL,R16
+2011,2011-08-14,Corinthians,Ceará,2,2,E,E,NORMAL,R16
+2011,2011-08-14,Vasco,Palmeiras,1,0,V,D,NORMAL,R16
+2011,2011-08-14,Figueirense,Flamengo,2,2,E,E,NORMAL,R16
+2011,2011-08-14,Coritiba,Atlético Mineiro,3,0,V,D,NORMAL,R16
+2011,2011-08-14,Grêmio,Fluminense,2,1,V,D,NORMAL,R16
+2011,2011-08-14,Bahia,Internacional,1,1,E,E,NORMAL,R16
+2011,2011-08-17,Fluminense,Figueirense,3,0,V,D,NORMAL,R17
+2011,2011-08-17,Avaí,Vasco,0,2,D,V,NORMAL,R17
+2011,2011-08-17,Athletico Paranaense,Cruzeiro,2,1,V,D,NORMAL,R17
+2011,2011-08-17,Ceará,Grêmio,3,0,V,D,NORMAL,R17
+2011,2011-08-17,Santos,Coritiba,2,3,D,V,NORMAL,R17
+2011,2011-08-17,Internacional,Botafogo,1,0,V,D,NORMAL,R17
+2011,2011-08-17,Atlético Mineiro,Corinthians,2,3,D,V,NORMAL,R17
+2011,2011-08-18,Palmeiras,Bahia,1,1,E,E,NORMAL,R17
+2011,2011-08-18,Flamengo,Atlético Goianiense,1,4,D,V,NORMAL,R17
+2011,2011-08-18,América Mineiro,São Paulo,1,1,E,E,NORMAL,R17
+2011,2011-08-20,Corinthians,Figueirense,0,2,D,V,NORMAL,R18
+2011,2011-08-20,Botafogo,Atlético Mineiro,3,1,V,D,NORMAL,R18
+2011,2011-08-20,Cruzeiro,Ceará,1,0,V,D,NORMAL,R18
+2011,2011-08-21,Internacional,Flamengo,2,2,E,E,NORMAL,R18
+2011,2011-08-21,Avaí,Coritiba,0,0,E,E,NORMAL,R18
+2011,2011-08-21,Atlético Goianiense,Grêmio,1,0,V,D,NORMAL,R18
+2011,2011-08-21,São Paulo,Palmeiras,1,1,E,E,NORMAL,R18
+2011,2011-08-21,Vasco,Fluminense,1,1,E,E,NORMAL,R18
+2011,2011-08-21,Athletico Paranaense,América Mineiro,2,2,E,E,NORMAL,R18
+2011,2011-08-21,Bahia,Santos,1,2,D,V,NORMAL,R18
+2011,2011-08-24,Santos,Fluminense,2,1,V,D,NORMAL,R8
+2011,2011-08-27,Fluminense,Botafogo,1,2,D,V,NORMAL,R19
+2011,2011-08-27,Coritiba,Athletico Paranaense,1,1,E,E,NORMAL,R19
+2011,2011-08-27,América Mineiro,Atlético Goianiense,1,2,D,V,NORMAL,R19
+2011,2011-08-28,Palmeiras,Corinthians,2,1,V,D,NORMAL,R19
+2011,2011-08-28,Santos,São Paulo,1,1,E,E,NORMAL,R19
+2011,2011-08-28,Flamengo,Vasco,0,0,E,E,NORMAL,R19
+2011,2011-08-28,Grêmio,Internacional,2,1,V,D,NORMAL,R19
+2011,2011-08-28,Ceará,Bahia,3,0,V,D,NORMAL,R19
+2011,2011-08-28,Atlético Mineiro,Cruzeiro,1,2,D,V,NORMAL,R19
+2011,2011-08-28,Figueirense,Avaí,2,3,D,V,NORMAL,R19
+2011,2011-08-31,Corinthians,Grêmio,3,2,V,D,NORMAL,R20
+2011,2011-08-31,Vasco,Ceará,3,1,V,D,NORMAL,R20
+2011,2011-08-31,Cruzeiro,Figueirense,2,4,D,V,NORMAL,R20
+2011,2011-08-31,Atlético Goianiense,Coritiba,3,1,V,D,NORMAL,R20
+2011,2011-08-31,Athletico Paranaense,Atlético Mineiro,0,1,D,V,NORMAL,R20
+2011,2011-08-31,São Paulo,Fluminense,1,2,D,V,NORMAL,R20
+2011,2011-08-31,Botafogo,Palmeiras,3,1,V,D,NORMAL,R20
+2011,2011-08-31,Internacional,Santos,3,3,E,E,NORMAL,R20
+2011,2011-08-31,Avaí,Flamengo,3,2,V,D,NORMAL,R20
+2011,2011-09-01,Bahia,América Mineiro,0,0,E,E,NORMAL,R20
+2011,2011-09-03,Fluminense,Atlético Goianiense,3,2,V,D,NORMAL,R21
+2011,2011-09-03,Atlético Mineiro,Avaí,2,0,V,D,NORMAL,R21
+2011,2011-09-03,Figueirense,São Paulo,1,2,D,V,NORMAL,R21
+2011,2011-09-04,Palmeiras,Cruzeiro,1,1,E,E,NORMAL,R21
+2011,2011-09-04,Flamengo,Bahia,1,3,D,V,NORMAL,R21
+2011,2011-09-04,Grêmio,Athletico Paranaense,4,0,V,D,NORMAL,R21
+2011,2011-09-04,Coritiba,Corinthians,1,0,V,D,NORMAL,R21
+2011,2011-09-04,América Mineiro,Vasco,4,1,V,D,NORMAL,R21
+2011,2011-09-04,Ceará,Internacional,1,1,E,E,NORMAL,R21
+2011,2011-09-07,São Paulo,Atlético Mineiro,2,1,V,D,NORMAL,R22
+2011,2011-09-07,Botafogo,Ceará,4,0,V,D,NORMAL,R22
+2011,2011-09-07,Internacional,América Mineiro,4,2,V,D,NORMAL,R22
+2011,2011-09-07,Avaí,Santos,1,2,D,V,NORMAL,R22
+2011,2011-09-07,Cruzeiro,Fluminense,1,2,D,V,NORMAL,R22
+2011,2011-09-07,Athletico Paranaense,Palmeiras,2,2,E,E,NORMAL,R22
+2011,2011-09-07,Atlético Goianiense,Figueirense,1,1,E,E,NORMAL,R22
+2011,2011-09-08,Vasco,Coritiba,2,0,V,D,NORMAL,R22
+2011,2011-09-08,Bahia,Grêmio,1,2,D,V,NORMAL,R22
+2011,2011-09-08,Corinthians,Flamengo,2,1,V,D,NORMAL,R22
+2011,2011-09-10,Santos,Cruzeiro,1,0,V,D,NORMAL,R23
+2011,2011-09-10,América Mineiro,Avaí,2,2,E,E,NORMAL,R23
+2011,2011-09-11,Palmeiras,Internacional,0,3,D,V,NORMAL,R23
+2011,2011-09-11,Fluminense,Corinthians,1,0,V,D,NORMAL,R23
+2011,2011-09-11,Ceará,Atlético Goianiense,1,1,E,E,NORMAL,R23
+2011,2011-09-11,Coritiba,Botafogo,5,0,V,D,NORMAL,R23
+2011,2011-09-11,Figueirense,Vasco,1,1,E,E,NORMAL,R23
+2011,2011-09-11,Flamengo,Athletico Paranaense,1,2,D,V,NORMAL,R23
+2011,2011-09-11,Grêmio,São Paulo,1,0,V,D,NORMAL,R23
+2011,2011-09-11,Atlético Mineiro,Bahia,2,0,V,D,NORMAL,R23
+2011,2011-09-17,Atlético Goianiense,Atlético Mineiro,1,0,V,D,NORMAL,R24
+2011,2011-09-17,Vasco,Grêmio,4,0,V,D,NORMAL,R24
+2011,2011-09-17,São Paulo,Ceará,4,0,V,D,NORMAL,R24
+2011,2011-09-18,Bahia,Fluminense,3,0,V,D,NORMAL,R24
+2011,2011-09-18,Athletico Paranaense,Figueirense,0,0,E,E,NORMAL,R24
+2011,2011-09-18,Avaí,Palmeiras,1,1,E,E,NORMAL,R24
+2011,2011-09-18,Botafogo,Flamengo,1,1,E,E,NORMAL,R24
+2011,2011-09-18,Corinthians,Santos,1,3,D,V,NORMAL,R24
+2011,2011-09-18,Cruzeiro,América Mineiro,0,0,E,E,NORMAL,R24
+2011,2011-09-18,Internacional,Coritiba,1,1,E,E,NORMAL,R24
+2011,2011-09-21,Fluminense,Avaí,3,1,V,D,NORMAL,R25
+2011,2011-09-21,Coritiba,Cruzeiro,2,1,V,D,NORMAL,R25
+2011,2011-09-21,América Mineiro,Santos,1,2,D,V,NORMAL,R25
+2011,2011-09-21,Bahia,Athletico Paranaense,1,0,V,D,NORMAL,R25
+2011,2011-09-21,São Paulo,Corinthians,0,0,E,E,NORMAL,R25
+2011,2011-09-21,Atlético Mineiro,Flamengo,1,1,E,E,NORMAL,R25
+2011,2011-09-21,Figueirense,Internacional,1,1,E,E,NORMAL,R25
+2011,2011-09-22,Palmeiras,Ceará,1,0,V,D,NORMAL,R25
+2011,2011-09-22,Vasco,Atlético Goianiense,1,1,E,E,NORMAL,R25
+2011,2011-09-22,Grêmio,Botafogo,0,1,D,V,NORMAL,R25
+2011,2011-09-24,Athletico Paranaense,Fluminense,1,1,E,E,NORMAL,R26
+2011,2011-09-24,Santos,Figueirense,2,3,D,V,NORMAL,R26
+2011,2011-09-24,Flamengo,América Mineiro,2,1,V,D,NORMAL,R26
+2011,2011-09-25,Corinthians,Bahia,1,0,V,D,NORMAL,R26
+2011,2011-09-25,Botafogo,São Paulo,2,2,E,E,NORMAL,R26
+2011,2011-09-25,Internacional,Atlético Mineiro,2,1,V,D,NORMAL,R26
+2011,2011-09-25,Cruzeiro,Vasco,0,3,D,V,NORMAL,R26
+2011,2011-09-25,Avaí,Grêmio,1,2,D,V,NORMAL,R26
+2011,2011-09-25,Atlético Goianiense,Palmeiras,1,1,E,E,NORMAL,R26
+2011,2011-09-25,Ceará,Coritiba,3,2,V,D,NORMAL,R26
+2011,2011-10-01,Palmeiras,América Mineiro,1,1,E,E,NORMAL,R27
+2011,2011-10-01,Fluminense,Santos,3,2,V,D,NORMAL,R27
+2011,2011-10-01,Bahia,Avaí,3,2,V,D,NORMAL,R27
+2011,2011-10-02,São Paulo,Flamengo,1,2,D,V,NORMAL,R27
+2011,2011-10-02,Vasco,Corinthians,2,2,E,E,NORMAL,R27
+2011,2011-10-02,Atlético Mineiro,Ceará,1,1,E,E,NORMAL,R27
+2011,2011-10-02,Figueirense,Coritiba,0,0,E,E,NORMAL,R27
+2011,2011-10-02,Athletico Paranaense,Internacional,2,0,V,D,NORMAL,R27
+2011,2011-10-02,Grêmio,Cruzeiro,2,0,V,D,NORMAL,R27
+2011,2011-10-02,Atlético Goianiense,Botafogo,2,0,V,D,NORMAL,R27
+2011,2011-10-05,Grêmio,Santos,1,0,V,D,NORMAL,R11
+2011,2011-10-05,Cruzeiro,São Paulo,3,3,E,E,NORMAL,R28
+2011,2011-10-08,Botafogo,Bahia,2,2,E,E,NORMAL,R28
+2011,2011-10-08,Coritiba,Grêmio,2,0,V,D,NORMAL,R28
+2011,2011-10-08,América Mineiro,Atlético Mineiro,0,0,E,E,NORMAL,R28
+2011,2011-10-09,Santos,Palmeiras,1,0,V,D,NORMAL,R28
+2011,2011-10-09,Flamengo,Fluminense,3,2,V,D,NORMAL,R28
+2011,2011-10-09,Internacional,Vasco,3,0,V,D,NORMAL,R28
+2011,2011-10-09,Corinthians,Atlético Goianiense,3,0,V,D,NORMAL,R28
+2011,2011-10-09,Avaí,Athletico Paranaense,3,0,V,D,NORMAL,R28
+2011,2011-10-09,Ceará,Figueirense,1,1,E,E,NORMAL,R28
+2011,2011-10-12,São Paulo,Internacional,0,0,E,E,NORMAL,R29
+2011,2011-10-12,Grêmio,Figueirense,1,3,D,V,NORMAL,R29
+2011,2011-10-12,Avaí,Atlético Goianiense,2,2,E,E,NORMAL,R29
+2011,2011-10-12,América Mineiro,Ceará,4,1,V,D,NORMAL,R29
+2011,2011-10-12,Corinthians,Botafogo,0,2,D,V,NORMAL,R29
+2011,2011-10-12,Flamengo,Palmeiras,1,1,E,E,NORMAL,R29
+2011,2011-10-12,Bahia,Cruzeiro,0,0,E,E,NORMAL,R29
+2011,2011-10-13,Fluminense,Coritiba,3,1,V,D,NORMAL,R29
+2011,2011-10-13,Atlético Mineiro,Santos,2,1,V,D,NORMAL,R29
+2011,2011-10-13,Athletico Paranaense,Vasco,2,2,E,E,NORMAL,R29
+2011,2011-10-15,Figueirense,América Mineiro,2,1,V,D,NORMAL,R30
+2011,2011-10-15,Ceará,Flamengo,0,1,D,V,NORMAL,R30
+2011,2011-10-16,Palmeiras,Fluminense,1,2,D,V,NORMAL,R30
+2011,2011-10-16,Santos,Grêmio,0,1,D,V,NORMAL,R30
+2011,2011-10-16,Botafogo,Athletico Paranaense,2,0,V,D,NORMAL,R30
+2011,2011-10-16,Internacional,Avaí,4,2,V,D,NORMAL,R30
+2011,2011-10-16,Cruzeiro,Corinthians,0,1,D,V,NORMAL,R30
+2011,2011-10-16,Vasco,Atlético Mineiro,2,0,V,D,NORMAL,R30
+2011,2011-10-16,Coritiba,Bahia,0,0,E,E,NORMAL,R30
+2011,2011-10-16,Atlético Goianiense,São Paulo,3,0,V,D,NORMAL,R30
+2011,2011-10-19,Santos,Botafogo,2,0,V,D,NORMAL,R21
+2011,2011-10-22,Palmeiras,Figueirense,1,2,D,V,NORMAL,R31
+2011,2011-10-22,Fluminense,Atlético Mineiro,0,2,D,V,NORMAL,R31
+2011,2011-10-22,Avaí,Botafogo,3,2,V,D,NORMAL,R31
+2011,2011-10-22,América Mineiro,Grêmio,2,2,E,E,NORMAL,R31
+2011,2011-10-23,São Paulo,Coritiba,0,0,E,E,NORMAL,R31
+2011,2011-10-23,Internacional,Corinthians,1,1,E,E,NORMAL,R31
+2011,2011-10-23,Athletico Paranaense,Ceará,1,0,V,D,NORMAL,R31
+2011,2011-10-23,Bahia,Vasco,0,2,D,V,NORMAL,R31
+2011,2011-10-23,Flamengo,Santos,1,1,E,E,NORMAL,R31
+2011,2011-10-23,Cruzeiro,Atlético Goianiense,3,2,V,D,NORMAL,R31
+2011,2011-10-29,Santos,Athletico Paranaense,4,1,V,D,NORMAL,R32
+2011,2011-10-29,Botafogo,Cruzeiro,1,0,V,D,NORMAL,R32
+2011,2011-10-29,Ceará,Fluminense,1,2,D,V,NORMAL,R32
+2011,2011-10-30,Corinthians,Avaí,2,1,V,D,NORMAL,R32
+2011,2011-10-30,Vasco,São Paulo,0,0,E,E,NORMAL,R32
+2011,2011-10-30,Grêmio,Flamengo,4,2,V,D,NORMAL,R32
+2011,2011-10-30,Figueirense,Bahia,2,1,V,D,NORMAL,R32
+2011,2011-10-30,Atlético Mineiro,Palmeiras,2,1,V,D,NORMAL,R32
+2011,2011-10-30,Coritiba,América Mineiro,3,1,V,D,NORMAL,R32
+2011,2011-10-30,Atlético Goianiense,Internacional,0,1,D,V,NORMAL,R32
+2011,2011-11-05,Botafogo,Figueirense,0,1,D,V,NORMAL,R33
+2011,2011-11-05,Atlético Mineiro,Grêmio,2,0,V,D,NORMAL,R33
+2011,2011-11-05,Bahia,São Paulo,4,3,V,D,NORMAL,R33
+2011,2011-11-06,Santos,Vasco,2,0,V,D,NORMAL,R33
+2011,2011-11-06,Flamengo,Cruzeiro,5,1,V,D,NORMAL,R33
+2011,2011-11-06,Avaí,Ceará,1,2,D,V,NORMAL,R33
+2011,2011-11-06,América Mineiro,Corinthians,2,1,V,D,NORMAL,R33
+2011,2011-11-06,Palmeiras,Coritiba,0,2,D,V,NORMAL,R33
+2011,2011-11-06,Internacional,Fluminense,1,2,D,V,NORMAL,R33
+2011,2011-11-06,Athletico Paranaense,Atlético Goianiense,2,1,V,D,NORMAL,R33
+2011,2011-11-12,São Paulo,Avaí,2,0,V,D,NORMAL,R34
+2011,2011-11-12,Fluminense,América Mineiro,1,2,D,V,NORMAL,R34
+2011,2011-11-12,Figueirense,Atlético Mineiro,2,1,V,D,NORMAL,R34
+2011,2011-11-13,Corinthians,Athletico Paranaense,2,1,V,D,NORMAL,R34
+2011,2011-11-13,Ceará,Santos,2,3,D,V,NORMAL,R34
+2011,2011-11-13,Coritiba,Flamengo,2,0,V,D,NORMAL,R34
+2011,2011-11-13,Grêmio,Palmeiras,2,2,E,E,NORMAL,R34
+2011,2011-11-13,Vasco,Botafogo,2,0,V,D,NORMAL,R34
+2011,2011-11-13,Cruzeiro,Internacional,1,0,V,D,NORMAL,R34
+2011,2011-11-13,Atlético Goianiense,Bahia,0,1,D,V,NORMAL,R34
+2011,2011-11-16,Fluminense,Grêmio,5,4,V,D,NORMAL,R35
+2011,2011-11-16,Internacional,Bahia,1,0,V,D,NORMAL,R35
+2011,2011-11-16,Athletico Paranaense,São Paulo,1,0,V,D,NORMAL,R35
+2011,2011-11-16,América Mineiro,Botafogo,2,1,V,D,NORMAL,R35
+2011,2011-11-16,Palmeiras,Vasco,1,1,E,E,NORMAL,R35
+2011,2011-11-16,Avaí,Cruzeiro,0,0,E,E,NORMAL,R35
+2011,2011-11-16,Ceará,Corinthians,0,1,D,V,NORMAL,R35
+2011,2011-11-17,Santos,Atlético Goianiense,1,1,E,E,NORMAL,R35
+2011,2011-11-17,Flamengo,Figueirense,0,0,E,E,NORMAL,R35
+2011,2011-11-17,Atlético Mineiro,Coritiba,2,1,V,D,NORMAL,R35
+2011,2011-11-19,São Paulo,América Mineiro,3,1,V,D,NORMAL,R36
+2011,2011-11-19,Vasco,Avaí,2,0,V,D,NORMAL,R36
+2011,2011-11-19,Grêmio,Ceará,1,3,D,V,NORMAL,R36
+2011,2011-11-20,Corinthians,Atlético Mineiro,2,1,V,D,NORMAL,R36
+2011,2011-11-20,Botafogo,Internacional,1,2,D,V,NORMAL,R36
+2011,2011-11-20,Cruzeiro,Athletico Paranaense,1,1,E,E,NORMAL,R36
+2011,2011-11-20,Atlético Goianiense,Flamengo,0,0,E,E,NORMAL,R36
+2011,2011-11-20,Figueirense,Fluminense,0,4,D,V,NORMAL,R36
+2011,2011-11-20,Coritiba,Santos,1,0,V,D,NORMAL,R36
+2011,2011-11-20,Bahia,Palmeiras,0,2,D,V,NORMAL,R36
+2011,2011-11-27,Palmeiras,São Paulo,1,0,V,D,NORMAL,R37
+2011,2011-11-27,Santos,Bahia,1,1,E,E,NORMAL,R37
+2011,2011-11-27,Flamengo,Internacional,1,0,V,D,NORMAL,R37
+2011,2011-11-27,Fluminense,Vasco,1,2,D,V,NORMAL,R37
+2011,2011-11-27,Grêmio,Atlético Goianiense,2,2,E,E,NORMAL,R37
+2011,2011-11-27,Atlético Mineiro,Botafogo,4,0,V,D,NORMAL,R37
+2011,2011-11-27,Figueirense,Corinthians,0,1,D,V,NORMAL,R37
+2011,2011-11-27,Coritiba,Avaí,1,0,V,D,NORMAL,R37
+2011,2011-11-27,América Mineiro,Athletico Paranaense,2,1,V,D,NORMAL,R37
+2011,2011-11-27,Ceará,Cruzeiro,2,2,E,E,NORMAL,R37
+2011,2011-12-04,Corinthians,Palmeiras,0,0,E,E,NORMAL,R38
+2011,2011-12-04,São Paulo,Santos,4,1,V,D,NORMAL,R38
+2011,2011-12-04,Internacional,Grêmio,1,0,V,D,NORMAL,R38
+2011,2011-12-04,Cruzeiro,Atlético Mineiro,6,1,V,D,NORMAL,R38
+2011,2011-12-04,Atlético Goianiense,América Mineiro,5,1,V,D,NORMAL,R38
+2011,2011-12-04,Athletico Paranaense,Coritiba,1,0,V,D,NORMAL,R38
+2011,2011-12-04,Bahia,Ceará,2,1,V,D,NORMAL,R38
+2011,2011-12-04,Avaí,Figueirense,1,1,E,E,NORMAL,R38
+2011,2011-12-04,Botafogo,Fluminense,1,1,E,E,NORMAL,R38
+2011,2011-12-04,Vasco,Flamengo,1,1,E,E,NORMAL,R38

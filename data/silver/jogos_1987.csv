@@ -1,0 +1,242 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1987,1987-09-11,Palmeiras,Cruzeiro,2,0,V,D,NORMAL,A
+1987,1987-09-12,Botafogo,Goiás,1,0,V,D,NORMAL,A
+1987,1987-09-13,Atlético Mineiro,Santos,5,1,V,D,NORMAL,A
+1987,1987-09-13,Bahia,Vasco,0,3,D,V,NORMAL,A
+1987,1987-09-13,Coritiba,Grêmio,0,1,D,V,NORMAL,A
+1987,1987-09-13,Flamengo,São Paulo,0,2,D,V,NORMAL,A
+1987,1987-09-13,Corinthians,Fluminense,0,1,D,V,NORMAL,A
+1987,1987-09-13,Internacional,Santa Cruz,4,0,V,D,NORMAL,A
+1987,1987-09-13,Bangu,Joinville,1,1,E,E,NORMAL,A
+1987,1987-09-13,Criciúma,Ceará,1,2,D,V,NORMAL,A
+1987,1987-09-13,Treze,Athletico Paranaense,0,0,E,E,NORMAL,A
+1987,1987-09-13,CSA,Guarani,0,1,D,V,NORMAL,A
+1987,1987-09-16,Vitória,Joinville,3,1,V,D,NORMAL,A
+1987,1987-09-16,Inter de Limeira,Ceará,1,0,V,D,NORMAL,A
+1987,1987-09-16,Sport,Athletico Paranaense,1,1,E,E,NORMAL,A
+1987,1987-09-16,Treze,Guarani,1,3,D,V,NORMAL,A
+1987,1987-09-16,Athletico Paranaense,Bangu,1,2,D,V,NORMAL,A
+1987,1987-09-16,Joinville,Treze,0,0,E,E,NORMAL,A
+1987,1987-09-16,Atlético Goianiense,CSA,3,1,V,D,NORMAL,A
+1987,1987-09-16,Sport,Criciúma,3,0,V,D,NORMAL,A
+1987,1987-09-17,Criciúma,Náutico,2,0,V,D,NORMAL,A
+1987,1987-09-18,Corinthians,Goiás,0,1,D,V,NORMAL,A
+1987,1987-09-19,Atlético Mineiro,Internacional,0,0,E,E,NORMAL,A
+1987,1987-09-19,Rio Branco-ES,CSA,0,1,D,V,NORMAL,A
+1987,1987-09-19,Vitória,Athletico Paranaense,1,2,D,V,NORMAL,A
+1987,1987-09-20,Grêmio,Cruzeiro,0,0,E,E,NORMAL,A
+1987,1987-09-20,Santos,Palmeiras,0,0,E,E,NORMAL,A
+1987,1987-09-20,Fluminense,Botafogo,1,1,E,E,NORMAL,A
+1987,1987-09-20,Santa Cruz,Coritiba,0,0,E,E,NORMAL,A
+1987,1987-09-20,Flamengo,Vasco,2,1,V,D,NORMAL,A
+1987,1987-09-20,Bahia,São Paulo,1,1,E,E,NORMAL,A
+1987,1987-09-20,Inter de Limeira,Treze,2,1,V,D,NORMAL,A
+1987,1987-09-20,Atlético Goianiense,Ceará,1,0,V,D,NORMAL,A
+1987,1987-09-20,Sport,Guarani,2,0,V,D,NORMAL,A
+1987,1987-09-20,Criciúma,Bangu,1,0,V,D,NORMAL,A
+1987,1987-09-20,Joinville,Náutico,2,1,V,D,NORMAL,A
+1987,1987-09-23,Grêmio,Vasco,1,0,V,D,NORMAL,A
+1987,1987-09-23,Cruzeiro,Bahia,2,1,V,D,NORMAL,A
+1987,1987-09-23,Fluminense,Palmeiras,2,0,V,D,NORMAL,A
+1987,1987-09-23,São Paulo,Santa Cruz,3,0,V,D,NORMAL,A
+1987,1987-09-23,Coritiba,Corinthians,2,1,V,D,NORMAL,A
+1987,1987-09-24,Botafogo,Internacional,0,0,E,E,NORMAL,A
+1987,1987-09-24,Santos,Flamengo,0,0,E,E,NORMAL,A
+1987,1987-09-24,Náutico,Rio Branco-ES,0,1,D,V,NORMAL,A
+1987,1987-09-26,Fluminense,Grêmio,0,0,E,E,NORMAL,A
+1987,1987-09-26,Coritiba,Bahia,2,1,V,D,NORMAL,A
+1987,1987-09-26,Goiás,Santa Cruz,1,0,V,D,NORMAL,A
+1987,1987-09-26,Palmeiras,São Paulo,2,1,V,D,NORMAL,A
+1987,1987-09-27,Internacional,Flamengo,2,0,V,D,NORMAL,A
+1987,1987-09-27,Cruzeiro,Botafogo,1,1,E,E,NORMAL,A
+1987,1987-09-27,Corinthians,Santos,0,0,E,E,NORMAL,A
+1987,1987-09-27,Vasco,Atlético Mineiro,1,2,D,V,NORMAL,A
+1987,1987-09-27,Ceará,Rio Branco-ES,1,1,E,E,NORMAL,A
+1987,1987-09-27,Náutico,Atlético Goianiense,2,1,V,D,NORMAL,A
+1987,1987-09-27,Bangu,Inter de Limeira,1,0,V,D,NORMAL,A
+1987,1987-09-27,Guarani,Vitória,0,1,D,V,NORMAL,A
+1987,1987-09-27,Joinville,Sport,0,1,D,V,NORMAL,A
+1987,1987-09-27,Treze,Criciúma,2,1,V,D,NORMAL,A
+1987,1987-09-27,Athletico Paranaense,CSA,1,1,E,E,NORMAL,A
+1987,1987-09-30,Goiás,Atlético Mineiro,0,1,D,V,NORMAL,A
+1987,1987-09-30,Portuguesa,Sport,1,1,E,E,NORMAL,A
+1987,1987-09-30,Inter de Limeira,Vitória,0,0,E,E,NORMAL,A
+1987,1987-09-30,Bangu,Guarani,0,0,E,E,NORMAL,A
+1987,1987-09-30,CSA,Criciúma,1,2,D,V,NORMAL,A
+1987,1987-09-30,Treze,Atlético Goianiense,3,1,V,D,NORMAL,A
+1987,1987-10-01,Vasco,Botafogo,1,0,V,D,NORMAL,A
+1987,1987-10-01,Ceará,Joinville,1,0,V,D,NORMAL,A
+1987,1987-10-02,Internacional,Palmeiras,2,0,V,D,NORMAL,A
+1987,1987-10-03,Santos,Grêmio,1,0,V,D,NORMAL,A
+1987,1987-10-03,Atlético Mineiro,Coritiba,2,0,V,D,NORMAL,A
+1987,1987-10-03,Inter de Limeira,Náutico,0,1,D,V,NORMAL,A
+1987,1987-10-04,Bahia,Goiás,1,0,V,D,NORMAL,A
+1987,1987-10-04,São Paulo,Corinthians,0,0,E,E,NORMAL,A
+1987,1987-10-04,Flamengo,Fluminense,0,1,D,V,NORMAL,A
+1987,1987-10-04,Santa Cruz,Cruzeiro,0,0,E,E,NORMAL,A
+1987,1987-10-04,CSA,Joinville,3,2,V,D,NORMAL,A
+1987,1987-10-04,Criciúma,Vitória,2,1,V,D,NORMAL,A
+1987,1987-10-04,Atlético Goianiense,Sport,0,0,E,E,NORMAL,A
+1987,1987-10-04,Bangu,Rio Branco-ES,1,0,V,D,NORMAL,A
+1987,1987-10-04,Ceará,Portuguesa,1,1,E,E,NORMAL,A
+1987,1987-10-07,Santa Cruz,Fluminense,1,1,E,E,NORMAL,A
+1987,1987-10-07,Botafogo,Santos,0,0,E,E,NORMAL,A
+1987,1987-10-07,Palmeiras,Vasco,1,0,V,D,NORMAL,A
+1987,1987-10-07,Bahia,Internacional,0,2,D,V,NORMAL,A
+1987,1987-10-07,CSA,Inter de Limeira,0,2,D,V,NORMAL,A
+1987,1987-10-07,Rio Branco-ES,Sport,0,2,D,V,NORMAL,A
+1987,1987-10-08,Flamengo,Coritiba,3,1,V,D,NORMAL,A
+1987,1987-10-08,Grêmio,Goiás,4,0,V,D,NORMAL,A
+1987,1987-10-08,Cruzeiro,Corinthians,1,1,E,E,NORMAL,A
+1987,1987-10-08,São Paulo,Atlético Mineiro,0,1,D,V,NORMAL,A
+1987,1987-10-08,Náutico,Portuguesa,2,1,V,D,NORMAL,A
+1987,1987-10-10,Santa Cruz,Santos,3,1,V,D,NORMAL,A
+1987,1987-10-10,Atlético Goianiense,Bangu,1,0,V,D,NORMAL,A
+1987,1987-10-11,Atlético Mineiro,Cruzeiro,0,0,E,E,NORMAL,A
+1987,1987-10-11,Palmeiras,Coritiba,1,0,V,D,NORMAL,A
+1987,1987-10-11,Goiás,Flamengo,1,1,E,E,NORMAL,A
+1987,1987-10-11,Vasco,Corinthians,4,1,V,D,NORMAL,A
+1987,1987-10-11,Rio Branco-ES,Treze,2,1,V,D,NORMAL,A
+1987,1987-10-11,Sport,Inter de Limeira,4,0,V,D,NORMAL,A
+1987,1987-10-11,Guarani,Náutico,4,2,V,D,NORMAL,A
+1987,1987-10-11,Vitória,Portuguesa,2,1,V,D,NORMAL,A
+1987,1987-10-11,Ceará,Athletico Paranaense,0,1,D,V,NORMAL,A
+1987,1987-10-12,Internacional,Grêmio,0,1,D,V,NORMAL,A
+1987,1987-10-12,São Paulo,Botafogo,0,2,D,V,NORMAL,A
+1987,1987-10-12,Fluminense,Bahia,0,1,D,V,NORMAL,A
+1987,1987-10-13,Portuguesa,Treze,1,0,V,D,NORMAL,A
+1987,1987-10-14,Athletico Paranaense,Náutico,2,0,V,D,NORMAL,A
+1987,1987-10-14,Rio Branco-ES,Vitória,0,0,E,E,NORMAL,A
+1987,1987-10-15,Portuguesa,Bangu,1,0,V,D,NORMAL,A
+1987,1987-10-16,Goiás,Palmeiras,2,0,V,D,NORMAL,A
+1987,1987-10-17,Vasco,Santa Cruz,0,0,E,E,NORMAL,A
+1987,1987-10-17,Santos,Bahia,0,1,D,V,NORMAL,A
+1987,1987-10-18,Flamengo,Cruzeiro,0,0,E,E,NORMAL,A
+1987,1987-10-18,Coritiba,Botafogo,1,1,E,E,NORMAL,A
+1987,1987-10-18,Corinthians,Internacional,1,0,V,D,NORMAL,A
+1987,1987-10-18,Grêmio,São Paulo,1,0,V,D,NORMAL,A
+1987,1987-10-18,Atlético Mineiro,Fluminense,3,1,V,D,NORMAL,A
+1987,1987-10-18,Portuguesa,CSA,4,0,V,D,NORMAL,A
+1987,1987-10-18,Guarani,Ceará,1,0,V,D,NORMAL,A
+1987,1987-10-18,Vitória,Atlético Goianiense,0,0,E,E,NORMAL,A
+1987,1987-10-21,Rio Branco-ES,Atlético Goianiense,0,0,E,E,NORMAL,A
+1987,1987-10-21,Bangu,Ceará,2,0,V,D,NORMAL,B
+1987,1987-10-21,Vitória,CSA,0,0,E,E,NORMAL,B
+1987,1987-10-21,Guarani,Athletico Paranaense,0,2,D,V,NORMAL,
+1987,1987-10-23,Grêmio,Atlético Mineiro,0,0,E,E,NORMAL,A
+1987,1987-10-24,Atlético Goianiense,Criciúma,0,2,D,V,NORMAL,A
+1987,1987-10-24,Flamengo,Botafogo,1,0,V,D,NORMAL,A
+1987,1987-10-24,São Paulo,Santos,3,1,V,D,NORMAL,A
+1987,1987-10-24,Vasco,Fluminense,0,2,D,V,NORMAL,A
+1987,1987-10-24,Goiás,Coritiba,1,1,E,E,NORMAL,A
+1987,1987-10-24,Cruzeiro,Internacional,3,0,V,D,NORMAL,A
+1987,1987-10-25,Rio Branco-ES,Inter de Limeira,0,0,E,E,NORMAL,A
+1987,1987-10-25,Guarani,Portuguesa,2,0,V,D,NORMAL,A
+1987,1987-10-25,Joinville,Athletico Paranaense,1,2,D,V,NORMAL,A
+1987,1987-10-25,CSA,Náutico,1,1,E,E,NORMAL,B
+1987,1987-10-25,Sport,Ceará,2,1,V,D,NORMAL,B
+1987,1987-10-25,Corinthians,Palmeiras,0,0,E,E,NORMAL,A
+1987,1987-10-25,Bahia,Santa Cruz,0,0,E,E,NORMAL,A
+1987,1987-10-28,Athletico Paranaense,Portuguesa,0,1,D,V,NORMAL,A
+1987,1987-10-28,Inter de Limeira,Atlético Goianiense,1,0,V,D,NORMAL,A
+1987,1987-10-28,Criciúma,Rio Branco-ES,3,0,V,D,NORMAL,A
+1987,1987-10-28,Joinville,Guarani,0,2,D,V,NORMAL,A
+1987,1987-10-28,Bangu,Sport,2,0,V,D,NORMAL,B
+1987,1987-10-28,Ceará,Treze,0,2,D,V,NORMAL,B
+1987,1987-10-28,Botafogo,Atlético Mineiro,0,0,E,E,NORMAL,A
+1987,1987-10-28,Bahia,Corinthians,1,1,E,E,NORMAL,A
+1987,1987-10-28,Santa Cruz,Palmeiras,1,2,D,V,NORMAL,A
+1987,1987-10-28,Cruzeiro,Vasco,3,0,V,D,NORMAL,A
+1987,1987-10-28,Internacional,Fluminense,0,1,D,V,NORMAL,A
+1987,1987-10-28,São Paulo,Goiás,2,0,V,D,NORMAL,A
+1987,1987-10-29,Flamengo,Grêmio,1,1,E,E,NORMAL,A
+1987,1987-10-29,Santos,Coritiba,2,1,V,D,NORMAL,A
+1987,1987-10-31,Corinthians,Santa Cruz,2,1,V,D,NORMAL,A
+1987,1987-10-31,Coritiba,São Paulo,3,2,V,D,NORMAL,A
+1987,1987-10-31,Fluminense,Cruzeiro,1,1,E,E,NORMAL,A
+1987,1987-11-01,Joinville,Rio Branco-ES,0,0,E,E,NORMAL,A
+1987,1987-11-01,Guarani,Criciúma,2,0,V,D,NORMAL,A
+1987,1987-11-01,Portuguesa,Atlético Goianiense,1,0,V,D,NORMAL,A
+1987,1987-11-01,Inter de Limeira,Athletico Paranaense,1,1,E,E,NORMAL,A
+1987,1987-11-01,Treze,Vitória,1,1,E,E,NORMAL,B
+1987,1987-11-01,CSA,Bangu,0,0,E,E,NORMAL,B
+1987,1987-11-01,Náutico,Sport,0,1,D,V,NORMAL,B
+1987,1987-11-01,Palmeiras,Bahia,0,1,D,V,NORMAL,A
+1987,1987-11-01,Atlético Mineiro,Flamengo,1,0,V,D,NORMAL,A
+1987,1987-11-01,Vasco,Internacional,1,0,V,D,NORMAL,A
+1987,1987-11-01,Goiás,Santos,0,0,E,E,NORMAL,A
+1987,1987-11-02,Grêmio,Botafogo,0,2,D,V,NORMAL,A
+1987,1987-11-04,Athletico Paranaense,Atlético Goianiense,3,0,V,D,NORMAL,A
+1987,1987-11-04,Criciúma,Joinville,2,0,V,D,NORMAL,A
+1987,1987-11-04,Náutico,Vitória,2,2,E,E,NORMAL,B
+1987,1987-11-04,Treze,Bangu,0,0,E,E,NORMAL,B
+1987,1987-11-06,Santos,Vasco,0,0,E,E,NORMAL,A
+1987,1987-11-07,Flamengo,Palmeiras,2,0,V,D,NORMAL,A
+1987,1987-11-07,Grêmio,Bahia,2,0,V,D,NORMAL,A
+1987,1987-11-07,Atlético Mineiro,Santa Cruz,2,0,V,D,NORMAL,A
+1987,1987-11-07,Botafogo,Corinthians,1,0,V,D,NORMAL,A
+1987,1987-11-07,São Paulo,Fluminense,2,0,V,D,NORMAL,A
+1987,1987-11-07,Coritiba,Cruzeiro,0,3,D,V,NORMAL,A
+1987,1987-11-07,Internacional,Goiás,0,0,E,E,NORMAL,A
+1987,1987-11-07,Internacional,Santos,2,0,V,D,NORMAL,A
+1987,1987-11-07,Cruzeiro,São Paulo,0,0,E,E,NORMAL,A
+1987,1987-11-07,Vasco,Coritiba,3,2,V,D,NORMAL,A
+1987,1987-11-08,Inter de Limeira,Joinville,0,0,E,E,NORMAL,A
+1987,1987-11-08,Portuguesa,Criciúma,0,0,E,E,NORMAL,A
+1987,1987-11-08,Atlético Goianiense,Guarani,1,1,E,E,NORMAL,A
+1987,1987-11-08,Athletico Paranaense,Rio Branco-ES,1,1,E,E,NORMAL,A
+1987,1987-11-08,Sport,Vitória,0,0,E,E,NORMAL,B
+1987,1987-11-08,Ceará,Náutico,1,0,V,D,NORMAL,B
+1987,1987-11-08,Treze,CSA,2,1,V,D,NORMAL,B
+1987,1987-11-11,Rio Branco-ES,Guarani,2,3,D,V,NORMAL,A
+1987,1987-11-11,Atlético Goianiense,Joinville,0,0,E,E,NORMAL,A
+1987,1987-11-11,Portuguesa,Inter de Limeira,1,0,V,D,NORMAL,A
+1987,1987-11-11,CSA,Sport,0,1,D,V,NORMAL,B
+1987,1987-11-11,Palmeiras,Grêmio,2,1,V,D,NORMAL,A
+1987,1987-11-11,Santa Cruz,Botafogo,1,0,V,D,NORMAL,A
+1987,1987-11-11,Corinthians,Atlético Mineiro,1,2,D,V,NORMAL,A
+1987,1987-11-11,Bahia,Flamengo,0,2,D,V,NORMAL,A
+1987,1987-11-11,Fluminense,Goiás,1,0,V,D,NORMAL,A
+1987,1987-11-14,Vitória,Ceará,1,0,V,D,NORMAL,B
+1987,1987-11-14,Santa Cruz,Grêmio,2,1,V,D,NORMAL,A
+1987,1987-11-14,Palmeiras,Botafogo,1,0,V,D,NORMAL,A
+1987,1987-11-14,Fluminense,Santos,1,1,E,E,NORMAL,A
+1987,1987-11-15,Criciúma,Inter de Limeira,0,0,E,E,NORMAL,A
+1987,1987-11-15,Guarani,Athletico Paranaense,0,0,E,E,NORMAL,A
+1987,1987-11-15,Joinville,Portuguesa,1,0,V,D,NORMAL,A
+1987,1987-11-15,Sport,Treze,2,1,V,D,NORMAL,B
+1987,1987-11-15,Bangu,Náutico,3,0,V,D,NORMAL,B
+1987,1987-11-15,Corinthians,Flamengo,1,1,E,E,NORMAL,A
+1987,1987-11-15,Bahia,Atlético Mineiro,1,1,E,E,NORMAL,A
+1987,1987-11-15,Vasco,São Paulo,1,2,D,V,NORMAL,A
+1987,1987-11-15,Internacional,Coritiba,0,0,E,E,NORMAL,A
+1987,1987-11-15,Cruzeiro,Goiás,1,0,V,D,NORMAL,A
+1987,1987-11-18,Ceará,CSA,2,0,V,D,NORMAL,B
+1987,1987-11-18,Vitória,Bangu,3,1,V,D,NORMAL,B
+1987,1987-11-18,Náutico,Treze,2,1,V,D,NORMAL,B
+1987,1987-11-19,Grêmio,Corinthians,1,0,V,D,NORMAL,A
+1987,1987-11-21,Botafogo,Bahia,2,2,E,E,NORMAL,A
+1987,1987-11-21,São Paulo,Internacional,3,0,V,D,NORMAL,A
+1987,1987-11-21,Coritiba,Fluminense,2,1,V,D,NORMAL,A
+1987,1987-11-22,Flamengo,Santa Cruz,3,1,V,D,NORMAL,A
+1987,1987-11-22,Atlético Mineiro,Palmeiras,1,0,V,D,NORMAL,A
+1987,1987-11-22,Goiás,Vasco,2,2,E,E,NORMAL,A
+1987,1987-11-22,Santos,Cruzeiro,0,1,D,V,NORMAL,A
+1987,1987-11-22,Bangu,Vitória,1,1,E,E,NORMAL,
+1987,1987-11-25,Guarani,Inter de Limeira,0,0,E,E,NORMAL,A
+1987,1987-11-25,Criciúma,Athletico Paranaense,1,1,E,E,NORMAL,A
+1987,1987-11-25,Portuguesa,Rio Branco-ES,0,1,D,V,NORMAL,A
+1987,1987-11-25,Bangu,Sport,3,2,V,D,NORMAL,SF
+1987,1987-11-29,Athletico Paranaense,Guarani,0,0,E,E,NORMAL,SF
+1987,1987-11-29,Sport,Bangu,3,1,V,D,NORMAL,SF
+1987,1987-11-29,Flamengo,Atlético Mineiro,1,0,V,D,NORMAL,SF
+1987,1987-11-29,Internacional,Cruzeiro,0,0,E,E,NORMAL,SF
+1987,1987-12-02,Guarani,Athletico Paranaense,1,0,V,D,NORMAL,SF
+1987,1987-12-02,Atlético Mineiro,Flamengo,2,3,D,V,NORMAL,SF
+1987,1987-12-02,Cruzeiro,Internacional,0,1,D,V,NORMAL,SF
+1987,1987-12-06,Guarani,Sport,2,0,V,D,NORMAL,F
+1987,1987-12-06,Internacional,Flamengo,1,1,E,E,NORMAL,F
+1987,1987-12-12,Flamengo,Internacional,1,0,V,D,NORMAL,F
+1987,1987-12-13,Sport,Guarani,3,0,V,D,NORMAL,F
+1987,1988-01-30,Guarani,Sport,1,1,E,E,NORMAL,F
+1987,1988-02-07,Sport,Guarani,1,0,V,D,NORMAL,F

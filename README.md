@@ -6,109 +6,92 @@
 ---
 
 ## 📌 Visão Geral do Repositório
-Este é o repositório de **Back-end e Dados (`brasileirao-infra`)** do projeto Brasileirão Analytics. Ele utiliza uma arquitetura **Polyrepo**. 
+Este é o repositório de **Dados (`brasileirao-infra`)** do projeto Brasileirão Analytics. Ele utiliza uma arquitetura **Polyrepo**.
 A responsabilidade exclusiva deste repositório é:
 1. Extrair dados históricos do futebol brasileiro (1971 - Presente).
-2. Processar e enriquecer os dados usando a Arquitetura Medalhão (Bronze > Prata > Ouro).
-3. Ingerir os dados em um banco de dados relacional.
-4. Servir esses dados através de uma API RESTful para garantir o desacoplamento.
+2. Limpar e padronizar os dados usando a Arquitetura Medalhão (Bronze > Prata > Ouro).
+3. Consolidar tudo em uma **One Big Table (OBT)** desnormalizada e legível.
+4. Publicar a OBT em uma **planilha pública do Google Sheets**, que serve de repositório final de dados.
 
-*Nota: A biblioteca Python (Client) consumidora desta API residirá em um repositório separado (`brasileirao-lib`).*
+*Nota: A biblioteca Python (Client) que consome a planilha residirá em um repositório separado (`brasileirao-lib`). Todos os cálculos dinâmicos — confronto direto (H2H), forma dos últimos 5 jogos, sequências, fadiga, acumulados — são responsabilidade dela, não desta pipeline.*
 
 ## 🛠️ Stack Tecnológico
 * **Linguagem:** Python 3.x
 * **Processamento de Dados:** Pandas, NumPy
-* **Banco de Dados:** PostgreSQL 16 (via Docker, porta 5433)
-* **Driver PostgreSQL:** psycopg v3 (`psycopg[binary]`)
-* **ORM e Ingestão:** SQLAlchemy 2.x
-* **API REST:** FastAPI (com Uvicorn)
+* **Repositório de Dados Final:** Google Sheets (via `gspread` + `google-auth`)
 * **Web Scraping:** Playwright (headless Chromium) + BeautifulSoup4
+* **Orquestração:** GitHub Actions (agendado 3x na semana)
 
 ## 🏗️ Pipeline de Dados (Medallion Architecture)
-O ETL local está estruturado em três camadas dentro da pasta transitória `/data` (ignorada no versionamento):
+O ETL está estruturado em três camadas dentro da pasta `/data` (versionada no git — os CSVs são o ativo do projeto e permitem execuções incrementais no CI):
 
-* **🥉 Bronze (Extract):** Dados brutos extraídos da web via Playwright. O formato original é preservado 100% como backup. Cobertura: 1971–2025, 55 edições, ~21.500 jogos.
-* **🥈 Prata (Transform):** Limpeza, tipagem rigorosa (datetime, Int64 nullable), padronização de nomenclatura de clubes (170 mapeamentos de-para), split de placar, cálculo de resultados. Saída: 10 colunas limpas por jogo.
-* **🥇 Ouro (Feature Engineering & Load):** Geração de 66 features analíticas organizadas em 8 grupos:
-  1. Métricas diretas (gols, saldo, pontos com regra histórica 2pts/3pts)
-  2. Classificação de fases (tipo_fase, is_mata_mata)
-  3. Métricas rolling por time (médias móveis 5j, streaks, acumulados no campeonato)
-  4. Confronto direto histórico (H2H cross-year)
-  5. Tabela dimensão (dim_times com estado/UF)
-  6. Métricas de fadiga (dias de descanso cross-year)
-  7. Solidez defensiva/ofensiva (clean sheets e falhas de gol)
-  8. Fator clássico (derby flag — clássicos estaduais)
+* **🥉 Bronze (Extract):** Dados brutos extraídos da web via Playwright. O formato original é preservado 100% como backup. Cobertura: 1971–2025, 55 edições, ~21.500 jogos. No CI, apenas o ano corrente é re-raspado (`ANOS_EXTRACAO=atual`).
+* **🥈 Prata (Transform):** Limpeza, tipagem rigorosa (datetime, Int64 nullable), padronização de nomenclatura de clubes (~170 mapeamentos de-para), split de placar, cálculo de resultados. Saída: 10 colunas limpas por jogo.
+* **🥇 Ouro (OBT):** Consolidação de todas as edições em uma única tabela desnormalizada (`brasileirao_obt.csv`, 21 colunas) — a "fotografia" de cada partida, com tudo por extenso (nomes de clubes, estados/UF, fases legíveis), sem IDs externos nem tabelas dimensão. Enriquecimentos por partida (não temporais): total/saldo de gols, pontos com regra histórica (2 pts antes de 1995, 3 pts depois), `tipo_fase`/`is_mata_mata` e `is_classico_estadual`.
 
-## 🗄️ Modelagem do Banco de Dados (Star Schema)
-O banco de dados PostgreSQL foi modelado para otimizar consultas analíticas (OLAP), achatando a hierarquia de datas/rodadas em uma estrutura de Fato e Dimensões.
+O dicionário de dados completo da OBT está em [`data/gold/dicionario_dados_gold.md`](data/gold/dicionario_dados_gold.md).
 
-### Regras de Negócio e Padronização Histórica
-Como o campeonato possui regulamentos distintos entre 1971 e o presente, a camada Ouro aplica as seguintes abstrações:
-* **Pontuação histórica:** Vitória vale 2 pontos antes de 1995 e 3 pontos a partir de 1995, respeitando a regra real da CBF.
-* **`tipo_fase` e `is_mata_mata`:** Substitui a lógica de "Rodadas" contínuas, classificando os jogos para suportar formatos antigos (ex: Quadrangular Final, Repescagem, Finais).
-* **Métricas rolling:** Resetam a cada edição do campeonato. Todas refletem o estado ANTES do jogo começar.
-* **H2H e Fadiga:** São cross-year (histórico completo entre campeonatos).
+## 📤 Carga (Load) — Google Sheets
+O `etl/load.py` publica a OBT diretamente na planilha do Google Sheets (aba `partidas`):
+* **Autenticação:** Service Account do Google Cloud. Em produção, o conteúdo do `credentials.json` é injetado via Secret (`GOOGLE_CREDENTIALS`); em desenvolvimento, o arquivo local `credentials.json` (ignorado pelo git) é usado como fallback.
+* **Modos:** `overwrite` (padrão — limpa e regrava, idempotente) ou `append` (via `LOAD_MODO`).
+* **Performance:** upload em chunks de 5.000 linhas para respeitar os limites da API.
 
-### Estrutura (Core)
-1. **`dim_times` (Dimensão):** Tabela dicionário com ID único, nome padronizado e estado (UF) dos clubes. 167 times mapeados.
-2. **`fato_partidas_ouro` (Fato):** A tabela central ("One Big Table"). Contém 21.453 jogos de 1971 a 2025, referenciando os times por *Foreign Keys* e contendo todas as 66 features analíticas prontas para consumo.
+## ⚙️ Orquestração — GitHub Actions
+O workflow [`.github/workflows/etl.yml`](.github/workflows/etl.yml) roda **3x na semana** (seg/qui/sáb às 06:00 UTC) e também aceita disparo manual (`workflow_dispatch`):
+1. Extract (apenas ano corrente) → 2. Transform → 3. Gold (OBT) → 4. Load (Sheets) → 5. Commit automático dos CSVs atualizados.
+
+**Secrets necessários** (Settings → Secrets and variables → Actions):
+| Secret | Conteúdo |
+|--------|----------|
+| `OGOL_ACCOUNTS` | Contas do Ogol: `email1:senha1,email2:senha2` |
+| `SPREADSHEET_ID` | ID da planilha de destino (trecho entre `/d/` e `/edit` na URL) |
+| `GOOGLE_CREDENTIALS` | Conteúdo JSON integral do `credentials.json` da Service Account |
+
+*A Service Account precisa de acesso de **Editor** na planilha (compartilhe a planilha com o `client_email` da conta).*
 
 ## 📂 Estrutura de Diretórios
 
 ```text
 brasileirao-infra/
-├── .env                    # Variáveis de ambiente (DB_USER, DB_PASS, DB_PORT=5433)
-├── .gitignore              # Ignora /data, /venv e __pycache__
-├── docker-compose.yml      # PostgreSQL 16-alpine (porta 5433)
+├── .env.example            # Modelo das variáveis de ambiente
+├── .gitignore              # Ignora credenciais e venv (dados são versionados)
 ├── requirements.txt        # Dependências do projeto
 ├── README.md               # Documentação principal
 │
-├── data/                   # Armazenamento local (Ignorado no Git)
+├── .github/workflows/
+│   └── etl.yml             # Pipeline agendada (3x/semana)
+│
+├── data/                   # Armazenamento versionado
 │   ├── bronze/             # Dados brutos extraídos
 │   ├── silver/             # Dados limpos e padronizados (10 cols)
-│   └── gold/               # Features enriquecidas (66 cols) + dim_times
-│       ├── fato_partidas_ouro.csv
-│       ├── dim_times.csv
+│   └── gold/               # One Big Table consolidada
+│       ├── brasileirao_obt.csv
 │       └── dicionario_dados_gold.md
 │
 ├── etl/                    # Scripts de Engenharia de Dados
 │   ├── __init__.py
-│   ├── config.py           # URLs, credenciais e constantes
+│   ├── config.py           # URLs e leitura de credenciais via env
 │   ├── extract.py          # Camada Bronze (Web Scraping via Playwright)
 │   ├── transform.py        # Camada Prata (Limpeza e padronização)
-│   ├── gold.py             # Camada Ouro (Feature Engineering — 8 grupos)
+│   ├── gold.py             # Camada Ouro (One Big Table)
 │   ├── mapear_times.py     # Utilitário: extrai times únicos da Bronze
-│   └── load.py             # Ingestão no PostgreSQL via SQLAlchemy
+│   └── load.py             # Publicação no Google Sheets (gspread)
 │
-├── relatório acompanhamento/  # Logs de progresso do projeto
-│   ├── 21-04-2026.md
-│   ├── 09-05-2026.md
-│   └── 13-05-2026.md
-│
-└── api/                    # Aplicação FastAPI
-    ├── __init__.py
-    ├── main.py             # Ponto de entrada (App, CORS, Lifespan)
-    ├── database.py         # Engine + Session (psycopg v3)
-    ├── models.py           # Classes declarativas (Base) representando as tabelas
-    └── routes.py           # 7 endpoints GET (times, partidas, confronto, estatísticas, campeonatos)
+└── relatório acompanhamento/  # Logs de progresso do projeto
 ```
 
-## 🌐 API REST (FastAPI)
-A API serve os dados da camada Ouro via 7 endpoints GET, com paginação, filtros e documentação Swagger automática (`/docs`).
+## ▶️ Execução Local
 
-| Endpoint | Descrição |
-|----------|-----------|
-| `GET /api/v1/times` | Lista todos os times (filtro por `?estado=XX`) |
-| `GET /api/v1/times/{id}` | Busca time por ID |
-| `GET /api/v1/partidas` | Lista partidas com paginação e filtros |
-| `GET /api/v1/partidas/{id}` | Dados completos de uma partida (66 colunas) |
-| `GET /api/v1/confronto` | H2H entre dois times (`?time_a=&time_b=`) |
-| `GET /api/v1/estatisticas/time/{id}` | Estatísticas agregadas de um time (`?ano=`) |
-| `GET /api/v1/campeonatos` | Lista anos disponíveis com contagem de jogos |
-
-**Execução:**
 ```bash
-docker-compose up -d            # Subir PostgreSQL (porta 5433)
-python -m etl.load              # Ingerir dados Gold no banco
-python -m uvicorn api.main:app --reload  # Iniciar API (http://localhost:8000)
+pip install -r requirements.txt
+playwright install chromium
+
+cp .env.example .env        # preencha OGOL_ACCOUNTS e SPREADSHEET_ID
+# deixe o credentials.json da Service Account na raiz (ignorado pelo git)
+
+python etl/extract.py       # Bronze  (ANOS_EXTRACAO=atual para só o ano corrente)
+python etl/transform.py     # Prata
+python etl/gold.py          # Ouro (OBT)
+python etl/load.py          # Publica no Google Sheets
 ```

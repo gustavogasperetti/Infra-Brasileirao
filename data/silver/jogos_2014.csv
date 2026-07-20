@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2014,2014-04-19,Fluminense,Figueirense,3,0,V,D,NORMAL,R1
+2014,2014-04-19,Internacional,Vitória,1,0,V,D,NORMAL,R1
+2014,2014-04-19,Chapecoense,Coritiba,0,0,E,E,NORMAL,R1
+2014,2014-04-20,São Paulo,Botafogo,3,0,V,D,NORMAL,R1
+2014,2014-04-20,Athletico Paranaense,Grêmio,1,0,V,D,NORMAL,R1
+2014,2014-04-20,Atlético Mineiro,Corinthians,0,0,E,E,NORMAL,R1
+2014,2014-04-20,Bahia,Cruzeiro,1,2,D,V,NORMAL,R1
+2014,2014-04-20,Flamengo,Goiás,0,0,E,E,NORMAL,R1
+2014,2014-04-20,Santos,Sport,1,1,E,E,NORMAL,R1
+2014,2014-04-20,Criciúma,Palmeiras,1,2,D,V,NORMAL,R1
+2014,2014-04-26,Coritiba,Santos,0,0,E,E,NORMAL,R2
+2014,2014-04-26,Palmeiras,Fluminense,0,1,D,V,NORMAL,R2
+2014,2014-04-27,Botafogo,Internacional,2,2,E,E,NORMAL,R2
+2014,2014-04-27,Corinthians,Flamengo,2,0,V,D,NORMAL,R2
+2014,2014-04-27,Cruzeiro,São Paulo,1,1,E,E,NORMAL,R2
+2014,2014-04-27,Vitória,Athletico Paranaense,2,2,E,E,NORMAL,R2
+2014,2014-04-27,Sport,Chapecoense,2,1,V,D,NORMAL,R2
+2014,2014-04-27,Grêmio,Atlético Mineiro,2,1,V,D,NORMAL,R2
+2014,2014-04-27,Figueirense,Bahia,0,2,D,V,NORMAL,R2
+2014,2014-04-27,Goiás,Criciúma,1,0,V,D,NORMAL,R2
+2014,2014-05-03,São Paulo,Coritiba,2,2,E,E,NORMAL,R3
+2014,2014-05-03,Santos,Grêmio,0,0,E,E,NORMAL,R3
+2014,2014-05-03,Athletico Paranaense,Cruzeiro,2,3,D,V,NORMAL,R3
+2014,2014-05-03,Fluminense,Vitória,1,2,D,V,NORMAL,R3
+2014,2014-05-04,Flamengo,Palmeiras,4,2,V,D,NORMAL,R3
+2014,2014-05-04,Bahia,Botafogo,1,0,V,D,NORMAL,R3
+2014,2014-05-04,Internacional,Sport,2,1,V,D,NORMAL,R3
+2014,2014-05-04,Criciúma,Figueirense,1,0,V,D,NORMAL,R3
+2014,2014-05-04,Atlético Mineiro,Goiás,0,1,D,V,NORMAL,R3
+2014,2014-05-04,Chapecoense,Corinthians,0,1,D,V,NORMAL,R3
+2014,2014-05-10,Palmeiras,Goiás,2,0,V,D,NORMAL,R4
+2014,2014-05-10,Internacional,Athletico Paranaense,2,1,V,D,NORMAL,R4
+2014,2014-05-10,Botafogo,Criciúma,6,0,V,D,NORMAL,R4
+2014,2014-05-11,Fluminense,Flamengo,2,0,V,D,NORMAL,R4
+2014,2014-05-11,São Paulo,Corinthians,1,1,E,E,NORMAL,R4
+2014,2014-05-11,Atlético Mineiro,Cruzeiro,2,1,V,D,NORMAL,R4
+2014,2014-05-11,Chapecoense,Grêmio,1,2,D,V,NORMAL,R4
+2014,2014-05-11,Coritiba,Sport,0,1,D,V,NORMAL,R4
+2014,2014-05-11,Bahia,Vitória,1,1,E,E,NORMAL,R4
+2014,2014-05-11,Figueirense,Santos,0,2,D,V,NORMAL,R4
+2014,2014-05-14,Goiás,Botafogo,2,0,V,D,NORMAL,R5
+2014,2014-05-17,Cruzeiro,Coritiba,3,2,V,D,NORMAL,R5
+2014,2014-05-18,Flamengo,São Paulo,0,2,D,V,NORMAL,R5
+2014,2014-05-18,Corinthians,Figueirense,0,1,D,V,NORMAL,R5
+2014,2014-05-18,Athletico Paranaense,Chapecoense,1,1,E,E,NORMAL,R5
+2014,2014-05-18,Grêmio,Fluminense,1,0,V,D,NORMAL,R5
+2014,2014-05-18,Santos,Atlético Mineiro,1,2,D,V,NORMAL,R5
+2014,2014-05-18,Vitória,Palmeiras,0,1,D,V,NORMAL,R5
+2014,2014-05-18,Criciúma,Internacional,0,0,E,E,NORMAL,R5
+2014,2014-05-21,Flamengo,Bahia,1,1,E,E,NORMAL,R6
+2014,2014-05-21,Coritiba,Internacional,1,1,E,E,NORMAL,R6
+2014,2014-05-21,Cruzeiro,Sport,2,0,V,D,NORMAL,R6
+2014,2014-05-21,Criciúma,Chapecoense,1,0,V,D,NORMAL,R6
+2014,2014-05-21,Fluminense,São Paulo,5,2,V,D,NORMAL,R6
+2014,2014-05-21,Corinthians,Athletico Paranaense,1,1,E,E,NORMAL,R6
+2014,2014-05-21,Grêmio,Botafogo,2,1,V,D,NORMAL,R6
+2014,2014-05-22,Palmeiras,Figueirense,1,0,V,D,NORMAL,R6
+2014,2014-05-22,Goiás,Santos,2,2,E,E,NORMAL,R6
+2014,2014-05-22,Vitória,Atlético Mineiro,2,3,D,V,NORMAL,R6
+2014,2014-05-24,Bahia,Fluminense,0,1,D,V,NORMAL,R7
+2014,2014-05-24,São Paulo,Grêmio,1,0,V,D,NORMAL,R7
+2014,2014-05-25,Sport,Corinthians,1,4,D,V,NORMAL,R7
+2014,2014-05-25,Santos,Flamengo,0,0,E,E,NORMAL,R7
+2014,2014-05-25,Athletico Paranaense,Coritiba,2,0,V,D,NORMAL,R7
+2014,2014-05-25,Figueirense,Goiás,0,1,D,V,NORMAL,R7
+2014,2014-05-25,Botafogo,Vitória,1,1,E,E,NORMAL,R7
+2014,2014-05-25,Atlético Mineiro,Criciúma,0,0,E,E,NORMAL,R7
+2014,2014-05-25,Internacional,Cruzeiro,1,3,D,V,NORMAL,R7
+2014,2014-05-25,Chapecoense,Palmeiras,2,0,V,D,NORMAL,R7
+2014,2014-05-28,Sport,Grêmio,0,0,E,E,NORMAL,R8
+2014,2014-05-28,Palmeiras,Botafogo,0,2,D,V,NORMAL,R8
+2014,2014-05-28,Criciúma,Coritiba,1,0,V,D,NORMAL,R8
+2014,2014-05-28,Internacional,Chapecoense,2,0,V,D,NORMAL,R8
+2014,2014-05-28,Goiás,Vitória,0,0,E,E,NORMAL,R8
+2014,2014-05-28,Corinthians,Cruzeiro,1,0,V,D,NORMAL,R8
+2014,2014-05-28,Athletico Paranaense,São Paulo,2,2,E,E,NORMAL,R8
+2014,2014-05-28,Atlético Mineiro,Fluminense,2,0,V,D,NORMAL,R8
+2014,2014-05-29,Flamengo,Figueirense,1,1,E,E,NORMAL,R8
+2014,2014-05-29,Bahia,Santos,0,2,D,V,NORMAL,R8
+2014,2014-05-31,São Paulo,Atlético Mineiro,2,1,V,D,NORMAL,R9
+2014,2014-05-31,Coritiba,Goiás,3,0,V,D,NORMAL,R9
+2014,2014-05-31,Vitória,Sport,0,1,D,V,NORMAL,R9
+2014,2014-06-01,Corinthians,Botafogo,1,1,E,E,NORMAL,R9
+2014,2014-06-01,Cruzeiro,Flamengo,3,0,V,D,NORMAL,R9
+2014,2014-06-01,Grêmio,Palmeiras,0,0,E,E,NORMAL,R9
+2014,2014-06-01,Chapecoense,Bahia,2,1,V,D,NORMAL,R9
+2014,2014-06-01,Fluminense,Internacional,1,1,E,E,NORMAL,R9
+2014,2014-06-01,Santos,Criciúma,2,0,V,D,NORMAL,R9
+2014,2014-06-01,Figueirense,Athletico Paranaense,1,3,D,V,NORMAL,R9
+2014,2014-06-04,Sport,Bahia,1,0,V,D,NORMAL,R5
+2014,2014-07-16,Sport,Botafogo,1,0,V,D,NORMAL,R10
+2014,2014-07-16,Coritiba,Figueirense,0,2,D,V,NORMAL,R10
+2014,2014-07-16,Grêmio,Goiás,0,0,E,E,NORMAL,R10
+2014,2014-07-16,Flamengo,Athletico Paranaense,1,2,D,V,NORMAL,R10
+2014,2014-07-16,Bahia,São Paulo,0,2,D,V,NORMAL,R10
+2014,2014-07-16,Criciúma,Fluminense,3,2,V,D,NORMAL,R10
+2014,2014-07-17,Corinthians,Internacional,2,1,V,D,NORMAL,R10
+2014,2014-07-17,Santos,Palmeiras,2,0,V,D,NORMAL,R10
+2014,2014-07-17,Cruzeiro,Vitória,3,1,V,D,NORMAL,R10
+2014,2014-07-19,São Paulo,Chapecoense,0,1,D,V,NORMAL,R11
+2014,2014-07-19,Atlético Mineiro,Bahia,1,1,E,E,NORMAL,R11
+2014,2014-07-19,Figueirense,Grêmio,0,1,D,V,NORMAL,R11
+2014,2014-07-19,Botafogo,Coritiba,1,0,V,D,NORMAL,R11
+2014,2014-07-20,Palmeiras,Cruzeiro,1,2,D,V,NORMAL,R11
+2014,2014-07-20,Vitória,Corinthians,0,0,E,E,NORMAL,R11
+2014,2014-07-20,Internacional,Flamengo,4,0,V,D,NORMAL,R11
+2014,2014-07-20,Fluminense,Santos,1,0,V,D,NORMAL,R11
+2014,2014-07-20,Athletico Paranaense,Criciúma,2,0,V,D,NORMAL,R11
+2014,2014-07-20,Goiás,Sport,0,0,E,E,NORMAL,R11
+2014,2014-07-26,Santos,Chapecoense,3,0,V,D,NORMAL,R12
+2014,2014-07-26,Cruzeiro,Figueirense,5,0,V,D,NORMAL,R12
+2014,2014-07-26,Criciúma,Vitória,1,3,D,V,NORMAL,R12
+2014,2014-07-26,Bahia,Internacional,0,1,D,V,NORMAL,R12
+2014,2014-07-27,Sport,Atlético Mineiro,2,1,V,D,NORMAL,R12
+2014,2014-07-27,Corinthians,Palmeiras,2,0,V,D,NORMAL,R12
+2014,2014-07-27,Athletico Paranaense,Fluminense,0,3,D,V,NORMAL,R12
+2014,2014-07-27,Goiás,São Paulo,2,1,V,D,NORMAL,R12
+2014,2014-07-27,Flamengo,Botafogo,1,0,V,D,NORMAL,R12
+2014,2014-07-27,Grêmio,Coritiba,2,3,D,V,NORMAL,R12
+2014,2014-08-02,Botafogo,Cruzeiro,1,1,E,E,NORMAL,R13
+2014,2014-08-02,São Paulo,Criciúma,1,1,E,E,NORMAL,R13
+2014,2014-08-02,Vitória,Grêmio,2,1,V,D,NORMAL,R13
+2014,2014-08-03,Palmeiras,Bahia,1,1,E,E,NORMAL,R13
+2014,2014-08-03,Coritiba,Corinthians,0,0,E,E,NORMAL,R13
+2014,2014-08-03,Figueirense,Sport,3,0,V,D,NORMAL,R13
+2014,2014-08-03,Chapecoense,Flamengo,1,0,V,D,NORMAL,R13
+2014,2014-08-03,Fluminense,Goiás,2,0,V,D,NORMAL,R13
+2014,2014-08-03,Atlético Mineiro,Athletico Paranaense,3,1,V,D,NORMAL,R13
+2014,2014-08-03,Internacional,Santos,1,0,V,D,NORMAL,R13
+2014,2014-08-06,Chapecoense,Atlético Mineiro,1,1,E,E,NORMAL,R10
+2014,2014-08-09,Bahia,Goiás,1,0,V,D,NORMAL,R14
+2014,2014-08-09,Criciúma,Cruzeiro,0,0,E,E,NORMAL,R14
+2014,2014-08-09,Fluminense,Coritiba,1,1,E,E,NORMAL,R14
+2014,2014-08-10,Flamengo,Sport,1,0,V,D,NORMAL,R14
+2014,2014-08-10,Santos,Corinthians,0,1,D,V,NORMAL,R14
+2014,2014-08-10,Athletico Paranaense,Botafogo,2,0,V,D,NORMAL,R14
+2014,2014-08-10,Internacional,Grêmio,2,0,V,D,NORMAL,R14
+2014,2014-08-10,São Paulo,Vitória,3,1,V,D,NORMAL,R14
+2014,2014-08-10,Atlético Mineiro,Palmeiras,2,1,V,D,NORMAL,R14
+2014,2014-08-10,Chapecoense,Figueirense,0,1,D,V,NORMAL,R14
+2014,2014-08-16,Goiás,Internacional,0,1,D,V,NORMAL,R15
+2014,2014-08-16,Corinthians,Bahia,1,1,E,E,NORMAL,R15
+2014,2014-08-17,Palmeiras,São Paulo,1,2,D,V,NORMAL,R15
+2014,2014-08-17,Coritiba,Flamengo,0,1,D,V,NORMAL,R15
+2014,2014-08-17,Cruzeiro,Santos,3,0,V,D,NORMAL,R15
+2014,2014-08-17,Vitória,Chapecoense,0,0,E,E,NORMAL,R15
+2014,2014-08-17,Grêmio,Criciúma,2,0,V,D,NORMAL,R15
+2014,2014-08-17,Botafogo,Fluminense,2,0,V,D,NORMAL,R15
+2014,2014-08-17,Sport,Athletico Paranaense,1,1,E,E,NORMAL,R15
+2014,2014-08-17,Figueirense,Atlético Mineiro,2,2,E,E,NORMAL,R15
+2014,2014-08-20,Sport,Palmeiras,2,1,V,D,NORMAL,R16
+2014,2014-08-20,Santos,Athletico Paranaense,2,0,V,D,NORMAL,R16
+2014,2014-08-20,Figueirense,Botafogo,1,0,V,D,NORMAL,R16
+2014,2014-08-20,Coritiba,Vitória,2,0,V,D,NORMAL,R16
+2014,2014-08-20,Bahia,Criciúma,0,0,E,E,NORMAL,R16
+2014,2014-08-20,Flamengo,Atlético Mineiro,2,1,V,D,NORMAL,R16
+2014,2014-08-20,Internacional,São Paulo,0,1,D,V,NORMAL,R16
+2014,2014-08-20,Chapecoense,Fluminense,1,0,V,D,NORMAL,R16
+2014,2014-08-21,Corinthians,Goiás,5,2,V,D,NORMAL,R16
+2014,2014-08-21,Cruzeiro,Grêmio,1,0,V,D,NORMAL,R16
+2014,2014-08-23,Botafogo,Chapecoense,1,0,V,D,NORMAL,R17
+2014,2014-08-23,Atlético Mineiro,Internacional,1,0,V,D,NORMAL,R17
+2014,2014-08-23,Palmeiras,Coritiba,1,0,V,D,NORMAL,R17
+2014,2014-08-24,Fluminense,Sport,4,0,V,D,NORMAL,R17
+2014,2014-08-24,São Paulo,Santos,2,1,V,D,NORMAL,R17
+2014,2014-08-24,Vitória,Figueirense,0,1,D,V,NORMAL,R17
+2014,2014-08-24,Grêmio,Corinthians,2,1,V,D,NORMAL,R17
+2014,2014-08-24,Criciúma,Flamengo,0,2,D,V,NORMAL,R17
+2014,2014-08-24,Athletico Paranaense,Bahia,0,0,E,E,NORMAL,R17
+2014,2014-08-24,Goiás,Cruzeiro,0,1,D,V,NORMAL,R17
+2014,2014-08-30,Palmeiras,Internacional,0,1,D,V,NORMAL,R18
+2014,2014-08-30,Cruzeiro,Chapecoense,4,2,V,D,NORMAL,R18
+2014,2014-08-31,Botafogo,Santos,1,0,V,D,NORMAL,R18
+2014,2014-08-31,Sport,Criciúma,2,0,V,D,NORMAL,R18
+2014,2014-08-31,Corinthians,Fluminense,1,1,E,E,NORMAL,R18
+2014,2014-08-31,Coritiba,Atlético Mineiro,0,0,E,E,NORMAL,R18
+2014,2014-08-31,Figueirense,São Paulo,1,1,E,E,NORMAL,R18
+2014,2014-08-31,Vitória,Flamengo,1,2,D,V,NORMAL,R18
+2014,2014-08-31,Grêmio,Bahia,1,0,V,D,NORMAL,R18
+2014,2014-08-31,Goiás,Athletico Paranaense,3,1,V,D,NORMAL,R18
+2014,2014-09-06,Flamengo,Grêmio,0,1,D,V,NORMAL,R19
+2014,2014-09-06,Santos,Vitória,3,1,V,D,NORMAL,R19
+2014,2014-09-06,Chapecoense,Goiás,0,0,E,E,NORMAL,R19
+2014,2014-09-07,Fluminense,Cruzeiro,3,3,E,E,NORMAL,R19
+2014,2014-09-07,São Paulo,Sport,2,0,V,D,NORMAL,R19
+2014,2014-09-07,Atlético Mineiro,Botafogo,1,0,V,D,NORMAL,R19
+2014,2014-09-07,Criciúma,Corinthians,0,0,E,E,NORMAL,R19
+2014,2014-09-07,Athletico Paranaense,Palmeiras,1,1,E,E,NORMAL,R19
+2014,2014-09-07,Bahia,Coritiba,0,0,E,E,NORMAL,R19
+2014,2014-09-07,Internacional,Figueirense,2,3,D,V,NORMAL,R19
+2014,2014-09-10,Palmeiras,Criciúma,1,0,V,D,NORMAL,R20
+2014,2014-09-10,Grêmio,Athletico Paranaense,1,0,V,D,NORMAL,R20
+2014,2014-09-10,Figueirense,Fluminense,1,1,E,E,NORMAL,R20
+2014,2014-09-10,Sport,Santos,3,1,V,D,NORMAL,R20
+2014,2014-09-10,Coritiba,Chapecoense,3,0,V,D,NORMAL,R20
+2014,2014-09-10,Botafogo,São Paulo,2,4,D,V,NORMAL,R20
+2014,2014-09-10,Vitória,Internacional,2,0,V,D,NORMAL,R20
+2014,2014-09-10,Goiás,Flamengo,1,0,V,D,NORMAL,R20
+2014,2014-09-11,Corinthians,Atlético Mineiro,1,0,V,D,NORMAL,R20
+2014,2014-09-11,Cruzeiro,Bahia,2,1,V,D,NORMAL,R20
+2014,2014-09-13,Fluminense,Palmeiras,3,0,V,D,NORMAL,R21
+2014,2014-09-13,Chapecoense,Sport,3,1,V,D,NORMAL,R21
+2014,2014-09-13,Santos,Coritiba,2,1,V,D,NORMAL,R21
+2014,2014-09-14,Flamengo,Corinthians,1,0,V,D,NORMAL,R21
+2014,2014-09-14,São Paulo,Cruzeiro,2,0,V,D,NORMAL,R21
+2014,2014-09-14,Bahia,Figueirense,3,0,V,D,NORMAL,R21
+2014,2014-09-14,Internacional,Botafogo,2,0,V,D,NORMAL,R21
+2014,2014-09-14,Athletico Paranaense,Vitória,2,0,V,D,NORMAL,R21
+2014,2014-09-14,Atlético Mineiro,Grêmio,0,0,E,E,NORMAL,R21
+2014,2014-09-14,Criciúma,Goiás,1,0,V,D,NORMAL,R21
+2014,2014-09-17,Cruzeiro,Athletico Paranaense,2,0,V,D,NORMAL,R22
+2014,2014-09-17,Vitória,Fluminense,3,1,V,D,NORMAL,R22
+2014,2014-09-17,Sport,Internacional,0,0,E,E,NORMAL,R22
+2014,2014-09-17,Figueirense,Criciúma,1,1,E,E,NORMAL,R22
+2014,2014-09-17,Botafogo,Bahia,2,3,D,V,NORMAL,R22
+2014,2014-09-17,Palmeiras,Flamengo,2,2,E,E,NORMAL,R22
+2014,2014-09-17,Coritiba,São Paulo,3,1,V,D,NORMAL,R22
+2014,2014-09-18,Corinthians,Chapecoense,1,1,E,E,NORMAL,R22
+2014,2014-09-18,Goiás,Atlético Mineiro,2,3,D,V,NORMAL,R22
+2014,2014-09-18,Grêmio,Santos,0,0,E,E,NORMAL,R22
+2014,2014-09-20,Athletico Paranaense,Internacional,0,1,D,V,NORMAL,R23
+2014,2014-09-20,Criciúma,Botafogo,1,1,E,E,NORMAL,R23
+2014,2014-09-21,Flamengo,Fluminense,1,1,E,E,NORMAL,R23
+2014,2014-09-21,Sport,Coritiba,1,0,V,D,NORMAL,R23
+2014,2014-09-21,Corinthians,São Paulo,3,2,V,D,NORMAL,R23
+2014,2014-09-21,Cruzeiro,Atlético Mineiro,2,3,D,V,NORMAL,R23
+2014,2014-09-21,Vitória,Bahia,2,1,V,D,NORMAL,R23
+2014,2014-09-21,Santos,Figueirense,3,1,V,D,NORMAL,R23
+2014,2014-09-21,Grêmio,Chapecoense,1,0,V,D,NORMAL,R23
+2014,2014-09-21,Goiás,Palmeiras,6,0,V,D,NORMAL,R23
+2014,2014-09-24,Coritiba,Cruzeiro,1,2,D,V,NORMAL,R24
+2014,2014-09-24,Internacional,Criciúma,3,0,V,D,NORMAL,R24
+2014,2014-09-24,Bahia,Sport,1,0,V,D,NORMAL,R24
+2014,2014-09-24,Chapecoense,Athletico Paranaense,3,0,V,D,NORMAL,R24
+2014,2014-09-24,Fluminense,Grêmio,0,0,E,E,NORMAL,R24
+2014,2014-09-24,São Paulo,Flamengo,2,2,E,E,NORMAL,R24
+2014,2014-09-24,Figueirense,Corinthians,1,0,V,D,NORMAL,R24
+2014,2014-09-25,Botafogo,Goiás,1,0,V,D,NORMAL,R24
+2014,2014-09-25,Palmeiras,Vitória,2,0,V,D,NORMAL,R24
+2014,2014-09-25,Atlético Mineiro,Santos,3,2,V,D,NORMAL,R24
+2014,2014-09-27,Sport,Cruzeiro,0,0,E,E,NORMAL,R25
+2014,2014-09-27,Chapecoense,Criciúma,1,1,E,E,NORMAL,R25
+2014,2014-09-27,São Paulo,Fluminense,1,3,D,V,NORMAL,R25
+2014,2014-09-28,Botafogo,Grêmio,0,2,D,V,NORMAL,R25
+2014,2014-09-28,Athletico Paranaense,Corinthians,1,0,V,D,NORMAL,R25
+2014,2014-09-28,Atlético Mineiro,Vitória,2,0,V,D,NORMAL,R25
+2014,2014-09-28,Bahia,Flamengo,2,1,V,D,NORMAL,R25
+2014,2014-09-28,Santos,Goiás,2,0,V,D,NORMAL,R25
+2014,2014-09-28,Internacional,Coritiba,4,2,V,D,NORMAL,R25
+2014,2014-09-28,Figueirense,Palmeiras,3,1,V,D,NORMAL,R25
+2014,2014-10-02,Palmeiras,Chapecoense,4,2,V,D,NORMAL,R26
+2014,2014-10-04,Flamengo,Santos,0,1,D,V,NORMAL,R26
+2014,2014-10-04,Fluminense,Bahia,1,1,E,E,NORMAL,R26
+2014,2014-10-04,Coritiba,Athletico Paranaense,1,0,V,D,NORMAL,R26
+2014,2014-10-04,Vitória,Botafogo,2,1,V,D,NORMAL,R26
+2014,2014-10-04,Grêmio,São Paulo,0,1,D,V,NORMAL,R26
+2014,2014-10-04,Corinthians,Sport,3,0,V,D,NORMAL,R26
+2014,2014-10-04,Cruzeiro,Internacional,2,1,V,D,NORMAL,R26
+2014,2014-10-04,Criciúma,Atlético Mineiro,3,1,V,D,NORMAL,R26
+2014,2014-10-04,Goiás,Figueirense,1,0,V,D,NORMAL,R26
+2014,2014-10-08,Botafogo,Palmeiras,0,1,D,V,NORMAL,R27
+2014,2014-10-08,São Paulo,Athletico Paranaense,1,0,V,D,NORMAL,R27
+2014,2014-10-08,Coritiba,Criciúma,1,0,V,D,NORMAL,R27
+2014,2014-10-08,Vitória,Goiás,2,2,E,E,NORMAL,R27
+2014,2014-10-08,Cruzeiro,Corinthians,0,1,D,V,NORMAL,R27
+2014,2014-10-08,Grêmio,Sport,2,0,V,D,NORMAL,R27
+2014,2014-10-08,Figueirense,Flamengo,1,2,D,V,NORMAL,R27
+2014,2014-10-09,Fluminense,Atlético Mineiro,0,0,E,E,NORMAL,R27
+2014,2014-10-09,Santos,Bahia,1,0,V,D,NORMAL,R27
+2014,2014-10-09,Chapecoense,Internacional,5,0,V,D,NORMAL,R27
+2014,2014-10-11,Botafogo,Corinthians,1,0,V,D,NORMAL,R28
+2014,2014-10-11,Goiás,Coritiba,3,0,V,D,NORMAL,R28
+2014,2014-10-11,Palmeiras,Grêmio,2,1,V,D,NORMAL,R28
+2014,2014-10-12,Flamengo,Cruzeiro,3,0,V,D,NORMAL,R28
+2014,2014-10-12,Atlético Mineiro,São Paulo,1,0,V,D,NORMAL,R28
+2014,2014-10-12,Bahia,Chapecoense,0,1,D,V,NORMAL,R28
+2014,2014-10-12,Internacional,Fluminense,2,1,V,D,NORMAL,R28
+2014,2014-10-12,Sport,Vitória,1,2,D,V,NORMAL,R28
+2014,2014-10-12,Athletico Paranaense,Figueirense,3,0,V,D,NORMAL,R28
+2014,2014-10-12,Criciúma,Santos,3,0,V,D,NORMAL,R28
+2014,2014-10-18,Fluminense,Criciúma,4,2,V,D,NORMAL,R29
+2014,2014-10-18,São Paulo,Bahia,2,1,V,D,NORMAL,R29
+2014,2014-10-18,Goiás,Grêmio,0,0,E,E,NORMAL,R29
+2014,2014-10-18,Atlético Mineiro,Chapecoense,1,0,V,D,NORMAL,R29
+2014,2014-10-19,Palmeiras,Santos,1,3,D,V,NORMAL,R29
+2014,2014-10-19,Athletico Paranaense,Flamengo,2,1,V,D,NORMAL,R29
+2014,2014-10-19,Internacional,Corinthians,1,2,D,V,NORMAL,R29
+2014,2014-10-19,Figueirense,Coritiba,4,0,V,D,NORMAL,R29
+2014,2014-10-19,Botafogo,Sport,1,1,E,E,NORMAL,R29
+2014,2014-10-19,Vitória,Cruzeiro,0,1,D,V,NORMAL,R29
+2014,2014-10-21,Bahia,Atlético Mineiro,1,1,E,E,NORMAL,R30
+2014,2014-10-22,Flamengo,Internacional,2,0,V,D,NORMAL,R30
+2014,2014-10-22,Corinthians,Vitória,2,1,V,D,NORMAL,R30
+2014,2014-10-22,Cruzeiro,Palmeiras,1,1,E,E,NORMAL,R30
+2014,2014-10-22,Criciúma,Athletico Paranaense,0,1,D,V,NORMAL,R30
+2014,2014-10-22,Coritiba,Botafogo,2,0,V,D,NORMAL,R30
+2014,2014-10-22,Grêmio,Figueirense,1,0,V,D,NORMAL,R30
+2014,2014-10-22,Santos,Fluminense,0,1,D,V,NORMAL,R30
+2014,2014-10-22,Chapecoense,São Paulo,0,0,E,E,NORMAL,R30
+2014,2014-10-22,Sport,Goiás,0,1,D,V,NORMAL,R30
+2014,2014-10-25,Fluminense,Athletico Paranaense,2,1,V,D,NORMAL,R31
+2014,2014-10-25,Palmeiras,Corinthians,1,1,E,E,NORMAL,R31
+2014,2014-10-25,Figueirense,Cruzeiro,1,1,E,E,NORMAL,R31
+2014,2014-10-25,Coritiba,Grêmio,1,1,E,E,NORMAL,R31
+2014,2014-10-25,Atlético Mineiro,Sport,3,2,V,D,NORMAL,R31
+2014,2014-10-25,Vitória,Criciúma,3,1,V,D,NORMAL,R31
+2014,2014-10-25,Chapecoense,Santos,1,1,E,E,NORMAL,R31
+2014,2014-10-25,Botafogo,Flamengo,2,1,V,D,NORMAL,R31
+2014,2014-10-25,Internacional,Bahia,2,0,V,D,NORMAL,R31
+2014,2014-10-27,São Paulo,Goiás,3,0,V,D,NORMAL,R31
+2014,2014-11-01,Grêmio,Vitória,1,0,V,D,NORMAL,R32
+2014,2014-11-01,Goiás,Fluminense,0,2,D,V,NORMAL,R32
+2014,2014-11-01,Corinthians,Coritiba,2,2,E,E,NORMAL,R32
+2014,2014-11-02,Sport,Figueirense,1,0,V,D,NORMAL,R32
+2014,2014-11-02,Santos,Internacional,1,2,D,V,NORMAL,R32
+2014,2014-11-02,Cruzeiro,Botafogo,2,1,V,D,NORMAL,R32
+2014,2014-11-02,Criciúma,São Paulo,1,2,D,V,NORMAL,R32
+2014,2014-11-02,Flamengo,Chapecoense,3,0,V,D,NORMAL,R32
+2014,2014-11-02,Athletico Paranaense,Atlético Mineiro,1,0,V,D,NORMAL,R32
+2014,2014-11-02,Bahia,Palmeiras,0,1,D,V,NORMAL,R32
+2014,2014-11-08,Palmeiras,Atlético Mineiro,0,2,D,V,NORMAL,R33
+2014,2014-11-08,Coritiba,Fluminense,1,0,V,D,NORMAL,R33
+2014,2014-11-08,Botafogo,Athletico Paranaense,0,2,D,V,NORMAL,R33
+2014,2014-11-09,Sport,Flamengo,2,2,E,E,NORMAL,R33
+2014,2014-11-09,Vitória,São Paulo,1,2,D,V,NORMAL,R33
+2014,2014-11-09,Grêmio,Internacional,4,1,V,D,NORMAL,R33
+2014,2014-11-09,Figueirense,Chapecoense,1,0,V,D,NORMAL,R33
+2014,2014-11-09,Corinthians,Santos,1,0,V,D,NORMAL,R33
+2014,2014-11-09,Cruzeiro,Criciúma,3,1,V,D,NORMAL,R33
+2014,2014-11-09,Goiás,Bahia,3,0,V,D,NORMAL,R33
+2014,2014-11-12,São Paulo,Internacional,1,1,E,E,NORMAL,R35
+2014,2014-11-15,Fluminense,Botafogo,1,0,V,D,NORMAL,R34
+2014,2014-11-15,Criciúma,Grêmio,0,3,D,V,NORMAL,R34
+2014,2014-11-16,Flamengo,Coritiba,3,2,V,D,NORMAL,R34
+2014,2014-11-16,Santos,Cruzeiro,0,1,D,V,NORMAL,R34
+2014,2014-11-16,Athletico Paranaense,Sport,0,1,D,V,NORMAL,R34
+2014,2014-11-16,Bahia,Corinthians,1,2,D,V,NORMAL,R34
+2014,2014-11-16,Internacional,Goiás,1,0,V,D,NORMAL,R34
+2014,2014-11-16,São Paulo,Palmeiras,2,0,V,D,NORMAL,R34
+2014,2014-11-16,Atlético Mineiro,Figueirense,1,1,E,E,NORMAL,R34
+2014,2014-11-16,Chapecoense,Vitória,0,1,D,V,NORMAL,R34
+2014,2014-11-19,Botafogo,Figueirense,0,1,D,V,NORMAL,R35
+2014,2014-11-19,Athletico Paranaense,Santos,1,1,E,E,NORMAL,R35
+2014,2014-11-19,Vitória,Coritiba,1,1,E,E,NORMAL,R35
+2014,2014-11-19,Criciúma,Bahia,0,1,D,V,NORMAL,R35
+2014,2014-11-19,Goiás,Corinthians,0,1,D,V,NORMAL,R35
+2014,2014-11-19,Palmeiras,Sport,0,2,D,V,NORMAL,R35
+2014,2014-11-19,Atlético Mineiro,Flamengo,4,0,V,D,NORMAL,R35
+2014,2014-11-20,Fluminense,Chapecoense,1,4,D,V,NORMAL,R35
+2014,2014-11-20,Grêmio,Cruzeiro,1,2,D,V,NORMAL,R35
+2014,2014-11-22,Internacional,Atlético Mineiro,2,1,V,D,NORMAL,R36
+2014,2014-11-22,Bahia,Athletico Paranaense,1,2,D,V,NORMAL,R36
+2014,2014-11-23,Flamengo,Criciúma,1,1,E,E,NORMAL,R36
+2014,2014-11-23,Sport,Fluminense,2,2,E,E,NORMAL,R36
+2014,2014-11-23,Santos,São Paulo,0,1,D,V,NORMAL,R36
+2014,2014-11-23,Cruzeiro,Goiás,2,1,V,D,NORMAL,R36
+2014,2014-11-23,Figueirense,Vitória,2,0,V,D,NORMAL,R36
+2014,2014-11-23,Corinthians,Grêmio,1,0,V,D,NORMAL,R36
+2014,2014-11-23,Coritiba,Palmeiras,2,0,V,D,NORMAL,R36
+2014,2014-11-23,Chapecoense,Botafogo,2,0,V,D,NORMAL,R36
+2014,2014-11-29,Internacional,Palmeiras,3,1,V,D,NORMAL,R37
+2014,2014-11-29,Criciúma,Sport,2,2,E,E,NORMAL,R37
+2014,2014-11-29,Flamengo,Vitória,4,0,V,D,NORMAL,R37
+2014,2014-11-30,Fluminense,Corinthians,5,2,V,D,NORMAL,R37
+2014,2014-11-30,São Paulo,Figueirense,1,1,E,E,NORMAL,R37
+2014,2014-11-30,Santos,Botafogo,2,0,V,D,NORMAL,R37
+2014,2014-11-30,Chapecoense,Cruzeiro,1,1,E,E,NORMAL,R37
+2014,2014-11-30,Athletico Paranaense,Goiás,1,0,V,D,NORMAL,R37
+2014,2014-11-30,Atlético Mineiro,Coritiba,1,2,D,V,NORMAL,R37
+2014,2014-11-30,Bahia,Grêmio,1,0,V,D,NORMAL,R37
+2014,2014-12-06,Corinthians,Criciúma,2,1,V,D,NORMAL,R38
+2014,2014-12-06,Figueirense,Internacional,1,2,D,V,NORMAL,R38
+2014,2014-12-07,Botafogo,Atlético Mineiro,0,0,E,E,NORMAL,R38
+2014,2014-12-07,Sport,São Paulo,1,0,V,D,NORMAL,R38
+2014,2014-12-07,Palmeiras,Athletico Paranaense,1,1,E,E,NORMAL,R38
+2014,2014-12-07,Coritiba,Bahia,3,2,V,D,NORMAL,R38
+2014,2014-12-07,Cruzeiro,Fluminense,2,1,V,D,NORMAL,R38
+2014,2014-12-07,Vitória,Santos,0,1,D,V,NORMAL,R38
+2014,2014-12-07,Grêmio,Flamengo,1,1,E,E,NORMAL,R38
+2014,2014-12-07,Goiás,Chapecoense,4,2,V,D,NORMAL,R38

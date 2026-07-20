@@ -1,0 +1,197 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+1991-02-02,Santos,0-0,Vasco,1F
+1991-02-02,Atlético Mineiro,0-3,São Paulo,1F
+1991-02-03,Corinthians,1-1,Vitória,1F
+1991-02-03,Portuguesa,1-0,Sport,1F
+1991-02-03,Fluminense,4-2,Palmeiras,1F
+1991-02-03,Botafogo,2-0,Náutico,1F
+1991-02-03,Bragantino,1-1,Bahia,1F
+1991-02-03,Atlético Paranaense,3-0,Flamengo,1F
+1991-02-03,Cruzeiro,0-0,Internacional,1F
+1991-02-03,Grêmio,3-2,Goiás,1F
+1991-02-06,Flamengo,1-0,São Paulo,1F
+1991-02-06,Bragantino,2-0,Corinthians,1F
+1991-02-06,Botafogo,2-0,Portuguesa,1F
+1991-02-06,Cruzeiro,3-0,Vasco,1F
+1991-02-06,Bahia,2-2,Atlético Mineiro,1F
+1991-02-06,Náutico,2-0,Santos,1F
+1991-02-06,Sport,1-2,Palmeiras,1F
+1991-02-06,Internacional,2-1,Vitória,1F
+1991-02-07,Fluminense,3-2,Goiás,1F
+1991-02-07,Atlético Paranaense,4-2,Grêmio,1F
+1991-02-16,Corinthians,2-1,Botafogo,1F
+1991-02-16,Vasco,2-2,Bragantino,1F
+1991-02-17,São Paulo,1-2,Santos,1F
+1991-02-17,Palmeiras,0-2,Portuguesa,1F
+1991-02-17,Fluminense,0-2,Atlético Paranaense,1F
+1991-02-17,Goiás,5-1,Flamengo,1F
+1991-02-17,Cruzeiro,2-2,Atlético Mineiro,1F
+1991-02-17,Bahia,0-1,Vitória,1F
+1991-02-17,Náutico,2-0,Sport,1F
+1991-02-17,Grêmio,0-0,Internacional,1F
+1991-02-23,São Paulo,1-0,Fluminense,1F
+1991-02-23,Portuguesa,0-0,Bragantino,1F
+1991-02-23,Bahia,2-1,Flamengo,1F
+1991-02-24,Corinthians,1-1,Cruzeiro,1F
+1991-02-24,Palmeiras,2-0,Náutico,1F
+1991-02-24,Botafogo,2-0,Vitória,1F
+1991-02-24,Atlético Mineiro,1-0,Grêmio,1F
+1991-02-24,Internacional,2-0,Atlético Paranaense,1F
+1991-02-24,Goiás,2-2,Vasco,1F
+1991-02-25,Santos,3-1,Sport,1F
+1991-03-02,Vasco,0-1,Corinthians,1F
+1991-03-02,Palmeiras,2-1,Goiás,1F
+1991-03-02,São Paulo,2-1,Atlético Paranaense,1F
+1991-03-02,Bragantino,1-1,Internacional,1F
+1991-03-02,Bahia,0-0,Botafogo,1F
+1991-03-02,Fluminense,2-0,Grêmio,1F
+1991-03-02,Vitória,0-0,Cruzeiro,1F
+1991-03-02,Sport,0-0,Atlético Mineiro,1F
+1991-03-03,Flamengo,1-0,Náutico,1F
+1991-03-06,Botafogo,0-0,Goiás,1F
+1991-03-06,Fluminense,2-0,Bahia,1F
+1991-03-06,Vitória,0-1,Vasco,1F
+1991-03-06,Corinthians,2-0,Santos,1F
+1991-03-06,Náutico,2-1,São Paulo,1F
+1991-03-06,Cruzeiro,1-3,Bragantino,1F
+1991-03-06,Sport,1-0,Internacional,1F
+1991-03-07,Palmeiras,2-0,Flamengo,1F
+1991-03-07,Grêmio,1-1,Portuguesa,1F
+1991-03-07,Atlético Mineiro,2-0,Atlético Paranaense,1F
+1991-03-09,São Paulo,1-0,Bahia,1F
+1991-03-09,Internacional,1-1,Corinthians,1F
+1991-03-09,Flamengo,1-0,Santos,1F
+1991-03-09,Vasco,1-1,Sport,1F
+1991-03-09,Atlético Paranaense,1-1,Palmeiras,1F
+1991-03-09,Náutico,0-1,Fluminense,1F
+1991-03-09,Vitória,1-0,Grêmio,1F
+1991-03-09,Cruzeiro,1-1,Portuguesa,1F
+1991-03-11,Bragantino,3-0,Botafogo,1F
+1991-03-13,Goiás,0-1,Atlético Mineiro,1F
+1991-03-14,Santos,1-1,Portuguesa,1F
+1991-03-16,Grêmio,0-0,Flamengo,1F
+1991-03-16,Goiás,1-1,São Paulo,1F
+1991-03-17,Corinthians,0-0,Palmeiras,1F
+1991-03-17,Fluminense,0-0,Bragantino,1F
+1991-03-17,Portuguesa,1-0,Internacional,1F
+1991-03-17,Vasco,1-0,Bahia,1F
+1991-03-17,Cruzeiro,5-1,Sport,1F
+1991-03-17,Atlético Mineiro,4-0,Náutico,1F
+1991-03-18,Santos,2-0,Vitória,1F
+1991-03-20,Atlético Paranaense,2-2,Botafogo,1F
+1991-03-22,Palmeiras,1-0,Atlético Mineiro,1F
+1991-03-22,São Paulo,2-0,Grêmio,1F
+1991-03-23,Botafogo,0-3,Santos,1F
+1991-03-24,Flamengo,3-0,Vasco,1F
+1991-03-24,Internacional,2-1,Fluminense,1F
+1991-03-24,Vitória,1-1,Portuguesa,1F
+1991-03-24,Náutico,2-0,Cruzeiro,1F
+1991-03-24,Sport,1-0,Bragantino,1F
+1991-03-24,Goiás,1-1,Bahia,1F
+1991-03-24,Corinthians,1-1,Atlético Paranaense,1F
+1991-03-30,Flamengo,1-3,Atlético Mineiro,1F
+1991-03-30,Internacional,1-1,Santos,1F
+1991-03-31,Vasco,1-1,Fluminense,1F
+1991-03-31,Portuguesa,0-2,Corinthians,1F
+1991-03-31,Bragantino,1-2,São Paulo,1F
+1991-03-31,Bahia,1-1,Atlético Paranaense,1F
+1991-03-31,Vitória,1-1,Sport,1F
+1991-03-31,Náutico,2-2,Goiás,1F
+1991-04-01,Grêmio,0-1,Palmeiras,1F
+1991-04-01,Botafogo,3-2,Cruzeiro,1F
+1991-04-02,Sport,1-1,Corinthians,1F
+1991-04-03,Santos,1-1,Fluminense,1F
+1991-04-03,Portuguesa,1-1,Vasco,1F
+1991-04-03,Internacional,2-0,Botafogo,1F
+1991-04-03,Atlético Mineiro,2-0,Vitória,1F
+1991-04-03,Atlético Paranaense,3-0,Náutico,1F
+1991-04-04,São Paulo,0-0,Palmeiras,1F
+1991-04-04,Bragantino,1-1,Flamengo,1F
+1991-04-04,Grêmio,0-0,Bahia,1F
+1991-04-04,Cruzeiro,2-1,Goiás,1F
+1991-04-04,Flamengo,2-3,Corinthians,1F
+1991-04-05,Palmeiras,0-2,Bragantino,1F
+1991-04-05,Bahia,1-1,Internacional,1F
+1991-04-05,Náutico,0-0,Vasco,1F
+1991-04-05,Goiás,3-1,Sport,1F
+1991-04-05,Atlético Paranaense,3-1,Vitória,1F
+1991-04-06,Atlético Mineiro,4-1,Santos,1F
+1991-04-06,Portuguesa,1-1,Atlético Mineiro,1F
+1991-04-07,Flamengo,2-1,Fluminense,1F
+1991-04-07,Corinthians,1-1,São Paulo,1F
+1991-04-07,Bahia,1-2,Palmeiras,1F
+1991-04-07,Vasco,2-2,Internacional,1F
+1991-04-07,Náutico,3-1,Grêmio,1F
+1991-04-07,Sport,1-1,Botafogo,1F
+1991-04-07,Vitória,1-2,Bragantino,1F
+1991-04-07,Goiás,1-0,Atlético Paranaense,1F
+1991-04-08,Santos,4-0,Cruzeiro,1F
+1991-04-13,Goiás,1-0,Corinthians,1F
+1991-04-13,Atlético Mineiro,1-1,Fluminense,1F
+1991-04-13,Flamengo,1-1,Internacional,1F
+1991-04-14,Vasco,3-0,Botafogo,1F
+1991-04-14,São Paulo,1-0,Portuguesa,1F
+1991-04-14,Bragantino,1-0,Santos,1F
+1991-04-14,Grêmio,2-0,Sport,1F
+1991-04-14,Atlético Paranaense,2-3,Cruzeiro,1F
+1991-04-14,Palmeiras,2-2,Vitória,1F
+1991-04-14,Bahia,2-1,Náutico,1F
+1991-04-18,Santos,1-0,Grêmio,1F
+1991-04-20,Corinthians,3-1,Fluminense,1F
+1991-04-20,Vasco,2-2,São Paulo,1F
+1991-04-21,Internacional,2-2,Atlético Mineiro,1F
+1991-04-21,Flamengo,0-0,Portuguesa,1F
+1991-04-21,Cruzeiro,0-1,Bahia,1F
+1991-04-21,Bragantino,3-1,Náutico,1F
+1991-04-21,Vitória,3-1,Goiás,1F
+1991-04-21,Sport,2-0,Atlético Paranaense,1F
+1991-04-22,Botafogo,0-0,Palmeiras,1F
+1991-04-24,Bahia,1-0,Santos,1F
+1991-04-27,Atlético Mineiro,2-0,Corinthians,1F
+1991-04-27,Fluminense,2-0,Cruzeiro,1F
+1991-04-28,Botafogo,0-0,Flamengo,1F
+1991-04-28,São Paulo,2-0,Sport,1F
+1991-04-28,Grêmio,1-1,Bragantino,1F
+1991-04-28,Atlético Paranaense,1-1,Portuguesa,1F
+1991-04-28,Goiás,1-0,Internacional,1F
+1991-04-28,Náutico,1-1,Vitória,1F
+1991-04-29,Palmeiras,2-2,Vasco,1F
+1991-05-01,Corinthians,2-1,Grêmio,1F
+1991-05-01,Vitória,1-2,São Paulo,1F
+1991-05-01,Bragantino,1-1,Atlético Mineiro,1F
+1991-05-01,Portuguesa,1-0,Goiás,1F
+1991-05-01,Internacional,1-2,Náutico,1F
+1991-05-01,Sport,1-2,Bahia,1F
+1991-05-01,Fluminense,IC,Botafogo,1F
+1991-05-01,Vasco,3-2,Atlético Paranaense,1F
+1991-05-02,Santos,1-1,Palmeiras,1F
+1991-05-04,Portuguesa,1-2,Fluminense,1F
+1991-05-04,São Paulo,1-0,Botafogo,1F
+1991-05-04,Grêmio,0-0,Cruzeiro,1F
+1991-05-08,Santos,3-0,Atlético Paranaense,1F
+1991-05-10,Cruzeiro,0-2,Flamengo,1F
+1991-05-11,Bahia,1-1,Corinthians,1F
+1991-05-11,Palmeiras,0-0,Internacional,1F
+1991-05-11,Náutico,1-0,Portuguesa,1F
+1991-05-12,São Paulo,3-1,Cruzeiro,1F
+1991-05-12,Fluminense,3-0,Sport,1F
+1991-05-12,Bragantino,1-0,Goiás,1F
+1991-05-12,Atlético Mineiro,0-3,Botafogo,1F
+1991-05-12,Grêmio,3-0,Vasco,1F
+1991-05-12,Flamengo,2-1,Vitória,1F
+1991-05-18,Internacional,1-0,São Paulo,1F
+1991-05-19,Vasco,1-1,Atlético Mineiro,1F
+1991-05-19,Corinthians,1-0,Náutico,1F
+1991-05-19,Vitória,1-2,Fluminense,1F
+1991-05-19,Botafogo,3-1,Grêmio,1F
+1991-05-19,Sport,2-1,Flamengo,1F
+1991-05-19,Goiás,3-0,Santos,1F
+1991-05-19,Portuguesa,1-0,Bahia,1F
+1991-05-19,Cruzeiro,2-0,Palmeiras,1F
+1991-05-19,Atlético Paranaense,1-2,Bragantino,1F
+1991-05-25,Atlético Mineiro,1-1,São Paulo,SF
+1991-05-26,Fluminense,0-1,Bragantino,SF
+1991-06-01,São Paulo,0-0,Atlético Mineiro,SF
+1991-06-01,Bragantino,1-1,Fluminense,SF
+1991-06-04,São Paulo,1-0,Bragantino,F
+1991-06-09,Bragantino,0-0,São Paulo,F

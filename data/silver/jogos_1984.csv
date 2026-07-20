@@ -1,0 +1,311 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1984,1984-01-28,Flamengo,Palmeiras,1,0,V,D,NORMAL,E
+1984,1984-01-29,Vasco,São Paulo,2,3,D,V,NORMAL,A
+1984,1984-01-29,Fortaleza,Tuna Luso,0,0,E,E,NORMAL,A
+1984,1984-01-29,Bahia,Atlético Mineiro,2,0,V,D,NORMAL,B
+1984,1984-01-29,Bangu,Treze,1,0,V,D,NORMAL,B
+1984,1984-01-29,ABC,Confiança,3,1,V,D,NORMAL,C
+1984,1984-01-29,Santos,Fluminense,1,1,E,E,NORMAL,C
+1984,1984-01-29,Catuense,Santo André,0,1,D,V,NORMAL,D
+1984,1984-01-29,Grêmio,Náutico,2,0,V,D,NORMAL,D
+1984,1984-01-29,Brasília,Operário-MS,0,2,D,V,NORMAL,E
+1984,1984-01-29,Cruzeiro,America-RJ,1,2,D,V,NORMAL,F
+1984,1984-01-29,Athletico Paranaense,Rio Branco-ES,1,0,V,D,NORMAL,F
+1984,1984-01-29,Anapolina,Operário-MT,0,0,E,E,NORMAL,G
+1984,1984-01-29,Joinville,Internacional,0,0,E,E,NORMAL,G
+1984,1984-01-29,Santa Cruz,Portuguesa,0,0,E,E,NORMAL,H
+1984,1984-01-29,Auto Esporte-PI,Moto Club,4,2,V,D,NORMAL,H
+1984,1984-01-31,Palmeiras,Goiás,3,1,V,D,NORMAL,E
+1984,1984-02-01,Nacional-AM,Tuna Luso,1,1,E,E,NORMAL,A
+1984,1984-02-01,Ferroviário,Fluminense,0,0,E,E,NORMAL,C
+1984,1984-02-01,Santo André,Grêmio,1,0,V,D,NORMAL,D
+1984,1984-02-01,Coritiba,Catuense,4,1,V,D,NORMAL,D
+1984,1984-02-01,Brasil de Pelotas,Cruzeiro,1,0,V,D,NORMAL,F
+1984,1984-02-01,America-RJ,Athletico Paranaense,1,0,V,D,NORMAL,F
+1984,1984-02-01,Internacional,Anapolina,5,0,V,D,NORMAL,G
+1984,1984-02-01,Portuguesa,Botafogo,0,1,D,V,NORMAL,H
+1984,1984-02-01,Auto Esporte-PI,Santa Cruz,0,1,D,V,NORMAL,H
+1984,1984-02-01,CRB,Bangu,0,0,E,E,NORMAL,B
+1984,1984-02-02,Vasco,Fortaleza,1,0,V,D,NORMAL,A
+1984,1984-02-02,Treze,Bahia,1,1,E,E,NORMAL,B
+1984,1984-02-02,Confiança,Santos,0,2,D,V,NORMAL,C
+1984,1984-02-02,Brasília,Flamengo,0,2,D,V,NORMAL,E
+1984,1984-02-03,Corinthians,Operário-MT,0,0,E,E,NORMAL,G
+1984,1984-02-04,Cruzeiro,Rio Branco-ES,1,3,D,V,NORMAL,F
+1984,1984-02-05,São Paulo,Fortaleza,5,0,V,D,NORMAL,A
+1984,1984-02-05,Nacional-AM,Vasco,0,3,D,V,NORMAL,A
+1984,1984-02-05,Atlético Mineiro,Treze,4,1,V,D,NORMAL,B
+1984,1984-02-05,CRB,Bahia,1,0,V,D,NORMAL,B
+1984,1984-02-05,Ferroviário,Confiança,1,0,V,D,NORMAL,C
+1984,1984-02-05,ABC,Santos,0,2,D,V,NORMAL,C
+1984,1984-02-05,Náutico,Coritiba,3,2,V,D,NORMAL,D
+1984,1984-02-05,Grêmio,Catuense,3,0,V,D,NORMAL,D
+1984,1984-02-05,Goiás,Flamengo,0,0,E,E,NORMAL,E
+1984,1984-02-05,Operário-MS,Palmeiras,1,1,E,E,NORMAL,E
+1984,1984-02-05,America-RJ,Brasil de Pelotas,1,1,E,E,NORMAL,F
+1984,1984-02-05,Corinthians,Anapolina,1,0,V,D,NORMAL,G
+1984,1984-02-05,Operário-MT,Joinville,1,0,V,D,NORMAL,G
+1984,1984-02-05,Moto Club,Portuguesa,0,1,D,V,NORMAL,H
+1984,1984-02-05,Botafogo,Santa Cruz,0,1,D,V,NORMAL,H
+1984,1984-02-08,Nacional-AM,São Paulo,1,1,E,E,NORMAL,A
+1984,1984-02-08,Tuna Luso,Vasco,1,1,E,E,NORMAL,A
+1984,1984-02-08,Bahia,Bangu,2,0,V,D,NORMAL,B
+1984,1984-02-08,Fluminense,ABC,1,0,V,D,NORMAL,C
+1984,1984-02-08,Santo André,Coritiba,1,0,V,D,NORMAL,D
+1984,1984-02-08,Flamengo,Operário-MS,3,2,V,D,NORMAL,E
+1984,1984-02-08,Goiás,Brasília,4,1,V,D,NORMAL,E
+1984,1984-02-08,Rio Branco-ES,Brasil de Pelotas,1,0,V,D,NORMAL,F
+1984,1984-02-08,Athletico Paranaense,Cruzeiro,3,2,V,D,NORMAL,F
+1984,1984-02-08,Operário-MT,Internacional,2,2,E,E,NORMAL,G
+1984,1984-02-08,Santa Cruz,Moto Club,3,1,V,D,NORMAL,H
+1984,1984-02-09,Atlético Mineiro,CRB,4,0,V,D,NORMAL,B
+1984,1984-02-09,Santos,Ferroviário,2,0,V,D,NORMAL,C
+1984,1984-02-09,Catuense,Náutico,1,1,E,E,NORMAL,D
+1984,1984-02-09,Joinville,Corinthians,2,1,V,D,NORMAL,G
+1984,1984-02-09,Botafogo,Auto Esporte-PI,2,0,V,D,NORMAL,H
+1984,1984-02-11,Fortaleza,Nacional-AM,3,2,V,D,NORMAL,A
+1984,1984-02-11,Fluminense,Confiança,1,0,V,D,NORMAL,C
+1984,1984-02-12,Tuna Luso,São Paulo,0,0,E,E,NORMAL,A
+1984,1984-02-12,Treze,CRB,1,2,D,V,NORMAL,B
+1984,1984-02-12,Ferroviário,ABC,0,3,D,V,NORMAL,C
+1984,1984-02-12,Náutico,Santo André,2,1,V,D,NORMAL,D
+1984,1984-02-12,Coritiba,Grêmio,1,3,D,V,NORMAL,D
+1984,1984-02-12,Palmeiras,Brasília,4,0,V,D,NORMAL,E
+1984,1984-02-12,Operário-MS,Goiás,2,0,V,D,NORMAL,E
+1984,1984-02-12,Rio Branco-ES,America-RJ,2,1,V,D,NORMAL,F
+1984,1984-02-12,Brasil de Pelotas,Athletico Paranaense,1,1,E,E,NORMAL,F
+1984,1984-02-12,Anapolina,Joinville,1,0,V,D,NORMAL,G
+1984,1984-02-12,Internacional,Corinthians,1,1,E,E,NORMAL,G
+1984,1984-02-12,Moto Club,Botafogo,1,1,E,E,NORMAL,H
+1984,1984-02-12,Portuguesa,Auto Esporte-PI,5,0,V,D,NORMAL,H
+1984,1984-02-12,Bangu,Atlético Mineiro,0,1,D,V,NORMAL,B
+1984,1984-02-15,Vasco,Nacional-AM,1,0,V,D,NORMAL,A
+1984,1984-02-15,Fortaleza,São Paulo,1,0,V,D,NORMAL,A
+1984,1984-02-15,Atlético Mineiro,Bahia,6,0,V,D,NORMAL,B
+1984,1984-02-15,Bangu,CRB,0,0,E,E,NORMAL,B
+1984,1984-02-15,Santos,ABC,4,1,V,D,NORMAL,C
+1984,1984-02-15,Confiança,Ferroviário,4,1,V,D,NORMAL,C
+1984,1984-02-15,Náutico,Catuense,2,0,V,D,NORMAL,D
+1984,1984-02-15,Grêmio,Santo André,4,4,E,E,NORMAL,D
+1984,1984-02-15,Brasília,Goiás,0,2,D,V,NORMAL,E
+1984,1984-02-15,Brasil de Pelotas,Rio Branco-ES,3,1,V,D,NORMAL,F
+1984,1984-02-15,Joinville,Operário-MT,2,1,V,D,NORMAL,G
+1984,1984-02-15,Anapolina,Internacional,1,1,E,E,NORMAL,G
+1984,1984-02-15,Auto Esporte-PI,Botafogo,1,2,D,V,NORMAL,H
+1984,1984-02-15,Moto Club,Santa Cruz,2,2,E,E,NORMAL,H
+1984,1984-02-16,Operário-MS,Flamengo,1,1,E,E,NORMAL,E
+1984,1984-02-16,America-RJ,Cruzeiro,1,1,E,E,NORMAL,F
+1984,1984-02-18,São Paulo,Nacional-AM,1,1,E,E,NORMAL,A
+1984,1984-02-18,Coritiba,Náutico,1,2,D,V,NORMAL,D
+1984,1984-02-18,Portuguesa,Santa Cruz,0,0,E,E,NORMAL,H
+1984,1984-02-19,Vasco,Tuna Luso,9,0,V,D,NORMAL,A
+1984,1984-02-19,Atlético Mineiro,Bangu,1,1,E,E,NORMAL,B
+1984,1984-02-19,Bahia,Treze,2,1,V,D,NORMAL,B
+1984,1984-02-19,Confiança,Fluminense,0,2,D,V,NORMAL,C
+1984,1984-02-19,ABC,Ferroviário,0,0,E,E,NORMAL,C
+1984,1984-02-19,Santo André,Catuense,1,1,E,E,NORMAL,D
+1984,1984-02-19,Palmeiras,Flamengo,1,1,E,E,NORMAL,E
+1984,1984-02-19,Operário-MS,Brasília,4,2,V,D,NORMAL,E
+1984,1984-02-19,Rio Branco-ES,Cruzeiro,1,5,D,V,NORMAL,F
+1984,1984-02-19,Athletico Paranaense,America-RJ,0,1,D,V,NORMAL,F
+1984,1984-02-19,Corinthians,Joinville,2,1,V,D,NORMAL,G
+1984,1984-02-19,Internacional,Operário-MT,2,0,V,D,NORMAL,G
+1984,1984-02-19,Moto Club,Auto Esporte-PI,0,1,D,V,NORMAL,H
+1984,1984-02-22,São Paulo,Tuna Luso,3,1,V,D,NORMAL,A
+1984,1984-02-22,Nacional-AM,Fortaleza,0,0,E,E,NORMAL,A
+1984,1984-02-22,CRB,Atlético Mineiro,1,2,D,V,NORMAL,B
+1984,1984-02-22,Treze,Bangu,1,0,V,D,NORMAL,B
+1984,1984-02-22,ABC,Fluminense,1,2,D,V,NORMAL,C
+1984,1984-02-22,Catuense,Coritiba,0,2,D,V,NORMAL,D
+1984,1984-02-22,Brasília,Palmeiras,1,3,D,V,NORMAL,E
+1984,1984-02-22,Goiás,Operário-MS,2,1,V,D,NORMAL,E
+1984,1984-02-22,Cruzeiro,Brasil de Pelotas,4,0,V,D,NORMAL,F
+1984,1984-02-22,Rio Branco-ES,Athletico Paranaense,1,3,D,V,NORMAL,F
+1984,1984-02-22,Operário-MT,Corinthians,0,4,D,V,NORMAL,G
+1984,1984-02-22,Botafogo,Moto Club,0,1,D,V,NORMAL,H
+1984,1984-02-22,Auto Esporte-PI,Portuguesa,3,2,V,D,NORMAL,H
+1984,1984-02-23,Ferroviário,Santos,0,5,D,V,NORMAL,C
+1984,1984-02-23,Náutico,Grêmio,0,0,E,E,NORMAL,D
+1984,1984-02-23,Joinville,Anapolina,0,0,E,E,NORMAL,G
+1984,1984-02-25,São Paulo,Vasco,3,2,V,D,NORMAL,A
+1984,1984-02-25,Flamengo,Brasília,3,0,V,D,NORMAL,E
+1984,1984-02-25,Botafogo,Portuguesa,0,0,E,E,NORMAL,H
+1984,1984-02-26,Tuna Luso,Fortaleza,2,1,V,D,NORMAL,A
+1984,1984-02-26,Bangu,Bahia,2,2,E,E,NORMAL,B
+1984,1984-02-26,CRB,Treze,1,2,D,V,NORMAL,B
+1984,1984-02-26,Confiança,ABC,0,1,D,V,NORMAL,C
+1984,1984-02-26,Fluminense,Santos,0,1,D,V,NORMAL,C
+1984,1984-02-26,Catuense,Grêmio,1,2,D,V,NORMAL,D
+1984,1984-02-26,Coritiba,Santo André,1,2,D,V,NORMAL,D
+1984,1984-02-26,Goiás,Palmeiras,0,1,D,V,NORMAL,E
+1984,1984-02-26,Brasil de Pelotas,America-RJ,1,1,E,E,NORMAL,F
+1984,1984-02-26,Cruzeiro,Athletico Paranaense,2,2,E,E,NORMAL,F
+1984,1984-02-26,Corinthians,Internacional,0,0,E,E,NORMAL,G
+1984,1984-02-26,Operário-MT,Anapolina,6,1,V,D,NORMAL,G
+1984,1984-02-26,Santa Cruz,Auto Esporte-PI,3,1,V,D,NORMAL,H
+1984,1984-02-29,Tuna Luso,Nacional-AM,1,0,V,D,NORMAL,A
+1984,1984-02-29,Fortaleza,Vasco,2,1,V,D,NORMAL,A
+1984,1984-02-29,Bahia,CRB,0,0,E,E,NORMAL,B
+1984,1984-02-29,Treze,Atlético Mineiro,0,0,E,E,NORMAL,B
+1984,1984-02-29,Santos,Confiança,3,0,V,D,NORMAL,C
+1984,1984-02-29,Fluminense,Ferroviário,2,0,V,D,NORMAL,C
+1984,1984-02-29,Santo André,Náutico,1,0,V,D,NORMAL,D
+1984,1984-02-29,Grêmio,Coritiba,5,0,V,D,NORMAL,D
+1984,1984-02-29,Palmeiras,Operário-MS,2,2,E,E,NORMAL,E
+1984,1984-02-29,Flamengo,Goiás,2,2,E,E,NORMAL,E
+1984,1984-02-29,America-RJ,Rio Branco-ES,3,1,V,D,NORMAL,F
+1984,1984-02-29,Athletico Paranaense,Brasil de Pelotas,0,0,E,E,NORMAL,F
+1984,1984-02-29,Internacional,Joinville,1,1,E,E,NORMAL,G
+1984,1984-02-29,Anapolina,Corinthians,0,0,E,E,NORMAL,G
+1984,1984-02-29,Portuguesa,Moto Club,2,0,V,D,NORMAL,H
+1984,1984-02-29,Santa Cruz,Botafogo,1,2,D,V,NORMAL,H
+1984,1984-03-02,Tuna Luso,Treze,0,1,D,V,NORMAL,1F
+1984,1984-03-02,Coritiba,Ferroviário,3,1,V,D,NORMAL,1F
+1984,1984-03-02,Goiás,Rio Branco-ES,2,1,V,D,NORMAL,1F
+1984,1984-03-02,Joinville,Auto Esporte-PI,2,0,V,D,NORMAL,1F
+1984,1984-03-10,Flamengo,Brasil de Pelotas,3,0,V,D,NORMAL,M
+1984,1984-03-11,Goiás,São Paulo,2,2,E,E,NORMAL,I
+1984,1984-03-11,Bahia,Fluminense,1,1,E,E,NORMAL,I
+1984,1984-03-11,Vasco,Atlético Mineiro,3,1,V,D,NORMAL,J
+1984,1984-03-11,Grêmio,Joinville,1,0,V,D,NORMAL,J
+1984,1984-03-11,Santos,Fortaleza,1,1,E,E,NORMAL,K
+1984,1984-03-11,CRB,Palmeiras,1,0,V,D,NORMAL,K
+1984,1984-03-11,Athletico Paranaense,ABC,5,0,V,D,NORMAL,L
+1984,1984-03-11,Santo André,Operário-MS,0,1,D,V,NORMAL,L
+1984,1984-03-11,Portuguesa,Internacional,0,0,E,E,NORMAL,M
+1984,1984-03-11,Operário-MT,Botafogo,1,1,E,E,NORMAL,N
+1984,1984-03-11,America-RJ,Coritiba,0,1,D,V,NORMAL,N
+1984,1984-03-11,Santa Cruz,Treze,1,1,E,E,NORMAL,O
+1984,1984-03-11,Corinthians,Náutico,4,0,V,D,NORMAL,O
+1984,1984-03-14,Bahia,São Paulo,0,0,E,E,NORMAL,I
+1984,1984-03-14,Fluminense,Goiás,3,0,V,D,NORMAL,I
+1984,1984-03-14,Grêmio,Vasco,0,0,E,E,NORMAL,J
+1984,1984-03-14,Joinville,Atlético Mineiro,1,1,E,E,NORMAL,J
+1984,1984-03-14,CRB,Santos,0,0,E,E,NORMAL,K
+1984,1984-03-14,Palmeiras,Fortaleza,0,1,D,V,NORMAL,K
+1984,1984-03-14,Athletico Paranaense,Santo André,3,2,V,D,NORMAL,L
+1984,1984-03-14,ABC,Operário-MS,2,2,E,E,NORMAL,L
+1984,1984-03-14,Brasil de Pelotas,Internacional,1,0,V,D,NORMAL,M
+1984,1984-03-14,America-RJ,Operário-MT,3,1,V,D,NORMAL,N
+1984,1984-03-14,Santa Cruz,Corinthians,1,1,E,E,NORMAL,O
+1984,1984-03-14,Treze,Náutico,0,1,D,V,NORMAL,O
+1984,1984-03-15,Portuguesa,Flamengo,0,1,D,V,NORMAL,M
+1984,1984-03-15,Botafogo,Coritiba,3,1,V,D,NORMAL,N
+1984,1984-03-17,Palmeiras,Santos,2,2,E,E,NORMAL,K
+1984,1984-03-18,São Paulo,Fluminense,0,2,D,V,NORMAL,I
+1984,1984-03-18,Goiás,Bahia,2,0,V,D,NORMAL,I
+1984,1984-03-18,Joinville,Vasco,1,0,V,D,NORMAL,J
+1984,1984-03-18,Atlético Mineiro,Grêmio,0,1,D,V,NORMAL,J
+1984,1984-03-18,Fortaleza,CRB,1,0,V,D,NORMAL,K
+1984,1984-03-18,Operário-MS,Athletico Paranaense,1,0,V,D,NORMAL,L
+1984,1984-03-18,ABC,Santo André,2,4,D,V,NORMAL,L
+1984,1984-03-18,Internacional,Flamengo,4,0,V,D,NORMAL,M
+1984,1984-03-18,Brasil de Pelotas,Portuguesa,0,1,D,V,NORMAL,M
+1984,1984-03-18,Botafogo,America-RJ,0,0,E,E,NORMAL,N
+1984,1984-03-18,Coritiba,Operário-MT,2,0,V,D,NORMAL,N
+1984,1984-03-18,Treze,Corinthians,0,0,E,E,NORMAL,O
+1984,1984-03-18,Náutico,Santa Cruz,1,1,E,E,NORMAL,O
+1984,1984-03-21,Fluminense,Bahia,3,1,V,D,NORMAL,I
+1984,1984-03-21,Atlético Mineiro,Joinville,3,1,V,D,NORMAL,J
+1984,1984-03-21,Santos,CRB,2,0,V,D,NORMAL,K
+1984,1984-03-21,Fortaleza,Palmeiras,3,3,E,E,NORMAL,K
+1984,1984-03-21,Santo André,Athletico Paranaense,0,0,E,E,NORMAL,L
+1984,1984-03-21,Operário-MS,ABC,1,0,V,D,NORMAL,L
+1984,1984-03-21,Brasil de Pelotas,Flamengo,1,0,V,D,NORMAL,M
+1984,1984-03-21,Internacional,Portuguesa,0,1,D,V,NORMAL,M
+1984,1984-03-21,Operário-MT,America-RJ,1,4,D,V,NORMAL,N
+1984,1984-03-21,Coritiba,Botafogo,1,1,E,E,NORMAL,N
+1984,1984-03-21,Corinthians,Santa Cruz,1,0,V,D,NORMAL,O
+1984,1984-03-21,Náutico,Treze,1,0,V,D,NORMAL,O
+1984,1984-03-22,São Paulo,Goiás,3,2,V,D,NORMAL,I
+1984,1984-03-22,Vasco,Grêmio,1,0,V,D,NORMAL,J
+1984,1984-03-24,Internacional,Brasil de Pelotas,1,1,E,E,NORMAL,M
+1984,1984-03-24,Flamengo,Portuguesa,1,1,E,E,NORMAL,M
+1984,1984-03-24,America-RJ,Botafogo,2,1,V,D,NORMAL,N
+1984,1984-03-24,Corinthians,Treze,1,1,E,E,NORMAL,O
+1984,1984-03-25,Bahia,Goiás,1,2,D,V,NORMAL,I
+1984,1984-03-25,Fluminense,São Paulo,0,0,E,E,NORMAL,I
+1984,1984-03-25,Grêmio,Atlético Mineiro,1,0,V,D,NORMAL,J
+1984,1984-03-25,Vasco,Joinville,6,0,V,D,NORMAL,J
+1984,1984-03-25,Santos,Palmeiras,2,3,D,V,NORMAL,K
+1984,1984-03-25,CRB,Fortaleza,0,0,E,E,NORMAL,K
+1984,1984-03-25,Santo André,ABC,2,0,V,D,NORMAL,L
+1984,1984-03-25,Athletico Paranaense,Operário-MS,1,0,V,D,NORMAL,L
+1984,1984-03-25,Operário-MT,Coritiba,2,0,V,D,NORMAL,N
+1984,1984-03-25,Santa Cruz,Náutico,2,0,V,D,NORMAL,O
+1984,1984-03-30,Fortaleza,Santos,1,4,D,V,NORMAL,K
+1984,1984-03-30,Palmeiras,CRB,7,0,V,D,NORMAL,K
+1984,1984-04-01,São Paulo,Bahia,2,0,V,D,NORMAL,I
+1984,1984-04-01,Goiás,Fluminense,3,0,V,D,NORMAL,I
+1984,1984-04-01,Atlético Mineiro,Vasco,1,0,V,D,NORMAL,J
+1984,1984-04-01,Joinville,Grêmio,1,0,V,D,NORMAL,J
+1984,1984-04-01,ABC,Athletico Paranaense,1,0,V,D,NORMAL,L
+1984,1984-04-01,Operário-MS,Santo André,0,2,D,V,NORMAL,L
+1984,1984-04-01,Flamengo,Internacional,2,0,V,D,NORMAL,M
+1984,1984-04-01,Portuguesa,Brasil de Pelotas,4,1,V,D,NORMAL,M
+1984,1984-04-01,Botafogo,Operário-MT,0,1,D,V,NORMAL,N
+1984,1984-04-01,Coritiba,America-RJ,3,2,V,D,NORMAL,N
+1984,1984-04-01,Náutico,Corinthians,5,1,V,D,NORMAL,O
+1984,1984-04-01,Treze,Santa Cruz,0,1,D,V,NORMAL,O
+1984,1984-04-07,Fluminense,Santo André,1,0,V,D,NORMAL,P
+1984,1984-04-08,Operário-MS,Portuguesa,1,1,E,E,NORMAL,P
+1984,1984-04-08,Fortaleza,Coritiba,1,1,E,E,NORMAL,Q
+1984,1984-04-08,Uberlândia,Vasco,0,0,E,E,NORMAL,Q
+1984,1984-04-08,Flamengo,America-RJ,3,0,V,D,NORMAL,R
+1984,1984-04-08,Athletico Paranaense,Corinthians,1,1,E,E,NORMAL,S
+1984,1984-04-08,Goiás,Grêmio,1,1,E,E,NORMAL,S
+1984,1984-04-09,Santos,Náutico,4,2,V,D,NORMAL,R
+1984,1984-04-11,Portuguesa,Santo André,1,1,E,E,NORMAL,P
+1984,1984-04-11,Operário-MS,Fluminense,0,0,E,E,NORMAL,P
+1984,1984-04-11,Uberlândia,Fortaleza,1,0,V,D,NORMAL,Q
+1984,1984-04-11,Vasco,Coritiba,1,0,V,D,NORMAL,Q
+1984,1984-04-11,Grêmio,Corinthians,2,1,V,D,NORMAL,S
+1984,1984-04-11,Goiás,Athletico Paranaense,0,0,E,E,NORMAL,S
+1984,1984-04-12,America-RJ,Santos,1,1,E,E,NORMAL,R
+1984,1984-04-12,Flamengo,Náutico,2,0,V,D,NORMAL,R
+1984,1984-04-14,Corinthians,Goiás,5,0,V,D,NORMAL,S
+1984,1984-04-15,Portuguesa,Fluminense,0,1,D,V,NORMAL,P
+1984,1984-04-15,Santo André,Operário-MS,1,1,E,E,NORMAL,P
+1984,1984-04-15,Coritiba,Uberlândia,1,0,V,D,NORMAL,Q
+1984,1984-04-15,Vasco,Fortaleza,2,0,V,D,NORMAL,Q
+1984,1984-04-15,Santos,Flamengo,0,1,D,V,NORMAL,R
+1984,1984-04-15,Náutico,America-RJ,3,1,V,D,NORMAL,R
+1984,1984-04-15,Grêmio,Athletico Paranaense,1,1,E,E,NORMAL,S
+1984,1984-04-18,Santo André,Portuguesa,0,0,E,E,NORMAL,P
+1984,1984-04-18,Fluminense,Operário-MS,2,0,V,D,NORMAL,P
+1984,1984-04-18,Coritiba,Vasco,0,0,E,E,NORMAL,Q
+1984,1984-04-18,Fortaleza,Uberlândia,0,2,D,V,NORMAL,Q
+1984,1984-04-18,America-RJ,Flamengo,0,0,E,E,NORMAL,R
+1984,1984-04-18,Náutico,Santos,1,0,V,D,NORMAL,R
+1984,1984-04-18,Corinthians,Grêmio,0,0,E,E,NORMAL,S
+1984,1984-04-19,Athletico Paranaense,Goiás,2,1,V,D,NORMAL,S
+1984,1984-04-21,Fluminense,Portuguesa,4,2,V,D,NORMAL,P
+1984,1984-04-22,Operário-MS,Santo André,1,0,V,D,NORMAL,P
+1984,1984-04-22,Fortaleza,Vasco,1,5,D,V,NORMAL,Q
+1984,1984-04-22,Uberlândia,Coritiba,1,1,E,E,NORMAL,Q
+1984,1984-04-22,Flamengo,Santos,2,2,E,E,NORMAL,R
+1984,1984-04-22,America-RJ,Náutico,1,1,E,E,NORMAL,R
+1984,1984-04-22,Athletico Paranaense,Grêmio,1,4,D,V,NORMAL,S
+1984,1984-04-22,Goiás,Corinthians,0,1,D,V,NORMAL,S
+1984,1984-04-25,Portuguesa,Operário-MS,3,2,V,D,NORMAL,P
+1984,1984-04-25,Santo André,Fluminense,1,1,E,E,NORMAL,P
+1984,1984-04-25,Vasco,Uberlândia,1,0,V,D,NORMAL,Q
+1984,1984-04-25,Coritiba,Fortaleza,2,1,V,D,NORMAL,Q
+1984,1984-04-25,Santos,America-RJ,1,0,V,D,NORMAL,R
+1984,1984-04-25,Náutico,Flamengo,2,1,V,D,NORMAL,R
+1984,1984-04-25,Grêmio,Goiás,2,0,V,D,NORMAL,S
+1984,1984-04-25,Corinthians,Athletico Paranaense,2,0,V,D,NORMAL,S
+1984,1984-04-29,Coritiba,Fluminense,2,2,E,E,NORMAL,QF
+1984,1984-04-29,Flamengo,Corinthians,2,0,V,D,NORMAL,QF
+1984,1984-05-01,Portuguesa,Vasco,2,5,D,V,NORMAL,QF
+1984,1984-05-01,Náutico,Grêmio,2,3,D,V,NORMAL,QF
+1984,1984-05-05,Vasco,Portuguesa,4,3,V,D,NORMAL,QF
+1984,1984-05-06,Fluminense,Coritiba,5,0,V,D,NORMAL,QF
+1984,1984-05-06,Corinthians,Flamengo,4,1,V,D,NORMAL,QF
+1984,1984-05-06,Grêmio,Náutico,3,1,V,D,NORMAL,QF
+1984,1984-05-12,Grêmio,Vasco,1,0,V,D,NORMAL,SF
+1984,1984-05-13,Corinthians,Fluminense,0,2,D,V,NORMAL,SF
+1984,1984-05-19,Vasco,Grêmio,3,0,V,D,NORMAL,SF
+1984,1984-05-20,Fluminense,Corinthians,0,0,E,E,NORMAL,SF
+1984,1984-05-24,Fluminense,Vasco,1,0,V,D,NORMAL,F
+1984,1984-05-28,Vasco,Fluminense,0,0,E,E,NORMAL,F

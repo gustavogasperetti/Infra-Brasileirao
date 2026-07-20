@@ -1,0 +1,1067 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2000,2000-07-29,Vitória,Palmeiras,4,1,V,D,NORMAL,1F
+2000,2000-07-29,Vasco,Sport,0,2,D,V,NORMAL,1F
+2000,2000-07-29,Fluminense,Bahia,2,0,V,D,NORMAL,1F
+2000,2000-07-30,Goiás,Corinthians,3,0,V,D,NORMAL,1F
+2000,2000-07-30,Juventude,Flamengo,1,1,E,E,NORMAL,1F
+2000,2000-07-30,Guarani,Santa Cruz,0,0,E,E,NORMAL,1F
+2000,2000-07-30,Botafogo,Atlético Mineiro,0,0,E,E,NORMAL,1F
+2000,2000-07-30,América Mineiro,Gama,0,1,D,V,NORMAL,1F
+2000,2000-07-30,Cruzeiro,Athletico Paranaense,0,2,D,V,NORMAL,1F
+2000,2000-08-02,Flamengo,Grêmio,3,0,V,D,NORMAL,1F
+2000,2000-08-02,Gama,Fluminense,2,1,V,D,NORMAL,1F
+2000,2000-08-02,Santos,Vitória,2,0,V,D,NORMAL,1F
+2000,2000-08-02,Ponte Preta,América Mineiro,3,1,V,D,NORMAL,1F
+2000,2000-08-02,Internacional,Goiás,0,1,D,V,NORMAL,1F
+2000,2000-08-02,Bahia,Athletico Paranaense,2,1,V,D,NORMAL,1F
+2000,2000-08-02,Coritiba,Sport,0,0,E,E,NORMAL,1F
+2000,2000-08-03,Palmeiras,Botafogo,0,0,E,E,NORMAL,1F
+2000,2000-08-04,Comercial-MS,Operário-MS,1,0,V,D,NORMAL,D
+2000,2000-08-05,Fluminense,Santos,2,1,V,D,NORMAL,1F
+2000,2000-08-05,Athletico Paranaense,Flamengo,1,1,E,E,NORMAL,1F
+2000,2000-08-05,Corinthians,Gama,4,2,V,D,NORMAL,1F
+2000,2000-08-06,Grêmio,Palmeiras,0,1,D,V,NORMAL,1F
+2000,2000-08-06,Coritiba,Botafogo,0,2,D,V,NORMAL,1F
+2000,2000-08-06,São Paulo,Santa Cruz,2,1,V,D,NORMAL,1F
+2000,2000-08-06,Portuguesa,Goiás,0,2,D,V,NORMAL,1F
+2000,2000-08-06,Atlético Mineiro,Bahia,0,0,E,E,NORMAL,1F
+2000,2000-08-06,Juventude,Ponte Preta,1,1,E,E,NORMAL,1F
+2000,2000-08-06,Vasco,Cruzeiro,3,3,E,E,NORMAL,1F
+2000,2000-08-06,River-PI,Nacional-AM,2,2,E,E,NORMAL,B
+2000,2000-08-06,Fortaleza,Náutico,1,0,V,D,NORMAL,B
+2000,2000-08-06,Anapolina,Serra,0,0,E,E,NORMAL,B
+2000,2000-08-06,São Raimundo-AM,Sampaio Corrêa,2,0,V,D,NORMAL,B
+2000,2000-08-06,Remo,América-RN,1,1,E,E,NORMAL,B
+2000,2000-08-06,Porto-PE,Central,0,1,D,V,NORMAL,A
+2000,2000-08-06,Tuna Luso,Botafogo-PB,3,1,V,D,NORMAL,A
+2000,2000-08-06,Treze,Moto Club,2,0,V,D,NORMAL,A
+2000,2000-08-06,Sergipe,Camaçari,1,0,V,D,NORMAL,B
+2000,2000-08-06,Confiança,Campinense,1,0,V,D,NORMAL,B
+2000,2000-08-06,Rio Branco-AC,Flamengo-PI,4,2,V,D,NORMAL,C
+2000,2000-08-06,Genus,Rio Negro-AM,2,1,V,D,NORMAL,C
+2000,2000-08-06,Ypiranga-AP,Baré,3,0,V,D,NORMAL,C
+2000,2000-08-06,São José,Uberlândia,1,2,D,V,NORMAL,A
+2000,2000-08-06,Juventus-SP,Volta Redonda,2,0,V,D,NORMAL,A
+2000,2000-08-06,Nacional-SP,Rio Branco-SP,2,1,V,D,NORMAL,A
+2000,2000-08-06,Paulista,Malutrom,4,0,V,D,NORMAL,B
+2000,2000-08-06,Inter de Limeira,União Bandeirante,1,1,E,E,NORMAL,B
+2000,2000-08-06,Comercial,Madureira,1,1,E,E,NORMAL,B
+2000,2000-08-06,União Barbarense,Mogi Mirim,2,0,V,D,NORMAL,C
+2000,2000-08-06,Olímpia,Ipatinga,1,1,E,E,NORMAL,C
+2000,2000-08-06,Matonense,Friburguense,1,0,V,D,NORMAL,C
+2000,2000-08-06,Operário-MS,Atlético Goianiense,1,2,D,V,NORMAL,D
+2000,2000-08-06,Brasília,Dom Pedro,2,1,V,D,NORMAL,D
+2000,2000-08-08,Gama,Athletico Paranaense,0,1,D,V,NORMAL,1F
+2000,2000-08-08,Botafogo-SP,União São João,1,1,E,E,NORMAL,A
+2000,2000-08-08,São Caetano,Figueirense,3,1,V,D,NORMAL,A
+2000,2000-08-08,Bangu,America-RJ,0,1,D,V,NORMAL,A
+2000,2000-08-09,Internacional,Fluminense,1,1,E,E,NORMAL,1F
+2000,2000-08-09,Santos,São Paulo,1,1,E,E,NORMAL,1F
+2000,2000-08-09,Flamengo,Guarani,1,1,E,E,NORMAL,1F
+2000,2000-08-09,Botafogo,Portuguesa,4,1,V,D,NORMAL,1F
+2000,2000-08-09,Santa Cruz,Vitória,2,1,V,D,NORMAL,1F
+2000,2000-08-09,Bahia,Grêmio,1,1,E,E,NORMAL,1F
+2000,2000-08-09,Goiás,Coritiba,1,0,V,D,NORMAL,1F
+2000,2000-08-09,XV de Piracicaba,Red Bull Bragantino,1,1,E,E,NORMAL,A
+2000,2000-08-09,Paraná,Marcílio Dias,1,0,V,D,NORMAL,A
+2000,2000-08-09,Joinville,Villa Nova-MG,0,0,E,E,NORMAL,A
+2000,2000-08-09,Criciúma,Londrina,2,0,V,D,NORMAL,A
+2000,2000-08-09,Caxias,Americano,1,1,E,E,NORMAL,A
+2000,2000-08-09,Brasil de Pelotas,Avaí,0,2,D,V,NORMAL,A
+2000,2000-08-09,CSA,River-PI,1,2,D,V,NORMAL,B
+2000,2000-08-09,São Raimundo-AM,Paysandu,1,0,V,D,NORMAL,B
+2000,2000-08-09,Remo,Nacional-AM,2,0,V,D,NORMAL,B
+2000,2000-08-09,Anapolina,Bandeirante-DF,1,1,E,E,NORMAL,B
+2000,2000-08-09,América-RN,Ceará,1,1,E,E,NORMAL,B
+2000,2000-08-09,Fortaleza,ABC,2,1,V,D,NORMAL,B
+2000,2000-08-09,Desportiva Capixaba,Vila Nova,1,0,V,D,NORMAL,B
+2000,2000-08-09,Sampaio Corrêa,Náutico,1,2,D,V,NORMAL,B
+2000,2000-08-09,Inter SM,Olaria,1,0,V,D,NORMAL,D
+2000,2000-08-09,Rio Branco-PR,Ituano,2,1,V,D,NORMAL,D
+2000,2000-08-09,Santo André,Portuguesa Santista,2,2,E,E,NORMAL,D
+2000,2000-08-09,Porto-PE,Tuna Luso,1,2,D,V,NORMAL,A
+2000,2000-08-09,Botafogo-PB,Central,3,1,V,D,NORMAL,A
+2000,2000-08-09,Moto Club,Potiguar,3,1,V,D,NORMAL,A
+2000,2000-08-09,Sergipe,Confiança,0,1,D,V,NORMAL,B
+2000,2000-08-09,Campinense,Camaçari,0,3,D,V,NORMAL,B
+2000,2000-08-09,Rio Branco-AC,Genus,2,0,V,D,NORMAL,C
+2000,2000-08-09,Rio Negro-AM,Flamengo-PI,0,2,D,V,NORMAL,C
+2000,2000-08-09,Nacional-SP,Juventus-SP,1,4,D,V,NORMAL,A
+2000,2000-08-09,Volta Redonda,Rio Branco-SP,1,1,E,E,NORMAL,A
+2000,2000-08-09,Paulista,Inter de Limeira,2,0,V,D,NORMAL,B
+2000,2000-08-09,União Bandeirante,Malutrom,2,1,V,D,NORMAL,B
+2000,2000-08-09,União Barbarense,Olímpia,0,0,E,E,NORMAL,C
+2000,2000-08-09,Ipatinga,Mogi Mirim,0,0,E,E,NORMAL,C
+2000,2000-08-09,Friburguense,São Cristóvão,1,1,E,E,NORMAL,C
+2000,2000-08-09,Atlético Goianiense,Goiânia,0,3,D,V,NORMAL,D
+2000,2000-08-09,Dom Pedro,Comercial-MS,0,0,E,E,NORMAL,D
+2000,2000-08-10,Serra,CRB,0,1,D,V,NORMAL,B
+2000,2000-08-10,Juazeiro,Corinthians-AL,2,2,E,E,NORMAL,B
+2000,2000-08-11,Palmeiras,Goiás,1,1,E,E,NORMAL,1F
+2000,2000-08-11,Vasco,Corinthians,1,0,V,D,NORMAL,1F
+2000,2000-08-11,Athletico Paranaense,Atlético Mineiro,2,1,V,D,NORMAL,1F
+2000,2000-08-11,America-RJ,Botafogo-SP,1,0,V,D,NORMAL,A
+2000,2000-08-12,Grêmio,Santos,0,2,D,V,NORMAL,1F
+2000,2000-08-12,Coritiba,Gama,0,1,D,V,NORMAL,1F
+2000,2000-08-12,São Paulo,Flamengo,3,2,V,D,NORMAL,1F
+2000,2000-08-12,Vila Nova,Sampaio Corrêa,5,1,V,D,NORMAL,B
+2000,2000-08-12,Flamengo-PI,Ypiranga-AP,4,0,V,D,NORMAL,C
+2000,2000-08-13,Athletico Paranaense,Palmeiras,0,0,E,E,NORMAL,1F
+2000,2000-08-13,Guarani,Vasco,0,1,D,V,NORMAL,1F
+2000,2000-08-13,Corinthians,Santa Cruz,2,0,V,D,NORMAL,1F
+2000,2000-08-13,Portuguesa,Juventude,2,0,V,D,NORMAL,1F
+2000,2000-08-13,Botafogo,Internacional,0,1,D,V,NORMAL,1F
+2000,2000-08-13,Sport,Cruzeiro,1,1,E,E,NORMAL,1F
+2000,2000-08-13,Goiás,Vitória,4,5,D,V,NORMAL,1F
+2000,2000-08-13,Londrina,XV de Piracicaba,0,3,D,V,NORMAL,A
+2000,2000-08-13,Figueirense,Joinville,3,0,V,D,NORMAL,A
+2000,2000-08-13,Avaí,Criciúma,2,0,V,D,NORMAL,A
+2000,2000-08-13,Marcílio Dias,Brasil de Pelotas,1,0,V,D,NORMAL,A
+2000,2000-08-13,Villa Nova-MG,Caxias,1,2,D,V,NORMAL,A
+2000,2000-08-13,Americano,São Caetano,1,1,E,E,NORMAL,A
+2000,2000-08-13,União São João,Paraná,0,0,E,E,NORMAL,A
+2000,2000-08-13,Ceará,São Raimundo-AM,0,1,D,V,NORMAL,B
+2000,2000-08-13,CRB,Fortaleza,1,1,E,E,NORMAL,B
+2000,2000-08-13,ABC,CSA,1,3,D,V,NORMAL,B
+2000,2000-08-13,Náutico,América-RN,2,1,V,D,NORMAL,B
+2000,2000-08-13,Paysandu,Serra,0,1,D,V,NORMAL,B
+2000,2000-08-13,Bandeirante-DF,Remo,0,0,E,E,NORMAL,B
+2000,2000-08-13,Nacional-AM,Anapolina,1,1,E,E,NORMAL,B
+2000,2000-08-13,River-PI,Desportiva Capixaba,2,0,V,D,NORMAL,B
+2000,2000-08-13,Portuguesa Santista,Inter SM,5,0,V,D,NORMAL,D
+2000,2000-08-13,Ituano,Santo André,1,3,D,V,NORMAL,D
+2000,2000-08-13,Olaria,Rio Branco SC,0,1,D,V,NORMAL,D
+2000,2000-08-13,Potiguar,Porto-PE,1,0,V,D,NORMAL,A
+2000,2000-08-13,Tuna Luso,Moto Club,1,1,E,E,NORMAL,A
+2000,2000-08-13,Central,Treze,1,0,V,D,NORMAL,A
+2000,2000-08-13,Confiança,Juazeiro,2,1,V,D,NORMAL,B
+2000,2000-08-13,Camaçari,ASA,5,0,V,D,NORMAL,B
+2000,2000-08-13,Corinthians-AL,Sergipe,2,1,V,D,NORMAL,B
+2000,2000-08-13,Genus,Baré,1,3,D,V,NORMAL,C
+2000,2000-08-13,Juventus-SP,Uberlândia,4,0,V,D,NORMAL,A
+2000,2000-08-13,Rio Branco-SP,São José,4,1,V,D,NORMAL,A
+2000,2000-08-13,Inter de Limeira,Madureira,2,0,V,D,NORMAL,B
+2000,2000-08-13,Malutrom,Comercial,3,0,V,D,NORMAL,B
+2000,2000-08-13,União Rondonópolis,Paulista,0,2,D,V,NORMAL,B
+2000,2000-08-13,Olímpia,Friburguense,0,1,D,V,NORMAL,C
+2000,2000-08-13,São Cristóvão,União Barbarense,2,0,V,D,NORMAL,C
+2000,2000-08-13,Mogi Mirim,Matonense,1,1,E,E,NORMAL,C
+2000,2000-08-13,Operário-MS,Dom Pedro,2,1,V,D,NORMAL,D
+2000,2000-08-13,Goiânia,Brasília,1,2,D,V,NORMAL,D
+2000,2000-08-14,Red Bull Bragantino,Bangu,1,2,D,V,NORMAL,A
+2000,2000-08-15,Tocantinópolis,Rio Branco-AC,1,1,E,E,NORMAL,C
+2000,2000-08-16,Cruzeiro,São Paulo,2,2,E,E,NORMAL,1F
+2000,2000-08-16,Santa Cruz,Vasco,1,1,E,E,NORMAL,1F
+2000,2000-08-16,Santos,América Mineiro,3,0,V,D,NORMAL,1F
+2000,2000-08-16,Fluminense,Guarani,0,0,E,E,NORMAL,1F
+2000,2000-08-16,Internacional,Atlético Mineiro,1,1,E,E,NORMAL,1F
+2000,2000-08-16,Vitória,Portuguesa,2,0,V,D,NORMAL,1F
+2000,2000-08-16,Goiás,Botafogo,3,2,V,D,NORMAL,1F
+2000,2000-08-16,Gama,Bahia,0,1,D,V,NORMAL,1F
+2000,2000-08-16,Palmeiras,Corinthians,0,1,D,V,NORMAL,1F
+2000,2000-08-16,Paraná,Americano,1,0,V,D,NORMAL,A
+2000,2000-08-16,Joinville,Londrina,1,1,E,E,NORMAL,A
+2000,2000-08-16,Botafogo-SP,Figueirense,0,0,E,E,NORMAL,A
+2000,2000-08-16,Brasil de Pelotas,União São João,1,1,E,E,NORMAL,A
+2000,2000-08-16,XV de Piracicaba,Villa Nova-MG,1,0,V,D,NORMAL,A
+2000,2000-08-16,São Caetano,Marcílio Dias,2,1,V,D,NORMAL,A
+2000,2000-08-16,America-RJ,Avaí,2,1,V,D,NORMAL,A
+2000,2000-08-16,CRB,ABC,2,1,V,D,NORMAL,B
+2000,2000-08-16,Nacional-AM,Desportiva Capixaba,1,2,D,V,NORMAL,B
+2000,2000-08-16,Paysandu,Sampaio Corrêa,0,0,E,E,NORMAL,B
+2000,2000-08-16,América-RN,Bandeirante-DF,1,0,V,D,NORMAL,B
+2000,2000-08-16,Ceará,Serra,3,0,V,D,NORMAL,B
+2000,2000-08-16,River-PI,Vila Nova,3,2,V,D,NORMAL,B
+2000,2000-08-16,Náutico,CSA,3,0,V,D,NORMAL,B
+2000,2000-08-16,Rio Branco-PR,Portuguesa Santista,3,1,V,D,NORMAL,D
+2000,2000-08-16,Santo André,Olaria,0,0,E,E,NORMAL,D
+2000,2000-08-16,Central,Potiguar,2,0,V,D,NORMAL,A
+2000,2000-08-16,Treze,Tuna Luso,0,1,D,V,NORMAL,A
+2000,2000-08-16,Moto Club,Botafogo-PB,2,0,V,D,NORMAL,A
+2000,2000-08-16,Camaçari,Corinthians-AL,1,1,E,E,NORMAL,B
+2000,2000-08-16,ASA,Confiança,0,1,D,V,NORMAL,B
+2000,2000-08-16,Juazeiro,Campinense,2,1,V,D,NORMAL,B
+2000,2000-08-16,Ypiranga-AP,Genus,5,3,V,D,NORMAL,C
+2000,2000-08-16,Baré,Rio Negro-AM,0,0,E,E,NORMAL,C
+2000,2000-08-16,São José,Juventus-SP,0,1,D,V,NORMAL,A
+2000,2000-08-16,Uberlândia,Volta Redonda,1,0,V,D,NORMAL,A
+2000,2000-08-16,Madureira,União Bandeirante,6,0,V,D,NORMAL,B
+2000,2000-08-16,Malutrom,União Rondonópolis,3,2,V,D,NORMAL,B
+2000,2000-08-16,Mogi Mirim,São Cristóvão,4,0,V,D,NORMAL,C
+2000,2000-08-16,Matonense,Olímpia,1,1,E,E,NORMAL,C
+2000,2000-08-16,Friburguense,Ipatinga,1,0,V,D,NORMAL,C
+2000,2000-08-16,Brasília,Operário-MS,2,2,E,E,NORMAL,D
+2000,2000-08-16,Dom Pedro,Atlético Goianiense,1,1,E,E,NORMAL,D
+2000,2000-08-16,Goiânia,Comercial-MS,1,0,V,D,NORMAL,D
+2000,2000-08-17,Flamengo,Coritiba,2,1,V,D,NORMAL,1F
+2000,2000-08-17,Bangu,Criciúma,3,0,V,D,NORMAL,A
+2000,2000-08-17,Caxias,Red Bull Bragantino,1,1,E,E,NORMAL,A
+2000,2000-08-17,São Raimundo-AM,Anapolina,1,2,D,V,NORMAL,B
+2000,2000-08-17,Fortaleza,Remo,2,1,V,D,NORMAL,B
+2000,2000-08-17,Flamengo-PI,Tocantinópolis,2,0,V,D,NORMAL,C
+2000,2000-08-17,Comercial,Inter de Limeira,2,1,V,D,NORMAL,B
+2000,2000-08-19,Atlético Mineiro,Santos,1,0,V,D,NORMAL,1F
+2000,2000-08-19,América Mineiro,Fluminense,1,1,E,E,NORMAL,1F
+2000,2000-08-19,Gama,Goiás,1,1,E,E,NORMAL,1F
+2000,2000-08-19,Palmeiras,Internacional,1,4,D,V,NORMAL,1F
+2000,2000-08-19,Guarani,Cruzeiro,0,1,D,V,NORMAL,1F
+2000,2000-08-19,Serra,Náutico,2,4,D,V,NORMAL,B
+2000,2000-08-19,Vila Nova,América-RN,2,3,D,V,NORMAL,B
+2000,2000-08-20,Botafogo,Corinthians,1,1,E,E,NORMAL,1F
+2000,2000-08-20,Santa Cruz,Flamengo,2,2,E,E,NORMAL,1F
+2000,2000-08-20,Vasco,Ponte Preta,2,1,V,D,NORMAL,1F
+2000,2000-08-20,Juventude,Sport,1,1,E,E,NORMAL,1F
+2000,2000-08-20,Athletico Paranaense,Coritiba,1,3,D,V,NORMAL,1F
+2000,2000-08-20,São Paulo,Bahia,1,1,E,E,NORMAL,1F
+2000,2000-08-20,Villa Nova-MG,Paraná,1,0,V,D,NORMAL,A
+2000,2000-08-20,Criciúma,São Caetano,1,3,D,V,NORMAL,A
+2000,2000-08-20,Figueirense,XV de Piracicaba,1,0,V,D,NORMAL,A
+2000,2000-08-20,Red Bull Bragantino,Brasil de Pelotas,2,2,E,E,NORMAL,A
+2000,2000-08-20,Botafogo-SP,Avaí,0,0,E,E,NORMAL,A
+2000,2000-08-20,Americano,Bangu,2,1,V,D,NORMAL,A
+2000,2000-08-20,Londrina,America-RJ,0,0,E,E,NORMAL,A
+2000,2000-08-20,Marcílio Dias,Joinville,1,1,E,E,NORMAL,A
+2000,2000-08-20,CSA,Paysandu,0,3,D,V,NORMAL,B
+2000,2000-08-20,Remo,CRB,1,1,E,E,NORMAL,B
+2000,2000-08-20,ABC,Bandeirante-DF,2,0,V,D,NORMAL,B
+2000,2000-08-20,Sampaio Corrêa,Nacional-AM,3,2,V,D,NORMAL,B
+2000,2000-08-20,Desportiva Capixaba,Ceará,0,2,D,V,NORMAL,B
+2000,2000-08-20,Anapolina,Fortaleza,0,0,E,E,NORMAL,B
+2000,2000-08-20,São Raimundo-AM,River-PI,2,1,V,D,NORMAL,B
+2000,2000-08-20,Olaria,Portuguesa Santista,1,1,E,E,NORMAL,D
+2000,2000-08-20,Rio Branco-PR,Santo André,1,1,E,E,NORMAL,D
+2000,2000-08-20,Tuna Luso,Central,2,0,V,D,NORMAL,A
+2000,2000-08-20,Porto-PE,Treze,3,0,V,D,NORMAL,A
+2000,2000-08-20,Campinense,Corinthians-AL,0,2,D,V,NORMAL,B
+2000,2000-08-20,Rio Negro-AM,Tocantinópolis,0,2,D,V,NORMAL,C
+2000,2000-08-20,Rio Branco-AC,Ypiranga-AP,2,2,E,E,NORMAL,C
+2000,2000-08-20,Genus,Flamengo-PI,0,1,D,V,NORMAL,C
+2000,2000-08-20,Nacional-SP,São José,2,1,V,D,NORMAL,A
+2000,2000-08-20,Juventus-SP,Rio Branco-SP,1,3,D,V,NORMAL,A
+2000,2000-08-20,União Bandeirante,União Rondonópolis,3,0,V,D,NORMAL,B
+2000,2000-08-20,Inter de Limeira,Malutrom,2,2,E,E,NORMAL,B
+2000,2000-08-20,Paulista,Comercial,3,0,V,D,NORMAL,B
+2000,2000-08-20,Olímpia,Mogi Mirim,2,5,D,V,NORMAL,C
+2000,2000-08-20,Ipatinga,São Cristóvão,3,2,V,D,NORMAL,C
+2000,2000-08-20,União Barbarense,Matonense,1,2,D,V,NORMAL,C
+2000,2000-08-20,Goiânia,Operário-MS,3,2,V,D,NORMAL,D
+2000,2000-08-20,Atlético Goianiense,Comercial-MS,2,1,V,D,NORMAL,D
+2000,2000-08-21,União São João,Caxias,0,0,E,E,NORMAL,A
+2000,2000-08-21,Botafogo-PB,Potiguar,5,0,V,D,NORMAL,A
+2000,2000-08-22,Vila Nova,Náutico,0,1,D,V,NORMAL,B
+2000,2000-08-23,Vitória,Fluminense,2,4,D,V,NORMAL,1F
+2000,2000-08-23,Ponte Preta,Gama,3,0,V,D,NORMAL,1F
+2000,2000-08-23,Internacional,Guarani,0,0,E,E,NORMAL,1F
+2000,2000-08-23,América Mineiro,Athletico Paranaense,0,0,E,E,NORMAL,1F
+2000,2000-08-23,Bahia,Cruzeiro,1,3,D,V,NORMAL,1F
+2000,2000-08-23,Goiás,Santa Cruz,1,1,E,E,NORMAL,1F
+2000,2000-08-23,Juventude,Santos,1,1,E,E,NORMAL,1F
+2000,2000-08-23,São Caetano,Villa Nova-MG,5,3,V,D,NORMAL,A
+2000,2000-08-23,America-RJ,Red Bull Bragantino,1,1,E,E,NORMAL,A
+2000,2000-08-23,XV de Piracicaba,Criciúma,3,1,V,D,NORMAL,A
+2000,2000-08-23,Paraná,Londrina,3,0,V,D,NORMAL,A
+2000,2000-08-23,Joinville,Americano,3,0,V,D,NORMAL,A
+2000,2000-08-23,CSA,Nacional-AM,4,3,V,D,NORMAL,B
+2000,2000-08-23,Paysandu,CRB,1,0,V,D,NORMAL,B
+2000,2000-08-23,América-RN,ABC,1,1,E,E,NORMAL,B
+2000,2000-08-23,Sampaio Corrêa,River-PI,1,0,V,D,NORMAL,B
+2000,2000-08-23,Bandeirante-DF,Ceará,0,2,D,V,NORMAL,B
+2000,2000-08-23,Desportiva Capixaba,Fortaleza,3,2,V,D,NORMAL,B
+2000,2000-08-23,Anapolina,Remo,3,1,V,D,NORMAL,B
+2000,2000-08-23,Brasília,Atlético Goianiense,0,1,D,V,NORMAL,D
+2000,2000-08-23,Inter SM,Rio Branco SC,1,4,D,V,NORMAL,D
+2000,2000-08-23,Portuguesa Santista,Ituano,0,0,E,E,NORMAL,D
+2000,2000-08-23,Juazeiro,Sergipe,3,2,V,D,NORMAL,B
+2000,2000-08-23,ASA,Campinense,3,0,V,D,NORMAL,B
+2000,2000-08-23,Corinthians-AL,Confiança,1,0,V,D,NORMAL,B
+2000,2000-08-23,Tocantinópolis,Genus,4,0,V,D,NORMAL,C
+2000,2000-08-23,Baré,Rio Branco-AC,2,1,V,D,NORMAL,C
+2000,2000-08-23,Ypiranga-AP,Rio Negro-AM,1,0,V,D,NORMAL,C
+2000,2000-08-23,Uberlândia,Nacional-SP,3,0,V,D,NORMAL,A
+2000,2000-08-23,São José,Volta Redonda,2,2,E,E,NORMAL,A
+2000,2000-08-23,Madureira,Paulista,0,2,D,V,NORMAL,B
+2000,2000-08-23,Comercial,União Bandeirante,1,0,V,D,NORMAL,B
+2000,2000-08-23,União Rondonópolis,Inter de Limeira,2,1,V,D,NORMAL,B
+2000,2000-08-23,Friburguense,União Barbarense,0,0,E,E,NORMAL,C
+2000,2000-08-23,Matonense,Ipatinga,2,0,V,D,NORMAL,C
+2000,2000-08-23,São Cristóvão,Olímpia,0,2,D,V,NORMAL,C
+2000,2000-08-23,Avaí,Bangu,2,2,E,E,NORMAL,A
+2000,2000-08-24,Caxias,Botafogo-SP,1,1,E,E,NORMAL,A
+2000,2000-08-24,Marcílio Dias,União São João,0,2,D,V,NORMAL,A
+2000,2000-08-24,Serra,São Raimundo-AM,0,0,E,E,NORMAL,B
+2000,2000-08-24,Potiguar,Tuna Luso,1,2,D,V,NORMAL,A
+2000,2000-08-24,Treze,Botafogo-PB,2,2,E,E,NORMAL,A
+2000,2000-08-24,Moto Club,Porto-PE,0,1,D,V,NORMAL,A
+2000,2000-08-26,Fluminense,Juventude,2,0,V,D,NORMAL,1F
+2000,2000-08-26,Cruzeiro,Vitória,3,1,V,D,NORMAL,1F
+2000,2000-08-26,Athletico Paranaense,São Paulo,2,1,V,D,NORMAL,1F
+2000,2000-08-26,Guarani,Botafogo,1,2,D,V,NORMAL,1F
+2000,2000-08-26,Criciúma,Paraná,1,0,V,D,NORMAL,A
+2000,2000-08-26,Ceará,CSA,1,0,V,D,NORMAL,B
+2000,2000-08-26,Náutico,Anapolina,0,2,D,V,NORMAL,B
+2000,2000-08-26,Nacional-AM,ABC,4,1,V,D,NORMAL,B
+2000,2000-08-26,Camaçari,Juazeiro,0,2,D,V,NORMAL,B
+2000,2000-08-26,Corinthians-AL,ASA,0,0,E,E,NORMAL,B
+2000,2000-08-26,Flamengo-PI,Baré,1,0,V,D,NORMAL,C
+2000,2000-08-27,Ponte Preta,Atlético Mineiro,3,2,V,D,NORMAL,1F
+2000,2000-08-27,Corinthians,Grêmio,1,2,D,V,NORMAL,1F
+2000,2000-08-27,Internacional,Coritiba,1,1,E,E,NORMAL,1F
+2000,2000-08-27,Sport,Goiás,2,0,V,D,NORMAL,1F
+2000,2000-08-27,Santos,Palmeiras,2,3,D,V,NORMAL,1F
+2000,2000-08-27,Portuguesa,Vasco,2,2,E,E,NORMAL,1F
+2000,2000-08-27,Bahia,Santa Cruz,3,2,V,D,NORMAL,1F
+2000,2000-08-27,São Caetano,Avaí,4,3,V,D,NORMAL,A
+2000,2000-08-27,Botafogo-SP,Brasil de Pelotas,3,1,V,D,NORMAL,A
+2000,2000-08-27,União São João,XV de Piracicaba,2,2,E,E,NORMAL,A
+2000,2000-08-27,Red Bull Bragantino,Londrina,2,1,V,D,NORMAL,A
+2000,2000-08-27,Figueirense,Caxias,3,2,V,D,NORMAL,A
+2000,2000-08-27,Marcílio Dias,Americano,1,2,D,V,NORMAL,A
+2000,2000-08-27,Bangu,Joinville,1,0,V,D,NORMAL,A
+2000,2000-08-27,Villa Nova-MG,America-RJ,2,1,V,D,NORMAL,A
+2000,2000-08-27,CRB,Vila Nova,1,1,E,E,NORMAL,B
+2000,2000-08-27,América-RN,Serra,3,0,V,D,NORMAL,B
+2000,2000-08-27,Fortaleza,Paysandu,3,2,V,D,NORMAL,B
+2000,2000-08-27,River-PI,Remo,1,2,D,V,NORMAL,B
+2000,2000-08-27,Bandeirante-DF,Sampaio Corrêa,3,3,E,E,NORMAL,B
+2000,2000-08-27,Santo André,Inter SM,2,0,V,D,NORMAL,D
+2000,2000-08-27,Ituano,Olaria,1,0,V,D,NORMAL,D
+2000,2000-08-27,Central,Moto Club,2,0,V,D,NORMAL,A
+2000,2000-08-27,Botafogo-PB,Porto-PE,3,1,V,D,NORMAL,A
+2000,2000-08-27,Potiguar,Treze,1,2,D,V,NORMAL,A
+2000,2000-08-27,Campinense,Sergipe,3,2,V,D,NORMAL,B
+2000,2000-08-27,Rio Negro-AM,Rio Branco-AC,2,1,V,D,NORMAL,C
+2000,2000-08-27,Tocantinópolis,Ypiranga-AP,1,0,V,D,NORMAL,C
+2000,2000-08-27,Goiânia,Dom Pedro,1,2,D,V,NORMAL,D
+2000,2000-08-27,Brasília,Comercial-MS,1,2,D,V,NORMAL,D
+2000,2000-08-27,Volta Redonda,Nacional-SP,3,1,V,D,NORMAL,A
+2000,2000-08-27,Rio Branco-SP,Uberlândia,2,0,V,D,NORMAL,A
+2000,2000-08-27,União Rondonópolis,Comercial,2,0,V,D,NORMAL,B
+2000,2000-08-27,União Bandeirante,Paulista,1,1,E,E,NORMAL,B
+2000,2000-08-27,Mogi Mirim,Friburguense,1,1,E,E,NORMAL,C
+2000,2000-08-27,Ipatinga,União Barbarense,4,2,V,D,NORMAL,C
+2000,2000-08-27,São Cristóvão,Matonense,0,0,E,E,NORMAL,C
+2000,2000-08-27,São Raimundo-AM,Desportiva Capixaba,4,1,V,D,NORMAL,B
+2000,2000-08-28,Malutrom,Madureira,2,1,V,D,NORMAL,B
+2000,2000-08-29,Ceará,Anapolina,2,2,E,E,NORMAL,B
+2000,2000-08-29,ASA,Juazeiro,0,0,E,E,NORMAL,B
+2000,2000-08-29,Confiança,Camaçari,2,1,V,D,NORMAL,B
+2000,2000-08-30,Corinthians,Santos,0,3,D,V,NORMAL,1F
+2000,2000-08-30,Guarani,Juventude,1,2,D,V,NORMAL,1F
+2000,2000-08-30,Portuguesa,Gama,3,1,V,D,NORMAL,1F
+2000,2000-08-30,Vitória,Internacional,3,0,V,D,NORMAL,1F
+2000,2000-08-30,Botafogo,Athletico Paranaense,0,2,D,V,NORMAL,1F
+2000,2000-08-30,XV de Piracicaba,Avaí,0,1,D,V,NORMAL,A
+2000,2000-08-30,Paraná,Botafogo-SP,2,1,V,D,NORMAL,A
+2000,2000-08-30,America-RJ,Criciúma,0,0,E,E,NORMAL,A
+2000,2000-08-30,Americano,Villa Nova-MG,2,0,V,D,NORMAL,A
+2000,2000-08-30,Caxias,São Caetano,2,4,D,V,NORMAL,A
+2000,2000-08-30,Figueirense,Marcílio Dias,3,1,V,D,NORMAL,A
+2000,2000-08-30,Joinville,Red Bull Bragantino,0,0,E,E,NORMAL,A
+2000,2000-08-30,Londrina,União São João,1,1,E,E,NORMAL,A
+2000,2000-08-30,Brasil de Pelotas,Bangu,4,1,V,D,NORMAL,A
+2000,2000-08-30,Fortaleza,Bandeirante-DF,1,2,D,V,NORMAL,B
+2000,2000-08-30,River-PI,Serra,1,0,V,D,NORMAL,B
+2000,2000-08-30,Nacional-AM,Náutico,3,2,V,D,NORMAL,B
+2000,2000-08-30,Remo,ABC,1,2,D,V,NORMAL,B
+2000,2000-08-30,América-RN,Paysandu,1,2,D,V,NORMAL,B
+2000,2000-08-30,CSA,Vila Nova,3,2,V,D,NORMAL,B
+2000,2000-08-30,Desportiva Capixaba,CRB,3,4,D,V,NORMAL,B
+2000,2000-08-30,Baré,Tocantinópolis,2,1,V,D,NORMAL,C
+2000,2000-08-30,Madureira,União Rondonópolis,2,0,V,D,NORMAL,B
+2000,2000-08-30,Inter SM,Ituano,0,2,D,V,NORMAL,D
+2000,2000-08-30,Operário-MS,Goiânia,1,1,E,E,NORMAL,D
+2000,2000-09-01,Olaria,Inter SM,3,1,V,D,NORMAL,D
+2000,2000-09-01,Sergipe,Campinense,2,1,V,D,NORMAL,B
+2000,2000-09-01,ASA,Corinthians-AL,3,1,V,D,NORMAL,B
+2000,2000-09-02,Atlético Mineiro,Flamengo,1,2,D,V,NORMAL,1F
+2000,2000-09-02,Coritiba,Bahia,1,1,E,E,NORMAL,1F
+2000,2000-09-02,Gama,Internacional,0,1,D,V,NORMAL,1F
+2000,2000-09-02,Santos,Cruzeiro,1,1,E,E,NORMAL,1F
+2000,2000-09-02,Vitória,Sport,4,3,V,D,NORMAL,1F
+2000,2000-09-02,América Mineiro,Guarani,1,0,V,D,NORMAL,1F
+2000,2000-09-02,Fluminense,Botafogo,1,0,V,D,NORMAL,1F
+2000,2000-09-02,Grêmio,Ponte Preta,2,2,E,E,NORMAL,1F
+2000,2000-09-02,Palmeiras,São Paulo,0,3,D,V,NORMAL,1F
+2000,2000-09-02,Santa Cruz,Portuguesa,0,0,E,E,NORMAL,1F
+2000,2000-09-02,XV de Piracicaba,Caxias,2,3,D,V,NORMAL,A
+2000,2000-09-02,Bangu,São Caetano,1,1,E,E,NORMAL,A
+2000,2000-09-02,Red Bull Bragantino,Marcílio Dias,0,0,E,E,NORMAL,A
+2000,2000-09-02,Villa Nova-MG,Figueirense,0,0,E,E,NORMAL,A
+2000,2000-09-02,Criciúma,Joinville,2,1,V,D,NORMAL,A
+2000,2000-09-02,Paraná,Brasil de Pelotas,2,0,V,D,NORMAL,A
+2000,2000-09-02,Avaí,Americano,1,1,E,E,NORMAL,A
+2000,2000-09-02,União São João,America-RJ,1,1,E,E,NORMAL,A
+2000,2000-09-02,CRB,Ceará,0,0,E,E,NORMAL,B
+2000,2000-09-02,Paysandu,River-PI,3,1,V,D,NORMAL,B
+2000,2000-09-02,ABC,São Raimundo-AM,3,0,V,D,NORMAL,B
+2000,2000-09-02,Vila Nova,Fortaleza,3,3,E,E,NORMAL,B
+2000,2000-09-02,Anapolina,Desportiva Capixaba,4,0,V,D,NORMAL,B
+2000,2000-09-02,Náutico,Bandeirante-DF,2,0,V,D,NORMAL,B
+2000,2000-09-02,Serra,Nacional-AM,1,1,E,E,NORMAL,B
+2000,2000-09-02,Ituano,Rio Branco SC,0,0,E,E,NORMAL,D
+2000,2000-09-02,Moto Club,Central,5,1,V,D,NORMAL,A
+2000,2000-09-02,Porto-PE,Botafogo-PB,0,2,D,V,NORMAL,A
+2000,2000-09-02,Treze,Potiguar,5,0,V,D,NORMAL,A
+2000,2000-09-02,Juazeiro,Camaçari,1,0,V,D,NORMAL,B
+2000,2000-09-02,Rio Branco-AC,Rio Negro-AM,3,0,V,D,NORMAL,C
+2000,2000-09-02,Ypiranga-AP,Tocantinópolis,3,0,V,D,NORMAL,C
+2000,2000-09-02,Baré,Flamengo-PI,1,0,V,D,NORMAL,C
+2000,2000-09-02,Uberlândia,Rio Branco-SP,1,1,E,E,NORMAL,A
+2000,2000-09-02,Nacional-SP,Volta Redonda,1,0,V,D,NORMAL,A
+2000,2000-09-02,Madureira,Malutrom,0,0,E,E,NORMAL,B
+2000,2000-09-02,Paulista,União Bandeirante,8,0,V,D,NORMAL,B
+2000,2000-09-02,Friburguense,Mogi Mirim,2,2,E,E,NORMAL,C
+2000,2000-09-02,União Barbarense,Ipatinga,0,0,E,E,NORMAL,C
+2000,2000-09-02,Dom Pedro,Goiânia,1,1,E,E,NORMAL,D
+2000,2000-09-03,Botafogo-SP,Londrina,5,0,V,D,NORMAL,A
+2000,2000-09-03,Portuguesa Santista,Santo André,3,0,V,D,NORMAL,D
+2000,2000-09-03,Matonense,São Cristóvão,1,1,E,E,NORMAL,C
+2000,2000-09-04,Sampaio Corrêa,CSA,1,0,V,D,NORMAL,B
+2000,2000-09-04,Sergipe,ASA,4,2,V,D,NORMAL,B
+2000,2000-09-05,Vasco,Athletico Paranaense,2,2,E,E,NORMAL,1F
+2000,2000-09-05,Cruzeiro,Internacional,1,1,E,E,NORMAL,1F
+2000,2000-09-06,América Mineiro,Botafogo,5,2,V,D,NORMAL,1F
+2000,2000-09-06,Juventude,Coritiba,2,1,V,D,NORMAL,1F
+2000,2000-09-06,Fluminense,Portuguesa,2,1,V,D,NORMAL,1F
+2000,2000-09-06,Gama,Santa Cruz,1,1,E,E,NORMAL,1F
+2000,2000-09-06,São Caetano,Botafogo-SP,1,0,V,D,NORMAL,A
+2000,2000-09-06,Joinville,Paraná,3,0,V,D,NORMAL,A
+2000,2000-09-06,Figueirense,União São João,3,0,V,D,NORMAL,A
+2000,2000-09-06,Americano,America-RJ,1,1,E,E,NORMAL,A
+2000,2000-09-06,Londrina,Bangu,1,0,V,D,NORMAL,A
+2000,2000-09-06,Red Bull Bragantino,Villa Nova-MG,1,1,E,E,NORMAL,A
+2000,2000-09-06,Brasil de Pelotas,XV de Piracicaba,0,0,E,E,NORMAL,A
+2000,2000-09-06,Marcílio Dias,Avaí,2,2,E,E,NORMAL,A
+2000,2000-09-06,Paysandu,Anapolina,1,0,V,D,NORMAL,B
+2000,2000-09-06,ABC,Desportiva Capixaba,2,0,V,D,NORMAL,B
+2000,2000-09-06,River-PI,Ceará,2,1,V,D,NORMAL,B
+2000,2000-09-06,Bandeirante-DF,Vila Nova,2,2,E,E,NORMAL,B
+2000,2000-09-06,Náutico,Remo,0,2,D,V,NORMAL,B
+2000,2000-09-06,Serra,Fortaleza,2,5,D,V,NORMAL,B
+2000,2000-09-06,Inter SM,Santo André,3,0,V,D,NORMAL,D
+2000,2000-09-06,Olaria,Ituano,2,1,V,D,NORMAL,D
+2000,2000-09-06,Tuna Luso,Potiguar,3,0,V,D,NORMAL,A
+2000,2000-09-06,Porto-PE,Moto Club,1,0,V,D,NORMAL,A
+2000,2000-09-06,Botafogo-PB,Treze,1,0,V,D,NORMAL,A
+2000,2000-09-06,Confiança,Corinthians-AL,0,1,D,V,NORMAL,B
+2000,2000-09-06,Genus,Tocantinópolis,2,3,D,V,NORMAL,C
+2000,2000-09-06,Rio Branco-AC,Baré,1,0,V,D,NORMAL,C
+2000,2000-09-06,Rio Negro-AM,Ypiranga-AP,2,0,V,D,NORMAL,C
+2000,2000-09-06,Nacional-SP,Uberlândia,3,3,E,E,NORMAL,A
+2000,2000-09-06,Volta Redonda,São José,2,1,V,D,NORMAL,A
+2000,2000-09-06,Inter de Limeira,União Rondonópolis,6,0,V,D,NORMAL,B
+2000,2000-09-06,Paulista,Madureira,4,0,V,D,NORMAL,B
+2000,2000-09-06,União Bandeirante,Comercial,3,0,V,D,NORMAL,B
+2000,2000-09-06,Olímpia,São Cristóvão,1,0,V,D,NORMAL,C
+2000,2000-09-06,União Barbarense,Friburguense,3,1,V,D,NORMAL,C
+2000,2000-09-06,Ipatinga,Matonense,3,2,V,D,NORMAL,C
+2000,2000-09-06,Atlético Goianiense,Brasília,2,0,V,D,NORMAL,D
+2000,2000-09-06,São Raimundo-AM,Nacional-AM,4,5,D,V,NORMAL,B
+2000,2000-09-07,Atlético Mineiro,Corinthians,3,1,V,D,NORMAL,1F
+2000,2000-09-07,Ponte Preta,Vitória,2,1,V,D,NORMAL,1F
+2000,2000-09-07,Grêmio,Sport,1,0,V,D,NORMAL,1F
+2000,2000-09-07,CSA,CRB,0,2,D,V,NORMAL,B
+2000,2000-09-07,Sampaio Corrêa,América-RN,1,0,V,D,NORMAL,B
+2000,2000-09-07,Sergipe,Juazeiro,1,0,V,D,NORMAL,B
+2000,2000-09-07,Campinense,ASA,0,1,D,V,NORMAL,B
+2000,2000-09-07,Operário-MS,Comercial-MS,1,0,V,D,NORMAL,D
+2000,2000-09-09,São Paulo,Fluminense,2,0,V,D,NORMAL,1F
+2000,2000-09-09,Santa Cruz,Santos,0,1,D,V,NORMAL,1F
+2000,2000-09-09,Goiás,América Mineiro,2,0,V,D,NORMAL,1F
+2000,2000-09-09,Sport,Guarani,1,1,E,E,NORMAL,1F
+2000,2000-09-09,Nacional-AM,Paysandu,1,0,V,D,NORMAL,B
+2000,2000-09-09,Ceará,Náutico,0,0,E,E,NORMAL,B
+2000,2000-09-09,Flamengo-PI,Genus,1,0,V,D,NORMAL,C
+2000,2000-09-09,São José,Nacional-SP,0,2,D,V,NORMAL,A
+2000,2000-09-09,Malutrom,Inter de Limeira,0,0,E,E,NORMAL,B
+2000,2000-09-09,Comercial,Paulista,1,4,D,V,NORMAL,B
+2000,2000-09-10,Flamengo,Palmeiras,0,0,E,E,NORMAL,1F
+2000,2000-09-10,Corinthians,Vitória,1,1,E,E,NORMAL,1F
+2000,2000-09-10,Cruzeiro,Gama,2,1,V,D,NORMAL,1F
+2000,2000-09-10,Coritiba,Ponte Preta,2,0,V,D,NORMAL,1F
+2000,2000-09-10,Bahia,Vasco,3,1,V,D,NORMAL,1F
+2000,2000-09-10,Portuguesa,Atlético Mineiro,2,1,V,D,NORMAL,1F
+2000,2000-09-10,Juventude,Grêmio,4,3,V,D,NORMAL,1F
+2000,2000-09-10,Americano,Londrina,2,1,V,D,NORMAL,A
+2000,2000-09-10,Bangu,Paraná,0,0,E,E,NORMAL,A
+2000,2000-09-10,Criciúma,Red Bull Bragantino,1,1,E,E,NORMAL,A
+2000,2000-09-10,Botafogo-SP,Marcílio Dias,5,2,V,D,NORMAL,A
+2000,2000-09-10,XV de Piracicaba,Joinville,1,0,V,D,NORMAL,A
+2000,2000-09-10,União São João,Villa Nova-MG,4,3,V,D,NORMAL,A
+2000,2000-09-10,São Caetano,Brasil de Pelotas,3,0,V,D,NORMAL,A
+2000,2000-09-10,Avaí,Figueirense,1,1,E,E,NORMAL,A
+2000,2000-09-10,CRB,Bandeirante-DF,6,2,V,D,NORMAL,B
+2000,2000-09-10,São Raimundo-AM,CSA,2,0,V,D,NORMAL,B
+2000,2000-09-10,Remo,Vila Nova,1,0,V,D,NORMAL,B
+2000,2000-09-10,Desportiva Capixaba,Serra,0,6,D,V,NORMAL,B
+2000,2000-09-10,América-RN,Anapolina,1,1,E,E,NORMAL,B
+2000,2000-09-10,Fortaleza,Sampaio Corrêa,2,0,V,D,NORMAL,B
+2000,2000-09-10,River-PI,ABC,1,1,E,E,NORMAL,B
+2000,2000-09-10,Comercial-MS,Atlético Goianiense,0,0,E,E,NORMAL,D
+2000,2000-09-10,Rio Branco-PR,Inter SM,0,0,E,E,NORMAL,D
+2000,2000-09-10,Ituano,Portuguesa Santista,0,1,D,V,NORMAL,D
+2000,2000-09-10,Central,Tuna Luso,3,2,V,D,NORMAL,A
+2000,2000-09-10,Potiguar,Botafogo-PB,1,0,V,D,NORMAL,A
+2000,2000-09-10,Treze,Porto-PE,1,0,V,D,NORMAL,A
+2000,2000-09-10,Corinthians-AL,Campinense,3,1,V,D,NORMAL,B
+2000,2000-09-10,ASA,Sergipe,0,1,D,V,NORMAL,B
+2000,2000-09-10,Camaçari,Confiança,2,0,V,D,NORMAL,B
+2000,2000-09-10,Tocantinópolis,Rio Negro-AM,0,1,D,V,NORMAL,C
+2000,2000-09-10,Ypiranga-AP,Rio Branco-AC,1,0,V,D,NORMAL,C
+2000,2000-09-10,Rio Branco-SP,Juventus-SP,2,2,E,E,NORMAL,A
+2000,2000-09-10,União Rondonópolis,União Bandeirante,2,1,V,D,NORMAL,B
+2000,2000-09-10,Mogi Mirim,Olímpia,2,2,E,E,NORMAL,C
+2000,2000-09-10,São Cristóvão,Ipatinga,2,1,V,D,NORMAL,C
+2000,2000-09-10,Matonense,União Barbarense,2,1,V,D,NORMAL,C
+2000,2000-09-11,America-RJ,Caxias,2,3,D,V,NORMAL,A
+2000,2000-09-13,Ponte Preta,São Paulo,3,3,E,E,NORMAL,1F
+2000,2000-09-13,Sport,Athletico Paranaense,4,1,V,D,NORMAL,1F
+2000,2000-09-13,Gama,Palmeiras,2,0,V,D,NORMAL,1F
+2000,2000-09-13,Vasco,Fluminense,4,3,V,D,NORMAL,1F
+2000,2000-09-13,Cruzeiro,Botafogo,4,0,V,D,NORMAL,1F
+2000,2000-09-13,Portuguesa,Bahia,3,1,V,D,NORMAL,1F
+2000,2000-09-13,Vitória,Coritiba,3,1,V,D,NORMAL,1F
+2000,2000-09-13,Paraná,São Caetano,0,0,E,E,NORMAL,A
+2000,2000-09-13,Botafogo-SP,Bangu,3,0,V,D,NORMAL,A
+2000,2000-09-13,Marcílio Dias,XV de Piracicaba,2,1,V,D,NORMAL,A
+2000,2000-09-13,Red Bull Bragantino,Americano,0,0,E,E,NORMAL,A
+2000,2000-09-13,Londrina,Figueirense,0,1,D,V,NORMAL,A
+2000,2000-09-13,Avaí,União São João,1,1,E,E,NORMAL,A
+2000,2000-09-13,Villa Nova-MG,Criciúma,1,1,E,E,NORMAL,A
+2000,2000-09-13,CSA,América-RN,5,2,V,D,NORMAL,B
+2000,2000-09-13,Sampaio Corrêa,CRB,1,0,V,D,NORMAL,B
+2000,2000-09-13,ABC,Ceará,2,2,E,E,NORMAL,B
+2000,2000-09-13,Fortaleza,São Raimundo-AM,4,3,V,D,NORMAL,B
+2000,2000-09-13,Vila Nova,Nacional-AM,2,0,V,D,NORMAL,B
+2000,2000-09-13,Anapolina,River-PI,3,2,V,D,NORMAL,B
+2000,2000-09-13,Paysandu,Remo,0,0,E,E,NORMAL,B
+2000,2000-09-13,Náutico,Desportiva Capixaba,1,0,V,D,NORMAL,B
+2000,2000-09-13,Santo André,Rio Branco SC,1,2,D,V,NORMAL,D
+2000,2000-09-13,Portuguesa Santista,Olaria,2,1,V,D,NORMAL,D
+2000,2000-09-13,Botafogo-PB,Moto Club,2,2,E,E,NORMAL,A
+2000,2000-09-13,Tuna Luso,Treze,3,2,V,D,NORMAL,A
+2000,2000-09-13,Potiguar,Central,0,2,D,V,NORMAL,A
+2000,2000-09-13,Campinense,Juazeiro,0,1,D,V,NORMAL,B
+2000,2000-09-13,Confiança,ASA,0,0,E,E,NORMAL,B
+2000,2000-09-13,Corinthians-AL,Camaçari,1,0,V,D,NORMAL,B
+2000,2000-09-13,Tocantinópolis,Flamengo-PI,1,0,V,D,NORMAL,C
+2000,2000-09-13,Genus,Ypiranga-AP,3,2,V,D,NORMAL,C
+2000,2000-09-13,Rio Negro-AM,Baré,1,0,V,D,NORMAL,C
+2000,2000-09-13,Operário-MS,Brasília,1,0,V,D,NORMAL,D
+2000,2000-09-13,Atlético Goianiense,Dom Pedro,0,1,D,V,NORMAL,D
+2000,2000-09-13,Juventus-SP,São José,1,0,V,D,NORMAL,A
+2000,2000-09-13,Volta Redonda,Uberlândia,0,1,D,V,NORMAL,A
+2000,2000-09-13,Inter de Limeira,Comercial,2,0,V,D,NORMAL,B
+2000,2000-09-13,União Rondonópolis,Malutrom,0,2,D,V,NORMAL,B
+2000,2000-09-13,União Bandeirante,Madureira,1,1,E,E,NORMAL,B
+2000,2000-09-13,Olímpia,Matonense,1,0,V,D,NORMAL,C
+2000,2000-09-13,Ipatinga,Friburguense,0,1,D,V,NORMAL,C
+2000,2000-09-13,São Cristóvão,Mogi Mirim,1,0,V,D,NORMAL,C
+2000,2000-09-14,Grêmio,América Mineiro,2,1,V,D,NORMAL,1F
+2000,2000-09-14,Flamengo,Goiás,3,1,V,D,NORMAL,1F
+2000,2000-09-14,Joinville,Caxias,2,2,E,E,NORMAL,A
+2000,2000-09-14,Brasil de Pelotas,America-RJ,2,1,V,D,NORMAL,A
+2000,2000-09-14,Bandeirante-DF,Serra,1,2,D,V,NORMAL,B
+2000,2000-09-14,Comercial-MS,Goiânia,4,2,V,D,NORMAL,D
+2000,2000-09-16,Internacional,Santos,1,1,E,E,NORMAL,1F
+2000,2000-09-16,Atlético Mineiro,Fluminense,2,2,E,E,NORMAL,1F
+2000,2000-09-16,Vitória,Gama,1,1,E,E,NORMAL,1F
+2000,2000-09-16,Athletico Paranaense,Juventude,0,1,D,V,NORMAL,1F
+2000,2000-09-16,Botafogo,Ponte Preta,3,1,V,D,NORMAL,1F
+2000,2000-09-16,ABC,Anapolina,2,2,E,E,NORMAL,B
+2000,2000-09-16,Comercial-MS,Brasília,1,2,D,V,NORMAL,D
+2000,2000-09-16,Moto Club,Tuna Luso,3,3,E,E,NORMAL,A
+2000,2000-09-16,Comercial,Malutrom,1,4,D,V,NORMAL,B
+2000,2000-09-16,Paulista,União Rondonópolis,5,2,V,D,NORMAL,B
+2000,2000-09-17,Guarani,Goiás,0,0,E,E,NORMAL,1F
+2000,2000-09-17,Bahia,Flamengo,4,1,V,D,NORMAL,1F
+2000,2000-09-17,Palmeiras,Sport,1,1,E,E,NORMAL,1F
+2000,2000-09-17,Coritiba,Corinthians,1,1,E,E,NORMAL,1F
+2000,2000-09-17,América Mineiro,Santa Cruz,1,0,V,D,NORMAL,1F
+2000,2000-09-17,São Paulo,Portuguesa,2,0,V,D,NORMAL,1F
+2000,2000-09-17,Grêmio,Cruzeiro,0,0,E,E,NORMAL,1F
+2000,2000-09-17,Brasil de Pelotas,Villa Nova-MG,3,1,V,D,NORMAL,A
+2000,2000-09-17,Caxias,Londrina,3,1,V,D,NORMAL,A
+2000,2000-09-17,XV de Piracicaba,Paraná,1,2,D,V,NORMAL,A
+2000,2000-09-17,São Caetano,União São João,1,1,E,E,NORMAL,A
+2000,2000-09-17,Americano,Figueirense,1,1,E,E,NORMAL,A
+2000,2000-09-17,Marcílio Dias,Bangu,0,0,E,E,NORMAL,A
+2000,2000-09-17,America-RJ,Joinville,3,1,V,D,NORMAL,A
+2000,2000-09-17,Criciúma,Botafogo-SP,2,1,V,D,NORMAL,A
+2000,2000-09-17,Avaí,Red Bull Bragantino,1,1,E,E,NORMAL,A
+2000,2000-09-17,CSA,Fortaleza,1,1,E,E,NORMAL,B
+2000,2000-09-17,América-RN,River-PI,1,0,V,D,NORMAL,B
+2000,2000-09-17,Ceará,Nacional-AM,2,0,V,D,NORMAL,B
+2000,2000-09-17,Sampaio Corrêa,Desportiva Capixaba,3,2,V,D,NORMAL,B
+2000,2000-09-17,Vila Nova,Paysandu,1,1,E,E,NORMAL,B
+2000,2000-09-17,Bandeirante-DF,São Raimundo-AM,2,2,E,E,NORMAL,B
+2000,2000-09-17,Náutico,CRB,1,1,E,E,NORMAL,B
+2000,2000-09-17,Serra,Remo,5,2,V,D,NORMAL,B
+2000,2000-09-17,Santo André,Ituano,2,0,V,D,NORMAL,D
+2000,2000-09-17,Rio Branco-PR,Olaria,2,0,V,D,NORMAL,D
+2000,2000-09-17,Inter SM,Portuguesa Santista,1,1,E,E,NORMAL,D
+2000,2000-09-17,Porto-PE,Potiguar,6,2,V,D,NORMAL,A
+2000,2000-09-17,Treze,Central,1,0,V,D,NORMAL,A
+2000,2000-09-17,Juazeiro,Confiança,2,0,V,D,NORMAL,B
+2000,2000-09-17,ASA,Camaçari,2,0,V,D,NORMAL,B
+2000,2000-09-17,Sergipe,Corinthians-AL,0,1,D,V,NORMAL,B
+2000,2000-09-17,Ypiranga-AP,Flamengo-PI,3,1,V,D,NORMAL,C
+2000,2000-09-17,Rio Branco-AC,Tocantinópolis,2,1,V,D,NORMAL,C
+2000,2000-09-17,Baré,Genus,9,1,V,D,NORMAL,C
+2000,2000-09-17,Dom Pedro,Operário-MS,1,2,D,V,NORMAL,D
+2000,2000-09-17,Uberlândia,Juventus-SP,2,2,E,E,NORMAL,A
+2000,2000-09-17,São José,Rio Branco-SP,1,2,D,V,NORMAL,A
+2000,2000-09-17,Madureira,Inter de Limeira,1,1,E,E,NORMAL,B
+2000,2000-09-17,União Barbarense,São Cristóvão,2,3,D,V,NORMAL,C
+2000,2000-09-17,Friburguense,Olímpia,0,0,E,E,NORMAL,C
+2000,2000-09-17,Matonense,Mogi Mirim,2,2,E,E,NORMAL,C
+2000,2000-09-19,Comercial,União Rondonópolis,2,1,V,D,NORMAL,B
+2000,2000-09-19,Brasília,Goiânia,1,1,E,E,NORMAL,D
+2000,2000-09-20,Santos,Athletico Paranaense,2,1,V,D,NORMAL,1F
+2000,2000-09-20,Juventude,Gama,0,2,D,V,NORMAL,1F
+2000,2000-09-20,Vasco,América Mineiro,4,0,V,D,NORMAL,1F
+2000,2000-09-20,Ponte Preta,Portuguesa,3,1,V,D,NORMAL,1F
+2000,2000-09-20,Sport,Bahia,3,0,V,D,NORMAL,1F
+2000,2000-09-20,União São João,Red Bull Bragantino,4,2,V,D,NORMAL,A
+2000,2000-09-20,Joinville,Botafogo-SP,2,0,V,D,NORMAL,A
+2000,2000-09-20,São Caetano,XV de Piracicaba,5,0,V,D,NORMAL,A
+2000,2000-09-20,Villa Nova-MG,Marcílio Dias,0,0,E,E,NORMAL,A
+2000,2000-09-20,Figueirense,America-RJ,2,0,V,D,NORMAL,A
+2000,2000-09-20,Bangu,Caxias,3,2,V,D,NORMAL,A
+2000,2000-09-20,Londrina,Brasil de Pelotas,2,1,V,D,NORMAL,A
+2000,2000-09-20,Criciúma,Americano,3,0,V,D,NORMAL,A
+2000,2000-09-20,Paraná,Avaí,4,1,V,D,NORMAL,A
+2000,2000-09-20,CRB,Anapolina,0,2,D,V,NORMAL,B
+2000,2000-09-20,São Raimundo-AM,América-RN,2,1,V,D,NORMAL,B
+2000,2000-09-20,Náutico,ABC,2,0,V,D,NORMAL,B
+2000,2000-09-20,Desportiva Capixaba,CSA,1,1,E,E,NORMAL,B
+2000,2000-09-20,Remo,Sampaio Corrêa,1,1,E,E,NORMAL,B
+2000,2000-09-20,Portuguesa Santista,Rio Branco SC,3,1,V,D,NORMAL,D
+2000,2000-09-20,Olaria,Santo André,2,0,V,D,NORMAL,D
+2000,2000-09-20,Ituano,Inter SM,4,0,V,D,NORMAL,D
+2000,2000-09-20,Tuna Luso,Porto-PE,1,2,D,V,NORMAL,A
+2000,2000-09-20,Central,Botafogo-PB,3,2,V,D,NORMAL,A
+2000,2000-09-20,Potiguar,Moto Club,2,3,D,V,NORMAL,A
+2000,2000-09-20,Confiança,Sergipe,1,1,E,E,NORMAL,B
+2000,2000-09-20,Corinthians-AL,Juazeiro,1,0,V,D,NORMAL,B
+2000,2000-09-20,Camaçari,Campinense,1,1,E,E,NORMAL,B
+2000,2000-09-20,Flamengo-PI,Rio Negro-AM,1,1,E,E,NORMAL,C
+2000,2000-09-20,Tocantinópolis,Baré,2,1,V,D,NORMAL,C
+2000,2000-09-20,Genus,Rio Branco-AC,2,2,E,E,NORMAL,C
+2000,2000-09-20,Comercial-MS,Dom Pedro,0,1,D,V,NORMAL,D
+2000,2000-09-20,Juventus-SP,Nacional-SP,2,1,V,D,NORMAL,A
+2000,2000-09-20,Rio Branco-SP,Volta Redonda,3,1,V,D,NORMAL,A
+2000,2000-09-20,Inter de Limeira,Paulista,2,4,D,V,NORMAL,B
+2000,2000-09-20,Malutrom,União Bandeirante,2,2,E,E,NORMAL,B
+2000,2000-09-20,Mogi Mirim,Ipatinga,4,4,E,E,NORMAL,C
+2000,2000-09-20,Olímpia,União Barbarense,3,1,V,D,NORMAL,C
+2000,2000-09-20,São Cristóvão,Friburguense,1,1,E,E,NORMAL,C
+2000,2000-09-21,River-PI,Bandeirante-DF,3,0,V,D,NORMAL,B
+2000,2000-09-21,Serra,Vila Nova,2,0,V,D,NORMAL,B
+2000,2000-09-21,Paysandu,Ceará,4,2,V,D,NORMAL,B
+2000,2000-09-21,Nacional-AM,Fortaleza,3,4,D,V,NORMAL,B
+2000,2000-09-21,União Rondonópolis,Madureira,1,1,E,E,NORMAL,B
+2000,2000-09-22,Goiânia,Atlético Goianiense,1,1,E,E,NORMAL,D
+2000,2000-09-23,Flamengo,Santos,3,0,V,D,NORMAL,1F
+2000,2000-09-23,Guarani,Coritiba,2,0,V,D,NORMAL,1F
+2000,2000-09-23,Grêmio,Vitória,1,0,V,D,NORMAL,1F
+2000,2000-09-23,América Mineiro,Internacional,1,1,E,E,NORMAL,1F
+2000,2000-09-23,CRB,América-RN,0,0,E,E,NORMAL,B
+2000,2000-09-23,Remo,Desportiva Capixaba,4,0,V,D,NORMAL,B
+2000,2000-09-23,Vila Nova,São Raimundo-AM,0,1,D,V,NORMAL,B
+2000,2000-09-23,Moto Club,Treze,5,1,V,D,NORMAL,A
+2000,2000-09-24,Fluminense,Palmeiras,0,1,D,V,NORMAL,1F
+2000,2000-09-24,Gama,São Paulo,1,3,D,V,NORMAL,1F
+2000,2000-09-24,Goiás,Cruzeiro,2,0,V,D,NORMAL,1F
+2000,2000-09-24,Corinthians,Ponte Preta,1,0,V,D,NORMAL,1F
+2000,2000-09-24,Santa Cruz,Atlético Mineiro,1,2,D,V,NORMAL,1F
+2000,2000-09-24,Portuguesa,Sport,1,0,V,D,NORMAL,1F
+2000,2000-09-24,Juventude,Vasco,1,2,D,V,NORMAL,1F
+2000,2000-09-24,Bangu,XV de Piracicaba,5,1,V,D,NORMAL,A
+2000,2000-09-24,America-RJ,São Caetano,3,2,V,D,NORMAL,A
+2000,2000-09-24,Botafogo-SP,Villa Nova-MG,2,1,V,D,NORMAL,A
+2000,2000-09-24,Paraná,Red Bull Bragantino,0,1,D,V,NORMAL,A
+2000,2000-09-24,Figueirense,Criciúma,1,1,E,E,NORMAL,A
+2000,2000-09-24,Londrina,Marcílio Dias,0,1,D,V,NORMAL,A
+2000,2000-09-24,Brasil de Pelotas,Joinville,0,1,D,V,NORMAL,A
+2000,2000-09-24,Americano,União São João,0,0,E,E,NORMAL,A
+2000,2000-09-24,Avaí,Caxias,1,1,E,E,NORMAL,A
+2000,2000-09-24,Bandeirante-DF,Nacional-AM,1,1,E,E,NORMAL,B
+2000,2000-09-24,CSA,Anapolina,1,0,V,D,NORMAL,B
+2000,2000-09-24,Fortaleza,River-PI,3,1,V,D,NORMAL,B
+2000,2000-09-24,Sampaio Corrêa,Ceará,2,0,V,D,NORMAL,B
+2000,2000-09-24,Paysandu,Náutico,0,0,E,E,NORMAL,B
+2000,2000-09-24,ABC,Serra,0,0,E,E,NORMAL,B
+2000,2000-09-24,Botafogo-PB,Tuna Luso,1,2,D,V,NORMAL,A
+2000,2000-09-24,Central,Porto-PE,0,0,E,E,NORMAL,A
+2000,2000-09-24,Campinense,Confiança,2,2,E,E,NORMAL,B
+2000,2000-09-24,Juazeiro,ASA,1,0,V,D,NORMAL,B
+2000,2000-09-24,Camaçari,Sergipe,0,0,E,E,NORMAL,B
+2000,2000-09-24,Rio Negro-AM,Genus,4,2,V,D,NORMAL,C
+2000,2000-09-24,Flamengo-PI,Rio Branco-AC,3,1,V,D,NORMAL,C
+2000,2000-09-24,Baré,Ypiranga-AP,3,3,E,E,NORMAL,C
+2000,2000-09-24,Atlético Goianiense,Operário-MS,0,1,D,V,NORMAL,D
+2000,2000-09-24,Dom Pedro,Brasília,2,0,V,D,NORMAL,D
+2000,2000-09-24,Rio Branco-SP,Nacional-SP,4,0,V,D,NORMAL,A
+2000,2000-09-24,Volta Redonda,Juventus-SP,1,1,E,E,NORMAL,A
+2000,2000-09-24,Uberlândia,São José,2,1,V,D,NORMAL,A
+2000,2000-09-24,Madureira,Comercial,7,1,V,D,NORMAL,B
+2000,2000-09-24,União Bandeirante,Inter de Limeira,3,0,V,D,NORMAL,B
+2000,2000-09-24,Malutrom,Paulista,2,1,V,D,NORMAL,B
+2000,2000-09-24,Ipatinga,Olímpia,0,3,D,V,NORMAL,C
+2000,2000-09-24,Friburguense,Matonense,2,1,V,D,NORMAL,C
+2000,2000-09-24,Mogi Mirim,União Barbarense,2,0,V,D,NORMAL,C
+2000,2000-09-27,São Paulo,América Mineiro,3,0,V,D,NORMAL,1F
+2000,2000-09-27,Portuguesa,Guarani,2,3,D,V,NORMAL,1F
+2000,2000-09-27,Ponte Preta,Sport,3,0,V,D,NORMAL,1F
+2000,2000-09-27,Botafogo,Vitória,0,0,E,E,NORMAL,1F
+2000,2000-09-27,Santa Cruz,Juventude,2,1,V,D,NORMAL,1F
+2000,2000-09-27,XV de Piracicaba,Botafogo-SP,0,1,D,V,NORMAL,A
+2000,2000-09-27,Red Bull Bragantino,Figueirense,1,1,E,E,NORMAL,A
+2000,2000-09-27,União São João,Criciúma,0,2,D,V,NORMAL,A
+2000,2000-09-27,Joinville,São Caetano,1,0,V,D,NORMAL,A
+2000,2000-09-27,Americano,Brasil de Pelotas,1,3,D,V,NORMAL,A
+2000,2000-09-27,Villa Nova-MG,Bangu,3,3,E,E,NORMAL,A
+2000,2000-09-27,Marcílio Dias,America-RJ,1,0,V,D,NORMAL,A
+2000,2000-09-27,Caxias,Paraná,1,1,E,E,NORMAL,A
+2000,2000-09-27,Avaí,Londrina,4,0,V,D,NORMAL,A
+2000,2000-09-27,CSA,Serra,0,2,D,V,NORMAL,B
+2000,2000-09-27,Nacional-AM,CRB,3,4,D,V,NORMAL,B
+2000,2000-09-27,América-RN,Desportiva Capixaba,4,0,V,D,NORMAL,B
+2000,2000-09-27,Ceará,Fortaleza,1,3,D,V,NORMAL,B
+2000,2000-09-27,Sampaio Corrêa,ABC,3,2,V,D,NORMAL,B
+2000,2000-09-27,Bandeirante-DF,Paysandu,0,1,D,V,NORMAL,B
+2000,2000-09-27,Anapolina,Vila Nova,1,0,V,D,NORMAL,B
+2000,2000-09-27,Náutico,River-PI,0,0,E,E,NORMAL,B
+2000,2000-09-28,Corinthians,Athletico Paranaense,2,3,D,V,NORMAL,1F
+2000,2000-09-28,São Raimundo-AM,Remo,4,1,V,D,NORMAL,B
+2000,2000-09-30,Goiás,São Paulo,2,2,E,E,NORMAL,1F
+2000,2000-09-30,América Mineiro,Juventude,3,0,V,D,NORMAL,1F
+2000,2000-09-30,Coritiba,Grêmio,1,2,D,V,NORMAL,1F
+2000,2000-09-30,Sport,Fluminense,3,2,V,D,NORMAL,1F
+2000,2000-09-30,Atlético Mineiro,Cruzeiro,2,4,D,V,NORMAL,1F
+2000,2000-09-30,Brasil de Pelotas,Figueirense,0,2,D,V,NORMAL,A
+2000,2000-09-30,Caxias,Criciúma,1,0,V,D,NORMAL,A
+2000,2000-09-30,América-RN,Fortaleza,1,1,E,E,NORMAL,B
+2000,2000-09-30,Tuna Luso,Juazeiro,2,0,V,D,NORMAL,1
+2000,2000-09-30,Ypiranga-AP,Atlético Goianiense,2,1,V,D,NORMAL,1
+2000,2000-09-30,Corinthians-AL,Central,1,3,D,V,NORMAL,2
+2000,2000-09-30,Dom Pedro,Tocantinópolis,2,1,V,D,NORMAL,2
+2000,2000-09-30,Flamengo-PI,Operário-MS,7,2,V,D,NORMAL,3
+2000,2000-09-30,Moto Club,Confiança,2,1,V,D,NORMAL,3
+2000,2000-09-30,Rio Branco-SP,Malutrom,0,2,D,V,NORMAL,1
+2000,2000-09-30,Friburguense,Santo André,0,1,D,V,NORMAL,1
+2000,2000-09-30,Paulista,Juventus-SP,1,0,V,D,NORMAL,2
+2000,2000-09-30,Portuguesa Santista,Matonense,2,1,V,D,NORMAL,2
+2000,2000-09-30,Olímpia,Rio Branco SC,2,0,V,D,NORMAL,3
+2000,2000-09-30,Uberlândia,União Bandeirante,1,0,V,D,NORMAL,3
+2000,2000-09-30,Gama,Flamengo,2,4,D,V,NORMAL,1F
+2000,2000-10-02,Botafogo-SP,Americano,2,1,V,D,NORMAL,A
+2000,2000-10-03,Desportiva Capixaba,Bandeirante-DF,3,0,V,D,NORMAL,B
+2000,2000-10-04,Palmeiras,Coritiba,2,1,V,D,NORMAL,1F
+2000,2000-10-04,Vasco,Atlético Mineiro,4,0,V,D,NORMAL,1F
+2000,2000-10-04,São Paulo,Grêmio,1,1,E,E,NORMAL,1F
+2000,2000-10-04,Botafogo,Juventude,2,1,V,D,NORMAL,1F
+2000,2000-10-04,América Mineiro,Portuguesa,1,1,E,E,NORMAL,1F
+2000,2000-10-04,Santa Cruz,Sport,0,3,D,V,NORMAL,1F
+2000,2000-10-04,Athletico Paranaense,Guarani,0,1,D,V,NORMAL,1F
+2000,2000-10-04,Gama,Santos,2,1,V,D,NORMAL,1F
+2000,2000-10-04,Bahia,Vitória,1,0,V,D,NORMAL,1F
+2000,2000-10-04,Ponte Preta,Flamengo,2,0,V,D,NORMAL,1F
+2000,2000-10-04,XV de Piracicaba,America-RJ,3,1,V,D,NORMAL,A
+2000,2000-10-04,São Caetano,Red Bull Bragantino,3,1,V,D,NORMAL,A
+2000,2000-10-04,Bangu,União São João,2,1,V,D,NORMAL,A
+2000,2000-10-04,Paraná,Figueirense,2,1,V,D,NORMAL,A
+2000,2000-10-04,Villa Nova-MG,Londrina,1,0,V,D,NORMAL,A
+2000,2000-10-04,Criciúma,Brasil de Pelotas,1,0,V,D,NORMAL,A
+2000,2000-10-04,Caxias,Marcílio Dias,3,3,E,E,NORMAL,A
+2000,2000-10-04,Joinville,Avaí,2,2,E,E,NORMAL,A
+2000,2000-10-04,Serra,Sampaio Corrêa,3,1,V,D,NORMAL,B
+2000,2000-10-04,Náutico,São Raimundo-AM,3,2,V,D,NORMAL,B
+2000,2000-10-04,River-PI,CRB,1,1,E,E,NORMAL,B
+2000,2000-10-04,Ceará,Vila Nova,0,0,E,E,NORMAL,B
+2000,2000-10-04,ABC,Paysandu,4,1,V,D,NORMAL,B
+2000,2000-10-04,Remo,CSA,1,0,V,D,NORMAL,B
+2000,2000-10-04,Juazeiro,Ypiranga-AP,2,1,V,D,NORMAL,1
+2000,2000-10-04,Atlético Goianiense,Tuna Luso,0,1,D,V,NORMAL,1
+2000,2000-10-04,Central,Dom Pedro,0,0,E,E,NORMAL,2
+2000,2000-10-04,Tocantinópolis,Corinthians-AL,1,2,D,V,NORMAL,2
+2000,2000-10-04,Confiança,Flamengo-PI,1,2,D,V,NORMAL,3
+2000,2000-10-04,Operário-MS,Moto Club,3,3,E,E,NORMAL,3
+2000,2000-10-04,Santo André,Rio Branco-SP,0,2,D,V,NORMAL,1
+2000,2000-10-04,Juventus-SP,Portuguesa Santista,2,2,E,E,NORMAL,2
+2000,2000-10-04,Matonense,Paulista,1,1,E,E,NORMAL,2
+2000,2000-10-04,Rio Branco-PR,Uberlândia,3,2,V,D,NORMAL,3
+2000,2000-10-04,União Bandeirante,Olímpia,0,1,D,V,NORMAL,3
+2000,2000-10-05,Malutrom,Friburguense,2,0,V,D,NORMAL,1
+2000,2000-10-07,Vitória,São Paulo,5,1,V,D,NORMAL,1F
+2000,2000-10-07,Sport,Gama,3,0,V,D,NORMAL,1F
+2000,2000-10-07,Juventude,Palmeiras,0,1,D,V,NORMAL,1F
+2000,2000-10-07,Santos,Ponte Preta,3,3,E,E,NORMAL,1F
+2000,2000-10-07,Guarani,Bahia,2,2,E,E,NORMAL,1F
+2000,2000-10-07,Athletico Paranaense,Santa Cruz,4,0,V,D,NORMAL,1F
+2000,2000-10-07,Internacional,Grêmio,1,2,D,V,NORMAL,1F
+2000,2000-10-07,América Mineiro,Cruzeiro,1,1,E,E,NORMAL,1F
+2000,2000-10-07,Botafogo,Flamengo,3,1,V,D,NORMAL,1F
+2000,2000-10-07,Corinthians,Portuguesa,2,3,D,V,NORMAL,1F
+2000,2000-10-07,Atlético Mineiro,Goiás,2,1,V,D,NORMAL,1F
+2000,2000-10-07,Americano,XV de Piracicaba,2,2,E,E,NORMAL,A
+2000,2000-10-07,Red Bull Bragantino,Botafogo-SP,0,2,D,V,NORMAL,A
+2000,2000-10-07,União São João,Joinville,1,1,E,E,NORMAL,A
+2000,2000-10-07,Figueirense,Bangu,1,1,E,E,NORMAL,A
+2000,2000-10-07,Londrina,São Caetano,0,2,D,V,NORMAL,A
+2000,2000-10-07,Brasil de Pelotas,Caxias,0,1,D,V,NORMAL,A
+2000,2000-10-07,Marcílio Dias,Criciúma,1,1,E,E,NORMAL,A
+2000,2000-10-07,Avaí,Villa Nova-MG,2,0,V,D,NORMAL,A
+2000,2000-10-07,America-RJ,Paraná,0,0,E,E,NORMAL,A
+2000,2000-10-07,Anapolina,Sampaio Corrêa,0,1,D,V,NORMAL,B
+2000,2000-10-07,Vila Nova,ABC,0,1,D,V,NORMAL,B
+2000,2000-10-07,Ceará,Remo,1,2,D,V,NORMAL,B
+2000,2000-10-07,Paysandu,Desportiva Capixaba,3,2,V,D,NORMAL,B
+2000,2000-10-07,CRB,São Raimundo-AM,1,1,E,E,NORMAL,B
+2000,2000-10-07,Bandeirante-DF,CSA,2,3,D,V,NORMAL,B
+2000,2000-10-07,Nacional-AM,América-RN,4,2,V,D,NORMAL,B
+2000,2000-10-07,Tuna Luso,Ypiranga-AP,1,0,V,D,NORMAL,1
+2000,2000-10-07,Atlético Goianiense,Juazeiro,1,2,D,V,NORMAL,1
+2000,2000-10-07,Tocantinópolis,Central,2,1,V,D,NORMAL,2
+2000,2000-10-07,Corinthians-AL,Dom Pedro,2,2,E,E,NORMAL,2
+2000,2000-10-07,Flamengo-PI,Moto Club,1,1,E,E,NORMAL,3
+2000,2000-10-07,Confiança,Operário-MS,0,1,D,V,NORMAL,3
+2000,2000-10-07,Santo André,Malutrom,1,1,E,E,NORMAL,1
+2000,2000-10-07,Rio Branco-SP,Friburguense,1,3,D,V,NORMAL,1
+2000,2000-10-07,Paulista,Portuguesa Santista,2,0,V,D,NORMAL,2
+2000,2000-10-07,Matonense,Juventus-SP,2,1,V,D,NORMAL,2
+2000,2000-10-07,Olímpia,Uberlândia,1,1,E,E,NORMAL,3
+2000,2000-10-07,União Bandeirante,Rio Branco SC,0,1,D,V,NORMAL,3
+2000,2000-10-10,Cruzeiro,Santa Cruz,3,0,V,D,NORMAL,1F
+2000,2000-10-11,São Paulo,Coritiba,3,2,V,D,NORMAL,1F
+2000,2000-10-11,Ponte Preta,Athletico Paranaense,0,1,D,V,NORMAL,1F
+2000,2000-10-11,Fluminense,Grêmio,1,0,V,D,NORMAL,1F
+2000,2000-10-11,Atlético Mineiro,Guarani,3,0,V,D,NORMAL,1F
+2000,2000-10-11,Palmeiras,América Mineiro,0,0,E,E,NORMAL,1F
+2000,2000-10-11,Portuguesa,Internacional,3,2,V,D,NORMAL,1F
+2000,2000-10-11,Bahia,Corinthians,2,1,V,D,NORMAL,1F
+2000,2000-10-11,Vasco,Vitória,2,2,E,E,NORMAL,1F
+2000,2000-10-11,Juazeiro,Atlético Goianiense,2,0,V,D,NORMAL,1
+2000,2000-10-11,Ypiranga-AP,Tuna Luso,2,1,V,D,NORMAL,1
+2000,2000-10-11,Dom Pedro,Corinthians-AL,0,0,E,E,NORMAL,2
+2000,2000-10-11,Moto Club,Flamengo-PI,1,0,V,D,NORMAL,3
+2000,2000-10-11,Operário-MS,Confiança,1,1,E,E,NORMAL,3
+2000,2000-10-11,Malutrom,Santo André,4,2,V,D,NORMAL,1
+2000,2000-10-11,Friburguense,Rio Branco-SP,0,1,D,V,NORMAL,1
+2000,2000-10-11,Juventus-SP,Matonense,3,0,V,D,NORMAL,2
+2000,2000-10-11,Portuguesa Santista,Paulista,1,2,D,V,NORMAL,2
+2000,2000-10-11,Uberlândia,Olímpia,3,0,V,D,NORMAL,3
+2000,2000-10-11,Rio Branco-PR,União Bandeirante,2,1,V,D,NORMAL,3
+2000,2000-10-12,Cruzeiro,Juventude,2,1,V,D,NORMAL,1F
+2000,2000-10-13,Central,Tocantinópolis,0,1,D,V,NORMAL,2
+2000,2000-10-14,Santos,Vasco,1,1,E,E,NORMAL,1F
+2000,2000-10-14,Palmeiras,Atlético Mineiro,3,2,V,D,NORMAL,1F
+2000,2000-10-14,Flamengo,Sport,1,2,D,V,NORMAL,1F
+2000,2000-10-14,Internacional,Bahia,3,2,V,D,NORMAL,1F
+2000,2000-10-14,Caxias,Sampaio Corrêa,2,0,V,D,NORMAL,2F
+2000,2000-10-14,Remo,Figueirense,4,1,V,D,NORMAL,2F
+2000,2000-10-15,Grêmio,Portuguesa,2,2,E,E,NORMAL,1F
+2000,2000-10-15,Juventude,Goiás,1,2,D,V,NORMAL,1F
+2000,2000-10-15,Santa Cruz,Coritiba,1,1,E,E,NORMAL,1F
+2000,2000-10-15,Botafogo,São Paulo,1,0,V,D,NORMAL,1F
+2000,2000-10-15,Guarani,Corinthians,3,2,V,D,NORMAL,1F
+2000,2000-10-15,Fluminense,Cruzeiro,2,1,V,D,NORMAL,1F
+2000,2000-10-15,Avaí,Fortaleza,0,2,D,V,NORMAL,2F
+2000,2000-10-15,Criciúma,Náutico,1,2,D,V,NORMAL,2F
+2000,2000-10-15,Bangu,São Raimundo-AM,2,1,V,D,NORMAL,2F
+2000,2000-10-15,Anapolina,Paraná,0,1,D,V,NORMAL,2F
+2000,2000-10-15,Paysandu,Botafogo-SP,3,0,V,D,NORMAL,2F
+2000,2000-10-15,Tuna Luso,Atlético Goianiense,3,2,V,D,NORMAL,1
+2000,2000-10-15,Ypiranga-AP,Juazeiro,3,2,V,D,NORMAL,1
+2000,2000-10-15,Corinthians-AL,Tocantinópolis,5,1,V,D,NORMAL,2
+2000,2000-10-15,Dom Pedro,Central,2,3,D,V,NORMAL,2
+2000,2000-10-15,Moto Club,Operário-MS,1,0,V,D,NORMAL,3
+2000,2000-10-15,Flamengo-PI,Confiança,3,5,D,V,NORMAL,3
+2000,2000-10-15,Rio Branco-SP,Santo André,4,0,V,D,NORMAL,1
+2000,2000-10-15,Friburguense,Malutrom,0,0,E,E,NORMAL,1
+2000,2000-10-15,Paulista,Matonense,7,0,V,D,NORMAL,2
+2000,2000-10-15,Portuguesa Santista,Juventus-SP,2,0,V,D,NORMAL,2
+2000,2000-10-15,Olímpia,União Bandeirante,3,1,V,D,NORMAL,3
+2000,2000-10-15,Uberlândia,Rio Branco SC,0,0,E,E,NORMAL,3
+2000,2000-10-16,CRB,São Caetano,1,1,E,E,NORMAL,2F
+2000,2000-10-17,São Paulo,Internacional,1,1,E,E,NORMAL,1F
+2000,2000-10-18,Guarani,Grêmio,3,2,V,D,NORMAL,1F
+2000,2000-10-18,Flamengo,América Mineiro,1,2,D,V,NORMAL,1F
+2000,2000-10-18,Palmeiras,Cruzeiro,0,1,D,V,NORMAL,1F
+2000,2000-10-18,Athletico Paranaense,Fluminense,1,0,V,D,NORMAL,1F
+2000,2000-10-18,Botafogo,Gama,2,0,V,D,NORMAL,1F
+2000,2000-10-18,Sampaio Corrêa,Caxias,1,1,E,E,NORMAL,2F
+2000,2000-10-18,Fortaleza,Avaí,1,2,D,V,NORMAL,2F
+2000,2000-10-18,Náutico,Criciúma,0,0,E,E,NORMAL,2F
+2000,2000-10-18,São Raimundo-AM,Bangu,2,2,E,E,NORMAL,2F
+2000,2000-10-18,Santo André,Friburguense,1,1,E,E,NORMAL,1
+2000,2000-10-18,Malutrom,Rio Branco-SP,1,0,V,D,NORMAL,1
+2000,2000-10-18,Juventus-SP,Paulista,5,0,V,D,NORMAL,2
+2000,2000-10-18,Matonense,Portuguesa Santista,0,0,E,E,NORMAL,2
+2000,2000-10-18,União Bandeirante,Uberlândia,3,4,D,V,NORMAL,3
+2000,2000-10-18,Rio Branco-PR,Olímpia,0,0,E,E,NORMAL,3
+2000,2000-10-19,Atlético Mineiro,Coritiba,2,1,V,D,NORMAL,1F
+2000,2000-10-19,Figueirense,Remo,2,1,V,D,NORMAL,2F
+2000,2000-10-19,Paraná,Anapolina,2,0,V,D,NORMAL,2F
+2000,2000-10-19,Botafogo-SP,Paysandu,2,1,V,D,NORMAL,2F
+2000,2000-10-19,São Caetano,CRB,4,1,V,D,NORMAL,2F
+2000,2000-10-19,Juazeiro,Tuna Luso,5,0,V,D,NORMAL,1
+2000,2000-10-19,Atlético Goianiense,Ypiranga-AP,3,2,V,D,NORMAL,1
+2000,2000-10-19,Tocantinópolis,Dom Pedro,2,0,V,D,NORMAL,2
+2000,2000-10-19,Central,Corinthians-AL,2,1,V,D,NORMAL,2
+2000,2000-10-19,Operário-MS,Flamengo-PI,1,0,V,D,NORMAL,3
+2000,2000-10-19,Confiança,Moto Club,3,0,V,D,NORMAL,3
+2000,2000-10-21,Goiás,Santos,3,1,V,D,NORMAL,1F
+2000,2000-10-21,Portuguesa,Flamengo,2,1,V,D,NORMAL,1F
+2000,2000-10-21,Vasco,Gama,1,0,V,D,NORMAL,1F
+2000,2000-10-21,Internacional,Santa Cruz,4,0,V,D,NORMAL,1F
+2000,2000-10-21,Corinthians,Fluminense,1,3,D,V,NORMAL,1F
+2000,2000-10-21,Vitória,Juventude,0,1,D,V,NORMAL,1F
+2000,2000-10-21,São Paulo,Guarani,2,2,E,E,NORMAL,1F
+2000,2000-10-21,Coritiba,América Mineiro,3,2,V,D,NORMAL,1F
+2000,2000-10-21,Atlético Mineiro,Grêmio,2,2,E,E,NORMAL,1F
+2000,2000-10-21,Sport,Botafogo,2,2,E,E,NORMAL,1F
+2000,2000-10-22,Ponte Preta,Palmeiras,5,1,V,D,NORMAL,1F
+2000,2000-10-22,Fortaleza,Paysandu,0,1,D,V,NORMAL,3F
+2000,2000-10-22,Juazeiro,Uberlândia,1,1,E,E,NORMAL,1
+2000,2000-10-22,Moto Club,Malutrom,2,2,E,E,NORMAL,2
+2000,2000-10-23,Náutico,São Caetano,1,0,V,D,NORMAL,3F
+2000,2000-10-23,Caxias,Remo,2,1,V,D,NORMAL,3F
+2000,2000-10-23,Bangu,Paraná,0,3,D,V,NORMAL,3F
+2000,2000-10-23,Central,Olímpia,0,0,E,E,NORMAL,1
+2000,2000-10-24,Vasco,Goiás,2,1,V,D,NORMAL,1F
+2000,2000-10-25,Gama,Atlético Mineiro,0,0,E,E,NORMAL,1F
+2000,2000-10-25,Bahia,Ponte Preta,1,2,D,V,NORMAL,1F
+2000,2000-10-25,Fluminense,Santa Cruz,6,1,V,D,NORMAL,1F
+2000,2000-10-25,Sport,Corinthians,3,1,V,D,NORMAL,1F
+2000,2000-10-25,Grêmio,Botafogo,2,1,V,D,NORMAL,1F
+2000,2000-10-25,Paysandu,Fortaleza,1,0,V,D,NORMAL,3F
+2000,2000-10-25,Uberlândia,Central,5,0,V,D,NORMAL,1
+2000,2000-10-25,Tuna Luso,Moto Club,1,0,V,D,NORMAL,2
+2000,2000-10-26,São Caetano,Náutico,6,2,V,D,NORMAL,3F
+2000,2000-10-26,Remo,Caxias,3,0,V,D,NORMAL,3F
+2000,2000-10-26,Paraná,Bangu,2,1,V,D,NORMAL,3F
+2000,2000-10-26,Olímpia,Juazeiro,1,0,V,D,NORMAL,1
+2000,2000-10-26,Santa Cruz,Palmeiras,1,5,D,V,NORMAL,1F
+2000,2000-10-26,Santos,Bahia,0,1,D,V,NORMAL,1F
+2000,2000-10-26,Cruzeiro,Portuguesa,5,1,V,D,NORMAL,1F
+2000,2000-10-26,Sport,Internacional,0,1,D,V,NORMAL,1F
+2000,2000-10-27,Flamengo,Vasco,4,0,V,D,NORMAL,1F
+2000,2000-10-28,América Mineiro,Vitória,2,3,D,V,NORMAL,1F
+2000,2000-10-28,Grêmio,Gama,4,1,V,D,NORMAL,1F
+2000,2000-10-28,São Paulo,Atlético Mineiro,2,1,V,D,NORMAL,1F
+2000,2000-10-28,Tuna Luso,Malutrom,3,1,V,D,NORMAL,2
+2000,2000-10-29,Juazeiro,Central,1,1,E,E,NORMAL,1
+2000,2000-10-29,Olímpia,Uberlândia,1,1,E,E,NORMAL,1
+2000,2000-10-29,Moto Club,Paulista,1,1,E,E,NORMAL,2
+2000,2000-11-01,Internacional,Corinthians,1,0,V,D,NORMAL,1F
+2000,2000-11-01,Paraná,Remo,0,0,E,E,NORMAL,SF
+2000,2000-11-01,Paysandu,São Caetano,1,1,E,E,NORMAL,SF
+2000,2000-11-01,Uberlândia,Olímpia,2,1,V,D,NORMAL,1
+2000,2000-11-01,Central,Juazeiro,1,2,D,V,NORMAL,1
+2000,2000-11-01,Paulista,Moto Club,7,0,V,D,NORMAL,2
+2000,2000-11-01,Malutrom,Tuna Luso,2,1,V,D,NORMAL,2
+2000,2000-11-02,Guarani,Ponte Preta,2,1,V,D,NORMAL,1F
+2000,2000-11-03,Coritiba,Vasco,0,1,D,V,NORMAL,1F
+2000,2000-11-04,Bahia,Botafogo,2,0,V,D,NORMAL,1F
+2000,2000-11-04,Cruzeiro,Corinthians,3,1,V,D,NORMAL,1F
+2000,2000-11-04,Athletico Paranaense,Vitória,3,1,V,D,NORMAL,1F
+2000,2000-11-04,Goiás,Grêmio,2,2,E,E,NORMAL,1F
+2000,2000-11-04,Atlético Mineiro,América Mineiro,0,1,D,V,NORMAL,1F
+2000,2000-11-04,Paulista,Tuna Luso,4,0,V,D,NORMAL,2
+2000,2000-11-05,Internacional,Vasco,2,0,V,D,NORMAL,1F
+2000,2000-11-05,Juventude,São Paulo,3,1,V,D,NORMAL,1F
+2000,2000-11-05,Santa Cruz,Ponte Preta,0,3,D,V,NORMAL,1F
+2000,2000-11-05,Fluminense,Flamengo,1,1,E,E,NORMAL,1F
+2000,2000-11-05,Coritiba,Santos,2,1,V,D,NORMAL,1F
+2000,2000-11-05,Portuguesa,Palmeiras,1,1,E,E,NORMAL,1F
+2000,2000-11-05,Remo,Paraná,1,2,D,V,NORMAL,SF
+2000,2000-11-05,Juazeiro,Olímpia,1,0,V,D,NORMAL,1
+2000,2000-11-05,Central,Uberlândia,0,1,D,V,NORMAL,1
+2000,2000-11-06,São Caetano,Paysandu,5,4,V,D,NORMAL,SF
+2000,2000-11-07,Malutrom,Paulista,1,1,E,E,NORMAL,2
+2000,2000-11-07,Moto Club,Tuna Luso,3,2,V,D,NORMAL,2
+2000,2000-11-08,Ponte Preta,Internacional,3,1,V,D,NORMAL,1F
+2000,2000-11-08,Bahia,América Mineiro,2,1,V,D,NORMAL,1F
+2000,2000-11-08,Athletico Paranaense,Goiás,1,1,E,E,NORMAL,1F
+2000,2000-11-08,Santos,Portuguesa,2,0,V,D,NORMAL,1F
+2000,2000-11-08,Uberlândia,Juazeiro,0,1,D,V,NORMAL,1
+2000,2000-11-08,Olímpia,Central,5,1,V,D,NORMAL,1
+2000,2000-11-08,Sport,São Paulo,4,3,V,D,NORMAL,1F
+2000,2000-11-09,Vitória,Guarani,1,2,D,V,NORMAL,1F
+2000,2000-11-09,Corinthians,Juventude,1,2,D,V,NORMAL,1F
+2000,2000-11-10,Palmeiras,Vasco,3,0,V,D,NORMAL,1F
+2000,2000-11-11,Goiás,Fluminense,3,3,E,E,NORMAL,1F
+2000,2000-11-11,Santos,Sport,3,1,V,D,NORMAL,1F
+2000,2000-11-11,Coritiba,Portuguesa,3,1,V,D,NORMAL,1F
+2000,2000-11-11,Atlético Mineiro,Juventude,3,2,V,D,NORMAL,1F
+2000,2000-11-11,Grêmio,Athletico Paranaense,3,0,V,D,NORMAL,1F
+2000,2000-11-11,Malutrom,Moto Club,4,3,V,D,NORMAL,2
+2000,2000-11-11,Tuna Luso,Paulista,2,1,V,D,NORMAL,2
+2000,2000-11-12,Internacional,Flamengo,3,0,V,D,NORMAL,1F
+2000,2000-11-12,Bahia,Palmeiras,1,2,D,V,NORMAL,1F
+2000,2000-11-12,São Paulo,Corinthians,0,0,E,E,NORMAL,1F
+2000,2000-11-12,Vasco,Botafogo,1,2,D,V,NORMAL,1F
+2000,2000-11-12,Cruzeiro,Ponte Preta,2,2,E,E,NORMAL,1F
+2000,2000-11-12,Gama,Guarani,1,2,D,V,NORMAL,1F
+2000,2000-11-12,Remo,Paysandu,3,2,V,D,NORMAL,3/4
+2000,2000-11-13,Paraná,São Caetano,1,1,E,E,NORMAL,F
+2000,2000-11-13,Paulista,Malutrom,1,2,D,V,NORMAL,2
+2000,2000-11-14,Flamengo,Cruzeiro,1,2,D,V,NORMAL,1F
+2000,2000-11-15,Juventude,Bahia,0,0,E,E,NORMAL,1F
+2000,2000-11-16,Corinthians,Flamengo,1,4,D,V,NORMAL,1F
+2000,2000-11-16,Guarani,Santos,3,2,V,D,NORMAL,1F
+2000,2000-11-16,Grêmio,Vasco,0,1,D,V,NORMAL,1F
+2000,2000-11-16,Botafogo,Santa Cruz,1,2,D,V,NORMAL,1F
+2000,2000-11-16,Fluminense,Coritiba,2,0,V,D,NORMAL,1F
+2000,2000-11-16,Sport,América Mineiro,1,0,V,D,NORMAL,1F
+2000,2000-11-16,Athletico Paranaense,Internacional,2,1,V,D,NORMAL,1F
+2000,2000-11-16,Goiás,Ponte Preta,3,0,V,D,NORMAL,1F
+2000,2000-11-16,Vitória,Atlético Mineiro,2,0,V,D,NORMAL,1F
+2000,2000-11-16,Uberlândia,Malutrom,1,1,E,E,NORMAL,F
+2000,2000-11-17,São Caetano,Paraná,1,3,D,V,NORMAL,F
+2000,2000-11-18,Santa Cruz,Grêmio,0,3,D,V,NORMAL,1F
+2000,2000-11-18,Bahia,Goiás,0,1,D,V,NORMAL,1F
+2000,2000-11-18,Coritiba,Cruzeiro,1,1,E,E,NORMAL,1F
+2000,2000-11-18,Vasco,São Paulo,0,4,D,V,NORMAL,1F
+2000,2000-11-18,Ponte Preta,Fluminense,3,4,D,V,NORMAL,1F
+2000,2000-11-18,América Mineiro,Corinthians,2,1,V,D,NORMAL,1F
+2000,2000-11-19,Santos,Botafogo,4,1,V,D,NORMAL,1F
+2000,2000-11-19,Palmeiras,Guarani,2,0,V,D,NORMAL,1F
+2000,2000-11-19,Portuguesa,Athletico Paranaense,2,1,V,D,NORMAL,1F
+2000,2000-11-19,Flamengo,Vitória,3,2,V,D,NORMAL,1F
+2000,2000-11-19,Internacional,Juventude,2,1,V,D,NORMAL,1F
+2000,2000-11-19,Atlético Mineiro,Sport,0,6,D,V,NORMAL,1F
+2000,2000-11-19,Paysandu,Remo,1,1,E,E,NORMAL,3/4
+2000,2000-11-19,Malutrom,Uberlândia,3,2,V,D,NORMAL,F
+2000,2000-11-22,Paraná,Goiás,1,1,E,E,NORMAL,1/8
+2000,2000-11-22,Internacional,Athletico Paranaense,0,0,E,E,NORMAL,1/8
+2000,2000-11-22,Remo,Sport,1,2,D,V,NORMAL,1/8
+2000,2000-11-23,Malutrom,Cruzeiro,0,3,D,V,NORMAL,1/8
+2000,2000-11-23,São Caetano,Fluminense,3,3,E,E,NORMAL,1/8
+2000,2000-11-23,Grêmio,Ponte Preta,1,0,V,D,NORMAL,1/8
+2000,2000-11-25,Goiás,Paraná,0,3,D,V,NORMAL,1/8
+2000,2000-11-25,Athletico Paranaense,Internacional,1,2,D,V,NORMAL,1/8
+2000,2000-11-25,Bahia,Vasco,3,3,E,E,NORMAL,1/8
+2000,2000-11-25,Palmeiras,São Paulo,1,1,E,E,NORMAL,1/8
+2000,2000-11-26,Sport,Remo,1,0,V,D,NORMAL,1/8
+2000,2000-11-26,Cruzeiro,Malutrom,1,1,E,E,NORMAL,1/8
+2000,2000-11-26,Fluminense,São Caetano,0,1,D,V,NORMAL,1/8
+2000,2000-11-26,Ponte Preta,Grêmio,2,1,V,D,NORMAL,1/8
+2000,2000-11-28,Vasco,Bahia,3,2,V,D,NORMAL,1/8
+2000,2000-11-28,São Paulo,Palmeiras,1,2,D,V,NORMAL,1/8
+2000,2000-11-29,Internacional,Cruzeiro,1,1,E,E,NORMAL,QF
+2000,2000-11-30,Grêmio,Sport,2,1,V,D,NORMAL,QF
+2000,2000-12-02,Cruzeiro,Internacional,3,2,V,D,NORMAL,QF
+2000,2000-12-03,Sport,Grêmio,1,1,E,E,NORMAL,QF
+2000,2000-12-03,Vasco,Paraná,3,1,V,D,NORMAL,QF
+2000,2000-12-03,Palmeiras,São Caetano,3,4,D,V,NORMAL,QF
+2000,2000-12-09,Paraná,Vasco,1,0,V,D,NORMAL,QF
+2000,2000-12-09,São Caetano,Palmeiras,2,2,E,E,NORMAL,QF
+2000,2000-12-14,São Caetano,Grêmio,3,2,V,D,NORMAL,SF
+2000,2000-12-16,Vasco,Cruzeiro,2,2,E,E,NORMAL,SF
+2000,2000-12-17,Grêmio,São Caetano,1,3,D,V,NORMAL,SF
+2000,2000-12-23,Cruzeiro,Vasco,1,3,D,V,NORMAL,SF
+2000,2000-12-27,São Caetano,Vasco,1,1,E,E,NORMAL,F
+2000,2001-01-18,Vasco,São Caetano,3,1,V,D,NORMAL,F

@@ -1,0 +1,463 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2005-04-23,Paraná,0-2,Goiás,R1
+2005-04-23,Atlético Mineiro,4-1,Figueirense,R1
+2005-04-23,São Caetano,2-2,Palmeiras,R1
+2005-04-23,Flamengo,1-1,Cruzeiro,R1
+2005-04-24,Internacional,0-2,Botafogo,R1
+2005-04-24,Fortaleza,0-1,Coritiba,R1
+2005-04-24,Fluminense,2-1,São Paulo,R1
+2005-04-24,Corinthians,2-2,Juventude,R1
+2005-04-24,Santos,4-1,Paysandu,R1
+2005-04-24,Atlético Paranaense,0-1,Ponte Preta,R1
+2005-04-24,Brasiliense,0-1,Vasco,R1
+2005-04-30,Vasco,0-0,Fortaleza,R2
+2005-04-30,Palmeiras,2-1,Brasiliense,R2
+2005-04-30,Goiás,0-0,São Caetano,R2
+2005-04-30,São Paulo,1-1,Paraná,R2
+2005-04-30,Ponte Preta,3-3,Atlético Mineiro,R2
+2005-05-01,Juventude,1-0,Atlético Paranaense,R2
+2005-05-01,Figueirense,0-1,Flamengo,R2
+2005-05-01,Botafogo,3-1,Corinthians,R2
+2005-05-01,Cruzeiro,3-2,Internacional,R2
+2005-05-01,Paysandu,1-2,Fluminense,R2
+2005-05-01,Coritiba,2-3,Santos,R2
+2005-05-07,Paraná,2-2,Juventude,R3
+2005-05-07,Goiás,0-0,Figueirense,R3
+2005-05-07,Santos,2-1,Atlético Paranaense,R3
+2005-05-07,Ponte Preta,2-0,Paysandu,R3
+2005-05-08,Internacional,1-0,Flamengo,R3
+2005-05-08,Coritiba,1-0,Palmeiras,R3
+2005-05-08,Corinthians,1-5,São Paulo,R3
+2005-05-08,São Caetano,2-1,Fortaleza,R3
+2005-05-08,Fluminense,2-1,Cruzeiro,R3
+2005-05-08,Atlético Mineiro,0-1,Brasiliense,R3
+2005-05-14,Fortaleza,2-1,Ponte Preta,R4
+2005-05-14,São Paulo,1-0,Coritiba,R4
+2005-05-14,Figueirense,1-2,Internacional,R4
+2005-05-14,Botafogo,2-1,Atlético Mineiro,R4
+2005-05-15,Juventude,4-1,Vasco,R4
+2005-05-15,Paysandu,3-2,São Caetano,R4
+2005-05-15,Atlético Paranaense,1-2,Corinthians,R4
+2005-05-15,Cruzeiro,3-1,Goiás,R4
+2005-05-15,Flamengo,2-1,Santos,R4
+2005-05-15,Palmeiras,1-2,Paraná,R4
+2005-05-15,Brasiliense,0-3,Fluminense,R4
+2005-05-21,Juventude,2-0,Paysandu,R5
+2005-05-21,Paraná,1-1,Ponte Preta,R5
+2005-05-21,Fortaleza,2-0,Brasiliense,R5
+2005-05-21,Fluminense,2-4,Coritiba,R5
+2005-05-21,Goiás,4-0,Botafogo,R5
+2005-05-22,Santos,3-0,Atlético Mineiro,R5
+2005-05-22,São Caetano,1-0,Flamengo,R5
+2005-05-22,Vasco,3-1,São Paulo,R5
+2005-05-22,Atlético Paranaense,1-3,Internacional,R5
+2005-05-22,Cruzeiro,2-0,Palmeiras,R5
+2005-05-22,Corinthians,2-1,Figueirense,R5
+2005-05-28,Paysandu,1-0,Goiás,R6
+2005-05-28,São Paulo,1-1,Cruzeiro,R6
+2005-05-28,Figueirense,2-0,São Caetano,R6
+2005-05-29,Ponte Preta,4-2,Vasco,R6
+2005-05-29,Flamengo,0-0,Fluminense,R6
+2005-05-29,Atlético Mineiro,0-1,Corinthians,R6
+2005-05-29,Palmeiras,2-1,Santos,R6
+2005-05-29,Brasiliense,1-0,Paraná,R6
+2005-05-29,Internacional,1-0,Fortaleza,R6
+2005-05-29,Coritiba,1-2,Juventude,R6
+2005-05-29,Botafogo,2-0,Atlético Paranaense,R6
+2005-06-11,Paraná,3-0,Fortaleza,R7
+2005-06-11,São Caetano,2-0,Brasiliense,R7
+2005-06-11,Atlético Paranaense,0-0,Figueirense,R7
+2005-06-11,Cruzeiro,1-2,Ponte Preta,R7
+2005-06-11,Botafogo,3-2,Juventude,R7
+2005-06-11,Goiás,2-1,Palmeiras,R7
+2005-06-12,Santos,1-1,Fluminense,R7
+2005-06-12,Internacional,1-1,Atlético Mineiro,R7
+2005-06-12,Corinthians,4-2,Flamengo,R7
+2005-06-12,Paysandu,2-2,São Paulo,R7
+2005-06-12,Vasco,2-2,Coritiba,R7
+2005-06-18,Figueirense,3-3,Paysandu,R8
+2005-06-18,Palmeiras,5-2,Vasco,R8
+2005-06-18,Brasiliense,2-4,Corinthians,R8
+2005-06-18,Ponte Preta,2-0,Goiás,R8
+2005-06-18,Flamengo,1-1,Atlético Paranaense,R8
+2005-06-18,Atlético Mineiro,2-3,São Caetano,R8
+2005-06-19,São Paulo,1-0,Botafogo,R8
+2005-06-19,Juventude,0-0,Cruzeiro,R8
+2005-06-19,Fortaleza,0-0,Santos,R8
+2005-06-19,Coritiba,2-1,Paraná,R8
+2005-06-19,Fluminense,3-0,Internacional,R8
+2005-06-25,Juventude,1-3,Ponte Preta,R9
+2005-06-25,Paraná,1-0,Atlético Mineiro,R9
+2005-06-25,São Paulo,1-3,Internacional,R9
+2005-06-25,Flamengo,3-4,Brasiliense,R9
+2005-06-26,São Caetano,1-3,Santos,R9
+2005-06-26,Botafogo,0-1,Figueirense,R9
+2005-06-26,Corinthians,0-1,Fluminense,R9
+2005-06-26,Goiás,2-1,Coritiba,R9
+2005-06-26,Paysandu,2-1,Palmeiras,R9
+2005-06-26,Atlético Paranaense,0-0,Fortaleza,R9
+2005-06-26,Cruzeiro,3-3,Vasco,R9
+2005-07-02,Vasco,1-2,Goiás,R10
+2005-07-03,Figueirense,0-0,Cruzeiro,R10
+2005-07-03,Fortaleza,2-1,Corinthians,R10
+2005-07-03,Coritiba,3-1,Paysandu,R10
+2005-07-03,Fluminense,0-1,Paraná,R10
+2005-07-03,Atlético Mineiro,3-1,Flamengo,R10
+2005-07-03,Santos,0-0,Juventude,R10
+2005-07-03,Internacional,2-1,São Caetano,R10
+2005-07-03,Palmeiras,4-1,Botafogo,R10
+2005-07-03,Brasiliense,2-1,Atlético Paranaense,R10
+2005-07-09,Juventude,2-1,Brasiliense,R11
+2005-07-09,Paraná,3-0,Figueirense,R11
+2005-07-09,São Paulo,2-0,Flamengo,R11
+2005-07-09,São Caetano,2-1,Ponte Preta,R11
+2005-07-09,Paysandu,1-2,Fortaleza,R11
+2005-07-10,Botafogo,1-2,Fluminense,R11
+2005-07-10,Corinthians,3-1,Palmeiras,R11
+2005-07-10,Goiás,3-4,Santos,R11
+2005-07-10,Vasco,2-4,Internacional,R11
+2005-07-10,Atlético Paranaense,1-0,Coritiba,R11
+2005-07-10,Cruzeiro,2-1,Atlético Mineiro,R11
+2005-07-16,Ponte Preta,2-1,Figueirense,R12
+2005-07-16,Goiás,1-3,Brasiliense,R12
+2005-07-16,Paraná,2-3,Corinthians,R12
+2005-07-16,Fluminense,0-1,São Caetano,R12
+2005-07-17,Santos,2-1,São Paulo,R12
+2005-07-17,Flamengo,1-0,Vasco,R12
+2005-07-17,Coritiba,0-3,Botafogo,R12
+2005-07-17,Atlético Mineiro,2-3,Atlético Paranaense,R12
+2005-07-17,Internacional,5-2,Juventude,R12
+2005-07-17,Palmeiras,1-2,Fortaleza,R12
+2005-07-20,Internacional,2-3,Goiás,R13
+2005-07-20,São Caetano,1-1,Paraná,R13
+2005-07-20,Fortaleza,1-4,Atlético Mineiro,R13
+2005-07-20,Atlético Paranaense,3-2,Fluminense,R13
+2005-07-20,Botafogo,4-2,Ponte Preta,R13
+2005-07-20,Santos,2-3,Vasco,R13
+2005-07-20,Figueirense,1-4,Palmeiras,R13
+2005-07-20,Brasiliense,3-3,São Paulo,R13
+2005-07-21,Flamengo,3-4,Juventude,R13
+2005-07-21,Cruzeiro,2-2,Coritiba,R13
+2005-07-21,Corinthians,3-2,Paysandu,R13
+2005-07-23,Paraná,2-0,Atlético Paranaense,R14
+2005-07-23,Botafogo,1-1,Brasiliense,R14
+2005-07-23,Goiás,2-1,Fortaleza,R14
+2005-07-23,São Paulo,0-1,São Caetano,R14
+2005-07-24,Vasco,2-3,Corinthians,R14
+2005-07-24,Coritiba,3-2,Flamengo,R14
+2005-07-24,Palmeiras,1-0,Atlético Mineiro,R14
+2005-07-24,Ponte Preta,2-1,Fluminense,R14
+2005-07-24,Paysandu,1-2,Internacional,R14
+2005-07-24,Cruzeiro,3-2,Santos,R14
+2005-07-27,São Caetano,0-1,Botafogo,R15
+2005-07-27,Fortaleza,2-0,Juventude,R15
+2005-07-27,Fluminense,1-1,Goiás,R15
+2005-07-27,Corinthians,4-3,Cruzeiro,R15
+2005-07-27,Santos,0-1,Ponte Preta,R15
+2005-07-27,Atlético Paranaense,7-2,Vasco,R15
+2005-07-27,Atlético Mineiro,0-0,São Paulo,R15
+2005-07-28,Internacional,0-2,Paraná,R15
+2005-07-28,Figueirense,0-0,Coritiba,R15
+2005-07-28,Flamengo,0-0,Palmeiras,R15
+2005-07-28,Brasiliense,0-0,Paysandu,R15
+2005-07-30,Vasco,3-2,São Caetano,R16
+2005-07-30,Cruzeiro,3-0,Fortaleza,R16
+2005-07-30,Goiás,3-1,Atlético Mineiro,R16
+2005-07-31,Juventude,2-1,São Paulo,R16
+2005-07-31,Figueirense,1-1,Fluminense,R16
+2005-07-31,Ponte Preta,1-1,Internacional,R16
+2005-07-31,Paysandu,3-4,Paraná,R16
+2005-07-31,Coritiba,1-1,Brasiliense,R16
+2005-07-31,Botafogo,0-2,Flamengo,R16
+2005-07-31,Palmeiras,1-1,Atlético Paranaense,R16
+2005-08-03,São Caetano,1-1,Juventude,R17
+2005-08-03,Brasiliense,1-2,Cruzeiro,R17
+2005-08-03,Atlético Paranaense,1-0,Goiás,R17
+2005-08-03,Atlético Mineiro,2-2,Paysandu,R17
+2005-08-03,Corinthians,3-0,Coritiba,R17
+2005-08-03,Internacional,0-1,Santos,R17
+2005-08-03,Paraná,2-0,Botafogo,R17
+2005-08-03,Flamengo,1-0,Ponte Preta,R17
+2005-08-04,São Paulo,3-3,Palmeiras,R17
+2005-08-04,Fortaleza,5-2,Figueirense,R17
+2005-08-04,Fluminense,3-2,Vasco,R17
+2005-08-06,Atlético Paranaense,5-4,Cruzeiro,R18
+2005-08-06,Botafogo,2-0,Paysandu,R18
+2005-08-06,Corinthians,0-2,São Caetano,R18
+2005-08-07,Juventude,1-2,Palmeiras,R18
+2005-08-07,Paraná,1-1,Santos,R18
+2005-08-07,Fortaleza,2-1,Flamengo,R18
+2005-08-07,São Paulo,0-1,Goiás,R18
+2005-08-07,Ponte Preta,0-3,Coritiba,R18
+2005-08-07,Atlético Mineiro,1-2,Fluminense,R18
+2005-08-07,Brasiliense,0-0,Internacional,R18
+2005-08-10,São Caetano,3-2,Atlético Paranaense,R19
+2005-08-10,Paysandu,0-2,Vasco,R19
+2005-08-10,Coritiba,1-0,Atlético Mineiro,R19
+2005-08-10,Palmeiras,2-1,Ponte Preta,R19
+2005-08-10,Internacional,0-0,Corinthians,R19
+2005-08-10,Figueirense,3-1,São Paulo,R19
+2005-08-11,Santos,1-1,Brasiliense,R19
+2005-08-11,Flamengo,1-1,Paraná,R19
+2005-08-11,Fluminense,2-0,Fortaleza,R19
+2005-08-11,Goiás,1-0,Juventude,R19
+2005-08-13,Coritiba,2-2,São Caetano,R20
+2005-08-13,Palmeiras,3-2,Internacional,R20
+2005-08-13,Paysandu,2-1,Atlético Paranaense,R20
+2005-08-14,Figueirense,2-2,Brasiliense,R20
+2005-08-14,Ponte Preta,3-5,Corinthians,R20
+2005-08-14,Vasco,2-1,Atlético Mineiro,R20
+2005-08-14,Cruzeiro,0-1,Paraná,R20
+2005-08-14,Goiás,2-0,Flamengo,R20
+2005-08-14,São Paulo,3-2,Fortaleza,R20
+2005-08-14,Botafogo,3-3,Santos,R20
+2005-08-20,Atlético Mineiro,2-1,Juventude,R21
+2005-08-20,São Caetano,0-1,Cruzeiro,R21
+2005-08-20,Atlético Paranaense,4-2,São Paulo,R21
+2005-08-21,Paraná,0-0,Vasco,R21
+2005-08-21,Fluminense,2-2,Palmeiras,R21
+2005-08-21,Corinthians,1-1,Goiás,R21
+2005-08-21,Brasiliense,4-0,Ponte Preta,R21
+2005-08-21,Santos,4-3,Figueirense,R21
+2005-08-21,Fortaleza,3-1,Botafogo,R21
+2005-08-21,Flamengo,2-1,Paysandu,R21
+2005-08-24,Ponte Preta,0-2,Atlético Paranaense,R22
+2005-08-24,Palmeiras,2-1,São Caetano,R22
+2005-08-24,Vasco,1-0,Brasiliense,R22
+2005-08-24,Goiás,1-1,Paraná,R22
+2005-08-24,São Paulo,1-1,Fluminense,R22
+2005-08-24,Juventude,1-0,Corinthians,R22
+2005-08-24,Paysandu,2-3,Santos,R22
+2005-08-24,Cruzeiro,0-0,Flamengo,R22
+2005-08-25,Figueirense,0-1,Atlético Mineiro,R22
+2005-08-25,Coritiba,2-0,Fortaleza,R22
+2005-08-25,Botafogo,0-1,Internacional,R22
+2005-08-27,São Caetano,0-1,Goiás,R23
+2005-08-27,Atlético Paranaense,2-2,Juventude,R23
+2005-08-27,Brasiliense,3-2,Palmeiras,R23
+2005-08-28,Internacional,4-1,Cruzeiro,R23
+2005-08-28,Paraná,0-4,São Paulo,R23
+2005-08-28,Flamengo,2-2,Figueirense,R23
+2005-08-28,Atlético Mineiro,1-0,Ponte Preta,R23
+2005-08-28,Corinthians,3-3,Botafogo,R23
+2005-08-28,Santos,2-0,Coritiba,R23
+2005-08-28,Fortaleza,4-2,Vasco,R23
+2005-08-28,Fluminense,5-2,Paysandu,R23
+2005-09-07,Figueirense,3-0,Goiás,R24
+2005-09-07,Fortaleza,5-2,São Caetano,R24
+2005-09-07,Botafogo,2-2,Vasco,R24
+2005-09-07,Brasiliense,1-2,Atlético Mineiro,R24
+2005-09-07,Juventude,2-0,Paraná,R24
+2005-09-07,Paysandu,2-2,Ponte Preta,R24
+2005-09-07,Atlético Paranaense,3-3,Santos,R24
+2005-09-07,Cruzeiro,2-6,Fluminense,R24
+2005-09-08,Flamengo,1-1,Internacional,R24
+2005-09-08,Palmeiras,1-1,Coritiba,R24
+2005-09-10,São Caetano,1-2,Paysandu,R25
+2005-09-10,Goiás,1-0,Cruzeiro,R25
+2005-09-11,Santos,0-0,Flamengo,R25
+2005-09-11,Internacional,3-0,Figueirense,R25
+2005-09-11,Paraná,1-3,Palmeiras,R25
+2005-09-11,Vasco,5-2,Juventude,R25
+2005-09-11,Corinthians,2-0,Atlético Paranaense,R25
+2005-09-11,Ponte Preta,2-1,Fortaleza,R25
+2005-09-11,Coritiba,1-4,São Paulo,R25
+2005-09-11,Atlético Mineiro,0-2,Botafogo,R25
+2005-09-17,Ponte Preta,1-0,Paraná,R26
+2005-09-17,Paysandu,3-0,Juventude,R26
+2005-09-17,Flamengo,2-0,São Caetano,R26
+2005-09-17,Palmeiras,2-1,Cruzeiro,R26
+2005-09-18,São Paulo,4-2,Vasco,R26
+2005-09-18,Internacional,3-2,Atlético Paranaense,R26
+2005-09-18,Figueirense,2-3,Corinthians,R26
+2005-09-18,Botafogo,3-1,Goiás,R26
+2005-09-18,Brasiliense,0-2,Fortaleza,R26
+2005-09-18,Coritiba,0-0,Fluminense,R26
+2005-09-18,Atlético Mineiro,3-0,Santos,R26
+2005-09-21,São Caetano,0-1,Figueirense,R27
+2005-09-21,Fortaleza,1-2,Internacional,R27
+2005-09-21,Paraná,4-1,Brasiliense,R27
+2005-09-21,Goiás,4-1,Paysandu,R27
+2005-09-21,Santos,2-1,Palmeiras,R27
+2005-09-21,Fluminense,2-2,Flamengo,R27
+2005-09-21,Cruzeiro,2-3,São Paulo,R27
+2005-09-22,Juventude,0-0,Coritiba,R27
+2005-09-22,Vasco,0-0,Ponte Preta,R27
+2005-09-22,Atlético Paranaense,2-0,Botafogo,R27
+2005-09-22,Corinthians,1-1,Atlético Mineiro,R27
+2005-09-24,São Paulo,4-1,Paysandu,R28
+2005-09-24,Brasiliense,1-1,São Caetano,R28
+2005-09-24,Fortaleza,2-2,Paraná,R28
+2005-09-25,Juventude,0-0,Botafogo,R28
+2005-09-25,Figueirense,2-0,Atlético Paranaense,R28
+2005-09-25,Ponte Preta,2-3,Cruzeiro,R28
+2005-09-25,Flamengo,1-3,Corinthians,R28
+2005-09-25,Coritiba,2-0,Vasco,R28
+2005-09-25,Fluminense,4-3,Santos,R28
+2005-09-25,Atlético Mineiro,1-1,Internacional,R28
+2005-09-25,Palmeiras,3-1,Goiás,R28
+2005-10-01,Paraná,3-2,Coritiba,R29
+2005-10-01,Cruzeiro,2-0,Juventude,R29
+2005-10-01,Goiás,4-1,Ponte Preta,R29
+2005-10-01,Paysandu,3-1,Figueirense,R29
+2005-10-01,Santos,0-0,Fortaleza,R29
+2005-10-01,São Caetano,3-1,Atlético Mineiro,R29
+2005-10-02,Internacional,2-2,Fluminense,R29
+2005-10-02,Vasco,0-0,Palmeiras,R29
+2005-10-02,Corinthians,3-2,Brasiliense,R29
+2005-10-02,Atlético Paranaense,2-0,Flamengo,R29
+2005-10-02,Botafogo,1-1,São Paulo,R29
+2005-10-04,Santos,2-0,São Caetano,R30
+2005-10-04,Ponte Preta,3-2,Juventude,R30
+2005-10-04,Coritiba,0-2,Goiás,R30
+2005-10-04,Atlético Mineiro,0-1,Paraná,R30
+2005-10-05,Figueirense,1-0,Botafogo,R30
+2005-10-05,Fortaleza,1-4,Atlético Paranaense,R30
+2005-10-05,Vasco,3-3,Cruzeiro,R30
+2005-10-05,Palmeiras,5-3,Paysandu,R30
+2005-10-05,Internacional,3-0,São Paulo,R30
+2005-10-05,Fluminense,0-2,Corinthians,R30
+2005-10-05,Brasiliense,2-3,Flamengo,R30
+2005-10-08,Paraná,6-1,Fluminense,R31
+2005-10-08,Botafogo,1-2,Palmeiras,R31
+2005-10-08,Corinthians,3-0,Fortaleza,R31
+2005-10-08,Juventude,3-1,Santos,R31
+2005-10-08,Cruzeiro,4-0,Figueirense,R31
+2005-10-08,Goiás,4-3,Vasco,R31
+2005-10-11,São Paulo,3-2,Ponte Preta,R31
+2005-10-11,São Caetano,1-1,Internacional,R31
+2005-10-11,Paysandu,2-1,Coritiba,R31
+2005-10-11,Flamengo,1-2,Atlético Mineiro,R31
+2005-10-11,Atlético Paranaense,4-0,Brasiliense,R31
+2005-10-12,Vasco,3-3,Figueirense,R18
+2005-10-12,Cruzeiro,2-2,Botafogo,R19
+2005-10-12,Juventude,3-4,Fluminense,R20
+2005-10-13,Santos,2-3,Corinthians,R16
+2005-10-15,Fortaleza,1-2,Paysandu,R32
+2005-10-15,Fluminense,3-2,Botafogo,R32
+2005-10-15,Brasiliense,1-0,Juventude,R32
+2005-10-15,Figueirense,2-0,Paraná,R32
+2005-10-15,Coritiba,1-2,Atlético Paranaense,R32
+2005-10-16,Internacional,3-1,Vasco,R32
+2005-10-16,Flamengo,1-6,São Paulo,R32
+2005-10-16,Atlético Mineiro,0-1,Cruzeiro,R32
+2005-10-16,Palmeiras,1-1,Corinthians,R32
+2005-10-16,Santos,1-1,Goiás,R32
+2005-10-16,Ponte Preta,1-2,São Caetano,R32
+2005-10-19,Vasco,1-0,Botafogo,R3
+2005-10-19,Juventude,2-2,Figueirense,R14
+2005-10-19,Ponte Preta,2-0,São Paulo,R10
+2005-10-19,Paysandu,4-1,Cruzeiro,R12
+2005-10-21,São Caetano,2-2,Fluminense,R33
+2005-10-21,Brasiliense,1-2,Goiás,R33
+2005-10-22,Fortaleza,1-1,Palmeiras,R33
+2005-10-22,Vasco,2-1,Flamengo,R33
+2005-10-22,Atlético Paranaense,2-0,Atlético Mineiro,R33
+2005-10-22,Corinthians,1-0,Paraná,R33
+2005-10-22,Juventude,2-1,Internacional,R33
+2005-10-22,Figueirense,4-0,Ponte Preta,R33
+2005-10-22,Cruzeiro,4-3,Paysandu,R33
+2005-10-22,São Paulo,1-2,Santos,R33
+2005-10-22,Botafogo,2-0,Coritiba,R33
+2005-10-24,São Paulo,1-1,Corinthians,R24
+2005-10-24,Fluminense,1-1,Brasiliense,R25
+2005-10-25,Coritiba,0-3,Cruzeiro,R34
+2005-10-25,Goiás,0-1,Internacional,R34
+2005-10-26,Atlético Mineiro,2-3,Fortaleza,R34
+2005-10-26,Palmeiras,2-2,Figueirense,R34
+2005-10-26,Juventude,2-2,Flamengo,R34
+2005-10-26,Vasco,1-3,Santos,R34
+2005-10-27,São Paulo,1-2,Brasiliense,R34
+2005-10-27,Ponte Preta,0-1,Botafogo,R34
+2005-10-27,Paysandu,0-2,Corinthians,R34
+2005-10-27,Fluminense,4-1,Atlético Paranaense,R34
+2005-10-28,Paraná,1-3,São Caetano,R34
+2005-10-28,Internacional,3-2,Coritiba,R21
+2005-10-29,Figueirense,4-3,Juventude,R35
+2005-10-29,Fortaleza,1-1,Goiás,R35
+2005-10-30,Santos,1-2,Cruzeiro,R35
+2005-10-30,Atlético Paranaense,2-1,Paraná,R35
+2005-10-30,Atlético Mineiro,1-3,Palmeiras,R35
+2005-10-30,Corinthians,1-1,Vasco,R35
+2005-10-30,São Caetano,0-1,São Paulo,R35
+2005-10-30,Fluminense,4-3,Ponte Preta,R35
+2005-10-30,Brasiliense,0-0,Botafogo,R35
+2005-10-31,Internacional,1-0,Paysandu,R35
+2005-10-31,Flamengo,2-1,Coritiba,R35
+2005-11-02,São Paulo,2-2,Atlético Mineiro,R36
+2005-11-02,Juventude,2-0,Fortaleza,R36
+2005-11-02,Ponte Preta,2-1,Santos,R36
+2005-11-02,Cruzeiro,2-1,Corinthians,R36
+2005-11-02,Goiás,1-2,Fluminense,R36
+2005-11-03,Coritiba,4-1,Figueirense,R36
+2005-11-03,Paraná,3-1,Internacional,R36
+2005-11-03,Vasco,2-1,Atlético Paranaense,R36
+2005-11-03,Botafogo,1-0,São Caetano,R36
+2005-11-03,Palmeiras,0-1,Flamengo,R36
+2005-11-03,Paysandu,2-1,Brasiliense,R36
+2005-11-05,São Paulo,3-1,Juventude,R37
+2005-11-05,Fortaleza,3-1,Cruzeiro,R37
+2005-11-06,Internacional,2-1,Ponte Preta,R37
+2005-11-06,Paraná,2-0,Paysandu,R37
+2005-11-06,São Caetano,1-2,Vasco,R37
+2005-11-06,Flamengo,3-1,Botafogo,R37
+2005-11-06,Corinthians,7-1,Santos,R37
+2005-11-06,Atlético Paranaense,4-0,Palmeiras,R37
+2005-11-06,Fluminense,2-0,Figueirense,R37
+2005-11-06,Atlético Mineiro,1-2,Goiás,R37
+2005-11-06,Brasiliense,1-1,Coritiba,R37
+2005-11-12,Figueirense,1-0,Fortaleza,R38
+2005-11-12,Paysandu,0-2,Atlético Mineiro,R38
+2005-11-12,Botafogo,2-0,Paraná,R38
+2005-11-12,Palmeiras,2-1,São Paulo,R38
+2005-11-13,Ponte Preta,2-2,Flamengo,R38
+2005-11-13,Coritiba,0-1,Corinthians,R38
+2005-11-13,Goiás,4-2,Atlético Paranaense,R38
+2005-11-13,Santos,0-4,Internacional,R38
+2005-11-13,Juventude,3-1,São Caetano,R38
+2005-11-13,Vasco,2-0,Fluminense,R38
+2005-11-13,Cruzeiro,1-0,Brasiliense,R38
+2005-11-16,Flamengo,3-0,Fortaleza,R39
+2005-11-16,Palmeiras,3-2,Juventude,R39
+2005-11-16,Internacional,1-0,Brasiliense,R39
+2005-11-16,Goiás,3-0,São Paulo,R39
+2005-11-16,Santos,0-0,Paraná,R39
+2005-11-16,Figueirense,5-1,Vasco,R39
+2005-11-16,São Caetano,1-0,Corinthians,R39
+2005-11-17,Coritiba,2-1,Ponte Preta,R39
+2005-11-17,Fluminense,0-2,Atlético Mineiro,R39
+2005-11-17,Cruzeiro,1-2,Atlético Paranaense,R39
+2005-11-17,Paysandu,2-0,Botafogo,R39
+2005-11-19,São Paulo,4-2,Figueirense,R40
+2005-11-19,Juventude,2-1,Goiás,R40
+2005-11-19,Brasiliense,1-0,Santos,R40
+2005-11-20,Paraná,0-1,Flamengo,R40
+2005-11-20,Vasco,4-0,Paysandu,R40
+2005-11-20,Atlético Paranaense,2-2,São Caetano,R40
+2005-11-20,Atlético Mineiro,1-0,Coritiba,R40
+2005-11-20,Corinthians,1-1,Internacional,R40
+2005-11-20,Ponte Preta,2-6,Palmeiras,R40
+2005-11-20,Fortaleza,5-1,Fluminense,R40
+2005-11-20,Botafogo,2-1,Cruzeiro,R40
+2005-11-27,Santos,2-1,Botafogo,R41
+2005-11-27,Internacional,2-1,Palmeiras,R41
+2005-11-27,Paraná,2-0,Cruzeiro,R41
+2005-11-27,São Caetano,1-1,Coritiba,R41
+2005-11-27,Fortaleza,1-0,São Paulo,R41
+2005-11-27,Flamengo,0-0,Goiás,R41
+2005-11-27,Atlético Paranaense,3-2,Paysandu,R41
+2005-11-27,Fluminense,1-2,Juventude,R41
+2005-11-27,Atlético Mineiro,0-0,Vasco,R41
+2005-11-27,Corinthians,3-1,Ponte Preta,R41
+2005-11-27,Brasiliense,0-2,Figueirense,R41
+2005-12-04,São Paulo,3-1,Atlético Paranaense,R42
+2005-12-04,Juventude,1-3,Atlético Mineiro,R42
+2005-12-04,Figueirense,3-1,Santos,R42
+2005-12-04,Ponte Preta,3-1,Brasiliense,R42
+2005-12-04,Paysandu,1-4,Flamengo,R42
+2005-12-04,Vasco,3-1,Paraná,R42
+2005-12-04,Coritiba,1-0,Internacional,R42
+2005-12-04,Botafogo,2-0,Fortaleza,R42
+2005-12-04,Cruzeiro,1-3,São Caetano,R42
+2005-12-04,Palmeiras,3-2,Fluminense,R42
+2005-12-04,Goiás,3-2,Corinthians,R42

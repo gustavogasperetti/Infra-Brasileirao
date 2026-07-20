@@ -1,0 +1,352 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1997,1997-07-05,América-RN,Criciúma,1,1,E,E,NORMAL,1F
+1997,1997-07-05,Grêmio,São Paulo,0,0,E,E,NORMAL,1F
+1997,1997-07-05,Palmeiras,Fluminense,4,1,V,D,NORMAL,1F
+1997,1997-07-05,Cruzeiro,Guarani,3,1,V,D,NORMAL,1F
+1997,1997-07-06,Paraná,Sport,2,1,V,D,NORMAL,1F
+1997,1997-07-06,Portuguesa,Coritiba,1,0,V,D,NORMAL,1F
+1997,1997-07-06,Red Bull Bragantino,Bahia,3,1,V,D,NORMAL,1F
+1997,1997-07-06,Athletico Paranaense,União São João,2,0,V,D,NORMAL,1F
+1997,1997-07-06,Juventude,Goiás,0,0,E,E,NORMAL,1F
+1997,1997-07-06,Corinthians,Internacional,1,3,D,V,NORMAL,1F
+1997,1997-07-06,Flamengo,Santos,2,3,D,V,NORMAL,1F
+1997,1997-07-09,Criciúma,Corinthians,1,1,E,E,NORMAL,1F
+1997,1997-07-09,Fluminense,Cruzeiro,1,1,E,E,NORMAL,1F
+1997,1997-07-09,Guarani,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1997,1997-07-09,União São João,Paraná,0,2,D,V,NORMAL,1F
+1997,1997-07-09,Coritiba,Vitória,1,1,E,E,NORMAL,1F
+1997,1997-07-09,Sport,América-RN,1,1,E,E,NORMAL,1F
+1997,1997-07-09,Internacional,Portuguesa,2,1,V,D,NORMAL,1F
+1997,1997-07-09,Goiás,Grêmio,6,0,V,D,NORMAL,1F
+1997,1997-07-09,Bahia,Flamengo,1,0,V,D,NORMAL,1F
+1997,1997-07-10,São Paulo,Red Bull Bragantino,1,1,E,E,NORMAL,1F
+1997,1997-07-10,Atlético Mineiro,Palmeiras,0,1,D,V,NORMAL,1F
+1997,1997-07-12,Coritiba,Sport,2,0,V,D,NORMAL,1F
+1997,1997-07-12,Goiás,Botafogo,0,0,E,E,NORMAL,1F
+1997,1997-07-12,Paraná,Santos,2,0,V,D,NORMAL,1F
+1997,1997-07-13,Flamengo,Criciúma,2,0,V,D,NORMAL,1F
+1997,1997-07-13,Red Bull Bragantino,Fluminense,3,1,V,D,NORMAL,1F
+1997,1997-07-13,Corinthians,Juventude,1,0,V,D,NORMAL,1F
+1997,1997-07-13,Vitória,Portuguesa,4,4,E,E,NORMAL,1F
+1997,1997-07-13,Grêmio,União São João,1,1,E,E,NORMAL,1F
+1997,1997-07-13,Athletico Paranaense,Atlético Mineiro,4,2,V,D,NORMAL,1F
+1997,1997-07-13,América-RN,Bahia,1,1,E,E,NORMAL,1F
+1997,1997-07-13,Palmeiras,Guarani,1,1,E,E,NORMAL,1F
+1997,1997-07-13,Cruzeiro,Internacional,0,0,E,E,NORMAL,1F
+1997,1997-07-15,Juventude,Palmeiras,2,1,V,D,NORMAL,1F
+1997,1997-07-15,Cruzeiro,São Paulo,0,5,D,V,NORMAL,1F
+1997,1997-07-16,Fluminense,Vitória,0,0,E,E,NORMAL,1F
+1997,1997-07-16,Paraná,Red Bull Bragantino,4,0,V,D,NORMAL,1F
+1997,1997-07-16,Bahia,Coritiba,1,1,E,E,NORMAL,1F
+1997,1997-07-16,Criciúma,Guarani,1,3,D,V,NORMAL,1F
+1997,1997-07-16,América-RN,União São João,3,1,V,D,NORMAL,1F
+1997,1997-07-16,Sport,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1997,1997-07-16,Corinthians,Vasco,2,1,V,D,NORMAL,1F
+1997,1997-07-16,Portuguesa,Grêmio,3,0,V,D,NORMAL,1F
+1997,1997-07-16,Goiás,Flamengo,1,4,D,V,NORMAL,1F
+1997,1997-07-17,Botafogo,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1997,1997-07-17,Internacional,Santos,2,0,V,D,NORMAL,1F
+1997,1997-07-19,Guarani,Corinthians,2,2,E,E,NORMAL,1F
+1997,1997-07-19,Portuguesa,Flamengo,3,0,V,D,NORMAL,1F
+1997,1997-07-19,Athletico Paranaense,Bahia,4,3,V,D,NORMAL,1F
+1997,1997-07-19,Palmeiras,América-RN,4,0,V,D,NORMAL,1F
+1997,1997-07-20,São Paulo,Fluminense,2,1,V,D,NORMAL,1F
+1997,1997-07-20,Coritiba,Botafogo,3,3,E,E,NORMAL,1F
+1997,1997-07-20,Red Bull Bragantino,Criciúma,1,0,V,D,NORMAL,1F
+1997,1997-07-20,Vitória,Sport,3,1,V,D,NORMAL,1F
+1997,1997-07-20,Vasco,Juventude,3,3,E,E,NORMAL,1F
+1997,1997-07-20,Santos,Goiás,3,0,V,D,NORMAL,1F
+1997,1997-07-20,União São João,Internacional,2,2,E,E,NORMAL,1F
+1997,1997-07-20,Atlético Mineiro,Cruzeiro,2,1,V,D,NORMAL,1F
+1997,1997-07-20,Grêmio,Paraná,1,1,E,E,NORMAL,1F
+1997,1997-07-22,Corinthians,União São João,1,0,V,D,NORMAL,1F
+1997,1997-07-22,Vasco,Goiás,2,0,V,D,NORMAL,1F
+1997,1997-07-23,Botafogo,Juventude,0,2,D,V,NORMAL,1F
+1997,1997-07-23,Vasco,São Paulo,2,1,V,D,NORMAL,1F
+1997,1997-07-23,Santos,Grêmio,3,0,V,D,NORMAL,1F
+1997,1997-07-26,América-RN,Botafogo,0,0,E,E,NORMAL,1F
+1997,1997-07-26,Sport,Santos,1,1,E,E,NORMAL,1F
+1997,1997-07-27,Fluminense,Coritiba,1,1,E,E,NORMAL,1F
+1997,1997-07-27,Paraná,Portuguesa,0,1,D,V,NORMAL,1F
+1997,1997-07-27,Guarani,Red Bull Bragantino,2,1,V,D,NORMAL,1F
+1997,1997-07-27,Bahia,Vitória,3,3,E,E,NORMAL,1F
+1997,1997-07-27,Flamengo,Vasco,0,1,D,V,NORMAL,1F
+1997,1997-07-27,Goiás,Atlético Mineiro,1,2,D,V,NORMAL,1F
+1997,1997-07-27,Juventude,Grêmio,0,1,D,V,NORMAL,1F
+1997,1997-07-27,Cruzeiro,Athletico Paranaense,0,0,E,E,NORMAL,1F
+1997,1997-07-30,Criciúma,São Paulo,2,1,V,D,NORMAL,1F
+1997,1997-07-30,Sport,Flamengo,1,0,V,D,NORMAL,1F
+1997,1997-07-30,Corinthians,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1997,1997-08-02,Palmeiras,Botafogo,3,1,V,D,NORMAL,1F
+1997,1997-08-02,União São João,Juventude,1,0,V,D,NORMAL,1F
+1997,1997-08-03,Red Bull Bragantino,Goiás,0,1,D,V,NORMAL,1F
+1997,1997-08-03,Athletico Paranaense,Paraná,2,4,D,V,NORMAL,1F
+1997,1997-08-03,Guarani,América-RN,1,2,D,V,NORMAL,1F
+1997,1997-08-03,Vitória,Criciúma,1,0,V,D,NORMAL,1F
+1997,1997-08-03,Vasco,Fluminense,3,1,V,D,NORMAL,1F
+1997,1997-08-03,São Paulo,Internacional,1,1,E,E,NORMAL,1F
+1997,1997-08-04,Grêmio,Sport,2,1,V,D,NORMAL,1F
+1997,1997-08-06,Portuguesa,Bahia,3,2,V,D,NORMAL,1F
+1997,1997-08-06,Vitória,Palmeiras,1,2,D,V,NORMAL,1F
+1997,1997-08-09,Botafogo,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1997,1997-08-09,Paraná,Palmeiras,1,1,E,E,NORMAL,1F
+1997,1997-08-09,Internacional,Vitória,3,1,V,D,NORMAL,1F
+1997,1997-08-09,América-RN,Grêmio,3,3,E,E,NORMAL,1F
+1997,1997-08-10,Fluminense,Portuguesa,1,1,E,E,NORMAL,1F
+1997,1997-08-10,Goiás,São Paulo,1,2,D,V,NORMAL,1F
+1997,1997-08-10,Bahia,Guarani,1,1,E,E,NORMAL,1F
+1997,1997-08-10,Criciúma,União São João,0,0,E,E,NORMAL,1F
+1997,1997-08-10,Juventude,Coritiba,1,0,V,D,NORMAL,1F
+1997,1997-08-10,Red Bull Bragantino,Santos,2,1,V,D,NORMAL,1F
+1997,1997-08-12,Atlético Mineiro,Flamengo,2,4,D,V,NORMAL,1F
+1997,1997-08-13,Criciúma,Botafogo,1,0,V,D,NORMAL,1F
+1997,1997-08-13,Internacional,Palmeiras,2,1,V,D,NORMAL,1F
+1997,1997-08-16,Athletico Paranaense,Goiás,2,1,V,D,NORMAL,1F
+1997,1997-08-16,Coritiba,Corinthians,2,0,V,D,NORMAL,1F
+1997,1997-08-16,União São João,Sport,1,1,E,E,NORMAL,1F
+1997,1997-08-17,Bahia,São Paulo,3,1,V,D,NORMAL,1F
+1997,1997-08-17,Portuguesa,América-RN,3,0,V,D,NORMAL,1F
+1997,1997-08-17,Guarani,Paraná,1,2,D,V,NORMAL,1F
+1997,1997-08-17,Internacional,Fluminense,4,1,V,D,NORMAL,1F
+1997,1997-08-17,Vasco,Red Bull Bragantino,3,0,V,D,NORMAL,1F
+1997,1997-08-17,Palmeiras,Cruzeiro,4,0,V,D,NORMAL,1F
+1997,1997-08-17,Atlético Mineiro,Juventude,2,1,V,D,NORMAL,1F
+1997,1997-08-19,Corinthians,Athletico Paranaense,1,2,D,V,NORMAL,1F
+1997,1997-08-20,Botafogo,União São João,1,1,E,E,NORMAL,1F
+1997,1997-08-20,Fluminense,Guarani,3,1,V,D,NORMAL,1F
+1997,1997-08-20,São Paulo,Atlético Mineiro,0,2,D,V,NORMAL,1F
+1997,1997-08-20,Red Bull Bragantino,Portuguesa,1,1,E,E,NORMAL,1F
+1997,1997-08-20,Sport,Bahia,2,0,V,D,NORMAL,1F
+1997,1997-08-20,Goiás,Paraná,1,0,V,D,NORMAL,1F
+1997,1997-08-20,América-RN,Vasco,0,0,E,E,NORMAL,1F
+1997,1997-08-20,Juventude,Santos,1,1,E,E,NORMAL,1F
+1997,1997-08-20,Internacional,Coritiba,2,0,V,D,NORMAL,1F
+1997,1997-08-20,Cruzeiro,Criciúma,4,3,V,D,NORMAL,1F
+1997,1997-08-23,Bahia,Fluminense,3,3,E,E,NORMAL,1F
+1997,1997-08-23,Athletico Paranaense,São Paulo,1,1,E,E,NORMAL,1F
+1997,1997-08-24,Coritiba,Red Bull Bragantino,4,2,V,D,NORMAL,1F
+1997,1997-08-24,Criciúma,Paraná,1,0,V,D,NORMAL,1F
+1997,1997-08-24,Grêmio,Internacional,2,5,D,V,NORMAL,1F
+1997,1997-08-24,Juventude,Vitória,1,0,V,D,NORMAL,1F
+1997,1997-08-24,Atlético Mineiro,Sport,1,1,E,E,NORMAL,1F
+1997,1997-08-24,Santos,Vasco,3,1,V,D,NORMAL,1F
+1997,1997-08-27,Botafogo,Guarani,1,1,E,E,NORMAL,1F
+1997,1997-08-27,Paraná,Fluminense,0,0,E,E,NORMAL,1F
+1997,1997-08-30,Sport,Vasco,2,3,D,V,NORMAL,1F
+1997,1997-08-30,Palmeiras,Criciúma,0,1,D,V,NORMAL,1F
+1997,1997-08-30,Fluminense,Santos,1,0,V,D,NORMAL,1F
+1997,1997-08-31,Flamengo,Botafogo,0,0,E,E,NORMAL,1F
+1997,1997-08-31,Red Bull Bragantino,Athletico Paranaense,3,2,V,D,NORMAL,1F
+1997,1997-08-31,União São João,Coritiba,0,1,D,V,NORMAL,1F
+1997,1997-08-31,América-RN,Goiás,1,0,V,D,NORMAL,1F
+1997,1997-08-31,Portuguesa,Guarani,5,0,V,D,NORMAL,1F
+1997,1997-08-31,Corinthians,São Paulo,0,1,D,V,NORMAL,1F
+1997,1997-08-31,Internacional,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1997,1997-08-31,Vitória,Grêmio,1,1,E,E,NORMAL,1F
+1997,1997-08-31,Cruzeiro,Bahia,3,1,V,D,NORMAL,1F
+1997,1997-08-31,Paraná,Juventude,1,2,D,V,NORMAL,1F
+1997,1997-09-03,Athletico Paranaense,Fluminense,0,0,E,E,NORMAL,1F
+1997,1997-09-03,União São João,Palmeiras,0,0,E,E,NORMAL,1F
+1997,1997-09-03,Goiás,Coritiba,1,0,V,D,NORMAL,1F
+1997,1997-09-06,Grêmio,Vasco,3,1,V,D,NORMAL,1F
+1997,1997-09-06,União São João,Portuguesa,0,1,D,V,NORMAL,1F
+1997,1997-09-06,Bahia,Corinthians,1,2,D,V,NORMAL,1F
+1997,1997-09-06,Atlético Mineiro,Red Bull Bragantino,2,1,V,D,NORMAL,1F
+1997,1997-09-06,Botafogo,Internacional,0,2,D,V,NORMAL,1F
+1997,1997-09-07,Guarani,Vitória,3,3,E,E,NORMAL,1F
+1997,1997-09-07,Paraná,Coritiba,1,1,E,E,NORMAL,1F
+1997,1997-09-07,Sport,Goiás,1,0,V,D,NORMAL,1F
+1997,1997-09-07,Flamengo,Cruzeiro,2,0,V,D,NORMAL,1F
+1997,1997-09-07,Juventude,América-RN,3,1,V,D,NORMAL,1F
+1997,1997-09-07,Santos,Criciúma,2,0,V,D,NORMAL,1F
+1997,1997-09-07,São Paulo,Palmeiras,0,2,D,V,NORMAL,1F
+1997,1997-09-11,Fluminense,Flamengo,1,2,D,V,NORMAL,1F
+1997,1997-09-11,Vasco,União São João,6,0,V,D,NORMAL,1F
+1997,1997-09-11,Portuguesa,São Paulo,2,1,V,D,NORMAL,1F
+1997,1997-09-11,Goiás,Guarani,2,1,V,D,NORMAL,1F
+1997,1997-09-11,Bahia,Paraná,2,1,V,D,NORMAL,1F
+1997,1997-09-11,Criciúma,Sport,2,0,V,D,NORMAL,1F
+1997,1997-09-11,Corinthians,Vitória,3,1,V,D,NORMAL,1F
+1997,1997-09-11,Atlético Mineiro,Santos,2,1,V,D,NORMAL,1F
+1997,1997-09-11,Coritiba,Grêmio,3,3,E,E,NORMAL,1F
+1997,1997-09-11,Internacional,Juventude,0,1,D,V,NORMAL,1F
+1997,1997-09-11,América-RN,Cruzeiro,2,1,V,D,NORMAL,1F
+1997,1997-09-13,São Paulo,Botafogo,2,2,E,E,NORMAL,1F
+1997,1997-09-13,Red Bull Bragantino,Palmeiras,2,1,V,D,NORMAL,1F
+1997,1997-09-14,Portuguesa,Corinthians,2,1,V,D,NORMAL,1F
+1997,1997-09-14,Vitória,Vasco,4,2,V,D,NORMAL,1F
+1997,1997-09-14,Flamengo,América-RN,4,2,V,D,NORMAL,1F
+1997,1997-09-14,Goiás,Criciúma,3,2,V,D,NORMAL,1F
+1997,1997-09-14,Grêmio,Bahia,2,2,E,E,NORMAL,1F
+1997,1997-09-14,Cruzeiro,Paraná,4,0,V,D,NORMAL,1F
+1997,1997-09-14,Athletico Paranaense,Juventude,3,1,V,D,NORMAL,1F
+1997,1997-09-14,Sport,Internacional,2,0,V,D,NORMAL,1F
+1997,1997-09-14,Santos,Coritiba,2,1,V,D,NORMAL,1F
+1997,1997-09-14,Guarani,Atlético Mineiro,1,3,D,V,NORMAL,1F
+1997,1997-09-17,Guarani,Flamengo,1,1,E,E,NORMAL,1F
+1997,1997-09-17,Sport,Portuguesa,1,2,D,V,NORMAL,1F
+1997,1997-09-17,Vitória,Red Bull Bragantino,2,0,V,D,NORMAL,1F
+1997,1997-09-17,Paraná,América-RN,0,0,E,E,NORMAL,1F
+1997,1997-09-17,Santos,São Paulo,2,1,V,D,NORMAL,1F
+1997,1997-09-17,Vasco,Internacional,2,1,V,D,NORMAL,1F
+1997,1997-09-17,Cruzeiro,União São João,0,1,D,V,NORMAL,1F
+1997,1997-09-17,Grêmio,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1997,1997-09-17,Criciúma,Juventude,1,1,E,E,NORMAL,1F
+1997,1997-09-18,Palmeiras,Bahia,1,1,E,E,NORMAL,1F
+1997,1997-09-18,Juventude,Cruzeiro,0,0,E,E,NORMAL,1F
+1997,1997-09-18,Atlético Mineiro,Fluminense,1,0,V,D,NORMAL,1F
+1997,1997-09-20,Vasco,Paraná,4,1,V,D,NORMAL,1F
+1997,1997-09-20,Grêmio,Corinthians,2,0,V,D,NORMAL,1F
+1997,1997-09-20,Coritiba,Criciúma,3,2,V,D,NORMAL,1F
+1997,1997-09-20,São Paulo,Vitória,3,1,V,D,NORMAL,1F
+1997,1997-09-21,Flamengo,Red Bull Bragantino,0,0,E,E,NORMAL,1F
+1997,1997-09-21,Fluminense,Sport,0,3,D,V,NORMAL,1F
+1997,1997-09-21,Botafogo,Bahia,1,3,D,V,NORMAL,1F
+1997,1997-09-21,América-RN,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1997,1997-09-21,Internacional,Goiás,3,1,V,D,NORMAL,1F
+1997,1997-09-21,Atlético Mineiro,Portuguesa,1,1,E,E,NORMAL,1F
+1997,1997-09-21,Palmeiras,Santos,5,0,V,D,NORMAL,1F
+1997,1997-09-23,Coritiba,Cruzeiro,0,0,E,E,NORMAL,1F
+1997,1997-09-24,União São João,Fluminense,1,1,E,E,NORMAL,1F
+1997,1997-09-24,Botafogo,Corinthians,1,0,V,D,NORMAL,1F
+1997,1997-09-24,Coritiba,Guarani,3,1,V,D,NORMAL,1F
+1997,1997-09-27,Santos,Botafogo,1,2,D,V,NORMAL,1F
+1997,1997-09-27,São Paulo,Juventude,0,0,E,E,NORMAL,1F
+1997,1997-09-28,Portuguesa,Vasco,1,2,D,V,NORMAL,1F
+1997,1997-09-28,Athletico Paranaense,Flamengo,0,0,E,E,NORMAL,1F
+1997,1997-09-28,Fluminense,América-RN,2,4,D,V,NORMAL,1F
+1997,1997-09-28,Corinthians,Palmeiras,2,2,E,E,NORMAL,1F
+1997,1997-09-28,Bahia,União São João,4,2,V,D,NORMAL,1F
+1997,1997-09-28,Goiás,Vitória,1,2,D,V,NORMAL,1F
+1997,1997-09-28,Red Bull Bragantino,Grêmio,1,1,E,E,NORMAL,1F
+1997,1997-09-28,Paraná,Internacional,0,0,E,E,NORMAL,1F
+1997,1997-09-28,Criciúma,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1997,1997-09-28,Sport,Cruzeiro,4,1,V,D,NORMAL,1F
+1997,1997-10-01,Vasco,Palmeiras,2,1,V,D,NORMAL,1F
+1997,1997-10-01,Juventude,Flamengo,0,1,D,V,NORMAL,1F
+1997,1997-10-01,Botafogo,Sport,1,0,V,D,NORMAL,1F
+1997,1997-10-01,Athletico Paranaense,Portuguesa,2,0,V,D,NORMAL,1F
+1997,1997-10-01,Bahia,Goiás,3,1,V,D,NORMAL,1F
+1997,1997-10-01,Vitória,América-RN,1,1,E,E,NORMAL,1F
+1997,1997-10-01,Guarani,São Paulo,0,0,E,E,NORMAL,1F
+1997,1997-10-01,Corinthians,Red Bull Bragantino,2,0,V,D,NORMAL,1F
+1997,1997-10-01,Santos,União São João,3,1,V,D,NORMAL,1F
+1997,1997-10-01,Grêmio,Cruzeiro,0,0,E,E,NORMAL,1F
+1997,1997-10-01,Criciúma,Internacional,0,1,D,V,NORMAL,1F
+1997,1997-10-02,Atlético Mineiro,Coritiba,3,1,V,D,NORMAL,1F
+1997,1997-10-04,Paraná,Flamengo,1,2,D,V,NORMAL,1F
+1997,1997-10-04,América-RN,Corinthians,1,1,E,E,NORMAL,1F
+1997,1997-10-04,Grêmio,Botafogo,1,1,E,E,NORMAL,1F
+1997,1997-10-04,União São João,Vitória,2,2,E,E,NORMAL,1F
+1997,1997-10-04,Cruzeiro,Goiás,4,0,V,D,NORMAL,1F
+1997,1997-10-04,Bahia,Atlético Mineiro,0,2,D,V,NORMAL,1F
+1997,1997-10-05,São Paulo,Sport,4,2,V,D,NORMAL,1F
+1997,1997-10-05,Vasco,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1997,1997-10-05,Guarani,Internacional,1,1,E,E,NORMAL,1F
+1997,1997-10-05,Portuguesa,Santos,1,1,E,E,NORMAL,1F
+1997,1997-10-07,Flamengo,Grêmio,3,2,V,D,NORMAL,1F
+1997,1997-10-07,Santos,Guarani,3,2,V,D,NORMAL,1F
+1997,1997-10-08,Vitória,Botafogo,3,2,V,D,NORMAL,1F
+1997,1997-10-08,Coritiba,Palmeiras,1,1,E,E,NORMAL,1F
+1997,1997-10-08,Cruzeiro,Vasco,0,0,E,E,NORMAL,1F
+1997,1997-10-08,Flamengo,São Paulo,1,0,V,D,NORMAL,1F
+1997,1997-10-08,Botafogo,Fluminense,2,1,V,D,NORMAL,1F
+1997,1997-10-08,União São João,Goiás,0,2,D,V,NORMAL,1F
+1997,1997-10-08,Sport,Juventude,1,2,D,V,NORMAL,1F
+1997,1997-10-08,Red Bull Bragantino,Cruzeiro,0,0,E,E,NORMAL,1F
+1997,1997-10-08,Internacional,América-RN,1,0,V,D,NORMAL,1F
+1997,1997-10-08,Atlético Mineiro,Grêmio,2,1,V,D,NORMAL,1F
+1997,1997-10-11,Coritiba,Vasco,1,3,D,V,NORMAL,1F
+1997,1997-10-11,Corinthians,Paraná,0,1,D,V,NORMAL,1F
+1997,1997-10-12,Vitória,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1997,1997-10-12,Palmeiras,Portuguesa,0,0,E,E,NORMAL,1F
+1997,1997-10-12,Criciúma,Bahia,2,0,V,D,NORMAL,1F
+1997,1997-10-14,Red Bull Bragantino,Botafogo,1,3,D,V,NORMAL,1F
+1997,1997-10-14,Santos,Corinthians,1,0,V,D,NORMAL,1F
+1997,1997-10-14,Goiás,Fluminense,2,2,E,E,NORMAL,1F
+1997,1997-10-18,Cruzeiro,Corinthians,1,0,V,D,NORMAL,1F
+1997,1997-10-18,Flamengo,Palmeiras,0,0,E,E,NORMAL,1F
+1997,1997-10-18,Juventude,Portuguesa,0,0,E,E,NORMAL,1F
+1997,1997-10-19,São Paulo,Coritiba,0,0,E,E,NORMAL,1F
+1997,1997-10-19,América-RN,Red Bull Bragantino,3,2,V,D,NORMAL,1F
+1997,1997-10-19,Paraná,Vitória,1,2,D,V,NORMAL,1F
+1997,1997-10-19,Guarani,Sport,1,1,E,E,NORMAL,1F
+1997,1997-10-19,Vasco,Botafogo,1,0,V,D,NORMAL,1F
+1997,1997-10-19,Grêmio,Criciúma,1,0,V,D,NORMAL,1F
+1997,1997-10-19,Athletico Paranaense,Santos,1,1,E,E,NORMAL,1F
+1997,1997-10-19,União São João,Atlético Mineiro,3,5,D,V,NORMAL,1F
+1997,1997-10-21,Portuguesa,Cruzeiro,3,2,V,D,NORMAL,1F
+1997,1997-10-22,Fluminense,Corinthians,1,0,V,D,NORMAL,1F
+1997,1997-10-22,Palmeiras,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1997,1997-10-22,Bahia,Internacional,1,4,D,V,NORMAL,1F
+1997,1997-10-25,Portuguesa,Goiás,1,2,D,V,NORMAL,1F
+1997,1997-10-25,Santos,Bahia,3,1,V,D,NORMAL,1F
+1997,1997-10-25,Internacional,Flamengo,4,0,V,D,NORMAL,1F
+1997,1997-10-26,Criciúma,Vasco,3,4,D,V,NORMAL,1F
+1997,1997-10-26,Botafogo,Paraná,0,0,E,E,NORMAL,1F
+1997,1997-10-26,Palmeiras,Grêmio,5,1,V,D,NORMAL,1F
+1997,1997-10-26,São Paulo,União São João,7,1,V,D,NORMAL,1F
+1997,1997-10-26,Sport,Red Bull Bragantino,2,1,V,D,NORMAL,1F
+1997,1997-10-26,Guarani,Juventude,0,0,E,E,NORMAL,1F
+1997,1997-10-26,Coritiba,Athletico Paranaense,0,2,D,V,NORMAL,1F
+1997,1997-10-26,Vitória,Cruzeiro,1,1,E,E,NORMAL,1F
+1997,1997-10-26,Atlético Mineiro,América-RN,3,2,V,D,NORMAL,1F
+1997,1997-10-29,Fluminense,Criciúma,2,0,V,D,NORMAL,1F
+1997,1997-10-30,Flamengo,Vitória,1,0,V,D,NORMAL,1F
+1997,1997-10-30,Juventude,Fluminense,1,1,E,E,NORMAL,1F
+1997,1997-11-01,Corinthians,Sport,0,1,D,V,NORMAL,1F
+1997,1997-11-01,Cruzeiro,Botafogo,2,3,D,V,NORMAL,1F
+1997,1997-11-01,Vitória,Santos,2,0,V,D,NORMAL,1F
+1997,1997-11-01,Athletico Paranaense,Internacional,2,1,V,D,NORMAL,1F
+1997,1997-11-02,Palmeiras,Goiás,3,3,E,E,NORMAL,1F
+1997,1997-11-02,Flamengo,Coritiba,1,0,V,D,NORMAL,1F
+1997,1997-11-02,Vasco,Bahia,3,1,V,D,NORMAL,1F
+1997,1997-11-02,Portuguesa,Criciúma,2,2,E,E,NORMAL,1F
+1997,1997-11-02,América-RN,São Paulo,1,3,D,V,NORMAL,1F
+1997,1997-11-02,Red Bull Bragantino,União São João,1,0,V,D,NORMAL,1F
+1997,1997-11-02,Grêmio,Guarani,1,4,D,V,NORMAL,1F
+1997,1997-11-02,Paraná,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1997,1997-11-04,Vasco,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1997,1997-11-05,União São João,Guarani,0,1,D,V,NORMAL,1F
+1997,1997-11-05,Corinthians,Flamengo,1,0,V,D,NORMAL,1F
+1997,1997-11-05,Fluminense,Grêmio,0,2,D,V,NORMAL,1F
+1997,1997-11-05,Santos,Cruzeiro,2,2,E,E,NORMAL,1F
+1997,1997-11-05,Juventude,Red Bull Bragantino,2,1,V,D,NORMAL,1F
+1997,1997-11-08,Guarani,Vasco,3,2,V,D,NORMAL,1F
+1997,1997-11-08,Botafogo,Portuguesa,3,3,E,E,NORMAL,1F
+1997,1997-11-08,Goiás,Corinthians,0,2,D,V,NORMAL,1F
+1997,1997-11-08,Criciúma,Athletico Paranaense,1,1,E,E,NORMAL,1F
+1997,1997-11-08,Coritiba,América-RN,2,0,V,D,NORMAL,1F
+1997,1997-11-08,Santos,América-RN,2,0,V,D,NORMAL,1F
+1997,1997-11-08,Bahia,Juventude,0,0,E,E,NORMAL,1F
+1997,1997-11-08,Internacional,Red Bull Bragantino,7,0,V,D,NORMAL,1F
+1997,1997-11-08,Atlético Mineiro,Vitória,3,2,V,D,NORMAL,1F
+1997,1997-11-09,Flamengo,União São João,0,0,E,E,NORMAL,1F
+1997,1997-11-09,Sport,Palmeiras,1,1,E,E,NORMAL,1F
+1997,1997-11-09,São Paulo,Paraná,4,4,E,E,NORMAL,1F
+1997,1997-11-15,Juventude,Vasco,0,3,D,V,NORMAL,A
+1997,1997-11-15,Flamengo,Portuguesa,1,0,V,D,NORMAL,A
+1997,1997-11-15,Atlético Mineiro,Santos,2,0,V,D,NORMAL,B
+1997,1997-11-16,Palmeiras,Internacional,1,0,V,D,NORMAL,B
+1997,1997-11-22,Internacional,Atlético Mineiro,2,0,V,D,NORMAL,B
+1997,1997-11-23,Portuguesa,Juventude,2,0,V,D,NORMAL,A
+1997,1997-11-23,Vasco,Flamengo,1,1,E,E,NORMAL,A
+1997,1997-11-23,Santos,Palmeiras,3,3,E,E,NORMAL,B
+1997,1997-11-26,Juventude,Flamengo,3,2,V,D,NORMAL,A
+1997,1997-11-26,Vasco,Portuguesa,2,1,V,D,NORMAL,A
+1997,1997-11-26,Atlético Mineiro,Palmeiras,0,1,D,V,NORMAL,B
+1997,1997-11-26,Santos,Internacional,4,0,V,D,NORMAL,B
+1997,1997-11-29,Portuguesa,Vasco,1,3,D,V,NORMAL,A
+1997,1997-11-29,Flamengo,Juventude,2,0,V,D,NORMAL,A
+1997,1997-11-29,Internacional,Santos,4,1,V,D,NORMAL,B
+1997,1997-11-30,Palmeiras,Atlético Mineiro,3,1,V,D,NORMAL,B
+1997,1997-12-03,Flamengo,Vasco,1,4,D,V,NORMAL,A
+1997,1997-12-03,Palmeiras,Santos,1,0,V,D,NORMAL,B
+1997,1997-12-03,Atlético Mineiro,Internacional,3,2,V,D,NORMAL,B
+1997,1997-12-03,Juventude,Portuguesa,2,1,V,D,NORMAL,A
+1997,1997-12-06,Portuguesa,Flamengo,0,0,E,E,NORMAL,A
+1997,1997-12-06,Vasco,Juventude,1,1,E,E,NORMAL,A
+1997,1997-12-06,Santos,Atlético Mineiro,1,0,V,D,NORMAL,B
+1997,1997-12-06,Internacional,Palmeiras,0,1,D,V,NORMAL,B
+1997,1997-12-14,Palmeiras,Vasco,0,0,E,E,NORMAL,F
+1997,1997-12-21,Vasco,Palmeiras,0,0,E,E,NORMAL,F

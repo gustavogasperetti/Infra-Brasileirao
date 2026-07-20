@@ -1,0 +1,412 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1976,1976-08-29,Coritiba,São Paulo,0,2,D,V,NORMAL,B
+1976,1976-08-29,Londrina,Athletico Paranaense,0,3,D,V,NORMAL,B
+1976,1976-08-29,Confiança,Portuguesa,2,1,V,D,NORMAL,B
+1976,1976-08-29,Rio Negro-AM,Guarani,0,3,D,V,NORMAL,C
+1976,1976-08-29,Remo,Ceará,2,0,V,D,NORMAL,C
+1976,1976-08-29,Corinthians,Fortaleza,2,1,V,D,NORMAL,C
+1976,1976-08-29,América Mineiro,Goiânia,6,0,V,D,NORMAL,D
+1976,1976-08-29,Mixto,Goiás,1,1,E,E,NORMAL,D
+1976,1976-08-29,Fluminense de Feira,CSA,0,0,E,E,NORMAL,E
+1976,1976-08-29,Treze,CRB,0,2,D,V,NORMAL,E
+1976,1976-08-29,Botafogo-PB,Vitória,1,0,V,D,NORMAL,E
+1976,1976-08-29,América-RN,Santa Cruz,0,0,E,E,NORMAL,F
+1976,1976-08-29,Sampaio Corrêa,Flamengo-PI,0,0,E,E,NORMAL,F
+1976,1976-08-29,Sport,ABC,1,0,V,D,NORMAL,F
+1976,1976-09-01,Internacional,Figueirense,6,0,V,D,NORMAL,A
+1976,1976-09-01,Santos,Caxias,2,1,V,D,NORMAL,A
+1976,1976-09-01,Rio Branco-ES,Grêmio,1,4,D,V,NORMAL,A
+1976,1976-09-01,Londrina,São Paulo,0,0,E,E,NORMAL,B
+1976,1976-09-01,Uberaba,Athletico Paranaense,0,0,E,E,NORMAL,B
+1976,1976-09-01,Ponte Preta,Corinthians,1,1,E,E,NORMAL,C
+1976,1976-09-01,Remo,Guarani,0,0,E,E,NORMAL,C
+1976,1976-09-01,Rio Negro-AM,Ceará,1,1,E,E,NORMAL,C
+1976,1976-09-01,Vasco,América Mineiro,1,0,V,D,NORMAL,D
+1976,1976-09-01,Mixto,Operário-MS,1,1,E,E,NORMAL,D
+1976,1976-09-01,Goiânia,Atlético Mineiro,1,1,E,E,NORMAL,D
+1976,1976-09-01,Americano,Goiás,1,2,D,V,NORMAL,D
+1976,1976-09-01,Fluminense de Feira,Bahia,0,2,D,V,NORMAL,E
+1976,1976-09-01,Botafogo-PB,Botafogo,0,0,E,E,NORMAL,E
+1976,1976-09-01,Treze,Vitória,0,2,D,V,NORMAL,E
+1976,1976-09-01,Fluminense,CSA,1,1,E,E,NORMAL,E
+1976,1976-09-01,Flamengo,ABC,2,0,V,D,NORMAL,F
+1976,1976-09-01,Sampaio Corrêa,Santa Cruz,0,2,D,V,NORMAL,F
+1976,1976-09-01,Náutico,Flamengo-PI,3,0,V,D,NORMAL,F
+1976,1976-09-01,Volta Redonda,América-RN,1,1,E,E,NORMAL,F
+1976,1976-09-02,Paysandu,Nacional-AM,3,0,V,D,NORMAL,C
+1976,1976-09-04,Grêmio,Caxias,1,0,V,D,NORMAL,A
+1976,1976-09-04,Desportiva Ferroviária,Palmeiras,0,1,D,V,NORMAL,A
+1976,1976-09-04,Figueirense,Santos,1,4,D,V,NORMAL,A
+1976,1976-09-04,São Paulo,Portuguesa,0,0,E,E,NORMAL,B
+1976,1976-09-04,Cruzeiro,Botafogo-SP,0,0,E,E,NORMAL,B
+1976,1976-09-04,Ceará,Guarani,0,0,E,E,NORMAL,C
+1976,1976-09-04,Fortaleza,Remo,1,0,V,D,NORMAL,C
+1976,1976-09-04,Vasco,Goiás,1,0,V,D,NORMAL,D
+1976,1976-09-04,Vitória,CSA,3,1,V,D,NORMAL,E
+1976,1976-09-04,Treze,Botafogo,2,4,D,V,NORMAL,E
+1976,1976-09-04,Sport,Santa Cruz,1,0,V,D,NORMAL,F
+1976,1976-09-04,Flamengo-PI,Flamengo,2,3,D,V,NORMAL,F
+1976,1976-09-04,América-RN,Náutico,1,0,V,D,NORMAL,F
+1976,1976-09-04,Volta Redonda,ABC,0,0,E,E,NORMAL,F
+1976,1976-09-05,Confiança,Londrina,1,0,V,D,NORMAL,B
+1976,1976-09-05,Americano,Mixto,3,2,V,D,NORMAL,D
+1976,1976-09-05,Operário-MS,America-RJ,1,1,E,E,NORMAL,D
+1976,1976-09-05,Atlético Mineiro,América Mineiro,1,0,V,D,NORMAL,D
+1976,1976-09-07,Palmeiras,Santos,0,1,D,V,NORMAL,A
+1976,1976-09-07,Internacional,Grêmio,3,1,V,D,NORMAL,A
+1976,1976-09-07,Desportiva Ferroviária,Rio Branco-ES,2,1,V,D,NORMAL,A
+1976,1976-09-07,Uberaba,Botafogo-SP,0,1,D,V,NORMAL,B
+1976,1976-09-07,Cruzeiro,Portuguesa,2,1,V,D,NORMAL,B
+1976,1976-09-07,Nacional-AM,Rio Negro-AM,2,1,V,D,NORMAL,C
+1976,1976-09-07,Ceará,Fortaleza,0,1,D,V,NORMAL,C
+1976,1976-09-07,Remo,Paysandu,5,2,V,D,NORMAL,C
+1976,1976-09-07,Goiás,Goiânia,3,0,V,D,NORMAL,D
+1976,1976-09-07,Botafogo-PB,Treze,2,0,V,D,NORMAL,E
+1976,1976-09-07,CRB,CSA,2,1,V,D,NORMAL,E
+1976,1976-09-07,Bahia,Vitória,0,0,E,E,NORMAL,E
+1976,1976-09-07,Botafogo,Fluminense,2,0,V,D,NORMAL,E
+1976,1976-09-07,América-RN,ABC,3,1,V,D,NORMAL,F
+1976,1976-09-07,Santa Cruz,Flamengo,2,1,V,D,NORMAL,F
+1976,1976-09-07,Sampaio Corrêa,Náutico,2,3,D,V,NORMAL,F
+1976,1976-09-08,Figueirense,Avaí,1,0,V,D,NORMAL,A
+1976,1976-09-08,Coritiba,Athletico Paranaense,2,1,V,D,NORMAL,B
+1976,1976-09-08,Confiança,São Paulo,1,1,E,E,NORMAL,B
+1976,1976-09-08,America-RJ,Mixto,1,0,V,D,NORMAL,D
+1976,1976-09-08,Americano,Vasco,2,3,D,V,NORMAL,D
+1976,1976-09-08,Operário-MS,Atlético Mineiro,1,1,E,E,NORMAL,D
+1976,1976-09-08,Volta Redonda,Sport,1,0,V,D,NORMAL,F
+1976,1976-09-11,Palmeiras,Figueirense,4,0,V,D,NORMAL,A
+1976,1976-09-11,Paysandu,Fortaleza,1,5,D,V,NORMAL,C
+1976,1976-09-11,America-RJ,Atlético Mineiro,2,1,V,D,NORMAL,D
+1976,1976-09-11,Vitória,Fluminense de Feira,2,0,V,D,NORMAL,E
+1976,1976-09-12,Grêmio,Santos,0,0,E,E,NORMAL,A
+1976,1976-09-12,Caxias,Internacional,2,1,V,D,NORMAL,A
+1976,1976-09-12,Desportiva Ferroviária,Avaí,0,3,D,V,NORMAL,A
+1976,1976-09-12,Botafogo-SP,São Paulo,2,0,V,D,NORMAL,B
+1976,1976-09-12,Athletico Paranaense,Cruzeiro,1,1,E,E,NORMAL,B
+1976,1976-09-12,Uberaba,Portuguesa,1,0,V,D,NORMAL,B
+1976,1976-09-12,Corinthians,Guarani,0,1,D,V,NORMAL,C
+1976,1976-09-12,Remo,Rio Negro-AM,2,0,V,D,NORMAL,C
+1976,1976-09-12,Nacional-AM,Ponte Preta,1,0,V,D,NORMAL,C
+1976,1976-09-12,Mixto,América Mineiro,3,0,V,D,NORMAL,D
+1976,1976-09-12,Goiânia,Vasco,2,4,D,V,NORMAL,D
+1976,1976-09-12,CRB,Botafogo-PB,0,0,E,E,NORMAL,E
+1976,1976-09-12,Bahia,Fluminense,0,0,E,E,NORMAL,E
+1976,1976-09-12,ABC,Náutico,1,1,E,E,NORMAL,F
+1976,1976-09-12,Volta Redonda,Sampaio Corrêa,5,1,V,D,NORMAL,F
+1976,1976-09-12,Flamengo,Sport,3,0,V,D,NORMAL,F
+1976,1976-09-15,Rio Branco-ES,Figueirense,0,0,E,E,NORMAL,A
+1976,1976-09-15,Caxias,Palmeiras,0,0,E,E,NORMAL,A
+1976,1976-09-15,Santos,Avaí,0,0,E,E,NORMAL,A
+1976,1976-09-15,São Paulo,Athletico Paranaense,0,2,D,V,NORMAL,B
+1976,1976-09-15,Confiança,Coritiba,1,1,E,E,NORMAL,B
+1976,1976-09-15,Paysandu,Ponte Preta,0,0,E,E,NORMAL,C
+1976,1976-09-15,Nacional-AM,Fortaleza,0,0,E,E,NORMAL,C
+1976,1976-09-15,Mixto,Vasco,1,0,V,D,NORMAL,D
+1976,1976-09-15,Atlético Mineiro,Goiás,2,1,V,D,NORMAL,D
+1976,1976-09-15,Americano,America-RJ,0,0,E,E,NORMAL,D
+1976,1976-09-15,Fluminense de Feira,Fluminense,2,3,D,V,NORMAL,E
+1976,1976-09-15,Botafogo,Bahia,0,0,E,E,NORMAL,E
+1976,1976-09-15,CRB,Vitória,0,2,D,V,NORMAL,E
+1976,1976-09-15,Flamengo-PI,Santa Cruz,0,0,E,E,NORMAL,F
+1976,1976-09-15,Volta Redonda,Náutico,0,0,E,E,NORMAL,F
+1976,1976-09-15,Sport,América-RN,0,0,E,E,NORMAL,F
+1976,1976-09-16,Londrina,Cruzeiro,1,1,E,E,NORMAL,B
+1976,1976-09-16,Rio Negro-AM,Corinthians,1,2,D,V,NORMAL,C
+1976,1976-09-16,Operário-MS,Goiânia,5,3,V,D,NORMAL,D
+1976,1976-09-16,Flamengo,Sampaio Corrêa,8,1,V,D,NORMAL,F
+1976,1976-09-18,Desportiva Ferroviária,Figueirense,1,0,V,D,NORMAL,A
+1976,1976-09-18,São Paulo,Uberaba,4,0,V,D,NORMAL,B
+1976,1976-09-18,Guarani,Fortaleza,1,1,E,E,NORMAL,C
+1976,1976-09-18,América Mineiro,Americano,0,1,D,V,NORMAL,D
+1976,1976-09-18,Botafogo,CRB,2,1,V,D,NORMAL,E
+1976,1976-09-19,Avaí,Internacional,0,4,D,V,NORMAL,A
+1976,1976-09-19,Rio Branco-ES,Santos,0,1,D,V,NORMAL,A
+1976,1976-09-19,Palmeiras,Grêmio,0,0,E,E,NORMAL,A
+1976,1976-09-19,Londrina,Botafogo-SP,1,0,V,D,NORMAL,B
+1976,1976-09-19,Cruzeiro,Coritiba,2,1,V,D,NORMAL,B
+1976,1976-09-19,Athletico Paranaense,Portuguesa,0,0,E,E,NORMAL,B
+1976,1976-09-19,Nacional-AM,Remo,1,0,V,D,NORMAL,C
+1976,1976-09-19,Ponte Preta,Ceará,2,0,V,D,NORMAL,C
+1976,1976-09-19,Paysandu,Corinthians,0,0,E,E,NORMAL,C
+1976,1976-09-19,Vasco,America-RJ,0,2,D,V,NORMAL,D
+1976,1976-09-19,Goiás,Operário-MS,1,1,E,E,NORMAL,D
+1976,1976-09-19,Mixto,Goiânia,1,2,D,V,NORMAL,D
+1976,1976-09-19,Fluminense de Feira,Botafogo-PB,0,1,D,V,NORMAL,E
+1976,1976-09-19,Treze,Fluminense,0,2,D,V,NORMAL,E
+1976,1976-09-19,CSA,Bahia,1,1,E,E,NORMAL,E
+1976,1976-09-19,ABC,Santa Cruz,2,4,D,V,NORMAL,F
+1976,1976-09-19,Flamengo-PI,Volta Redonda,2,2,E,E,NORMAL,F
+1976,1976-09-19,Sport,Náutico,1,0,V,D,NORMAL,F
+1976,1976-09-19,Sampaio Corrêa,América-RN,0,0,E,E,NORMAL,F
+1976,1976-09-22,Palmeiras,Rio Branco-ES,1,0,V,D,NORMAL,A
+1976,1976-09-22,Desportiva Ferroviária,Internacional,1,4,D,V,NORMAL,A
+1976,1976-09-22,Caxias,Avaí,1,0,V,D,NORMAL,A
+1976,1976-09-22,Athletico Paranaense,Confiança,1,0,V,D,NORMAL,B
+1976,1976-09-22,Ceará,Corinthians,0,2,D,V,NORMAL,C
+1976,1976-09-22,Guarani,Nacional-AM,1,1,E,E,NORMAL,C
+1976,1976-09-22,Rio Negro-AM,Paysandu,2,0,V,D,NORMAL,C
+1976,1976-09-22,América Mineiro,America-RJ,0,0,E,E,NORMAL,D
+1976,1976-09-22,Operário-MS,Americano,0,0,E,E,NORMAL,D
+1976,1976-09-22,Fluminense,Botafogo-PB,3,0,V,D,NORMAL,E
+1976,1976-09-22,CSA,Botafogo,2,1,V,D,NORMAL,E
+1976,1976-09-22,Bahia,Treze,3,0,V,D,NORMAL,E
+1976,1976-09-22,Fluminense de Feira,CRB,2,0,V,D,NORMAL,E
+1976,1976-09-22,América-RN,Flamengo,0,0,E,E,NORMAL,F
+1976,1976-09-22,Santa Cruz,Volta Redonda,2,0,V,D,NORMAL,F
+1976,1976-09-22,Sampaio Corrêa,Sport,0,3,D,V,NORMAL,F
+1976,1976-09-22,Flamengo-PI,ABC,0,0,E,E,NORMAL,F
+1976,1976-09-23,Figueirense,Grêmio,0,2,D,V,NORMAL,A
+1976,1976-09-23,Coritiba,Uberaba,1,0,V,D,NORMAL,B
+1976,1976-09-23,Portuguesa,Botafogo-SP,3,1,V,D,NORMAL,B
+1976,1976-09-23,Fortaleza,Ponte Preta,3,1,V,D,NORMAL,C
+1976,1976-09-23,Atlético Mineiro,Mixto,3,1,V,D,NORMAL,D
+1976,1976-09-25,Avaí,Rio Branco-ES,2,1,V,D,NORMAL,A
+1976,1976-09-25,Botafogo-SP,Confiança,3,0,V,D,NORMAL,B
+1976,1976-09-25,Corinthians,Nacional-AM,2,0,V,D,NORMAL,C
+1976,1976-09-25,Ceará,Paysandu,0,1,D,V,NORMAL,C
+1976,1976-09-25,Goiânia,Americano,0,0,E,E,NORMAL,D
+1976,1976-09-25,Botafogo,Fluminense de Feira,4,1,V,D,NORMAL,E
+1976,1976-09-26,Grêmio,Desportiva Ferroviária,3,1,V,D,NORMAL,A
+1976,1976-09-26,Santos,Internacional,1,3,D,V,NORMAL,A
+1976,1976-09-26,Figueirense,Caxias,1,0,V,D,NORMAL,A
+1976,1976-09-26,Uberaba,Cruzeiro,1,1,E,E,NORMAL,B
+1976,1976-09-26,Coritiba,Londrina,1,0,V,D,NORMAL,B
+1976,1976-09-26,Ponte Preta,Remo,1,1,E,E,NORMAL,C
+1976,1976-09-26,Fortaleza,Rio Negro-AM,0,0,E,E,NORMAL,C
+1976,1976-09-26,Goiás,America-RJ,1,0,V,D,NORMAL,D
+1976,1976-09-26,Operário-MS,América Mineiro,1,1,E,E,NORMAL,D
+1976,1976-09-26,Atlético Mineiro,Vasco,3,0,V,D,NORMAL,D
+1976,1976-09-26,Fluminense,Vitória,0,1,D,V,NORMAL,E
+1976,1976-09-26,Bahia,CRB,3,0,V,D,NORMAL,E
+1976,1976-09-26,CSA,Treze,3,2,V,D,NORMAL,E
+1976,1976-09-26,ABC,Sampaio Corrêa,1,1,E,E,NORMAL,F
+1976,1976-09-26,Flamengo-PI,Sport,1,2,D,V,NORMAL,F
+1976,1976-09-26,Náutico,Flamengo,0,3,D,V,NORMAL,F
+1976,1976-09-29,Internacional,Rio Branco-ES,3,0,V,D,NORMAL,A
+1976,1976-09-29,Avaí,Palmeiras,0,1,D,V,NORMAL,A
+1976,1976-09-29,Caxias,Desportiva Ferroviária,2,0,V,D,NORMAL,A
+1976,1976-09-29,Botafogo-SP,Athletico Paranaense,1,0,V,D,NORMAL,B
+1976,1976-09-29,Cruzeiro,Confiança,2,0,V,D,NORMAL,B
+1976,1976-09-29,Uberaba,Londrina,1,2,D,V,NORMAL,B
+1976,1976-09-29,Portuguesa,Coritiba,0,2,D,V,NORMAL,B
+1976,1976-09-29,Ponte Preta,Rio Negro-AM,1,1,E,E,NORMAL,C
+1976,1976-09-29,Corinthians,Remo,3,0,V,D,NORMAL,C
+1976,1976-09-29,Americano,Atlético Mineiro,1,3,D,V,NORMAL,D
+1976,1976-09-29,Goiás,América Mineiro,2,1,V,D,NORMAL,D
+1976,1976-09-29,Vasco,Operário-MS,0,1,D,V,NORMAL,D
+1976,1976-09-29,America-RJ,Goiânia,3,1,V,D,NORMAL,D
+1976,1976-09-29,CRB,Fluminense,0,4,D,V,NORMAL,E
+1976,1976-09-29,Vitória,Botafogo,1,1,E,E,NORMAL,E
+1976,1976-09-29,Botafogo-PB,CSA,1,1,E,E,NORMAL,E
+1976,1976-09-29,Treze,Fluminense de Feira,2,1,V,D,NORMAL,E
+1976,1976-09-29,Santa Cruz,Náutico,2,1,V,D,NORMAL,F
+1976,1976-09-30,Guarani,Paysandu,2,0,V,D,NORMAL,C
+1976,1976-09-30,Ceará,Nacional-AM,1,1,E,E,NORMAL,C
+1976,1976-09-30,Botafogo-PB,Bahia,1,2,D,V,NORMAL,E
+1976,1976-09-30,Flamengo,Volta Redonda,4,0,V,D,NORMAL,F
+1976,1976-09-30,América-RN,Flamengo-PI,1,2,D,V,NORMAL,F
+1976,1976-10-02,Rio Branco-ES,Caxias,0,2,D,V,NORMAL,A
+1976,1976-10-02,Portuguesa,Londrina,1,1,E,E,NORMAL,B
+1976,1976-10-03,Santos,Desportiva Ferroviária,0,0,E,E,NORMAL,A
+1976,1976-10-03,Avaí,Grêmio,0,3,D,V,NORMAL,A
+1976,1976-10-03,Internacional,Palmeiras,1,0,V,D,NORMAL,A
+1976,1976-10-03,Botafogo-SP,Coritiba,1,1,E,E,NORMAL,B
+1976,1976-10-03,São Paulo,Cruzeiro,1,0,V,D,NORMAL,B
+1976,1976-10-03,Confiança,Uberaba,1,1,E,E,NORMAL,B
+1976,1976-10-03,Guarani,Ponte Preta,0,0,E,E,NORMAL,C
+1976,1976-10-09,Bahia,Santa Cruz,3,0,V,D,NORMAL,I
+1976,1976-10-09,America-RJ,São Paulo,1,1,E,E,NORMAL,J
+1976,1976-10-09,Portuguesa,Uberaba,1,0,V,D,NORMAL,L
+1976,1976-10-09,Ponte Preta,Paysandu,3,0,V,D,NORMAL,M
+1976,1976-10-10,Fluminense,Internacional,1,1,E,E,NORMAL,G
+1976,1976-10-10,Fortaleza,Goiás,1,1,E,E,NORMAL,G
+1976,1976-10-10,América-RN,Botafogo-SP,1,3,D,V,NORMAL,G
+1976,1976-10-10,Coritiba,Sport,1,0,V,D,NORMAL,H
+1976,1976-10-10,Grêmio,Corinthians,3,0,V,D,NORMAL,H
+1976,1976-10-10,Operário-MS,Botafogo,2,0,V,D,NORMAL,H
+1976,1976-10-10,Santos,Athletico Paranaense,2,1,V,D,NORMAL,I
+1976,1976-10-10,Vitória,Flamengo,0,3,D,V,NORMAL,J
+1976,1976-10-10,Guarani,Palmeiras,0,1,D,V,NORMAL,J
+1976,1976-10-10,Caxias,Rio Branco-ES,0,0,E,E,NORMAL,K
+1976,1976-10-10,Figueirense,Desportiva Ferroviária,3,1,V,D,NORMAL,K
+1976,1976-10-10,Nacional-AM,Ceará,1,1,E,E,NORMAL,M
+1976,1976-10-10,Mixto,Americano,4,1,V,D,NORMAL,N
+1976,1976-10-10,Goiânia,América Mineiro,4,0,V,D,NORMAL,N
+1976,1976-10-10,CSA,Botafogo-PB,3,5,D,V,NORMAL,O
+1976,1976-10-10,Fluminense de Feira,Treze,1,0,V,D,NORMAL,O
+1976,1976-10-10,Náutico,ABC,2,1,V,D,NORMAL,P
+1976,1976-10-10,Volta Redonda,Flamengo-PI,0,0,E,E,NORMAL,P
+1976,1976-10-13,Goiás,Internacional,0,3,D,V,NORMAL,G
+1976,1976-10-13,Fortaleza,Botafogo-SP,1,1,E,E,NORMAL,G
+1976,1976-10-13,América-RN,Fluminense,2,1,V,D,NORMAL,G
+1976,1976-10-13,Grêmio,Operário-MS,1,0,V,D,NORMAL,H
+1976,1976-10-13,Botafogo,Sport,1,0,V,D,NORMAL,H
+1976,1976-10-13,Corinthians,Coritiba,1,0,V,D,NORMAL,H
+1976,1976-10-13,Remo,Santos,1,2,D,V,NORMAL,I
+1976,1976-10-13,Santa Cruz,Atlético Mineiro,2,2,E,E,NORMAL,I
+1976,1976-10-13,Bahia,Athletico Paranaense,1,0,V,D,NORMAL,I
+1976,1976-10-13,America-RJ,Vitória,3,0,V,D,NORMAL,J
+1976,1976-10-13,Desportiva Ferroviária,Caxias,0,0,E,E,NORMAL,K
+1976,1976-10-13,Londrina,Uberaba,1,2,D,V,NORMAL,L
+1976,1976-10-13,Portuguesa,Confiança,4,0,V,D,NORMAL,L
+1976,1976-10-13,Ponte Preta,Nacional-AM,5,0,V,D,NORMAL,M
+1976,1976-10-13,América Mineiro,Mixto,1,3,D,V,NORMAL,N
+1976,1976-10-13,CRB,Fluminense de Feira,1,1,E,E,NORMAL,O
+1976,1976-10-13,Treze,CSA,1,0,V,D,NORMAL,O
+1976,1976-10-13,Sampaio Corrêa,ABC,2,0,V,D,NORMAL,P
+1976,1976-10-14,Flamengo,Palmeiras,0,2,D,V,NORMAL,J
+1976,1976-10-14,São Paulo,Guarani,0,1,D,V,NORMAL,J
+1976,1976-10-14,Rio Branco-ES,Avaí,0,0,E,E,NORMAL,K
+1976,1976-10-14,Paysandu,Rio Negro-AM,2,0,V,D,NORMAL,M
+1976,1976-10-14,Vasco,Goiânia,2,2,E,E,NORMAL,N
+1976,1976-10-14,Náutico,Volta Redonda,0,0,E,E,NORMAL,P
+1976,1976-10-16,Fluminense,Fortaleza,3,1,V,D,NORMAL,G
+1976,1976-10-16,Corinthians,Botafogo,1,2,D,V,NORMAL,H
+1976,1976-10-16,Sport,Operário-MS,0,2,D,V,NORMAL,H
+1976,1976-10-16,Santos,Bahia,0,0,E,E,NORMAL,I
+1976,1976-10-16,Cruzeiro,Uberaba,1,0,V,D,NORMAL,L
+1976,1976-10-17,Internacional,América-RN,2,0,V,D,NORMAL,G
+1976,1976-10-17,Botafogo-SP,Goiás,4,0,V,D,NORMAL,G
+1976,1976-10-17,Coritiba,Grêmio,1,1,E,E,NORMAL,H
+1976,1976-10-17,Atlético Mineiro,Athletico Paranaense,5,0,V,D,NORMAL,I
+1976,1976-10-17,Santa Cruz,Remo,2,1,V,D,NORMAL,I
+1976,1976-10-17,São Paulo,Palmeiras,1,2,D,V,NORMAL,J
+1976,1976-10-17,Flamengo,America-RJ,1,0,V,D,NORMAL,J
+1976,1976-10-17,Vitória,Guarani,0,4,D,V,NORMAL,J
+1976,1976-10-17,Rio Branco-ES,Desportiva Ferroviária,1,0,V,D,NORMAL,K
+1976,1976-10-17,Avaí,Figueirense,1,0,V,D,NORMAL,K
+1976,1976-10-17,Londrina,Confiança,1,2,D,V,NORMAL,L
+1976,1976-10-17,Rio Negro-AM,Nacional-AM,1,0,V,D,NORMAL,M
+1976,1976-10-17,Ceará,Ponte Preta,2,1,V,D,NORMAL,M
+1976,1976-10-17,Vasco,Americano,3,1,V,D,NORMAL,N
+1976,1976-10-17,Goiânia,Mixto,0,1,D,V,NORMAL,N
+1976,1976-10-17,CRB,CSA,1,0,V,D,NORMAL,O
+1976,1976-10-17,Treze,Botafogo-PB,2,1,V,D,NORMAL,O
+1976,1976-10-17,ABC,Volta Redonda,0,1,D,V,NORMAL,P
+1976,1976-10-17,Flamengo-PI,Sampaio Corrêa,2,0,V,D,NORMAL,P
+1976,1976-10-20,Goiás,América-RN,0,0,E,E,NORMAL,G
+1976,1976-10-20,Internacional,Fortaleza,2,0,V,D,NORMAL,G
+1976,1976-10-20,Botafogo-SP,Fluminense,1,1,E,E,NORMAL,G
+1976,1976-10-20,Corinthians,Operário-MS,3,1,V,D,NORMAL,H
+1976,1976-10-20,Athletico Paranaense,Remo,1,1,E,E,NORMAL,I
+1976,1976-10-20,Santa Cruz,Santos,2,0,V,D,NORMAL,I
+1976,1976-10-20,Atlético Mineiro,Bahia,2,1,V,D,NORMAL,I
+1976,1976-10-20,Flamengo,Guarani,4,0,V,D,NORMAL,J
+1976,1976-10-20,Vitória,São Paulo,2,4,D,V,NORMAL,J
+1976,1976-10-20,Figueirense,Rio Branco-ES,0,1,D,V,NORMAL,K
+1976,1976-10-20,Uberaba,Confiança,1,0,V,D,NORMAL,L
+1976,1976-10-20,Rio Negro-AM,Ponte Preta,1,1,E,E,NORMAL,M
+1976,1976-10-20,Paysandu,Ceará,1,0,V,D,NORMAL,M
+1976,1976-10-20,Botafogo-PB,Fluminense de Feira,2,1,V,D,NORMAL,O
+1976,1976-10-20,CRB,Treze,2,0,V,D,NORMAL,O
+1976,1976-10-20,Sampaio Corrêa,Volta Redonda,3,1,V,D,NORMAL,P
+1976,1976-10-20,Flamengo-PI,Náutico,0,0,E,E,NORMAL,P
+1976,1976-10-21,Grêmio,Sport,1,0,V,D,NORMAL,H
+1976,1976-10-21,Botafogo,Coritiba,0,2,D,V,NORMAL,H
+1976,1976-10-21,Palmeiras,America-RJ,0,0,E,E,NORMAL,J
+1976,1976-10-21,Avaí,Caxias,0,0,E,E,NORMAL,K
+1976,1976-10-21,Portuguesa,Cruzeiro,1,1,E,E,NORMAL,L
+1976,1976-10-21,América Mineiro,Vasco,2,3,D,V,NORMAL,N
+1976,1976-10-21,Americano,Goiânia,5,0,V,D,NORMAL,N
+1976,1976-10-23,Fluminense,Goiás,1,1,E,E,NORMAL,G
+1976,1976-10-23,Ceará,Rio Negro-AM,0,0,E,E,NORMAL,M
+1976,1976-10-23,Nacional-AM,Paysandu,2,2,E,E,NORMAL,M
+1976,1976-10-23,Náutico,Sampaio Corrêa,4,0,V,D,NORMAL,P
+1976,1976-10-23,ABC,Flamengo-PI,5,1,V,D,NORMAL,P
+1976,1976-10-24,Internacional,Botafogo-SP,3,0,V,D,NORMAL,G
+1976,1976-10-24,Fortaleza,América-RN,2,1,V,D,NORMAL,G
+1976,1976-10-24,Sport,Corinthians,0,1,D,V,NORMAL,H
+1976,1976-10-24,Botafogo,Grêmio,0,1,D,V,NORMAL,H
+1976,1976-10-24,Operário-MS,Coritiba,0,1,D,V,NORMAL,H
+1976,1976-10-24,Bahia,Remo,3,1,V,D,NORMAL,I
+1976,1976-10-24,Athletico Paranaense,Santa Cruz,1,0,V,D,NORMAL,I
+1976,1976-10-24,Atlético Mineiro,Santos,1,1,E,E,NORMAL,I
+1976,1976-10-24,Guarani,America-RJ,6,1,V,D,NORMAL,J
+1976,1976-10-24,Palmeiras,Vitória,2,0,V,D,NORMAL,J
+1976,1976-10-24,São Paulo,Flamengo,1,2,D,V,NORMAL,J
+1976,1976-10-24,Caxias,Figueirense,5,1,V,D,NORMAL,K
+1976,1976-10-24,Avaí,Desportiva Ferroviária,1,0,V,D,NORMAL,K
+1976,1976-10-24,Confiança,Cruzeiro,0,3,D,V,NORMAL,L
+1976,1976-10-24,Londrina,Portuguesa,1,3,D,V,NORMAL,L
+1976,1976-10-24,Americano,América Mineiro,0,1,D,V,NORMAL,N
+1976,1976-10-24,Vasco,Mixto,1,0,V,D,NORMAL,N
+1976,1976-10-24,Botafogo-PB,CRB,2,2,E,E,NORMAL,O
+1976,1976-10-24,CSA,Fluminense de Feira,1,1,E,E,NORMAL,O
+1976,1976-10-27,Remo,Atlético Mineiro,1,1,E,E,NORMAL,I
+1976,1976-10-27,Cruzeiro,Londrina,1,0,V,D,NORMAL,L
+1976,1976-10-30,Ponte Preta,Botafogo-SP,1,0,V,D,NORMAL,Q
+1976,1976-10-30,Coritiba,Internacional,1,0,V,D,NORMAL,Q
+1976,1976-10-30,Vasco,CRB,1,0,V,D,NORMAL,R
+1976,1976-10-30,Bahia,Náutico,1,1,E,E,NORMAL,R
+1976,1976-10-31,Corinthians,Portuguesa,0,0,E,E,NORMAL,Q
+1976,1976-10-31,Santa Cruz,Palmeiras,3,3,E,E,NORMAL,Q
+1976,1976-10-31,Flamengo,Atlético Mineiro,2,1,V,D,NORMAL,R
+1976,1976-10-31,Grêmio,Fluminense,1,2,D,V,NORMAL,R
+1976,1976-11-03,Palmeiras,Portuguesa,2,1,V,D,NORMAL,Q
+1976,1976-11-03,Coritiba,Corinthians,1,0,V,D,NORMAL,Q
+1976,1976-11-03,Botafogo-SP,Internacional,1,4,D,V,NORMAL,Q
+1976,1976-11-03,Caxias,Santa Cruz,1,2,D,V,NORMAL,Q
+1976,1976-11-03,Náutico,Vasco,1,1,E,E,NORMAL,R
+1976,1976-11-03,Fluminense,CRB,1,0,V,D,NORMAL,R
+1976,1976-11-03,Guarani,Flamengo,1,1,E,E,NORMAL,R
+1976,1976-11-03,Bahia,Atlético Mineiro,0,2,D,V,NORMAL,R
+1976,1976-11-06,Vasco,Bahia,0,1,D,V,NORMAL,R
+1976,1976-11-07,Palmeiras,Corinthians,0,0,E,E,NORMAL,Q
+1976,1976-11-07,Ponte Preta,Coritiba,1,0,V,D,NORMAL,Q
+1976,1976-11-07,Botafogo-SP,Caxias,1,0,V,D,NORMAL,Q
+1976,1976-11-07,Internacional,Santa Cruz,5,1,V,D,NORMAL,Q
+1976,1976-11-07,Atlético Mineiro,CRB,4,1,V,D,NORMAL,R
+1976,1976-11-07,Fluminense,Flamengo,1,0,V,D,NORMAL,R
+1976,1976-11-07,Grêmio,Guarani,1,1,E,E,NORMAL,R
+1976,1976-11-10,Internacional,Caxias,2,0,V,D,NORMAL,Q
+1976,1976-11-10,Santa Cruz,Coritiba,2,4,D,V,NORMAL,Q
+1976,1976-11-10,Portuguesa,Ponte Preta,0,1,D,V,NORMAL,Q
+1976,1976-11-10,CRB,Flamengo,0,2,D,V,NORMAL,R
+1976,1976-11-10,Bahia,Grêmio,2,1,V,D,NORMAL,R
+1976,1976-11-10,Atlético Mineiro,Náutico,2,0,V,D,NORMAL,R
+1976,1976-11-10,Fluminense,Guarani,4,2,V,D,NORMAL,R
+1976,1976-11-11,Corinthians,Botafogo-SP,2,1,V,D,NORMAL,Q
+1976,1976-11-14,Palmeiras,Internacional,1,2,D,V,NORMAL,Q
+1976,1976-11-14,Caxias,Corinthians,1,4,D,V,NORMAL,Q
+1976,1976-11-14,Ponte Preta,Santa Cruz,2,0,V,D,NORMAL,Q
+1976,1976-11-14,Botafogo-SP,Portuguesa,3,0,V,D,NORMAL,Q
+1976,1976-11-14,Fluminense,Vasco,3,0,V,D,NORMAL,R
+1976,1976-11-14,CRB,Guarani,2,0,V,D,NORMAL,R
+1976,1976-11-14,Náutico,Grêmio,0,3,D,V,NORMAL,R
+1976,1976-11-14,Bahia,Flamengo,2,2,E,E,NORMAL,R
+1976,1976-11-17,Portuguesa,Santa Cruz,2,2,E,E,NORMAL,Q
+1976,1976-11-17,Caxias,Coritiba,3,0,V,D,NORMAL,Q
+1976,1976-11-17,Botafogo-SP,Palmeiras,0,3,D,V,NORMAL,Q
+1976,1976-11-17,Grêmio,Vasco,1,3,D,V,NORMAL,R
+1976,1976-11-17,Náutico,Fluminense,3,1,V,D,NORMAL,R
+1976,1976-11-17,CRB,Bahia,2,2,E,E,NORMAL,R
+1976,1976-11-17,Guarani,Atlético Mineiro,1,0,V,D,NORMAL,R
+1976,1976-11-18,Corinthians,Ponte Preta,2,0,V,D,NORMAL,Q
+1976,1976-11-20,Portuguesa,Caxias,3,4,D,V,NORMAL,Q
+1976,1976-11-21,Coritiba,Botafogo-SP,0,1,D,V,NORMAL,Q
+1976,1976-11-21,Corinthians,Internacional,2,1,V,D,NORMAL,Q
+1976,1976-11-21,Ponte Preta,Palmeiras,2,1,V,D,NORMAL,Q
+1976,1976-11-21,Vasco,Flamengo,1,0,V,D,NORMAL,R
+1976,1976-11-21,Grêmio,CRB,2,1,V,D,NORMAL,R
+1976,1976-11-21,Náutico,Guarani,0,1,D,V,NORMAL,R
+1976,1976-11-21,Atlético Mineiro,Fluminense,0,0,E,E,NORMAL,R
+1976,1976-11-24,Coritiba,Portuguesa,2,1,V,D,NORMAL,Q
+1976,1976-11-24,Internacional,Ponte Preta,2,0,V,D,NORMAL,Q
+1976,1976-11-24,Santa Cruz,Botafogo-SP,3,1,V,D,NORMAL,Q
+1976,1976-11-24,Palmeiras,Caxias,0,0,E,E,NORMAL,Q
+1976,1976-11-24,Guarani,Bahia,3,0,V,D,NORMAL,R
+1976,1976-11-24,Flamengo,Grêmio,5,1,V,D,NORMAL,R
+1976,1976-11-24,CRB,Náutico,1,3,D,V,NORMAL,R
+1976,1976-11-25,Vasco,Atlético Mineiro,0,4,D,V,NORMAL,R
+1976,1976-11-27,Palmeiras,Coritiba,0,0,E,E,NORMAL,Q
+1976,1976-11-27,Flamengo,Náutico,2,0,V,D,NORMAL,R
+1976,1976-11-28,Internacional,Portuguesa,3,0,V,D,NORMAL,Q
+1976,1976-11-28,Caxias,Ponte Preta,1,0,V,D,NORMAL,Q
+1976,1976-11-28,Santa Cruz,Corinthians,1,2,D,V,NORMAL,Q
+1976,1976-11-28,Guarani,Vasco,2,3,D,V,NORMAL,R
+1976,1976-11-28,Fluminense,Bahia,1,0,V,D,NORMAL,R
+1976,1976-11-28,Atlético Mineiro,Grêmio,0,0,E,E,NORMAL,R
+1976,1976-12-05,Fluminense,Corinthians,1,1,E,E,NORMAL,SF
+1976,1976-12-05,Internacional,Atlético Mineiro,2,1,V,D,NORMAL,SF
+1976,1976-12-12,Internacional,Corinthians,2,0,V,D,NORMAL,F

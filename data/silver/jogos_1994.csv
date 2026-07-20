@@ -1,0 +1,311 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1994,1994-08-13,Criciúma,Corinthians,1,1,E,E,NORMAL,A
+1994,1994-08-13,Sport,Flamengo,1,1,E,E,NORMAL,A
+1994,1994-08-14,Red Bull Bragantino,Grêmio,0,0,E,E,NORMAL,A
+1994,1994-08-14,Paysandu,São Paulo,0,0,E,E,NORMAL,B
+1994,1994-08-14,Botafogo,Vitória,1,1,E,E,NORMAL,B
+1994,1994-08-14,Atlético Mineiro,Portuguesa,0,0,E,E,NORMAL,B
+1994,1994-08-14,Bahia,Vasco,0,0,E,E,NORMAL,C
+1994,1994-08-14,Santos,Remo,1,0,V,D,NORMAL,C
+1994,1994-08-14,Guarani,Cruzeiro,2,0,V,D,NORMAL,C
+1994,1994-08-14,Palmeiras,Paraná,4,1,V,D,NORMAL,D
+1994,1994-08-14,Fluminense,Náutico,3,1,V,D,NORMAL,D
+1994,1994-08-14,Internacional,União São João,2,0,V,D,NORMAL,D
+1994,1994-08-17,Flamengo,Red Bull Bragantino,2,1,V,D,NORMAL,A
+1994,1994-08-17,Grêmio,Criciúma,2,1,V,D,NORMAL,A
+1994,1994-08-17,Corinthians,Sport,1,1,E,E,NORMAL,A
+1994,1994-08-17,Portuguesa,Botafogo,0,0,E,E,NORMAL,B
+1994,1994-08-17,Vasco,Guarani,3,1,V,D,NORMAL,C
+1994,1994-08-17,Cruzeiro,Santos,0,0,E,E,NORMAL,C
+1994,1994-08-17,Remo,Bahia,1,1,E,E,NORMAL,C
+1994,1994-08-17,União São João,Fluminense,1,0,V,D,NORMAL,D
+1994,1994-08-17,Náutico,Palmeiras,1,3,D,V,NORMAL,D
+1994,1994-08-17,Paraná,Internacional,1,1,E,E,NORMAL,D
+1994,1994-08-18,São Paulo,Atlético Mineiro,1,0,V,D,NORMAL,B
+1994,1994-08-18,Vitória,Paysandu,0,1,D,V,NORMAL,B
+1994,1994-08-20,Botafogo,São Paulo,4,0,V,D,NORMAL,B
+1994,1994-08-20,Santos,Vasco,2,0,V,D,NORMAL,C
+1994,1994-08-21,Corinthians,Grêmio,2,2,E,E,NORMAL,A
+1994,1994-08-21,Criciúma,Flamengo,1,1,E,E,NORMAL,A
+1994,1994-08-21,Red Bull Bragantino,Sport,0,1,D,V,NORMAL,A
+1994,1994-08-21,Atlético Mineiro,Paysandu,1,3,D,V,NORMAL,B
+1994,1994-08-21,Portuguesa,Vitória,1,0,V,D,NORMAL,B
+1994,1994-08-21,Bahia,Guarani,0,2,D,V,NORMAL,C
+1994,1994-08-21,Remo,Cruzeiro,2,1,V,D,NORMAL,C
+1994,1994-08-21,Internacional,Palmeiras,0,2,D,V,NORMAL,D
+1994,1994-08-21,Fluminense,Paraná,2,1,V,D,NORMAL,D
+1994,1994-08-21,Náutico,União São João,0,1,D,V,NORMAL,D
+1994,1994-08-24,Grêmio,Flamengo,2,0,V,D,NORMAL,A
+1994,1994-08-24,Red Bull Bragantino,Corinthians,0,1,D,V,NORMAL,A
+1994,1994-08-24,Sport,Criciúma,1,1,E,E,NORMAL,A
+1994,1994-08-24,Paysandu,Portuguesa,0,0,E,E,NORMAL,B
+1994,1994-08-24,Botafogo,Atlético Mineiro,2,1,V,D,NORMAL,B
+1994,1994-08-24,Cruzeiro,Vasco,1,1,E,E,NORMAL,C
+1994,1994-08-24,Guarani,Remo,1,0,V,D,NORMAL,C
+1994,1994-08-24,Santos,Bahia,3,0,V,D,NORMAL,C
+1994,1994-08-24,Fluminense,Internacional,2,1,V,D,NORMAL,D
+1994,1994-08-24,Palmeiras,União São João,5,1,V,D,NORMAL,D
+1994,1994-08-25,Paraná,Náutico,1,1,E,E,NORMAL,D
+1994,1994-08-27,Guarani,Santos,4,0,V,D,NORMAL,C
+1994,1994-08-27,Palmeiras,Fluminense,1,0,V,D,NORMAL,D
+1994,1994-08-28,Criciúma,Red Bull Bragantino,1,1,E,E,NORMAL,A
+1994,1994-08-28,Sport,Grêmio,0,1,D,V,NORMAL,A
+1994,1994-08-28,Flamengo,Corinthians,5,2,V,D,NORMAL,A
+1994,1994-08-28,Paysandu,Botafogo,2,0,V,D,NORMAL,B
+1994,1994-08-28,São Paulo,Portuguesa,2,0,V,D,NORMAL,B
+1994,1994-08-28,Atlético Mineiro,Vitória,3,1,V,D,NORMAL,B
+1994,1994-08-28,Vasco,Remo,3,0,V,D,NORMAL,C
+1994,1994-08-28,Bahia,Cruzeiro,2,1,V,D,NORMAL,C
+1994,1994-08-28,União São João,Paraná,1,2,D,V,NORMAL,D
+1994,1994-08-28,Internacional,Náutico,5,0,V,D,NORMAL,D
+1994,1994-08-31,Corinthians,Red Bull Bragantino,6,1,V,D,NORMAL,A
+1994,1994-08-31,Flamengo,Grêmio,2,2,E,E,NORMAL,A
+1994,1994-08-31,Atlético Mineiro,Botafogo,0,2,D,V,NORMAL,B
+1994,1994-08-31,Vasco,Cruzeiro,1,0,V,D,NORMAL,C
+1994,1994-08-31,Bahia,Santos,2,1,V,D,NORMAL,C
+1994,1994-08-31,Remo,Guarani,0,2,D,V,NORMAL,C
+1994,1994-08-31,Internacional,Fluminense,3,0,V,D,NORMAL,D
+1994,1994-09-01,Criciúma,Sport,5,0,V,D,NORMAL,A
+1994,1994-09-01,São Paulo,Vitória,2,2,E,E,NORMAL,B
+1994,1994-09-01,Portuguesa,Paysandu,3,1,V,D,NORMAL,B
+1994,1994-09-01,Náutico,Paraná,0,0,E,E,NORMAL,D
+1994,1994-09-03,Corinthians,Flamengo,1,0,V,D,NORMAL,A
+1994,1994-09-03,Fluminense,Palmeiras,1,1,E,E,NORMAL,D
+1994,1994-09-04,Grêmio,Sport,1,1,E,E,NORMAL,A
+1994,1994-09-04,Botafogo,Paysandu,5,2,V,D,NORMAL,B
+1994,1994-09-04,Vitória,Atlético Mineiro,1,1,E,E,NORMAL,B
+1994,1994-09-04,Portuguesa,São Paulo,0,0,E,E,NORMAL,B
+1994,1994-09-04,Cruzeiro,Bahia,2,1,V,D,NORMAL,C
+1994,1994-09-04,Santos,Guarani,1,0,V,D,NORMAL,C
+1994,1994-09-04,Remo,Vasco,0,1,D,V,NORMAL,C
+1994,1994-09-04,Paraná,União São João,2,1,V,D,NORMAL,D
+1994,1994-09-07,Vitória,São Paulo,1,1,E,E,NORMAL,B
+1994,1994-09-07,União São João,Palmeiras,0,1,D,V,NORMAL,D
+1994,1994-09-07,Red Bull Bragantino,Criciúma,1,0,V,D,NORMAL,A
+1994,1994-09-07,Náutico,Internacional,1,1,E,E,NORMAL,D
+1994,1994-09-07,Paysandu,Atlético Mineiro,0,2,D,V,NORMAL,B
+1994,1994-09-07,Guarani,Bahia,1,1,E,E,NORMAL,C
+1994,1994-09-10,Grêmio,Corinthians,0,1,D,V,NORMAL,A
+1994,1994-09-10,São Paulo,Botafogo,4,1,V,D,NORMAL,B
+1994,1994-09-11,Flamengo,Criciúma,1,1,E,E,NORMAL,A
+1994,1994-09-11,Sport,Red Bull Bragantino,4,3,V,D,NORMAL,A
+1994,1994-09-11,Vitória,Portuguesa,0,0,E,E,NORMAL,B
+1994,1994-09-11,Vasco,Santos,0,0,E,E,NORMAL,C
+1994,1994-09-11,Cruzeiro,Remo,0,1,D,V,NORMAL,C
+1994,1994-09-11,Palmeiras,Internacional,1,0,V,D,NORMAL,D
+1994,1994-09-11,Paraná,Fluminense,2,3,D,V,NORMAL,D
+1994,1994-09-14,Bahia,Remo,1,0,V,D,NORMAL,C
+1994,1994-09-15,União São João,Náutico,0,0,E,E,NORMAL,D
+1994,1994-09-17,Atlético Mineiro,São Paulo,0,0,E,E,NORMAL,B
+1994,1994-09-17,Guarani,Vasco,2,1,V,D,NORMAL,C
+1994,1994-09-18,Sport,Corinthians,2,0,V,D,NORMAL,A
+1994,1994-09-18,Red Bull Bragantino,Flamengo,0,1,D,V,NORMAL,A
+1994,1994-09-18,Criciúma,Grêmio,1,0,V,D,NORMAL,A
+1994,1994-09-18,Botafogo,Portuguesa,1,0,V,D,NORMAL,B
+1994,1994-09-18,Paysandu,Vitória,3,1,V,D,NORMAL,B
+1994,1994-09-18,Santos,Cruzeiro,4,1,V,D,NORMAL,C
+1994,1994-09-18,Palmeiras,Náutico,4,1,V,D,NORMAL,D
+1994,1994-09-18,Internacional,Paraná,1,3,D,V,NORMAL,D
+1994,1994-09-18,Fluminense,União São João,2,2,E,E,NORMAL,D
+1994,1994-09-24,São Paulo,Paysandu,1,2,D,V,NORMAL,B
+1994,1994-09-24,Paraná,Palmeiras,2,4,D,V,NORMAL,D
+1994,1994-09-24,Náutico,Fluminense,2,1,V,D,NORMAL,D
+1994,1994-09-24,União São João,Internacional,3,0,V,D,NORMAL,D
+1994,1994-09-25,Corinthians,Criciúma,3,2,V,D,NORMAL,A
+1994,1994-09-25,Flamengo,Sport,3,0,V,D,NORMAL,A
+1994,1994-09-25,Grêmio,Red Bull Bragantino,2,1,V,D,NORMAL,A
+1994,1994-09-25,Vitória,Botafogo,2,0,V,D,NORMAL,B
+1994,1994-09-25,Portuguesa,Atlético Mineiro,0,0,E,E,NORMAL,B
+1994,1994-09-25,Vasco,Bahia,2,3,D,V,NORMAL,C
+1994,1994-09-25,Remo,Santos,1,4,D,V,NORMAL,C
+1994,1994-09-25,Cruzeiro,Guarani,1,2,D,V,NORMAL,C
+1994,1994-09-27,Botafogo,Bahia,1,1,E,E,NORMAL,B
+1994,1994-10-01,Fluminense,Corinthians,1,3,D,V,NORMAL,A
+1994,1994-10-01,Palmeiras,Sport,1,0,V,D,NORMAL,B
+1994,1994-10-02,Guarani,Internacional,0,0,E,E,NORMAL,A
+1994,1994-10-02,Grêmio,Portuguesa,2,1,V,D,NORMAL,A
+1994,1994-10-02,Flamengo,Santos,1,1,E,E,NORMAL,B
+1994,1994-10-02,Bahia,Paraná,1,1,E,E,NORMAL,B
+1994,1994-10-02,Vitória,Náutico,2,0,V,D,NORMAL,4F
+1994,1994-10-02,Cruzeiro,Criciúma,3,0,V,D,NORMAL,4F
+1994,1994-10-05,Paysandu,Vasco,1,0,V,D,NORMAL,A
+1994,1994-10-05,Atlético Mineiro,União São João,3,0,V,D,NORMAL,4F
+1994,1994-10-06,Remo,Red Bull Bragantino,0,3,D,V,NORMAL,4F
+1994,1994-10-08,Palmeiras,Paraná,1,0,V,D,NORMAL,B
+1994,1994-10-08,Santos,São Paulo,2,3,D,V,NORMAL,B
+1994,1994-10-08,Sport,Flamengo,1,0,V,D,NORMAL,B
+1994,1994-10-08,Portuguesa,Guarani,1,1,E,E,NORMAL,A
+1994,1994-10-09,Corinthians,Grêmio,3,0,V,D,NORMAL,A
+1994,1994-10-09,Fluminense,Vasco,0,0,E,E,NORMAL,A
+1994,1994-10-09,Internacional,Paysandu,3,1,V,D,NORMAL,A
+1994,1994-10-09,Cruzeiro,Vitória,2,1,V,D,NORMAL,4F
+1994,1994-10-09,Náutico,Remo,0,1,D,V,NORMAL,4F
+1994,1994-10-09,Criciúma,Atlético Mineiro,2,0,V,D,NORMAL,4F
+1994,1994-10-09,Red Bull Bragantino,União São João,1,0,V,D,NORMAL,4F
+1994,1994-10-12,Paraná,Sport,0,0,E,E,NORMAL,B
+1994,1994-10-12,Internacional,Fluminense,3,2,V,D,NORMAL,A
+1994,1994-10-12,Guarani,Corinthians,2,1,V,D,NORMAL,A
+1994,1994-10-12,Vitória,Remo,0,1,D,V,NORMAL,4F
+1994,1994-10-12,Portuguesa,Paysandu,1,0,V,D,NORMAL,A
+1994,1994-10-14,São Paulo,Botafogo,1,0,V,D,NORMAL,B
+1994,1994-10-15,Bahia,Palmeiras,1,1,E,E,NORMAL,B
+1994,1994-10-15,Corinthians,Vasco,2,1,V,D,NORMAL,A
+1994,1994-10-15,Fluminense,Guarani,1,2,D,V,NORMAL,A
+1994,1994-10-16,Paraná,São Paulo,2,2,E,E,NORMAL,B
+1994,1994-10-16,Botafogo,Flamengo,1,0,V,D,NORMAL,B
+1994,1994-10-16,Santos,Sport,2,2,E,E,NORMAL,B
+1994,1994-10-16,Atlético Mineiro,Red Bull Bragantino,1,1,E,E,NORMAL,4F
+1994,1994-10-16,Náutico,Cruzeiro,2,0,V,D,NORMAL,4F
+1994,1994-10-16,União São João,Criciúma,1,1,E,E,NORMAL,4F
+1994,1994-10-16,Grêmio,Internacional,1,1,E,E,NORMAL,A
+1994,1994-10-19,Vasco,Portuguesa,1,0,V,D,NORMAL,A
+1994,1994-10-19,Paysandu,Grêmio,1,0,V,D,NORMAL,A
+1994,1994-10-19,Red Bull Bragantino,Criciúma,4,1,V,D,NORMAL,4F
+1994,1994-10-20,União São João,Vitória,4,2,V,D,NORMAL,4F
+1994,1994-10-20,Atlético Mineiro,Náutico,1,0,V,D,NORMAL,4F
+1994,1994-10-22,Santos,Botafogo,2,0,V,D,NORMAL,B
+1994,1994-10-22,Flamengo,Palmeiras,2,0,V,D,NORMAL,B
+1994,1994-10-22,Palmeiras,Santos,2,0,V,D,NORMAL,B
+1994,1994-10-22,Botafogo,Paraná,3,2,V,D,NORMAL,B
+1994,1994-10-22,Sport,Bahia,2,1,V,D,NORMAL,B
+1994,1994-10-22,Remo,Criciúma,2,2,E,E,NORMAL,4F
+1994,1994-10-23,São Paulo,Bahia,1,1,E,E,NORMAL,B
+1994,1994-10-23,Corinthians,Portuguesa,2,1,V,D,NORMAL,A
+1994,1994-10-23,Grêmio,Guarani,1,2,D,V,NORMAL,A
+1994,1994-10-23,Vasco,Internacional,5,2,V,D,NORMAL,A
+1994,1994-10-23,Paysandu,Fluminense,0,0,E,E,NORMAL,A
+1994,1994-10-23,Atlético Mineiro,Cruzeiro,1,0,V,D,NORMAL,4F
+1994,1994-10-23,Red Bull Bragantino,Vitória,0,1,D,V,NORMAL,4F
+1994,1994-10-23,União São João,Náutico,1,0,V,D,NORMAL,4F
+1994,1994-10-26,Palmeiras,Botafogo,1,0,V,D,NORMAL,B
+1994,1994-10-26,Paraná,Flamengo,0,0,E,E,NORMAL,B
+1994,1994-10-26,Bahia,Santos,3,2,V,D,NORMAL,B
+1994,1994-10-26,Internacional,Corinthians,0,0,E,E,NORMAL,A
+1994,1994-10-26,Vasco,Grêmio,0,2,D,V,NORMAL,A
+1994,1994-10-26,Guarani,Paysandu,2,2,E,E,NORMAL,A
+1994,1994-10-26,Criciúma,Vitória,2,2,E,E,NORMAL,4F
+1994,1994-10-26,Náutico,Red Bull Bragantino,2,0,V,D,NORMAL,4F
+1994,1994-10-27,Fluminense,Portuguesa,2,1,V,D,NORMAL,A
+1994,1994-10-27,Atlético Mineiro,Remo,2,1,V,D,NORMAL,4F
+1994,1994-10-28,São Paulo,Flamengo,3,0,V,D,NORMAL,B
+1994,1994-10-28,Cruzeiro,União São João,3,2,V,D,NORMAL,4F
+1994,1994-10-29,Botafogo,Sport,2,5,D,V,NORMAL,B
+1994,1994-10-29,Corinthians,Paysandu,2,1,V,D,NORMAL,A
+1994,1994-10-29,Guarani,Vasco,2,0,V,D,NORMAL,A
+1994,1994-10-30,São Paulo,Palmeiras,2,2,E,E,NORMAL,B
+1994,1994-10-30,Flamengo,Bahia,0,1,D,V,NORMAL,B
+1994,1994-10-30,Santos,Paraná,1,0,V,D,NORMAL,B
+1994,1994-10-30,Portuguesa,Internacional,1,0,V,D,NORMAL,A
+1994,1994-10-30,Grêmio,Fluminense,3,1,V,D,NORMAL,A
+1994,1994-10-30,Red Bull Bragantino,Cruzeiro,1,0,V,D,NORMAL,4F
+1994,1994-10-30,Vitória,Atlético Mineiro,1,0,V,D,NORMAL,4F
+1994,1994-10-30,Criciúma,Náutico,2,1,V,D,NORMAL,4F
+1994,1994-10-30,União São João,Remo,0,0,E,E,NORMAL,4F
+1994,1994-11-01,Sport,São Paulo,5,2,V,D,NORMAL,B
+1994,1994-11-01,Remo,Cruzeiro,0,0,E,E,NORMAL,4F
+1994,1994-11-02,Paraná,Corinthians,0,0,E,E,NORMAL,3F
+1994,1994-11-02,Paysandu,Santos,0,1,D,V,NORMAL,3F
+1994,1994-11-02,Bahia,Fluminense,1,1,E,E,NORMAL,3F
+1994,1994-11-02,Portuguesa,Flamengo,3,0,V,D,NORMAL,3F
+1994,1994-11-02,Palmeiras,Guarani,0,1,D,V,NORMAL,3F
+1994,1994-11-02,Vitória,Red Bull Bragantino,0,2,D,V,NORMAL,4F
+1994,1994-11-03,Internacional,Sport,1,0,V,D,NORMAL,3F
+1994,1994-11-03,Vasco,São Paulo,2,0,V,D,NORMAL,3F
+1994,1994-11-03,Remo,União São João,0,0,E,E,NORMAL,4F
+1994,1994-11-03,Náutico,Criciúma,3,1,V,D,NORMAL,4F
+1994,1994-11-05,Fluminense,Palmeiras,4,1,V,D,NORMAL,3F
+1994,1994-11-05,Santos,Vasco,3,0,V,D,NORMAL,3F
+1994,1994-11-05,Grêmio,Paraná,1,3,D,V,NORMAL,3F
+1994,1994-11-06,São Paulo,Paysandu,4,0,V,D,NORMAL,3F
+1994,1994-11-06,Corinthians,Botafogo,0,2,D,V,NORMAL,3F
+1994,1994-11-06,Flamengo,Internacional,1,2,D,V,NORMAL,3F
+1994,1994-11-06,Guarani,Bahia,2,0,V,D,NORMAL,3F
+1994,1994-11-06,Sport,Portuguesa,0,3,D,V,NORMAL,3F
+1994,1994-11-06,Cruzeiro,Red Bull Bragantino,1,1,E,E,NORMAL,4F
+1994,1994-11-06,Remo,Atlético Mineiro,0,6,D,V,NORMAL,4F
+1994,1994-11-06,Vitória,Criciúma,1,0,V,D,NORMAL,4F
+1994,1994-11-06,Náutico,União São João,0,1,D,V,NORMAL,4F
+1994,1994-11-08,Grêmio,Palmeiras,1,1,E,E,NORMAL,3F
+1994,1994-11-09,São Paulo,Portuguesa,0,2,D,V,NORMAL,3F
+1994,1994-11-09,Sport,Vasco,0,0,E,E,NORMAL,3F
+1994,1994-11-09,Santos,Internacional,1,0,V,D,NORMAL,3F
+1994,1994-11-09,Fluminense,Botafogo,2,2,E,E,NORMAL,3F
+1994,1994-11-09,Corinthians,Bahia,2,2,E,E,NORMAL,3F
+1994,1994-11-09,Guarani,Paraná,4,1,V,D,NORMAL,3F
+1994,1994-11-09,Náutico,Atlético Mineiro,0,0,E,E,NORMAL,4F
+1994,1994-11-09,Criciúma,Cruzeiro,1,0,V,D,NORMAL,4F
+1994,1994-11-09,Vitória,União São João,1,1,E,E,NORMAL,4F
+1994,1994-11-10,Flamengo,Paysandu,0,0,E,E,NORMAL,3F
+1994,1994-11-10,Red Bull Bragantino,Remo,2,0,V,D,NORMAL,4F
+1994,1994-11-12,Internacional,São Paulo,0,1,D,V,NORMAL,3F
+1994,1994-11-12,Portuguesa,Santos,0,0,E,E,NORMAL,3F
+1994,1994-11-12,Paraná,Fluminense,4,1,V,D,NORMAL,3F
+1994,1994-11-13,Vasco,Flamengo,1,1,E,E,NORMAL,3F
+1994,1994-11-13,Palmeiras,Corinthians,4,1,V,D,NORMAL,3F
+1994,1994-11-13,Botafogo,Guarani,1,1,E,E,NORMAL,3F
+1994,1994-11-13,Paysandu,Sport,1,1,E,E,NORMAL,3F
+1994,1994-11-13,Bahia,Grêmio,2,0,V,D,NORMAL,3F
+1994,1994-11-13,Cruzeiro,Remo,1,5,D,V,NORMAL,4F
+1994,1994-11-13,Red Bull Bragantino,Atlético Mineiro,2,2,E,E,NORMAL,4F
+1994,1994-11-16,Flamengo,Fluminense,0,3,D,V,NORMAL,3F
+1994,1994-11-16,São Paulo,Grêmio,3,1,V,D,NORMAL,3F
+1994,1994-11-16,Paysandu,Botafogo,0,1,D,V,NORMAL,3F
+1994,1994-11-16,Internacional,Bahia,0,0,E,E,NORMAL,3F
+1994,1994-11-16,Sport,Guarani,0,2,D,V,NORMAL,3F
+1994,1994-11-16,Santos,Corinthians,1,2,D,V,NORMAL,3F
+1994,1994-11-16,Criciúma,Remo,2,1,V,D,NORMAL,4F
+1994,1994-11-16,União São João,Red Bull Bragantino,0,0,E,E,NORMAL,4F
+1994,1994-11-16,Atlético Mineiro,Vitória,2,2,E,E,NORMAL,4F
+1994,1994-11-17,Portuguesa,Palmeiras,3,1,V,D,NORMAL,3F
+1994,1994-11-17,Cruzeiro,Náutico,2,0,V,D,NORMAL,4F
+1994,1994-11-19,Grêmio,Flamengo,0,1,D,V,NORMAL,3F
+1994,1994-11-19,Guarani,São Paulo,1,0,V,D,NORMAL,3F
+1994,1994-11-20,Botafogo,Portuguesa,5,2,V,D,NORMAL,3F
+1994,1994-11-20,Fluminense,Santos,0,1,D,V,NORMAL,3F
+1994,1994-11-20,Corinthians,Sport,0,3,D,V,NORMAL,3F
+1994,1994-11-20,Palmeiras,Vasco,3,0,V,D,NORMAL,3F
+1994,1994-11-20,Bahia,Paysandu,3,0,V,D,NORMAL,3F
+1994,1994-11-20,Paraná,Internacional,0,0,E,E,NORMAL,3F
+1994,1994-11-20,Remo,Vitória,0,1,D,V,NORMAL,4F
+1994,1994-11-20,União São João,Cruzeiro,2,3,D,V,NORMAL,4F
+1994,1994-11-20,Red Bull Bragantino,Náutico,1,0,V,D,NORMAL,4F
+1994,1994-11-20,Atlético Mineiro,Criciúma,2,1,V,D,NORMAL,4F
+1994,1994-11-23,Corinthians,São Paulo,1,2,D,V,NORMAL,3F
+1994,1994-11-23,Grêmio,Santos,1,0,V,D,NORMAL,3F
+1994,1994-11-23,Paraná,Paysandu,1,0,V,D,NORMAL,3F
+1994,1994-11-23,Guarani,Flamengo,0,0,E,E,NORMAL,3F
+1994,1994-11-23,Fluminense,Sport,1,0,V,D,NORMAL,3F
+1994,1994-11-23,Palmeiras,Internacional,1,1,E,E,NORMAL,3F
+1994,1994-11-23,Bahia,Portuguesa,2,1,V,D,NORMAL,3F
+1994,1994-11-23,Botafogo,Vasco,0,0,E,E,NORMAL,3F
+1994,1994-11-23,Cruzeiro,Atlético Mineiro,0,1,D,V,NORMAL,4F
+1994,1994-11-23,Náutico,Vitória,1,0,V,D,NORMAL,4F
+1994,1994-11-23,Criciúma,União São João,3,1,V,D,NORMAL,4F
+1994,1994-11-26,Santos,Guarani,3,0,V,D,NORMAL,3F
+1994,1994-11-26,Internacional,Botafogo,0,1,D,V,NORMAL,3F
+1994,1994-11-27,Paysandu,Palmeiras,1,0,V,D,NORMAL,3F
+1994,1994-11-27,Portuguesa,Paraná,2,0,V,D,NORMAL,3F
+1994,1994-11-27,Vasco,Bahia,0,0,E,E,NORMAL,3F
+1994,1994-11-27,Sport,Grêmio,1,2,D,V,NORMAL,3F
+1994,1994-11-27,São Paulo,Fluminense,4,2,V,D,NORMAL,3F
+1994,1994-11-27,Flamengo,Corinthians,2,0,V,D,NORMAL,3F
+1994,1994-11-27,Vitória,Cruzeiro,2,0,V,D,NORMAL,4F
+1994,1994-11-27,Remo,Náutico,2,0,V,D,NORMAL,4F
+1994,1994-11-27,União São João,Atlético Mineiro,3,1,V,D,NORMAL,4F
+1994,1994-11-27,Criciúma,Red Bull Bragantino,2,2,E,E,NORMAL,4F
+1994,1994-11-28,Botafogo,Grêmio,1,0,V,D,NORMAL,3F
+1994,1994-11-28,Vasco,Paraná,1,0,V,D,NORMAL,3F
+1994,1994-11-30,Corinthians,Red Bull Bragantino,1,1,E,E,NORMAL,QF
+1994,1994-11-30,São Paulo,Guarani,1,0,V,D,NORMAL,QF
+1994,1994-11-30,Bahia,Palmeiras,1,2,D,V,NORMAL,QF
+1994,1994-12-01,Atlético Mineiro,Botafogo,2,0,V,D,NORMAL,QF
+1994,1994-12-03,Guarani,São Paulo,4,2,V,D,NORMAL,QF
+1994,1994-12-03,Palmeiras,Bahia,2,1,V,D,NORMAL,QF
+1994,1994-12-04,Corinthians,Red Bull Bragantino,0,0,E,E,NORMAL,QF
+1994,1994-12-04,Botafogo,Atlético Mineiro,2,1,V,D,NORMAL,QF
+1994,1994-12-07,Atlético Mineiro,Corinthians,3,2,V,D,NORMAL,SF
+1994,1994-12-08,Palmeiras,Guarani,3,1,V,D,NORMAL,SF
+1994,1994-12-11,Corinthians,Atlético Mineiro,1,0,V,D,NORMAL,SF
+1994,1994-12-11,Guarani,Palmeiras,1,2,D,V,NORMAL,SF
+1994,1994-12-15,Corinthians,Palmeiras,1,3,D,V,NORMAL,F
+1994,1994-12-18,Palmeiras,Corinthians,1,1,E,E,NORMAL,F

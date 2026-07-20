@@ -1,0 +1,291 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1988,1988-09-02,Bahia,Bangu,1,1,E,E,NORMAL,1F
+1988,1988-09-02,Vitória,America-RJ,0,0,E,E,NORMAL,1F
+1988,1988-09-02,São Paulo,Santos,1,0,V,D,NORMAL,1F
+1988,1988-09-04,Santa Cruz,Sport,0,1,D,V,NORMAL,1F
+1988,1988-09-04,Goiás,Guarani,0,1,D,V,NORMAL,1F
+1988,1988-09-04,Palmeiras,Santos,1,1,E,E,NORMAL,1F
+1988,1988-09-04,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1988,1988-09-04,Botafogo,Fluminense,1,1,E,E,NORMAL,1F
+1988,1988-09-04,Vasco,Flamengo,1,0,V,D,NORMAL,1F
+1988,1988-09-04,Corinthians,São Paulo,0,1,D,V,NORMAL,1F
+1988,1988-09-04,Grêmio,Internacional,1,0,V,D,NORMAL,1F
+1988,1988-09-04,Coritiba,Athletico Paranaense,1,0,V,D,NORMAL,1F
+1988,1988-09-04,Criciúma,Portuguesa,1,1,E,E,NORMAL,1F
+1988,1988-09-07,Goiás,Vasco,0,2,D,V,NORMAL,1F
+1988,1988-09-07,Sport,Cruzeiro,0,0,E,E,NORMAL,1F
+1988,1988-09-07,Grêmio,São Paulo,3,0,V,D,NORMAL,1F
+1988,1988-09-07,Corinthians,Fluminense,0,0,E,E,NORMAL,1F
+1988,1988-09-07,Portuguesa,Coritiba,3,1,V,D,NORMAL,1F
+1988,1988-09-07,Palmeiras,Santa Cruz,2,1,V,D,NORMAL,1F
+1988,1988-09-07,America-RJ,Flamengo,1,2,D,V,NORMAL,1F
+1988,1988-09-07,Bahia,Vitória,1,0,V,D,NORMAL,1F
+1988,1988-09-07,Atlético Mineiro,Botafogo,1,0,V,D,NORMAL,1F
+1988,1988-09-07,Criciúma,Internacional,1,3,D,V,NORMAL,1F
+1988,1988-09-07,Athletico Paranaense,Santos,1,1,E,E,NORMAL,1F
+1988,1988-09-11,Flamengo,Corinthians,1,0,V,D,NORMAL,1F
+1988,1988-09-11,Guarani,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1988,1988-09-11,Fluminense,Bahia,3,0,V,D,NORMAL,1F
+1988,1988-09-11,Internacional,Santos,0,0,E,E,NORMAL,1F
+1988,1988-09-11,Cruzeiro,Athletico Paranaense,0,0,E,E,NORMAL,1F
+1988,1988-09-11,Vitória,Santa Cruz,2,0,V,D,NORMAL,1F
+1988,1988-09-11,Vasco,Portuguesa,4,2,V,D,NORMAL,1F
+1988,1988-09-11,Sport,Grêmio,0,0,E,E,NORMAL,1F
+1988,1988-09-11,São Paulo,Botafogo,1,0,V,D,NORMAL,1F
+1988,1988-09-11,Palmeiras,Criciúma,1,0,V,D,NORMAL,1F
+1988,1988-09-11,Bangu,America-RJ,2,0,V,D,NORMAL,1F
+1988,1988-09-11,Coritiba,Goiás,0,0,E,E,NORMAL,1F
+1988,1988-09-17,Corinthians,Vitória,2,1,V,D,NORMAL,1F
+1988,1988-09-17,Santos,Bangu,2,0,V,D,NORMAL,1F
+1988,1988-09-17,Fluminense,Criciúma,2,0,V,D,NORMAL,1F
+1988,1988-09-17,America-RJ,Portuguesa,0,1,D,V,NORMAL,1F
+1988,1988-09-18,Bahia,Flamengo,1,0,V,D,NORMAL,1F
+1988,1988-09-18,Santa Cruz,Goiás,3,0,V,D,NORMAL,1F
+1988,1988-09-18,São Paulo,Coritiba,0,0,E,E,NORMAL,1F
+1988,1988-09-18,Athletico Paranaense,Vasco,0,1,D,V,NORMAL,1F
+1988,1988-09-18,Internacional,Cruzeiro,2,2,E,E,NORMAL,1F
+1988,1988-09-18,Botafogo,Palmeiras,1,1,E,E,NORMAL,1F
+1988,1988-09-18,Guarani,Sport,0,0,E,E,NORMAL,1F
+1988,1988-09-18,Atlético Mineiro,Grêmio,1,0,V,D,NORMAL,1F
+1988,1988-09-24,Botafogo,Internacional,0,0,E,E,NORMAL,1F
+1988,1988-09-24,São Paulo,America-RJ,1,0,V,D,NORMAL,1F
+1988,1988-09-25,Palmeiras,Vasco,2,3,D,V,NORMAL,1F
+1988,1988-09-25,Grêmio,Fluminense,1,2,D,V,NORMAL,1F
+1988,1988-09-25,Flamengo,Santa Cruz,2,2,E,E,NORMAL,1F
+1988,1988-09-25,Portuguesa,Santos,1,0,V,D,NORMAL,1F
+1988,1988-09-25,Cruzeiro,Bangu,1,0,V,D,NORMAL,1F
+1988,1988-09-25,Criciúma,Athletico Paranaense,0,1,D,V,NORMAL,1F
+1988,1988-09-25,Goiás,Bahia,2,2,E,E,NORMAL,1F
+1988,1988-09-25,Sport,Corinthians,2,0,V,D,NORMAL,1F
+1988,1988-09-25,Vitória,Guarani,1,1,E,E,NORMAL,1F
+1988,1988-09-25,Coritiba,Atlético Mineiro,1,2,D,V,NORMAL,1F
+1988,1988-10-01,Guarani,Palmeiras,3,1,V,D,NORMAL,1F
+1988,1988-10-01,Fluminense,Santa Cruz,2,1,V,D,NORMAL,1F
+1988,1988-10-01,Portuguesa,Cruzeiro,5,2,V,D,NORMAL,1F
+1988,1988-10-02,Flamengo,Botafogo,2,2,E,E,NORMAL,1F
+1988,1988-10-02,Atlético Mineiro,Bahia,1,1,E,E,NORMAL,1F
+1988,1988-10-02,Bangu,Grêmio,0,2,D,V,NORMAL,1F
+1988,1988-10-02,Internacional,Coritiba,2,1,V,D,NORMAL,1F
+1988,1988-10-02,Vitória,Vasco,1,0,V,D,NORMAL,1F
+1988,1988-10-02,Criciúma,Goiás,1,1,E,E,NORMAL,1F
+1988,1988-10-02,America-RJ,Sport,1,1,E,E,NORMAL,1F
+1988,1988-10-02,Athletico Paranaense,Corinthians,0,0,E,E,NORMAL,1F
+1988,1988-10-08,Fluminense,Cruzeiro,1,0,V,D,NORMAL,1F
+1988,1988-10-08,Santos,Vitória,1,1,E,E,NORMAL,1F
+1988,1988-10-08,America-RJ,Goiás,0,0,E,E,NORMAL,1F
+1988,1988-10-08,Athletico Paranaense,Guarani,1,1,E,E,NORMAL,1F
+1988,1988-10-09,Flamengo,Grêmio,0,0,E,E,NORMAL,1F
+1988,1988-10-09,Santa Cruz,São Paulo,1,0,V,D,NORMAL,1F
+1988,1988-10-09,Vasco,Internacional,1,2,D,V,NORMAL,1F
+1988,1988-10-09,Botafogo,Portuguesa,0,1,D,V,NORMAL,1F
+1988,1988-10-09,Bangu,Coritiba,0,0,E,E,NORMAL,1F
+1988,1988-10-09,Atlético Mineiro,Criciúma,0,1,D,V,NORMAL,1F
+1988,1988-10-09,Bahia,Sport,1,1,E,E,NORMAL,1F
+1988,1988-10-09,Palmeiras,Corinthians,2,0,V,D,NORMAL,1F
+1988,1988-10-15,Goiás,Botafogo,2,1,V,D,NORMAL,1F
+1988,1988-10-15,Guarani,São Paulo,1,0,V,D,NORMAL,1F
+1988,1988-10-15,Grêmio,Palmeiras,2,0,V,D,NORMAL,1F
+1988,1988-10-16,Corinthians,Atlético Mineiro,0,1,D,V,NORMAL,1F
+1988,1988-10-16,Flamengo,Santos,1,0,V,D,NORMAL,1F
+1988,1988-10-16,Bahia,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1988,1988-10-16,Coritiba,Fluminense,0,1,D,V,NORMAL,1F
+1988,1988-10-16,Cruzeiro,Vitória,5,1,V,D,NORMAL,1F
+1988,1988-10-16,Vasco,Bangu,1,1,E,E,NORMAL,1F
+1988,1988-10-16,Santa Cruz,Portuguesa,1,0,V,D,NORMAL,1F
+1988,1988-10-16,Internacional,America-RJ,2,0,V,D,NORMAL,1F
+1988,1988-10-16,Sport,Criciúma,2,1,V,D,NORMAL,1F
+1988,1988-10-19,Santa Cruz,Athletico Paranaense,1,1,E,E,NORMAL,1F
+1988,1988-10-22,Sport,Botafogo,1,0,V,D,NORMAL,1F
+1988,1988-10-22,São Paulo,Bahia,0,2,D,V,NORMAL,1F
+1988,1988-10-23,Santos,Goiás,0,1,D,V,NORMAL,1F
+1988,1988-10-23,Palmeiras,Cruzeiro,2,0,V,D,NORMAL,1F
+1988,1988-10-23,Corinthians,Portuguesa,1,1,E,E,NORMAL,1F
+1988,1988-10-23,Criciúma,Bangu,0,0,E,E,NORMAL,1F
+1988,1988-10-23,Guarani,Flamengo,1,5,D,V,NORMAL,1F
+1988,1988-10-23,Internacional,Santa Cruz,2,0,V,D,NORMAL,1F
+1988,1988-10-23,Fluminense,Vasco,0,0,E,E,NORMAL,1F
+1988,1988-10-23,Atlético Mineiro,America-RJ,2,1,V,D,NORMAL,1F
+1988,1988-10-23,Athletico Paranaense,Grêmio,1,2,D,V,NORMAL,1F
+1988,1988-10-23,Vitória,Coritiba,1,0,V,D,NORMAL,1F
+1988,1988-10-26,Bangu,Santa Cruz,2,0,V,D,NORMAL,1F
+1988,1988-10-28,Flamengo,Criciúma,3,0,V,D,NORMAL,1F
+1988,1988-10-29,Atlético Mineiro,Santos,1,0,V,D,NORMAL,1F
+1988,1988-10-29,Botafogo,Bangu,1,0,V,D,NORMAL,1F
+1988,1988-10-30,Grêmio,Vitória,1,0,V,D,NORMAL,1F
+1988,1988-10-30,Portuguesa,Guarani,1,0,V,D,NORMAL,1F
+1988,1988-10-30,Corinthians,Internacional,2,2,E,E,NORMAL,1F
+1988,1988-10-30,Vasco,São Paulo,1,1,E,E,NORMAL,1F
+1988,1988-10-30,Fluminense,America-RJ,2,0,V,D,NORMAL,1F
+1988,1988-10-30,Bahia,Palmeiras,1,0,V,D,NORMAL,1F
+1988,1988-10-30,Coritiba,Sport,1,0,V,D,NORMAL,1F
+1988,1988-10-30,Goiás,Cruzeiro,3,0,V,D,NORMAL,1F
+1988,1988-11-02,Bangu,Guarani,0,1,D,V,NORMAL,1F
+1988,1988-11-02,Criciúma,Vitória,0,1,D,V,NORMAL,1F
+1988,1988-11-05,Fluminense,Guarani,0,0,E,E,NORMAL,1F
+1988,1988-11-05,Vitória,Botafogo,1,2,D,V,NORMAL,1F
+1988,1988-11-06,São Paulo,Criciúma,1,0,V,D,NORMAL,1F
+1988,1988-11-06,Santos,Sport,3,0,V,D,NORMAL,1F
+1988,1988-11-06,Palmeiras,Coritiba,0,1,D,V,NORMAL,1F
+1988,1988-11-06,Portuguesa,Grêmio,1,1,E,E,NORMAL,1F
+1988,1988-11-06,Vasco,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1988,1988-11-06,Cruzeiro,Flamengo,0,0,E,E,NORMAL,1F
+1988,1988-11-06,Internacional,Bahia,3,0,V,D,NORMAL,1F
+1988,1988-11-06,Goiás,Corinthians,0,0,E,E,NORMAL,1F
+1988,1988-11-06,Athletico Paranaense,America-RJ,3,0,V,D,NORMAL,1F
+1988,1988-11-09,Coritiba,Flamengo,2,2,E,E,NORMAL,1F
+1988,1988-11-09,Bangu,Corinthians,2,1,V,D,NORMAL,1F
+1988,1988-11-09,America-RJ,Palmeiras,1,0,V,D,NORMAL,1F
+1988,1988-11-09,Botafogo,Athletico Paranaense,0,2,D,V,NORMAL,1F
+1988,1988-11-09,Cruzeiro,São Paulo,0,1,D,V,NORMAL,1F
+1988,1988-11-09,Grêmio,Goiás,2,0,V,D,NORMAL,1F
+1988,1988-11-09,Santa Cruz,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1988,1988-11-09,Sport,Vasco,2,3,D,V,NORMAL,1F
+1988,1988-11-09,Portuguesa,Bahia,0,0,E,E,NORMAL,1F
+1988,1988-11-09,Santos,Fluminense,2,1,V,D,NORMAL,1F
+1988,1988-11-09,Guarani,Internacional,0,0,E,E,NORMAL,1F
+1988,1988-11-12,Santos,Guarani,0,0,E,E,NORMAL,B
+1988,1988-11-12,Santa Cruz,Vasco,1,1,E,E,NORMAL,B
+1988,1988-11-12,Fluminense,Athletico Paranaense,0,2,D,V,NORMAL,A
+1988,1988-11-13,Botafogo,Corinthians,0,2,D,V,NORMAL,B
+1988,1988-11-13,America-RJ,Grêmio,1,1,E,E,NORMAL,B
+1988,1988-11-13,Coritiba,Criciúma,0,0,E,E,NORMAL,B
+1988,1988-11-13,Bahia,Cruzeiro,2,1,V,D,NORMAL,B
+1988,1988-11-13,Palmeiras,São Paulo,1,1,E,E,NORMAL,A
+1988,1988-11-13,Internacional,Flamengo,3,1,V,D,NORMAL,A
+1988,1988-11-13,Goiás,Vitória,6,1,V,D,NORMAL,A
+1988,1988-11-13,Sport,Bangu,1,0,V,D,NORMAL,A
+1988,1988-11-13,Atlético Mineiro,Portuguesa,0,3,D,V,NORMAL,A
+1988,1988-11-16,Corinthians,Coritiba,1,0,V,D,NORMAL,B
+1988,1988-11-16,Botafogo,Santa Cruz,1,0,V,D,NORMAL,B
+1988,1988-11-16,Criciúma,Santos,0,1,D,V,NORMAL,B
+1988,1988-11-16,Vasco,Bahia,0,0,E,E,NORMAL,B
+1988,1988-11-17,Cruzeiro,Grêmio,3,0,V,D,NORMAL,B
+1988,1988-11-17,Portuguesa,Goiás,1,0,V,D,NORMAL,A
+1988,1988-11-17,São Paulo,Internacional,2,0,V,D,NORMAL,A
+1988,1988-11-17,Vitória,Atlético Mineiro,1,1,E,E,NORMAL,A
+1988,1988-11-17,Bangu,Fluminense,0,0,E,E,NORMAL,A
+1988,1988-11-17,Flamengo,Palmeiras,1,1,E,E,NORMAL,A
+1988,1988-11-17,Athletico Paranaense,Sport,0,0,E,E,NORMAL,A
+1988,1988-11-19,Guarani,America-RJ,2,0,V,D,NORMAL,B
+1988,1988-11-19,Coritiba,Botafogo,3,0,V,D,NORMAL,B
+1988,1988-11-19,Vasco,Santos,4,0,V,D,NORMAL,B
+1988,1988-11-20,Guarani,Bahia,0,0,E,E,NORMAL,B
+1988,1988-11-20,Santa Cruz,Criciúma,2,2,E,E,NORMAL,B
+1988,1988-11-20,America-RJ,Cruzeiro,1,2,D,V,NORMAL,B
+1988,1988-11-20,Grêmio,Corinthians,0,0,E,E,NORMAL,B
+1988,1988-11-20,Vitória,São Paulo,2,2,E,E,NORMAL,A
+1988,1988-11-20,Palmeiras,Athletico Paranaense,1,1,E,E,NORMAL,A
+1988,1988-11-20,Internacional,Portuguesa,2,1,V,D,NORMAL,A
+1988,1988-11-20,Atlético Mineiro,Fluminense,2,2,E,E,NORMAL,A
+1988,1988-11-20,Flamengo,Sport,2,1,V,D,NORMAL,A
+1988,1988-11-20,Goiás,Bangu,1,1,E,E,NORMAL,A
+1988,1988-11-23,Grêmio,Vasco,0,2,D,V,NORMAL,B
+1988,1988-11-23,Santos,America-RJ,2,0,V,D,NORMAL,B
+1988,1988-11-23,Guarani,Coritiba,1,3,D,V,NORMAL,B
+1988,1988-11-23,Fluminense,Portuguesa,3,0,V,D,NORMAL,A
+1988,1988-11-23,Goiás,Internacional,0,0,E,E,NORMAL,A
+1988,1988-11-24,Bahia,Botafogo,0,1,D,V,NORMAL,B
+1988,1988-11-24,Criciúma,Cruzeiro,0,0,E,E,NORMAL,B
+1988,1988-11-24,Corinthians,Santa Cruz,2,0,V,D,NORMAL,B
+1988,1988-11-24,Sport,Palmeiras,1,0,V,D,NORMAL,A
+1988,1988-11-24,Atlético Mineiro,Bangu,3,1,V,D,NORMAL,A
+1988,1988-11-24,Athletico Paranaense,Vitória,1,0,V,D,NORMAL,A
+1988,1988-11-24,São Paulo,Flamengo,2,1,V,D,NORMAL,A
+1988,1988-11-26,Coritiba,Santos,2,0,V,D,NORMAL,B
+1988,1988-11-26,Goiás,Fluminense,2,0,V,D,NORMAL,A
+1988,1988-11-27,Bahia,Corinthians,2,0,V,D,NORMAL,B
+1988,1988-11-27,Santa Cruz,Guarani,1,0,V,D,NORMAL,B
+1988,1988-11-27,Cruzeiro,Vasco,0,0,E,E,NORMAL,B
+1988,1988-11-27,Botafogo,Grêmio,1,0,V,D,NORMAL,B
+1988,1988-11-27,America-RJ,Criciúma,1,1,E,E,NORMAL,B
+1988,1988-11-27,Portuguesa,Palmeiras,1,0,V,D,NORMAL,A
+1988,1988-11-27,São Paulo,Sport,3,0,V,D,NORMAL,A
+1988,1988-11-27,Flamengo,Vitória,0,1,D,V,NORMAL,A
+1988,1988-11-27,Internacional,Atlético Mineiro,2,2,E,E,NORMAL,A
+1988,1988-11-27,Bangu,Athletico Paranaense,2,1,V,D,NORMAL,A
+1988,1988-11-30,Atlético Mineiro,Sport,0,0,E,E,NORMAL,A
+1988,1988-11-30,Vitória,Internacional,1,2,D,V,NORMAL,A
+1988,1988-11-30,Palmeiras,Goiás,2,0,V,D,NORMAL,A
+1988,1988-11-30,Fluminense,Flamengo,0,1,D,V,NORMAL,A
+1988,1988-12-01,Criciúma,Bahia,0,1,D,V,NORMAL,B
+1988,1988-12-01,Santa Cruz,Coritiba,0,0,E,E,NORMAL,B
+1988,1988-12-01,Vasco,Botafogo,3,0,V,D,NORMAL,B
+1988,1988-12-01,Santos,Cruzeiro,1,3,D,V,NORMAL,B
+1988,1988-12-01,Corinthians,America-RJ,3,2,V,D,NORMAL,B
+1988,1988-12-01,Grêmio,Guarani,2,1,V,D,NORMAL,B
+1988,1988-12-01,Bangu,São Paulo,0,0,E,E,NORMAL,A
+1988,1988-12-01,Athletico Paranaense,Portuguesa,0,0,E,E,NORMAL,A
+1988,1988-12-03,Vitória,Fluminense,1,0,V,D,NORMAL,A
+1988,1988-12-03,Atlético Mineiro,Palmeiras,1,0,V,D,NORMAL,A
+1988,1988-12-04,Santos,Grêmio,2,1,V,D,NORMAL,B
+1988,1988-12-04,Corinthians,Vasco,0,0,E,E,NORMAL,B
+1988,1988-12-04,Guarani,Criciúma,4,1,V,D,NORMAL,B
+1988,1988-12-04,Coritiba,Bahia,2,0,V,D,NORMAL,B
+1988,1988-12-04,America-RJ,Santa Cruz,1,0,V,D,NORMAL,B
+1988,1988-12-04,Botafogo,Cruzeiro,1,1,E,E,NORMAL,B
+1988,1988-12-04,São Paulo,Portuguesa,0,1,D,V,NORMAL,A
+1988,1988-12-04,Sport,Goiás,1,0,V,D,NORMAL,A
+1988,1988-12-04,Flamengo,Athletico Paranaense,2,1,V,D,NORMAL,A
+1988,1988-12-04,Internacional,Bangu,1,1,E,E,NORMAL,A
+1988,1988-12-07,Corinthians,Criciúma,3,0,V,D,NORMAL,B
+1988,1988-12-07,Grêmio,Santa Cruz,3,2,V,D,NORMAL,B
+1988,1988-12-07,Bahia,Santos,5,1,V,D,NORMAL,B
+1988,1988-12-07,Botafogo,America-RJ,0,0,E,E,NORMAL,B
+1988,1988-12-07,Sport,Fluminense,2,1,V,D,NORMAL,A
+1988,1988-12-08,Vasco,Coritiba,1,0,V,D,NORMAL,B
+1988,1988-12-08,Cruzeiro,Guarani,1,0,V,D,NORMAL,B
+1988,1988-12-08,Palmeiras,Internacional,2,1,V,D,NORMAL,A
+1988,1988-12-08,Portuguesa,Flamengo,0,2,D,V,NORMAL,A
+1988,1988-12-08,Athletico Paranaense,São Paulo,1,1,E,E,NORMAL,A
+1988,1988-12-08,Bangu,Vitória,1,1,E,E,NORMAL,A
+1988,1988-12-08,Goiás,Atlético Mineiro,1,1,E,E,NORMAL,A
+1988,1988-12-10,Santa Cruz,Santos,0,0,E,E,NORMAL,B
+1988,1988-12-10,Criciúma,Botafogo,0,2,D,V,NORMAL,B
+1988,1988-12-11,Guarani,Vasco,0,0,E,E,NORMAL,B
+1988,1988-12-11,Bahia,Grêmio,3,1,V,D,NORMAL,B
+1988,1988-12-11,Cruzeiro,Corinthians,1,1,E,E,NORMAL,B
+1988,1988-12-11,America-RJ,Coritiba,0,1,D,V,NORMAL,B
+1988,1988-12-11,Portuguesa,Sport,1,0,V,D,NORMAL,A
+1988,1988-12-11,Palmeiras,Vitória,1,0,V,D,NORMAL,A
+1988,1988-12-11,São Paulo,Atlético Mineiro,2,2,E,E,NORMAL,A
+1988,1988-12-11,Athletico Paranaense,Goiás,1,1,E,E,NORMAL,A
+1988,1988-12-11,Flamengo,Bangu,2,0,V,D,NORMAL,A
+1988,1988-12-11,Fluminense,Internacional,2,2,E,E,NORMAL,A
+1988,1988-12-14,Corinthians,Santos,1,2,D,V,NORMAL,B
+1988,1988-12-14,Botafogo,Guarani,3,0,V,D,NORMAL,B
+1988,1988-12-15,America-RJ,Vasco,0,1,D,V,NORMAL,B
+1988,1988-12-15,Criciúma,Grêmio,1,1,E,E,NORMAL,B
+1988,1988-12-15,Coritiba,Cruzeiro,0,2,D,V,NORMAL,B
+1988,1988-12-15,Santa Cruz,Bahia,2,1,V,D,NORMAL,B
+1988,1988-12-15,Fluminense,São Paulo,1,0,V,D,NORMAL,A
+1988,1988-12-15,Internacional,Sport,3,3,E,E,NORMAL,A
+1988,1988-12-15,Goiás,Flamengo,0,0,E,E,NORMAL,A
+1988,1988-12-15,Vitória,Portuguesa,3,2,V,D,NORMAL,A
+1988,1988-12-15,Bangu,Palmeiras,1,1,E,E,NORMAL,A
+1988,1988-12-15,Atlético Mineiro,Athletico Paranaense,0,0,E,E,NORMAL,A
+1988,1988-12-18,Guarani,Corinthians,2,2,E,E,NORMAL,B
+1988,1988-12-18,Santos,Botafogo,0,0,E,E,NORMAL,B
+1988,1988-12-18,Cruzeiro,Santa Cruz,2,0,V,D,NORMAL,B
+1988,1988-12-18,Grêmio,Coritiba,1,1,E,E,NORMAL,B
+1988,1988-12-18,Vasco,Criciúma,3,2,V,D,NORMAL,B
+1988,1988-12-18,Bahia,America-RJ,2,1,V,D,NORMAL,B
+1988,1988-12-18,Athletico Paranaense,Internacional,0,1,D,V,NORMAL,A
+1988,1988-12-18,Palmeiras,Fluminense,0,0,E,E,NORMAL,A
+1988,1988-12-18,Portuguesa,Bangu,1,0,V,D,NORMAL,A
+1988,1988-12-18,Flamengo,Atlético Mineiro,2,0,V,D,NORMAL,A
+1988,1988-12-18,Sport,Vitória,1,0,V,D,NORMAL,A
+1988,1988-12-18,São Paulo,Goiás,1,1,E,E,NORMAL,A
+1988,1989-01-28,Grêmio,Flamengo,0,0,E,E,NORMAL,QF
+1988,1989-01-29,Sport,Bahia,1,1,E,E,NORMAL,QF
+1988,1989-01-29,Vasco,Fluminense,0,1,D,V,NORMAL,QF
+1988,1989-01-29,Cruzeiro,Internacional,0,0,E,E,NORMAL,QF
+1988,1989-02-01,Bahia,Sport,0,0,E,E,NORMAL,QF
+1988,1989-02-01,Fluminense,Vasco,3,2,V,D,NORMAL,QF
+1988,1989-02-01,Internacional,Cruzeiro,2,0,V,D,NORMAL,QF
+1988,1989-02-02,Flamengo,Grêmio,0,1,D,V,NORMAL,QF
+1988,1989-02-09,Grêmio,Internacional,0,0,E,E,NORMAL,SF
+1988,1989-02-09,Fluminense,Bahia,0,0,E,E,NORMAL,SF
+1988,1989-02-12,Internacional,Grêmio,2,1,V,D,NORMAL,SF
+1988,1989-02-12,Bahia,Fluminense,2,1,V,D,NORMAL,SF
+1988,1989-02-15,Bahia,Internacional,2,1,V,D,NORMAL,F
+1988,1989-02-19,Internacional,Bahia,0,0,E,E,NORMAL,F

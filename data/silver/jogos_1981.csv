@@ -1,0 +1,307 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1981,1981-01-17,Vitória,Londrina,3,1,V,D,NORMAL,A
+1981,1981-01-17,Vasco,Vila Nova,3,1,V,D,NORMAL,A
+1981,1981-01-17,Santa Cruz,Paysandu,3,0,V,D,NORMAL,D
+1981,1981-01-18,Bangu,Colorado,0,0,E,E,NORMAL,A
+1981,1981-01-18,Internacional,Ponte Preta,4,2,V,D,NORMAL,A
+1981,1981-01-18,Joinville,Inter de Limeira,1,2,D,V,NORMAL,A
+1981,1981-01-18,Brasília,Portuguesa,2,2,E,E,NORMAL,B
+1981,1981-01-18,Desportiva Ferroviária,Botafogo,0,4,D,V,NORMAL,B
+1981,1981-01-18,Operário-MS,Pinheiros-PR,1,1,E,E,NORMAL,B
+1981,1981-01-18,Galícia,Corinthians,0,2,D,V,NORMAL,B
+1981,1981-01-18,Goiás,Grêmio,0,0,E,E,NORMAL,B
+1981,1981-01-18,Ferroviário,Campinense,2,1,V,D,NORMAL,C
+1981,1981-01-18,Sport,São Paulo,0,0,E,E,NORMAL,C
+1981,1981-01-18,Atlético Mineiro,CSA,3,0,V,D,NORMAL,C
+1981,1981-01-18,Mixto,Fluminense,1,1,E,E,NORMAL,C
+1981,1981-01-18,América-RN,River-PI,2,0,V,D,NORMAL,C
+1981,1981-01-18,CRB,Fortaleza,1,1,E,E,NORMAL,D
+1981,1981-01-18,Sampaio Corrêa,Itabaiana,1,0,V,D,NORMAL,D
+1981,1981-01-18,Nacional-AM,Cruzeiro,1,0,V,D,NORMAL,D
+1981,1981-01-18,Flamengo,Santos,0,0,E,E,NORMAL,D
+1981,1981-01-21,Ponte Preta,Vitória,3,0,V,D,NORMAL,A
+1981,1981-01-21,Londrina,Bangu,2,1,V,D,NORMAL,A
+1981,1981-01-21,Joinville,Vasco,0,2,D,V,NORMAL,A
+1981,1981-01-21,Inter de Limeira,Colorado,1,1,E,E,NORMAL,A
+1981,1981-01-21,Portuguesa,Goiás,2,0,V,D,NORMAL,B
+1981,1981-01-21,Desportiva Ferroviária,Pinheiros-PR,0,1,D,V,NORMAL,B
+1981,1981-01-21,Grêmio,Galícia,2,1,V,D,NORMAL,B
+1981,1981-01-21,Brasília,Corinthians,0,1,D,V,NORMAL,B
+1981,1981-01-21,Botafogo,Operário-MS,1,0,V,D,NORMAL,B
+1981,1981-01-21,Atlético Mineiro,Campinense,0,0,E,E,NORMAL,C
+1981,1981-01-21,América-RN,São Paulo,1,1,E,E,NORMAL,C
+1981,1981-01-21,CSA,Fluminense,0,2,D,V,NORMAL,C
+1981,1981-01-21,River-PI,Mixto,0,0,E,E,NORMAL,C
+1981,1981-01-21,Nacional-AM,Flamengo,0,1,D,V,NORMAL,D
+1981,1981-01-21,Paysandu,Cruzeiro,1,3,D,V,NORMAL,D
+1981,1981-01-21,Fortaleza,Itabaiana,1,0,V,D,NORMAL,D
+1981,1981-01-21,Santos,CRB,5,2,V,D,NORMAL,D
+1981,1981-01-22,Vila Nova,Internacional,0,2,D,V,NORMAL,A
+1981,1981-01-22,Sport,Ferroviário,2,0,V,D,NORMAL,C
+1981,1981-01-22,Sampaio Corrêa,Santa Cruz,1,1,E,E,NORMAL,D
+1981,1981-01-24,Fluminense,América-RN,4,2,V,D,NORMAL,C
+1981,1981-01-24,São Paulo,Mixto,4,0,V,D,NORMAL,C
+1981,1981-01-24,Fortaleza,Nacional-AM,1,1,E,E,NORMAL,D
+1981,1981-01-25,Colorado,Vitória,2,1,V,D,NORMAL,A
+1981,1981-01-25,Vasco,Internacional,4,0,V,D,NORMAL,A
+1981,1981-01-25,Londrina,Inter de Limeira,0,1,D,V,NORMAL,A
+1981,1981-01-25,Bangu,Ponte Preta,5,1,V,D,NORMAL,A
+1981,1981-01-25,Vila Nova,Joinville,0,0,E,E,NORMAL,A
+1981,1981-01-25,Corinthians,Botafogo,1,3,D,V,NORMAL,B
+1981,1981-01-25,Grêmio,Desportiva Ferroviária,2,0,V,D,NORMAL,B
+1981,1981-01-25,Operário-MS,Portuguesa,2,1,V,D,NORMAL,B
+1981,1981-01-25,Pinheiros-PR,Goiás,0,0,E,E,NORMAL,B
+1981,1981-01-25,Galícia,Brasília,1,0,V,D,NORMAL,B
+1981,1981-01-25,Campinense,Sport,4,1,V,D,NORMAL,C
+1981,1981-01-25,CSA,River-PI,2,1,V,D,NORMAL,C
+1981,1981-01-25,Ferroviário,Atlético Mineiro,1,1,E,E,NORMAL,C
+1981,1981-01-25,Itabaiana,CRB,3,1,V,D,NORMAL,D
+1981,1981-01-25,Paysandu,Flamengo,3,0,V,D,NORMAL,D
+1981,1981-01-25,Santa Cruz,Santos,1,1,E,E,NORMAL,D
+1981,1981-01-25,Cruzeiro,Sampaio Corrêa,1,1,E,E,NORMAL,D
+1981,1981-01-28,Ponte Preta,Inter de Limeira,3,0,V,D,NORMAL,A
+1981,1981-01-28,Bangu,Vasco,3,2,V,D,NORMAL,A
+1981,1981-01-28,Internacional,Londrina,1,0,V,D,NORMAL,A
+1981,1981-01-28,Corinthians,Desportiva Ferroviária,2,2,E,E,NORMAL,B
+1981,1981-01-28,Pinheiros-PR,Grêmio,1,1,E,E,NORMAL,B
+1981,1981-01-28,Brasília,Botafogo,0,2,D,V,NORMAL,B
+1981,1981-01-28,Goiás,Operário-MS,2,0,V,D,NORMAL,B
+1981,1981-01-28,Portuguesa,Galícia,2,1,V,D,NORMAL,B
+1981,1981-01-28,Atlético Mineiro,Sport,1,1,E,E,NORMAL,C
+1981,1981-01-28,Ferroviário,Fluminense,4,1,V,D,NORMAL,C
+1981,1981-01-28,River-PI,São Paulo,0,2,D,V,NORMAL,C
+1981,1981-01-28,Mixto,América-RN,4,2,V,D,NORMAL,C
+1981,1981-01-28,CRB,Santa Cruz,3,1,V,D,NORMAL,D
+1981,1981-01-28,Santos,Paysandu,4,0,V,D,NORMAL,D
+1981,1981-01-28,Flamengo,Sampaio Corrêa,2,0,V,D,NORMAL,D
+1981,1981-01-29,Colorado,Joinville,1,0,V,D,NORMAL,A
+1981,1981-01-29,Vitória,Vila Nova,1,0,V,D,NORMAL,A
+1981,1981-01-29,Campinense,CSA,0,1,D,V,NORMAL,C
+1981,1981-01-29,Cruzeiro,Fortaleza,1,0,V,D,NORMAL,D
+1981,1981-01-29,Nacional-AM,Itabaiana,1,0,V,D,NORMAL,D
+1981,1981-01-31,Botafogo,Portuguesa,0,1,D,V,NORMAL,B
+1981,1981-01-31,Grêmio,Corinthians,1,0,V,D,NORMAL,B
+1981,1981-01-31,Galícia,Goiás,3,2,V,D,NORMAL,B
+1981,1981-02-01,Inter de Limeira,Vasco,0,2,D,V,NORMAL,A
+1981,1981-02-01,Joinville,Internacional,1,0,V,D,NORMAL,A
+1981,1981-02-01,Vila Nova,Colorado,2,1,V,D,NORMAL,A
+1981,1981-02-01,Londrina,Ponte Preta,0,1,D,V,NORMAL,A
+1981,1981-02-01,Desportiva Ferroviária,Operário-MS,0,2,D,V,NORMAL,B
+1981,1981-02-01,Brasília,Pinheiros-PR,3,2,V,D,NORMAL,B
+1981,1981-02-01,Mixto,Campinense,1,0,V,D,NORMAL,C
+1981,1981-02-01,América-RN,Ferroviário,3,2,V,D,NORMAL,C
+1981,1981-02-01,CSA,São Paulo,2,2,E,E,NORMAL,C
+1981,1981-02-01,Sport,River-PI,1,1,E,E,NORMAL,C
+1981,1981-02-01,Fluminense,Atlético Mineiro,2,1,V,D,NORMAL,C
+1981,1981-02-01,Santos,Cruzeiro,0,0,E,E,NORMAL,D
+1981,1981-02-01,Sampaio Corrêa,CRB,1,1,E,E,NORMAL,D
+1981,1981-02-01,Itabaiana,Flamengo,0,2,D,V,NORMAL,D
+1981,1981-02-01,Fortaleza,Paysandu,1,1,E,E,NORMAL,D
+1981,1981-02-01,Nacional-AM,Santa Cruz,1,1,E,E,NORMAL,D
+1981,1981-02-01,Vitória,Bangu,2,0,V,D,NORMAL,A
+1981,1981-02-04,Ponte Preta,Joinville,2,0,V,D,NORMAL,A
+1981,1981-02-04,Colorado,Internacional,0,0,E,E,NORMAL,A
+1981,1981-02-04,Inter de Limeira,Vitória,1,0,V,D,NORMAL,A
+1981,1981-02-04,Pinheiros-PR,Botafogo,2,2,E,E,NORMAL,B
+1981,1981-02-04,Desportiva Ferroviária,Brasília,2,2,E,E,NORMAL,B
+1981,1981-02-04,Operário-MS,Galícia,1,0,V,D,NORMAL,B
+1981,1981-02-04,Portuguesa,Grêmio,1,0,V,D,NORMAL,B
+1981,1981-02-04,São Paulo,Ferroviário,0,0,E,E,NORMAL,C
+1981,1981-02-04,Mixto,CSA,3,0,V,D,NORMAL,C
+1981,1981-02-04,América-RN,Sport,1,1,E,E,NORMAL,C
+1981,1981-02-04,River-PI,Atlético Mineiro,1,0,V,D,NORMAL,C
+1981,1981-02-04,Fluminense,Campinense,4,1,V,D,NORMAL,C
+1981,1981-02-04,Paysandu,Nacional-AM,0,0,E,E,NORMAL,D
+1981,1981-02-04,Flamengo,Fortaleza,8,0,V,D,NORMAL,D
+1981,1981-02-04,CRB,Cruzeiro,0,1,D,V,NORMAL,D
+1981,1981-02-04,Sampaio Corrêa,Santos,0,1,D,V,NORMAL,D
+1981,1981-02-04,Santa Cruz,Itabaiana,2,0,V,D,NORMAL,D
+1981,1981-02-04,Bangu,Vila Nova,5,1,V,D,NORMAL,A
+1981,1981-02-07,Ponte Preta,Vasco,1,1,E,E,NORMAL,A
+1981,1981-02-07,Vitória,Joinville,1,1,E,E,NORMAL,A
+1981,1981-02-07,Internacional,Bangu,0,0,E,E,NORMAL,A
+1981,1981-02-07,Londrina,Colorado,0,2,D,V,NORMAL,A
+1981,1981-02-07,Botafogo,Grêmio,2,3,D,V,NORMAL,B
+1981,1981-02-07,Goiás,Desportiva Ferroviária,2,0,V,D,NORMAL,B
+1981,1981-02-07,Portuguesa,Corinthians,1,0,V,D,NORMAL,B
+1981,1981-02-07,Brasília,Operário-MS,1,3,D,V,NORMAL,B
+1981,1981-02-07,Pinheiros-PR,Galícia,0,0,E,E,NORMAL,B
+1981,1981-02-07,Campinense,São Paulo,0,0,E,E,NORMAL,C
+1981,1981-02-07,River-PI,Fluminense,3,1,V,D,NORMAL,C
+1981,1981-02-07,CSA,Ferroviário,0,0,E,E,NORMAL,C
+1981,1981-02-07,Santa Cruz,Fortaleza,2,1,V,D,NORMAL,D
+1981,1981-02-07,Cruzeiro,Flamengo,0,0,E,E,NORMAL,D
+1981,1981-02-07,Nacional-AM,CRB,1,0,V,D,NORMAL,D
+1981,1981-02-07,Paysandu,Sampaio Corrêa,4,0,V,D,NORMAL,D
+1981,1981-02-07,Itabaiana,Santos,0,3,D,V,NORMAL,D
+1981,1981-02-11,Corinthians,Goiás,1,1,E,E,NORMAL,B
+1981,1981-02-11,Vila Nova,Inter de Limeira,2,0,V,D,NORMAL,A
+1981,1981-02-11,Sport,Mixto,1,0,V,D,NORMAL,C
+1981,1981-02-11,Atlético Mineiro,América-RN,2,1,V,D,NORMAL,C
+1981,1981-02-12,Vasco,Londrina,6,1,V,D,NORMAL,A
+1981,1981-02-14,Joinville,Londrina,2,0,V,D,NORMAL,A
+1981,1981-02-14,Inter de Limeira,Bangu,1,1,E,E,NORMAL,A
+1981,1981-02-14,Colorado,Vasco,1,0,V,D,NORMAL,A
+1981,1981-02-14,Vila Nova,Ponte Preta,2,3,D,V,NORMAL,A
+1981,1981-02-14,Vitória,Internacional,0,0,E,E,NORMAL,A
+1981,1981-02-14,Portuguesa,Pinheiros-PR,2,2,E,E,NORMAL,B
+1981,1981-02-14,Operário-MS,Corinthians,0,1,D,V,NORMAL,B
+1981,1981-02-14,Grêmio,Brasília,1,2,D,V,NORMAL,B
+1981,1981-02-14,Botafogo,Goiás,0,2,D,V,NORMAL,B
+1981,1981-02-14,Galícia,Desportiva Ferroviária,1,0,V,D,NORMAL,B
+1981,1981-02-14,CSA,América-RN,3,2,V,D,NORMAL,C
+1981,1981-02-14,São Paulo,Atlético Mineiro,2,1,V,D,NORMAL,C
+1981,1981-02-14,Fluminense,Sport,0,1,D,V,NORMAL,C
+1981,1981-02-14,Ferroviário,Mixto,3,2,V,D,NORMAL,C
+1981,1981-02-14,Campinense,River-PI,4,0,V,D,NORMAL,C
+1981,1981-02-14,Santos,Nacional-AM,3,0,V,D,NORMAL,D
+1981,1981-02-14,Fortaleza,Sampaio Corrêa,3,0,V,D,NORMAL,D
+1981,1981-02-14,CRB,Flamengo,2,3,D,V,NORMAL,D
+1981,1981-02-14,Cruzeiro,Santa Cruz,0,3,D,V,NORMAL,D
+1981,1981-02-14,Paysandu,Itabaiana,3,0,V,D,NORMAL,D
+1981,1981-02-19,Vasco,Vitória,4,2,V,D,NORMAL,A
+1981,1981-02-19,Corinthians,Pinheiros-PR,2,0,V,D,NORMAL,B
+1981,1981-02-21,Londrina,Vila Nova,1,0,V,D,NORMAL,A
+1981,1981-02-21,Colorado,Ponte Preta,0,0,E,E,NORMAL,A
+1981,1981-02-21,Internacional,Inter de Limeira,1,1,E,E,NORMAL,A
+1981,1981-02-21,Goiás,Brasília,1,0,V,D,NORMAL,B
+1981,1981-02-21,Galícia,Botafogo,3,1,V,D,NORMAL,B
+1981,1981-02-21,Desportiva Ferroviária,Portuguesa,0,1,D,V,NORMAL,B
+1981,1981-02-21,Operário-MS,Grêmio,2,1,V,D,NORMAL,B
+1981,1981-02-21,São Paulo,Fluminense,2,1,V,D,NORMAL,C
+1981,1981-02-21,Itabaiana,Cruzeiro,1,5,D,V,NORMAL,D
+1981,1981-02-21,Fortaleza,Santos,1,2,D,V,NORMAL,D
+1981,1981-02-21,Flamengo,Santa Cruz,2,2,E,E,NORMAL,D
+1981,1981-02-21,Sampaio Corrêa,Nacional-AM,0,2,D,V,NORMAL,D
+1981,1981-02-21,CRB,Paysandu,1,0,V,D,NORMAL,D
+1981,1981-02-21,Bangu,Joinville,3,0,V,D,NORMAL,A
+1981,1981-02-26,América-RN,Campinense,2,0,V,D,NORMAL,C
+1981,1981-02-26,Sport,CSA,2,1,V,D,NORMAL,C
+1981,1981-02-26,Mixto,Atlético Mineiro,0,4,D,V,NORMAL,C
+1981,1981-02-26,Ferroviário,River-PI,2,1,V,D,NORMAL,C
+1981,1981-03-07,Nacional-AM,Galícia,0,1,D,V,NORMAL,E
+1981,1981-03-07,CSA,Vasco,1,1,E,E,NORMAL,E
+1981,1981-03-07,Santa Cruz,Ponte Preta,1,1,E,E,NORMAL,F
+1981,1981-03-07,Bahia,Corinthians,3,0,V,D,NORMAL,F
+1981,1981-03-07,Vitória,Paysandu,1,1,E,E,NORMAL,G
+1981,1981-03-07,Portuguesa,Fluminense,2,2,E,E,NORMAL,G
+1981,1981-03-07,Cruzeiro,Ferroviário,2,1,V,D,NORMAL,H
+1981,1981-03-07,Operário-MS,Náutico,2,1,V,D,NORMAL,H
+1981,1981-03-07,Fortaleza,Inter de Limeira,2,2,E,E,NORMAL,I
+1981,1981-03-07,São Paulo,Grêmio,3,0,V,D,NORMAL,I
+1981,1981-03-07,Internacional,Goiás,1,0,V,D,NORMAL,J
+1981,1981-03-07,Palmeiras,Sport,1,0,V,D,NORMAL,J
+1981,1981-03-07,Mixto,Santos,1,1,E,E,NORMAL,K
+1981,1981-03-07,Flamengo,Atlético Mineiro,2,1,V,D,NORMAL,L
+1981,1981-03-07,Colorado,Uberaba,1,1,E,E,NORMAL,L
+1981,1981-03-08,Bangu,Botafogo,0,1,D,V,NORMAL,K
+1981,1981-03-11,Bahia,Ponte Preta,1,1,E,E,NORMAL,F
+1981,1981-03-11,Fluminense,Vitória,1,2,D,V,NORMAL,G
+1981,1981-03-11,Paysandu,Portuguesa,1,1,E,E,NORMAL,G
+1981,1981-03-11,Palmeiras,Internacional,0,1,D,V,NORMAL,J
+1981,1981-03-11,Sport,Goiás,4,0,V,D,NORMAL,J
+1981,1981-03-11,Atlético Mineiro,Colorado,1,1,E,E,NORMAL,L
+1981,1981-03-11,Uberaba,Flamengo,1,1,E,E,NORMAL,L
+1981,1981-03-12,CSA,Galícia,4,0,V,D,NORMAL,E
+1981,1981-03-12,Vasco,Nacional-AM,3,0,V,D,NORMAL,E
+1981,1981-03-12,Corinthians,Santa Cruz,1,4,D,V,NORMAL,F
+1981,1981-03-12,Ferroviário,Operário-MS,1,3,D,V,NORMAL,H
+1981,1981-03-12,Náutico,Cruzeiro,3,0,V,D,NORMAL,H
+1981,1981-03-12,Inter de Limeira,São Paulo,1,1,E,E,NORMAL,I
+1981,1981-03-12,Grêmio,Fortaleza,2,0,V,D,NORMAL,I
+1981,1981-03-12,Santos,Bangu,2,0,V,D,NORMAL,K
+1981,1981-03-12,Botafogo,Mixto,0,0,E,E,NORMAL,K
+1981,1981-03-15,Nacional-AM,CSA,2,1,V,D,NORMAL,E
+1981,1981-03-15,Galícia,Vasco,0,3,D,V,NORMAL,E
+1981,1981-03-15,Ponte Preta,Corinthians,2,1,V,D,NORMAL,F
+1981,1981-03-15,Santa Cruz,Bahia,4,0,V,D,NORMAL,F
+1981,1981-03-15,Portuguesa,Vitória,2,1,V,D,NORMAL,G
+1981,1981-03-15,Paysandu,Fluminense,0,4,D,V,NORMAL,G
+1981,1981-03-15,Operário-MS,Cruzeiro,5,1,V,D,NORMAL,H
+1981,1981-03-15,Ferroviário,Náutico,0,3,D,V,NORMAL,H
+1981,1981-03-15,São Paulo,Fortaleza,1,0,V,D,NORMAL,I
+1981,1981-03-15,Inter de Limeira,Grêmio,3,1,V,D,NORMAL,I
+1981,1981-03-15,Goiás,Palmeiras,1,3,D,V,NORMAL,J
+1981,1981-03-15,Internacional,Sport,2,2,E,E,NORMAL,J
+1981,1981-03-15,Bangu,Mixto,2,0,V,D,NORMAL,K
+1981,1981-03-15,Botafogo,Santos,2,1,V,D,NORMAL,K
+1981,1981-03-15,Colorado,Flamengo,4,0,V,D,NORMAL,L
+1981,1981-03-15,Uberaba,Atlético Mineiro,1,1,E,E,NORMAL,L
+1981,1981-03-18,Botafogo,Bangu,5,1,V,D,NORMAL,K
+1981,1981-03-19,Vasco,CSA,1,1,E,E,NORMAL,E
+1981,1981-03-19,Náutico,Operário-MS,1,0,V,D,NORMAL,H
+1981,1981-03-21,Galícia,Nacional-AM,1,4,D,V,NORMAL,E
+1981,1981-03-21,Ponte Preta,Santa Cruz,3,1,V,D,NORMAL,F
+1981,1981-03-21,Corinthians,Bahia,0,1,D,V,NORMAL,F
+1981,1981-03-21,Paysandu,Vitória,0,1,D,V,NORMAL,G
+1981,1981-03-21,Fluminense,Portuguesa,1,1,E,E,NORMAL,G
+1981,1981-03-21,Ferroviário,Cruzeiro,1,2,D,V,NORMAL,H
+1981,1981-03-21,Inter de Limeira,Fortaleza,5,0,V,D,NORMAL,I
+1981,1981-03-21,Grêmio,São Paulo,1,0,V,D,NORMAL,I
+1981,1981-03-21,Goiás,Internacional,0,0,E,E,NORMAL,J
+1981,1981-03-21,Sport,Palmeiras,3,1,V,D,NORMAL,J
+1981,1981-03-21,Santos,Mixto,2,0,V,D,NORMAL,K
+1981,1981-03-21,Uberaba,Colorado,0,0,E,E,NORMAL,L
+1981,1981-03-25,Atlético Mineiro,Flamengo,0,0,E,E,NORMAL,L
+1981,1981-03-26,Galícia,CSA,1,3,D,V,NORMAL,E
+1981,1981-03-28,Nacional-AM,Vasco,1,2,D,V,NORMAL,E
+1981,1981-03-28,Santa Cruz,Corinthians,2,0,V,D,NORMAL,F
+1981,1981-03-28,Ponte Preta,Bahia,1,0,V,D,NORMAL,F
+1981,1981-03-28,Portuguesa,Paysandu,0,0,E,E,NORMAL,G
+1981,1981-03-28,Vitória,Fluminense,0,0,E,E,NORMAL,G
+1981,1981-03-28,Operário-MS,Ferroviário,3,0,V,D,NORMAL,H
+1981,1981-03-28,Cruzeiro,Náutico,3,0,V,D,NORMAL,H
+1981,1981-03-28,Fortaleza,Grêmio,0,4,D,V,NORMAL,I
+1981,1981-03-28,Internacional,Palmeiras,6,0,V,D,NORMAL,J
+1981,1981-03-28,Goiás,Sport,0,0,E,E,NORMAL,J
+1981,1981-03-28,Bangu,Santos,1,1,E,E,NORMAL,K
+1981,1981-03-28,Mixto,Botafogo,2,2,E,E,NORMAL,K
+1981,1981-04-01,São Paulo,Inter de Limeira,2,1,V,D,NORMAL,I
+1981,1981-04-01,Colorado,Atlético Mineiro,1,3,D,V,NORMAL,L
+1981,1981-04-01,Flamengo,Uberaba,4,2,V,D,NORMAL,L
+1981,1981-04-02,Vasco,Galícia,3,2,V,D,NORMAL,E
+1981,1981-04-03,Santos,Botafogo,0,0,E,E,NORMAL,K
+1981,1981-04-04,CSA,Nacional-AM,3,0,V,D,NORMAL,E
+1981,1981-04-04,Bahia,Santa Cruz,5,0,V,D,NORMAL,F
+1981,1981-04-04,Corinthians,Ponte Preta,2,2,E,E,NORMAL,F
+1981,1981-04-04,Vitória,Portuguesa,1,0,V,D,NORMAL,G
+1981,1981-04-04,Fluminense,Paysandu,4,1,V,D,NORMAL,G
+1981,1981-04-04,Náutico,Ferroviário,3,0,V,D,NORMAL,H
+1981,1981-04-04,Cruzeiro,Operário-MS,1,3,D,V,NORMAL,H
+1981,1981-04-04,Fortaleza,São Paulo,0,1,D,V,NORMAL,I
+1981,1981-04-04,Grêmio,Inter de Limeira,1,0,V,D,NORMAL,I
+1981,1981-04-04,Sport,Internacional,0,0,E,E,NORMAL,J
+1981,1981-04-04,Palmeiras,Goiás,2,0,V,D,NORMAL,J
+1981,1981-04-04,Mixto,Bangu,1,2,D,V,NORMAL,K
+1981,1981-04-04,Atlético Mineiro,Uberaba,2,0,V,D,NORMAL,L
+1981,1981-04-04,Flamengo,Colorado,2,1,V,D,NORMAL,L
+1981,1981-04-08,Bahia,Flamengo,0,0,E,E,NORMAL,1/8
+1981,1981-04-08,Sport,Operário-MS,0,0,E,E,NORMAL,1/8
+1981,1981-04-08,Santos,São Paulo,0,2,D,V,NORMAL,1/8
+1981,1981-04-09,Náutico,Ponte Preta,0,0,E,E,NORMAL,1/8
+1981,1981-04-09,Fluminense,Vasco,0,2,D,V,NORMAL,1/8
+1981,1981-04-09,Vitória,Grêmio,2,1,V,D,NORMAL,1/8
+1981,1981-04-09,Atlético Mineiro,Internacional,0,1,D,V,NORMAL,1/8
+1981,1981-04-09,CSA,Botafogo,0,0,E,E,NORMAL,1/8
+1981,1981-04-11,Flamengo,Bahia,2,0,V,D,NORMAL,1/8
+1981,1981-04-11,Operário-MS,Sport,3,1,V,D,NORMAL,1/8
+1981,1981-04-11,São Paulo,Santos,2,1,V,D,NORMAL,1/8
+1981,1981-04-11,Ponte Preta,Náutico,2,1,V,D,NORMAL,1/8
+1981,1981-04-11,Vasco,Fluminense,2,3,D,V,NORMAL,1/8
+1981,1981-04-11,Grêmio,Vitória,2,0,V,D,NORMAL,1/8
+1981,1981-04-11,Internacional,Atlético Mineiro,1,1,E,E,NORMAL,1/8
+1981,1981-04-11,Botafogo,CSA,2,0,V,D,NORMAL,1/8
+1981,1981-04-15,Vasco,Ponte Preta,0,0,E,E,NORMAL,QF
+1981,1981-04-15,Grêmio,Operário-MS,2,0,V,D,NORMAL,QF
+1981,1981-04-16,Internacional,São Paulo,0,1,D,V,NORMAL,QF
+1981,1981-04-16,Flamengo,Botafogo,0,0,E,E,NORMAL,QF
+1981,1981-04-19,Operário-MS,Grêmio,0,1,D,V,NORMAL,QF
+1981,1981-04-19,São Paulo,Internacional,2,0,V,D,NORMAL,QF
+1981,1981-04-19,Botafogo,Flamengo,3,1,V,D,NORMAL,QF
+1981,1981-04-20,Ponte Preta,Vasco,0,0,E,E,NORMAL,QF
+1981,1981-04-22,Botafogo,São Paulo,1,0,V,D,NORMAL,SF
+1981,1981-04-23,Ponte Preta,Grêmio,2,3,D,V,NORMAL,SF
+1981,1981-04-26,São Paulo,Botafogo,3,2,V,D,NORMAL,SF
+1981,1981-04-26,Grêmio,Ponte Preta,0,1,D,V,NORMAL,SF
+1981,1981-04-30,Grêmio,São Paulo,2,1,V,D,NORMAL,F
+1981,1981-05-03,São Paulo,Grêmio,0,1,D,V,NORMAL,F

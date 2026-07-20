@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2012-05-19,Sport,1-1,Flamengo,R1
+2012-05-19,Palmeiras,1-1,Portuguesa,R1
+2012-05-19,Figueirense,2-1,Náutico,R1
+2012-05-20,Botafogo,4-2,São Paulo,R1
+2012-05-20,Corinthians,0-1,Fluminense,R1
+2012-05-20,Internacional,2-0,Coritiba,R1
+2012-05-20,Ponte Preta,0-1,Atlético Mineiro,R1
+2012-05-20,Vasco,2-1,Grêmio,R1
+2012-05-20,Cruzeiro,0-0,Atlético Goianiense,R1
+2012-05-20,Bahia,0-0,Santos,R1
+2012-05-26,Flamengo,3-3,Internacional,R2
+2012-05-26,Portuguesa,0-1,Vasco,R2
+2012-05-26,Atlético Goianiense,1-1,Ponte Preta,R2
+2012-05-26,Náutico,0-0,Cruzeiro,R2
+2012-05-27,Santos,0-0,Sport,R2
+2012-05-27,São Paulo,1-0,Bahia,R2
+2012-05-27,Atlético Mineiro,1-0,Corinthians,R2
+2012-05-27,Coritiba,2-3,Botafogo,R2
+2012-05-27,Fluminense,2-2,Figueirense,R2
+2012-05-27,Grêmio,1-0,Palmeiras,R2
+2012-06-06,Sport,2-1,Palmeiras,R3
+2012-06-06,Atlético Goianiense,0-1,Grêmio,R3
+2012-06-06,Vasco,4-2,Náutico,R3
+2012-06-06,Atlético Mineiro,1-1,Bahia,R3
+2012-06-06,Coritiba,2-0,Portuguesa,R3
+2012-06-06,Santos,1-1,Fluminense,R3
+2012-06-06,Internacional,1-0,São Paulo,R3
+2012-06-06,Ponte Preta,2-2,Flamengo,R3
+2012-06-07,Botafogo,2-3,Cruzeiro,R3
+2012-06-07,Corinthians,1-1,Figueirense,R3
+2012-06-09,Flamengo,3-1,Coritiba,R4
+2012-06-09,Palmeiras,0-1,Atlético Mineiro,R4
+2012-06-10,Portuguesa,2-0,Atlético Goianiense,R4
+2012-06-10,Fluminense,0-0,Internacional,R4
+2012-06-10,Grêmio,2-0,Corinthians,R4
+2012-06-10,Bahia,1-2,Vasco,R4
+2012-06-10,São Paulo,1-0,Santos,R4
+2012-06-10,Cruzeiro,1-0,Sport,R4
+2012-06-10,Figueirense,0-0,Ponte Preta,R4
+2012-06-10,Náutico,3-2,Botafogo,R4
+2012-06-16,Internacional,1-2,Botafogo,R5
+2012-06-16,Cruzeiro,1-0,Figueirense,R5
+2012-06-16,Fluminense,4-1,Portuguesa,R5
+2012-06-17,Flamengo,1-0,Santos,R5
+2012-06-17,Palmeiras,1-1,Vasco,R5
+2012-06-17,São Paulo,1-0,Atlético Mineiro,R5
+2012-06-17,Bahia,2-1,Sport,R5
+2012-06-17,Ponte Preta,1-0,Corinthians,R5
+2012-06-17,Coritiba,3-0,Atlético Goianiense,R5
+2012-06-17,Náutico,1-0,Grêmio,R5
+2012-06-23,Vasco,1-3,Cruzeiro,R6
+2012-06-23,Portuguesa,1-0,São Paulo,R6
+2012-06-23,Atlético Mineiro,5-1,Náutico,R6
+2012-06-24,Corinthians,2-1,Palmeiras,R6
+2012-06-24,Grêmio,2-0,Flamengo,R6
+2012-06-24,Figueirense,1-1,Bahia,R6
+2012-06-24,Botafogo,1-2,Ponte Preta,R6
+2012-06-24,Santos,2-2,Coritiba,R6
+2012-06-24,Sport,0-2,Internacional,R6
+2012-06-24,Atlético Goianiense,1-4,Fluminense,R6
+2012-06-30,Cruzeiro,2-3,São Paulo,R7
+2012-06-30,Náutico,0-2,Fluminense,R7
+2012-06-30,Vasco,3-2,Ponte Preta,R7
+2012-07-01,Portuguesa,0-0,Santos,R7
+2012-07-01,Coritiba,2-3,Sport,R7
+2012-07-01,Bahia,1-1,Internacional,R7
+2012-07-01,Flamengo,3-2,Atlético Goianiense,R7
+2012-07-01,Palmeiras,3-1,Figueirense,R7
+2012-07-01,Grêmio,0-1,Atlético Mineiro,R7
+2012-07-07,Botafogo,3-0,Bahia,R8
+2012-07-07,Internacional,2-1,Cruzeiro,R8
+2012-07-07,Atlético Goianiense,0-1,Náutico,R8
+2012-07-08,Fluminense,1-0,Flamengo,R8
+2012-07-08,Santos,4-2,Grêmio,R8
+2012-07-08,São Paulo,3-1,Coritiba,R8
+2012-07-08,Figueirense,1-1,Vasco,R8
+2012-07-08,Atlético Mineiro,2-0,Portuguesa,R8
+2012-07-08,Ponte Preta,1-0,Palmeiras,R8
+2012-07-08,Sport,1-1,Corinthians,R8
+2012-07-11,Corinthians,1-3,Botafogo,R7
+2012-07-14,Corinthians,2-1,Náutico,R9
+2012-07-14,Figueirense,3-4,Atlético Mineiro,R9
+2012-07-14,Ponte Preta,4-1,Coritiba,R9
+2012-07-15,Botafogo,1-1,Fluminense,R9
+2012-07-15,Internacional,0-0,Santos,R9
+2012-07-15,Cruzeiro,1-3,Grêmio,R9
+2012-07-15,Bahia,1-2,Flamengo,R9
+2012-07-15,Vasco,1-0,Atlético Goianiense,R9
+2012-07-15,Palmeiras,1-1,São Paulo,R9
+2012-07-15,Sport,2-1,Portuguesa,R9
+2012-07-18,Santos,0-0,Botafogo,R10
+2012-07-18,Grêmio,3-1,Sport,R10
+2012-07-18,Portuguesa,0-2,Cruzeiro,R10
+2012-07-18,Náutico,3-0,Ponte Preta,R10
+2012-07-18,Flamengo,0-3,Corinthians,R10
+2012-07-18,São Paulo,0-1,Vasco,R10
+2012-07-18,Atlético Mineiro,3-1,Internacional,R10
+2012-07-19,Fluminense,4-0,Bahia,R10
+2012-07-19,Coritiba,1-1,Palmeiras,R10
+2012-07-19,Atlético Goianiense,3-2,Figueirense,R10
+2012-07-21,Vasco,2-0,Santos,R11
+2012-07-21,Sport,1-4,Atlético Mineiro,R11
+2012-07-21,Corinthians,1-1,Portuguesa,R11
+2012-07-22,Palmeiras,3-0,Náutico,R11
+2012-07-22,Internacional,4-1,Atlético Goianiense,R11
+2012-07-22,Cruzeiro,1-0,Flamengo,R11
+2012-07-22,Figueirense,0-2,São Paulo,R11
+2012-07-22,Botafogo,0-1,Grêmio,R11
+2012-07-22,Ponte Preta,1-2,Fluminense,R11
+2012-07-22,Bahia,2-2,Coritiba,R11
+2012-07-25,Ponte Preta,1-1,Sport,R12
+2012-07-25,Figueirense,0-1,Internacional,R12
+2012-07-25,Vasco,1-0,Botafogo,R12
+2012-07-25,Náutico,3-4,Coritiba,R12
+2012-07-25,Corinthians,2-0,Cruzeiro,R12
+2012-07-25,Grêmio,1-0,Fluminense,R12
+2012-07-25,Atlético Goianiense,4-3,São Paulo,R12
+2012-07-26,Flamengo,0-0,Portuguesa,R12
+2012-07-26,Palmeiras,0-2,Bahia,R12
+2012-07-26,Atlético Mineiro,2-0,Santos,R12
+2012-07-28,Internacional,0-0,Vasco,R13
+2012-07-28,Coritiba,2-1,Grêmio,R13
+2012-07-28,Botafogo,1-0,Figueirense,R13
+2012-07-29,Fluminense,0-0,Atlético Mineiro,R13
+2012-07-29,São Paulo,4-1,Flamengo,R13
+2012-07-29,Sport,0-0,Atlético Goianiense,R13
+2012-07-29,Bahia,0-0,Corinthians,R13
+2012-07-29,Santos,2-1,Ponte Preta,R13
+2012-07-29,Cruzeiro,2-1,Palmeiras,R13
+2012-07-29,Portuguesa,3-1,Náutico,R13
+2012-08-04,Palmeiras,0-1,Internacional,R14
+2012-08-04,Atlético Goianiense,1-2,Botafogo,R14
+2012-08-04,Portuguesa,2-0,Figueirense,R14
+2012-08-05,Vasco,0-0,Corinthians,R14
+2012-08-05,São Paulo,1-0,Sport,R14
+2012-08-05,Grêmio,3-1,Bahia,R14
+2012-08-05,Coritiba,0-2,Fluminense,R14
+2012-08-05,Cruzeiro,1-2,Ponte Preta,R14
+2012-08-05,Náutico,3-0,Santos,R14
+2012-08-08,Internacional,0-0,Náutico,R15
+2012-08-08,Sport,0-2,Vasco,R15
+2012-08-08,Corinthians,1-1,Atlético Goianiense,R15
+2012-08-08,Bahia,0-0,Portuguesa,R15
+2012-08-08,Botafogo,1-2,Palmeiras,R15
+2012-08-08,Santos,4-2,Cruzeiro,R15
+2012-08-08,Figueirense,0-2,Flamengo,R15
+2012-08-09,Fluminense,2-1,São Paulo,R15
+2012-08-09,Atlético Mineiro,1-0,Coritiba,R15
+2012-08-09,Ponte Preta,0-0,Grêmio,R15
+2012-08-11,Santos,2-2,Atlético Goianiense,R16
+2012-08-11,Sport,0-1,Figueirense,R16
+2012-08-11,Bahia,0-1,Cruzeiro,R16
+2012-08-11,Flamengo,2-0,Náutico,R16
+2012-08-12,São Paulo,1-2,Grêmio,R16
+2012-08-12,Internacional,2-1,Ponte Preta,R16
+2012-08-12,Atlético Mineiro,1-0,Vasco,R16
+2012-08-12,Coritiba,1-2,Corinthians,R16
+2012-08-12,Fluminense,1-0,Palmeiras,R16
+2012-08-12,Portuguesa,1-1,Botafogo,R16
+2012-08-15,Grêmio,1-2,Portuguesa,R17
+2012-08-15,Cruzeiro,1-1,Fluminense,R17
+2012-08-15,Ponte Preta,0-2,Bahia,R17
+2012-08-15,Atlético Goianiense,1-1,Atlético Mineiro,R17
+2012-08-15,Botafogo,2-0,Sport,R17
+2012-08-15,Palmeiras,1-0,Flamengo,R17
+2012-08-15,Náutico,3-0,São Paulo,R17
+2012-08-16,Vasco,2-2,Coritiba,R17
+2012-08-16,Corinthians,1-0,Internacional,R17
+2012-08-16,Figueirense,1-3,Santos,R17
+2012-08-18,Fluminense,1-0,Sport,R18
+2012-08-18,Náutico,1-0,Bahia,R18
+2012-08-18,São Paulo,3-0,Ponte Preta,R18
+2012-08-19,Santos,3-2,Corinthians,R18
+2012-08-19,Grêmio,4-0,Figueirense,R18
+2012-08-19,Atlético Mineiro,3-2,Botafogo,R18
+2012-08-19,Coritiba,4-0,Cruzeiro,R18
+2012-08-19,Flamengo,1-0,Vasco,R18
+2012-08-19,Portuguesa,1-1,Internacional,R18
+2012-08-19,Atlético Goianiense,2-1,Palmeiras,R18
+2012-08-25,Vasco,1-2,Fluminense,R19
+2012-08-25,Palmeiras,1-2,Santos,R19
+2012-08-25,Ponte Preta,2-1,Portuguesa,R19
+2012-08-26,Botafogo,0-0,Flamengo,R19
+2012-08-26,Corinthians,1-2,São Paulo,R19
+2012-08-26,Internacional,0-1,Grêmio,R19
+2012-08-26,Figueirense,3-1,Coritiba,R19
+2012-08-26,Cruzeiro,2-2,Atlético Mineiro,R19
+2012-08-26,Sport,0-0,Náutico,R19
+2012-08-26,Bahia,1-1,Atlético Goianiense,R19
+2012-08-29,Coritiba,1-0,Internacional,R20
+2012-08-29,Santos,1-3,Bahia,R20
+2012-08-29,Portuguesa,3-0,Palmeiras,R20
+2012-08-29,Atlético Mineiro,2-2,Ponte Preta,R20
+2012-08-29,Náutico,3-2,Figueirense,R20
+2012-08-29,Grêmio,2-0,Vasco,R20
+2012-08-29,Fluminense,1-1,Corinthians,R20
+2012-08-29,Atlético Goianiense,0-2,Cruzeiro,R20
+2012-08-30,São Paulo,4-0,Botafogo,R20
+2012-08-30,Flamengo,1-1,Sport,R20
+2012-09-01,Figueirense,2-2,Fluminense,R21
+2012-09-01,Palmeiras,0-0,Grêmio,R21
+2012-09-01,Vasco,2-0,Portuguesa,R21
+2012-09-02,Internacional,4-1,Flamengo,R21
+2012-09-02,Sport,2-1,Santos,R21
+2012-09-02,Bahia,1-0,São Paulo,R21
+2012-09-02,Corinthians,1-0,Atlético Mineiro,R21
+2012-09-02,Botafogo,2-0,Coritiba,R21
+2012-09-02,Cruzeiro,3-0,Náutico,R21
+2012-09-02,Ponte Preta,3-1,Atlético Goianiense,R21
+2012-09-05,Náutico,1-1,Vasco,R22
+2012-09-05,Bahia,0-0,Atlético Mineiro,R22
+2012-09-05,Flamengo,0-1,Ponte Preta,R22
+2012-09-05,Portuguesa,3-0,Coritiba,R22
+2012-09-05,Grêmio,2-1,Atlético Goianiense,R22
+2012-09-05,Cruzeiro,1-3,Botafogo,R22
+2012-09-05,Figueirense,1-0,Corinthians,R22
+2012-09-05,São Paulo,1-1,Internacional,R22
+2012-09-06,Fluminense,3-1,Santos,R22
+2012-09-06,Palmeiras,3-1,Sport,R22
+2012-09-08,Coritiba,3-0,Flamengo,R23
+2012-09-08,Ponte Preta,2-2,Figueirense,R23
+2012-09-08,Corinthians,3-1,Grêmio,R23
+2012-09-09,Internacional,0-1,Fluminense,R23
+2012-09-09,Santos,0-0,São Paulo,R23
+2012-09-09,Botafogo,3-1,Náutico,R23
+2012-09-09,Atlético Mineiro,3-0,Palmeiras,R23
+2012-09-09,Sport,2-1,Cruzeiro,R23
+2012-09-09,Atlético Goianiense,1-1,Portuguesa,R23
+2012-09-09,Vasco,0-4,Bahia,R23
+2012-09-12,Portuguesa,0-2,Fluminense,R24
+2012-09-12,Figueirense,2-0,Cruzeiro,R24
+2012-09-12,Corinthians,1-1,Ponte Preta,R24
+2012-09-12,Atlético Goianiense,1-2,Coritiba,R24
+2012-09-12,Sport,1-1,Bahia,R24
+2012-09-12,Santos,2-0,Flamengo,R24
+2012-09-12,Vasco,3-1,Palmeiras,R24
+2012-09-12,Atlético Mineiro,1-0,São Paulo,R24
+2012-09-13,Botafogo,1-1,Internacional,R24
+2012-09-13,Grêmio,2-0,Náutico,R24
+2012-09-15,São Paulo,3-1,Portuguesa,R25
+2012-09-15,Fluminense,1-2,Atlético Goianiense,R25
+2012-09-16,Cruzeiro,1-1,Vasco,R25
+2012-09-16,Coritiba,1-2,Santos,R25
+2012-09-16,Palmeiras,0-2,Corinthians,R25
+2012-09-16,Náutico,1-0,Atlético Mineiro,R25
+2012-09-16,Bahia,2-1,Figueirense,R25
+2012-09-16,Ponte Preta,0-0,Botafogo,R25
+2012-09-16,Flamengo,1-1,Grêmio,R25
+2012-09-16,Internacional,2-2,Sport,R25
+2012-09-22,Figueirense,1-3,Palmeiras,R26
+2012-09-22,Fluminense,2-1,Náutico,R26
+2012-09-22,Santos,1-3,Portuguesa,R26
+2012-09-23,Atlético Goianiense,1-2,Flamengo,R26
+2012-09-23,Ponte Preta,0-0,Vasco,R26
+2012-09-23,Botafogo,2-2,Corinthians,R26
+2012-09-23,São Paulo,1-0,Cruzeiro,R26
+2012-09-23,Atlético Mineiro,0-0,Grêmio,R26
+2012-09-23,Sport,1-0,Coritiba,R26
+2012-09-23,Internacional,3-1,Bahia,R26
+2012-09-26,Flamengo,2-1,Atlético Mineiro,R14
+2012-09-29,Cruzeiro,0-0,Internacional,R27
+2012-09-29,Portuguesa,1-1,Atlético Mineiro,R27
+2012-09-29,Vasco,3-1,Figueirense,R27
+2012-09-29,Náutico,2-0,Atlético Goianiense,R27
+2012-09-29,Palmeiras,3-0,Ponte Preta,R27
+2012-09-30,Bahia,2-0,Botafogo,R27
+2012-09-30,Flamengo,0-1,Fluminense,R27
+2012-09-30,Coritiba,1-1,São Paulo,R27
+2012-09-30,Corinthians,3-0,Sport,R27
+2012-09-30,Grêmio,1-1,Santos,R27
+2012-10-04,Coritiba,1-0,Ponte Preta,R28
+2012-10-04,Portuguesa,5-1,Sport,R28
+2012-10-04,Flamengo,0-0,Bahia,R28
+2012-10-06,São Paulo,3-0,Palmeiras,R28
+2012-10-06,Atlético Goianiense,0-1,Vasco,R28
+2012-10-06,Náutico,2-1,Corinthians,R28
+2012-10-06,Santos,1-1,Internacional,R28
+2012-10-06,Fluminense,1-0,Botafogo,R28
+2012-10-06,Grêmio,2-1,Cruzeiro,R28
+2012-10-06,Atlético Mineiro,6-0,Figueirense,R28
+2012-10-10,Bahia,0-2,Fluminense,R29
+2012-10-10,Botafogo,0-2,Santos,R29
+2012-10-10,Cruzeiro,2-0,Portuguesa,R29
+2012-10-10,Ponte Preta,2-1,Náutico,R29
+2012-10-10,Figueirense,3-1,Atlético Goianiense,R29
+2012-10-10,Corinthians,3-2,Flamengo,R29
+2012-10-10,Vasco,0-2,São Paulo,R29
+2012-10-10,Internacional,3-0,Atlético Mineiro,R29
+2012-10-11,Sport,1-3,Grêmio,R29
+2012-10-11,Palmeiras,0-1,Coritiba,R29
+2012-10-13,Atlético Goianiense,3-1,Internacional,R30
+2012-10-13,Flamengo,1-1,Cruzeiro,R30
+2012-10-13,Portuguesa,1-1,Corinthians,R30
+2012-10-14,Santos,2-0,Vasco,R30
+2012-10-14,Náutico,1-0,Palmeiras,R30
+2012-10-14,São Paulo,2-0,Figueirense,R30
+2012-10-14,Atlético Mineiro,2-1,Sport,R30
+2012-10-14,Coritiba,2-1,Bahia,R30
+2012-10-14,Grêmio,1-1,Botafogo,R30
+2012-10-14,Fluminense,2-1,Ponte Preta,R30
+2012-10-17,Bahia,0-1,Palmeiras,R31
+2012-10-17,Fluminense,2-2,Grêmio,R31
+2012-10-17,Internacional,2-3,Figueirense,R31
+2012-10-17,Coritiba,2-1,Náutico,R31
+2012-10-17,Portuguesa,0-0,Flamengo,R31
+2012-10-17,Cruzeiro,2-0,Corinthians,R31
+2012-10-17,Santos,2-2,Atlético Mineiro,R31
+2012-10-18,Botafogo,3-2,Vasco,R31
+2012-10-18,Sport,3-1,Ponte Preta,R31
+2012-10-18,São Paulo,2-0,Atlético Goianiense,R31
+2012-10-20,Palmeiras,2-0,Cruzeiro,R32
+2012-10-20,Grêmio,0-0,Coritiba,R32
+2012-10-20,Corinthians,1-1,Bahia,R32
+2012-10-21,Atlético Mineiro,3-2,Fluminense,R32
+2012-10-21,Flamengo,1-0,São Paulo,R32
+2012-10-21,Náutico,0-0,Portuguesa,R32
+2012-10-21,Ponte Preta,1-0,Santos,R32
+2012-10-21,Atlético Goianiense,0-1,Sport,R32
+2012-10-24,Vasco,1-2,Internacional,R32
+2012-10-24,Figueirense,0-2,Botafogo,R32
+2012-10-25,Ponte Preta,1-0,Cruzeiro,R33
+2012-10-25,Fluminense,2-1,Coritiba,R33
+2012-10-25,Santos,0-0,Náutico,R33
+2012-10-27,Corinthians,1-0,Vasco,R33
+2012-10-27,Internacional,2-1,Palmeiras,R33
+2012-10-27,Sport,2-4,São Paulo,R33
+2012-10-27,Bahia,1-1,Grêmio,R33
+2012-10-27,Figueirense,0-0,Portuguesa,R33
+2012-10-27,Botafogo,4-0,Atlético Goianiense,R33
+2012-10-31,Atlético Mineiro,1-1,Flamengo,R33
+2012-11-03,Cruzeiro,0-4,Santos,R34
+2012-11-03,Grêmio,1-0,Ponte Preta,R34
+2012-11-03,Flamengo,1-0,Figueirense,R34
+2012-11-04,Palmeiras,2-2,Botafogo,R34
+2012-11-04,São Paulo,1-1,Fluminense,R34
+2012-11-04,Atlético Goianiense,0-2,Corinthians,R34
+2012-11-04,Vasco,0-3,Sport,R34
+2012-11-04,Náutico,3-0,Internacional,R34
+2012-11-04,Coritiba,1-0,Atlético Mineiro,R34
+2012-11-04,Portuguesa,0-1,Bahia,R34
+2012-11-10,Atlético Goianiense,2-1,Santos,R35
+2012-11-10,Botafogo,3-0,Portuguesa,R35
+2012-11-10,Corinthians,5-1,Coritiba,R35
+2012-11-11,Palmeiras,2-3,Fluminense,R35
+2012-11-11,Grêmio,2-1,São Paulo,R35
+2012-11-11,Vasco,1-1,Atlético Mineiro,R35
+2012-11-11,Náutico,0-1,Flamengo,R35
+2012-11-11,Ponte Preta,1-0,Internacional,R35
+2012-11-11,Figueirense,1-1,Sport,R35
+2012-11-11,Cruzeiro,3-1,Bahia,R35
+2012-11-17,Coritiba,1-2,Vasco,R36
+2012-11-17,Santos,2-0,Figueirense,R36
+2012-11-18,Flamengo,1-1,Palmeiras,R36
+2012-11-18,Fluminense,0-2,Cruzeiro,R36
+2012-11-18,Bahia,1-0,Ponte Preta,R36
+2012-11-18,São Paulo,2-1,Náutico,R36
+2012-11-18,Atlético Mineiro,2-2,Atlético Goianiense,R36
+2012-11-18,Sport,2-0,Botafogo,R36
+2012-11-18,Internacional,0-2,Corinthians,R36
+2012-11-18,Portuguesa,2-2,Grêmio,R36
+2012-11-24,Vasco,1-1,Flamengo,R37
+2012-11-24,Corinthians,1-1,Santos,R37
+2012-11-25,Sport,1-1,Fluminense,R37
+2012-11-25,Ponte Preta,0-0,São Paulo,R37
+2012-11-25,Figueirense,2-4,Grêmio,R37
+2012-11-25,Botafogo,2-3,Atlético Mineiro,R37
+2012-11-25,Internacional,0-2,Portuguesa,R37
+2012-11-25,Cruzeiro,2-1,Coritiba,R37
+2012-11-25,Bahia,1-1,Náutico,R37
+2012-11-25,Palmeiras,1-2,Atlético Goianiense,R37
+2012-12-01,Flamengo,2-2,Botafogo,R38
+2012-12-01,Santos,3-1,Palmeiras,R38
+2012-12-02,Fluminense,1-2,Vasco,R38
+2012-12-02,São Paulo,3-1,Corinthians,R38
+2012-12-02,Grêmio,0-0,Internacional,R38
+2012-12-02,Atlético Mineiro,3-2,Cruzeiro,R38
+2012-12-02,Portuguesa,0-0,Ponte Preta,R38
+2012-12-02,Coritiba,3-0,Figueirense,R38
+2012-12-02,Náutico,1-0,Sport,R38
+2012-12-02,Atlético Goianiense,0-1,Bahia,R38

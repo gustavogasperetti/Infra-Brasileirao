@@ -1,0 +1,251 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1999,1999-07-24,Palmeiras,Juventude,3,1,V,D,NORMAL,1F
+1999,1999-07-25,Botafogo-SP,Portuguesa,4,2,V,D,NORMAL,1F
+1999,1999-07-25,Paraná,Santos,0,2,D,V,NORMAL,1F
+1999,1999-07-25,Guarani,Internacional,2,1,V,D,NORMAL,1F
+1999,1999-07-25,Grêmio,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1999,1999-07-25,Coritiba,Vitória,2,0,V,D,NORMAL,1F
+1999,1999-07-25,Sport,Vasco,0,0,E,E,NORMAL,1F
+1999,1999-07-25,Flamengo,Ponte Preta,1,0,V,D,NORMAL,1F
+1999,1999-07-25,São Paulo,Atlético Mineiro,5,1,V,D,NORMAL,1F
+1999,1999-07-25,Gama,Corinthians,2,4,D,V,NORMAL,1F
+1999,1999-07-28,Cruzeiro,Botafogo,4,1,V,D,NORMAL,1F
+1999,1999-07-28,Santos,São Paulo,3,2,V,D,NORMAL,1F
+1999,1999-07-31,Vitória,Palmeiras,2,1,V,D,NORMAL,1F
+1999,1999-07-31,Athletico Paranaense,Flamengo,3,2,V,D,NORMAL,1F
+1999,1999-07-31,Juventude,Cruzeiro,0,0,E,E,NORMAL,1F
+1999,1999-07-31,Ponte Preta,Grêmio,2,0,V,D,NORMAL,1F
+1999,1999-07-31,Atlético Mineiro,Gama,2,0,V,D,NORMAL,1F
+1999,1999-08-01,Botafogo,Sport,0,0,E,E,NORMAL,1F
+1999,1999-08-01,Corinthians,Botafogo-SP,4,1,V,D,NORMAL,1F
+1999,1999-08-01,Portuguesa,Guarani,1,0,V,D,NORMAL,1F
+1999,1999-08-01,Internacional,Coritiba,0,2,D,V,NORMAL,1F
+1999,1999-08-04,São Paulo,Botafogo,0,1,D,V,NORMAL,1F
+1999,1999-08-04,Guarani,Corinthians,0,2,D,V,NORMAL,1F
+1999,1999-08-07,Ponte Preta,Botafogo,1,1,E,E,NORMAL,1F
+1999,1999-08-07,Santos,Vitória,0,0,E,E,NORMAL,1F
+1999,1999-08-07,Coritiba,Botafogo-SP,1,1,E,E,NORMAL,1F
+1999,1999-08-08,Flamengo,Paraná,0,1,D,V,NORMAL,1F
+1999,1999-08-08,Gama,Guarani,0,1,D,V,NORMAL,1F
+1999,1999-08-08,Sport,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1999,1999-08-08,Palmeiras,Athletico Paranaense,2,2,E,E,NORMAL,1F
+1999,1999-08-08,Cruzeiro,Internacional,3,1,V,D,NORMAL,1F
+1999,1999-08-11,Atlético Mineiro,Palmeiras,2,0,V,D,NORMAL,1F
+1999,1999-08-11,Internacional,Flamengo,1,2,D,V,NORMAL,1F
+1999,1999-08-14,Athletico Paranaense,Santos,3,0,V,D,NORMAL,1F
+1999,1999-08-14,Vitória,Grêmio,0,2,D,V,NORMAL,1F
+1999,1999-08-15,Vasco,Botafogo,2,1,V,D,NORMAL,1F
+1999,1999-08-15,Botafogo-SP,Gama,1,3,D,V,NORMAL,1F
+1999,1999-08-15,Paraná,Sport,1,0,V,D,NORMAL,1F
+1999,1999-08-15,Portuguesa,São Paulo,2,1,V,D,NORMAL,1F
+1999,1999-08-15,Guarani,Juventude,1,0,V,D,NORMAL,1F
+1999,1999-08-15,Coritiba,Cruzeiro,2,2,E,E,NORMAL,1F
+1999,1999-08-18,Cruzeiro,São Paulo,2,1,V,D,NORMAL,1F
+1999,1999-08-18,Grêmio,Vasco,0,0,E,E,NORMAL,1F
+1999,1999-08-18,Flamengo,Coritiba,2,1,V,D,NORMAL,1F
+1999,1999-08-18,Botafogo,Atlético Mineiro,1,5,D,V,NORMAL,1F
+1999,1999-08-18,Gama,Santos,0,0,E,E,NORMAL,1F
+1999,1999-08-18,Corinthians,Vitória,5,1,V,D,NORMAL,1F
+1999,1999-08-18,Sport,Portuguesa,1,0,V,D,NORMAL,1F
+1999,1999-08-18,Botafogo-SP,Palmeiras,1,1,E,E,NORMAL,1F
+1999,1999-08-18,Ponte Preta,Guarani,0,0,E,E,NORMAL,1F
+1999,1999-08-18,Paraná,Juventude,2,2,E,E,NORMAL,1F
+1999,1999-08-18,Santos,Botafogo,0,1,D,V,NORMAL,1F
+1999,1999-08-18,Athletico Paranaense,Atlético Mineiro,2,2,E,E,NORMAL,1F
+1999,1999-08-19,São Paulo,Juventude,2,0,V,D,NORMAL,1F
+1999,1999-08-19,Vasco,Paraná,1,1,E,E,NORMAL,1F
+1999,1999-08-19,Vitória,Ponte Preta,0,0,E,E,NORMAL,1F
+1999,1999-08-21,Botafogo,Corinthians,2,4,D,V,NORMAL,1F
+1999,1999-08-21,Sport,Flamengo,0,1,D,V,NORMAL,1F
+1999,1999-08-21,Juventude,Grêmio,1,1,E,E,NORMAL,1F
+1999,1999-08-22,Vasco,Vitória,3,1,V,D,NORMAL,1F
+1999,1999-08-22,Palmeiras,Gama,0,2,D,V,NORMAL,1F
+1999,1999-08-22,São Paulo,Botafogo-SP,1,0,V,D,NORMAL,1F
+1999,1999-08-22,Coritiba,Portuguesa,0,0,E,E,NORMAL,1F
+1999,1999-08-22,Santos,Guarani,1,2,D,V,NORMAL,1F
+1999,1999-08-22,Ponte Preta,Paraná,1,0,V,D,NORMAL,1F
+1999,1999-08-22,Cruzeiro,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1999,1999-08-22,Internacional,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1999,1999-08-25,Juventude,Corinthians,1,3,D,V,NORMAL,1F
+1999,1999-08-25,Vitória,Botafogo,2,0,V,D,NORMAL,1F
+1999,1999-08-25,Botafogo-SP,Ponte Preta,0,1,D,V,NORMAL,1F
+1999,1999-08-25,Athletico Paranaense,Internacional,1,2,D,V,NORMAL,1F
+1999,1999-08-28,Ponte Preta,Palmeiras,1,2,D,V,NORMAL,1F
+1999,1999-08-28,Santos,Vasco,1,1,E,E,NORMAL,1F
+1999,1999-08-28,Atlético Mineiro,Coritiba,4,1,V,D,NORMAL,1F
+1999,1999-08-28,Gama,Cruzeiro,2,3,D,V,NORMAL,1F
+1999,1999-08-29,Flamengo,Grêmio,3,4,D,V,NORMAL,1F
+1999,1999-08-29,Botafogo-SP,Sport,1,1,E,E,NORMAL,1F
+1999,1999-08-29,Corinthians,São Paulo,1,0,V,D,NORMAL,1F
+1999,1999-08-29,Portuguesa,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1999,1999-08-29,Paraná,Guarani,2,1,V,D,NORMAL,1F
+1999,1999-08-29,Internacional,Juventude,0,0,E,E,NORMAL,1F
+1999,1999-09-01,Grêmio,Botafogo-SP,3,4,D,V,NORMAL,1F
+1999,1999-09-01,Guarani,São Paulo,2,3,D,V,NORMAL,1F
+1999,1999-09-01,Corinthians,Flamengo,1,2,D,V,NORMAL,1F
+1999,1999-09-02,Athletico Paranaense,Gama,1,0,V,D,NORMAL,1F
+1999,1999-09-04,Sport,Santos,1,0,V,D,NORMAL,1F
+1999,1999-09-04,Botafogo-SP,Flamengo,1,4,D,V,NORMAL,1F
+1999,1999-09-04,Botafogo,Internacional,2,3,D,V,NORMAL,1F
+1999,1999-09-05,Grêmio,São Paulo,0,4,D,V,NORMAL,1F
+1999,1999-09-05,Vasco,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1999,1999-09-05,Portuguesa,Vitória,1,3,D,V,NORMAL,1F
+1999,1999-09-05,Palmeiras,Cruzeiro,2,2,E,E,NORMAL,1F
+1999,1999-09-05,Juventude,Ponte Preta,1,2,D,V,NORMAL,1F
+1999,1999-09-05,Paraná,Coritiba,1,1,E,E,NORMAL,1F
+1999,1999-09-08,Cruzeiro,Corinthians,1,3,D,V,NORMAL,1F
+1999,1999-09-08,Botafogo-SP,Atlético Mineiro,1,4,D,V,NORMAL,1F
+1999,1999-09-08,Vitória,Gama,1,0,V,D,NORMAL,1F
+1999,1999-09-08,Internacional,Portuguesa,1,0,V,D,NORMAL,1F
+1999,1999-09-11,Santos,Botafogo-SP,2,0,V,D,NORMAL,1F
+1999,1999-09-11,São Paulo,Coritiba,2,1,V,D,NORMAL,1F
+1999,1999-09-11,Vasco,Ponte Preta,3,1,V,D,NORMAL,1F
+1999,1999-09-11,Gama,Flamengo,1,1,E,E,NORMAL,1F
+1999,1999-09-12,Botafogo,Athletico Paranaense,0,1,D,V,NORMAL,1F
+1999,1999-09-12,Juventude,Vitória,2,1,V,D,NORMAL,1F
+1999,1999-09-12,Sport,Guarani,3,2,V,D,NORMAL,1F
+1999,1999-09-12,Corinthians,Palmeiras,1,4,D,V,NORMAL,1F
+1999,1999-09-12,Grêmio,Internacional,1,0,V,D,NORMAL,1F
+1999,1999-09-15,Flamengo,São Paulo,1,0,V,D,NORMAL,1F
+1999,1999-09-15,Guarani,Vasco,1,0,V,D,NORMAL,1F
+1999,1999-09-15,Atlético Mineiro,Vitória,1,2,D,V,NORMAL,1F
+1999,1999-09-15,Juventude,Botafogo-SP,1,1,E,E,NORMAL,1F
+1999,1999-09-15,Palmeiras,Sport,1,0,V,D,NORMAL,1F
+1999,1999-09-15,Portuguesa,Santos,1,2,D,V,NORMAL,1F
+1999,1999-09-15,Athletico Paranaense,Paraná,1,1,E,E,NORMAL,1F
+1999,1999-09-16,Ponte Preta,Coritiba,2,0,V,D,NORMAL,1F
+1999,1999-09-18,Portuguesa,Grêmio,1,1,E,E,NORMAL,1F
+1999,1999-09-19,Coritiba,Guarani,0,3,D,V,NORMAL,1F
+1999,1999-09-19,Internacional,Gama,0,1,D,V,NORMAL,1F
+1999,1999-09-19,Cruzeiro,Sport,1,0,V,D,NORMAL,1F
+1999,1999-09-22,Gama,Grêmio,2,1,V,D,NORMAL,1F
+1999,1999-09-22,Paraná,Palmeiras,0,1,D,V,NORMAL,1F
+1999,1999-09-22,Corinthians,Vasco,2,4,D,V,NORMAL,1F
+1999,1999-09-22,Botafogo,Juventude,0,1,D,V,NORMAL,1F
+1999,1999-09-25,Sport,Corinthians,0,0,E,E,NORMAL,1F
+1999,1999-09-25,Coritiba,Botafogo,3,2,V,D,NORMAL,1F
+1999,1999-09-25,São Paulo,Gama,1,2,D,V,NORMAL,1F
+1999,1999-09-25,Ponte Preta,Cruzeiro,2,2,E,E,NORMAL,1F
+1999,1999-09-26,Flamengo,Vitória,5,2,V,D,NORMAL,1F
+1999,1999-09-26,Vasco,Internacional,2,0,V,D,NORMAL,1F
+1999,1999-09-26,Palmeiras,Santos,1,1,E,E,NORMAL,1F
+1999,1999-09-26,Atlético Mineiro,Portuguesa,2,2,E,E,NORMAL,1F
+1999,1999-09-26,Botafogo-SP,Paraná,2,0,V,D,NORMAL,1F
+1999,1999-09-26,Grêmio,Guarani,2,3,D,V,NORMAL,1F
+1999,1999-09-26,Juventude,Athletico Paranaense,1,3,D,V,NORMAL,1F
+1999,1999-09-29,Vasco,São Paulo,1,2,D,V,NORMAL,1F
+1999,1999-09-29,Atlético Mineiro,Flamengo,3,0,V,D,NORMAL,1F
+1999,1999-09-29,Gama,Juventude,0,0,E,E,NORMAL,1F
+1999,1999-09-29,Vitória,Cruzeiro,4,1,V,D,NORMAL,1F
+1999,1999-09-29,Sport,Internacional,0,0,E,E,NORMAL,1F
+1999,1999-09-29,Palmeiras,Portuguesa,3,2,V,D,NORMAL,1F
+1999,1999-09-29,Santos,Coritiba,1,1,E,E,NORMAL,1F
+1999,1999-09-29,Athletico Paranaense,Ponte Preta,1,0,V,D,NORMAL,1F
+1999,1999-09-29,Grêmio,Paraná,1,1,E,E,NORMAL,1F
+1999,1999-09-30,Botafogo,Botafogo-SP,1,0,V,D,NORMAL,1F
+1999,1999-10-02,Internacional,Santos,1,2,D,V,NORMAL,1F
+1999,1999-10-02,Guarani,Athletico Paranaense,1,2,D,V,NORMAL,1F
+1999,1999-10-02,Portuguesa,Corinthians,0,1,D,V,NORMAL,1F
+1999,1999-10-03,Flamengo,Vasco,0,1,D,V,NORMAL,1F
+1999,1999-10-03,Ponte Preta,Sport,2,0,V,D,NORMAL,1F
+1999,1999-10-03,São Paulo,Palmeiras,0,0,E,E,NORMAL,1F
+1999,1999-10-03,Coritiba,Grêmio,4,0,V,D,NORMAL,1F
+1999,1999-10-03,Cruzeiro,Atlético Mineiro,3,0,V,D,NORMAL,1F
+1999,1999-10-06,Juventude,Portuguesa,0,5,D,V,NORMAL,1F
+1999,1999-10-06,Paraná,Botafogo,2,3,D,V,NORMAL,1F
+1999,1999-10-06,Atlético Mineiro,Santos,2,0,V,D,NORMAL,1F
+1999,1999-10-09,Ponte Preta,Santos,2,0,V,D,NORMAL,1F
+1999,1999-10-09,Coritiba,Vasco,3,1,V,D,NORMAL,1F
+1999,1999-10-09,Corinthians,Paraná,1,0,V,D,NORMAL,1F
+1999,1999-10-10,Gama,Sport,3,2,V,D,NORMAL,1F
+1999,1999-10-10,Vitória,Athletico Paranaense,3,2,V,D,NORMAL,1F
+1999,1999-10-10,São Paulo,Internacional,0,1,D,V,NORMAL,1F
+1999,1999-10-10,Portuguesa,Cruzeiro,1,1,E,E,NORMAL,1F
+1999,1999-10-10,Atlético Mineiro,Juventude,2,0,V,D,NORMAL,1F
+1999,1999-10-10,Guarani,Botafogo-SP,1,1,E,E,NORMAL,1F
+1999,1999-10-10,Botafogo,Flamengo,2,1,V,D,NORMAL,1F
+1999,1999-10-13,Santos,Corinthians,1,4,D,V,NORMAL,1F
+1999,1999-10-13,Vasco,Gama,5,2,V,D,NORMAL,1F
+1999,1999-10-13,Sport,Coritiba,1,1,E,E,NORMAL,1F
+1999,1999-10-13,Palmeiras,Grêmio,6,0,V,D,NORMAL,1F
+1999,1999-10-13,Cruzeiro,Guarani,1,3,D,V,NORMAL,1F
+1999,1999-10-14,Internacional,Vitória,1,1,E,E,NORMAL,1F
+1999,1999-10-14,Athletico Paranaense,São Paulo,4,1,V,D,NORMAL,1F
+1999,1999-10-16,Vasco,Palmeiras,2,1,V,D,NORMAL,1F
+1999,1999-10-16,Guarani,Flamengo,3,0,V,D,NORMAL,1F
+1999,1999-10-16,Paraná,Gama,1,0,V,D,NORMAL,1F
+1999,1999-10-16,Botafogo,Portuguesa,1,0,V,D,NORMAL,1F
+1999,1999-10-17,Coritiba,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1999,1999-10-17,Santos,Juventude,3,0,V,D,NORMAL,1F
+1999,1999-10-17,São Paulo,Sport,4,1,V,D,NORMAL,1F
+1999,1999-10-17,Vitória,Botafogo-SP,3,2,V,D,NORMAL,1F
+1999,1999-10-17,Atlético Mineiro,Ponte Preta,1,2,D,V,NORMAL,1F
+1999,1999-10-17,Corinthians,Internacional,4,2,V,D,NORMAL,1F
+1999,1999-10-17,Grêmio,Cruzeiro,2,3,D,V,NORMAL,1F
+1999,1999-10-20,Grêmio,Botafogo,1,0,V,D,NORMAL,1F
+1999,1999-10-20,Portuguesa,Vasco,1,1,E,E,NORMAL,1F
+1999,1999-10-20,Flamengo,Palmeiras,1,1,E,E,NORMAL,1F
+1999,1999-10-23,Athletico Paranaense,Corinthians,2,2,E,E,NORMAL,1F
+1999,1999-10-23,Juventude,Vasco,2,1,V,D,NORMAL,1F
+1999,1999-10-23,Grêmio,Sport,2,1,V,D,NORMAL,1F
+1999,1999-10-23,Botafogo-SP,Internacional,2,1,V,D,NORMAL,1F
+1999,1999-10-24,Flamengo,Cruzeiro,0,2,D,V,NORMAL,1F
+1999,1999-10-24,Gama,Coritiba,1,1,E,E,NORMAL,1F
+1999,1999-10-24,Vitória,Paraná,2,0,V,D,NORMAL,1F
+1999,1999-10-24,Ponte Preta,Portuguesa,2,1,V,D,NORMAL,1F
+1999,1999-10-27,Paraná,Atlético Mineiro,4,1,V,D,NORMAL,1F
+1999,1999-10-27,Coritiba,Palmeiras,2,1,V,D,NORMAL,1F
+1999,1999-10-27,Portuguesa,Flamengo,2,3,D,V,NORMAL,1F
+1999,1999-10-30,Paraná,São Paulo,1,2,D,V,NORMAL,1F
+1999,1999-10-30,Botafogo,Gama,3,1,V,D,NORMAL,1F
+1999,1999-10-30,Santos,Grêmio,2,1,V,D,NORMAL,1F
+1999,1999-10-31,Vasco,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1999,1999-10-31,Guarani,Vitória,1,2,D,V,NORMAL,1F
+1999,1999-10-31,Sport,Juventude,0,1,D,V,NORMAL,1F
+1999,1999-10-31,Corinthians,Atlético Mineiro,0,4,D,V,NORMAL,1F
+1999,1999-10-31,Cruzeiro,Botafogo-SP,2,1,V,D,NORMAL,1F
+1999,1999-10-31,Internacional,Ponte Preta,1,0,V,D,NORMAL,1F
+1999,1999-11-03,Palmeiras,Guarani,0,0,E,E,NORMAL,1F
+1999,1999-11-03,Grêmio,Corinthians,0,3,D,V,NORMAL,1F
+1999,1999-11-03,Cruzeiro,Vasco,2,1,V,D,NORMAL,1F
+1999,1999-11-03,São Paulo,Ponte Preta,1,0,V,D,NORMAL,1F
+1999,1999-11-04,Paraná,Internacional,1,0,V,D,NORMAL,1F
+1999,1999-11-06,Botafogo-SP,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1999,1999-11-06,Guarani,Atlético Mineiro,4,0,V,D,NORMAL,1F
+1999,1999-11-06,Palmeiras,Botafogo,6,0,V,D,NORMAL,1F
+1999,1999-11-07,Corinthians,Ponte Preta,1,2,D,V,NORMAL,1F
+1999,1999-11-07,Flamengo,Santos,0,1,D,V,NORMAL,1F
+1999,1999-11-07,Cruzeiro,Paraná,5,2,V,D,NORMAL,1F
+1999,1999-11-07,Gama,Portuguesa,2,1,V,D,NORMAL,1F
+1999,1999-11-07,Sport,Vitória,1,1,E,E,NORMAL,1F
+1999,1999-11-07,Coritiba,Juventude,1,1,E,E,NORMAL,1F
+1999,1999-11-10,Juventude,Flamengo,3,1,V,D,NORMAL,1F
+1999,1999-11-10,Botafogo,Guarani,1,0,V,D,NORMAL,1F
+1999,1999-11-10,Vasco,Botafogo-SP,1,1,E,E,NORMAL,1F
+1999,1999-11-10,Ponte Preta,Gama,0,0,E,E,NORMAL,1F
+1999,1999-11-10,Internacional,Palmeiras,1,0,V,D,NORMAL,1F
+1999,1999-11-10,Corinthians,Coritiba,3,2,V,D,NORMAL,1F
+1999,1999-11-10,Vitória,São Paulo,0,3,D,V,NORMAL,1F
+1999,1999-11-10,Portuguesa,Paraná,2,2,E,E,NORMAL,1F
+1999,1999-11-10,Santos,Cruzeiro,3,3,E,E,NORMAL,1F
+1999,1999-11-10,Athletico Paranaense,Sport,3,1,V,D,NORMAL,1F
+1999,1999-11-10,Atlético Mineiro,Grêmio,2,0,V,D,NORMAL,1F
+1999,1999-11-14,Guarani,Corinthians,0,0,E,E,NORMAL,QF
+1999,1999-11-14,Atlético Mineiro,Cruzeiro,4,2,V,D,NORMAL,QF
+1999,1999-11-14,Vitória,Vasco,5,4,V,D,NORMAL,QF
+1999,1999-11-14,São Paulo,Ponte Preta,3,2,V,D,NORMAL,QF
+1999,1999-11-21,Corinthians,Guarani,2,0,V,D,NORMAL,QF
+1999,1999-11-21,Cruzeiro,Atlético Mineiro,2,3,D,V,NORMAL,QF
+1999,1999-11-21,Vasco,Vitória,2,2,E,E,NORMAL,QF
+1999,1999-11-21,Ponte Preta,São Paulo,2,1,V,D,NORMAL,QF
+1999,1999-11-24,Corinthians,Guarani,1,1,E,E,NORMAL,QF
+1999,1999-11-24,Vasco,Vitória,1,1,E,E,NORMAL,QF
+1999,1999-11-24,Ponte Preta,São Paulo,2,3,D,V,NORMAL,QF
+1999,1999-11-28,São Paulo,Corinthians,2,3,D,V,NORMAL,SF
+1999,1999-11-28,Atlético Mineiro,Vitória,3,0,V,D,NORMAL,SF
+1999,1999-12-05,Corinthians,São Paulo,2,1,V,D,NORMAL,SF
+1999,1999-12-05,Vitória,Atlético Mineiro,2,1,V,D,NORMAL,SF
+1999,1999-12-08,Vitória,Atlético Mineiro,0,3,D,V,NORMAL,SF
+1999,1999-12-12,Atlético Mineiro,Corinthians,3,2,V,D,NORMAL,F
+1999,1999-12-19,Corinthians,Atlético Mineiro,2,0,V,D,NORMAL,F
+1999,1999-12-22,Corinthians,Atlético Mineiro,0,0,E,E,NORMAL,F

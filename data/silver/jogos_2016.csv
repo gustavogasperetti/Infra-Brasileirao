@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2016,2016-05-14,Flamengo,Sport,1,0,V,D,NORMAL,R1
+2016,2016-05-14,Palmeiras,Athletico Paranaense,4,0,V,D,NORMAL,R1
+2016,2016-05-14,Atlético Mineiro,Santos,1,0,V,D,NORMAL,R1
+2016,2016-05-14,Coritiba,Cruzeiro,1,0,V,D,NORMAL,R1
+2016,2016-05-15,Botafogo,São Paulo,0,1,D,V,NORMAL,R1
+2016,2016-05-15,Santa Cruz,Vitória,4,1,V,D,NORMAL,R1
+2016,2016-05-15,Corinthians,Grêmio,0,0,E,E,NORMAL,R1
+2016,2016-05-15,Figueirense,Ponte Preta,0,0,E,E,NORMAL,R1
+2016,2016-05-15,América Mineiro,Fluminense,0,1,D,V,NORMAL,R1
+2016,2016-05-15,Internacional,Chapecoense,0,0,E,E,NORMAL,R1
+2016,2016-05-21,Ponte Preta,Palmeiras,2,1,V,D,NORMAL,R2
+2016,2016-05-21,Fluminense,Santa Cruz,2,2,E,E,NORMAL,R2
+2016,2016-05-21,Cruzeiro,Figueirense,2,2,E,E,NORMAL,R2
+2016,2016-05-22,Santos,Coritiba,2,1,V,D,NORMAL,R2
+2016,2016-05-22,Athletico Paranaense,Atlético Mineiro,1,1,E,E,NORMAL,R2
+2016,2016-05-22,Vitória,Corinthians,3,2,V,D,NORMAL,R2
+2016,2016-05-22,São Paulo,Internacional,1,2,D,V,NORMAL,R2
+2016,2016-05-22,Grêmio,Flamengo,1,0,V,D,NORMAL,R2
+2016,2016-05-22,Chapecoense,América Mineiro,3,1,V,D,NORMAL,R2
+2016,2016-05-22,Sport,Botafogo,1,1,E,E,NORMAL,R2
+2016,2016-05-25,Botafogo,Athletico Paranaense,2,1,V,D,NORMAL,R3
+2016,2016-05-25,Figueirense,Santos,2,2,E,E,NORMAL,R3
+2016,2016-05-25,Flamengo,Chapecoense,2,2,E,E,NORMAL,R3
+2016,2016-05-25,América Mineiro,Vitória,1,1,E,E,NORMAL,R3
+2016,2016-05-25,Palmeiras,Fluminense,2,0,V,D,NORMAL,R3
+2016,2016-05-25,Coritiba,São Paulo,1,1,E,E,NORMAL,R3
+2016,2016-05-25,Santa Cruz,Cruzeiro,4,1,V,D,NORMAL,R3
+2016,2016-05-26,Corinthians,Ponte Preta,3,0,V,D,NORMAL,R3
+2016,2016-05-26,Internacional,Sport,1,0,V,D,NORMAL,R3
+2016,2016-05-26,Atlético Mineiro,Grêmio,0,3,D,V,NORMAL,R3
+2016,2016-05-28,Cruzeiro,América Mineiro,1,1,E,E,NORMAL,R4
+2016,2016-05-28,Athletico Paranaense,Figueirense,2,1,V,D,NORMAL,R4
+2016,2016-05-28,Chapecoense,Santa Cruz,1,1,E,E,NORMAL,R4
+2016,2016-05-29,Ponte Preta,Flamengo,1,2,D,V,NORMAL,R4
+2016,2016-05-29,Sport,Corinthians,0,2,D,V,NORMAL,R4
+2016,2016-05-29,Vitória,Atlético Mineiro,1,1,E,E,NORMAL,R4
+2016,2016-05-29,Fluminense,Botafogo,1,0,V,D,NORMAL,R4
+2016,2016-05-29,São Paulo,Palmeiras,1,0,V,D,NORMAL,R4
+2016,2016-05-29,Santos,Internacional,0,1,D,V,NORMAL,R4
+2016,2016-05-29,Grêmio,Coritiba,2,0,V,D,NORMAL,R4
+2016,2016-06-01,Internacional,Athletico Paranaense,1,0,V,D,NORMAL,R5
+2016,2016-06-01,Corinthians,Santos,1,0,V,D,NORMAL,R5
+2016,2016-06-01,Coritiba,Chapecoense,3,4,D,V,NORMAL,R5
+2016,2016-06-01,Santa Cruz,Sport,0,1,D,V,NORMAL,R5
+2016,2016-06-01,Botafogo,Cruzeiro,0,1,D,V,NORMAL,R5
+2016,2016-06-01,Atlético Mineiro,Fluminense,1,1,E,E,NORMAL,R5
+2016,2016-06-01,Figueirense,São Paulo,1,0,V,D,NORMAL,R5
+2016,2016-06-02,América Mineiro,Ponte Preta,1,2,D,V,NORMAL,R5
+2016,2016-06-02,Flamengo,Vitória,1,0,V,D,NORMAL,R5
+2016,2016-06-02,Palmeiras,Grêmio,4,3,V,D,NORMAL,R5
+2016,2016-06-04,Athletico Paranaense,Santa Cruz,1,0,V,D,NORMAL,R6
+2016,2016-06-04,Corinthians,Coritiba,2,1,V,D,NORMAL,R6
+2016,2016-06-04,Chapecoense,Fluminense,0,0,E,E,NORMAL,R6
+2016,2016-06-05,Santos,Botafogo,3,0,V,D,NORMAL,R6
+2016,2016-06-05,América Mineiro,Figueirense,1,0,V,D,NORMAL,R6
+2016,2016-06-05,Vitória,Internacional,1,0,V,D,NORMAL,R6
+2016,2016-06-05,Flamengo,Palmeiras,1,2,D,V,NORMAL,R6
+2016,2016-06-05,Grêmio,Ponte Preta,1,0,V,D,NORMAL,R6
+2016,2016-06-05,Sport,Atlético Mineiro,4,4,E,E,NORMAL,R6
+2016,2016-06-05,Cruzeiro,São Paulo,0,1,D,V,NORMAL,R6
+2016,2016-06-11,Internacional,América Mineiro,3,1,V,D,NORMAL,R7
+2016,2016-06-11,Ponte Preta,Chapecoense,2,1,V,D,NORMAL,R7
+2016,2016-06-11,Fluminense,Grêmio,1,1,E,E,NORMAL,R7
+2016,2016-06-11,São Paulo,Athletico Paranaense,1,2,D,V,NORMAL,R7
+2016,2016-06-12,Botafogo,Vitória,1,1,E,E,NORMAL,R7
+2016,2016-06-12,Coritiba,Sport,3,2,V,D,NORMAL,R7
+2016,2016-06-12,Palmeiras,Corinthians,1,0,V,D,NORMAL,R7
+2016,2016-06-12,Atlético Mineiro,Cruzeiro,2,3,D,V,NORMAL,R7
+2016,2016-06-12,Figueirense,Flamengo,1,0,V,D,NORMAL,R7
+2016,2016-06-12,Santa Cruz,Santos,0,2,D,V,NORMAL,R7
+2016,2016-06-15,São Paulo,Vitória,2,0,V,D,NORMAL,R8
+2016,2016-06-15,Chapecoense,Grêmio,3,3,E,E,NORMAL,R8
+2016,2016-06-15,Ponte Preta,Athletico Paranaense,3,2,V,D,NORMAL,R8
+2016,2016-06-15,Botafogo,América Mineiro,3,1,V,D,NORMAL,R8
+2016,2016-06-15,Santos,Sport,2,0,V,D,NORMAL,R8
+2016,2016-06-15,Santa Cruz,Figueirense,1,0,V,D,NORMAL,R8
+2016,2016-06-15,Cruzeiro,Flamengo,0,1,D,V,NORMAL,R8
+2016,2016-06-15,Coritiba,Palmeiras,2,2,E,E,NORMAL,R8
+2016,2016-06-16,Internacional,Atlético Mineiro,2,0,V,D,NORMAL,R8
+2016,2016-06-16,Fluminense,Corinthians,1,0,V,D,NORMAL,R8
+2016,2016-06-18,Palmeiras,Santa Cruz,3,1,V,D,NORMAL,R9
+2016,2016-06-18,Athletico Paranaense,Santos,1,0,V,D,NORMAL,R9
+2016,2016-06-18,América Mineiro,Coritiba,2,1,V,D,NORMAL,R9
+2016,2016-06-19,Vitória,Chapecoense,1,2,D,V,NORMAL,R9
+2016,2016-06-19,Atlético Mineiro,Ponte Preta,3,0,V,D,NORMAL,R9
+2016,2016-06-19,Flamengo,São Paulo,2,2,E,E,NORMAL,R9
+2016,2016-06-19,Corinthians,Botafogo,3,1,V,D,NORMAL,R9
+2016,2016-06-19,Figueirense,Internacional,3,2,V,D,NORMAL,R9
+2016,2016-06-19,Sport,Fluminense,2,1,V,D,NORMAL,R9
+2016,2016-06-19,Grêmio,Cruzeiro,2,0,V,D,NORMAL,R9
+2016,2016-06-21,Palmeiras,América Mineiro,2,0,V,D,NORMAL,R10
+2016,2016-06-22,Ponte Preta,Cruzeiro,0,4,D,V,NORMAL,R10
+2016,2016-06-22,Botafogo,Figueirense,0,0,E,E,NORMAL,R10
+2016,2016-06-22,Santa Cruz,Flamengo,0,1,D,V,NORMAL,R10
+2016,2016-06-22,Fluminense,Santos,2,4,D,V,NORMAL,R10
+2016,2016-06-22,Atlético Mineiro,Corinthians,2,1,V,D,NORMAL,R10
+2016,2016-06-23,Chapecoense,Athletico Paranaense,0,0,E,E,NORMAL,R10
+2016,2016-06-23,Grêmio,Vitória,1,2,D,V,NORMAL,R10
+2016,2016-06-23,São Paulo,Sport,0,0,E,E,NORMAL,R10
+2016,2016-06-23,Coritiba,Internacional,1,1,E,E,NORMAL,R10
+2016,2016-06-25,Cruzeiro,Palmeiras,2,1,V,D,NORMAL,R11
+2016,2016-06-25,Corinthians,Santa Cruz,2,1,V,D,NORMAL,R11
+2016,2016-06-26,América Mineiro,Atlético Mineiro,0,1,D,V,NORMAL,R11
+2016,2016-06-26,Vitória,Ponte Preta,1,1,E,E,NORMAL,R11
+2016,2016-06-26,Flamengo,Fluminense,1,2,D,V,NORMAL,R11
+2016,2016-06-26,Santos,São Paulo,3,0,V,D,NORMAL,R11
+2016,2016-06-26,Internacional,Botafogo,2,3,D,V,NORMAL,R11
+2016,2016-06-26,Athletico Paranaense,Grêmio,2,0,V,D,NORMAL,R11
+2016,2016-06-26,Figueirense,Coritiba,0,0,E,E,NORMAL,R11
+2016,2016-06-26,Sport,Chapecoense,5,1,V,D,NORMAL,R11
+2016,2016-06-29,Vitória,Sport,3,2,V,D,NORMAL,R12
+2016,2016-06-29,Flamengo,Internacional,1,0,V,D,NORMAL,R12
+2016,2016-06-29,Grêmio,Santos,3,2,V,D,NORMAL,R12
+2016,2016-06-29,Coritiba,Athletico Paranaense,1,0,V,D,NORMAL,R12
+2016,2016-06-29,Chapecoense,Cruzeiro,3,2,V,D,NORMAL,R12
+2016,2016-06-29,São Paulo,Fluminense,2,1,V,D,NORMAL,R12
+2016,2016-06-29,América Mineiro,Corinthians,0,2,D,V,NORMAL,R12
+2016,2016-06-30,Palmeiras,Figueirense,4,0,V,D,NORMAL,R12
+2016,2016-06-30,Santa Cruz,Ponte Preta,0,3,D,V,NORMAL,R12
+2016,2016-06-30,Atlético Mineiro,Botafogo,5,3,V,D,NORMAL,R12
+2016,2016-07-02,Fluminense,Coritiba,0,0,E,E,NORMAL,R13
+2016,2016-07-02,Athletico Paranaense,América Mineiro,1,0,V,D,NORMAL,R13
+2016,2016-07-03,Cruzeiro,Vitória,2,2,E,E,NORMAL,R13
+2016,2016-07-03,Internacional,Grêmio,0,1,D,V,NORMAL,R13
+2016,2016-07-03,Botafogo,Santa Cruz,2,1,V,D,NORMAL,R13
+2016,2016-07-03,Corinthians,Flamengo,4,0,V,D,NORMAL,R13
+2016,2016-07-03,Santos,Chapecoense,3,0,V,D,NORMAL,R13
+2016,2016-07-03,Ponte Preta,São Paulo,1,0,V,D,NORMAL,R13
+2016,2016-07-03,Figueirense,Atlético Mineiro,1,1,E,E,NORMAL,R13
+2016,2016-07-04,Sport,Palmeiras,1,3,D,V,NORMAL,R13
+2016,2016-07-09,Coritiba,Botafogo,0,0,E,E,NORMAL,R14
+2016,2016-07-09,Chapecoense,Corinthians,0,2,D,V,NORMAL,R14
+2016,2016-07-09,Ponte Preta,Sport,2,1,V,D,NORMAL,R14
+2016,2016-07-10,Flamengo,Atlético Mineiro,2,0,V,D,NORMAL,R14
+2016,2016-07-10,Grêmio,Figueirense,2,1,V,D,NORMAL,R14
+2016,2016-07-10,São Paulo,América Mineiro,3,0,V,D,NORMAL,R14
+2016,2016-07-10,Santa Cruz,Internacional,1,0,V,D,NORMAL,R14
+2016,2016-07-10,Vitória,Fluminense,0,0,E,E,NORMAL,R14
+2016,2016-07-11,Cruzeiro,Athletico Paranaense,0,3,D,V,NORMAL,R14
+2016,2016-07-12,Palmeiras,Santos,1,1,E,E,NORMAL,R14
+2016,2016-07-16,Botafogo,Flamengo,3,3,E,E,NORMAL,R15
+2016,2016-07-16,Santos,Ponte Preta,3,1,V,D,NORMAL,R15
+2016,2016-07-17,América Mineiro,Santa Cruz,0,3,D,V,NORMAL,R15
+2016,2016-07-17,Fluminense,Cruzeiro,2,0,V,D,NORMAL,R15
+2016,2016-07-17,Corinthians,São Paulo,1,1,E,E,NORMAL,R15
+2016,2016-07-17,Athletico Paranaense,Vitória,1,1,E,E,NORMAL,R15
+2016,2016-07-17,Figueirense,Chapecoense,1,1,E,E,NORMAL,R15
+2016,2016-07-17,Internacional,Palmeiras,0,1,D,V,NORMAL,R15
+2016,2016-07-17,Sport,Grêmio,4,2,V,D,NORMAL,R15
+2016,2016-07-18,Atlético Mineiro,Coritiba,2,1,V,D,NORMAL,R15
+2016,2016-07-23,Corinthians,Figueirense,1,1,E,E,NORMAL,R16
+2016,2016-07-23,Santa Cruz,Coritiba,0,1,D,V,NORMAL,R16
+2016,2016-07-24,Palmeiras,Atlético Mineiro,0,1,D,V,NORMAL,R16
+2016,2016-07-24,Ponte Preta,Internacional,2,2,E,E,NORMAL,R16
+2016,2016-07-24,Cruzeiro,Sport,1,2,D,V,NORMAL,R16
+2016,2016-07-24,Grêmio,São Paulo,1,0,V,D,NORMAL,R16
+2016,2016-07-24,Athletico Paranaense,Fluminense,1,0,V,D,NORMAL,R16
+2016,2016-07-24,Chapecoense,Botafogo,2,1,V,D,NORMAL,R16
+2016,2016-07-24,Vitória,Santos,2,3,D,V,NORMAL,R16
+2016,2016-07-25,Flamengo,América Mineiro,2,1,V,D,NORMAL,R16
+2016,2016-07-30,Figueirense,Vitória,1,0,V,D,NORMAL,R17
+2016,2016-07-30,Sport,Athletico Paranaense,2,0,V,D,NORMAL,R17
+2016,2016-07-30,Atlético Mineiro,Santa Cruz,3,0,V,D,NORMAL,R17
+2016,2016-07-31,Fluminense,Ponte Preta,3,0,V,D,NORMAL,R17
+2016,2016-07-31,São Paulo,Chapecoense,2,2,E,E,NORMAL,R17
+2016,2016-07-31,Santos,Cruzeiro,2,0,V,D,NORMAL,R17
+2016,2016-07-31,Internacional,Corinthians,0,1,D,V,NORMAL,R17
+2016,2016-07-31,Coritiba,Flamengo,0,2,D,V,NORMAL,R17
+2016,2016-07-31,Botafogo,Palmeiras,3,1,V,D,NORMAL,R17
+2016,2016-07-31,América Mineiro,Grêmio,0,0,E,E,NORMAL,R17
+2016,2016-08-03,Vitória,Coritiba,3,1,V,D,NORMAL,R18
+2016,2016-08-03,Sport,América Mineiro,1,1,E,E,NORMAL,R18
+2016,2016-08-03,Santos,Flamengo,0,0,E,E,NORMAL,R18
+2016,2016-08-03,Athletico Paranaense,Corinthians,2,0,V,D,NORMAL,R18
+2016,2016-08-04,Ponte Preta,Botafogo,2,0,V,D,NORMAL,R18
+2016,2016-08-04,São Paulo,Atlético Mineiro,1,2,D,V,NORMAL,R18
+2016,2016-08-04,Grêmio,Santa Cruz,0,0,E,E,NORMAL,R18
+2016,2016-08-04,Cruzeiro,Internacional,4,2,V,D,NORMAL,R18
+2016,2016-08-04,Chapecoense,Palmeiras,1,1,E,E,NORMAL,R18
+2016,2016-08-06,Flamengo,Athletico Paranaense,1,0,V,D,NORMAL,R19
+2016,2016-08-07,América Mineiro,Santos,1,0,V,D,NORMAL,R19
+2016,2016-08-07,Palmeiras,Vitória,2,1,V,D,NORMAL,R19
+2016,2016-08-07,Coritiba,Ponte Preta,3,1,V,D,NORMAL,R19
+2016,2016-08-07,Internacional,Fluminense,2,2,E,E,NORMAL,R19
+2016,2016-08-07,Santa Cruz,São Paulo,1,2,D,V,NORMAL,R19
+2016,2016-08-07,Figueirense,Sport,1,1,E,E,NORMAL,R19
+2016,2016-08-08,Atlético Mineiro,Chapecoense,3,1,V,D,NORMAL,R19
+2016,2016-08-08,Corinthians,Cruzeiro,1,1,E,E,NORMAL,R19
+2016,2016-08-13,Sport,Flamengo,1,0,V,D,NORMAL,R20
+2016,2016-08-13,Ponte Preta,Figueirense,2,0,V,D,NORMAL,R20
+2016,2016-08-14,Grêmio,Corinthians,3,0,V,D,NORMAL,R20
+2016,2016-08-14,Fluminense,América Mineiro,1,0,V,D,NORMAL,R20
+2016,2016-08-14,Cruzeiro,Coritiba,2,2,E,E,NORMAL,R20
+2016,2016-08-14,Santos,Atlético Mineiro,3,0,V,D,NORMAL,R20
+2016,2016-08-14,Vitória,Santa Cruz,2,2,E,E,NORMAL,R20
+2016,2016-08-14,São Paulo,Botafogo,0,1,D,V,NORMAL,R20
+2016,2016-08-14,Athletico Paranaense,Palmeiras,0,1,D,V,NORMAL,R20
+2016,2016-08-15,Chapecoense,Internacional,1,0,V,D,NORMAL,R20
+2016,2016-08-19,América Mineiro,Chapecoense,1,2,D,V,NORMAL,R21
+2016,2016-08-20,Botafogo,Sport,3,0,V,D,NORMAL,R21
+2016,2016-08-21,Flamengo,Grêmio,2,1,V,D,NORMAL,R21
+2016,2016-08-21,Atlético Mineiro,Athletico Paranaense,1,0,V,D,NORMAL,R21
+2016,2016-08-21,Santa Cruz,Fluminense,0,1,D,V,NORMAL,R21
+2016,2016-08-21,Internacional,São Paulo,1,1,E,E,NORMAL,R21
+2016,2016-08-21,Palmeiras,Ponte Preta,2,2,E,E,NORMAL,R21
+2016,2016-08-21,Coritiba,Santos,2,1,V,D,NORMAL,R21
+2016,2016-08-21,Figueirense,Cruzeiro,1,2,D,V,NORMAL,R21
+2016,2016-08-22,Corinthians,Vitória,2,1,V,D,NORMAL,R21
+2016,2016-08-27,Ponte Preta,Corinthians,2,0,V,D,NORMAL,R22
+2016,2016-08-28,Santos,Figueirense,0,1,D,V,NORMAL,R22
+2016,2016-08-28,Cruzeiro,Santa Cruz,2,0,V,D,NORMAL,R22
+2016,2016-08-28,Chapecoense,Flamengo,1,3,D,V,NORMAL,R22
+2016,2016-08-28,Fluminense,Palmeiras,0,2,D,V,NORMAL,R22
+2016,2016-08-28,Grêmio,Atlético Mineiro,1,1,E,E,NORMAL,R22
+2016,2016-08-28,São Paulo,Coritiba,0,0,E,E,NORMAL,R22
+2016,2016-08-28,Sport,Internacional,1,1,E,E,NORMAL,R22
+2016,2016-08-28,Vitória,América Mineiro,2,1,V,D,NORMAL,R22
+2016,2016-08-29,Athletico Paranaense,Botafogo,1,0,V,D,NORMAL,R22
+2016,2016-09-03,Fluminense,Figueirense,3,2,V,D,NORMAL,R18
+2016,2016-09-04,Botafogo,Grêmio,2,1,V,D,NORMAL,R19
+2016,2016-09-07,Botafogo,Fluminense,1,0,V,D,NORMAL,R23
+2016,2016-09-07,Figueirense,Athletico Paranaense,1,0,V,D,NORMAL,R23
+2016,2016-09-07,Santa Cruz,Chapecoense,2,2,E,E,NORMAL,R23
+2016,2016-09-07,Atlético Mineiro,Vitória,2,1,V,D,NORMAL,R23
+2016,2016-09-07,Palmeiras,São Paulo,2,1,V,D,NORMAL,R23
+2016,2016-09-07,Coritiba,Grêmio,4,0,V,D,NORMAL,R23
+2016,2016-09-07,Flamengo,Ponte Preta,2,1,V,D,NORMAL,R23
+2016,2016-09-08,Corinthians,Sport,3,0,V,D,NORMAL,R23
+2016,2016-09-08,Internacional,Santos,2,1,V,D,NORMAL,R23
+2016,2016-09-08,América Mineiro,Cruzeiro,0,2,D,V,NORMAL,R23
+2016,2016-09-10,Vitória,Flamengo,1,2,D,V,NORMAL,R24
+2016,2016-09-11,Chapecoense,Coritiba,1,0,V,D,NORMAL,R24
+2016,2016-09-11,São Paulo,Figueirense,3,1,V,D,NORMAL,R24
+2016,2016-09-11,Cruzeiro,Botafogo,0,2,D,V,NORMAL,R24
+2016,2016-09-11,Santos,Corinthians,2,1,V,D,NORMAL,R24
+2016,2016-09-11,Athletico Paranaense,Internacional,2,1,V,D,NORMAL,R24
+2016,2016-09-11,Sport,Santa Cruz,5,3,V,D,NORMAL,R24
+2016,2016-09-11,Grêmio,Palmeiras,0,0,E,E,NORMAL,R24
+2016,2016-09-11,Ponte Preta,América Mineiro,1,1,E,E,NORMAL,R24
+2016,2016-09-12,Fluminense,Atlético Mineiro,4,2,V,D,NORMAL,R24
+2016,2016-09-14,Botafogo,Santos,0,1,D,V,NORMAL,R25
+2016,2016-09-14,Figueirense,América Mineiro,2,2,E,E,NORMAL,R25
+2016,2016-09-14,Ponte Preta,Grêmio,3,0,V,D,NORMAL,R25
+2016,2016-09-14,Santa Cruz,Athletico Paranaense,1,0,V,D,NORMAL,R25
+2016,2016-09-14,Palmeiras,Flamengo,1,1,E,E,NORMAL,R25
+2016,2016-09-14,Coritiba,Corinthians,1,1,E,E,NORMAL,R25
+2016,2016-09-15,Fluminense,Chapecoense,1,2,D,V,NORMAL,R25
+2016,2016-09-15,Atlético Mineiro,Sport,1,0,V,D,NORMAL,R25
+2016,2016-09-15,Internacional,Vitória,0,1,D,V,NORMAL,R25
+2016,2016-09-15,São Paulo,Cruzeiro,1,0,V,D,NORMAL,R25
+2016,2016-09-17,Corinthians,Palmeiras,0,2,D,V,NORMAL,R26
+2016,2016-09-18,Flamengo,Figueirense,2,0,V,D,NORMAL,R26
+2016,2016-09-18,Grêmio,Fluminense,0,1,D,V,NORMAL,R26
+2016,2016-09-18,Athletico Paranaense,São Paulo,1,0,V,D,NORMAL,R26
+2016,2016-09-18,Cruzeiro,Atlético Mineiro,1,1,E,E,NORMAL,R26
+2016,2016-09-18,Sport,Coritiba,0,1,D,V,NORMAL,R26
+2016,2016-09-18,Chapecoense,Ponte Preta,2,2,E,E,NORMAL,R26
+2016,2016-09-18,Vitória,Botafogo,0,1,D,V,NORMAL,R26
+2016,2016-09-18,Santos,Santa Cruz,3,2,V,D,NORMAL,R26
+2016,2016-09-19,América Mineiro,Internacional,1,0,V,D,NORMAL,R26
+2016,2016-09-24,Palmeiras,Coritiba,2,1,V,D,NORMAL,R27
+2016,2016-09-24,Sport,Santos,1,0,V,D,NORMAL,R27
+2016,2016-09-24,América Mineiro,Botafogo,1,0,V,D,NORMAL,R27
+2016,2016-09-25,Athletico Paranaense,Ponte Preta,3,0,V,D,NORMAL,R27
+2016,2016-09-25,Figueirense,Santa Cruz,3,1,V,D,NORMAL,R27
+2016,2016-09-25,Corinthians,Fluminense,0,1,D,V,NORMAL,R27
+2016,2016-09-25,Vitória,São Paulo,2,0,V,D,NORMAL,R27
+2016,2016-09-25,Flamengo,Cruzeiro,2,1,V,D,NORMAL,R27
+2016,2016-09-25,Grêmio,Chapecoense,1,0,V,D,NORMAL,R27
+2016,2016-09-25,Atlético Mineiro,Internacional,3,1,V,D,NORMAL,R27
+2016,2016-10-01,Fluminense,Sport,3,1,V,D,NORMAL,R28
+2016,2016-10-01,Chapecoense,Vitória,1,4,D,V,NORMAL,R28
+2016,2016-10-01,São Paulo,Flamengo,0,0,E,E,NORMAL,R28
+2016,2016-10-01,Santos,Athletico Paranaense,2,0,V,D,NORMAL,R28
+2016,2016-10-01,Botafogo,Corinthians,2,0,V,D,NORMAL,R28
+2016,2016-10-01,Ponte Preta,Atlético Mineiro,1,2,D,V,NORMAL,R28
+2016,2016-10-01,Cruzeiro,Grêmio,1,0,V,D,NORMAL,R28
+2016,2016-10-01,Internacional,Figueirense,1,0,V,D,NORMAL,R28
+2016,2016-10-03,Santa Cruz,Palmeiras,2,3,D,V,NORMAL,R28
+2016,2016-10-03,Coritiba,América Mineiro,3,0,V,D,NORMAL,R28
+2016,2016-10-05,Vitória,Grêmio,0,1,D,V,NORMAL,R29
+2016,2016-10-05,Athletico Paranaense,Chapecoense,3,1,V,D,NORMAL,R29
+2016,2016-10-05,Santos,Fluminense,2,1,V,D,NORMAL,R29
+2016,2016-10-05,Corinthians,Atlético Mineiro,0,0,E,E,NORMAL,R29
+2016,2016-10-05,Sport,São Paulo,1,1,E,E,NORMAL,R29
+2016,2016-10-06,Internacional,Coritiba,1,0,V,D,NORMAL,R29
+2016,2016-10-08,Cruzeiro,Ponte Preta,2,0,V,D,NORMAL,R29
+2016,2016-10-09,Figueirense,Botafogo,0,1,D,V,NORMAL,R29
+2016,2016-10-09,América Mineiro,Palmeiras,0,2,D,V,NORMAL,R29
+2016,2016-10-09,Flamengo,Santa Cruz,3,0,V,D,NORMAL,R29
+2016,2016-10-12,Chapecoense,Sport,3,0,V,D,NORMAL,R30
+2016,2016-10-12,Coritiba,Figueirense,0,0,E,E,NORMAL,R30
+2016,2016-10-12,Santa Cruz,Corinthians,2,4,D,V,NORMAL,R30
+2016,2016-10-12,Botafogo,Internacional,1,0,V,D,NORMAL,R30
+2016,2016-10-13,Ponte Preta,Vitória,2,0,V,D,NORMAL,R30
+2016,2016-10-13,Palmeiras,Cruzeiro,0,0,E,E,NORMAL,R30
+2016,2016-10-13,Atlético Mineiro,América Mineiro,3,0,V,D,NORMAL,R30
+2016,2016-10-13,Fluminense,Flamengo,1,2,D,V,NORMAL,R30
+2016,2016-10-13,São Paulo,Santos,0,1,D,V,NORMAL,R30
+2016,2016-10-13,Grêmio,Athletico Paranaense,1,0,V,D,NORMAL,R30
+2016,2016-10-16,Internacional,Flamengo,2,1,V,D,NORMAL,R31
+2016,2016-10-16,Figueirense,Palmeiras,1,2,D,V,NORMAL,R31
+2016,2016-10-16,Botafogo,Atlético Mineiro,3,2,V,D,NORMAL,R31
+2016,2016-10-16,Athletico Paranaense,Coritiba,2,0,V,D,NORMAL,R31
+2016,2016-10-16,Cruzeiro,Chapecoense,0,0,E,E,NORMAL,R31
+2016,2016-10-16,Corinthians,América Mineiro,2,0,V,D,NORMAL,R31
+2016,2016-10-16,Ponte Preta,Santa Cruz,3,0,V,D,NORMAL,R31
+2016,2016-10-16,Sport,Vitória,1,0,V,D,NORMAL,R31
+2016,2016-10-16,Santos,Grêmio,1,1,E,E,NORMAL,R31
+2016,2016-10-17,Fluminense,São Paulo,1,2,D,V,NORMAL,R31
+2016,2016-10-19,Santa Cruz,Botafogo,0,1,D,V,NORMAL,R32
+2016,2016-10-22,São Paulo,Ponte Preta,2,0,V,D,NORMAL,R32
+2016,2016-10-23,Flamengo,Corinthians,2,2,E,E,NORMAL,R32
+2016,2016-10-23,Vitória,Cruzeiro,0,1,D,V,NORMAL,R32
+2016,2016-10-23,Grêmio,Internacional,0,0,E,E,NORMAL,R32
+2016,2016-10-23,Palmeiras,Sport,2,1,V,D,NORMAL,R32
+2016,2016-10-23,Coritiba,Fluminense,1,1,E,E,NORMAL,R32
+2016,2016-10-23,Chapecoense,Santos,0,1,D,V,NORMAL,R32
+2016,2016-10-23,Atlético Mineiro,Figueirense,3,0,V,D,NORMAL,R32
+2016,2016-10-24,América Mineiro,Athletico Paranaense,1,0,V,D,NORMAL,R32
+2016,2016-10-27,Sport,Ponte Preta,1,0,V,D,NORMAL,R33
+2016,2016-10-28,Fluminense,Vitória,2,2,E,E,NORMAL,R33
+2016,2016-10-29,Atlético Mineiro,Flamengo,2,2,E,E,NORMAL,R33
+2016,2016-10-29,Athletico Paranaense,Cruzeiro,1,0,V,D,NORMAL,R33
+2016,2016-10-29,Corinthians,Chapecoense,1,1,E,E,NORMAL,R33
+2016,2016-10-29,Botafogo,Coritiba,0,0,E,E,NORMAL,R33
+2016,2016-10-29,Internacional,Santa Cruz,1,1,E,E,NORMAL,R33
+2016,2016-10-29,Santos,Palmeiras,1,0,V,D,NORMAL,R33
+2016,2016-10-29,Figueirense,Grêmio,0,0,E,E,NORMAL,R33
+2016,2016-10-31,América Mineiro,São Paulo,1,0,V,D,NORMAL,R33
+2016,2016-11-05,Flamengo,Botafogo,0,0,E,E,NORMAL,R34
+2016,2016-11-05,São Paulo,Corinthians,4,0,V,D,NORMAL,R34
+2016,2016-11-06,Ponte Preta,Santos,1,2,D,V,NORMAL,R34
+2016,2016-11-06,Cruzeiro,Fluminense,4,2,V,D,NORMAL,R34
+2016,2016-11-06,Vitória,Athletico Paranaense,3,2,V,D,NORMAL,R34
+2016,2016-11-06,Santa Cruz,América Mineiro,1,0,V,D,NORMAL,R34
+2016,2016-11-06,Palmeiras,Internacional,1,0,V,D,NORMAL,R34
+2016,2016-11-06,Coritiba,Atlético Mineiro,2,0,V,D,NORMAL,R34
+2016,2016-11-06,Chapecoense,Figueirense,1,0,V,D,NORMAL,R34
+2016,2016-11-07,Grêmio,Sport,0,3,D,V,NORMAL,R34
+2016,2016-11-15,Fluminense,Athletico Paranaense,1,1,E,E,NORMAL,R35
+2016,2016-11-16,Botafogo,Chapecoense,0,2,D,V,NORMAL,R35
+2016,2016-11-16,Coritiba,Santa Cruz,1,0,V,D,NORMAL,R35
+2016,2016-11-16,América Mineiro,Flamengo,0,1,D,V,NORMAL,R35
+2016,2016-11-16,Figueirense,Corinthians,1,1,E,E,NORMAL,R35
+2016,2016-11-16,Sport,Cruzeiro,0,1,D,V,NORMAL,R35
+2016,2016-11-17,Santos,Vitória,3,2,V,D,NORMAL,R35
+2016,2016-11-17,São Paulo,Grêmio,1,1,E,E,NORMAL,R35
+2016,2016-11-17,Atlético Mineiro,Palmeiras,1,1,E,E,NORMAL,R35
+2016,2016-11-17,Internacional,Ponte Preta,1,1,E,E,NORMAL,R35
+2016,2016-11-20,Palmeiras,Botafogo,1,0,V,D,NORMAL,R36
+2016,2016-11-20,Ponte Preta,Fluminense,1,0,V,D,NORMAL,R36
+2016,2016-11-20,Cruzeiro,Santos,2,2,E,E,NORMAL,R36
+2016,2016-11-20,Vitória,Figueirense,4,0,V,D,NORMAL,R36
+2016,2016-11-20,Grêmio,América Mineiro,3,0,V,D,NORMAL,R36
+2016,2016-11-20,Athletico Paranaense,Sport,2,0,V,D,NORMAL,R36
+2016,2016-11-20,Chapecoense,São Paulo,2,0,V,D,NORMAL,R36
+2016,2016-11-20,Santa Cruz,Atlético Mineiro,3,3,E,E,NORMAL,R36
+2016,2016-11-20,Flamengo,Coritiba,2,2,E,E,NORMAL,R36
+2016,2016-11-21,Corinthians,Internacional,1,0,V,D,NORMAL,R36
+2016,2016-11-26,Botafogo,Ponte Preta,1,1,E,E,NORMAL,R37
+2016,2016-11-26,América Mineiro,Sport,2,2,E,E,NORMAL,R37
+2016,2016-11-26,Corinthians,Athletico Paranaense,0,0,E,E,NORMAL,R37
+2016,2016-11-27,Atlético Mineiro,São Paulo,1,2,D,V,NORMAL,R37
+2016,2016-11-27,Flamengo,Santos,2,0,V,D,NORMAL,R37
+2016,2016-11-27,Internacional,Cruzeiro,1,0,V,D,NORMAL,R37
+2016,2016-11-27,Palmeiras,Chapecoense,1,0,V,D,NORMAL,R37
+2016,2016-11-27,Figueirense,Fluminense,1,0,V,D,NORMAL,R37
+2016,2016-11-27,Santa Cruz,Grêmio,5,1,V,D,NORMAL,R37
+2016,2016-11-28,Coritiba,Vitória,0,1,D,V,NORMAL,R37
+2016,2016-12-11,Grêmio,Botafogo,0,1,D,V,NORMAL,R38
+2016,2016-12-11,Athletico Paranaense,Flamengo,0,0,E,E,NORMAL,R38
+2016,2016-12-11,Cruzeiro,Corinthians,3,2,V,D,NORMAL,R38
+2016,2016-12-11,Vitória,Palmeiras,1,2,D,V,NORMAL,R38
+2016,2016-12-11,Chapecoense,Atlético Mineiro,,,,,WO,R38
+2016,2016-12-11,Fluminense,Internacional,1,1,E,E,NORMAL,R38
+2016,2016-12-11,Ponte Preta,Coritiba,2,0,V,D,NORMAL,R38
+2016,2016-12-11,Sport,Figueirense,2,0,V,D,NORMAL,R38
+2016,2016-12-11,Santos,América Mineiro,1,0,V,D,NORMAL,R38
+2016,2016-12-11,São Paulo,Santa Cruz,5,0,V,D,NORMAL,R38

@@ -1,0 +1,298 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1998,1998-07-25,Vasco,Corinthians,0,1,D,V,NORMAL,1F
+1998,1998-07-26,Internacional,Grêmio,1,0,V,D,NORMAL,1F
+1998,1998-07-26,Portuguesa,América Mineiro,2,1,V,D,NORMAL,1F
+1998,1998-07-26,Guarani,Ponte Preta,2,0,V,D,NORMAL,1F
+1998,1998-07-26,Juventude,Paraná,3,0,V,D,NORMAL,1F
+1998,1998-07-26,Athletico Paranaense,Coritiba,2,2,E,E,NORMAL,1F
+1998,1998-07-26,Santos,Red Bull Bragantino,2,0,V,D,NORMAL,1F
+1998,1998-07-26,Flamengo,Botafogo,1,1,E,E,NORMAL,1F
+1998,1998-07-26,Palmeiras,São Paulo,2,1,V,D,NORMAL,1F
+1998,1998-07-26,Atlético Mineiro,Cruzeiro,1,1,E,E,NORMAL,1F
+1998,1998-07-26,Vitória,Goiás,1,2,D,V,NORMAL,1F
+1998,1998-07-26,América-RN,Sport,0,4,D,V,NORMAL,1F
+1998,1998-07-29,Santos,Athletico Paranaense,1,1,E,E,NORMAL,1F
+1998,1998-07-29,Atlético Mineiro,Guarani,1,1,E,E,NORMAL,1F
+1998,1998-08-01,Coritiba,Flamengo,1,3,D,V,NORMAL,1F
+1998,1998-08-01,Goiás,Palmeiras,1,1,E,E,NORMAL,1F
+1998,1998-08-02,Ponte Preta,Internacional,0,0,E,E,NORMAL,1F
+1998,1998-08-02,Corinthians,Juventude,4,0,V,D,NORMAL,1F
+1998,1998-08-02,São Paulo,Guarani,2,1,V,D,NORMAL,1F
+1998,1998-08-02,Paraná,Portuguesa,0,1,D,V,NORMAL,1F
+1998,1998-08-02,Red Bull Bragantino,Vasco,0,0,E,E,NORMAL,1F
+1998,1998-08-02,Grêmio,Atlético Mineiro,2,3,D,V,NORMAL,1F
+1998,1998-08-02,Cruzeiro,Santos,1,2,D,V,NORMAL,1F
+1998,1998-08-02,Botafogo,Vitória,1,2,D,V,NORMAL,1F
+1998,1998-08-02,Sport,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1998,1998-08-02,América Mineiro,América-RN,2,2,E,E,NORMAL,1F
+1998,1998-08-05,Athletico Paranaense,Palmeiras,0,1,D,V,NORMAL,1F
+1998,1998-08-05,Corinthians,Grêmio,2,1,V,D,NORMAL,1F
+1998,1998-08-05,Cruzeiro,Ponte Preta,4,2,V,D,NORMAL,1F
+1998,1998-08-05,Guarani,Botafogo,2,3,D,V,NORMAL,1F
+1998,1998-08-05,Internacional,São Paulo,0,3,D,V,NORMAL,1F
+1998,1998-08-05,Paraná,América-RN,3,2,V,D,NORMAL,1F
+1998,1998-08-05,Portuguesa,Coritiba,1,1,E,E,NORMAL,1F
+1998,1998-08-05,Sport,Vitória,2,1,V,D,NORMAL,1F
+1998,1998-08-05,Vasco,América Mineiro,5,1,V,D,NORMAL,1F
+1998,1998-08-08,Coritiba,Ponte Preta,2,2,E,E,NORMAL,1F
+1998,1998-08-08,Atlético Mineiro,Corinthians,1,5,D,V,NORMAL,1F
+1998,1998-08-08,Juventude,Botafogo,0,0,E,E,NORMAL,1F
+1998,1998-08-09,Flamengo,Red Bull Bragantino,0,1,D,V,NORMAL,1F
+1998,1998-08-09,São Paulo,Cruzeiro,0,2,D,V,NORMAL,1F
+1998,1998-08-09,América-RN,Portuguesa,2,2,E,E,NORMAL,1F
+1998,1998-08-09,Vitória,Santos,1,3,D,V,NORMAL,1F
+1998,1998-08-09,Guarani,América Mineiro,1,2,D,V,NORMAL,1F
+1998,1998-08-09,Internacional,Paraná,2,1,V,D,NORMAL,1F
+1998,1998-08-09,Athletico Paranaense,Grêmio,0,0,E,E,NORMAL,1F
+1998,1998-08-09,Goiás,Sport,2,0,V,D,NORMAL,1F
+1998,1998-08-12,Ponte Preta,Flamengo,0,1,D,V,NORMAL,1F
+1998,1998-08-12,Coritiba,Corinthians,0,0,E,E,NORMAL,1F
+1998,1998-08-12,Botafogo,São Paulo,3,0,V,D,NORMAL,1F
+1998,1998-08-12,Grêmio,Juventude,0,0,E,E,NORMAL,1F
+1998,1998-08-12,América Mineiro,Paraná,2,0,V,D,NORMAL,1F
+1998,1998-08-12,Vitória,Guarani,3,3,E,E,NORMAL,1F
+1998,1998-08-12,Palmeiras,Sport,1,2,D,V,NORMAL,1F
+1998,1998-08-12,Goiás,Cruzeiro,0,0,E,E,NORMAL,1F
+1998,1998-08-12,América-RN,Internacional,0,0,E,E,NORMAL,1F
+1998,1998-08-15,Corinthians,Botafogo,1,0,V,D,NORMAL,1F
+1998,1998-08-15,Santos,Palmeiras,1,0,V,D,NORMAL,1F
+1998,1998-08-16,Grêmio,Flamengo,2,2,E,E,NORMAL,1F
+1998,1998-08-16,Vasco,Guarani,2,1,V,D,NORMAL,1F
+1998,1998-08-16,Sport,São Paulo,1,0,V,D,NORMAL,1F
+1998,1998-08-16,Portuguesa,Vitória,0,1,D,V,NORMAL,1F
+1998,1998-08-16,Red Bull Bragantino,Coritiba,1,2,D,V,NORMAL,1F
+1998,1998-08-16,Paraná,Goiás,1,0,V,D,NORMAL,1F
+1998,1998-08-16,Cruzeiro,América-RN,0,2,D,V,NORMAL,1F
+1998,1998-08-16,Juventude,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1998,1998-08-16,América Mineiro,Internacional,0,1,D,V,NORMAL,1F
+1998,1998-08-19,Ponte Preta,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1998,1998-08-19,Santos,Atlético Mineiro,4,4,E,E,NORMAL,1F
+1998,1998-08-19,Guarani,América-RN,2,1,V,D,NORMAL,1F
+1998,1998-08-19,Paraná,Red Bull Bragantino,2,2,E,E,NORMAL,1F
+1998,1998-08-22,Internacional,Corinthians,1,1,E,E,NORMAL,1F
+1998,1998-08-22,Athletico Paranaense,Portuguesa,2,2,E,E,NORMAL,1F
+1998,1998-08-22,Vitória,América Mineiro,2,1,V,D,NORMAL,1F
+1998,1998-08-23,Atlético Mineiro,Red Bull Bragantino,0,2,D,V,NORMAL,1F
+1998,1998-08-23,Coritiba,Sport,0,0,E,E,NORMAL,1F
+1998,1998-08-23,Botafogo,Cruzeiro,1,1,E,E,NORMAL,1F
+1998,1998-08-23,São Paulo,Santos,1,3,D,V,NORMAL,1F
+1998,1998-08-23,Goiás,Grêmio,0,0,E,E,NORMAL,1F
+1998,1998-08-23,Flamengo,Juventude,1,3,D,V,NORMAL,1F
+1998,1998-08-23,América-RN,Palmeiras,1,2,D,V,NORMAL,1F
+1998,1998-08-25,Corinthians,América Mineiro,3,1,V,D,NORMAL,1F
+1998,1998-08-26,Red Bull Bragantino,Botafogo,2,2,E,E,NORMAL,1F
+1998,1998-08-26,Cruzeiro,Portuguesa,2,2,E,E,NORMAL,1F
+1998,1998-08-26,Palmeiras,Atlético Mineiro,2,1,V,D,NORMAL,1F
+1998,1998-08-26,Internacional,Goiás,6,1,V,D,NORMAL,1F
+1998,1998-08-26,Flamengo,Athletico Paranaense,0,0,E,E,NORMAL,1F
+1998,1998-08-26,São Paulo,América-RN,6,1,V,D,NORMAL,1F
+1998,1998-08-26,Paraná,Ponte Preta,1,0,V,D,NORMAL,1F
+1998,1998-08-26,Juventude,Vitória,2,0,V,D,NORMAL,1F
+1998,1998-08-29,América Mineiro,Botafogo,0,0,E,E,NORMAL,1F
+1998,1998-08-29,Grêmio,Palmeiras,1,1,E,E,NORMAL,1F
+1998,1998-08-29,Coritiba,Goiás,2,0,V,D,NORMAL,1F
+1998,1998-08-29,Corinthians,Guarani,3,2,V,D,NORMAL,1F
+1998,1998-08-30,Vasco,Flamengo,1,1,E,E,NORMAL,1F
+1998,1998-08-30,Santos,Internacional,2,0,V,D,NORMAL,1F
+1998,1998-08-30,Portuguesa,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1998,1998-08-30,Red Bull Bragantino,América-RN,1,1,E,E,NORMAL,1F
+1998,1998-08-30,Athletico Paranaense,Juventude,0,0,E,E,NORMAL,1F
+1998,1998-08-30,Ponte Preta,São Paulo,1,1,E,E,NORMAL,1F
+1998,1998-08-30,Sport,Paraná,4,1,V,D,NORMAL,1F
+1998,1998-08-30,Cruzeiro,Vitória,0,2,D,V,NORMAL,1F
+1998,1998-09-02,Vasco,Portuguesa,1,2,D,V,NORMAL,1F
+1998,1998-09-02,América Mineiro,Ponte Preta,2,1,V,D,NORMAL,1F
+1998,1998-09-02,Guarani,Santos,1,1,E,E,NORMAL,1F
+1998,1998-09-02,Internacional,Red Bull Bragantino,2,1,V,D,NORMAL,1F
+1998,1998-09-02,Vitória,Paraná,1,0,V,D,NORMAL,1F
+1998,1998-09-05,Palmeiras,Flamengo,2,1,V,D,NORMAL,1F
+1998,1998-09-05,Red Bull Bragantino,Corinthians,1,0,V,D,NORMAL,1F
+1998,1998-09-05,Grêmio,Vitória,2,1,V,D,NORMAL,1F
+1998,1998-09-05,Internacional,Guarani,1,3,D,V,NORMAL,1F
+1998,1998-09-05,Ponte Preta,Juventude,1,0,V,D,NORMAL,1F
+1998,1998-09-05,Paraná,Athletico Paranaense,1,0,V,D,NORMAL,1F
+1998,1998-09-05,Atlético Mineiro,São Paulo,1,0,V,D,NORMAL,1F
+1998,1998-09-05,Vasco,Cruzeiro,2,0,V,D,NORMAL,1F
+1998,1998-09-05,América Mineiro,Goiás,1,0,V,D,NORMAL,1F
+1998,1998-09-05,América-RN,Coritiba,0,1,D,V,NORMAL,1F
+1998,1998-09-06,Santos,Sport,0,0,E,E,NORMAL,1F
+1998,1998-09-06,Portuguesa,Botafogo,5,2,V,D,NORMAL,1F
+1998,1998-09-08,Cruzeiro,Flamengo,1,1,E,E,NORMAL,1F
+1998,1998-09-08,Guarani,Palmeiras,3,2,V,D,NORMAL,1F
+1998,1998-09-08,Vasco,Sport,0,0,E,E,NORMAL,1F
+1998,1998-09-08,Corinthians,Portuguesa,3,0,V,D,NORMAL,1F
+1998,1998-09-08,Red Bull Bragantino,São Paulo,1,2,D,V,NORMAL,1F
+1998,1998-09-08,Paraná,Grêmio,1,2,D,V,NORMAL,1F
+1998,1998-09-08,Vitória,Coritiba,0,3,D,V,NORMAL,1F
+1998,1998-09-08,América-RN,Juventude,2,2,E,E,NORMAL,1F
+1998,1998-09-08,Goiás,Athletico Paranaense,2,3,D,V,NORMAL,1F
+1998,1998-09-11,Botafogo,Paraná,3,3,E,E,NORMAL,1F
+1998,1998-09-12,São Paulo,Vasco,1,1,E,E,NORMAL,1F
+1998,1998-09-12,Sport,Corinthians,0,2,D,V,NORMAL,1F
+1998,1998-09-13,Grêmio,Santos,3,2,V,D,NORMAL,1F
+1998,1998-09-13,Flamengo,Portuguesa,2,3,D,V,NORMAL,1F
+1998,1998-09-13,Palmeiras,Ponte Preta,3,0,V,D,NORMAL,1F
+1998,1998-09-13,Guarani,Cruzeiro,2,2,E,E,NORMAL,1F
+1998,1998-09-13,Atlético Mineiro,Athletico Paranaense,3,2,V,D,NORMAL,1F
+1998,1998-09-13,Coritiba,América Mineiro,0,0,E,E,NORMAL,1F
+1998,1998-09-13,Goiás,Red Bull Bragantino,3,0,V,D,NORMAL,1F
+1998,1998-09-15,Flamengo,Goiás,2,1,V,D,NORMAL,1F
+1998,1998-09-15,Atlético Mineiro,Vasco,1,1,E,E,NORMAL,1F
+1998,1998-09-16,Vitória,América-RN,3,0,V,D,NORMAL,1F
+1998,1998-09-16,Juventude,Santos,1,2,D,V,NORMAL,1F
+1998,1998-09-16,Sport,Red Bull Bragantino,1,0,V,D,NORMAL,1F
+1998,1998-09-19,Cruzeiro,Coritiba,4,0,V,D,NORMAL,1F
+1998,1998-09-19,Ponte Preta,Corinthians,4,5,D,V,NORMAL,1F
+1998,1998-09-19,Paraná,Vasco,2,1,V,D,NORMAL,1F
+1998,1998-09-19,Botafogo,América-RN,2,0,V,D,NORMAL,1F
+1998,1998-09-20,Juventude,Internacional,1,2,D,V,NORMAL,1F
+1998,1998-09-20,Palmeiras,Vitória,3,2,V,D,NORMAL,1F
+1998,1998-09-20,Guarani,Goiás,2,2,E,E,NORMAL,1F
+1998,1998-09-20,Santos,Flamengo,4,1,V,D,NORMAL,1F
+1998,1998-09-20,Sport,Grêmio,5,0,V,D,NORMAL,1F
+1998,1998-09-20,América Mineiro,Atlético Mineiro,0,2,D,V,NORMAL,1F
+1998,1998-09-20,São Paulo,Portuguesa,2,7,D,V,NORMAL,1F
+1998,1998-09-24,Palmeiras,Red Bull Bragantino,4,0,V,D,NORMAL,1F
+1998,1998-09-24,Goiás,Botafogo,2,0,V,D,NORMAL,1F
+1998,1998-09-24,América Mineiro,São Paulo,1,3,D,V,NORMAL,1F
+1998,1998-09-24,Flamengo,Internacional,1,3,D,V,NORMAL,1F
+1998,1998-09-24,Corinthians,Cruzeiro,1,2,D,V,NORMAL,1F
+1998,1998-09-24,Vasco,Juventude,1,1,E,E,NORMAL,1F
+1998,1998-09-24,Portuguesa,Sport,2,0,V,D,NORMAL,1F
+1998,1998-09-24,Grêmio,Ponte Preta,1,0,V,D,NORMAL,1F
+1998,1998-09-24,Athletico Paranaense,Guarani,4,0,V,D,NORMAL,1F
+1998,1998-09-26,Juventude,Palmeiras,3,6,D,V,NORMAL,1F
+1998,1998-09-26,São Paulo,Flamengo,0,0,E,E,NORMAL,1F
+1998,1998-09-27,Portuguesa,Ponte Preta,1,0,V,D,NORMAL,1F
+1998,1998-09-27,Athletico Paranaense,Red Bull Bragantino,3,2,V,D,NORMAL,1F
+1998,1998-09-27,Guarani,Coritiba,0,1,D,V,NORMAL,1F
+1998,1998-09-27,Atlético Mineiro,Paraná,3,0,V,D,NORMAL,1F
+1998,1998-09-27,Sport,Cruzeiro,1,1,E,E,NORMAL,1F
+1998,1998-09-27,Grêmio,América Mineiro,2,1,V,D,NORMAL,1F
+1998,1998-09-27,Vitória,Internacional,2,0,V,D,NORMAL,1F
+1998,1998-09-27,América-RN,Goiás,2,1,V,D,NORMAL,1F
+1998,1998-09-27,Corinthians,Santos,0,2,D,V,NORMAL,1F
+1998,1998-09-27,Botafogo,Vasco,0,2,D,V,NORMAL,1F
+1998,1998-09-30,Vitória,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1998,1998-09-30,Santos,Ponte Preta,4,0,V,D,NORMAL,1F
+1998,1998-09-30,Athletico Paranaense,Botafogo,3,1,V,D,NORMAL,1F
+1998,1998-09-30,Juventude,América Mineiro,1,0,V,D,NORMAL,1F
+1998,1998-09-30,Coritiba,Paraná,3,2,V,D,NORMAL,1F
+1998,1998-10-03,Coritiba,Santos,1,1,E,E,NORMAL,1F
+1998,1998-10-03,América-RN,Vasco,1,3,D,V,NORMAL,1F
+1998,1998-10-03,Vitória,São Paulo,1,0,V,D,NORMAL,1F
+1998,1998-10-03,Juventude,Guarani,0,0,E,E,NORMAL,1F
+1998,1998-10-03,Internacional,Athletico Paranaense,0,1,D,V,NORMAL,1F
+1998,1998-10-03,Ponte Preta,Sport,2,1,V,D,NORMAL,1F
+1998,1998-10-03,Flamengo,Atlético Mineiro,3,2,V,D,NORMAL,1F
+1998,1998-10-03,Palmeiras,Corinthians,3,1,V,D,NORMAL,1F
+1998,1998-10-03,Botafogo,Grêmio,2,1,V,D,NORMAL,1F
+1998,1998-10-03,Cruzeiro,América Mineiro,4,1,V,D,NORMAL,1F
+1998,1998-10-03,Goiás,Portuguesa,3,1,V,D,NORMAL,1F
+1998,1998-10-07,Ponte Preta,Vasco,2,1,V,D,NORMAL,1F
+1998,1998-10-07,Flamengo,Sport,3,2,V,D,NORMAL,1F
+1998,1998-10-07,Botafogo,Coritiba,2,3,D,V,NORMAL,1F
+1998,1998-10-07,Corinthians,Goiás,2,2,E,E,NORMAL,1F
+1998,1998-10-07,Red Bull Bragantino,Grêmio,1,0,V,D,NORMAL,1F
+1998,1998-10-07,Athletico Paranaense,Vitória,4,1,V,D,NORMAL,1F
+1998,1998-10-07,Internacional,Cruzeiro,3,1,V,D,NORMAL,1F
+1998,1998-10-07,Portuguesa,Palmeiras,2,3,D,V,NORMAL,1F
+1998,1998-10-08,São Paulo,Paraná,3,0,V,D,NORMAL,1F
+1998,1998-10-10,Flamengo,Corinthians,4,1,V,D,NORMAL,1F
+1998,1998-10-10,Atlético Mineiro,Botafogo,5,5,E,E,NORMAL,1F
+1998,1998-10-10,Palmeiras,Internacional,1,0,V,D,NORMAL,1F
+1998,1998-10-10,Grêmio,Coritiba,1,1,E,E,NORMAL,1F
+1998,1998-10-10,Portuguesa,Juventude,2,1,V,D,NORMAL,1F
+1998,1998-10-10,Athletico Paranaense,América-RN,2,0,V,D,NORMAL,1F
+1998,1998-10-10,Ponte Preta,Vitória,4,2,V,D,NORMAL,1F
+1998,1998-10-10,Paraná,Cruzeiro,1,2,D,V,NORMAL,1F
+1998,1998-10-10,Vasco,Santos,3,1,V,D,NORMAL,1F
+1998,1998-10-10,São Paulo,Goiás,3,1,V,D,NORMAL,1F
+1998,1998-10-11,Sport,América Mineiro,3,2,V,D,NORMAL,1F
+1998,1998-10-14,Red Bull Bragantino,Guarani,1,2,D,V,NORMAL,1F
+1998,1998-10-14,Atlético Mineiro,Internacional,2,0,V,D,NORMAL,1F
+1998,1998-10-15,Santos,América Mineiro,3,3,E,E,NORMAL,1F
+1998,1998-10-15,Juventude,Coritiba,1,2,D,V,NORMAL,1F
+1998,1998-10-17,Botafogo,Palmeiras,3,1,V,D,NORMAL,1F
+1998,1998-10-18,Vitória,Flamengo,1,4,D,V,NORMAL,1F
+1998,1998-10-18,Coritiba,São Paulo,2,1,V,D,NORMAL,1F
+1998,1998-10-18,Corinthians,Athletico Paranaense,4,2,V,D,NORMAL,1F
+1998,1998-10-18,Santos,Portuguesa,1,1,E,E,NORMAL,1F
+1998,1998-10-18,América Mineiro,Red Bull Bragantino,2,0,V,D,NORMAL,1F
+1998,1998-10-18,Guarani,Paraná,2,0,V,D,NORMAL,1F
+1998,1998-10-18,Goiás,Ponte Preta,0,1,D,V,NORMAL,1F
+1998,1998-10-18,Cruzeiro,Grêmio,0,2,D,V,NORMAL,1F
+1998,1998-10-18,América-RN,Atlético Mineiro,1,3,D,V,NORMAL,1F
+1998,1998-10-18,Juventude,Sport,1,0,V,D,NORMAL,1F
+1998,1998-10-18,Internacional,Vasco,1,0,V,D,NORMAL,1F
+1998,1998-10-21,América-RN,Flamengo,2,1,V,D,NORMAL,1F
+1998,1998-10-21,Paraná,Corinthians,0,0,E,E,NORMAL,1F
+1998,1998-10-21,Athletico Paranaense,Vasco,1,2,D,V,NORMAL,1F
+1998,1998-10-21,Botafogo,Ponte Preta,1,0,V,D,NORMAL,1F
+1998,1998-10-21,Palmeiras,Coritiba,1,2,D,V,NORMAL,1F
+1998,1998-10-21,São Paulo,Grêmio,1,2,D,V,NORMAL,1F
+1998,1998-10-21,Guarani,Portuguesa,1,1,E,E,NORMAL,1F
+1998,1998-10-21,Red Bull Bragantino,Cruzeiro,0,4,D,V,NORMAL,1F
+1998,1998-10-21,Atlético Mineiro,Goiás,2,1,V,D,NORMAL,1F
+1998,1998-10-21,Internacional,Sport,1,2,D,V,NORMAL,1F
+1998,1998-10-23,Vasco,Vitória,0,1,D,V,NORMAL,1F
+1998,1998-10-24,Sport,Botafogo,2,1,V,D,NORMAL,1F
+1998,1998-10-24,Cruzeiro,Palmeiras,3,1,V,D,NORMAL,1F
+1998,1998-10-24,Flamengo,Guarani,2,1,V,D,NORMAL,1F
+1998,1998-10-24,São Paulo,Corinthians,1,2,D,V,NORMAL,1F
+1998,1998-10-24,Portuguesa,Internacional,1,1,E,E,NORMAL,1F
+1998,1998-10-24,Santos,Paraná,1,2,D,V,NORMAL,1F
+1998,1998-10-24,Ponte Preta,Red Bull Bragantino,2,2,E,E,NORMAL,1F
+1998,1998-10-24,América Mineiro,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1998,1998-10-24,Coritiba,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1998,1998-10-24,Grêmio,América-RN,2,1,V,D,NORMAL,1F
+1998,1998-10-24,Goiás,Juventude,2,2,E,E,NORMAL,1F
+1998,1998-10-28,Red Bull Bragantino,Juventude,1,0,V,D,NORMAL,1F
+1998,1998-10-28,América-RN,Santos,2,2,E,E,NORMAL,1F
+1998,1998-10-29,Vasco,Coritiba,3,1,V,D,NORMAL,1F
+1998,1998-10-31,Internacional,Botafogo,0,0,E,E,NORMAL,1F
+1998,1998-10-31,Vitória,Corinthians,2,3,D,V,NORMAL,1F
+1998,1998-11-01,Portuguesa,Red Bull Bragantino,3,1,V,D,NORMAL,1F
+1998,1998-11-01,Santos,Goiás,3,1,V,D,NORMAL,1F
+1998,1998-11-01,Flamengo,América Mineiro,2,0,V,D,NORMAL,1F
+1998,1998-11-01,Guarani,Grêmio,1,3,D,V,NORMAL,1F
+1998,1998-11-01,América-RN,Ponte Preta,0,1,D,V,NORMAL,1F
+1998,1998-11-01,Athletico Paranaense,Cruzeiro,1,2,D,V,NORMAL,1F
+1998,1998-11-01,Atlético Mineiro,Sport,1,0,V,D,NORMAL,1F
+1998,1998-11-01,Palmeiras,Paraná,3,2,V,D,NORMAL,1F
+1998,1998-11-04,Vasco,Grêmio,2,1,V,D,NORMAL,1F
+1998,1998-11-04,Juventude,São Paulo,2,1,V,D,NORMAL,1F
+1998,1998-11-07,Palmeiras,Vasco,2,1,V,D,NORMAL,1F
+1998,1998-11-11,Botafogo,Santos,2,1,V,D,NORMAL,1F
+1998,1998-11-12,Goiás,Vasco,2,2,E,E,NORMAL,1F
+1998,1998-11-12,Paraná,Flamengo,2,1,V,D,NORMAL,1F
+1998,1998-11-12,América Mineiro,Palmeiras,1,1,E,E,NORMAL,1F
+1998,1998-11-12,Corinthians,América-RN,2,1,V,D,NORMAL,1F
+1998,1998-11-12,São Paulo,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1998,1998-11-12,Grêmio,Portuguesa,4,2,V,D,NORMAL,1F
+1998,1998-11-12,Red Bull Bragantino,Vitória,0,0,E,E,NORMAL,1F
+1998,1998-11-12,Sport,Guarani,2,1,V,D,NORMAL,1F
+1998,1998-11-12,Ponte Preta,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1998,1998-11-12,Coritiba,Internacional,1,0,V,D,NORMAL,1F
+1998,1998-11-12,Cruzeiro,Juventude,5,0,V,D,NORMAL,1F
+1998,1998-11-14,Cruzeiro,Palmeiras,2,1,V,D,NORMAL,QF
+1998,1998-11-15,Grêmio,Corinthians,0,1,D,V,NORMAL,QF
+1998,1998-11-15,Portuguesa,Coritiba,3,1,V,D,NORMAL,QF
+1998,1998-11-15,Sport,Santos,3,1,V,D,NORMAL,QF
+1998,1998-11-21,Corinthians,Grêmio,0,2,D,V,NORMAL,QF
+1998,1998-11-21,Santos,Sport,2,1,V,D,NORMAL,QF
+1998,1998-11-22,Palmeiras,Cruzeiro,2,1,V,D,NORMAL,QF
+1998,1998-11-22,Coritiba,Portuguesa,0,0,E,E,NORMAL,QF
+1998,1998-11-25,Corinthians,Grêmio,1,0,V,D,NORMAL,QF
+1998,1998-11-25,Coritiba,Portuguesa,2,2,E,E,NORMAL,QF
+1998,1998-11-25,Santos,Sport,3,0,V,D,NORMAL,QF
+1998,1998-11-26,Palmeiras,Cruzeiro,2,3,D,V,NORMAL,QF
+1998,1998-11-29,Cruzeiro,Portuguesa,3,1,V,D,NORMAL,SF
+1998,1998-11-29,Santos,Corinthians,2,1,V,D,NORMAL,SF
+1998,1998-12-06,Portuguesa,Cruzeiro,2,1,V,D,NORMAL,SF
+1998,1998-12-06,Corinthians,Santos,2,0,V,D,NORMAL,SF
+1998,1998-12-09,Portuguesa,Cruzeiro,0,1,D,V,NORMAL,SF
+1998,1998-12-09,Corinthians,Santos,1,1,E,E,NORMAL,SF
+1998,1998-12-13,Cruzeiro,Corinthians,2,2,E,E,NORMAL,F
+1998,1998-12-20,Corinthians,Cruzeiro,1,1,E,E,NORMAL,F
+1998,1998-12-23,Corinthians,Cruzeiro,2,0,V,D,NORMAL,F

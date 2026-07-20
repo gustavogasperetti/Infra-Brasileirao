@@ -1,0 +1,553 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2003,2003-03-29,Guarani,Vasco,4,2,V,D,NORMAL,R1
+2003,2003-03-29,Athletico Paranaense,Grêmio,2,0,V,D,NORMAL,R1
+2003,2003-03-30,Goiás,Paysandu,2,2,E,E,NORMAL,R1
+2003,2003-03-30,Flamengo,Coritiba,1,1,E,E,NORMAL,R1
+2003,2003-03-30,Criciúma,Fluminense,2,0,V,D,NORMAL,R1
+2003,2003-03-30,Juventude,São Paulo,2,2,E,E,NORMAL,R1
+2003,2003-03-30,Fortaleza,Bahia,0,0,E,E,NORMAL,R1
+2003,2003-03-30,Vitória,Figueirense,1,1,E,E,NORMAL,R1
+2003,2003-03-30,Cruzeiro,São Caetano,2,2,E,E,NORMAL,R1
+2003,2003-03-30,Internacional,Ponte Preta,1,1,E,E,NORMAL,R1
+2003,2003-03-30,Corinthians,Atlético Mineiro,0,3,D,V,NORMAL,R1
+2003,2003-03-30,Santos,Paraná,2,2,E,E,NORMAL,R1
+2003,2003-04-05,Fluminense,Fortaleza,1,1,E,E,NORMAL,R2
+2003,2003-04-05,Atlético Mineiro,Santos,0,0,E,E,NORMAL,R2
+2003,2003-04-05,Coritiba,Internacional,0,1,D,V,NORMAL,R2
+2003,2003-04-05,Grêmio,Guarani,3,1,V,D,NORMAL,R2
+2003,2003-04-06,Bahia,Flamengo,1,2,D,V,NORMAL,R2
+2003,2003-04-06,Figueirense,Corinthians,3,3,E,E,NORMAL,R2
+2003,2003-04-06,Paysandu,Vitória,1,2,D,V,NORMAL,R2
+2003,2003-04-06,Ponte Preta,Juventude,1,0,V,D,NORMAL,R2
+2003,2003-04-06,Paraná,Athletico Paranaense,3,0,V,D,NORMAL,R2
+2003,2003-04-06,São Caetano,Criciúma,3,2,V,D,NORMAL,R2
+2003,2003-04-06,Vasco,Goiás,6,4,V,D,NORMAL,R2
+2003,2003-04-06,São Paulo,Cruzeiro,2,4,D,V,NORMAL,R2
+2003,2003-04-09,Paysandu,Santos,2,1,V,D,NORMAL,R4
+2003,2003-04-12,Internacional,Bahia,2,0,V,D,NORMAL,R3
+2003,2003-04-12,Athletico Paranaense,Atlético Mineiro,1,2,D,V,NORMAL,R3
+2003,2003-04-12,Santos,Figueirense,2,0,V,D,NORMAL,R3
+2003,2003-04-12,Corinthians,Paysandu,6,1,V,D,NORMAL,R3
+2003,2003-04-13,Vitória,Vasco,2,1,V,D,NORMAL,R3
+2003,2003-04-13,Criciúma,São Paulo,1,1,E,E,NORMAL,R3
+2003,2003-04-13,Fortaleza,São Caetano,1,1,E,E,NORMAL,R3
+2003,2003-04-13,Juventude,Coritiba,2,1,V,D,NORMAL,R3
+2003,2003-04-13,Guarani,Paraná,2,0,V,D,NORMAL,R3
+2003,2003-04-13,Goiás,Grêmio,1,1,E,E,NORMAL,R3
+2003,2003-04-13,Cruzeiro,Ponte Preta,3,0,V,D,NORMAL,R3
+2003,2003-04-13,Flamengo,Fluminense,4,1,V,D,NORMAL,R3
+2003,2003-04-16,Bahia,Juventude,3,1,V,D,NORMAL,R4
+2003,2003-04-16,Grêmio,Vitória,2,1,V,D,NORMAL,R4
+2003,2003-04-16,Atlético Mineiro,Guarani,3,2,V,D,NORMAL,R4
+2003,2003-04-16,Figueirense,Athletico Paranaense,1,1,E,E,NORMAL,R4
+2003,2003-04-16,Ponte Preta,Criciúma,1,1,E,E,NORMAL,R4
+2003,2003-04-16,São Caetano,Flamengo,1,1,E,E,NORMAL,R4
+2003,2003-04-16,Vasco,Corinthians,2,2,E,E,NORMAL,R4
+2003,2003-04-16,Coritiba,Cruzeiro,3,4,D,V,NORMAL,R4
+2003,2003-04-17,Fluminense,Internacional,3,1,V,D,NORMAL,R4
+2003,2003-04-17,Paraná,Goiás,3,1,V,D,NORMAL,R4
+2003,2003-04-17,São Paulo,Fortaleza,3,1,V,D,NORMAL,R4
+2003,2003-04-19,Bahia,Atlético Mineiro,2,4,D,V,NORMAL,R5
+2003,2003-04-19,São Caetano,Grêmio,1,1,E,E,NORMAL,R5
+2003,2003-04-19,Flamengo,Santos,0,2,D,V,NORMAL,R5
+2003,2003-04-20,São Paulo,Vasco,3,1,V,D,NORMAL,R5
+2003,2003-04-20,Internacional,Corinthians,2,1,V,D,NORMAL,R5
+2003,2003-04-20,Ponte Preta,Paysandu,4,4,E,E,NORMAL,R5
+2003,2003-04-20,Fortaleza,Athletico Paranaense,1,0,V,D,NORMAL,R5
+2003,2003-04-20,Juventude,Vitória,1,1,E,E,NORMAL,R5
+2003,2003-04-20,Criciúma,Guarani,1,0,V,D,NORMAL,R5
+2003,2003-04-20,Fluminense,Paraná,0,0,E,E,NORMAL,R5
+2003,2003-04-20,Cruzeiro,Goiás,4,1,V,D,NORMAL,R5
+2003,2003-04-21,Coritiba,Figueirense,1,0,V,D,NORMAL,R5
+2003,2003-04-26,Paraná,Bahia,3,1,V,D,NORMAL,R6
+2003,2003-04-26,Vitória,Internacional,0,3,D,V,NORMAL,R6
+2003,2003-04-26,Atlético Mineiro,Coritiba,1,2,D,V,NORMAL,R6
+2003,2003-04-26,Guarani,Cruzeiro,1,1,E,E,NORMAL,R6
+2003,2003-04-27,Grêmio,Fluminense,0,1,D,V,NORMAL,R6
+2003,2003-04-27,Corinthians,Flamengo,1,1,E,E,NORMAL,R6
+2003,2003-04-27,Goiás,Juventude,7,0,V,D,NORMAL,R6
+2003,2003-04-27,Santos,Fortaleza,4,0,V,D,NORMAL,R6
+2003,2003-04-27,Athletico Paranaense,Criciúma,5,2,V,D,NORMAL,R6
+2003,2003-04-27,Figueirense,Ponte Preta,0,0,E,E,NORMAL,R6
+2003,2003-04-27,Vasco,São Caetano,1,0,V,D,NORMAL,R6
+2003,2003-04-27,Paysandu,São Paulo,5,2,V,D,NORMAL,R6
+2003,2003-05-03,Flamengo,Vitória,2,1,V,D,NORMAL,R7
+2003,2003-05-03,Bahia,Grêmio,2,1,V,D,NORMAL,R7
+2003,2003-05-03,Cruzeiro,Athletico Paranaense,5,2,V,D,NORMAL,R7
+2003,2003-05-04,Fortaleza,Corinthians,1,2,D,V,NORMAL,R7
+2003,2003-05-04,São Paulo,Figueirense,3,2,V,D,NORMAL,R7
+2003,2003-05-04,São Caetano,Paysandu,2,0,V,D,NORMAL,R7
+2003,2003-05-04,Internacional,Goiás,2,1,V,D,NORMAL,R7
+2003,2003-05-04,Ponte Preta,Atlético Mineiro,2,1,V,D,NORMAL,R7
+2003,2003-05-04,Juventude,Guarani,1,1,E,E,NORMAL,R7
+2003,2003-05-04,Coritiba,Paraná,2,1,V,D,NORMAL,R7
+2003,2003-05-04,Fluminense,Vasco,0,0,E,E,NORMAL,R7
+2003,2003-05-04,Criciúma,Santos,1,3,D,V,NORMAL,R7
+2003,2003-05-10,Goiás,Flamengo,1,1,E,E,NORMAL,R8
+2003,2003-05-10,Santos,Cruzeiro,0,2,D,V,NORMAL,R8
+2003,2003-05-10,Paraná,Ponte Preta,3,2,V,D,NORMAL,R8
+2003,2003-05-10,Corinthians,Criciúma,3,0,V,D,NORMAL,R8
+2003,2003-05-11,Vasco,Bahia,1,1,E,E,NORMAL,R8
+2003,2003-05-11,Paysandu,Fluminense,2,2,E,E,NORMAL,R8
+2003,2003-05-11,Atlético Mineiro,São Paulo,2,2,E,E,NORMAL,R8
+2003,2003-05-11,Vitória,Fortaleza,2,1,V,D,NORMAL,R8
+2003,2003-05-11,Guarani,Internacional,3,0,V,D,NORMAL,R8
+2003,2003-05-11,Athletico Paranaense,Juventude,2,0,V,D,NORMAL,R8
+2003,2003-05-11,Figueirense,São Caetano,3,0,V,D,NORMAL,R8
+2003,2003-05-11,Grêmio,Coritiba,1,0,V,D,NORMAL,R8
+2003,2003-05-17,Fluminense,Figueirense,3,0,V,D,NORMAL,R9
+2003,2003-05-17,São Caetano,Atlético Mineiro,2,0,V,D,NORMAL,R9
+2003,2003-05-17,Juventude,Santos,1,1,E,E,NORMAL,R9
+2003,2003-05-18,Bahia,Paysandu,2,0,V,D,NORMAL,R9
+2003,2003-05-18,Coritiba,Vasco,1,1,E,E,NORMAL,R9
+2003,2003-05-18,Fortaleza,Goiás,1,0,V,D,NORMAL,R9
+2003,2003-05-18,Cruzeiro,Corinthians,1,1,E,E,NORMAL,R9
+2003,2003-05-18,Ponte Preta,Grêmio,2,1,V,D,NORMAL,R9
+2003,2003-05-18,Criciúma,Vitória,1,1,E,E,NORMAL,R9
+2003,2003-05-18,Internacional,Athletico Paranaense,1,1,E,E,NORMAL,R9
+2003,2003-05-18,São Paulo,Paraná,2,0,V,D,NORMAL,R9
+2003,2003-05-18,Flamengo,Guarani,1,1,E,E,NORMAL,R9
+2003,2003-05-24,Atlético Mineiro,Fluminense,3,0,V,D,NORMAL,R10
+2003,2003-05-24,Corinthians,Juventude,3,0,V,D,NORMAL,R10
+2003,2003-05-24,Paraná,São Caetano,1,1,E,E,NORMAL,R10
+2003,2003-05-24,Vasco,Ponte Preta,1,0,V,D,NORMAL,R10
+2003,2003-05-25,Athletico Paranaense,Flamengo,4,1,V,D,NORMAL,R10
+2003,2003-05-25,Paysandu,Coritiba,1,3,D,V,NORMAL,R10
+2003,2003-05-25,Goiás,Criciúma,0,2,D,V,NORMAL,R10
+2003,2003-05-25,Grêmio,São Paulo,1,2,D,V,NORMAL,R10
+2003,2003-05-25,Guarani,Fortaleza,2,1,V,D,NORMAL,R10
+2003,2003-05-25,Figueirense,Bahia,1,0,V,D,NORMAL,R10
+2003,2003-05-25,Vitória,Cruzeiro,2,1,V,D,NORMAL,R10
+2003,2003-05-25,Santos,Internacional,2,1,V,D,NORMAL,R10
+2003,2003-05-31,Fluminense,Athletico Paranaense,2,1,V,D,NORMAL,R11
+2003,2003-05-31,Cruzeiro,Criciúma,2,0,V,D,NORMAL,R11
+2003,2003-05-31,Coritiba,Guarani,3,2,V,D,NORMAL,R11
+2003,2003-05-31,Ponte Preta,São Caetano,0,0,E,E,NORMAL,R11
+2003,2003-05-31,Internacional,Paysandu,2,1,V,D,NORMAL,R11
+2003,2003-06-01,Paraná,Flamengo,6,2,V,D,NORMAL,R11
+2003,2003-06-01,Bahia,Goiás,2,1,V,D,NORMAL,R11
+2003,2003-06-01,Santos,São Paulo,3,2,V,D,NORMAL,R11
+2003,2003-06-01,Fortaleza,Juventude,3,1,V,D,NORMAL,R11
+2003,2003-06-01,Figueirense,Grêmio,2,1,V,D,NORMAL,R11
+2003,2003-06-01,Vasco,Atlético Mineiro,2,2,E,E,NORMAL,R11
+2003,2003-06-01,Corinthians,Vitória,4,0,V,D,NORMAL,R11
+2003,2003-06-07,Vitória,Fluminense,2,1,V,D,NORMAL,R12
+2003,2003-06-07,Guarani,Santos,1,2,D,V,NORMAL,R12
+2003,2003-06-07,Grêmio,Fortaleza,3,1,V,D,NORMAL,R12
+2003,2003-06-07,Atlético Mineiro,Figueirense,1,1,E,E,NORMAL,R12
+2003,2003-06-08,Juventude,Vasco,0,0,E,E,NORMAL,R12
+2003,2003-06-08,Goiás,Coritiba,1,2,D,V,NORMAL,R12
+2003,2003-06-08,São Caetano,Corinthians,1,0,V,D,NORMAL,R12
+2003,2003-06-08,Paysandu,Paraná,3,0,V,D,NORMAL,R12
+2003,2003-06-08,Athletico Paranaense,Ponte Preta,4,2,V,D,NORMAL,R12
+2003,2003-06-08,Criciúma,Internacional,1,0,V,D,NORMAL,R12
+2003,2003-06-08,São Paulo,Bahia,2,2,E,E,NORMAL,R12
+2003,2003-06-14,Fluminense,Goiás,2,3,D,V,NORMAL,R13
+2003,2003-06-14,Ponte Preta,Guarani,0,2,D,V,NORMAL,R13
+2003,2003-06-14,Coritiba,Athletico Paranaense,2,0,V,D,NORMAL,R13
+2003,2003-06-15,Bahia,Vitória,2,1,V,D,NORMAL,R13
+2003,2003-06-15,Corinthians,São Paulo,1,2,D,V,NORMAL,R13
+2003,2003-06-15,Fortaleza,Paysandu,1,2,D,V,NORMAL,R13
+2003,2003-06-15,Paraná,Juventude,1,2,D,V,NORMAL,R13
+2003,2003-06-15,Grêmio,Internacional,0,0,E,E,NORMAL,R13
+2003,2003-06-15,Santos,São Caetano,0,1,D,V,NORMAL,R13
+2003,2003-06-15,Criciúma,Figueirense,1,0,V,D,NORMAL,R13
+2003,2003-06-15,Vasco,Flamengo,1,2,D,V,NORMAL,R13
+2003,2003-06-15,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,R13
+2003,2003-06-18,Flamengo,Cruzeiro,3,0,V,D,NORMAL,R12
+2003,2003-06-19,Bahia,Coritiba,2,2,E,E,NORMAL,R14
+2003,2003-06-21,Vasco,Criciúma,2,0,V,D,NORMAL,R14
+2003,2003-06-21,Atlético Mineiro,Grêmio,3,2,V,D,NORMAL,R14
+2003,2003-06-21,Internacional,Paraná,2,1,V,D,NORMAL,R14
+2003,2003-06-21,São Paulo,Goiás,1,0,V,D,NORMAL,R14
+2003,2003-06-22,Paysandu,Flamengo,2,2,E,E,NORMAL,R14
+2003,2003-06-22,Ponte Preta,Corinthians,3,3,E,E,NORMAL,R14
+2003,2003-06-22,Figueirense,Fortaleza,2,2,E,E,NORMAL,R14
+2003,2003-06-22,São Caetano,Vitória,2,1,V,D,NORMAL,R14
+2003,2003-06-22,Fluminense,Guarani,5,2,V,D,NORMAL,R14
+2003,2003-06-22,Juventude,Cruzeiro,0,1,D,V,NORMAL,R14
+2003,2003-06-28,Fortaleza,Vasco,0,1,D,V,NORMAL,R15
+2003,2003-06-28,Coritiba,São Caetano,2,0,V,D,NORMAL,R15
+2003,2003-06-28,Grêmio,Juventude,1,4,D,V,NORMAL,R15
+2003,2003-06-28,Santos,Bahia,4,0,V,D,NORMAL,R15
+2003,2003-06-28,Flamengo,Figueirense,0,2,D,V,NORMAL,R15
+2003,2003-06-29,Corinthians,Fluminense,1,0,V,D,NORMAL,R15
+2003,2003-06-29,Guarani,São Paulo,0,1,D,V,NORMAL,R15
+2003,2003-06-29,Criciúma,Paysandu,2,0,V,D,NORMAL,R15
+2003,2003-06-29,Vitória,Athletico Paranaense,1,0,V,D,NORMAL,R15
+2003,2003-06-29,Paraná,Atlético Mineiro,1,1,E,E,NORMAL,R15
+2003,2003-06-29,Cruzeiro,Internacional,3,2,V,D,NORMAL,R15
+2003,2003-07-05,Vasco,Paraná,1,4,D,V,NORMAL,R16
+2003,2003-07-05,São Paulo,São Caetano,1,1,E,E,NORMAL,R16
+2003,2003-07-05,Figueirense,Cruzeiro,1,0,V,D,NORMAL,R16
+2003,2003-07-05,Atlético Mineiro,Paysandu,3,2,V,D,NORMAL,R16
+2003,2003-07-06,Juventude,Internacional,1,1,E,E,NORMAL,R16
+2003,2003-07-06,Grêmio,Flamengo,2,0,V,D,NORMAL,R16
+2003,2003-07-06,Guarani,Goiás,3,2,V,D,NORMAL,R16
+2003,2003-07-06,Athletico Paranaense,Corinthians,3,1,V,D,NORMAL,R16
+2003,2003-07-06,Fortaleza,Criciúma,0,1,D,V,NORMAL,R16
+2003,2003-07-06,Vitória,Ponte Preta,1,4,D,V,NORMAL,R16
+2003,2003-07-06,Fluminense,Bahia,1,0,V,D,NORMAL,R16
+2003,2003-07-06,Santos,Coritiba,3,1,V,D,NORMAL,R16
+2003,2003-07-09,São Caetano,Athletico Paranaense,0,0,E,E,NORMAL,R17
+2003,2003-07-09,Corinthians,Santos,1,1,E,E,NORMAL,R17
+2003,2003-07-09,Cruzeiro,Fortaleza,2,0,V,D,NORMAL,R17
+2003,2003-07-09,Bahia,Guarani,2,0,V,D,NORMAL,R17
+2003,2003-07-09,Flamengo,Juventude,2,1,V,D,NORMAL,R17
+2003,2003-07-09,Goiás,Vitória,1,1,E,E,NORMAL,R17
+2003,2003-07-09,Paysandu,Figueirense,1,0,V,D,NORMAL,R17
+2003,2003-07-09,Internacional,Vasco,2,1,V,D,NORMAL,R17
+2003,2003-07-09,Coritiba,São Paulo,0,2,D,V,NORMAL,R17
+2003,2003-07-10,Paraná,Grêmio,3,1,V,D,NORMAL,R17
+2003,2003-07-10,Ponte Preta,Fluminense,3,0,V,D,NORMAL,R17
+2003,2003-07-10,Criciúma,Atlético Mineiro,1,0,V,D,NORMAL,R17
+2003,2003-07-12,Athletico Paranaense,Goiás,0,0,E,E,NORMAL,R18
+2003,2003-07-12,Fortaleza,Internacional,3,0,V,D,NORMAL,R18
+2003,2003-07-12,Vasco,Paysandu,0,2,D,V,NORMAL,R18
+2003,2003-07-13,Atlético Mineiro,Flamengo,1,0,V,D,NORMAL,R18
+2003,2003-07-13,Ponte Preta,Bahia,1,0,V,D,NORMAL,R18
+2003,2003-07-13,Corinthians,Coritiba,0,1,D,V,NORMAL,R18
+2003,2003-07-13,Criciúma,Juventude,3,0,V,D,NORMAL,R18
+2003,2003-07-13,Figueirense,Paraná,4,2,V,D,NORMAL,R18
+2003,2003-07-13,São Caetano,Guarani,0,2,D,V,NORMAL,R18
+2003,2003-07-13,Fluminense,São Paulo,1,3,D,V,NORMAL,R18
+2003,2003-07-13,Grêmio,Cruzeiro,0,1,D,V,NORMAL,R18
+2003,2003-07-13,Vitória,Santos,2,0,V,D,NORMAL,R18
+2003,2003-07-16,Flamengo,Fortaleza,0,2,D,V,NORMAL,R19
+2003,2003-07-16,Bahia,São Caetano,0,0,E,E,NORMAL,R19
+2003,2003-07-16,Guarani,Vitória,2,2,E,E,NORMAL,R19
+2003,2003-07-16,Internacional,Atlético Mineiro,3,3,E,E,NORMAL,R19
+2003,2003-07-16,Juventude,Figueirense,1,2,D,V,NORMAL,R19
+2003,2003-07-16,Coritiba,Fluminense,3,0,V,D,NORMAL,R19
+2003,2003-07-16,Santos,Ponte Preta,2,1,V,D,NORMAL,R19
+2003,2003-07-16,Cruzeiro,Vasco,4,1,V,D,NORMAL,R19
+2003,2003-07-16,Goiás,Corinthians,1,1,E,E,NORMAL,R19
+2003,2003-07-17,Paysandu,Grêmio,1,1,E,E,NORMAL,R19
+2003,2003-07-17,São Paulo,Athletico Paranaense,2,0,V,D,NORMAL,R19
+2003,2003-07-19,Fluminense,Santos,1,4,D,V,NORMAL,R20
+2003,2003-07-19,Corinthians,Guarani,1,0,V,D,NORMAL,R20
+2003,2003-07-19,Fortaleza,Atlético Mineiro,4,3,V,D,NORMAL,R20
+2003,2003-07-19,Internacional,Figueirense,3,0,V,D,NORMAL,R20
+2003,2003-07-20,Juventude,Paysandu,2,0,V,D,NORMAL,R20
+2003,2003-07-20,Athletico Paranaense,Bahia,2,1,V,D,NORMAL,R20
+2003,2003-07-20,Ponte Preta,Coritiba,1,1,E,E,NORMAL,R20
+2003,2003-07-20,Criciúma,Flamengo,4,3,V,D,NORMAL,R20
+2003,2003-07-20,Goiás,São Caetano,2,1,V,D,NORMAL,R20
+2003,2003-07-20,Vitória,São Paulo,0,2,D,V,NORMAL,R20
+2003,2003-07-20,Cruzeiro,Paraná,5,1,V,D,NORMAL,R20
+2003,2003-07-20,Vasco,Grêmio,2,0,V,D,NORMAL,R20
+2003,2003-07-23,Atlético Mineiro,Juventude,2,1,V,D,NORMAL,R21
+2003,2003-07-23,Guarani,Athletico Paranaense,1,0,V,D,NORMAL,R21
+2003,2003-07-23,Paraná,Fortaleza,4,1,V,D,NORMAL,R21
+2003,2003-07-23,Paysandu,Cruzeiro,3,0,V,D,NORMAL,R21
+2003,2003-07-23,Figueirense,Vasco,0,0,E,E,NORMAL,R21
+2003,2003-07-23,Santos,Goiás,3,3,E,E,NORMAL,R21
+2003,2003-07-23,Bahia,Corinthians,0,0,E,E,NORMAL,R21
+2003,2003-07-24,Coritiba,Vitória,1,1,E,E,NORMAL,R21
+2003,2003-07-24,São Paulo,Ponte Preta,1,2,D,V,NORMAL,R21
+2003,2003-07-24,Flamengo,Internacional,2,1,V,D,NORMAL,R21
+2003,2003-07-24,São Caetano,Fluminense,2,0,V,D,NORMAL,R21
+2003,2003-07-24,Grêmio,Criciúma,0,2,D,V,NORMAL,R21
+2003,2003-07-26,Santos,Vasco,2,1,V,D,NORMAL,R22
+2003,2003-07-26,Goiás,Atlético Mineiro,1,1,E,E,NORMAL,R22
+2003,2003-07-26,Athletico Paranaense,Paysandu,1,1,E,E,NORMAL,R22
+2003,2003-07-27,Fortaleza,Ponte Preta,2,3,D,V,NORMAL,R22
+2003,2003-07-27,Vitória,Paraná,0,3,D,V,NORMAL,R22
+2003,2003-07-27,Criciúma,Coritiba,2,3,D,V,NORMAL,R22
+2003,2003-07-27,Guarani,Figueirense,3,0,V,D,NORMAL,R22
+2003,2003-07-27,Flamengo,São Paulo,1,1,E,E,NORMAL,R22
+2003,2003-07-27,Juventude,Fluminense,2,1,V,D,NORMAL,R22
+2003,2003-07-27,Corinthians,Grêmio,1,0,V,D,NORMAL,R22
+2003,2003-07-27,Internacional,São Caetano,0,0,E,E,NORMAL,R22
+2003,2003-07-27,Cruzeiro,Bahia,5,2,V,D,NORMAL,R22
+2003,2003-07-30,Athletico Paranaense,Santos,0,2,D,V,NORMAL,R14
+2003,2003-07-30,Goiás,Ponte Preta,0,0,E,E,NORMAL,R15
+2003,2003-07-31,Paraná,Criciúma,2,1,V,D,NORMAL,R19
+2003,2003-08-02,Fluminense,Cruzeiro,2,2,E,E,NORMAL,R23
+2003,2003-08-02,Grêmio,Santos,2,0,V,D,NORMAL,R23
+2003,2003-08-02,São Caetano,Juventude,1,1,E,E,NORMAL,R23
+2003,2003-08-02,São Paulo,Internacional,0,2,D,V,NORMAL,R23
+2003,2003-08-03,Figueirense,Goiás,0,1,D,V,NORMAL,R23
+2003,2003-08-03,Paraná,Corinthians,1,1,E,E,NORMAL,R23
+2003,2003-08-03,Paysandu,Guarani,6,1,V,D,NORMAL,R23
+2003,2003-08-03,Coritiba,Fortaleza,1,1,E,E,NORMAL,R23
+2003,2003-08-03,Bahia,Criciúma,2,2,E,E,NORMAL,R23
+2003,2003-08-03,Ponte Preta,Flamengo,1,1,E,E,NORMAL,R23
+2003,2003-08-03,Vasco,Athletico Paranaense,2,1,V,D,NORMAL,R23
+2003,2003-08-03,Atlético Mineiro,Vitória,1,0,V,D,NORMAL,R23
+2003,2003-08-06,Vitória,Paysandu,1,1,E,E,NORMAL,R24
+2003,2003-08-06,Athletico Paranaense,Paraná,1,0,V,D,NORMAL,R24
+2003,2003-08-06,Criciúma,São Caetano,0,1,D,V,NORMAL,R24
+2003,2003-08-06,Fortaleza,Fluminense,3,1,V,D,NORMAL,R24
+2003,2003-08-06,Juventude,Ponte Preta,0,0,E,E,NORMAL,R24
+2003,2003-08-06,Goiás,Vasco,3,1,V,D,NORMAL,R24
+2003,2003-08-06,Santos,Atlético Mineiro,3,3,E,E,NORMAL,R24
+2003,2003-08-06,Cruzeiro,São Paulo,1,1,E,E,NORMAL,R24
+2003,2003-08-07,Internacional,Coritiba,1,0,V,D,NORMAL,R24
+2003,2003-08-07,Flamengo,Bahia,6,0,V,D,NORMAL,R24
+2003,2003-08-07,Corinthians,Figueirense,0,1,D,V,NORMAL,R24
+2003,2003-08-07,Guarani,Grêmio,2,0,V,D,NORMAL,R24
+2003,2003-08-09,Fluminense,Criciúma,1,1,E,E,NORMAL,R25
+2003,2003-08-09,São Caetano,Cruzeiro,2,0,V,D,NORMAL,R25
+2003,2003-08-09,Paraná,Santos,1,2,D,V,NORMAL,R25
+2003,2003-08-09,São Paulo,Juventude,3,1,V,D,NORMAL,R25
+2003,2003-08-10,Paysandu,Goiás,2,2,E,E,NORMAL,R25
+2003,2003-08-10,Ponte Preta,Internacional,1,4,D,V,NORMAL,R25
+2003,2003-08-10,Coritiba,Flamengo,5,0,V,D,NORMAL,R25
+2003,2003-08-10,Atlético Mineiro,Corinthians,2,3,D,V,NORMAL,R25
+2003,2003-08-10,Bahia,Fortaleza,1,0,V,D,NORMAL,R25
+2003,2003-08-10,Figueirense,Vitória,1,2,D,V,NORMAL,R25
+2003,2003-08-10,Grêmio,Athletico Paranaense,1,1,E,E,NORMAL,R25
+2003,2003-08-10,Vasco,Guarani,0,0,E,E,NORMAL,R25
+2003,2003-08-16,Vasco,Vitória,1,0,V,D,NORMAL,R26
+2003,2003-08-16,Bahia,Internacional,1,3,D,V,NORMAL,R26
+2003,2003-08-16,Figueirense,Santos,1,0,V,D,NORMAL,R26
+2003,2003-08-16,Coritiba,Juventude,1,0,V,D,NORMAL,R26
+2003,2003-08-16,Atlético Mineiro,Athletico Paranaense,1,2,D,V,NORMAL,R26
+2003,2003-08-16,São Paulo,Criciúma,0,0,E,E,NORMAL,R26
+2003,2003-08-17,Paysandu,Corinthians,2,2,E,E,NORMAL,R26
+2003,2003-08-17,São Caetano,Fortaleza,3,0,V,D,NORMAL,R26
+2003,2003-08-17,Ponte Preta,Cruzeiro,1,3,D,V,NORMAL,R26
+2003,2003-08-17,Grêmio,Goiás,0,1,D,V,NORMAL,R26
+2003,2003-08-17,Paraná,Guarani,0,0,E,E,NORMAL,R26
+2003,2003-08-17,Fluminense,Flamengo,0,1,D,V,NORMAL,R26
+2003,2003-08-20,Flamengo,São Caetano,1,0,V,D,NORMAL,R27
+2003,2003-08-20,Goiás,Paraná,1,0,V,D,NORMAL,R27
+2003,2003-08-20,Juventude,Bahia,1,0,V,D,NORMAL,R27
+2003,2003-08-20,Cruzeiro,Coritiba,2,2,E,E,NORMAL,R27
+2003,2003-08-20,Athletico Paranaense,Figueirense,1,2,D,V,NORMAL,R27
+2003,2003-08-20,Vitória,Grêmio,4,1,V,D,NORMAL,R27
+2003,2003-08-20,Santos,Paysandu,2,0,V,D,NORMAL,R27
+2003,2003-08-20,Corinthians,Vasco,0,0,E,E,NORMAL,R27
+2003,2003-08-20,Fortaleza,São Paulo,0,2,D,V,NORMAL,R27
+2003,2003-08-21,Internacional,Fluminense,0,1,D,V,NORMAL,R27
+2003,2003-08-21,Criciúma,Ponte Preta,3,0,V,D,NORMAL,R27
+2003,2003-08-21,Guarani,Atlético Mineiro,2,2,E,E,NORMAL,R27
+2003,2003-08-23,Santos,Flamengo,2,1,V,D,NORMAL,R28
+2003,2003-08-23,Athletico Paranaense,Fortaleza,3,1,V,D,NORMAL,R28
+2003,2003-08-23,Goiás,Cruzeiro,1,0,V,D,NORMAL,R28
+2003,2003-08-23,Grêmio,São Caetano,0,0,E,E,NORMAL,R28
+2003,2003-08-24,Vasco,São Paulo,3,2,V,D,NORMAL,R28
+2003,2003-08-24,Paysandu,Ponte Preta,3,2,V,D,NORMAL,R28
+2003,2003-08-24,Paraná,Fluminense,2,0,V,D,NORMAL,R28
+2003,2003-08-24,Vitória,Juventude,3,0,V,D,NORMAL,R28
+2003,2003-08-24,Figueirense,Coritiba,1,2,D,V,NORMAL,R28
+2003,2003-08-24,Guarani,Criciúma,1,0,V,D,NORMAL,R28
+2003,2003-08-24,Corinthians,Internacional,3,1,V,D,NORMAL,R28
+2003,2003-08-24,Atlético Mineiro,Bahia,1,0,V,D,NORMAL,R28
+2003,2003-08-30,Fluminense,Grêmio,2,0,V,D,NORMAL,R29
+2003,2003-08-30,Fortaleza,Santos,0,0,E,E,NORMAL,R29
+2003,2003-08-30,Internacional,Vitória,0,1,D,V,NORMAL,R29
+2003,2003-08-30,Cruzeiro,Guarani,4,1,V,D,NORMAL,R29
+2003,2003-08-30,São Paulo,Paysandu,1,0,V,D,NORMAL,R29
+2003,2003-08-31,São Caetano,Vasco,1,0,V,D,NORMAL,R29
+2003,2003-08-31,Juventude,Goiás,0,2,D,V,NORMAL,R29
+2003,2003-08-31,Flamengo,Corinthians,1,0,V,D,NORMAL,R29
+2003,2003-08-31,Bahia,Paraná,4,2,V,D,NORMAL,R29
+2003,2003-08-31,Ponte Preta,Figueirense,1,1,E,E,NORMAL,R29
+2003,2003-08-31,Coritiba,Atlético Mineiro,2,2,E,E,NORMAL,R29
+2003,2003-08-31,Criciúma,Athletico Paranaense,2,0,V,D,NORMAL,R29
+2003,2003-09-13,Santos,Criciúma,5,2,V,D,NORMAL,R30
+2003,2003-09-13,Athletico Paranaense,Cruzeiro,1,4,D,V,NORMAL,R30
+2003,2003-09-13,Corinthians,Fortaleza,2,0,V,D,NORMAL,R30
+2003,2003-09-13,Grêmio,Bahia,1,1,E,E,NORMAL,R30
+2003,2003-09-14,Vitória,Flamengo,1,0,V,D,NORMAL,R30
+2003,2003-09-14,Goiás,Internacional,3,1,V,D,NORMAL,R30
+2003,2003-09-14,Figueirense,São Paulo,2,2,E,E,NORMAL,R30
+2003,2003-09-14,Paysandu,São Caetano,1,0,V,D,NORMAL,R30
+2003,2003-09-14,Guarani,Juventude,2,0,V,D,NORMAL,R30
+2003,2003-09-14,Paraná,Coritiba,2,3,D,V,NORMAL,R30
+2003,2003-09-14,Vasco,Fluminense,1,0,V,D,NORMAL,R30
+2003,2003-09-14,Atlético Mineiro,Ponte Preta,2,0,V,D,NORMAL,R30
+2003,2003-09-20,Cruzeiro,Santos,3,0,V,D,NORMAL,R31
+2003,2003-09-20,Coritiba,Grêmio,1,0,V,D,NORMAL,R31
+2003,2003-09-20,Ponte Preta,Paraná,4,0,V,D,NORMAL,R31
+2003,2003-09-20,Fluminense,Paysandu,1,1,E,E,NORMAL,R31
+2003,2003-09-20,Internacional,Guarani,2,0,V,D,NORMAL,R31
+2003,2003-09-21,Bahia,Vasco,3,0,V,D,NORMAL,R31
+2003,2003-09-21,Criciúma,Corinthians,1,0,V,D,NORMAL,R31
+2003,2003-09-21,Fortaleza,Vitória,1,0,V,D,NORMAL,R31
+2003,2003-09-21,Juventude,Athletico Paranaense,4,0,V,D,NORMAL,R31
+2003,2003-09-21,São Caetano,Figueirense,0,2,D,V,NORMAL,R31
+2003,2003-09-21,Flamengo,Goiás,1,1,E,E,NORMAL,R31
+2003,2003-09-21,São Paulo,Atlético Mineiro,2,2,E,E,NORMAL,R31
+2003,2003-09-24,Athletico Paranaense,Internacional,2,1,V,D,NORMAL,R32
+2003,2003-09-24,Goiás,Fortaleza,0,1,D,V,NORMAL,R32
+2003,2003-09-24,Paysandu,Bahia,4,0,V,D,NORMAL,R32
+2003,2003-09-24,Vitória,Criciúma,1,1,E,E,NORMAL,R32
+2003,2003-09-24,Grêmio,Ponte Preta,2,2,E,E,NORMAL,R32
+2003,2003-09-24,Guarani,Flamengo,5,3,V,D,NORMAL,R32
+2003,2003-09-24,Paraná,São Paulo,4,2,V,D,NORMAL,R32
+2003,2003-09-24,Santos,Juventude,1,1,E,E,NORMAL,R32
+2003,2003-09-24,Corinthians,Cruzeiro,0,1,D,V,NORMAL,R32
+2003,2003-09-25,Figueirense,Fluminense,2,2,E,E,NORMAL,R32
+2003,2003-09-25,Vasco,Coritiba,2,1,V,D,NORMAL,R32
+2003,2003-09-25,Atlético Mineiro,São Caetano,3,1,V,D,NORMAL,R32
+2003,2003-09-27,Internacional,Santos,1,0,V,D,NORMAL,R33
+2003,2003-09-27,São Paulo,Grêmio,3,1,V,D,NORMAL,R33
+2003,2003-09-27,Flamengo,Athletico Paranaense,2,1,V,D,NORMAL,R33
+2003,2003-09-28,Fortaleza,Guarani,3,0,V,D,NORMAL,R33
+2003,2003-09-28,Criciúma,Goiás,1,0,V,D,NORMAL,R33
+2003,2003-09-28,Juventude,Corinthians,6,1,V,D,NORMAL,R33
+2003,2003-09-28,Bahia,Figueirense,1,1,E,E,NORMAL,R33
+2003,2003-09-28,Cruzeiro,Vitória,1,0,V,D,NORMAL,R33
+2003,2003-09-28,São Caetano,Paraná,2,0,V,D,NORMAL,R33
+2003,2003-09-28,Ponte Preta,Vasco,2,2,E,E,NORMAL,R33
+2003,2003-09-28,Fluminense,Atlético Mineiro,0,1,D,V,NORMAL,R33
+2003,2003-09-28,Coritiba,Paysandu,1,0,V,D,NORMAL,R33
+2003,2003-10-04,Athletico Paranaense,Fluminense,0,0,E,E,NORMAL,R34
+2003,2003-10-04,Paysandu,Internacional,0,0,E,E,NORMAL,R34
+2003,2003-10-04,São Caetano,Ponte Preta,1,0,V,D,NORMAL,R34
+2003,2003-10-04,Grêmio,Figueirense,3,1,V,D,NORMAL,R34
+2003,2003-10-04,São Paulo,Santos,1,2,D,V,NORMAL,R34
+2003,2003-10-05,Vitória,Corinthians,1,2,D,V,NORMAL,R34
+2003,2003-10-05,Goiás,Bahia,3,1,V,D,NORMAL,R34
+2003,2003-10-05,Atlético Mineiro,Vasco,2,1,V,D,NORMAL,R34
+2003,2003-10-05,Juventude,Fortaleza,2,2,E,E,NORMAL,R34
+2003,2003-10-05,Guarani,Coritiba,2,1,V,D,NORMAL,R34
+2003,2003-10-05,Flamengo,Paraná,0,3,D,V,NORMAL,R34
+2003,2003-10-05,Criciúma,Cruzeiro,1,3,D,V,NORMAL,R34
+2003,2003-10-08,Vasco,Juventude,1,1,E,E,NORMAL,R35
+2003,2003-10-08,Coritiba,Goiás,1,0,V,D,NORMAL,R35
+2003,2003-10-08,Ponte Preta,Athletico Paranaense,2,2,E,E,NORMAL,R35
+2003,2003-10-08,Corinthians,São Caetano,0,3,D,V,NORMAL,R35
+2003,2003-10-08,Fortaleza,Grêmio,2,2,E,E,NORMAL,R35
+2003,2003-10-08,Cruzeiro,Flamengo,2,0,V,D,NORMAL,R35
+2003,2003-10-08,Bahia,São Paulo,3,0,V,D,NORMAL,R35
+2003,2003-10-08,Santos,Guarani,1,1,E,E,NORMAL,R35
+2003,2003-10-09,Fluminense,Vitória,2,0,V,D,NORMAL,R35
+2003,2003-10-09,Paraná,Paysandu,4,2,V,D,NORMAL,R35
+2003,2003-10-09,Figueirense,Atlético Mineiro,0,1,D,V,NORMAL,R35
+2003,2003-10-09,Internacional,Criciúma,2,0,V,D,NORMAL,R35
+2003,2003-10-11,São Caetano,Santos,2,2,E,E,NORMAL,R36
+2003,2003-10-11,Athletico Paranaense,Coritiba,2,0,V,D,NORMAL,R36
+2003,2003-10-11,Guarani,Ponte Preta,1,3,D,V,NORMAL,R36
+2003,2003-10-12,Vitória,Bahia,2,1,V,D,NORMAL,R36
+2003,2003-10-12,Goiás,Fluminense,6,1,V,D,NORMAL,R36
+2003,2003-10-12,São Paulo,Corinthians,3,0,V,D,NORMAL,R36
+2003,2003-10-12,Atlético Mineiro,Cruzeiro,0,1,D,V,NORMAL,R36
+2003,2003-10-12,Juventude,Paraná,1,1,E,E,NORMAL,R36
+2003,2003-10-12,Figueirense,Criciúma,4,2,V,D,NORMAL,R36
+2003,2003-10-12,Flamengo,Vasco,2,1,V,D,NORMAL,R36
+2003,2003-10-12,Internacional,Grêmio,0,1,D,V,NORMAL,R36
+2003,2003-10-15,Paysandu,Fortaleza,3,0,V,D,NORMAL,R36
+2003,2003-10-18,Guarani,Fluminense,2,0,V,D,NORMAL,R37
+2003,2003-10-18,Goiás,São Paulo,3,1,V,D,NORMAL,R37
+2003,2003-10-18,Grêmio,Atlético Mineiro,2,2,E,E,NORMAL,R37
+2003,2003-10-18,Flamengo,Paysandu,2,0,V,D,NORMAL,R37
+2003,2003-10-18,Coritiba,Bahia,3,2,V,D,NORMAL,R37
+2003,2003-10-19,Santos,Athletico Paranaense,3,2,V,D,NORMAL,R37
+2003,2003-10-19,Paraná,Internacional,4,0,V,D,NORMAL,R37
+2003,2003-10-19,Criciúma,Vasco,2,1,V,D,NORMAL,R37
+2003,2003-10-19,Fortaleza,Figueirense,1,1,E,E,NORMAL,R37
+2003,2003-10-19,Vitória,São Caetano,0,0,E,E,NORMAL,R37
+2003,2003-10-19,Corinthians,Ponte Preta,3,0,V,D,NORMAL,R37
+2003,2003-10-19,Cruzeiro,Juventude,1,2,D,V,NORMAL,R37
+2003,2003-10-22,Figueirense,Flamengo,0,0,E,E,NORMAL,R38
+2003,2003-10-22,São Caetano,Coritiba,2,0,V,D,NORMAL,R38
+2003,2003-10-22,Athletico Paranaense,Vitória,1,2,D,V,NORMAL,R38
+2003,2003-10-22,Ponte Preta,Goiás,0,2,D,V,NORMAL,R38
+2003,2003-10-22,Bahia,Santos,4,7,D,V,NORMAL,R38
+2003,2003-10-22,Internacional,Cruzeiro,1,0,V,D,NORMAL,R38
+2003,2003-10-22,Fluminense,Corinthians,1,0,V,D,NORMAL,R38
+2003,2003-10-23,Atlético Mineiro,Paraná,2,2,E,E,NORMAL,R38
+2003,2003-10-23,Juventude,Grêmio,1,2,D,V,NORMAL,R38
+2003,2003-10-23,Vasco,Fortaleza,1,1,E,E,NORMAL,R38
+2003,2003-10-23,São Paulo,Guarani,3,3,E,E,NORMAL,R38
+2003,2003-10-23,Paysandu,Criciúma,4,0,V,D,NORMAL,R38
+2003,2003-10-25,Bahia,Fluminense,2,2,E,E,NORMAL,R39
+2003,2003-10-25,Coritiba,Santos,0,4,D,V,NORMAL,R39
+2003,2003-10-25,Ponte Preta,Vitória,1,1,E,E,NORMAL,R39
+2003,2003-10-25,Cruzeiro,Figueirense,1,0,V,D,NORMAL,R39
+2003,2003-10-26,Paraná,Vasco,3,3,E,E,NORMAL,R39
+2003,2003-10-26,Corinthians,Athletico Paranaense,2,3,D,V,NORMAL,R39
+2003,2003-10-26,São Caetano,São Paulo,0,1,D,V,NORMAL,R39
+2003,2003-10-26,Criciúma,Fortaleza,2,2,E,E,NORMAL,R39
+2003,2003-10-26,Goiás,Guarani,3,0,V,D,NORMAL,R39
+2003,2003-10-26,Paysandu,Atlético Mineiro,1,0,V,D,NORMAL,R39
+2003,2003-10-26,Flamengo,Grêmio,2,1,V,D,NORMAL,R39
+2003,2003-10-26,Internacional,Juventude,0,0,E,E,NORMAL,R39
+2003,2003-11-01,Grêmio,Paraná,0,2,D,V,NORMAL,R40
+2003,2003-11-01,Athletico Paranaense,São Caetano,1,0,V,D,NORMAL,R40
+2003,2003-11-01,Guarani,Bahia,3,2,V,D,NORMAL,R40
+2003,2003-11-01,Fluminense,Ponte Preta,2,2,E,E,NORMAL,R40
+2003,2003-11-01,Atlético Mineiro,Criciúma,1,1,E,E,NORMAL,R40
+2003,2003-11-02,Fortaleza,Cruzeiro,1,2,D,V,NORMAL,R40
+2003,2003-11-02,Figueirense,Paysandu,6,0,V,D,NORMAL,R40
+2003,2003-11-02,Santos,Corinthians,3,1,V,D,NORMAL,R40
+2003,2003-11-02,Juventude,Flamengo,2,2,E,E,NORMAL,R40
+2003,2003-11-02,Vitória,Goiás,3,4,D,V,NORMAL,R40
+2003,2003-11-02,São Paulo,Coritiba,1,0,V,D,NORMAL,R40
+2003,2003-11-02,Vasco,Internacional,0,1,D,V,NORMAL,R40
+2003,2003-11-05,Paraná,Figueirense,1,1,E,E,NORMAL,R41
+2003,2003-11-05,Juventude,Criciúma,3,1,V,D,NORMAL,R41
+2003,2003-11-05,Internacional,Fortaleza,1,1,E,E,NORMAL,R41
+2003,2003-11-05,Paysandu,Vasco,1,2,D,V,NORMAL,R41
+2003,2003-11-05,Cruzeiro,Grêmio,3,0,V,D,NORMAL,R41
+2003,2003-11-05,Coritiba,Corinthians,1,0,V,D,NORMAL,R41
+2003,2003-11-05,Santos,Vitória,3,1,V,D,NORMAL,R41
+2003,2003-11-05,São Paulo,Fluminense,1,0,V,D,NORMAL,R41
+2003,2003-11-06,Guarani,São Caetano,0,1,D,V,NORMAL,R41
+2003,2003-11-06,Goiás,Athletico Paranaense,4,1,V,D,NORMAL,R41
+2003,2003-11-06,Bahia,Ponte Preta,1,0,V,D,NORMAL,R41
+2003,2003-11-06,Flamengo,Atlético Mineiro,3,2,V,D,NORMAL,R41
+2003,2003-11-08,Fluminense,Coritiba,3,2,V,D,NORMAL,R42
+2003,2003-11-08,Criciúma,Paraná,1,2,D,V,NORMAL,R42
+2003,2003-11-08,Grêmio,Paysandu,2,0,V,D,NORMAL,R42
+2003,2003-11-09,Figueirense,Juventude,2,1,V,D,NORMAL,R42
+2003,2003-11-09,Ponte Preta,Santos,3,4,D,V,NORMAL,R42
+2003,2003-11-09,Fortaleza,Flamengo,4,1,V,D,NORMAL,R42
+2003,2003-11-09,Vasco,Cruzeiro,0,1,D,V,NORMAL,R42
+2003,2003-11-09,Athletico Paranaense,São Paulo,4,3,V,D,NORMAL,R42
+2003,2003-11-09,São Caetano,Bahia,4,1,V,D,NORMAL,R42
+2003,2003-11-09,Vitória,Guarani,0,0,E,E,NORMAL,R42
+2003,2003-11-09,Corinthians,Goiás,2,0,V,D,NORMAL,R42
+2003,2003-11-09,Atlético Mineiro,Internacional,1,2,D,V,NORMAL,R42
+2003,2003-11-22,Coritiba,Ponte Preta,1,1,E,E,NORMAL,R43
+2003,2003-11-22,Figueirense,Internacional,3,2,V,D,NORMAL,R43
+2003,2003-11-22,Atlético Mineiro,Fortaleza,2,0,V,D,NORMAL,R43
+2003,2003-11-22,Grêmio,Vasco,4,3,V,D,NORMAL,R43
+2003,2003-11-22,Flamengo,Criciúma,1,0,V,D,NORMAL,R43
+2003,2003-11-23,Santos,Fluminense,3,1,V,D,NORMAL,R43
+2003,2003-11-23,Paraná,Cruzeiro,1,3,D,V,NORMAL,R43
+2003,2003-11-23,São Caetano,Goiás,1,0,V,D,NORMAL,R43
+2003,2003-11-23,Bahia,Athletico Paranaense,0,2,D,V,NORMAL,R43
+2003,2003-11-23,São Paulo,Vitória,3,1,V,D,NORMAL,R43
+2003,2003-11-23,Guarani,Corinthians,0,1,D,V,NORMAL,R43
+2003,2003-11-23,Paysandu,Juventude,3,2,V,D,NORMAL,R43
+2003,2003-11-29,Vasco,Figueirense,1,0,V,D,NORMAL,R44
+2003,2003-11-29,Juventude,Atlético Mineiro,1,0,V,D,NORMAL,R44
+2003,2003-11-29,Athletico Paranaense,Guarani,3,1,V,D,NORMAL,R44
+2003,2003-11-29,Fluminense,São Caetano,2,1,V,D,NORMAL,R44
+2003,2003-11-29,Internacional,Flamengo,3,1,V,D,NORMAL,R44
+2003,2003-11-30,Cruzeiro,Paysandu,2,1,V,D,NORMAL,R44
+2003,2003-11-30,Goiás,Santos,3,0,V,D,NORMAL,R44
+2003,2003-11-30,Fortaleza,Paraná,5,3,V,D,NORMAL,R44
+2003,2003-11-30,Criciúma,Grêmio,0,2,D,V,NORMAL,R44
+2003,2003-11-30,Vitória,Coritiba,1,0,V,D,NORMAL,R44
+2003,2003-11-30,Corinthians,Bahia,1,2,D,V,NORMAL,R44
+2003,2003-11-30,Ponte Preta,São Paulo,1,2,D,V,NORMAL,R44
+2003,2003-12-06,Goiás,Figueirense,0,3,D,V,NORMAL,R45
+2003,2003-12-06,Vitória,Atlético Mineiro,0,1,D,V,NORMAL,R45
+2003,2003-12-06,Athletico Paranaense,Vasco,2,2,E,E,NORMAL,R45
+2003,2003-12-06,Corinthians,Paraná,1,1,E,E,NORMAL,R45
+2003,2003-12-07,Guarani,Paysandu,2,1,V,D,NORMAL,R45
+2003,2003-12-07,Cruzeiro,Fluminense,5,2,V,D,NORMAL,R45
+2003,2003-12-07,Fortaleza,Coritiba,2,2,E,E,NORMAL,R45
+2003,2003-12-07,Flamengo,Ponte Preta,1,1,E,E,NORMAL,R45
+2003,2003-12-07,Criciúma,Bahia,3,2,V,D,NORMAL,R45
+2003,2003-12-07,Santos,Grêmio,2,2,E,E,NORMAL,R45
+2003,2003-12-07,Internacional,São Paulo,1,1,E,E,NORMAL,R45
+2003,2003-12-07,Juventude,São Caetano,2,1,V,D,NORMAL,R45
+2003,2003-12-13,Figueirense,Guarani,2,0,V,D,NORMAL,R46
+2003,2003-12-13,Paraná,Vitória,2,0,V,D,NORMAL,R46
+2003,2003-12-13,São Caetano,Internacional,5,0,V,D,NORMAL,R46
+2003,2003-12-13,Coritiba,Criciúma,2,0,V,D,NORMAL,R46
+2003,2003-12-13,Atlético Mineiro,Goiás,3,2,V,D,NORMAL,R46
+2003,2003-12-14,Fluminense,Juventude,1,0,V,D,NORMAL,R46
+2003,2003-12-14,Grêmio,Corinthians,3,0,V,D,NORMAL,R46
+2003,2003-12-14,Paysandu,Athletico Paranaense,2,2,E,E,NORMAL,R46
+2003,2003-12-14,Ponte Preta,Fortaleza,2,0,V,D,NORMAL,R46
+2003,2003-12-14,Bahia,Cruzeiro,0,7,D,V,NORMAL,R46
+2003,2003-12-14,São Paulo,Flamengo,1,3,D,V,NORMAL,R46
+2003,2003-12-14,Vasco,Santos,1,1,E,E,NORMAL,R46

@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2018,2018-04-14,Cruzeiro,Grêmio,0,1,D,V,NORMAL,R1
+2018,2018-04-14,Vitória,Flamengo,2,2,E,E,NORMAL,R1
+2018,2018-04-14,Santos,Ceará,2,0,V,D,NORMAL,R1
+2018,2018-04-15,América Mineiro,Sport,3,0,V,D,NORMAL,R1
+2018,2018-04-15,Vasco,Atlético Mineiro,2,1,V,D,NORMAL,R1
+2018,2018-04-15,Corinthians,Fluminense,2,1,V,D,NORMAL,R1
+2018,2018-04-15,Internacional,Bahia,2,0,V,D,NORMAL,R1
+2018,2018-04-15,Athletico Paranaense,Chapecoense,5,1,V,D,NORMAL,R1
+2018,2018-04-16,Botafogo,Palmeiras,1,1,E,E,NORMAL,R1
+2018,2018-04-16,São Paulo,Paraná,1,0,V,D,NORMAL,R1
+2018,2018-04-21,Bahia,Santos,1,0,V,D,NORMAL,R2
+2018,2018-04-21,Flamengo,América Mineiro,2,0,V,D,NORMAL,R2
+2018,2018-04-22,Paraná,Corinthians,0,4,D,V,NORMAL,R2
+2018,2018-04-22,Atlético Mineiro,Vitória,2,1,V,D,NORMAL,R2
+2018,2018-04-22,Chapecoense,Vasco,1,1,E,E,NORMAL,R2
+2018,2018-04-22,Fluminense,Cruzeiro,1,0,V,D,NORMAL,R2
+2018,2018-04-22,Ceará,São Paulo,0,0,E,E,NORMAL,R2
+2018,2018-04-22,Palmeiras,Internacional,1,0,V,D,NORMAL,R2
+2018,2018-04-22,Grêmio,Athletico Paranaense,0,0,E,E,NORMAL,R2
+2018,2018-04-23,Sport,Botafogo,1,1,E,E,NORMAL,R2
+2018,2018-04-28,Botafogo,Grêmio,2,1,V,D,NORMAL,R3
+2018,2018-04-29,Atlético Mineiro,Corinthians,1,0,V,D,NORMAL,R3
+2018,2018-04-29,Paraná,Sport,1,2,D,V,NORMAL,R3
+2018,2018-04-29,Bahia,Athletico Paranaense,0,0,E,E,NORMAL,R3
+2018,2018-04-29,Fluminense,São Paulo,1,1,E,E,NORMAL,R3
+2018,2018-04-29,Ceará,Flamengo,0,3,D,V,NORMAL,R3
+2018,2018-04-29,Palmeiras,Chapecoense,0,0,E,E,NORMAL,R3
+2018,2018-04-29,Internacional,Cruzeiro,0,0,E,E,NORMAL,R3
+2018,2018-04-30,América Mineiro,Vitória,2,1,V,D,NORMAL,R3
+2018,2018-05-05,Vasco,América Mineiro,4,1,V,D,NORMAL,R4
+2018,2018-05-05,São Paulo,Atlético Mineiro,2,2,E,E,NORMAL,R4
+2018,2018-05-06,Corinthians,Ceará,1,1,E,E,NORMAL,R4
+2018,2018-05-06,Cruzeiro,Botafogo,1,0,V,D,NORMAL,R4
+2018,2018-05-06,Athletico Paranaense,Palmeiras,1,3,D,V,NORMAL,R4
+2018,2018-05-06,Vitória,Fluminense,1,2,D,V,NORMAL,R4
+2018,2018-05-06,Flamengo,Internacional,2,0,V,D,NORMAL,R4
+2018,2018-05-06,Sport,Bahia,2,0,V,D,NORMAL,R4
+2018,2018-05-06,Grêmio,Santos,5,1,V,D,NORMAL,R4
+2018,2018-05-07,Chapecoense,Paraná,1,1,E,E,NORMAL,R4
+2018,2018-05-12,Grêmio,Internacional,0,0,E,E,NORMAL,R5
+2018,2018-05-13,Cruzeiro,Sport,2,0,V,D,NORMAL,R5
+2018,2018-05-13,Athletico Paranaense,Atlético Mineiro,1,2,D,V,NORMAL,R5
+2018,2018-05-13,Chapecoense,Flamengo,3,2,V,D,NORMAL,R5
+2018,2018-05-13,Bahia,São Paulo,2,2,E,E,NORMAL,R5
+2018,2018-05-13,Vasco,Vitória,2,3,D,V,NORMAL,R5
+2018,2018-05-13,Corinthians,Palmeiras,1,0,V,D,NORMAL,R5
+2018,2018-05-13,Santos,Paraná,3,1,V,D,NORMAL,R5
+2018,2018-05-14,Botafogo,Fluminense,2,1,V,D,NORMAL,R5
+2018,2018-05-14,Ceará,América Mineiro,2,2,E,E,NORMAL,R5
+2018,2018-05-19,Atlético Mineiro,Cruzeiro,1,0,V,D,NORMAL,R6
+2018,2018-05-19,Flamengo,Vasco,1,1,E,E,NORMAL,R6
+2018,2018-05-19,Palmeiras,Bahia,3,0,V,D,NORMAL,R6
+2018,2018-05-20,Vitória,Ceará,2,1,V,D,NORMAL,R6
+2018,2018-05-20,Paraná,Grêmio,0,0,E,E,NORMAL,R6
+2018,2018-05-20,América Mineiro,Botafogo,1,0,V,D,NORMAL,R6
+2018,2018-05-20,São Paulo,Santos,1,0,V,D,NORMAL,R6
+2018,2018-05-20,Sport,Corinthians,1,1,E,E,NORMAL,R6
+2018,2018-05-20,Fluminense,Athletico Paranaense,2,0,V,D,NORMAL,R6
+2018,2018-05-21,Internacional,Chapecoense,3,0,V,D,NORMAL,R6
+2018,2018-05-26,Fluminense,Chapecoense,3,1,V,D,NORMAL,R7
+2018,2018-05-26,Palmeiras,Sport,2,3,D,V,NORMAL,R7
+2018,2018-05-26,Atlético Mineiro,Flamengo,0,1,D,V,NORMAL,R7
+2018,2018-05-27,Paraná,Athletico Paranaense,0,0,E,E,NORMAL,R7
+2018,2018-05-27,Bahia,Vasco,3,0,V,D,NORMAL,R7
+2018,2018-05-27,Botafogo,Vitória,1,1,E,E,NORMAL,R7
+2018,2018-05-27,Santos,Cruzeiro,0,1,D,V,NORMAL,R7
+2018,2018-05-27,Internacional,Corinthians,2,1,V,D,NORMAL,R7
+2018,2018-05-27,América Mineiro,São Paulo,1,3,D,V,NORMAL,R7
+2018,2018-05-27,Ceará,Grêmio,0,1,D,V,NORMAL,R7
+2018,2018-05-30,Vitória,Internacional,2,3,D,V,NORMAL,R8
+2018,2018-05-30,Vasco,Paraná,1,0,V,D,NORMAL,R8
+2018,2018-05-30,Sport,Atlético Mineiro,3,2,V,D,NORMAL,R8
+2018,2018-05-30,Chapecoense,Ceará,2,0,V,D,NORMAL,R8
+2018,2018-05-30,São Paulo,Botafogo,3,2,V,D,NORMAL,R8
+2018,2018-05-30,Cruzeiro,Palmeiras,1,0,V,D,NORMAL,R8
+2018,2018-05-30,Grêmio,Fluminense,0,0,E,E,NORMAL,R8
+2018,2018-05-31,Flamengo,Bahia,2,0,V,D,NORMAL,R8
+2018,2018-05-31,Corinthians,América Mineiro,1,0,V,D,NORMAL,R8
+2018,2018-05-31,Athletico Paranaense,Santos,2,0,V,D,NORMAL,R8
+2018,2018-06-02,Atlético Mineiro,Chapecoense,3,3,E,E,NORMAL,R9
+2018,2018-06-02,Internacional,Sport,0,0,E,E,NORMAL,R9
+2018,2018-06-02,Vasco,Botafogo,1,2,D,V,NORMAL,R9
+2018,2018-06-02,Palmeiras,São Paulo,3,1,V,D,NORMAL,R9
+2018,2018-06-03,América Mineiro,Athletico Paranaense,3,1,V,D,NORMAL,R9
+2018,2018-06-03,Bahia,Grêmio,0,2,D,V,NORMAL,R9
+2018,2018-06-03,Flamengo,Corinthians,1,0,V,D,NORMAL,R9
+2018,2018-06-03,Santos,Vitória,5,2,V,D,NORMAL,R9
+2018,2018-06-03,Ceará,Cruzeiro,0,1,D,V,NORMAL,R9
+2018,2018-06-04,Paraná,Fluminense,2,1,V,D,NORMAL,R9
+2018,2018-06-05,São Paulo,Internacional,0,0,E,E,NORMAL,R10
+2018,2018-06-06,Vitória,Chapecoense,1,0,V,D,NORMAL,R10
+2018,2018-06-06,Botafogo,Ceará,0,0,E,E,NORMAL,R10
+2018,2018-06-06,Sport,Athletico Paranaense,1,0,V,D,NORMAL,R10
+2018,2018-06-06,Corinthians,Santos,1,1,E,E,NORMAL,R10
+2018,2018-06-06,Cruzeiro,Vasco,1,1,E,E,NORMAL,R10
+2018,2018-06-06,Grêmio,Palmeiras,0,2,D,V,NORMAL,R10
+2018,2018-06-07,Paraná,Bahia,1,0,V,D,NORMAL,R10
+2018,2018-06-07,Fluminense,Flamengo,0,2,D,V,NORMAL,R10
+2018,2018-06-07,América Mineiro,Atlético Mineiro,1,3,D,V,NORMAL,R10
+2018,2018-06-09,Athletico Paranaense,São Paulo,0,1,D,V,NORMAL,R11
+2018,2018-06-09,Chapecoense,Cruzeiro,2,0,V,D,NORMAL,R11
+2018,2018-06-09,Vasco,Sport,3,2,V,D,NORMAL,R11
+2018,2018-06-09,Corinthians,Vitória,0,0,E,E,NORMAL,R11
+2018,2018-06-10,Atlético Mineiro,Fluminense,5,2,V,D,NORMAL,R11
+2018,2018-06-10,Bahia,Botafogo,3,3,E,E,NORMAL,R11
+2018,2018-06-10,Ceará,Palmeiras,2,2,E,E,NORMAL,R11
+2018,2018-06-10,Grêmio,América Mineiro,1,0,V,D,NORMAL,R11
+2018,2018-06-10,Flamengo,Paraná,2,0,V,D,NORMAL,R11
+2018,2018-06-10,Santos,Internacional,1,2,D,V,NORMAL,R11
+2018,2018-06-12,São Paulo,Vitória,3,0,V,D,NORMAL,R12
+2018,2018-06-13,América Mineiro,Chapecoense,0,0,E,E,NORMAL,R12
+2018,2018-06-13,Fluminense,Santos,0,1,D,V,NORMAL,R12
+2018,2018-06-13,Paraná,Cruzeiro,1,1,E,E,NORMAL,R12
+2018,2018-06-13,Sport,Grêmio,0,0,E,E,NORMAL,R12
+2018,2018-06-13,Botafogo,Athletico Paranaense,2,0,V,D,NORMAL,R12
+2018,2018-06-13,Palmeiras,Flamengo,1,1,E,E,NORMAL,R12
+2018,2018-06-13,Atlético Mineiro,Ceará,2,1,V,D,NORMAL,R12
+2018,2018-06-13,Bahia,Corinthians,1,0,V,D,NORMAL,R12
+2018,2018-06-13,Internacional,Vasco,3,1,V,D,NORMAL,R12
+2018,2018-07-18,Ceará,Sport,1,0,V,D,NORMAL,R13
+2018,2018-07-18,Vitória,Paraná,1,0,V,D,NORMAL,R13
+2018,2018-07-18,Flamengo,São Paulo,0,1,D,V,NORMAL,R13
+2018,2018-07-18,Corinthians,Botafogo,2,0,V,D,NORMAL,R13
+2018,2018-07-18,Grêmio,Atlético Mineiro,2,0,V,D,NORMAL,R13
+2018,2018-07-19,Cruzeiro,América Mineiro,3,1,V,D,NORMAL,R13
+2018,2018-07-19,Chapecoense,Bahia,1,1,E,E,NORMAL,R13
+2018,2018-07-19,Vasco,Fluminense,1,1,E,E,NORMAL,R13
+2018,2018-07-19,Santos,Palmeiras,1,1,E,E,NORMAL,R13
+2018,2018-07-19,Athletico Paranaense,Internacional,2,2,E,E,NORMAL,R13
+2018,2018-07-21,Flamengo,Botafogo,2,0,V,D,NORMAL,R14
+2018,2018-07-21,São Paulo,Corinthians,3,1,V,D,NORMAL,R14
+2018,2018-07-22,Paraná,América Mineiro,1,0,V,D,NORMAL,R14
+2018,2018-07-22,Bahia,Vitória,4,1,V,D,NORMAL,R14
+2018,2018-07-22,Vasco,Grêmio,1,0,V,D,NORMAL,R14
+2018,2018-07-22,Sport,Fluminense,1,2,D,V,NORMAL,R14
+2018,2018-07-22,Palmeiras,Atlético Mineiro,3,2,V,D,NORMAL,R14
+2018,2018-07-22,Cruzeiro,Athletico Paranaense,2,1,V,D,NORMAL,R14
+2018,2018-07-22,Chapecoense,Santos,0,0,E,E,NORMAL,R14
+2018,2018-07-23,Internacional,Ceará,1,0,V,D,NORMAL,R14
+2018,2018-07-25,Fluminense,Palmeiras,1,0,V,D,NORMAL,R15
+2018,2018-07-25,Atlético Mineiro,Paraná,2,0,V,D,NORMAL,R15
+2018,2018-07-25,Santos,Flamengo,1,1,E,E,NORMAL,R15
+2018,2018-07-25,Corinthians,Cruzeiro,2,0,V,D,NORMAL,R15
+2018,2018-07-26,Vitória,Sport,1,0,V,D,NORMAL,R15
+2018,2018-07-26,Botafogo,Chapecoense,1,0,V,D,NORMAL,R15
+2018,2018-07-26,Grêmio,São Paulo,2,1,V,D,NORMAL,R15
+2018,2018-07-26,América Mineiro,Internacional,2,1,V,D,NORMAL,R15
+2018,2018-07-28,Ceará,Fluminense,1,0,V,D,NORMAL,R16
+2018,2018-07-29,Vasco,Corinthians,1,4,D,V,NORMAL,R16
+2018,2018-07-29,Palmeiras,Paraná,3,0,V,D,NORMAL,R16
+2018,2018-07-29,Cruzeiro,São Paulo,0,2,D,V,NORMAL,R16
+2018,2018-07-29,Athletico Paranaense,Vitória,4,0,V,D,NORMAL,R16
+2018,2018-07-29,Flamengo,Sport,4,1,V,D,NORMAL,R16
+2018,2018-07-29,Internacional,Botafogo,3,0,V,D,NORMAL,R16
+2018,2018-07-29,Chapecoense,Grêmio,1,1,E,E,NORMAL,R16
+2018,2018-07-29,Santos,América Mineiro,0,1,D,V,NORMAL,R16
+2018,2018-07-30,Bahia,Atlético Mineiro,2,2,E,E,NORMAL,R16
+2018,2018-08-04,Botafogo,Santos,0,0,E,E,NORMAL,R17
+2018,2018-08-04,Grêmio,Flamengo,2,0,V,D,NORMAL,R17
+2018,2018-08-04,Corinthians,Athletico Paranaense,0,0,E,E,NORMAL,R17
+2018,2018-08-05,Paraná,Ceará,0,1,D,V,NORMAL,R17
+2018,2018-08-05,América Mineiro,Palmeiras,0,0,E,E,NORMAL,R17
+2018,2018-08-05,Vitória,Cruzeiro,1,1,E,E,NORMAL,R17
+2018,2018-08-05,São Paulo,Vasco,2,1,V,D,NORMAL,R17
+2018,2018-08-05,Fluminense,Bahia,1,1,E,E,NORMAL,R17
+2018,2018-08-05,Sport,Chapecoense,1,1,E,E,NORMAL,R17
+2018,2018-08-06,Atlético Mineiro,Internacional,0,1,D,V,NORMAL,R17
+2018,2018-08-08,Ceará,Santos,1,1,E,E,NORMAL,R20
+2018,2018-08-11,Ceará,Athletico Paranaense,0,0,E,E,NORMAL,R18
+2018,2018-08-11,Bahia,América Mineiro,1,0,V,D,NORMAL,R18
+2018,2018-08-12,Atlético Mineiro,Santos,3,1,V,D,NORMAL,R18
+2018,2018-08-12,Paraná,Botafogo,1,1,E,E,NORMAL,R18
+2018,2018-08-12,Chapecoense,Corinthians,2,1,V,D,NORMAL,R18
+2018,2018-08-12,Flamengo,Cruzeiro,1,0,V,D,NORMAL,R18
+2018,2018-08-12,Sport,São Paulo,1,3,D,V,NORMAL,R18
+2018,2018-08-12,Palmeiras,Vasco,1,0,V,D,NORMAL,R18
+2018,2018-08-12,Grêmio,Vitória,4,0,V,D,NORMAL,R18
+2018,2018-08-13,Fluminense,Internacional,0,3,D,V,NORMAL,R18
+2018,2018-08-18,Santos,Sport,3,0,V,D,NORMAL,R19
+2018,2018-08-18,Corinthians,Grêmio,0,1,D,V,NORMAL,R19
+2018,2018-08-19,Athletico Paranaense,Flamengo,3,0,V,D,NORMAL,R19
+2018,2018-08-19,Internacional,Paraná,1,0,V,D,NORMAL,R19
+2018,2018-08-19,Cruzeiro,Bahia,1,1,E,E,NORMAL,R19
+2018,2018-08-19,Vitória,Palmeiras,0,3,D,V,NORMAL,R19
+2018,2018-08-19,Botafogo,Atlético Mineiro,0,3,D,V,NORMAL,R19
+2018,2018-08-19,América Mineiro,Fluminense,0,0,E,E,NORMAL,R19
+2018,2018-08-19,São Paulo,Chapecoense,2,0,V,D,NORMAL,R19
+2018,2018-08-20,Vasco,Ceará,1,1,E,E,NORMAL,R19
+2018,2018-08-22,Paraná,São Paulo,1,1,E,E,NORMAL,R20
+2018,2018-08-22,Bahia,Internacional,0,1,D,V,NORMAL,R20
+2018,2018-08-22,Sport,América Mineiro,0,2,D,V,NORMAL,R20
+2018,2018-08-22,Palmeiras,Botafogo,2,0,V,D,NORMAL,R20
+2018,2018-08-22,Fluminense,Corinthians,1,0,V,D,NORMAL,R20
+2018,2018-08-22,Grêmio,Cruzeiro,1,1,E,E,NORMAL,R20
+2018,2018-08-23,Flamengo,Vitória,1,0,V,D,NORMAL,R20
+2018,2018-08-23,Atlético Mineiro,Vasco,0,0,E,E,NORMAL,R20
+2018,2018-08-25,Santos,Bahia,2,0,V,D,NORMAL,R21
+2018,2018-08-25,Athletico Paranaense,Grêmio,2,1,V,D,NORMAL,R21
+2018,2018-08-25,Corinthians,Paraná,1,0,V,D,NORMAL,R21
+2018,2018-08-25,Cruzeiro,Fluminense,2,1,V,D,NORMAL,R21
+2018,2018-08-25,Botafogo,Sport,2,0,V,D,NORMAL,R21
+2018,2018-08-26,São Paulo,Ceará,1,0,V,D,NORMAL,R21
+2018,2018-08-26,América Mineiro,Flamengo,2,2,E,E,NORMAL,R21
+2018,2018-08-26,Vitória,Atlético Mineiro,1,0,V,D,NORMAL,R21
+2018,2018-08-26,Internacional,Palmeiras,0,0,E,E,NORMAL,R21
+2018,2018-08-26,Vasco,Chapecoense,3,1,V,D,NORMAL,R21
+2018,2018-08-29,Athletico Paranaense,Vasco,1,0,V,D,NORMAL,R15
+2018,2018-08-29,Ceará,Bahia,0,2,D,V,NORMAL,R15
+2018,2018-09-01,Vitória,América Mineiro,1,0,V,D,NORMAL,R22
+2018,2018-09-01,Grêmio,Botafogo,4,0,V,D,NORMAL,R22
+2018,2018-09-01,Vasco,Santos,0,3,D,V,NORMAL,R22
+2018,2018-09-01,Corinthians,Atlético Mineiro,1,1,E,E,NORMAL,R22
+2018,2018-09-02,Flamengo,Ceará,0,1,D,V,NORMAL,R22
+2018,2018-09-02,Athletico Paranaense,Bahia,2,0,V,D,NORMAL,R22
+2018,2018-09-02,São Paulo,Fluminense,1,1,E,E,NORMAL,R22
+2018,2018-09-02,Sport,Paraná,1,0,V,D,NORMAL,R22
+2018,2018-09-02,Cruzeiro,Internacional,0,0,E,E,NORMAL,R22
+2018,2018-09-02,Chapecoense,Palmeiras,1,2,D,V,NORMAL,R22
+2018,2018-09-05,Bahia,Sport,2,0,V,D,NORMAL,R23
+2018,2018-09-05,Botafogo,Cruzeiro,1,1,E,E,NORMAL,R23
+2018,2018-09-05,Ceará,Corinthians,2,1,V,D,NORMAL,R23
+2018,2018-09-05,Paraná,Chapecoense,1,1,E,E,NORMAL,R23
+2018,2018-09-05,Palmeiras,Athletico Paranaense,2,0,V,D,NORMAL,R23
+2018,2018-09-05,Atlético Mineiro,São Paulo,1,0,V,D,NORMAL,R23
+2018,2018-09-05,Internacional,Flamengo,2,1,V,D,NORMAL,R23
+2018,2018-09-06,Santos,Grêmio,0,0,E,E,NORMAL,R23
+2018,2018-09-06,Fluminense,Vitória,0,0,E,E,NORMAL,R23
+2018,2018-09-06,América Mineiro,Vasco,2,1,V,D,NORMAL,R23
+2018,2018-09-08,Sport,Cruzeiro,0,0,E,E,NORMAL,R24
+2018,2018-09-08,São Paulo,Bahia,1,0,V,D,NORMAL,R24
+2018,2018-09-08,Flamengo,Chapecoense,2,0,V,D,NORMAL,R24
+2018,2018-09-09,América Mineiro,Ceará,0,0,E,E,NORMAL,R24
+2018,2018-09-09,Fluminense,Botafogo,1,0,V,D,NORMAL,R24
+2018,2018-09-09,Palmeiras,Corinthians,1,0,V,D,NORMAL,R24
+2018,2018-09-09,Internacional,Grêmio,1,0,V,D,NORMAL,R24
+2018,2018-09-09,Paraná,Santos,0,2,D,V,NORMAL,R24
+2018,2018-09-09,Vitória,Vasco,1,0,V,D,NORMAL,R24
+2018,2018-09-10,Atlético Mineiro,Athletico Paranaense,3,1,V,D,NORMAL,R24
+2018,2018-09-13,Chapecoense,Athletico Paranaense,2,1,V,D,NORMAL,R20
+2018,2018-09-15,Ceará,Vitória,2,0,V,D,NORMAL,R25
+2018,2018-09-15,Grêmio,Paraná,2,0,V,D,NORMAL,R25
+2018,2018-09-15,Vasco,Flamengo,1,1,E,E,NORMAL,R25
+2018,2018-09-16,Botafogo,América Mineiro,1,0,V,D,NORMAL,R25
+2018,2018-09-16,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,R25
+2018,2018-09-16,Athletico Paranaense,Fluminense,3,1,V,D,NORMAL,R25
+2018,2018-09-16,Bahia,Palmeiras,1,1,E,E,NORMAL,R25
+2018,2018-09-16,Santos,São Paulo,0,0,E,E,NORMAL,R25
+2018,2018-09-16,Corinthians,Sport,2,1,V,D,NORMAL,R25
+2018,2018-09-17,Chapecoense,Internacional,2,1,V,D,NORMAL,R25
+2018,2018-09-22,São Paulo,América Mineiro,1,1,E,E,NORMAL,R26
+2018,2018-09-23,Grêmio,Ceará,3,2,V,D,NORMAL,R26
+2018,2018-09-23,Athletico Paranaense,Paraná,3,0,V,D,NORMAL,R26
+2018,2018-09-23,Flamengo,Atlético Mineiro,2,1,V,D,NORMAL,R26
+2018,2018-09-23,Corinthians,Internacional,1,1,E,E,NORMAL,R26
+2018,2018-09-23,Vitória,Botafogo,3,4,D,V,NORMAL,R26
+2018,2018-09-23,Sport,Palmeiras,0,1,D,V,NORMAL,R26
+2018,2018-09-23,Cruzeiro,Santos,2,1,V,D,NORMAL,R26
+2018,2018-09-24,Chapecoense,Fluminense,1,2,D,V,NORMAL,R26
+2018,2018-09-24,Vasco,Bahia,2,1,V,D,NORMAL,R26
+2018,2018-09-27,Santos,Vasco,1,1,E,E,NORMAL,R3
+2018,2018-09-29,Fluminense,Grêmio,0,1,D,V,NORMAL,R27
+2018,2018-09-29,América Mineiro,Corinthians,0,0,E,E,NORMAL,R27
+2018,2018-09-29,Bahia,Flamengo,0,0,E,E,NORMAL,R27
+2018,2018-09-30,Palmeiras,Cruzeiro,3,1,V,D,NORMAL,R27
+2018,2018-09-30,Atlético Mineiro,Sport,5,2,V,D,NORMAL,R27
+2018,2018-09-30,Botafogo,São Paulo,2,2,E,E,NORMAL,R27
+2018,2018-09-30,Santos,Athletico Paranaense,1,0,V,D,NORMAL,R27
+2018,2018-09-30,Internacional,Vitória,2,1,V,D,NORMAL,R27
+2018,2018-09-30,Ceará,Chapecoense,3,1,V,D,NORMAL,R27
+2018,2018-10-01,Paraná,Vasco,1,1,E,E,NORMAL,R27
+2018,2018-10-05,Sport,Internacional,2,1,V,D,NORMAL,R28
+2018,2018-10-05,Corinthians,Flamengo,0,3,D,V,NORMAL,R28
+2018,2018-10-05,Vitória,Santos,0,1,D,V,NORMAL,R28
+2018,2018-10-06,Athletico Paranaense,América Mineiro,4,0,V,D,NORMAL,R28
+2018,2018-10-06,Chapecoense,Atlético Mineiro,1,0,V,D,NORMAL,R28
+2018,2018-10-06,São Paulo,Palmeiras,0,2,D,V,NORMAL,R28
+2018,2018-10-06,Grêmio,Bahia,2,2,E,E,NORMAL,R28
+2018,2018-10-08,Fluminense,Paraná,4,0,V,D,NORMAL,R28
+2018,2018-10-09,Botafogo,Vasco,1,1,E,E,NORMAL,R28
+2018,2018-10-13,Flamengo,Fluminense,3,0,V,D,NORMAL,R29
+2018,2018-10-13,Santos,Corinthians,1,0,V,D,NORMAL,R29
+2018,2018-10-13,Bahia,Paraná,2,0,V,D,NORMAL,R29
+2018,2018-10-14,Chapecoense,Vitória,0,1,D,V,NORMAL,R29
+2018,2018-10-14,Vasco,Cruzeiro,2,0,V,D,NORMAL,R29
+2018,2018-10-14,Palmeiras,Grêmio,2,0,V,D,NORMAL,R29
+2018,2018-10-14,Internacional,São Paulo,3,1,V,D,NORMAL,R29
+2018,2018-10-14,Atlético Mineiro,América Mineiro,0,0,E,E,NORMAL,R29
+2018,2018-10-14,Athletico Paranaense,Sport,4,0,V,D,NORMAL,R29
+2018,2018-10-15,Ceará,Botafogo,0,0,E,E,NORMAL,R29
+2018,2018-10-20,América Mineiro,Grêmio,1,1,E,E,NORMAL,R30
+2018,2018-10-20,Botafogo,Bahia,0,1,D,V,NORMAL,R30
+2018,2018-10-20,São Paulo,Athletico Paranaense,0,0,E,E,NORMAL,R30
+2018,2018-10-20,Sport,Vasco,2,1,V,D,NORMAL,R30
+2018,2018-10-21,Vitória,Corinthians,2,2,E,E,NORMAL,R30
+2018,2018-10-21,Fluminense,Atlético Mineiro,1,0,V,D,NORMAL,R30
+2018,2018-10-21,Palmeiras,Ceará,2,1,V,D,NORMAL,R30
+2018,2018-10-21,Cruzeiro,Chapecoense,3,0,V,D,NORMAL,R30
+2018,2018-10-21,Paraná,Flamengo,0,4,D,V,NORMAL,R30
+2018,2018-10-22,Internacional,Santos,2,2,E,E,NORMAL,R30
+2018,2018-10-24,Cruzeiro,Ceará,0,2,D,V,NORMAL,R28
+2018,2018-10-26,Vitória,São Paulo,0,1,D,V,NORMAL,R31
+2018,2018-10-26,Vasco,Internacional,1,1,E,E,NORMAL,R31
+2018,2018-10-27,Santos,Fluminense,3,0,V,D,NORMAL,R31
+2018,2018-10-27,Grêmio,Sport,3,4,D,V,NORMAL,R31
+2018,2018-10-27,Chapecoense,América Mineiro,1,0,V,D,NORMAL,R31
+2018,2018-10-27,Flamengo,Palmeiras,1,1,E,E,NORMAL,R31
+2018,2018-10-27,Corinthians,Bahia,2,1,V,D,NORMAL,R31
+2018,2018-10-27,Cruzeiro,Paraná,3,1,V,D,NORMAL,R31
+2018,2018-10-27,Athletico Paranaense,Botafogo,2,1,V,D,NORMAL,R31
+2018,2018-10-29,Ceará,Atlético Mineiro,2,1,V,D,NORMAL,R31
+2018,2018-11-03,Atlético Mineiro,Grêmio,0,1,D,V,NORMAL,R32
+2018,2018-11-03,Fluminense,Vasco,0,1,D,V,NORMAL,R32
+2018,2018-11-03,Palmeiras,Santos,3,2,V,D,NORMAL,R32
+2018,2018-11-04,Paraná,Vitória,1,1,E,E,NORMAL,R32
+2018,2018-11-04,América Mineiro,Cruzeiro,1,2,D,V,NORMAL,R32
+2018,2018-11-04,Botafogo,Corinthians,1,0,V,D,NORMAL,R32
+2018,2018-11-04,São Paulo,Flamengo,2,2,E,E,NORMAL,R32
+2018,2018-11-04,Bahia,Chapecoense,1,0,V,D,NORMAL,R32
+2018,2018-11-04,Internacional,Athletico Paranaense,2,1,V,D,NORMAL,R32
+2018,2018-11-05,Sport,Ceará,1,0,V,D,NORMAL,R32
+2018,2018-11-10,América Mineiro,Paraná,0,1,D,V,NORMAL,R33
+2018,2018-11-10,Corinthians,São Paulo,1,1,E,E,NORMAL,R33
+2018,2018-11-10,Athletico Paranaense,Cruzeiro,2,0,V,D,NORMAL,R33
+2018,2018-11-10,Botafogo,Flamengo,2,1,V,D,NORMAL,R33
+2018,2018-11-11,Atlético Mineiro,Palmeiras,1,1,E,E,NORMAL,R33
+2018,2018-11-11,Vitória,Bahia,2,2,E,E,NORMAL,R33
+2018,2018-11-11,Ceará,Internacional,1,1,E,E,NORMAL,R33
+2018,2018-11-11,Grêmio,Vasco,2,1,V,D,NORMAL,R33
+2018,2018-11-11,Fluminense,Sport,0,0,E,E,NORMAL,R33
+2018,2018-11-12,Santos,Chapecoense,0,1,D,V,NORMAL,R33
+2018,2018-11-14,Vasco,Athletico Paranaense,1,1,E,E,NORMAL,R34
+2018,2018-11-14,Paraná,Atlético Mineiro,0,1,D,V,NORMAL,R34
+2018,2018-11-14,Bahia,Ceará,2,1,V,D,NORMAL,R34
+2018,2018-11-14,Cruzeiro,Corinthians,1,0,V,D,NORMAL,R34
+2018,2018-11-14,Sport,Vitória,0,0,E,E,NORMAL,R34
+2018,2018-11-14,Palmeiras,Fluminense,3,0,V,D,NORMAL,R34
+2018,2018-11-15,Chapecoense,Botafogo,0,1,D,V,NORMAL,R34
+2018,2018-11-15,Flamengo,Santos,1,0,V,D,NORMAL,R34
+2018,2018-11-15,São Paulo,Grêmio,1,1,E,E,NORMAL,R34
+2018,2018-11-15,Internacional,América Mineiro,2,0,V,D,NORMAL,R34
+2018,2018-11-17,Vitória,Athletico Paranaense,1,2,D,V,NORMAL,R35
+2018,2018-11-17,Corinthians,Vasco,1,0,V,D,NORMAL,R35
+2018,2018-11-17,Atlético Mineiro,Bahia,1,0,V,D,NORMAL,R35
+2018,2018-11-18,Paraná,Palmeiras,1,1,E,E,NORMAL,R35
+2018,2018-11-18,América Mineiro,Santos,2,1,V,D,NORMAL,R35
+2018,2018-11-18,Botafogo,Internacional,1,0,V,D,NORMAL,R35
+2018,2018-11-18,Sport,Flamengo,0,1,D,V,NORMAL,R35
+2018,2018-11-18,São Paulo,Cruzeiro,1,0,V,D,NORMAL,R35
+2018,2018-11-18,Grêmio,Chapecoense,2,0,V,D,NORMAL,R35
+2018,2018-11-19,Fluminense,Ceará,0,0,E,E,NORMAL,R35
+2018,2018-11-21,Internacional,Atlético Mineiro,1,2,D,V,NORMAL,R36
+2018,2018-11-21,Santos,Botafogo,1,1,E,E,NORMAL,R36
+2018,2018-11-21,Cruzeiro,Vitória,3,0,V,D,NORMAL,R36
+2018,2018-11-21,Athletico Paranaense,Corinthians,1,0,V,D,NORMAL,R36
+2018,2018-11-21,Flamengo,Grêmio,2,0,V,D,NORMAL,R36
+2018,2018-11-21,Palmeiras,América Mineiro,4,0,V,D,NORMAL,R36
+2018,2018-11-22,Vasco,São Paulo,2,0,V,D,NORMAL,R36
+2018,2018-11-22,Chapecoense,Sport,2,1,V,D,NORMAL,R36
+2018,2018-11-22,Bahia,Fluminense,2,0,V,D,NORMAL,R36
+2018,2018-11-22,Ceará,Paraná,1,0,V,D,NORMAL,R36
+2018,2018-11-24,Santos,Atlético Mineiro,3,2,V,D,NORMAL,R37
+2018,2018-11-25,Cruzeiro,Flamengo,0,2,D,V,NORMAL,R37
+2018,2018-11-25,Athletico Paranaense,Ceará,2,2,E,E,NORMAL,R37
+2018,2018-11-25,Vitória,Grêmio,0,0,E,E,NORMAL,R37
+2018,2018-11-25,Vasco,Palmeiras,0,1,D,V,NORMAL,R37
+2018,2018-11-25,América Mineiro,Bahia,1,0,V,D,NORMAL,R37
+2018,2018-11-25,Corinthians,Chapecoense,0,0,E,E,NORMAL,R37
+2018,2018-11-25,Internacional,Fluminense,2,0,V,D,NORMAL,R37
+2018,2018-11-26,Botafogo,Paraná,2,1,V,D,NORMAL,R37
+2018,2018-11-26,São Paulo,Sport,0,0,E,E,NORMAL,R37
+2018,2018-12-01,Atlético Mineiro,Botafogo,1,0,V,D,NORMAL,R38
+2018,2018-12-01,Flamengo,Athletico Paranaense,1,2,D,V,NORMAL,R38
+2018,2018-12-02,Paraná,Internacional,1,1,E,E,NORMAL,R38
+2018,2018-12-02,Bahia,Cruzeiro,0,0,E,E,NORMAL,R38
+2018,2018-12-02,Fluminense,América Mineiro,1,0,V,D,NORMAL,R38
+2018,2018-12-02,Palmeiras,Vitória,3,2,V,D,NORMAL,R38
+2018,2018-12-02,Chapecoense,São Paulo,1,0,V,D,NORMAL,R38
+2018,2018-12-02,Ceará,Vasco,0,0,E,E,NORMAL,R38
+2018,2018-12-02,Sport,Santos,2,1,V,D,NORMAL,R38
+2018,2018-12-02,Grêmio,Corinthians,1,0,V,D,NORMAL,R38

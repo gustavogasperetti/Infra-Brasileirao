@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2015,2015-05-09,Palmeiras,Atlético Mineiro,2,2,E,E,NORMAL,R1
+2015,2015-05-09,Chapecoense,Coritiba,2,1,V,D,NORMAL,R1
+2015,2015-05-09,Fluminense,Joinville,1,0,V,D,NORMAL,R1
+2015,2015-05-10,Grêmio,Ponte Preta,3,3,E,E,NORMAL,R1
+2015,2015-05-10,São Paulo,Flamengo,2,1,V,D,NORMAL,R1
+2015,2015-05-10,Cruzeiro,Corinthians,0,1,D,V,NORMAL,R1
+2015,2015-05-10,Athletico Paranaense,Internacional,3,0,V,D,NORMAL,R1
+2015,2015-05-10,Sport,Figueirense,4,1,V,D,NORMAL,R1
+2015,2015-05-10,Vasco,Goiás,0,0,E,E,NORMAL,R1
+2015,2015-05-10,Avaí,Santos,1,1,E,E,NORMAL,R1
+2015,2015-05-16,Coritiba,Grêmio,2,0,V,D,NORMAL,R2
+2015,2015-05-16,Goiás,Athletico Paranaense,2,0,V,D,NORMAL,R2
+2015,2015-05-16,Corinthians,Chapecoense,1,0,V,D,NORMAL,R2
+2015,2015-05-17,Figueirense,Vasco,0,0,E,E,NORMAL,R2
+2015,2015-05-17,Santos,Cruzeiro,1,0,V,D,NORMAL,R2
+2015,2015-05-17,Flamengo,Sport,2,2,E,E,NORMAL,R2
+2015,2015-05-17,Atlético Mineiro,Fluminense,4,1,V,D,NORMAL,R2
+2015,2015-05-17,Ponte Preta,São Paulo,1,0,V,D,NORMAL,R2
+2015,2015-05-17,Internacional,Avaí,1,0,V,D,NORMAL,R2
+2015,2015-05-17,Joinville,Palmeiras,0,0,E,E,NORMAL,R2
+2015,2015-05-23,São Paulo,Joinville,3,0,V,D,NORMAL,R3
+2015,2015-05-23,Vasco,Internacional,1,1,E,E,NORMAL,R3
+2015,2015-05-23,Grêmio,Figueirense,1,0,V,D,NORMAL,R3
+2015,2015-05-24,Palmeiras,Goiás,0,1,D,V,NORMAL,R3
+2015,2015-05-24,Fluminense,Corinthians,0,0,E,E,NORMAL,R3
+2015,2015-05-24,Avaí,Flamengo,2,1,V,D,NORMAL,R3
+2015,2015-05-24,Athletico Paranaense,Atlético Mineiro,1,0,V,D,NORMAL,R3
+2015,2015-05-24,Chapecoense,Santos,1,0,V,D,NORMAL,R3
+2015,2015-05-24,Cruzeiro,Ponte Preta,1,1,E,E,NORMAL,R3
+2015,2015-05-24,Sport,Coritiba,1,0,V,D,NORMAL,R3
+2015,2015-05-30,Ponte Preta,Chapecoense,3,1,V,D,NORMAL,R4
+2015,2015-05-30,Coritiba,Avaí,1,2,D,V,NORMAL,R4
+2015,2015-05-30,Joinville,Athletico Paranaense,1,2,D,V,NORMAL,R4
+2015,2015-05-31,Santos,Sport,2,2,E,E,NORMAL,R4
+2015,2015-05-31,Corinthians,Palmeiras,0,2,D,V,NORMAL,R4
+2015,2015-05-31,Internacional,São Paulo,0,0,E,E,NORMAL,R4
+2015,2015-05-31,Atlético Mineiro,Vasco,3,0,V,D,NORMAL,R4
+2015,2015-05-31,Goiás,Grêmio,1,1,E,E,NORMAL,R4
+2015,2015-05-31,Flamengo,Fluminense,2,3,D,V,NORMAL,R4
+2015,2015-05-31,Figueirense,Cruzeiro,2,1,V,D,NORMAL,R4
+2015,2015-06-03,Vasco,Ponte Preta,0,3,D,V,NORMAL,R5
+2015,2015-06-03,Athletico Paranaense,Figueirense,1,0,V,D,NORMAL,R5
+2015,2015-06-03,Chapecoense,Joinville,2,0,V,D,NORMAL,R5
+2015,2015-06-03,São Paulo,Santos,3,2,V,D,NORMAL,R5
+2015,2015-06-03,Grêmio,Corinthians,3,1,V,D,NORMAL,R5
+2015,2015-06-03,Cruzeiro,Flamengo,1,0,V,D,NORMAL,R5
+2015,2015-06-03,Avaí,Atlético Mineiro,1,4,D,V,NORMAL,R5
+2015,2015-06-04,Fluminense,Coritiba,2,0,V,D,NORMAL,R5
+2015,2015-06-04,Palmeiras,Internacional,1,1,E,E,NORMAL,R5
+2015,2015-06-04,Sport,Goiás,1,0,V,D,NORMAL,R5
+2015,2015-06-06,Santos,Ponte Preta,2,2,E,E,NORMAL,R6
+2015,2015-06-06,Flamengo,Chapecoense,1,0,V,D,NORMAL,R6
+2015,2015-06-06,Atlético Mineiro,Cruzeiro,1,3,D,V,NORMAL,R6
+2015,2015-06-06,São Paulo,Grêmio,2,0,V,D,NORMAL,R6
+2015,2015-06-06,Athletico Paranaense,Vasco,2,0,V,D,NORMAL,R6
+2015,2015-06-06,Joinville,Corinthians,0,1,D,V,NORMAL,R6
+2015,2015-06-07,Internacional,Coritiba,2,0,V,D,NORMAL,R6
+2015,2015-06-07,Fluminense,Sport,0,0,E,E,NORMAL,R6
+2015,2015-06-07,Figueirense,Palmeiras,2,1,V,D,NORMAL,R6
+2015,2015-06-07,Goiás,Avaí,0,1,D,V,NORMAL,R6
+2015,2015-06-10,Atlético Mineiro,Santos,2,2,E,E,NORMAL,R7
+2015,2015-06-13,Corinthians,Internacional,2,1,V,D,NORMAL,R7
+2015,2015-06-13,Coritiba,Flamengo,0,1,D,V,NORMAL,R7
+2015,2015-06-13,Chapecoense,São Paulo,0,1,D,V,NORMAL,R7
+2015,2015-06-13,Vasco,Cruzeiro,1,3,D,V,NORMAL,R7
+2015,2015-06-13,Sport,Joinville,2,1,V,D,NORMAL,R7
+2015,2015-06-14,Ponte Preta,Goiás,0,0,E,E,NORMAL,R7
+2015,2015-06-14,Palmeiras,Fluminense,2,1,V,D,NORMAL,R7
+2015,2015-06-14,Grêmio,Athletico Paranaense,2,1,V,D,NORMAL,R7
+2015,2015-06-14,Avaí,Figueirense,1,1,E,E,NORMAL,R7
+2015,2015-06-18,Figueirense,Internacional,0,0,E,E,NORMAL,R8
+2015,2015-06-20,Santos,Corinthians,1,0,V,D,NORMAL,R8
+2015,2015-06-20,Flamengo,Atlético Mineiro,0,2,D,V,NORMAL,R8
+2015,2015-06-20,Sport,Vasco,2,1,V,D,NORMAL,R8
+2015,2015-06-20,Grêmio,Palmeiras,1,0,V,D,NORMAL,R8
+2015,2015-06-21,Cruzeiro,Chapecoense,0,1,D,V,NORMAL,R8
+2015,2015-06-21,São Paulo,Avaí,1,1,E,E,NORMAL,R8
+2015,2015-06-21,Athletico Paranaense,Coritiba,2,2,E,E,NORMAL,R8
+2015,2015-06-21,Joinville,Goiás,2,1,V,D,NORMAL,R8
+2015,2015-06-24,Fluminense,Ponte Preta,2,0,V,D,NORMAL,R8
+2015,2015-06-27,Avaí,Grêmio,1,2,D,V,NORMAL,R9
+2015,2015-06-27,Chapecoense,Sport,1,1,E,E,NORMAL,R9
+2015,2015-06-27,Corinthians,Figueirense,2,1,V,D,NORMAL,R9
+2015,2015-06-28,Atlético Mineiro,Joinville,1,0,V,D,NORMAL,R9
+2015,2015-06-28,Palmeiras,São Paulo,4,0,V,D,NORMAL,R9
+2015,2015-06-28,Ponte Preta,Athletico Paranaense,2,1,V,D,NORMAL,R9
+2015,2015-06-28,Coritiba,Cruzeiro,1,0,V,D,NORMAL,R9
+2015,2015-06-28,Goiás,Fluminense,1,2,D,V,NORMAL,R9
+2015,2015-06-28,Vasco,Flamengo,1,0,V,D,NORMAL,R9
+2015,2015-06-28,Internacional,Santos,1,0,V,D,NORMAL,R9
+2015,2015-07-01,Vasco,Avaí,1,0,V,D,NORMAL,R10
+2015,2015-07-01,Sport,Internacional,3,0,V,D,NORMAL,R10
+2015,2015-07-01,Palmeiras,Chapecoense,2,0,V,D,NORMAL,R10
+2015,2015-07-01,Atlético Mineiro,Coritiba,2,0,V,D,NORMAL,R10
+2015,2015-07-01,Grêmio,Cruzeiro,1,0,V,D,NORMAL,R10
+2015,2015-07-01,Athletico Paranaense,São Paulo,2,1,V,D,NORMAL,R10
+2015,2015-07-01,Joinville,Flamengo,0,1,D,V,NORMAL,R10
+2015,2015-07-02,Corinthians,Ponte Preta,2,0,V,D,NORMAL,R10
+2015,2015-07-02,Figueirense,Goiás,3,1,V,D,NORMAL,R10
+2015,2015-07-02,Fluminense,Santos,2,1,V,D,NORMAL,R10
+2015,2015-07-04,Coritiba,Joinville,0,0,E,E,NORMAL,R11
+2015,2015-07-04,Cruzeiro,Athletico Paranaense,2,0,V,D,NORMAL,R11
+2015,2015-07-04,Chapecoense,Vasco,1,0,V,D,NORMAL,R11
+2015,2015-07-05,Avaí,Sport,2,2,E,E,NORMAL,R11
+2015,2015-07-05,São Paulo,Fluminense,0,0,E,E,NORMAL,R11
+2015,2015-07-05,Santos,Grêmio,1,3,D,V,NORMAL,R11
+2015,2015-07-05,Goiás,Corinthians,0,0,E,E,NORMAL,R11
+2015,2015-07-05,Ponte Preta,Palmeiras,0,2,D,V,NORMAL,R11
+2015,2015-07-05,Flamengo,Figueirense,1,2,D,V,NORMAL,R11
+2015,2015-07-05,Internacional,Atlético Mineiro,1,3,D,V,NORMAL,R11
+2015,2015-07-08,Coritiba,Ponte Preta,0,0,E,E,NORMAL,R12
+2015,2015-07-08,Goiás,Santos,4,1,V,D,NORMAL,R12
+2015,2015-07-08,Chapecoense,Grêmio,1,0,V,D,NORMAL,R12
+2015,2015-07-08,Palmeiras,Avaí,3,0,V,D,NORMAL,R12
+2015,2015-07-08,Figueirense,Joinville,0,2,D,V,NORMAL,R12
+2015,2015-07-08,Vasco,São Paulo,0,4,D,V,NORMAL,R12
+2015,2015-07-08,Internacional,Flamengo,1,2,D,V,NORMAL,R12
+2015,2015-07-08,Atlético Mineiro,Sport,2,1,V,D,NORMAL,R12
+2015,2015-07-09,Corinthians,Athletico Paranaense,2,0,V,D,NORMAL,R12
+2015,2015-07-09,Fluminense,Cruzeiro,1,0,V,D,NORMAL,R12
+2015,2015-07-11,Santos,Figueirense,3,0,V,D,NORMAL,R13
+2015,2015-07-11,Grêmio,Vasco,2,0,V,D,NORMAL,R13
+2015,2015-07-11,Ponte Preta,Atlético Mineiro,0,2,D,V,NORMAL,R13
+2015,2015-07-12,São Paulo,Coritiba,3,1,V,D,NORMAL,R13
+2015,2015-07-12,Flamengo,Corinthians,0,3,D,V,NORMAL,R13
+2015,2015-07-12,Cruzeiro,Goiás,1,0,V,D,NORMAL,R13
+2015,2015-07-12,Athletico Paranaense,Fluminense,1,2,D,V,NORMAL,R13
+2015,2015-07-12,Joinville,Internacional,0,2,D,V,NORMAL,R13
+2015,2015-07-12,Avaí,Chapecoense,2,1,V,D,NORMAL,R13
+2015,2015-07-12,Sport,Palmeiras,2,2,E,E,NORMAL,R13
+2015,2015-07-18,Flamengo,Grêmio,1,0,V,D,NORMAL,R14
+2015,2015-07-18,Internacional,Goiás,2,1,V,D,NORMAL,R14
+2015,2015-07-18,Corinthians,Atlético Mineiro,1,0,V,D,NORMAL,R14
+2015,2015-07-19,Athletico Paranaense,Chapecoense,1,0,V,D,NORMAL,R14
+2015,2015-07-19,Palmeiras,Santos,1,0,V,D,NORMAL,R14
+2015,2015-07-19,Fluminense,Vasco,1,2,D,V,NORMAL,R14
+2015,2015-07-19,Figueirense,Coritiba,0,0,E,E,NORMAL,R14
+2015,2015-07-19,Sport,São Paulo,2,0,V,D,NORMAL,R14
+2015,2015-07-19,Cruzeiro,Avaí,1,1,E,E,NORMAL,R14
+2015,2015-07-19,Joinville,Ponte Preta,1,1,E,E,NORMAL,R14
+2015,2015-07-25,Avaí,Athletico Paranaense,1,2,D,V,NORMAL,R15
+2015,2015-07-25,Grêmio,Sport,1,1,E,E,NORMAL,R15
+2015,2015-07-25,Atlético Mineiro,Figueirense,1,0,V,D,NORMAL,R15
+2015,2015-07-26,Santos,Joinville,2,0,V,D,NORMAL,R15
+2015,2015-07-26,Chapecoense,Fluminense,2,1,V,D,NORMAL,R15
+2015,2015-07-26,São Paulo,Cruzeiro,1,0,V,D,NORMAL,R15
+2015,2015-07-26,Ponte Preta,Internacional,0,0,E,E,NORMAL,R15
+2015,2015-07-26,Coritiba,Corinthians,1,1,E,E,NORMAL,R15
+2015,2015-07-26,Goiás,Flamengo,0,1,D,V,NORMAL,R15
+2015,2015-07-26,Vasco,Palmeiras,1,4,D,V,NORMAL,R15
+2015,2015-07-29,Corinthians,Vasco,3,0,V,D,NORMAL,R16
+2015,2015-07-29,Atlético Mineiro,São Paulo,3,1,V,D,NORMAL,R16
+2015,2015-08-01,Fluminense,Grêmio,1,0,V,D,NORMAL,R16
+2015,2015-08-02,Palmeiras,Athletico Paranaense,0,1,D,V,NORMAL,R16
+2015,2015-08-02,Coritiba,Goiás,1,1,E,E,NORMAL,R16
+2015,2015-08-02,Flamengo,Santos,2,2,E,E,NORMAL,R16
+2015,2015-08-02,Internacional,Chapecoense,0,0,E,E,NORMAL,R16
+2015,2015-08-02,Figueirense,Ponte Preta,3,1,V,D,NORMAL,R16
+2015,2015-08-02,Joinville,Avaí,2,0,V,D,NORMAL,R16
+2015,2015-08-02,Sport,Cruzeiro,0,0,E,E,NORMAL,R16
+2015,2015-08-08,Avaí,Fluminense,1,0,V,D,NORMAL,R17
+2015,2015-08-08,Santos,Coritiba,3,0,V,D,NORMAL,R17
+2015,2015-08-09,Vasco,Joinville,0,0,E,E,NORMAL,R17
+2015,2015-08-09,Athletico Paranaense,Sport,1,1,E,E,NORMAL,R17
+2015,2015-08-09,São Paulo,Corinthians,1,1,E,E,NORMAL,R17
+2015,2015-08-09,Ponte Preta,Flamengo,1,0,V,D,NORMAL,R17
+2015,2015-08-09,Cruzeiro,Palmeiras,2,1,V,D,NORMAL,R17
+2015,2015-08-09,Goiás,Atlético Mineiro,0,0,E,E,NORMAL,R17
+2015,2015-08-09,Grêmio,Internacional,5,0,V,D,NORMAL,R17
+2015,2015-08-09,Chapecoense,Figueirense,2,2,E,E,NORMAL,R17
+2015,2015-08-12,Flamengo,Athletico Paranaense,3,2,V,D,NORMAL,R18
+2015,2015-08-12,Coritiba,Palmeiras,2,1,V,D,NORMAL,R18
+2015,2015-08-12,Santos,Vasco,1,0,V,D,NORMAL,R18
+2015,2015-08-12,Goiás,Chapecoense,0,0,E,E,NORMAL,R18
+2015,2015-08-12,Corinthians,Sport,4,3,V,D,NORMAL,R18
+2015,2015-08-12,Internacional,Fluminense,1,0,V,D,NORMAL,R18
+2015,2015-08-12,Figueirense,São Paulo,0,2,D,V,NORMAL,R18
+2015,2015-08-13,Ponte Preta,Avaí,2,0,V,D,NORMAL,R18
+2015,2015-08-13,Atlético Mineiro,Grêmio,0,2,D,V,NORMAL,R18
+2015,2015-08-13,Joinville,Cruzeiro,3,0,V,D,NORMAL,R18
+2015,2015-08-15,Vasco,Coritiba,0,1,D,V,NORMAL,R19
+2015,2015-08-15,Athletico Paranaense,Santos,0,0,E,E,NORMAL,R19
+2015,2015-08-15,São Paulo,Goiás,0,3,D,V,NORMAL,R19
+2015,2015-08-16,Palmeiras,Flamengo,4,2,V,D,NORMAL,R19
+2015,2015-08-16,Fluminense,Figueirense,2,1,V,D,NORMAL,R19
+2015,2015-08-16,Cruzeiro,Internacional,0,0,E,E,NORMAL,R19
+2015,2015-08-16,Avaí,Corinthians,1,2,D,V,NORMAL,R19
+2015,2015-08-16,Sport,Ponte Preta,1,1,E,E,NORMAL,R19
+2015,2015-08-16,Grêmio,Joinville,2,1,V,D,NORMAL,R19
+2015,2015-08-16,Chapecoense,Atlético Mineiro,2,1,V,D,NORMAL,R19
+2015,2015-08-22,Santos,Avaí,5,2,V,D,NORMAL,R20
+2015,2015-08-22,Goiás,Vasco,3,0,V,D,NORMAL,R20
+2015,2015-08-22,Figueirense,Sport,2,1,V,D,NORMAL,R20
+2015,2015-08-23,Ponte Preta,Grêmio,0,0,E,E,NORMAL,R20
+2015,2015-08-23,Coritiba,Chapecoense,1,0,V,D,NORMAL,R20
+2015,2015-08-23,Corinthians,Cruzeiro,3,0,V,D,NORMAL,R20
+2015,2015-08-23,Flamengo,São Paulo,2,1,V,D,NORMAL,R20
+2015,2015-08-23,Internacional,Athletico Paranaense,2,0,V,D,NORMAL,R20
+2015,2015-08-23,Joinville,Fluminense,2,1,V,D,NORMAL,R20
+2015,2015-08-23,Atlético Mineiro,Palmeiras,2,1,V,D,NORMAL,R20
+2015,2015-08-29,Vasco,Figueirense,0,1,D,V,NORMAL,R21
+2015,2015-08-29,São Paulo,Ponte Preta,3,0,V,D,NORMAL,R21
+2015,2015-08-30,Grêmio,Coritiba,0,0,E,E,NORMAL,R21
+2015,2015-08-30,Avaí,Internacional,3,0,V,D,NORMAL,R21
+2015,2015-08-30,Palmeiras,Joinville,3,2,V,D,NORMAL,R21
+2015,2015-08-30,Fluminense,Atlético Mineiro,1,2,D,V,NORMAL,R21
+2015,2015-08-30,Sport,Flamengo,0,1,D,V,NORMAL,R21
+2015,2015-08-30,Chapecoense,Corinthians,1,3,D,V,NORMAL,R21
+2015,2015-08-30,Cruzeiro,Santos,0,1,D,V,NORMAL,R21
+2015,2015-08-30,Athletico Paranaense,Goiás,3,0,V,D,NORMAL,R21
+2015,2015-09-02,Ponte Preta,Cruzeiro,1,2,D,V,NORMAL,R22
+2015,2015-09-02,Internacional,Vasco,6,0,V,D,NORMAL,R22
+2015,2015-09-02,Joinville,São Paulo,0,0,E,E,NORMAL,R22
+2015,2015-09-02,Flamengo,Avaí,3,0,V,D,NORMAL,R22
+2015,2015-09-02,Atlético Mineiro,Athletico Paranaense,0,1,D,V,NORMAL,R22
+2015,2015-09-02,Corinthians,Fluminense,2,0,V,D,NORMAL,R22
+2015,2015-09-02,Coritiba,Sport,0,0,E,E,NORMAL,R22
+2015,2015-09-02,Goiás,Palmeiras,1,0,V,D,NORMAL,R22
+2015,2015-09-03,Santos,Chapecoense,3,1,V,D,NORMAL,R22
+2015,2015-09-03,Figueirense,Grêmio,0,2,D,V,NORMAL,R22
+2015,2015-09-05,São Paulo,Internacional,2,0,V,D,NORMAL,R23
+2015,2015-09-05,Vasco,Atlético Mineiro,1,2,D,V,NORMAL,R23
+2015,2015-09-05,Athletico Paranaense,Joinville,0,0,E,E,NORMAL,R23
+2015,2015-09-06,Cruzeiro,Figueirense,5,1,V,D,NORMAL,R23
+2015,2015-09-06,Chapecoense,Ponte Preta,0,0,E,E,NORMAL,R23
+2015,2015-09-06,Palmeiras,Corinthians,3,3,E,E,NORMAL,R23
+2015,2015-09-06,Fluminense,Flamengo,1,3,D,V,NORMAL,R23
+2015,2015-09-06,Grêmio,Goiás,2,1,V,D,NORMAL,R23
+2015,2015-09-06,Avaí,Coritiba,0,2,D,V,NORMAL,R23
+2015,2015-09-06,Sport,Santos,1,1,E,E,NORMAL,R23
+2015,2015-09-09,Ponte Preta,Vasco,0,1,D,V,NORMAL,R24
+2015,2015-09-09,Internacional,Palmeiras,1,0,V,D,NORMAL,R24
+2015,2015-09-09,Atlético Mineiro,Avaí,2,0,V,D,NORMAL,R24
+2015,2015-09-09,Figueirense,Athletico Paranaense,1,1,E,E,NORMAL,R24
+2015,2015-09-09,Corinthians,Grêmio,1,1,E,E,NORMAL,R24
+2015,2015-09-09,Santos,São Paulo,3,0,V,D,NORMAL,R24
+2015,2015-09-09,Coritiba,Fluminense,1,1,E,E,NORMAL,R24
+2015,2015-09-10,Goiás,Sport,1,0,V,D,NORMAL,R24
+2015,2015-09-10,Flamengo,Cruzeiro,2,0,V,D,NORMAL,R24
+2015,2015-09-10,Joinville,Chapecoense,0,0,E,E,NORMAL,R24
+2015,2015-09-12,Coritiba,Internacional,0,1,D,V,NORMAL,R25
+2015,2015-09-12,Palmeiras,Figueirense,2,0,V,D,NORMAL,R25
+2015,2015-09-13,Corinthians,Joinville,3,0,V,D,NORMAL,R25
+2015,2015-09-13,Ponte Preta,Santos,3,1,V,D,NORMAL,R25
+2015,2015-09-13,Vasco,Athletico Paranaense,2,0,V,D,NORMAL,R25
+2015,2015-09-13,Grêmio,São Paulo,1,2,D,V,NORMAL,R25
+2015,2015-09-13,Cruzeiro,Atlético Mineiro,1,1,E,E,NORMAL,R25
+2015,2015-09-13,Chapecoense,Flamengo,1,3,D,V,NORMAL,R25
+2015,2015-09-13,Avaí,Goiás,2,1,V,D,NORMAL,R25
+2015,2015-09-13,Sport,Fluminense,1,0,V,D,NORMAL,R25
+2015,2015-09-16,Fluminense,Palmeiras,1,4,D,V,NORMAL,R26
+2015,2015-09-16,Goiás,Ponte Preta,1,2,D,V,NORMAL,R26
+2015,2015-09-16,Joinville,Sport,1,1,E,E,NORMAL,R26
+2015,2015-09-16,Figueirense,Avaí,0,1,D,V,NORMAL,R26
+2015,2015-09-16,Athletico Paranaense,Grêmio,1,2,D,V,NORMAL,R26
+2015,2015-09-16,Santos,Atlético Mineiro,4,0,V,D,NORMAL,R26
+2015,2015-09-16,Internacional,Corinthians,2,1,V,D,NORMAL,R26
+2015,2015-09-16,Cruzeiro,Vasco,2,2,E,E,NORMAL,R26
+2015,2015-09-17,São Paulo,Chapecoense,0,0,E,E,NORMAL,R26
+2015,2015-09-17,Flamengo,Coritiba,0,2,D,V,NORMAL,R26
+2015,2015-09-19,Palmeiras,Grêmio,3,2,V,D,NORMAL,R27
+2015,2015-09-19,Internacional,Figueirense,1,1,E,E,NORMAL,R27
+2015,2015-09-19,Ponte Preta,Fluminense,3,1,V,D,NORMAL,R27
+2015,2015-09-20,Corinthians,Santos,2,0,V,D,NORMAL,R27
+2015,2015-09-20,Goiás,Joinville,3,0,V,D,NORMAL,R27
+2015,2015-09-20,Vasco,Sport,2,1,V,D,NORMAL,R27
+2015,2015-09-20,Atlético Mineiro,Flamengo,4,1,V,D,NORMAL,R27
+2015,2015-09-20,Avaí,São Paulo,2,1,V,D,NORMAL,R27
+2015,2015-09-20,Coritiba,Athletico Paranaense,2,0,V,D,NORMAL,R27
+2015,2015-09-20,Chapecoense,Cruzeiro,0,2,D,V,NORMAL,R27
+2015,2015-09-26,Fluminense,Goiás,2,0,V,D,NORMAL,R28
+2015,2015-09-26,Grêmio,Avaí,3,1,V,D,NORMAL,R28
+2015,2015-09-27,Santos,Internacional,3,1,V,D,NORMAL,R28
+2015,2015-09-27,Athletico Paranaense,Ponte Preta,1,2,D,V,NORMAL,R28
+2015,2015-09-27,São Paulo,Palmeiras,1,1,E,E,NORMAL,R28
+2015,2015-09-27,Flamengo,Vasco,1,2,D,V,NORMAL,R28
+2015,2015-09-27,Figueirense,Corinthians,1,3,D,V,NORMAL,R28
+2015,2015-09-27,Joinville,Atlético Mineiro,2,2,E,E,NORMAL,R28
+2015,2015-09-27,Cruzeiro,Coritiba,2,0,V,D,NORMAL,R28
+2015,2015-09-27,Sport,Chapecoense,3,0,V,D,NORMAL,R28
+2015,2015-10-03,Internacional,Sport,2,1,V,D,NORMAL,R29
+2015,2015-10-03,Coritiba,Atlético Mineiro,0,3,D,V,NORMAL,R29
+2015,2015-10-03,São Paulo,Athletico Paranaense,1,0,V,D,NORMAL,R29
+2015,2015-10-04,Flamengo,Joinville,2,0,V,D,NORMAL,R29
+2015,2015-10-04,Avaí,Vasco,1,1,E,E,NORMAL,R29
+2015,2015-10-04,Santos,Fluminense,3,1,V,D,NORMAL,R29
+2015,2015-10-04,Ponte Preta,Corinthians,2,2,E,E,NORMAL,R29
+2015,2015-10-04,Cruzeiro,Grêmio,0,0,E,E,NORMAL,R29
+2015,2015-10-04,Goiás,Figueirense,2,3,D,V,NORMAL,R29
+2015,2015-10-04,Chapecoense,Palmeiras,5,1,V,D,NORMAL,R29
+2015,2015-10-14,Atlético Mineiro,Internacional,2,1,V,D,NORMAL,R30
+2015,2015-10-14,Sport,Avaí,3,0,V,D,NORMAL,R30
+2015,2015-10-14,Palmeiras,Ponte Preta,0,1,D,V,NORMAL,R30
+2015,2015-10-14,Figueirense,Flamengo,3,0,V,D,NORMAL,R30
+2015,2015-10-14,Joinville,Coritiba,3,1,V,D,NORMAL,R30
+2015,2015-10-14,Fluminense,São Paulo,2,0,V,D,NORMAL,R30
+2015,2015-10-14,Athletico Paranaense,Cruzeiro,2,2,E,E,NORMAL,R30
+2015,2015-10-15,Corinthians,Goiás,3,0,V,D,NORMAL,R30
+2015,2015-10-15,Vasco,Chapecoense,1,1,E,E,NORMAL,R30
+2015,2015-10-15,Grêmio,Santos,1,0,V,D,NORMAL,R30
+2015,2015-10-17,Avaí,Palmeiras,1,3,D,V,NORMAL,R31
+2015,2015-10-17,Joinville,Figueirense,1,0,V,D,NORMAL,R31
+2015,2015-10-18,Ponte Preta,Coritiba,3,0,V,D,NORMAL,R31
+2015,2015-10-18,Cruzeiro,Fluminense,2,0,V,D,NORMAL,R31
+2015,2015-10-18,São Paulo,Vasco,2,2,E,E,NORMAL,R31
+2015,2015-10-18,Flamengo,Internacional,0,1,D,V,NORMAL,R31
+2015,2015-10-18,Athletico Paranaense,Corinthians,1,4,D,V,NORMAL,R31
+2015,2015-10-18,Santos,Goiás,3,1,V,D,NORMAL,R31
+2015,2015-10-18,Grêmio,Chapecoense,2,3,D,V,NORMAL,R31
+2015,2015-10-18,Sport,Atlético Mineiro,4,1,V,D,NORMAL,R31
+2015,2015-10-24,Fluminense,Athletico Paranaense,0,1,D,V,NORMAL,R32
+2015,2015-10-24,Internacional,Joinville,1,0,V,D,NORMAL,R32
+2015,2015-10-24,Figueirense,Santos,0,0,E,E,NORMAL,R32
+2015,2015-10-24,Palmeiras,Sport,0,2,D,V,NORMAL,R32
+2015,2015-10-25,Corinthians,Flamengo,1,0,V,D,NORMAL,R32
+2015,2015-10-25,Vasco,Grêmio,0,0,E,E,NORMAL,R32
+2015,2015-10-25,Coritiba,São Paulo,1,2,D,V,NORMAL,R32
+2015,2015-10-25,Chapecoense,Avaí,0,0,E,E,NORMAL,R32
+2015,2015-10-25,Goiás,Cruzeiro,0,1,D,V,NORMAL,R32
+2015,2015-10-25,Atlético Mineiro,Ponte Preta,2,1,V,D,NORMAL,R32
+2015,2015-10-31,São Paulo,Sport,3,0,V,D,NORMAL,R33
+2015,2015-10-31,Ponte Preta,Joinville,1,0,V,D,NORMAL,R33
+2015,2015-10-31,Avaí,Cruzeiro,1,1,E,E,NORMAL,R33
+2015,2015-10-31,Coritiba,Figueirense,1,1,E,E,NORMAL,R33
+2015,2015-11-01,Santos,Palmeiras,2,1,V,D,NORMAL,R33
+2015,2015-11-01,Grêmio,Flamengo,2,0,V,D,NORMAL,R33
+2015,2015-11-01,Atlético Mineiro,Corinthians,0,3,D,V,NORMAL,R33
+2015,2015-11-01,Chapecoense,Athletico Paranaense,0,0,E,E,NORMAL,R33
+2015,2015-11-01,Vasco,Fluminense,0,1,D,V,NORMAL,R33
+2015,2015-11-01,Goiás,Internacional,2,1,V,D,NORMAL,R33
+2015,2015-11-07,Internacional,Ponte Preta,1,0,V,D,NORMAL,R34
+2015,2015-11-07,Corinthians,Coritiba,2,1,V,D,NORMAL,R34
+2015,2015-11-07,Athletico Paranaense,Avaí,2,1,V,D,NORMAL,R34
+2015,2015-11-07,Fluminense,Chapecoense,2,3,D,V,NORMAL,R34
+2015,2015-11-08,Palmeiras,Vasco,0,2,D,V,NORMAL,R34
+2015,2015-11-08,Flamengo,Goiás,4,1,V,D,NORMAL,R34
+2015,2015-11-08,Cruzeiro,São Paulo,2,1,V,D,NORMAL,R34
+2015,2015-11-08,Figueirense,Atlético Mineiro,0,1,D,V,NORMAL,R34
+2015,2015-11-08,Joinville,Santos,0,0,E,E,NORMAL,R34
+2015,2015-11-08,Sport,Grêmio,1,0,V,D,NORMAL,R34
+2015,2015-11-15,Cruzeiro,Sport,3,0,V,D,NORMAL,R35
+2015,2015-11-18,Goiás,Coritiba,1,3,D,V,NORMAL,R35
+2015,2015-11-18,Ponte Preta,Figueirense,0,1,D,V,NORMAL,R35
+2015,2015-11-18,Avaí,Joinville,2,1,V,D,NORMAL,R35
+2015,2015-11-18,Athletico Paranaense,Palmeiras,3,3,E,E,NORMAL,R35
+2015,2015-11-19,Grêmio,Fluminense,1,0,V,D,NORMAL,R35
+2015,2015-11-19,Chapecoense,Internacional,1,0,V,D,NORMAL,R35
+2015,2015-11-19,São Paulo,Atlético Mineiro,4,2,V,D,NORMAL,R35
+2015,2015-11-19,Santos,Flamengo,0,0,E,E,NORMAL,R35
+2015,2015-11-19,Vasco,Corinthians,1,1,E,E,NORMAL,R35
+2015,2015-11-21,Palmeiras,Cruzeiro,1,1,E,E,NORMAL,R36
+2015,2015-11-22,Corinthians,São Paulo,6,1,V,D,NORMAL,R36
+2015,2015-11-22,Internacional,Grêmio,1,0,V,D,NORMAL,R36
+2015,2015-11-22,Atlético Mineiro,Goiás,2,2,E,E,NORMAL,R36
+2015,2015-11-22,Figueirense,Chapecoense,0,0,E,E,NORMAL,R36
+2015,2015-11-22,Joinville,Vasco,1,2,D,V,NORMAL,R36
+2015,2015-11-22,Flamengo,Ponte Preta,1,1,E,E,NORMAL,R36
+2015,2015-11-22,Fluminense,Avaí,3,1,V,D,NORMAL,R36
+2015,2015-11-22,Coritiba,Santos,1,0,V,D,NORMAL,R36
+2015,2015-11-22,Sport,Athletico Paranaense,0,0,E,E,NORMAL,R36
+2015,2015-11-28,São Paulo,Figueirense,3,2,V,D,NORMAL,R37
+2015,2015-11-28,Fluminense,Internacional,1,1,E,E,NORMAL,R37
+2015,2015-11-28,Avaí,Ponte Preta,1,0,V,D,NORMAL,R37
+2015,2015-11-29,Vasco,Santos,1,0,V,D,NORMAL,R37
+2015,2015-11-29,Grêmio,Atlético Mineiro,2,1,V,D,NORMAL,R37
+2015,2015-11-29,Cruzeiro,Joinville,3,0,V,D,NORMAL,R37
+2015,2015-11-29,Sport,Corinthians,2,0,V,D,NORMAL,R37
+2015,2015-11-29,Palmeiras,Coritiba,0,2,D,V,NORMAL,R37
+2015,2015-11-29,Chapecoense,Goiás,1,3,D,V,NORMAL,R37
+2015,2015-11-29,Athletico Paranaense,Flamengo,3,0,V,D,NORMAL,R37
+2015,2015-12-06,Corinthians,Avaí,1,1,E,E,NORMAL,R38
+2015,2015-12-06,Santos,Athletico Paranaense,5,1,V,D,NORMAL,R38
+2015,2015-12-06,Ponte Preta,Sport,0,1,D,V,NORMAL,R38
+2015,2015-12-06,Flamengo,Palmeiras,1,2,D,V,NORMAL,R38
+2015,2015-12-06,Internacional,Cruzeiro,2,0,V,D,NORMAL,R38
+2015,2015-12-06,Atlético Mineiro,Chapecoense,3,0,V,D,NORMAL,R38
+2015,2015-12-06,Figueirense,Fluminense,1,0,V,D,NORMAL,R38
+2015,2015-12-06,Coritiba,Vasco,0,0,E,E,NORMAL,R38
+2015,2015-12-06,Goiás,São Paulo,0,1,D,V,NORMAL,R38
+2015,2015-12-06,Joinville,Grêmio,0,2,D,V,NORMAL,R38

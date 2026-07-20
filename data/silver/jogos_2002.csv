@@ -1,0 +1,340 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2002,2002-08-10,Vasco,Figueirense,2,0,V,D,NORMAL,R1
+2002,2002-08-10,São Paulo,Paysandu,4,2,V,D,NORMAL,R1
+2002,2002-08-10,Paraná,São Caetano,2,1,V,D,NORMAL,R1
+2002,2002-08-10,Santos,Botafogo,2,1,V,D,NORMAL,R1
+2002,2002-08-10,Goiás,Portuguesa,3,1,V,D,NORMAL,R1
+2002,2002-08-11,Fluminense,Cruzeiro,5,1,V,D,NORMAL,R1
+2002,2002-08-11,Palmeiras,Grêmio,1,1,E,E,NORMAL,R1
+2002,2002-08-11,Atlético Mineiro,Corinthians,1,2,D,V,NORMAL,R1
+2002,2002-08-11,Internacional,Flamengo,1,3,D,V,NORMAL,R1
+2002,2002-08-11,Guarani,Athletico Paranaense,2,1,V,D,NORMAL,R1
+2002,2002-08-11,Coritiba,Vitória,1,0,V,D,NORMAL,R1
+2002,2002-08-11,Bahia,Gama,1,0,V,D,NORMAL,R1
+2002,2002-08-11,Juventude,Ponte Preta,1,0,V,D,NORMAL,R1
+2002,2002-08-14,São Caetano,Fluminense,2,0,V,D,NORMAL,R2
+2002,2002-08-14,Botafogo,Atlético Mineiro,1,1,E,E,NORMAL,R2
+2002,2002-08-14,Cruzeiro,Palmeiras,1,1,E,E,NORMAL,R2
+2002,2002-08-14,Grêmio,Vasco,3,2,V,D,NORMAL,R2
+2002,2002-08-14,Athletico Paranaense,Bahia,4,0,V,D,NORMAL,R2
+2002,2002-08-14,Figueirense,Guarani,0,0,E,E,NORMAL,R2
+2002,2002-08-14,Ponte Preta,Coritiba,2,0,V,D,NORMAL,R2
+2002,2002-08-14,Vitória,Goiás,4,1,V,D,NORMAL,R2
+2002,2002-08-14,Corinthians,Internacional,3,2,V,D,NORMAL,R2
+2002,2002-08-14,Flamengo,Juventude,0,0,E,E,NORMAL,R2
+2002,2002-08-14,Portuguesa,Paraná,1,0,V,D,NORMAL,R2
+2002,2002-08-14,Gama,São Paulo,0,1,D,V,NORMAL,R2
+2002,2002-08-17,Fluminense,Grêmio,3,1,V,D,NORMAL,R3
+2002,2002-08-17,Internacional,Ponte Preta,1,0,V,D,NORMAL,R3
+2002,2002-08-17,Athletico Paranaense,Vasco,2,1,V,D,NORMAL,R3
+2002,2002-08-18,Juventude,Santos,2,1,V,D,NORMAL,R3
+2002,2002-08-18,Guarani,Atlético Mineiro,1,4,D,V,NORMAL,R3
+2002,2002-08-18,Flamengo,Goiás,1,1,E,E,NORMAL,R3
+2002,2002-08-18,Paraná,São Paulo,2,3,D,V,NORMAL,R3
+2002,2002-08-18,Cruzeiro,Botafogo,0,0,E,E,NORMAL,R3
+2002,2002-08-18,Portuguesa,Figueirense,0,0,E,E,NORMAL,R3
+2002,2002-08-18,Bahia,Coritiba,1,2,D,V,NORMAL,R3
+2002,2002-08-18,Gama,Vitória,2,1,V,D,NORMAL,R3
+2002,2002-08-18,São Caetano,Corinthians,3,0,V,D,NORMAL,R3
+2002,2002-08-21,Botafogo,Internacional,2,2,E,E,NORMAL,R4
+2002,2002-08-21,São Paulo,Juventude,0,1,D,V,NORMAL,R4
+2002,2002-08-21,Atlético Mineiro,Fluminense,1,1,E,E,NORMAL,R4
+2002,2002-08-21,Paysandu,Portuguesa,1,2,D,V,NORMAL,R4
+2002,2002-08-21,Coritiba,Flamengo,2,1,V,D,NORMAL,R4
+2002,2002-08-21,Vitória,Athletico Paranaense,1,1,E,E,NORMAL,R4
+2002,2002-08-21,Goiás,Bahia,1,1,E,E,NORMAL,R4
+2002,2002-08-21,Santos,Figueirense,3,0,V,D,NORMAL,R4
+2002,2002-08-22,Vasco,Gama,0,1,D,V,NORMAL,R4
+2002,2002-08-22,Palmeiras,São Caetano,3,2,V,D,NORMAL,R4
+2002,2002-08-22,Grêmio,Guarani,0,2,D,V,NORMAL,R4
+2002,2002-08-22,Ponte Preta,Cruzeiro,2,0,V,D,NORMAL,R4
+2002,2002-08-24,Flamengo,Paysandu,1,2,D,V,NORMAL,R5
+2002,2002-08-24,Internacional,São Paulo,2,2,E,E,NORMAL,R5
+2002,2002-08-24,Figueirense,Botafogo,0,3,D,V,NORMAL,R5
+2002,2002-08-25,Palmeiras,Atlético Mineiro,0,4,D,V,NORMAL,R5
+2002,2002-08-25,Fluminense,Santos,1,1,E,E,NORMAL,R5
+2002,2002-08-25,Coritiba,Corinthians,1,2,D,V,NORMAL,R5
+2002,2002-08-25,Portuguesa,Gama,1,0,V,D,NORMAL,R5
+2002,2002-08-25,Cruzeiro,Bahia,2,1,V,D,NORMAL,R5
+2002,2002-08-25,Vitória,Juventude,2,1,V,D,NORMAL,R5
+2002,2002-08-25,Ponte Preta,Grêmio,1,1,E,E,NORMAL,R5
+2002,2002-08-25,Goiás,Vasco,2,4,D,V,NORMAL,R5
+2002,2002-08-28,Guarani,Internacional,1,1,E,E,NORMAL,R6
+2002,2002-08-28,Juventude,Fluminense,2,0,V,D,NORMAL,R6
+2002,2002-08-28,Santos,Paraná,2,1,V,D,NORMAL,R6
+2002,2002-08-28,Gama,Flamengo,2,1,V,D,NORMAL,R6
+2002,2002-08-28,Athletico Paranaense,Palmeiras,1,0,V,D,NORMAL,R6
+2002,2002-08-28,Corinthians,Cruzeiro,1,1,E,E,NORMAL,R6
+2002,2002-08-28,Bahia,Figueirense,1,2,D,V,NORMAL,R6
+2002,2002-08-29,São Paulo,Goiás,2,0,V,D,NORMAL,R6
+2002,2002-08-29,Grêmio,Portuguesa,0,0,E,E,NORMAL,R6
+2002,2002-08-29,Atlético Mineiro,Vitória,2,1,V,D,NORMAL,R6
+2002,2002-08-31,Coritiba,Fluminense,2,0,V,D,NORMAL,R7
+2002,2002-08-31,Botafogo,Gama,1,0,V,D,NORMAL,R7
+2002,2002-08-31,Corinthians,Athletico Paranaense,0,3,D,V,NORMAL,R7
+2002,2002-08-31,Internacional,Santos,3,0,V,D,NORMAL,R7
+2002,2002-09-01,Flamengo,Cruzeiro,1,1,E,E,NORMAL,R7
+2002,2002-09-01,São Paulo,Grêmio,2,0,V,D,NORMAL,R7
+2002,2002-09-01,Atlético Mineiro,Portuguesa,0,0,E,E,NORMAL,R7
+2002,2002-09-01,Paraná,Palmeiras,5,1,V,D,NORMAL,R7
+2002,2002-09-01,Vitória,Paysandu,5,1,V,D,NORMAL,R7
+2002,2002-09-01,Ponte Preta,São Caetano,0,1,D,V,NORMAL,R7
+2002,2002-09-01,Juventude,Vasco,1,0,V,D,NORMAL,R7
+2002,2002-09-01,Goiás,Guarani,1,2,D,V,NORMAL,R7
+2002,2002-09-04,Vasco,Atlético Mineiro,1,2,D,V,NORMAL,R8
+2002,2002-09-04,Flamengo,Fluminense,5,2,V,D,NORMAL,R8
+2002,2002-09-04,Palmeiras,Coritiba,2,2,E,E,NORMAL,R8
+2002,2002-09-04,Cruzeiro,São Paulo,3,1,V,D,NORMAL,R8
+2002,2002-09-04,Athletico Paranaense,Botafogo,2,0,V,D,NORMAL,R8
+2002,2002-09-04,Paysandu,Corinthians,0,1,D,V,NORMAL,R8
+2002,2002-09-04,Bahia,Paraná,3,2,V,D,NORMAL,R8
+2002,2002-09-04,Gama,Ponte Preta,0,0,E,E,NORMAL,R8
+2002,2002-09-04,São Caetano,Guarani,2,1,V,D,NORMAL,R8
+2002,2002-09-05,Portuguesa,Internacional,0,2,D,V,NORMAL,R8
+2002,2002-09-05,Santos,Vitória,3,0,V,D,NORMAL,R8
+2002,2002-09-07,Vasco,Coritiba,1,0,V,D,NORMAL,R9
+2002,2002-09-07,Palmeiras,Gama,2,2,E,E,NORMAL,R9
+2002,2002-09-07,São Caetano,São Paulo,3,0,V,D,NORMAL,R9
+2002,2002-09-07,Atlético Mineiro,Ponte Preta,2,0,V,D,NORMAL,R9
+2002,2002-09-07,Goiás,Botafogo,2,2,E,E,NORMAL,R9
+2002,2002-09-08,Fluminense,Figueirense,4,3,V,D,NORMAL,R9
+2002,2002-09-08,Santos,Athletico Paranaense,2,2,E,E,NORMAL,R9
+2002,2002-09-08,Grêmio,Corinthians,4,0,V,D,NORMAL,R9
+2002,2002-09-08,Paraná,Flamengo,3,0,V,D,NORMAL,R9
+2002,2002-09-08,Vitória,Internacional,0,0,E,E,NORMAL,R9
+2002,2002-09-08,Juventude,Bahia,2,1,V,D,NORMAL,R9
+2002,2002-09-08,Guarani,Paysandu,2,0,V,D,NORMAL,R9
+2002,2002-09-11,Flamengo,Athletico Paranaense,3,2,V,D,NORMAL,R10
+2002,2002-09-11,Portuguesa,São Caetano,3,2,V,D,NORMAL,R10
+2002,2002-09-11,Internacional,Palmeiras,3,2,V,D,NORMAL,R10
+2002,2002-09-11,Coritiba,Santos,4,2,V,D,NORMAL,R10
+2002,2002-09-11,Bahia,Grêmio,1,1,E,E,NORMAL,R10
+2002,2002-09-11,Ponte Preta,Paraná,1,0,V,D,NORMAL,R10
+2002,2002-09-11,Figueirense,Vitória,0,2,D,V,NORMAL,R10
+2002,2002-09-11,Paysandu,Vasco,2,0,V,D,NORMAL,R10
+2002,2002-09-12,Botafogo,Juventude,0,4,D,V,NORMAL,R10
+2002,2002-09-12,Corinthians,Goiás,3,0,V,D,NORMAL,R10
+2002,2002-09-12,Cruzeiro,Guarani,0,2,D,V,NORMAL,R10
+2002,2002-09-12,Gama,Fluminense,1,2,D,V,NORMAL,R10
+2002,2002-09-14,Internacional,Figueirense,2,4,D,V,NORMAL,R11
+2002,2002-09-14,Santos,Grêmio,2,0,V,D,NORMAL,R11
+2002,2002-09-14,Paraná,Athletico Paranaense,2,2,E,E,NORMAL,R11
+2002,2002-09-14,Palmeiras,Bahia,1,2,D,V,NORMAL,R11
+2002,2002-09-15,São Paulo,Fluminense,6,0,V,D,NORMAL,R11
+2002,2002-09-15,Coritiba,Goiás,3,1,V,D,NORMAL,R11
+2002,2002-09-15,Botafogo,Vasco,1,1,E,E,NORMAL,R11
+2002,2002-09-15,Guarani,Corinthians,0,0,E,E,NORMAL,R11
+2002,2002-09-15,São Caetano,Gama,4,0,V,D,NORMAL,R11
+2002,2002-09-15,Vitória,Portuguesa,4,3,V,D,NORMAL,R11
+2002,2002-09-15,Juventude,Atlético Mineiro,1,0,V,D,NORMAL,R11
+2002,2002-09-15,Cruzeiro,Paysandu,3,1,V,D,NORMAL,R11
+2002,2002-09-18,Vasco,Santos,1,2,D,V,NORMAL,R12
+2002,2002-09-18,Portuguesa,Botafogo,2,0,V,D,NORMAL,R12
+2002,2002-09-18,Goiás,São Caetano,3,0,V,D,NORMAL,R12
+2002,2002-09-18,Figueirense,Cruzeiro,3,1,V,D,NORMAL,R12
+2002,2002-09-18,Paysandu,Coritiba,1,1,E,E,NORMAL,R12
+2002,2002-09-18,Athletico Paranaense,Gama,1,3,D,V,NORMAL,R12
+2002,2002-09-18,Bahia,São Paulo,2,0,V,D,NORMAL,R12
+2002,2002-09-18,Ponte Preta,Palmeiras,2,0,V,D,NORMAL,R12
+2002,2002-09-19,Grêmio,Juventude,2,0,V,D,NORMAL,R12
+2002,2002-09-19,Corinthians,Vitória,2,1,V,D,NORMAL,R12
+2002,2002-09-19,Atlético Mineiro,Paraná,4,1,V,D,NORMAL,R12
+2002,2002-09-21,Botafogo,Coritiba,0,2,D,V,NORMAL,R13
+2002,2002-09-21,Portuguesa,Cruzeiro,0,1,D,V,NORMAL,R13
+2002,2002-09-21,Figueirense,Palmeiras,1,0,V,D,NORMAL,R13
+2002,2002-09-21,Santos,Goiás,1,1,E,E,NORMAL,R13
+2002,2002-09-22,Vasco,Internacional,1,1,E,E,NORMAL,R13
+2002,2002-09-22,Corinthians,Paraná,2,1,V,D,NORMAL,R13
+2002,2002-09-22,Atlético Mineiro,Flamengo,0,3,D,V,NORMAL,R13
+2002,2002-09-22,Athletico Paranaense,São Paulo,1,1,E,E,NORMAL,R13
+2002,2002-09-22,Paysandu,Ponte Preta,4,3,V,D,NORMAL,R13
+2002,2002-09-22,Guarani,Juventude,0,0,E,E,NORMAL,R13
+2002,2002-09-22,São Caetano,Bahia,1,0,V,D,NORMAL,R13
+2002,2002-09-22,Grêmio,Vitória,4,0,V,D,NORMAL,R13
+2002,2002-09-25,São Paulo,Atlético Mineiro,1,2,D,V,NORMAL,R14
+2002,2002-09-25,Cruzeiro,Vasco,4,0,V,D,NORMAL,R14
+2002,2002-09-25,Internacional,Bahia,1,0,V,D,NORMAL,R14
+2002,2002-09-25,Fluminense,Athletico Paranaense,0,1,D,V,NORMAL,R14
+2002,2002-09-25,Paraná,Guarani,1,2,D,V,NORMAL,R14
+2002,2002-09-25,Vitória,São Caetano,2,2,E,E,NORMAL,R14
+2002,2002-09-25,Ponte Preta,Figueirense,3,2,V,D,NORMAL,R14
+2002,2002-09-25,Juventude,Corinthians,0,1,D,V,NORMAL,R14
+2002,2002-09-26,Gama,Santos,0,0,E,E,NORMAL,R14
+2002,2002-09-26,Coritiba,Portuguesa,2,0,V,D,NORMAL,R14
+2002,2002-09-26,Palmeiras,Paysandu,1,0,V,D,NORMAL,R14
+2002,2002-09-26,Flamengo,Grêmio,2,3,D,V,NORMAL,R14
+2002,2002-09-28,Internacional,Paraná,1,2,D,V,NORMAL,R15
+2002,2002-09-28,Fluminense,Guarani,2,1,V,D,NORMAL,R15
+2002,2002-09-28,Bahia,Botafogo,1,2,D,V,NORMAL,R15
+2002,2002-09-28,Cruzeiro,Juventude,2,1,V,D,NORMAL,R15
+2002,2002-09-28,Athletico Paranaense,São Caetano,0,1,D,V,NORMAL,R15
+2002,2002-09-29,Vasco,Portuguesa,4,0,V,D,NORMAL,R15
+2002,2002-09-29,São Paulo,Corinthians,2,2,E,E,NORMAL,R15
+2002,2002-09-29,Paysandu,Atlético Mineiro,5,2,V,D,NORMAL,R15
+2002,2002-09-29,Ponte Preta,Flamengo,3,1,V,D,NORMAL,R15
+2002,2002-09-29,Figueirense,Gama,2,1,V,D,NORMAL,R15
+2002,2002-09-29,Goiás,Grêmio,4,1,V,D,NORMAL,R15
+2002,2002-09-29,Santos,Palmeiras,1,1,E,E,NORMAL,R15
+2002,2002-10-02,Grêmio,Paysandu,3,0,V,D,NORMAL,R16
+2002,2002-10-02,Botafogo,Ponte Preta,2,1,V,D,NORMAL,R16
+2002,2002-10-02,Gama,Internacional,1,1,E,E,NORMAL,R16
+2002,2002-10-02,São Caetano,Coritiba,1,0,V,D,NORMAL,R16
+2002,2002-10-02,Palmeiras,São Paulo,1,1,E,E,NORMAL,R16
+2002,2002-10-02,Vitória,Fluminense,2,1,V,D,NORMAL,R16
+2002,2002-10-02,Juventude,Goiás,2,1,V,D,NORMAL,R16
+2002,2002-10-02,Flamengo,Bahia,1,1,E,E,NORMAL,R16
+2002,2002-10-03,Paraná,Cruzeiro,1,1,E,E,NORMAL,R16
+2002,2002-10-03,Corinthians,Santos,2,4,D,V,NORMAL,R16
+2002,2002-10-03,Atlético Mineiro,Figueirense,0,2,D,V,NORMAL,R16
+2002,2002-10-05,Botafogo,São Caetano,1,1,E,E,NORMAL,R17
+2002,2002-10-05,Flamengo,São Paulo,2,3,D,V,NORMAL,R17
+2002,2002-10-05,Gama,Paysandu,2,0,V,D,NORMAL,R17
+2002,2002-10-05,Palmeiras,Portuguesa,2,1,V,D,NORMAL,R17
+2002,2002-10-05,Goiás,Athletico Paranaense,0,0,E,E,NORMAL,R17
+2002,2002-10-05,Guarani,Vasco,1,2,D,V,NORMAL,R17
+2002,2002-10-08,Fluminense,Paraná,3,2,V,D,NORMAL,R18
+2002,2002-10-08,São Paulo,Coritiba,3,1,V,D,NORMAL,R18
+2002,2002-10-08,Guarani,Gama,3,1,V,D,NORMAL,R18
+2002,2002-10-09,Grêmio,Botafogo,1,1,E,E,NORMAL,R18
+2002,2002-10-09,Flamengo,São Caetano,2,0,V,D,NORMAL,R18
+2002,2002-10-09,Corinthians,Figueirense,2,2,E,E,NORMAL,R18
+2002,2002-10-09,Santos,Atlético Mineiro,3,2,V,D,NORMAL,R18
+2002,2002-10-09,Athletico Paranaense,Ponte Preta,0,1,D,V,NORMAL,R18
+2002,2002-10-09,Paysandu,Bahia,3,2,V,D,NORMAL,R18
+2002,2002-10-09,Vitória,Cruzeiro,4,2,V,D,NORMAL,R18
+2002,2002-10-09,Juventude,Portuguesa,1,1,E,E,NORMAL,R18
+2002,2002-10-09,Goiás,Palmeiras,4,2,V,D,NORMAL,R18
+2002,2002-10-12,Palmeiras,Juventude,2,2,E,E,NORMAL,R19
+2002,2002-10-12,Figueirense,São Paulo,0,3,D,V,NORMAL,R19
+2002,2002-10-12,São Caetano,Vasco,2,0,V,D,NORMAL,R19
+2002,2002-10-12,Paraná,Vitória,1,0,V,D,NORMAL,R19
+2002,2002-10-13,Botafogo,Paysandu,1,0,V,D,NORMAL,R19
+2002,2002-10-13,Portuguesa,Athletico Paranaense,1,1,E,E,NORMAL,R19
+2002,2002-10-13,Ponte Preta,Goiás,3,2,V,D,NORMAL,R19
+2002,2002-10-13,Cruzeiro,Santos,1,4,D,V,NORMAL,R19
+2002,2002-10-13,Internacional,Fluminense,2,2,E,E,NORMAL,R19
+2002,2002-10-13,Coritiba,Guarani,0,1,D,V,NORMAL,R19
+2002,2002-10-13,Gama,Corinthians,1,3,D,V,NORMAL,R19
+2002,2002-10-13,Bahia,Atlético Mineiro,5,3,V,D,NORMAL,R19
+2002,2002-10-16,Paysandu,Paraná,3,1,V,D,NORMAL,R20
+2002,2002-10-16,Vasco,Flamengo,2,1,V,D,NORMAL,R20
+2002,2002-10-16,Coritiba,Grêmio,0,0,E,E,NORMAL,R20
+2002,2002-10-16,Internacional,Goiás,1,2,D,V,NORMAL,R20
+2002,2002-10-16,Figueirense,Athletico Paranaense,3,2,V,D,NORMAL,R20
+2002,2002-10-16,Gama,Juventude,1,0,V,D,NORMAL,R20
+2002,2002-10-16,São Paulo,Santos,3,2,V,D,NORMAL,R20
+2002,2002-10-16,Bahia,Ponte Preta,2,1,V,D,NORMAL,R20
+2002,2002-10-17,Palmeiras,Guarani,4,2,V,D,NORMAL,R20
+2002,2002-10-17,Botafogo,Vitória,1,4,D,V,NORMAL,R20
+2002,2002-10-17,Atlético Mineiro,São Caetano,2,1,V,D,NORMAL,R20
+2002,2002-10-19,Santos,Portuguesa,1,2,D,V,NORMAL,R21
+2002,2002-10-19,Vasco,Paraná,1,0,V,D,NORMAL,R21
+2002,2002-10-19,Grêmio,Gama,3,1,V,D,NORMAL,R21
+2002,2002-10-20,Corinthians,Ponte Preta,1,0,V,D,NORMAL,R21
+2002,2002-10-20,Fluminense,Bahia,1,0,V,D,NORMAL,R21
+2002,2002-10-20,Cruzeiro,Atlético Mineiro,1,2,D,V,NORMAL,R21
+2002,2002-10-20,Guarani,São Paulo,1,2,D,V,NORMAL,R21
+2002,2002-10-20,Vitória,Flamengo,1,2,D,V,NORMAL,R21
+2002,2002-10-20,São Caetano,Paysandu,2,1,V,D,NORMAL,R21
+2002,2002-10-20,Goiás,Figueirense,1,0,V,D,NORMAL,R21
+2002,2002-10-20,Athletico Paranaense,Internacional,2,3,D,V,NORMAL,R21
+2002,2002-10-20,Juventude,Coritiba,5,3,V,D,NORMAL,R21
+2002,2002-10-23,Corinthians,Palmeiras,2,2,E,E,NORMAL,R22
+2002,2002-10-23,Portuguesa,Guarani,2,0,V,D,NORMAL,R22
+2002,2002-10-23,São Caetano,Cruzeiro,1,1,E,E,NORMAL,R22
+2002,2002-10-23,Figueirense,Flamengo,2,1,V,D,NORMAL,R22
+2002,2002-10-23,Fluminense,Goiás,2,2,E,E,NORMAL,R22
+2002,2002-10-23,Paraná,Gama,2,1,V,D,NORMAL,R22
+2002,2002-10-23,Paysandu,Santos,2,1,V,D,NORMAL,R22
+2002,2002-10-23,Ponte Preta,Vitória,1,1,E,E,NORMAL,R22
+2002,2002-10-23,Bahia,Vasco,4,2,V,D,NORMAL,R22
+2002,2002-10-26,Botafogo,Fluminense,2,3,D,V,NORMAL,R23
+2002,2002-10-26,Portuguesa,São Paulo,1,3,D,V,NORMAL,R23
+2002,2002-10-26,Internacional,Grêmio,0,1,D,V,NORMAL,R23
+2002,2002-10-26,Santos,Flamengo,3,0,V,D,NORMAL,R23
+2002,2002-10-26,Athletico Paranaense,Coritiba,1,0,V,D,NORMAL,R23
+2002,2002-10-26,Gama,Goiás,0,1,D,V,NORMAL,R23
+2002,2002-10-26,Juventude,Figueirense,3,2,V,D,NORMAL,R23
+2002,2002-10-28,Guarani,Ponte Preta,2,4,D,V,NORMAL,R23
+2002,2002-10-30,Flamengo,Corinthians,0,1,D,V,NORMAL,R24
+2002,2002-10-30,Palmeiras,Botafogo,2,1,V,D,NORMAL,R24
+2002,2002-10-30,Atlético Mineiro,Internacional,3,2,V,D,NORMAL,R24
+2002,2002-10-30,Grêmio,Athletico Paranaense,2,1,V,D,NORMAL,R24
+2002,2002-10-30,Coritiba,Cruzeiro,3,1,V,D,NORMAL,R24
+2002,2002-10-30,Paysandu,Goiás,1,2,D,V,NORMAL,R24
+2002,2002-10-30,Bahia,Santos,1,1,E,E,NORMAL,R24
+2002,2002-10-30,Figueirense,São Caetano,1,2,D,V,NORMAL,R24
+2002,2002-10-31,Fluminense,Vasco,2,1,V,D,NORMAL,R24
+2002,2002-10-31,São Paulo,Ponte Preta,5,2,V,D,NORMAL,R24
+2002,2002-10-31,Paraná,Juventude,3,1,V,D,NORMAL,R24
+2002,2002-11-02,Flamengo,Botafogo,2,0,V,D,NORMAL,R25
+2002,2002-11-02,Guarani,Santos,0,2,D,V,NORMAL,R25
+2002,2002-11-02,Internacional,Coritiba,0,1,D,V,NORMAL,R25
+2002,2002-11-03,Vasco,Palmeiras,1,0,V,D,NORMAL,R25
+2002,2002-11-03,Corinthians,Fluminense,0,2,D,V,NORMAL,R25
+2002,2002-11-03,Cruzeiro,Grêmio,3,2,V,D,NORMAL,R25
+2002,2002-11-03,Ponte Preta,Portuguesa,0,0,E,E,NORMAL,R25
+2002,2002-11-03,Athletico Paranaense,Atlético Mineiro,2,2,E,E,NORMAL,R25
+2002,2002-11-03,Paysandu,Figueirense,2,1,V,D,NORMAL,R25
+2002,2002-11-03,Goiás,Paraná,4,0,V,D,NORMAL,R25
+2002,2002-11-03,São Caetano,Juventude,2,1,V,D,NORMAL,R25
+2002,2002-11-03,Vitória,Bahia,1,0,V,D,NORMAL,R25
+2002,2002-11-06,Fluminense,Palmeiras,0,3,D,V,NORMAL,R26
+2002,2002-11-06,São Paulo,Vasco,5,3,V,D,NORMAL,R26
+2002,2002-11-06,Athletico Paranaense,Paysandu,2,1,V,D,NORMAL,R26
+2002,2002-11-06,Vitória,Guarani,3,1,V,D,NORMAL,R26
+2002,2002-11-06,Figueirense,Grêmio,0,2,D,V,NORMAL,R26
+2002,2002-11-06,Gama,Cruzeiro,2,3,D,V,NORMAL,R26
+2002,2002-11-06,São Caetano,Internacional,1,1,E,E,NORMAL,R26
+2002,2002-11-07,Atlético Mineiro,Coritiba,3,1,V,D,NORMAL,R26
+2002,2002-11-07,Paraná,Botafogo,2,0,V,D,NORMAL,R26
+2002,2002-11-07,Corinthians,Portuguesa,5,2,V,D,NORMAL,R26
+2002,2002-11-09,Vasco,Vitória,4,1,V,D,NORMAL,R27
+2002,2002-11-09,Cruzeiro,Athletico Paranaense,4,1,V,D,NORMAL,R27
+2002,2002-11-09,Santos,Ponte Preta,1,3,D,V,NORMAL,R27
+2002,2002-11-09,Grêmio,São Caetano,2,2,E,E,NORMAL,R27
+2002,2002-11-09,Paysandu,Fluminense,3,2,V,D,NORMAL,R27
+2002,2002-11-10,Botafogo,Corinthians,2,1,V,D,NORMAL,R27
+2002,2002-11-10,Portuguesa,Flamengo,1,2,D,V,NORMAL,R27
+2002,2002-11-10,Coritiba,Paraná,2,0,V,D,NORMAL,R27
+2002,2002-11-10,Guarani,Bahia,1,1,E,E,NORMAL,R27
+2002,2002-11-10,Juventude,Internacional,3,2,V,D,NORMAL,R27
+2002,2002-11-10,Goiás,Atlético Mineiro,3,1,V,D,NORMAL,R27
+2002,2002-11-13,Vasco,Ponte Preta,2,0,V,D,NORMAL,R28
+2002,2002-11-13,Palmeiras,Flamengo,1,1,E,E,NORMAL,R28
+2002,2002-11-13,Atlético Mineiro,Gama,6,4,V,D,NORMAL,R28
+2002,2002-11-13,Internacional,Cruzeiro,0,1,D,V,NORMAL,R28
+2002,2002-11-13,Coritiba,Figueirense,1,2,D,V,NORMAL,R28
+2002,2002-11-13,Bahia,Corinthians,0,0,E,E,NORMAL,R28
+2002,2002-11-13,Juventude,Paysandu,0,0,E,E,NORMAL,R28
+2002,2002-11-14,Fluminense,Portuguesa,2,0,V,D,NORMAL,R28
+2002,2002-11-14,São Paulo,Vitória,3,2,V,D,NORMAL,R28
+2002,2002-11-14,Paraná,Grêmio,1,1,E,E,NORMAL,R28
+2002,2002-11-14,Guarani,Botafogo,2,0,V,D,NORMAL,R28
+2002,2002-11-17,Flamengo,Guarani,2,2,E,E,NORMAL,R29
+2002,2002-11-17,Corinthians,Vasco,1,1,E,E,NORMAL,R29
+2002,2002-11-17,Portuguesa,Bahia,2,4,D,V,NORMAL,R29
+2002,2002-11-17,Cruzeiro,Goiás,2,0,V,D,NORMAL,R29
+2002,2002-11-17,Grêmio,Atlético Mineiro,1,0,V,D,NORMAL,R29
+2002,2002-11-17,Athletico Paranaense,Juventude,4,0,V,D,NORMAL,R29
+2002,2002-11-17,Paysandu,Internacional,0,2,D,V,NORMAL,R29
+2002,2002-11-17,Vitória,Palmeiras,4,3,V,D,NORMAL,R29
+2002,2002-11-17,Ponte Preta,Fluminense,2,3,D,V,NORMAL,R29
+2002,2002-11-17,Figueirense,Paraná,2,2,E,E,NORMAL,R29
+2002,2002-11-17,Gama,Coritiba,4,0,V,D,NORMAL,R29
+2002,2002-11-17,São Caetano,Santos,3,2,V,D,NORMAL,R29
+2002,2002-11-17,Botafogo,São Paulo,0,1,D,V,NORMAL,R29
+2002,2002-11-24,Fluminense,São Caetano,3,0,V,D,NORMAL,QF
+2002,2002-11-24,Atlético Mineiro,Corinthians,2,6,D,V,NORMAL,QF
+2002,2002-11-24,Grêmio,Juventude,0,0,E,E,NORMAL,QF
+2002,2002-11-24,Santos,São Paulo,3,1,V,D,NORMAL,QF
+2002,2002-11-27,São Caetano,Fluminense,2,0,V,D,NORMAL,QF
+2002,2002-11-27,Corinthians,Atlético Mineiro,2,1,V,D,NORMAL,QF
+2002,2002-11-27,Juventude,Grêmio,0,1,D,V,NORMAL,QF
+2002,2002-11-28,São Paulo,Santos,1,2,D,V,NORMAL,QF
+2002,2002-12-01,Fluminense,Corinthians,1,0,V,D,NORMAL,SF
+2002,2002-12-01,Santos,Grêmio,3,0,V,D,NORMAL,SF
+2002,2002-12-04,Corinthians,Fluminense,3,2,V,D,NORMAL,SF
+2002,2002-12-04,Grêmio,Santos,1,0,V,D,NORMAL,SF
+2002,2002-12-08,Santos,Corinthians,2,0,V,D,NORMAL,F
+2002,2002-12-15,Corinthians,Santos,2,3,D,V,NORMAL,F

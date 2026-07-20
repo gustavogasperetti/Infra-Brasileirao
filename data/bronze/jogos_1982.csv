@@ -1,0 +1,292 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+1982-01-16,São Paulo,5-0,Treze,C
+1982-01-17,Santos,1-0,Vasco,A
+1982-01-17,Moto Club,0-0,Paysandu,A
+1982-01-17,Botafogo,1-2,Guarani,B
+1982-01-17,América-RN,1-2,Ceará,B
+1982-01-17,Ferroviário,1-2,Náutico,C
+1982-01-17,Itabaiana,0-1,Inter de Limeira,D
+1982-01-17,CSA,1-2,Sport,D
+1982-01-17,Bahia,3-2,Mixto,E
+1982-01-17,Bangu,3-0,Cruzeiro,E
+1982-01-17,Desportiva Ferroviária,0-2,Atlético Mineiro,F
+1982-01-17,São José,1-0,Grêmio,F
+1982-01-17,Ponte Preta,1-0,Goiás,G
+1982-01-17,Internacional,3-0,Grêmio Maringá,G
+1982-01-17,Londrina,3-0,Joinville,H
+1982-01-17,Anapolina,1-1,XV de Jaú,H
+1982-01-20,Santos,4-1,Moto Club,A
+1982-01-20,Paysandu,1-1,Nacional-AM,A
+1982-01-20,Guarani,4-2,América-RN,B
+1982-01-20,Ceará,3-1,River-PI,B
+1982-01-20,Flamengo,3-2,São Paulo,C
+1982-01-20,Treze,1-1,Náutico,C
+1982-01-20,Sport,4-0,Itabaiana,D
+1982-01-20,Inter de Limeira,2-2,Fluminense,D
+1982-01-20,Bangu,0-0,Bahia,E
+1982-01-20,Mixto,1-2,Operário-MS,E
+1982-01-20,Grêmio,2-0,Desportiva Ferroviária,F
+1982-01-20,Atlético Mineiro,1-0,Vitória,F
+1982-01-20,Goiás,3-0,Taguatinga,G
+1982-01-20,Grêmio Maringá,0-0,Ponte Preta,G
+1982-01-20,Joinville,0-3,Inter SM,H
+1982-01-20,XV de Jaú,3-0,Londrina,H
+1982-01-24,Vasco,7-0,Moto Club,A
+1982-01-24,Nacional-AM,2-2,Santos,A
+1982-01-24,River-PI,1-3,Guarani,B
+1982-01-24,Botafogo,2-0,América-RN,B
+1982-01-24,Náutico,3-4,Flamengo,C
+1982-01-24,Ferroviário,0-2,Treze,C
+1982-01-24,Fluminense,1-2,Sport,D
+1982-01-24,CSA,2-0,Itabaiana,D
+1982-01-24,Cruzeiro,2-0,Bahia,E
+1982-01-24,Operário-MS,2-3,Bangu,E
+1982-01-24,Vitória,0-2,Grêmio,F
+1982-01-24,São José,2-1,Desportiva Ferroviária,F
+1982-01-24,Taguatinga,1-2,Grêmio Maringá,G
+1982-01-24,Internacional,1-1,Ponte Preta,G
+1982-01-24,Anapolina,3-1,Londrina,H
+1982-01-24,Inter SM,2-1,XV de Jaú,H
+1982-01-28,Nacional-AM,0-1,Vasco,A
+1982-01-28,Paysandu,0-0,Santos,A
+1982-01-28,Ceará,1-1,Guarani,B
+1982-01-28,River-PI,1-3,Botafogo,B
+1982-01-28,Flamengo,5-0,Treze,C
+1982-01-28,São Paulo,4-0,Ferroviário,C
+1982-01-28,Fluminense,2-0,CSA,D
+1982-01-28,Inter de Limeira,2-3,Sport,D
+1982-01-28,Mixto,2-1,Bangu,E
+1982-01-28,Operário-MS,1-0,Cruzeiro,E
+1982-01-28,Atlético Mineiro,1-1,Grêmio,F
+1982-01-28,Vitória,1-0,São José,F
+1982-01-28,Taguatinga,1-2,Internacional,G
+1982-01-28,Goiás,1-1,Grêmio Maringá,G
+1982-01-28,Inter SM,0-0,Anapolina,H
+1982-01-28,Joinville,3-0,XV de Jaú,H
+1982-01-31,Moto Club,0-0,Nacional-AM,A
+1982-01-31,Paysandu,1-3,Vasco,A
+1982-01-31,América-RN,1-0,River-PI,B
+1982-01-31,Ceará,0-0,Botafogo,B
+1982-01-31,Náutico,1-4,São Paulo,C
+1982-01-31,Flamengo,3-0,Ferroviário,C
+1982-01-31,Inter de Limeira,2-2,CSA,D
+1982-01-31,Itabaiana,0-4,Fluminense,D
+1982-01-31,Mixto,4-2,Cruzeiro,E
+1982-01-31,Bahia,1-1,Operário-MS,E
+1982-01-31,Desportiva Ferroviária,3-1,Vitória,F
+1982-01-31,Atlético Mineiro,0-0,São José,F
+1982-01-31,Ponte Preta,3-1,Taguatinga,G
+1982-01-31,Goiás,1-0,Internacional,G
+1982-01-31,Londrina,3-0,Inter SM,H
+1982-01-31,Joinville,0-1,Anapolina,H
+1982-02-03,Santos,3-1,Nacional-AM,A
+1982-02-03,Moto Club,1-2,Vasco,A
+1982-02-03,América-RN,0-3,Botafogo,B
+1982-02-03,Treze,0-3,São Paulo,C
+1982-02-03,Sport,0-0,Fluminense,D
+1982-02-03,Bangu,3-0,Operário-MS,E
+1982-02-03,Bahia,3-0,Cruzeiro,E
+1982-02-03,Grêmio,0-1,Vitória,F
+1982-02-03,Desportiva Ferroviária,0-1,São José,F
+1982-02-03,Ponte Preta,0-0,Internacional,G
+1982-02-03,Grêmio Maringá,2-0,Taguatinga,G
+1982-02-03,Londrina,1-0,Anapolina,H
+1982-02-03,XV de Jaú,1-1,Inter SM,H
+1982-02-04,Guarani,8-0,River-PI,B
+1982-02-04,Náutico,2-3,Ferroviário,C
+1982-02-04,Itabaiana,0-0,CSA,D
+1982-02-06,Internacional,6-1,Taguatinga,G
+1982-02-07,Santos,4-1,Paysandu,A
+1982-02-07,Vasco,4-0,Nacional-AM,A
+1982-02-07,Guarani,8-1,Ceará,B
+1982-02-07,Botafogo,5-2,River-PI,B
+1982-02-07,Treze,1-3,Flamengo,C
+1982-02-07,Ferroviário,1-2,São Paulo,C
+1982-02-07,CSA,3-3,Fluminense,D
+1982-02-07,Sport,1-0,Inter de Limeira,D
+1982-02-07,Cruzeiro,1-3,Operário-MS,E
+1982-02-07,Bangu,3-1,Mixto,E
+1982-02-07,São José,2-1,Vitória,F
+1982-02-07,Grêmio,2-0,Atlético Mineiro,F
+1982-02-07,Grêmio Maringá,2-2,Goiás,G
+1982-02-07,XV de Jaú,1-0,Joinville,H
+1982-02-07,Anapolina,3-1,Inter SM,H
+1982-02-10,Vasco,2-0,Paysandu,A
+1982-02-10,Nacional-AM,0-1,Moto Club,A
+1982-02-10,Botafogo,1-0,Ceará,B
+1982-02-10,River-PI,0-1,América-RN,B
+1982-02-10,São Paulo,1-1,Náutico,C
+1982-02-10,Ferroviário,1-2,Flamengo,C
+1982-02-10,Fluminense,2-0,Itabaiana,D
+1982-02-10,CSA,1-1,Inter de Limeira,D
+1982-02-10,Cruzeiro,3-0,Mixto,E
+1982-02-10,Operário-MS,0-0,Bahia,E
+1982-02-10,São José,0-0,Atlético Mineiro,F
+1982-02-10,Vitória,2-4,Desportiva Ferroviária,F
+1982-02-10,Internacional,5-0,Goiás,G
+1982-02-10,Taguatinga,0-2,Ponte Preta,G
+1982-02-10,Inter SM,2-2,Londrina,H
+1982-02-10,Anapolina,4-2,Joinville,H
+1982-02-13,Flamengo,1-1,Náutico,C
+1982-02-13,Cruzeiro,2-1,Bangu,E
+1982-02-14,Paysandu,0-0,Moto Club,A
+1982-02-14,Vasco,3-0,Santos,A
+1982-02-14,Guarani,4-1,Botafogo,B
+1982-02-14,Ceará,3-2,América-RN,B
+1982-02-14,Treze,2-0,Ferroviário,C
+1982-02-14,Sport,3-0,CSA,D
+1982-02-14,Inter de Limeira,5-1,Itabaiana,D
+1982-02-14,Mixto,0-1,Bahia,E
+1982-02-14,Atlético Mineiro,7-1,Desportiva Ferroviária,F
+1982-02-14,Grêmio,1-0,São José,F
+1982-02-14,Goiás,1-1,Ponte Preta,G
+1982-02-14,Grêmio Maringá,2-0,Internacional,G
+1982-02-14,XV de Jaú,2-3,Anapolina,H
+1982-02-14,Joinville,3-1,Londrina,H
+1982-02-16,São Paulo,3-4,Flamengo,C
+1982-02-17,Moto Club,2-1,Santos,A
+1982-02-17,Nacional-AM,1-1,Paysandu,A
+1982-02-17,River-PI,1-2,Ceará,B
+1982-02-17,América-RN,1-2,Guarani,B
+1982-02-17,Náutico,0-0,Treze,C
+1982-02-17,Itabaiana,1-0,Sport,D
+1982-02-17,Fluminense,0-0,Inter de Limeira,D
+1982-02-17,Operário-MS,2-0,Mixto,E
+1982-02-17,Bahia,1-1,Bangu,E
+1982-02-17,Ponte Preta,1-0,Grêmio Maringá,G
+1982-02-17,Taguatinga,3-1,Goiás,G
+1982-02-17,Londrina,0-1,XV de Jaú,H
+1982-02-17,Inter SM,3-3,Joinville,H
+1982-02-18,Vitória,1-0,Atlético Mineiro,F
+1982-02-18,Desportiva Ferroviária,1-0,Grêmio,F
+1982-02-20,Paysandu,3-1,América-RN,1F
+1982-02-20,Náutico,6-2,CSA,1F
+1982-02-20,Londrina,1-0,Goiás,1F
+1982-02-24,Cruzeiro,1-0,Desportiva Ferroviária,1F
+1982-02-27,Corinthians,1-1,Flamengo,K
+1982-02-28,America-RJ,1-3,Vasco,I
+1982-02-28,Inter SM,1-0,Operário-MS,I
+1982-02-28,Guarani,2-0,Grêmio,J
+1982-02-28,Náutico,3-0,Grêmio Maringá,J
+1982-02-28,Internacional,1-1,Atlético Mineiro,K
+1982-02-28,Paysandu,0-2,Sport,L
+1982-02-28,Bahia,1-2,XV de Jaú,L
+1982-02-28,Santos,1-0,Inter de Limeira,M
+1982-02-28,São Paulo-RS,1-0,Bangu,M
+1982-02-28,Londrina,1-1,São José,N
+1982-02-28,Treze,0-2,Botafogo,N
+1982-02-28,Atlético Paranaense,1-3,São Paulo,O
+1982-02-28,Ceará,2-3,Ponte Preta,O
+1982-02-28,Moto Club,1-0,Anapolina,P
+1982-02-28,Cruzeiro,2-2,Fluminense,P
+1982-03-06,Operário-MS,2-0,Vasco,I
+1982-03-06,America-RJ,3-0,Inter SM,I
+1982-03-07,Grêmio Maringá,2-2,Grêmio,J
+1982-03-07,Guarani,2-0,Náutico,J
+1982-03-07,Internacional,0-2,Corinthians,K
+1982-03-07,Flamengo,2-1,Atlético Mineiro,K
+1982-03-07,Sport,4-0,XV de Jaú,L
+1982-03-07,Bahia,2-3,Paysandu,L
+1982-03-07,Santos,6-1,São Paulo-RS,M
+1982-03-07,Bangu,2-0,Inter de Limeira,M
+1982-03-07,São José,0-0,Botafogo,N
+1982-03-07,Treze,0-0,Londrina,N
+1982-03-07,São Paulo,2-1,Ponte Preta,O
+1982-03-07,Ceará,1-0,Atlético Paranaense,O
+1982-03-07,Anapolina,3-1,Fluminense,P
+1982-03-07,Cruzeiro,1-0,Moto Club,P
+1982-03-10,Vasco,7-0,Inter SM,I
+1982-03-10,Atlético Mineiro,1-3,Corinthians,K
+1982-03-10,Fluminense,3-0,Moto Club,P
+1982-03-10,Anapolina,1-0,Cruzeiro,P
+1982-03-11,Operário-MS,1-0,America-RJ,I
+1982-03-11,Grêmio Maringá,3-4,Guarani,J
+1982-03-11,Grêmio,0-0,Náutico,J
+1982-03-11,Flamengo,1-1,Internacional,K
+1982-03-11,Sport,0-2,Bahia,L
+1982-03-11,XV de Jaú,1-1,Paysandu,L
+1982-03-11,Inter de Limeira,3-0,São Paulo-RS,M
+1982-03-11,Botafogo,1-3,Londrina,N
+1982-03-11,São José,3-1,Treze,N
+1982-03-11,Ponte Preta,1-1,Atlético Paranaense,O
+1982-03-11,São Paulo,5-2,Ceará,O
+1982-03-11,Bangu,2-0,Santos,M
+1982-03-13,Fluminense,6-1,Anapolina,P
+1982-03-14,Vasco,7-1,Operário-MS,I
+1982-03-14,Inter SM,0-1,America-RJ,I
+1982-03-14,Náutico,2-2,Guarani,J
+1982-03-14,Grêmio,4-1,Grêmio Maringá,J
+1982-03-14,Corinthians,1-0,Internacional,K
+1982-03-14,Atlético Mineiro,3-1,Flamengo,K
+1982-03-14,XV de Jaú,2-2,Sport,L
+1982-03-14,Paysandu,1-3,Bahia,L
+1982-03-14,Inter de Limeira,2-2,Bangu,M
+1982-03-14,São Paulo-RS,0-0,Santos,M
+1982-03-14,Botafogo,0-1,São José,N
+1982-03-14,Londrina,3-1,Treze,N
+1982-03-14,Atlético Paranaense,0-3,Ceará,O
+1982-03-14,Ponte Preta,1-0,São Paulo,O
+1982-03-14,Moto Club,0-1,Cruzeiro,P
+1982-03-17,Vasco,2-2,America-RJ,I
+1982-03-17,Operário-MS,0-0,Inter SM,I
+1982-03-17,Náutico,0-1,Grêmio,J
+1982-03-17,Guarani,3-1,Grêmio Maringá,J
+1982-03-17,Corinthians,2-1,Atlético Mineiro,K
+1982-03-17,Internacional,2-3,Flamengo,K
+1982-03-17,Paysandu,1-1,XV de Jaú,L
+1982-03-17,Bahia,0-0,Sport,L
+1982-03-17,Santos,1-0,Bangu,M
+1982-03-17,São Paulo-RS,2-2,Inter de Limeira,M
+1982-03-17,Londrina,1-1,Botafogo,N
+1982-03-17,Treze,0-3,São José,N
+1982-03-17,Ceará,2-3,São Paulo,O
+1982-03-17,Atlético Paranaense,0-0,Ponte Preta,O
+1982-03-17,Moto Club,0-3,Fluminense,P
+1982-03-17,Cruzeiro,0-1,Anapolina,P
+1982-03-23,Grêmio,2-0,Guarani,J
+1982-03-24,Botafogo,1-3,Treze,N
+1982-03-24,São José,0-0,Londrina,N
+1982-03-24,Fluminense,4-0,Cruzeiro,P
+1982-03-24,Anapolina,3-1,Moto Club,P
+1982-03-25,Inter SM,3-0,Vasco,I
+1982-03-25,America-RJ,0-1,Operário-MS,I
+1982-03-25,Grêmio Maringá,0-0,Náutico,J
+1982-03-25,Atlético Mineiro,2-1,Internacional,K
+1982-03-25,Flamengo,2-0,Corinthians,K
+1982-03-25,XV de Jaú,1-1,Bahia,L
+1982-03-25,Sport,3-0,Paysandu,L
+1982-03-25,Inter de Limeira,0-1,Santos,M
+1982-03-25,Bangu,1-0,São Paulo-RS,M
+1982-03-25,Ponte Preta,0-1,Ceará,O
+1982-03-25,São Paulo,1-0,Atlético Paranaense,O
+1982-03-28,Vasco,1-1,Grêmio,1/8
+1982-03-28,Operário-MS,1-1,Guarani,1/8
+1982-03-28,Flamengo,2-0,Sport,1/8
+1982-03-28,Londrina,0-0,Santos,1/8
+1982-03-28,Bangu,3-1,São José,1/8
+1982-03-28,Bahia,1-1,Corinthians,1/8
+1982-03-28,Ceará,1-2,Fluminense,1/8
+1982-03-28,Anapolina,3-1,São Paulo,1/8
+1982-03-31,Grêmio,1-0,Vasco,1/8
+1982-03-31,Guarani,1-0,Operário-MS,1/8
+1982-03-31,São Paulo,4-0,Anapolina,1/8
+1982-03-31,Sport,2-1,Flamengo,1/8
+1982-03-31,Santos,1-0,Londrina,1/8
+1982-03-31,São José,2-2,Bangu,1/8
+1982-03-31,Corinthians,5-2,Bahia,1/8
+1982-03-31,Fluminense,2-0,Ceará,1/8
+1982-04-03,Flamengo,2-1,Santos,QF
+1982-04-04,Grêmio,1-1,Fluminense,QF
+1982-04-04,São Paulo,0-1,Guarani,QF
+1982-04-04,Bangu,0-1,Corinthians,QF
+1982-04-06,Santos,1-1,Flamengo,QF
+1982-04-07,Fluminense,1-2,Grêmio,QF
+1982-04-07,Guarani,2-0,São Paulo,QF
+1982-04-07,Corinthians,1-2,Bangu,QF
+1982-04-11,Corinthians,1-2,Grêmio,SF
+1982-04-11,Flamengo,2-1,Guarani,SF
+1982-04-14,Grêmio,3-1,Corinthians,SF
+1982-04-15,Guarani,2-3,Flamengo,SF
+1982-04-18,Flamengo,1-1,Grêmio,F
+1982-04-21,Grêmio,0-0,Flamengo,F
+1982-04-25,Grêmio,0-1,Flamengo,F

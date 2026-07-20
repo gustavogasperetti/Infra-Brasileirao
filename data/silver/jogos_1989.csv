@@ -1,0 +1,196 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1989,1989-09-06,Botafogo,Internacional,2,1,V,D,NORMAL,A
+1989,1989-09-06,Bahia,Fluminense,1,2,D,V,NORMAL,B
+1989,1989-09-07,Athletico Paranaense,São Paulo,0,0,E,E,NORMAL,A
+1989,1989-09-07,Corinthians,Inter de Limeira,0,2,D,V,NORMAL,A
+1989,1989-09-07,Flamengo,Atlético Mineiro,0,0,E,E,NORMAL,A
+1989,1989-09-07,Vitória,Guarani,0,1,D,V,NORMAL,A
+1989,1989-09-07,Coritiba,Grêmio,2,1,V,D,NORMAL,B
+1989,1989-09-07,Cruzeiro,Vasco,0,1,D,V,NORMAL,B
+1989,1989-09-07,Palmeiras,Santos,0,0,E,E,NORMAL,B
+1989,1989-09-07,Sport,Goiás,0,1,D,V,NORMAL,B
+1989,1989-09-09,Guarani,Corinthians,1,3,D,V,NORMAL,A
+1989,1989-09-09,Santos,Fluminense,0,1,D,V,NORMAL,B
+1989,1989-09-10,Athletico Paranaense,Flamengo,1,1,E,E,NORMAL,A
+1989,1989-09-10,Inter de Limeira,Náutico,3,2,V,D,NORMAL,A
+1989,1989-09-10,Internacional,Atlético Mineiro,1,0,V,D,NORMAL,A
+1989,1989-09-10,São Paulo,Vitória,0,0,E,E,NORMAL,A
+1989,1989-09-10,Bahia,Grêmio,3,2,V,D,NORMAL,B
+1989,1989-09-10,Goiás,Portuguesa,2,1,V,D,NORMAL,B
+1989,1989-09-10,Sport,Palmeiras,1,1,E,E,NORMAL,B
+1989,1989-09-10,Vasco,Coritiba,1,1,E,E,NORMAL,B
+1989,1989-09-16,Náutico,São Paulo,3,3,E,E,NORMAL,A
+1989,1989-09-16,Botafogo,Athletico Paranaense,3,0,V,D,NORMAL,A
+1989,1989-09-16,Vitória,Internacional,0,2,D,V,NORMAL,A
+1989,1989-09-16,Portuguesa,Fluminense,4,1,V,D,NORMAL,B
+1989,1989-09-17,Guarani,Inter de Limeira,0,0,E,E,NORMAL,A
+1989,1989-09-17,Flamengo,Corinthians,0,1,D,V,NORMAL,A
+1989,1989-09-17,Cruzeiro,Bahia,2,0,V,D,NORMAL,B
+1989,1989-09-17,Palmeiras,Goiás,2,0,V,D,NORMAL,B
+1989,1989-09-17,Santos,Vasco,1,2,D,V,NORMAL,B
+1989,1989-09-17,Grêmio,Sport,2,0,V,D,NORMAL,B
+1989,1989-09-20,Vitória,Inter de Limeira,2,1,V,D,NORMAL,A
+1989,1989-09-20,Flamengo,Botafogo,1,0,V,D,NORMAL,A
+1989,1989-09-20,Atlético Mineiro,São Paulo,4,1,V,D,NORMAL,A
+1989,1989-09-20,Guarani,Athletico Paranaense,0,1,D,V,NORMAL,A
+1989,1989-09-20,Náutico,Corinthians,1,0,V,D,NORMAL,A
+1989,1989-09-20,Grêmio,Cruzeiro,2,0,V,D,NORMAL,B
+1989,1989-09-20,Fluminense,Coritiba,2,0,V,D,NORMAL,B
+1989,1989-09-20,Santos,Goiás,0,0,E,E,NORMAL,B
+1989,1989-09-20,Portuguesa,Sport,1,1,E,E,NORMAL,B
+1989,1989-09-23,Atlético Mineiro,Botafogo,2,0,V,D,NORMAL,A
+1989,1989-09-23,Coritiba,Cruzeiro,0,0,E,E,NORMAL,B
+1989,1989-09-24,Corinthians,São Paulo,2,1,V,D,NORMAL,A
+1989,1989-09-24,Vitória,Flamengo,0,0,E,E,NORMAL,A
+1989,1989-09-24,Náutico,Guarani,1,2,D,V,NORMAL,A
+1989,1989-09-24,Internacional,Athletico Paranaense,0,0,E,E,NORMAL,A
+1989,1989-09-24,Vasco,Bahia,2,2,E,E,NORMAL,B
+1989,1989-09-24,Fluminense,Sport,2,0,V,D,NORMAL,B
+1989,1989-09-24,Grêmio,Santos,0,0,E,E,NORMAL,B
+1989,1989-09-24,Portuguesa,Palmeiras,1,0,V,D,NORMAL,B
+1989,1989-09-27,Palmeiras,Grêmio,2,0,V,D,NORMAL,B
+1989,1989-09-27,Santos,Bahia,3,1,V,D,NORMAL,B
+1989,1989-09-27,Portuguesa,Cruzeiro,0,0,E,E,NORMAL,B
+1989,1989-09-28,Flamengo,Guarani,2,1,V,D,NORMAL,A
+1989,1989-09-30,São Paulo,Internacional,2,1,V,D,NORMAL,A
+1989,1989-09-30,Sport,Santos,2,0,V,D,NORMAL,B
+1989,1989-10-01,Corinthians,Vitória,2,0,V,D,NORMAL,A
+1989,1989-10-01,Guarani,Botafogo,2,0,V,D,NORMAL,A
+1989,1989-10-01,Inter de Limeira,Atlético Mineiro,0,2,D,V,NORMAL,A
+1989,1989-10-01,Athletico Paranaense,Náutico,3,0,V,D,NORMAL,A
+1989,1989-10-01,Goiás,Coritiba,2,3,D,V,NORMAL,B
+1989,1989-10-01,Cruzeiro,Palmeiras,2,1,V,D,NORMAL,B
+1989,1989-10-01,Fluminense,Vasco,0,0,E,E,NORMAL,B
+1989,1989-10-01,Bahia,Portuguesa,0,0,E,E,NORMAL,B
+1989,1989-10-04,Atlético Mineiro,Corinthians,1,1,E,E,NORMAL,A
+1989,1989-10-04,Vitória,Athletico Paranaense,2,1,V,D,NORMAL,A
+1989,1989-10-04,Botafogo,Náutico,1,1,E,E,NORMAL,A
+1989,1989-10-04,Internacional,Inter de Limeira,0,0,E,E,NORMAL,A
+1989,1989-10-04,Coritiba,Sport,2,1,V,D,NORMAL,B
+1989,1989-10-04,Vasco,Goiás,4,1,V,D,NORMAL,B
+1989,1989-10-04,Coritiba,Palmeiras,1,3,D,V,NORMAL,B
+1989,1989-10-07,São Paulo,Botafogo,1,1,E,E,NORMAL,A
+1989,1989-10-08,Inter de Limeira,Athletico Paranaense,1,1,E,E,NORMAL,A
+1989,1989-10-08,Náutico,Vitória,4,0,V,D,NORMAL,A
+1989,1989-10-08,Internacional,Flamengo,0,0,E,E,NORMAL,A
+1989,1989-10-08,Atlético Mineiro,Guarani,0,0,E,E,NORMAL,A
+1989,1989-10-08,Santos,Portuguesa,1,1,E,E,NORMAL,B
+1989,1989-10-08,Goiás,Bahia,1,0,V,D,NORMAL,B
+1989,1989-10-08,Vasco,Grêmio,3,1,V,D,NORMAL,B
+1989,1989-10-08,Fluminense,Cruzeiro,1,1,E,E,NORMAL,B
+1989,1989-10-12,Palmeiras,Bahia,2,0,V,D,NORMAL,B
+1989,1989-10-14,Flamengo,Náutico,2,0,V,D,NORMAL,A
+1989,1989-10-14,Goiás,Fluminense,2,0,V,D,NORMAL,B
+1989,1989-10-14,Grêmio,Portuguesa,2,1,V,D,NORMAL,B
+1989,1989-10-15,Inter de Limeira,São Paulo,0,0,E,E,NORMAL,A
+1989,1989-10-15,Botafogo,Vitória,2,0,V,D,NORMAL,A
+1989,1989-10-15,Corinthians,Internacional,1,0,V,D,NORMAL,A
+1989,1989-10-15,Athletico Paranaense,Atlético Mineiro,2,2,E,E,NORMAL,A
+1989,1989-10-15,Cruzeiro,Santos,0,0,E,E,NORMAL,B
+1989,1989-10-15,Bahia,Coritiba,1,1,E,E,NORMAL,B
+1989,1989-10-18,Athletico Paranaense,Corinthians,0,1,D,V,NORMAL,A
+1989,1989-10-18,Náutico,Atlético Mineiro,3,2,V,D,NORMAL,A
+1989,1989-10-18,Guarani,Internacional,0,1,D,V,NORMAL,A
+1989,1989-10-18,São Paulo,Flamengo,3,0,V,D,NORMAL,A
+1989,1989-10-18,Botafogo,Inter de Limeira,1,0,V,D,NORMAL,A
+1989,1989-10-18,Bahia,Sport,1,2,D,V,NORMAL,B
+1989,1989-10-18,Cruzeiro,Goiás,2,1,V,D,NORMAL,B
+1989,1989-10-18,Portuguesa,Coritiba,3,0,V,D,NORMAL,B
+1989,1989-10-18,Palmeiras,Vasco,1,0,V,D,NORMAL,B
+1989,1989-10-18,Grêmio,Fluminense,1,0,V,D,NORMAL,B
+1989,1989-10-21,São Paulo,Guarani,0,0,E,E,NORMAL,A
+1989,1989-10-21,Inter de Limeira,Flamengo,1,0,V,D,NORMAL,A
+1989,1989-10-21,Vasco,Portuguesa,0,0,E,E,NORMAL,B
+1989,1989-10-22,Corinthians,Botafogo,0,0,E,E,NORMAL,A
+1989,1989-10-22,Atlético Mineiro,Vitória,0,0,E,E,NORMAL,A
+1989,1989-10-22,Internacional,Náutico,0,1,D,V,NORMAL,A
+1989,1989-10-22,Goiás,Grêmio,0,0,E,E,NORMAL,B
+1989,1989-10-22,Sport,Cruzeiro,2,1,V,D,NORMAL,B
+1989,1989-10-22,Fluminense,Palmeiras,0,1,D,V,NORMAL,B
+1989,1989-10-22,Coritiba,Santos,,,,,WO,B
+1989,1989-10-25,Sport,Vasco,0,1,D,V,NORMAL,B
+1989,1989-10-28,Grêmio,Inter de Limeira,2,0,V,D,NORMAL,2F
+1989,1989-10-28,Portuguesa,Flamengo,2,0,V,D,NORMAL,2F
+1989,1989-10-28,Botafogo,Cruzeiro,1,2,D,V,NORMAL,2F
+1989,1989-10-29,Atlético Mineiro,Goiás,3,0,V,D,NORMAL,2F
+1989,1989-10-29,Corinthians,Santos,0,0,E,E,NORMAL,2F
+1989,1989-10-29,Náutico,Fluminense,3,2,V,D,NORMAL,2F
+1989,1989-10-29,Vasco,São Paulo,0,0,E,E,NORMAL,2F
+1989,1989-10-29,Athletico Paranaense,Vitória,3,0,V,D,NORMAL,R1
+1989,1989-10-29,Bahia,Guarani,0,0,E,E,NORMAL,R1
+1989,1989-11-02,Palmeiras,Internacional,1,0,V,D,NORMAL,2F
+1989,1989-11-04,Corinthians,Cruzeiro,0,1,D,V,NORMAL,2F
+1989,1989-11-04,Goiás,Botafogo,1,2,D,V,NORMAL,2F
+1989,1989-11-05,São Paulo,Palmeiras,2,2,E,E,NORMAL,2F
+1989,1989-11-05,Atlético Mineiro,Fluminense,2,0,V,D,NORMAL,2F
+1989,1989-11-05,Santos,Internacional,2,1,V,D,NORMAL,2F
+1989,1989-11-05,Portuguesa,Inter de Limeira,2,0,V,D,NORMAL,2F
+1989,1989-11-05,Náutico,Grêmio,1,1,E,E,NORMAL,2F
+1989,1989-11-05,Flamengo,Vasco,2,0,V,D,NORMAL,2F
+1989,1989-11-05,Sport,Athletico Paranaense,0,0,E,E,NORMAL,R2
+1989,1989-11-05,Vitória,Bahia,1,2,D,V,NORMAL,R2
+1989,1989-11-11,São Paulo,Santos,3,0,V,D,NORMAL,2F
+1989,1989-11-11,Atlético Mineiro,Grêmio,0,0,E,E,NORMAL,2F
+1989,1989-11-11,Inter de Limeira,Vasco,2,2,E,E,NORMAL,2F
+1989,1989-11-11,Náutico,Portuguesa,1,1,E,E,NORMAL,2F
+1989,1989-11-12,Goiás,Corinthians,1,1,E,E,NORMAL,2F
+1989,1989-11-12,Palmeiras,Flamengo,1,1,E,E,NORMAL,2F
+1989,1989-11-12,Cruzeiro,Internacional,4,2,V,D,NORMAL,2F
+1989,1989-11-12,Botafogo,Fluminense,0,2,D,V,NORMAL,2F
+1989,1989-11-12,Bahia,Sport,2,0,V,D,NORMAL,R3
+1989,1989-11-12,Guarani,Vitória,0,1,D,V,NORMAL,R3
+1989,1989-11-18,Flamengo,Santos,1,0,V,D,NORMAL,2F
+1989,1989-11-18,Portuguesa,Atlético Mineiro,1,0,V,D,NORMAL,2F
+1989,1989-11-18,Internacional,Goiás,2,2,E,E,NORMAL,2F
+1989,1989-11-19,São Paulo,Cruzeiro,2,0,V,D,NORMAL,2F
+1989,1989-11-19,Fluminense,Corinthians,1,1,E,E,NORMAL,2F
+1989,1989-11-19,Grêmio,Botafogo,0,1,D,V,NORMAL,2F
+1989,1989-11-19,Vasco,Náutico,4,2,V,D,NORMAL,2F
+1989,1989-11-19,Sport,Guarani,1,3,D,V,NORMAL,R4
+1989,1989-11-19,Athletico Paranaense,Bahia,0,0,E,E,NORMAL,R4
+1989,1989-11-22,Vitória,Sport,2,0,V,D,NORMAL,R5
+1989,1989-11-22,Guarani,Athletico Paranaense,0,0,E,E,NORMAL,R5
+1989,1989-11-23,Inter de Limeira,Palmeiras,1,1,E,E,NORMAL,2F
+1989,1989-11-23,Flamengo,Goiás,0,0,E,E,NORMAL,2F
+1989,1989-11-23,São Paulo,Fluminense,3,1,V,D,NORMAL,2F
+1989,1989-11-25,Grêmio,Corinthians,3,0,V,D,NORMAL,2F
+1989,1989-11-25,Botafogo,Portuguesa,2,1,V,D,NORMAL,2F
+1989,1989-11-26,Fluminense,Internacional,0,0,E,E,NORMAL,2F
+1989,1989-11-26,Vasco,Atlético Mineiro,1,1,E,E,NORMAL,2F
+1989,1989-11-26,Santos,Inter de Limeira,2,0,V,D,NORMAL,2F
+1989,1989-11-26,Náutico,Palmeiras,2,2,E,E,NORMAL,2F
+1989,1989-11-26,Cruzeiro,Flamengo,2,0,V,D,NORMAL,2F
+1989,1989-11-26,Goiás,São Paulo,0,0,E,E,NORMAL,2F
+1989,1989-11-26,Vitória,Athletico Paranaense,1,1,E,E,NORMAL,R6
+1989,1989-11-26,Guarani,Bahia,1,1,E,E,NORMAL,R6
+1989,1989-11-29,Palmeiras,Atlético Mineiro,1,0,V,D,NORMAL,2F
+1989,1989-11-29,Vasco,Botafogo,2,2,E,E,NORMAL,2F
+1989,1989-11-29,Santos,Náutico,2,1,V,D,NORMAL,2F
+1989,1989-11-29,Corinthians,Portuguesa,1,0,V,D,NORMAL,2F
+1989,1989-11-29,Internacional,Grêmio,2,0,V,D,NORMAL,2F
+1989,1989-11-29,Inter de Limeira,Cruzeiro,1,1,E,E,NORMAL,2F
+1989,1989-12-02,Fluminense,Flamengo,0,5,D,V,NORMAL,2F
+1989,1989-12-02,Internacional,Portuguesa,1,2,D,V,NORMAL,2F
+1989,1989-12-02,Cruzeiro,Náutico,4,0,V,D,NORMAL,2F
+1989,1989-12-03,Atlético Mineiro,Santos,2,1,V,D,NORMAL,2F
+1989,1989-12-03,Inter de Limeira,Goiás,0,1,D,V,NORMAL,2F
+1989,1989-12-03,Botafogo,Palmeiras,1,0,V,D,NORMAL,2F
+1989,1989-12-03,Corinthians,Vasco,0,1,D,V,NORMAL,2F
+1989,1989-12-03,Grêmio,São Paulo,1,3,D,V,NORMAL,2F
+1989,1989-12-03,Athletico Paranaense,Sport,1,1,E,E,NORMAL,R7
+1989,1989-12-03,Bahia,Vitória,0,3,D,V,NORMAL,R7
+1989,1989-12-06,Bahia,Sport,1,0,V,D,NORMAL,R8
+1989,1989-12-06,Vitória,Guarani,2,1,V,D,NORMAL,R8
+1989,1989-12-09,Flamengo,Grêmio,1,1,E,E,NORMAL,2F
+1989,1989-12-09,Fluminense,Inter de Limeira,0,1,D,V,NORMAL,2F
+1989,1989-12-10,Portuguesa,São Paulo,0,1,D,V,NORMAL,2F
+1989,1989-12-10,Palmeiras,Corinthians,0,1,D,V,NORMAL,2F
+1989,1989-12-10,Internacional,Vasco,0,2,D,V,NORMAL,2F
+1989,1989-12-10,Cruzeiro,Atlético Mineiro,1,0,V,D,NORMAL,2F
+1989,1989-12-10,Santos,Botafogo,0,1,D,V,NORMAL,2F
+1989,1989-12-10,Goiás,Náutico,2,1,V,D,NORMAL,2F
+1989,1989-12-10,Bahia,Athletico Paranaense,0,0,E,E,NORMAL,R9
+1989,1989-12-10,Guarani,Sport,2,1,V,D,NORMAL,R9
+1989,1989-12-14,Athletico Paranaense,Guarani,4,1,V,D,NORMAL,R10
+1989,1989-12-14,Sport,Vitória,0,0,E,E,NORMAL,R10
+1989,1989-12-16,São Paulo,Vasco,0,1,D,V,NORMAL,F

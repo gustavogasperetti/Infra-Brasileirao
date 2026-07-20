@@ -1,0 +1,448 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1974,1974-03-09,Vasco,Coritiba,2,0,V,D,NORMAL,A
+1974,1974-03-09,Bahia,Paysandu,2,1,V,D,NORMAL,A
+1974,1974-03-09,Palmeiras,Santa Cruz,4,3,V,D,NORMAL,B
+1974,1974-03-09,Ceará,Rio Negro-AM,1,1,E,E,NORMAL,B
+1974,1974-03-10,Fluminense,America-RJ,1,1,E,E,NORMAL,A
+1974,1974-03-10,Grêmio,Olaria,1,0,V,D,NORMAL,A
+1974,1974-03-10,Desportiva Ferroviária,Itabaiana,1,0,V,D,NORMAL,A
+1974,1974-03-10,Athletico Paranaense,Internacional,1,0,V,D,NORMAL,A
+1974,1974-03-10,Vitória,Tiradentes-PI,1,2,D,V,NORMAL,A
+1974,1974-03-10,Remo,Botafogo,2,2,E,E,NORMAL,A
+1974,1974-03-10,Sampaio Corrêa,Flamengo,1,2,D,V,NORMAL,A
+1974,1974-03-10,América-RN,Avaí,1,1,E,E,NORMAL,A
+1974,1974-03-10,Cruzeiro,Guarani,0,0,E,E,NORMAL,B
+1974,1974-03-10,Náutico,Atlético Mineiro,2,0,V,D,NORMAL,B
+1974,1974-03-10,Santos,Portuguesa,1,2,D,V,NORMAL,B
+1974,1974-03-10,Fortaleza,América Mineiro,2,0,V,D,NORMAL,B
+1974,1974-03-10,Nacional-AM,São Paulo,0,1,D,V,NORMAL,B
+1974,1974-03-10,CEUB,Corinthians,1,2,D,V,NORMAL,B
+1974,1974-03-10,Goiás,Sport,1,0,V,D,NORMAL,B
+1974,1974-03-10,Operário-MS,CSA,3,2,V,D,NORMAL,B
+1974,1974-03-13,Fluminense,Itabaiana,2,1,V,D,NORMAL,A
+1974,1974-03-13,Grêmio,Athletico Paranaense,2,0,V,D,NORMAL,A
+1974,1974-03-13,Desportiva Ferroviária,Vasco,0,0,E,E,NORMAL,A
+1974,1974-03-13,Avaí,Internacional,1,2,D,V,NORMAL,A
+1974,1974-03-13,Vitória,Olaria,0,0,E,E,NORMAL,A
+1974,1974-03-13,Paysandu,Botafogo,3,1,V,D,NORMAL,A
+1974,1974-03-13,Tiradentes-PI,America-RJ,0,1,D,V,NORMAL,A
+1974,1974-03-13,Sampaio Corrêa,Bahia,2,2,E,E,NORMAL,A
+1974,1974-03-13,América-RN,Flamengo,0,2,D,V,NORMAL,A
+1974,1974-03-13,Goiás,Corinthians,0,0,E,E,NORMAL,B
+1974,1974-03-13,Operário-MS,Palmeiras,1,0,V,D,NORMAL,B
+1974,1974-03-13,Cruzeiro,Náutico,1,0,V,D,NORMAL,B
+1974,1974-03-13,Sport,Atlético Mineiro,1,0,V,D,NORMAL,B
+1974,1974-03-13,Rio Negro-AM,São Paulo,2,4,D,V,NORMAL,B
+1974,1974-03-13,CEUB,Fortaleza,1,0,V,D,NORMAL,B
+1974,1974-03-14,Remo,Coritiba,2,3,D,V,NORMAL,A
+1974,1974-03-14,Nacional-AM,Santa Cruz,1,1,E,E,NORMAL,B
+1974,1974-03-16,Botafogo,Olaria,0,0,E,E,NORMAL,A
+1974,1974-03-16,Vitória,Athletico Paranaense,2,2,E,E,NORMAL,A
+1974,1974-03-16,Coritiba,Grêmio,0,2,D,V,NORMAL,A
+1974,1974-03-16,São Paulo,Guarani,1,1,E,E,NORMAL,B
+1974,1974-03-16,Atlético Mineiro,Rio Negro-AM,0,0,E,E,NORMAL,B
+1974,1974-03-17,Flamengo,Vasco,1,1,E,E,NORMAL,A
+1974,1974-03-17,Internacional,Paysandu,5,1,V,D,NORMAL,A
+1974,1974-03-17,Bahia,Remo,1,1,E,E,NORMAL,A
+1974,1974-03-17,Tiradentes-PI,Fluminense,0,0,E,E,NORMAL,A
+1974,1974-03-17,Sampaio Corrêa,America-RJ,1,0,V,D,NORMAL,A
+1974,1974-03-17,Desportiva Ferroviária,Avaí,1,0,V,D,NORMAL,A
+1974,1974-03-17,América-RN,Itabaiana,2,0,V,D,NORMAL,A
+1974,1974-03-17,Corinthians,Palmeiras,0,0,E,E,NORMAL,B
+1974,1974-03-17,Santa Cruz,Cruzeiro,1,3,D,V,NORMAL,B
+1974,1974-03-17,Fortaleza,Náutico,2,1,V,D,NORMAL,B
+1974,1974-03-17,Nacional-AM,Ceará,1,1,E,E,NORMAL,B
+1974,1974-03-17,América Mineiro,Santos,0,2,D,V,NORMAL,B
+1974,1974-03-17,CEUB,Portuguesa,0,0,E,E,NORMAL,B
+1974,1974-03-17,Goiás,CSA,4,0,V,D,NORMAL,B
+1974,1974-03-17,Operário-MS,Sport,1,1,E,E,NORMAL,B
+1974,1974-03-20,Botafogo,Athletico Paranaense,3,1,V,D,NORMAL,A
+1974,1974-03-20,Coritiba,América-RN,0,1,D,V,NORMAL,A
+1974,1974-03-20,Avaí,Grêmio,0,1,D,V,NORMAL,A
+1974,1974-03-20,Bahia,Olaria,1,0,V,D,NORMAL,A
+1974,1974-03-20,Remo,Vasco,1,2,D,V,NORMAL,A
+1974,1974-03-20,Sampaio Corrêa,Fluminense,3,1,V,D,NORMAL,A
+1974,1974-03-20,Itabaiana,Internacional,1,2,D,V,NORMAL,A
+1974,1974-03-20,America-RJ,Vitória,1,2,D,V,NORMAL,A
+1974,1974-03-20,São Paulo,Náutico,1,1,E,E,NORMAL,B
+1974,1974-03-20,Sport,Cruzeiro,0,0,E,E,NORMAL,B
+1974,1974-03-20,Ceará,Guarani,0,1,D,V,NORMAL,B
+1974,1974-03-20,América Mineiro,Rio Negro-AM,2,0,V,D,NORMAL,B
+1974,1974-03-20,CEUB,Santos,1,3,D,V,NORMAL,B
+1974,1974-03-20,CSA,Atlético Mineiro,0,5,D,V,NORMAL,B
+1974,1974-03-20,Portuguesa,Fortaleza,2,1,V,D,NORMAL,B
+1974,1974-03-20,Santa Cruz,Goiás,2,1,V,D,NORMAL,B
+1974,1974-03-23,Flamengo,Tiradentes-PI,4,0,V,D,NORMAL,A
+1974,1974-03-23,Athletico Paranaense,Desportiva Ferroviária,1,0,V,D,NORMAL,A
+1974,1974-03-23,Fluminense,Olaria,2,3,D,V,NORMAL,A
+1974,1974-03-23,Grêmio,Internacional,1,2,D,V,NORMAL,A
+1974,1974-03-23,Coritiba,Botafogo,3,2,V,D,NORMAL,A
+1974,1974-03-23,Bahia,Vitória,1,1,E,E,NORMAL,A
+1974,1974-03-23,Paysandu,Vasco,0,0,E,E,NORMAL,A
+1974,1974-03-23,Sampaio Corrêa,Avaí,1,0,V,D,NORMAL,A
+1974,1974-03-23,América-RN,America-RJ,1,3,D,V,NORMAL,A
+1974,1974-03-23,Itabaiana,Remo,1,0,V,D,NORMAL,A
+1974,1974-03-23,Náutico,Operário-MS,2,0,V,D,NORMAL,B
+1974,1974-03-23,Corinthians,América Mineiro,3,1,V,D,NORMAL,B
+1974,1974-03-23,Guarani,Santos,2,2,E,E,NORMAL,B
+1974,1974-03-23,Cruzeiro,Atlético Mineiro,1,2,D,V,NORMAL,B
+1974,1974-03-23,Santa Cruz,São Paulo,0,0,E,E,NORMAL,B
+1974,1974-03-23,Ceará,Fortaleza,1,1,E,E,NORMAL,B
+1974,1974-03-23,Rio Negro-AM,Palmeiras,0,4,D,V,NORMAL,B
+1974,1974-03-23,CEUB,Sport,1,0,V,D,NORMAL,B
+1974,1974-03-23,Goiás,Portuguesa,0,0,E,E,NORMAL,B
+1974,1974-03-23,CSA,Nacional-AM,1,2,D,V,NORMAL,B
+1974,1974-03-27,America-RJ,Desportiva Ferroviária,2,0,V,D,NORMAL,A
+1974,1974-03-27,Tiradentes-PI,América-RN,3,0,V,D,NORMAL,A
+1974,1974-03-27,Portuguesa,Operário-MS,3,0,V,D,NORMAL,B
+1974,1974-03-27,Santa Cruz,CSA,3,0,V,D,NORMAL,B
+1974,1974-03-27,Nacional-AM,Palmeiras,2,1,V,D,NORMAL,B
+1974,1974-03-27,América Mineiro,Ceará,2,1,V,D,NORMAL,B
+1974,1974-03-30,Bahia,Flamengo,0,2,D,V,NORMAL,A
+1974,1974-03-30,Vasco,Botafogo,0,0,E,E,NORMAL,A
+1974,1974-03-30,Internacional,Tiradentes-PI,2,0,V,D,NORMAL,A
+1974,1974-03-30,Athletico Paranaense,Fluminense,3,0,V,D,NORMAL,A
+1974,1974-03-30,Avaí,Remo,3,0,V,D,NORMAL,A
+1974,1974-03-30,Paysandu,Grêmio,1,1,E,E,NORMAL,A
+1974,1974-03-30,Sampaio Corrêa,Coritiba,0,2,D,V,NORMAL,A
+1974,1974-03-30,Itabaiana,America-RJ,1,3,D,V,NORMAL,A
+1974,1974-03-30,Desportiva Ferroviária,Vitória,1,1,E,E,NORMAL,A
+1974,1974-03-30,Guarani,Goiás,3,0,V,D,NORMAL,B
+1974,1974-03-30,Atlético Mineiro,América Mineiro,1,1,E,E,NORMAL,B
+1974,1974-03-30,Náutico,Santos,1,1,E,E,NORMAL,B
+1974,1974-03-30,Ceará,Corinthians,0,1,D,V,NORMAL,B
+1974,1974-03-30,CEUB,Santa Cruz,1,1,E,E,NORMAL,B
+1974,1974-03-30,CSA,Portuguesa,0,0,E,E,NORMAL,B
+1974,1974-03-30,Operário-MS,Fortaleza,1,0,V,D,NORMAL,B
+1974,1974-03-31,Rio Negro-AM,Cruzeiro,0,0,E,E,NORMAL,B
+1974,1974-04-03,Vasco,Bahia,0,0,E,E,NORMAL,A
+1974,1974-04-03,São Paulo,Ceará,2,0,V,D,NORMAL,B
+1974,1974-04-03,Santa Cruz,América Mineiro,2,3,D,V,NORMAL,B
+1974,1974-04-03,Fortaleza,Guarani,3,0,V,D,NORMAL,B
+1974,1974-04-03,Náutico,Nacional-AM,0,0,E,E,NORMAL,B
+1974,1974-04-06,Flamengo,America-RJ,2,1,V,D,NORMAL,A
+1974,1974-04-06,Grêmio,Remo,1,0,V,D,NORMAL,A
+1974,1974-04-06,Coritiba,Tiradentes-PI,3,2,V,D,NORMAL,A
+1974,1974-04-06,Avaí,Fluminense,2,2,E,E,NORMAL,A
+1974,1974-04-06,Vitória,América-RN,1,1,E,E,NORMAL,A
+1974,1974-04-06,Paysandu,Athletico Paranaense,1,1,E,E,NORMAL,A
+1974,1974-04-06,Sampaio Corrêa,Internacional,1,1,E,E,NORMAL,A
+1974,1974-04-06,Desportiva Ferroviária,Botafogo,2,3,D,V,NORMAL,A
+1974,1974-04-06,Corinthians,Portuguesa,2,2,E,E,NORMAL,B
+1974,1974-04-06,Cruzeiro,Nacional-AM,3,0,V,D,NORMAL,B
+1974,1974-04-06,Sport,Santos,1,1,E,E,NORMAL,B
+1974,1974-04-06,Fortaleza,Goiás,2,1,V,D,NORMAL,B
+1974,1974-04-06,CEUB,Atlético Mineiro,2,4,D,V,NORMAL,B
+1974,1974-04-06,CSA,Guarani,0,1,D,V,NORMAL,B
+1974,1974-04-06,Operário-MS,São Paulo,0,2,D,V,NORMAL,B
+1974,1974-04-06,Rio Negro-AM,Náutico,2,1,V,D,NORMAL,B
+1974,1974-04-10,Olaria,América-RN,1,2,D,V,NORMAL,A
+1974,1974-04-10,São Paulo,Sport,2,1,V,D,NORMAL,B
+1974,1974-04-10,Cruzeiro,Portuguesa,1,1,E,E,NORMAL,B
+1974,1974-04-10,Ceará,CEUB,2,1,V,D,NORMAL,B
+1974,1974-04-13,Fluminense,Grêmio,0,1,D,V,NORMAL,A
+1974,1974-04-13,Internacional,Flamengo,1,1,E,E,NORMAL,A
+1974,1974-04-13,Coritiba,America-RJ,0,1,D,V,NORMAL,A
+1974,1974-04-13,Vitória,Vasco,0,0,E,E,NORMAL,A
+1974,1974-04-13,Remo,Olaria,2,2,E,E,NORMAL,A
+1974,1974-04-13,Itabaiana,Botafogo,2,1,V,D,NORMAL,A
+1974,1974-04-13,Desportiva Ferroviária,Paysandu,0,0,E,E,NORMAL,A
+1974,1974-04-13,Avaí,Athletico Paranaense,1,0,V,D,NORMAL,A
+1974,1974-04-13,Santos,Cruzeiro,1,0,V,D,NORMAL,B
+1974,1974-04-13,Guarani,Nacional-AM,2,1,V,D,NORMAL,B
+1974,1974-04-13,Atlético Mineiro,Corinthians,2,1,V,D,NORMAL,B
+1974,1974-04-13,Santa Cruz,Portuguesa,0,0,E,E,NORMAL,B
+1974,1974-04-13,Fortaleza,Palmeiras,2,1,V,D,NORMAL,B
+1974,1974-04-13,CSA,CEUB,1,0,V,D,NORMAL,B
+1974,1974-04-13,Operário-MS,Rio Negro-AM,1,1,E,E,NORMAL,B
+1974,1974-04-14,Tiradentes-PI,Bahia,3,0,V,D,NORMAL,A
+1974,1974-04-16,Botafogo,Avaí,5,1,V,D,NORMAL,A
+1974,1974-04-16,Portuguesa,América Mineiro,0,0,E,E,NORMAL,B
+1974,1974-04-16,Sport,Náutico,1,0,V,D,NORMAL,B
+1974,1974-04-17,Nacional-AM,CEUB,0,2,D,V,NORMAL,B
+1974,1974-04-20,Internacional,Desportiva Ferroviária,3,0,V,D,NORMAL,A
+1974,1974-04-20,Paysandu,Olaria,2,0,V,D,NORMAL,A
+1974,1974-04-20,Tiradentes-PI,Remo,0,0,E,E,NORMAL,A
+1974,1974-04-20,Sampaio Corrêa,Vitória,0,3,D,V,NORMAL,A
+1974,1974-04-20,América-RN,Grêmio,0,2,D,V,NORMAL,A
+1974,1974-04-20,Palmeiras,Santos,0,4,D,V,NORMAL,B
+1974,1974-04-20,Atlético Mineiro,Operário-MS,1,0,V,D,NORMAL,B
+1974,1974-04-20,Náutico,Corinthians,2,0,V,D,NORMAL,B
+1974,1974-04-20,Ceará,Santa Cruz,1,0,V,D,NORMAL,B
+1974,1974-04-20,Goiás,Cruzeiro,0,1,D,V,NORMAL,B
+1974,1974-04-21,Vasco,Fluminense,1,2,D,V,NORMAL,A
+1974,1974-04-21,Athletico Paranaense,Flamengo,1,2,D,V,NORMAL,A
+1974,1974-04-21,Avaí,America-RJ,0,2,D,V,NORMAL,A
+1974,1974-04-21,Bahia,Coritiba,1,1,E,E,NORMAL,A
+1974,1974-04-21,Rio Negro-AM,Guarani,1,0,V,D,NORMAL,B
+1974,1974-04-21,CSA,São Paulo,0,0,E,E,NORMAL,B
+1974,1974-04-23,Corinthians,Operário-MS,1,0,V,D,NORMAL,B
+1974,1974-04-24,Flamengo,Desportiva Ferroviária,4,0,V,D,NORMAL,A
+1974,1974-04-24,Paysandu,Vitória,1,2,D,V,NORMAL,A
+1974,1974-04-24,Sport,Portuguesa,1,1,E,E,NORMAL,B
+1974,1974-04-24,Rio Negro-AM,Fortaleza,1,0,V,D,NORMAL,B
+1974,1974-04-24,América Mineiro,Nacional-AM,0,1,D,V,NORMAL,B
+1974,1974-04-27,Botafogo,America-RJ,1,1,E,E,NORMAL,A
+1974,1974-04-27,Grêmio,Sampaio Corrêa,2,0,V,D,NORMAL,A
+1974,1974-04-27,Coritiba,Olaria,1,1,E,E,NORMAL,A
+1974,1974-04-27,Avaí,Flamengo,0,1,D,V,NORMAL,A
+1974,1974-04-27,Bahia,Internacional,0,0,E,E,NORMAL,A
+1974,1974-04-27,Remo,Fluminense,1,1,E,E,NORMAL,A
+1974,1974-04-27,América-RN,Vasco,2,3,D,V,NORMAL,A
+1974,1974-04-27,Itabaiana,Athletico Paranaense,1,0,V,D,NORMAL,A
+1974,1974-04-27,Desportiva Ferroviária,Tiradentes-PI,1,0,V,D,NORMAL,A
+1974,1974-04-27,São Paulo,Portuguesa,0,0,E,E,NORMAL,B
+1974,1974-04-27,Guarani,Santa Cruz,1,0,V,D,NORMAL,B
+1974,1974-04-27,Cruzeiro,CEUB,1,0,V,D,NORMAL,B
+1974,1974-04-27,Sport,Corinthians,1,4,D,V,NORMAL,B
+1974,1974-04-27,Ceará,Atlético Mineiro,1,2,D,V,NORMAL,B
+1974,1974-04-27,CSA,Náutico,0,1,D,V,NORMAL,B
+1974,1974-04-27,Operário-MS,América Mineiro,1,0,V,D,NORMAL,B
+1974,1974-04-28,Nacional-AM,Santos,0,1,D,V,NORMAL,B
+1974,1974-05-02,Fluminense,Paysandu,2,0,V,D,NORMAL,A
+1974,1974-05-02,Santos,Rio Negro-AM,3,0,V,D,NORMAL,B
+1974,1974-05-04,Flamengo,Olaria,0,0,E,E,NORMAL,A
+1974,1974-05-04,Grêmio,America-RJ,2,1,V,D,NORMAL,A
+1974,1974-05-04,Athletico Paranaense,Bahia,1,0,V,D,NORMAL,A
+1974,1974-05-04,Vitória,Avaí,3,0,V,D,NORMAL,A
+1974,1974-05-04,Remo,Internacional,1,0,V,D,NORMAL,A
+1974,1974-05-04,Tiradentes-PI,Botafogo,2,1,V,D,NORMAL,A
+1974,1974-05-04,Sampaio Corrêa,América-RN,0,0,E,E,NORMAL,A
+1974,1974-05-04,Itabaiana,Vasco,0,3,D,V,NORMAL,A
+1974,1974-05-04,Desportiva Ferroviária,Coritiba,0,1,D,V,NORMAL,A
+1974,1974-05-04,Corinthians,Guarani,1,1,E,E,NORMAL,B
+1974,1974-05-04,Náutico,Ceará,2,1,V,D,NORMAL,B
+1974,1974-05-04,Fortaleza,Sport,3,3,E,E,NORMAL,B
+1974,1974-05-04,América Mineiro,São Paulo,0,0,E,E,NORMAL,B
+1974,1974-05-04,CEUB,Goiás,0,0,E,E,NORMAL,B
+1974,1974-05-04,CSA,Palmeiras,0,2,D,V,NORMAL,B
+1974,1974-05-04,Operário-MS,Santa Cruz,3,0,V,D,NORMAL,B
+1974,1974-05-04,Nacional-AM,Atlético Mineiro,0,2,D,V,NORMAL,B
+1974,1974-05-08,Vasco,Olaria,1,1,E,E,NORMAL,A
+1974,1974-05-08,Coritiba,Itabaiana,3,0,V,D,NORMAL,A
+1974,1974-05-08,Desportiva Ferroviária,Sampaio Corrêa,2,1,V,D,NORMAL,A
+1974,1974-05-08,Tiradentes-PI,Paysandu,0,0,E,E,NORMAL,A
+1974,1974-05-08,Palmeiras,Guarani,0,0,E,E,NORMAL,B
+1974,1974-05-08,Sport,Nacional-AM,0,2,D,V,NORMAL,B
+1974,1974-05-08,América Mineiro,Goiás,0,1,D,V,NORMAL,B
+1974,1974-05-08,Operário-MS,CEUB,0,0,E,E,NORMAL,B
+1974,1974-05-11,Flamengo,Grêmio,1,0,V,D,NORMAL,A
+1974,1974-05-11,Internacional,Vitória,1,1,E,E,NORMAL,A
+1974,1974-05-11,Athletico Paranaense,Remo,2,0,V,D,NORMAL,A
+1974,1974-05-11,Avaí,Tiradentes-PI,0,0,E,E,NORMAL,A
+1974,1974-05-11,Bahia,America-RJ,1,0,V,D,NORMAL,A
+1974,1974-05-11,Paysandu,Coritiba,1,0,V,D,NORMAL,A
+1974,1974-05-11,Sampaio Corrêa,Botafogo,1,1,E,E,NORMAL,A
+1974,1974-05-11,América-RN,Fluminense,1,0,V,D,NORMAL,A
+1974,1974-05-11,Corinthians,Cruzeiro,0,1,D,V,NORMAL,B
+1974,1974-05-11,Sport,América Mineiro,2,2,E,E,NORMAL,B
+1974,1974-05-11,Ceará,Portuguesa,2,1,V,D,NORMAL,B
+1974,1974-05-11,Goiás,Santos,3,2,V,D,NORMAL,B
+1974,1974-05-12,Atlético Mineiro,Fortaleza,0,1,D,V,NORMAL,B
+1974,1974-05-12,Rio Negro-AM,Santa Cruz,2,0,V,D,NORMAL,B
+1974,1974-05-15,Botafogo,Internacional,2,3,D,V,NORMAL,A
+1974,1974-05-15,Athletico Paranaense,Olaria,4,0,V,D,NORMAL,A
+1974,1974-05-15,Vitória,Fluminense,0,0,E,E,NORMAL,A
+1974,1974-05-15,Paysandu,Flamengo,0,0,E,E,NORMAL,A
+1974,1974-05-15,Tiradentes-PI,Vasco,0,1,D,V,NORMAL,A
+1974,1974-05-15,América-RN,Bahia,0,1,D,V,NORMAL,A
+1974,1974-05-15,Itabaiana,Grêmio,0,1,D,V,NORMAL,A
+1974,1974-05-15,São Paulo,Atlético Mineiro,1,2,D,V,NORMAL,B
+1974,1974-05-15,Náutico,Guarani,1,1,E,E,NORMAL,B
+1974,1974-05-15,Fortaleza,Santos,0,2,D,V,NORMAL,B
+1974,1974-05-15,Rio Negro-AM,Corinthians,1,1,E,E,NORMAL,B
+1974,1974-05-15,Goiás,Ceará,3,1,V,D,NORMAL,B
+1974,1974-05-15,CSA,Cruzeiro,0,1,D,V,NORMAL,B
+1974,1974-05-16,Remo,Sampaio Corrêa,2,0,V,D,NORMAL,A
+1974,1974-05-16,Palmeiras,América Mineiro,1,0,V,D,NORMAL,B
+1974,1974-05-18,America-RJ,Internacional,3,0,V,D,NORMAL,A
+1974,1974-05-18,Flamengo,Fluminense,0,0,E,E,NORMAL,A
+1974,1974-05-18,Grêmio,Tiradentes-PI,4,0,V,D,NORMAL,A
+1974,1974-05-18,Coritiba,Athletico Paranaense,0,1,D,V,NORMAL,A
+1974,1974-05-18,Avaí,Olaria,0,2,D,V,NORMAL,A
+1974,1974-05-18,Vitória,Botafogo,3,1,V,D,NORMAL,A
+1974,1974-05-18,Remo,Paysandu,0,0,E,E,NORMAL,A
+1974,1974-05-18,Sampaio Corrêa,Vasco,2,0,V,D,NORMAL,A
+1974,1974-05-18,América-RN,Desportiva Ferroviária,0,0,E,E,NORMAL,A
+1974,1974-05-18,Itabaiana,Bahia,0,1,D,V,NORMAL,A
+1974,1974-05-18,Portuguesa,Atlético Mineiro,2,2,E,E,NORMAL,B
+1974,1974-05-18,Corinthians,Santos,1,1,E,E,NORMAL,B
+1974,1974-05-18,Guarani,Sport,1,1,E,E,NORMAL,B
+1974,1974-05-18,Cruzeiro,América Mineiro,2,2,E,E,NORMAL,B
+1974,1974-05-18,Náutico,Santa Cruz,0,0,E,E,NORMAL,B
+1974,1974-05-18,Fortaleza,São Paulo,1,1,E,E,NORMAL,B
+1974,1974-05-18,Nacional-AM,Rio Negro-AM,1,1,E,E,NORMAL,B
+1974,1974-05-18,CEUB,Palmeiras,1,1,E,E,NORMAL,B
+1974,1974-05-18,Goiás,Operário-MS,0,0,E,E,NORMAL,B
+1974,1974-05-18,CSA,Ceará,1,3,D,V,NORMAL,B
+1974,1974-05-22,Olaria,Sampaio Corrêa,2,0,V,D,NORMAL,A
+1974,1974-05-22,Vitória,Itabaiana,2,0,V,D,NORMAL,A
+1974,1974-05-22,América-RN,Athletico Paranaense,0,1,D,V,NORMAL,A
+1974,1974-05-22,Santos,CSA,1,0,V,D,NORMAL,B
+1974,1974-05-22,Guarani,CEUB,2,0,V,D,NORMAL,B
+1974,1974-05-22,Sport,Rio Negro-AM,1,1,E,E,NORMAL,B
+1974,1974-05-22,Goiás,Palmeiras,1,1,E,E,NORMAL,B
+1974,1974-05-25,Internacional,Olaria,2,0,V,D,NORMAL,A
+1974,1974-05-25,Coritiba,Flamengo,2,1,V,D,NORMAL,A
+1974,1974-05-25,Avaí,Paysandu,1,2,D,V,NORMAL,A
+1974,1974-05-25,Bahia,Fluminense,1,0,V,D,NORMAL,A
+1974,1974-05-25,Tiradentes-PI,Athletico Paranaense,2,2,E,E,NORMAL,A
+1974,1974-05-25,América-RN,Botafogo,1,0,V,D,NORMAL,A
+1974,1974-05-25,Itabaiana,Sampaio Corrêa,2,1,V,D,NORMAL,A
+1974,1974-05-25,Desportiva Ferroviária,Grêmio,0,5,D,V,NORMAL,A
+1974,1974-05-25,Remo,Vitória,3,1,V,D,NORMAL,A
+1974,1974-05-25,Palmeiras,Portuguesa,2,2,E,E,NORMAL,B
+1974,1974-05-25,Atlético Mineiro,Guarani,0,1,D,V,NORMAL,B
+1974,1974-05-25,Santa Cruz,Corinthians,0,0,E,E,NORMAL,B
+1974,1974-05-25,Ceará,Santos,1,1,E,E,NORMAL,B
+1974,1974-05-25,Operário-MS,Cruzeiro,0,0,E,E,NORMAL,B
+1974,1974-05-26,Vasco,America-RJ,0,1,D,V,NORMAL,A
+1974,1974-05-26,Nacional-AM,Fortaleza,2,0,V,D,NORMAL,B
+1974,1974-05-26,Goiás,São Paulo,0,3,D,V,NORMAL,B
+1974,1974-05-29,CEUB,São Paulo,1,1,E,E,NORMAL,B
+1974,1974-05-29,Vasco,Avaí,1,0,V,D,NORMAL,A
+1974,1974-05-29,América-RN,Paysandu,0,0,E,E,NORMAL,A
+1974,1974-05-29,Fortaleza,CSA,1,0,V,D,NORMAL,B
+1974,1974-05-29,América Mineiro,Náutico,0,3,D,V,NORMAL,B
+1974,1974-05-29,Goiás,Rio Negro-AM,2,0,V,D,NORMAL,B
+1974,1974-05-29,Sport,Palmeiras,1,1,E,E,NORMAL,B
+1974,1974-05-30,Olaria,Itabaiana,4,0,V,D,NORMAL,A
+1974,1974-06-01,Flamengo,Remo,3,0,V,D,NORMAL,A
+1974,1974-06-01,Corinthians,Nacional-AM,5,0,V,D,NORMAL,B
+1974,1974-06-02,Botafogo,Fluminense,1,0,V,D,NORMAL,A
+1974,1974-06-02,Grêmio,Vasco,1,0,V,D,NORMAL,A
+1974,1974-06-02,Coritiba,Internacional,1,1,E,E,NORMAL,A
+1974,1974-06-02,Bahia,Desportiva Ferroviária,1,1,E,E,NORMAL,A
+1974,1974-06-02,Paysandu,America-RJ,0,1,D,V,NORMAL,A
+1974,1974-06-02,Tiradentes-PI,Olaria,2,0,V,D,NORMAL,A
+1974,1974-06-02,Sampaio Corrêa,Athletico Paranaense,0,1,D,V,NORMAL,A
+1974,1974-06-02,Itabaiana,Avaí,2,0,V,D,NORMAL,A
+1974,1974-06-02,Santos,São Paulo,1,1,E,E,NORMAL,B
+1974,1974-06-02,Guarani,América Mineiro,3,3,E,E,NORMAL,B
+1974,1974-06-02,Cruzeiro,Palmeiras,0,0,E,E,NORMAL,B
+1974,1974-06-02,Santa Cruz,Atlético Mineiro,3,3,E,E,NORMAL,B
+1974,1974-06-02,Ceará,Operário-MS,0,0,E,E,NORMAL,B
+1974,1974-06-02,Rio Negro-AM,Portuguesa,0,1,D,V,NORMAL,B
+1974,1974-06-02,CEUB,Náutico,0,2,D,V,NORMAL,B
+1974,1974-06-02,CSA,Sport,0,1,D,V,NORMAL,B
+1974,1974-06-05,Botafogo,Bahia,0,0,E,E,NORMAL,A
+1974,1974-06-05,Internacional,América-RN,3,0,V,D,NORMAL,A
+1974,1974-06-05,Avaí,Coritiba,1,2,D,V,NORMAL,A
+1974,1974-06-05,Vitória,Grêmio,1,0,V,D,NORMAL,A
+1974,1974-06-05,Remo,America-RJ,2,4,D,V,NORMAL,A
+1974,1974-06-05,Itabaiana,Flamengo,0,1,D,V,NORMAL,A
+1974,1974-06-05,Desportiva Ferroviária,Fluminense,1,1,E,E,NORMAL,A
+1974,1974-06-05,Palmeiras,Ceará,1,1,E,E,NORMAL,B
+1974,1974-06-05,Atlético Mineiro,Goiás,3,1,V,D,NORMAL,B
+1974,1974-06-05,Santa Cruz,Sport,0,3,D,V,NORMAL,B
+1974,1974-06-05,Fortaleza,Cruzeiro,0,2,D,V,NORMAL,B
+1974,1974-06-05,Nacional-AM,Portuguesa,0,1,D,V,NORMAL,B
+1974,1974-06-05,CSA,Corinthians,0,3,D,V,NORMAL,B
+1974,1974-06-05,Operário-MS,Santos,1,0,V,D,NORMAL,B
+1974,1974-06-08,America-RJ,Olaria,2,0,V,D,NORMAL,A
+1974,1974-06-08,Coritiba,Vitória,1,1,E,E,NORMAL,A
+1974,1974-06-08,Paysandu,Itabaiana,2,0,V,D,NORMAL,A
+1974,1974-06-08,Santa Cruz,Fortaleza,0,0,E,E,NORMAL,B
+1974,1974-06-08,Rio Negro-AM,CSA,3,1,V,D,NORMAL,B
+1974,1974-06-08,CEUB,América Mineiro,0,2,D,V,NORMAL,B
+1974,1974-06-09,Botafogo,Flamengo,0,2,D,V,NORMAL,A
+1974,1974-06-09,Athletico Paranaense,Vasco,1,1,E,E,NORMAL,A
+1974,1974-06-09,Bahia,Grêmio,0,1,D,V,NORMAL,A
+1974,1974-06-09,Remo,Desportiva Ferroviária,3,1,V,D,NORMAL,A
+1974,1974-06-09,Tiradentes-PI,Sampaio Corrêa,2,0,V,D,NORMAL,A
+1974,1974-06-09,Guarani,Portuguesa,1,0,V,D,NORMAL,B
+1974,1974-06-09,São Paulo,Corinthians,1,1,E,E,NORMAL,B
+1974,1974-06-09,Atlético Mineiro,Santos,2,1,V,D,NORMAL,B
+1974,1974-06-09,Náutico,Palmeiras,0,1,D,V,NORMAL,B
+1974,1974-06-09,Ceará,Cruzeiro,1,1,E,E,NORMAL,B
+1974,1974-06-09,Nacional-AM,Operário-MS,1,2,D,V,NORMAL,B
+1974,1974-06-12,Fluminense,Coritiba,1,1,E,E,NORMAL,A
+1974,1974-06-12,Paysandu,Sampaio Corrêa,1,0,V,D,NORMAL,A
+1974,1974-06-12,Santos,Santa Cruz,1,1,E,E,NORMAL,B
+1974,1974-06-12,Sport,Ceará,1,1,E,E,NORMAL,B
+1974,1974-06-12,Rio Negro-AM,CEUB,1,0,V,D,NORMAL,B
+1974,1974-06-12,Goiás,Náutico,0,0,E,E,NORMAL,B
+1974,1974-06-12,Palmeiras,São Paulo,1,0,V,D,NORMAL,B
+1974,1974-06-13,Vasco,Internacional,3,1,V,D,NORMAL,A
+1974,1974-06-13,Grêmio,Botafogo,2,2,E,E,NORMAL,A
+1974,1974-06-13,Athletico Paranaense,America-RJ,1,2,D,V,NORMAL,A
+1974,1974-06-13,Avaí,Bahia,0,2,D,V,NORMAL,A
+1974,1974-06-13,Vitória,Flamengo,1,0,V,D,NORMAL,A
+1974,1974-06-13,Remo,América-RN,2,0,V,D,NORMAL,A
+1974,1974-06-13,Tiradentes-PI,Itabaiana,1,0,V,D,NORMAL,A
+1974,1974-06-13,Desportiva Ferroviária,Olaria,0,1,D,V,NORMAL,A
+1974,1974-06-13,América Mineiro,CSA,1,0,V,D,NORMAL,B
+1974,1974-06-13,Palmeiras,Atlético Mineiro,1,2,D,V,NORMAL,B
+1974,1974-06-13,Cruzeiro,São Paulo,0,1,D,V,NORMAL,B
+1974,1974-06-13,Náutico,Portuguesa,3,1,V,D,NORMAL,B
+1974,1974-06-13,Fortaleza,Corinthians,2,0,V,D,NORMAL,B
+1974,1974-06-13,Nacional-AM,Goiás,0,3,D,V,NORMAL,B
+1974,1974-06-13,Operário-MS,Guarani,1,0,V,D,NORMAL,B
+1974,1974-06-19,Internacional,Fluminense,1,1,E,E,NORMAL,A
+1974,1974-06-29,Flamengo,Guarani,3,0,V,D,NORMAL,1
+1974,1974-06-29,Cruzeiro,Palmeiras,2,1,V,D,NORMAL,1
+1974,1974-06-29,Bahia,Paysandu,1,1,E,E,NORMAL,1
+1974,1974-06-29,Vasco,Operário-MS,3,0,V,D,NORMAL,2
+1974,1974-06-29,Santos,Coritiba,2,1,V,D,NORMAL,3
+1974,1974-06-29,Grêmio,Náutico,2,1,V,D,NORMAL,3
+1974,1974-06-29,Fortaleza,America-RJ,3,0,V,D,NORMAL,3
+1974,1974-06-30,Fluminense,São Paulo,0,1,D,V,NORMAL,4
+1974,1974-06-30,Internacional,Athletico Paranaense,1,1,E,E,NORMAL,4
+1974,1974-06-30,Goiás,Portuguesa,0,1,D,V,NORMAL,4
+1974,1974-06-30,Corinthians,Atlético Mineiro,1,0,V,D,NORMAL,2
+1974,1974-06-30,Nacional-AM,Vitória,1,0,V,D,NORMAL,2
+1974,1974-07-02,Palmeiras,Flamengo,3,1,V,D,NORMAL,1
+1974,1974-07-02,Guarani,Bahia,3,1,V,D,NORMAL,1
+1974,1974-07-03,Cruzeiro,Paysandu,4,1,V,D,NORMAL,1
+1974,1974-07-03,Vitória,Corinthians,1,0,V,D,NORMAL,2
+1974,1974-07-03,Operário-MS,Atlético Mineiro,1,3,D,V,NORMAL,2
+1974,1974-07-03,Nacional-AM,Vasco,0,0,E,E,NORMAL,2
+1974,1974-07-03,America-RJ,Santos,0,2,D,V,NORMAL,3
+1974,1974-07-03,Náutico,Coritiba,4,2,V,D,NORMAL,3
+1974,1974-07-03,Fortaleza,Grêmio,1,3,D,V,NORMAL,3
+1974,1974-07-03,Goiás,São Paulo,1,1,E,E,NORMAL,4
+1974,1974-07-03,Internacional,Fluminense,2,0,V,D,NORMAL,4
+1974,1974-07-03,Athletico Paranaense,Portuguesa,1,1,E,E,NORMAL,4
+1974,1974-07-06,Cruzeiro,Guarani,1,0,V,D,NORMAL,1
+1974,1974-07-06,Paysandu,Palmeiras,1,2,D,V,NORMAL,1
+1974,1974-07-06,Bahia,Flamengo,1,1,E,E,NORMAL,1
+1974,1974-07-06,Corinthians,Nacional-AM,2,2,E,E,NORMAL,2
+1974,1974-07-06,Operário-MS,Vitória,0,2,D,V,NORMAL,2
+1974,1974-07-06,Internacional,Goiás,1,1,E,E,NORMAL,4
+1974,1974-07-06,Fluminense,Athletico Paranaense,0,1,D,V,NORMAL,4
+1974,1974-07-07,Grêmio,Santos,0,1,D,V,NORMAL,3
+1974,1974-07-07,Coritiba,America-RJ,2,0,V,D,NORMAL,3
+1974,1974-07-07,Fortaleza,Náutico,0,0,E,E,NORMAL,3
+1974,1974-07-07,São Paulo,Portuguesa,1,1,E,E,NORMAL,4
+1974,1974-07-10,Palmeiras,Guarani,2,1,V,D,NORMAL,1
+1974,1974-07-10,Atlético Mineiro,Vasco,0,2,D,V,NORMAL,2
+1974,1974-07-10,America-RJ,Grêmio,0,1,D,V,NORMAL,3
+1974,1974-07-11,Corinthians,Operário-MS,0,0,E,E,NORMAL,2
+1974,1974-07-13,Palmeiras,Bahia,2,0,V,D,NORMAL,1
+1974,1974-07-13,Flamengo,Cruzeiro,1,3,D,V,NORMAL,1
+1974,1974-07-13,Coritiba,Fortaleza,0,0,E,E,NORMAL,3
+1974,1974-07-13,São Paulo,Athletico Paranaense,0,0,E,E,NORMAL,4
+1974,1974-07-14,Paysandu,Guarani,0,1,D,V,NORMAL,1
+1974,1974-07-14,Vasco,Corinthians,2,0,V,D,NORMAL,2
+1974,1974-07-14,Atlético Mineiro,Vitória,2,2,E,E,NORMAL,2
+1974,1974-07-14,Nacional-AM,Operário-MS,0,1,D,V,NORMAL,2
+1974,1974-07-14,Portuguesa,Internacional,0,1,D,V,NORMAL,4
+1974,1974-07-14,Goiás,Fluminense,1,1,E,E,NORMAL,4
+1974,1974-07-15,Náutico,Santos,0,2,D,V,NORMAL,3
+1974,1974-07-17,Flamengo,Paysandu,6,0,V,D,NORMAL,1
+1974,1974-07-17,Bahia,Cruzeiro,0,1,D,V,NORMAL,1
+1974,1974-07-17,Atlético Mineiro,Nacional-AM,3,0,V,D,NORMAL,2
+1974,1974-07-17,Náutico,America-RJ,2,2,E,E,NORMAL,3
+1974,1974-07-17,Grêmio,Coritiba,1,0,V,D,NORMAL,3
+1974,1974-07-17,Athletico Paranaense,Goiás,2,1,V,D,NORMAL,4
+1974,1974-07-17,São Paulo,Internacional,0,1,D,V,NORMAL,4
+1974,1974-07-18,Vitória,Vasco,0,0,E,E,NORMAL,2
+1974,1974-07-18,Santos,Fortaleza,1,1,E,E,NORMAL,3
+1974,1974-07-18,Fluminense,Portuguesa,3,1,V,D,NORMAL,4
+1974,1974-07-21,Vasco,Santos,2,1,V,D,NORMAL,A
+1974,1974-07-21,Internacional,Cruzeiro,1,1,E,E,NORMAL,A
+1974,1974-07-24,Cruzeiro,Vasco,1,1,E,E,NORMAL,A
+1974,1974-07-24,Santos,Internacional,2,1,V,D,NORMAL,A
+1974,1974-07-28,Santos,Cruzeiro,1,3,D,V,NORMAL,A
+1974,1974-07-28,Vasco,Internacional,2,2,E,E,NORMAL,A
+1974,1974-08-01,Vasco,Cruzeiro,2,1,V,D,NORMAL,F

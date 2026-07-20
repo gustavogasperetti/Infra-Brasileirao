@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2025,2025-03-29,São Paulo,Sport,0,0,E,E,NORMAL,R1
+2025,2025-03-29,Cruzeiro,Mirassol,2,1,V,D,NORMAL,R1
+2025,2025-03-29,Grêmio,Atlético Mineiro,2,1,V,D,NORMAL,R1
+2025,2025-03-29,Fortaleza,Fluminense,2,0,V,D,NORMAL,R1
+2025,2025-03-29,Juventude,Vitória,2,0,V,D,NORMAL,R1
+2025,2025-03-29,Flamengo,Internacional,1,1,E,E,NORMAL,R1
+2025,2025-03-30,Palmeiras,Botafogo,0,0,E,E,NORMAL,R1
+2025,2025-03-30,Vasco,Santos,2,1,V,D,NORMAL,R1
+2025,2025-03-30,Bahia,Corinthians,1,1,E,E,NORMAL,R1
+2025,2025-03-31,Red Bull Bragantino,Ceará,2,2,E,E,NORMAL,R1
+2025,2025-04-05,Corinthians,Vasco,3,0,V,D,NORMAL,R2
+2025,2025-04-05,Ceará,Grêmio,2,0,V,D,NORMAL,R2
+2025,2025-04-05,Botafogo,Juventude,2,0,V,D,NORMAL,R2
+2025,2025-04-06,Fluminense,Red Bull Bragantino,2,1,V,D,NORMAL,R2
+2025,2025-04-06,Atlético Mineiro,São Paulo,0,0,E,E,NORMAL,R2
+2025,2025-04-06,Mirassol,Fortaleza,1,1,E,E,NORMAL,R2
+2025,2025-04-06,Internacional,Cruzeiro,3,0,V,D,NORMAL,R2
+2025,2025-04-06,Vitória,Flamengo,1,2,D,V,NORMAL,R2
+2025,2025-04-06,Sport,Palmeiras,1,2,D,V,NORMAL,R2
+2025,2025-04-06,Santos,Bahia,2,2,E,E,NORMAL,R2
+2025,2025-04-12,Red Bull Bragantino,Botafogo,1,0,V,D,NORMAL,R3
+2025,2025-04-12,Juventude,Ceará,2,1,V,D,NORMAL,R3
+2025,2025-04-12,Palmeiras,Corinthians,2,0,V,D,NORMAL,R3
+2025,2025-04-12,Vasco,Sport,3,1,V,D,NORMAL,R3
+2025,2025-04-13,Bahia,Mirassol,1,1,E,E,NORMAL,R3
+2025,2025-04-13,São Paulo,Cruzeiro,1,1,E,E,NORMAL,R3
+2025,2025-04-13,Grêmio,Flamengo,0,2,D,V,NORMAL,R3
+2025,2025-04-13,Fluminense,Santos,1,0,V,D,NORMAL,R3
+2025,2025-04-13,Fortaleza,Internacional,0,0,E,E,NORMAL,R3
+2025,2025-04-13,Atlético Mineiro,Vitória,2,2,E,E,NORMAL,R3
+2025,2025-04-15,Ceará,Vasco,2,1,V,D,NORMAL,R4
+2025,2025-04-16,Botafogo,São Paulo,2,2,E,E,NORMAL,R4
+2025,2025-04-16,Mirassol,Grêmio,4,1,V,D,NORMAL,R4
+2025,2025-04-16,Sport,Red Bull Bragantino,0,1,D,V,NORMAL,R4
+2025,2025-04-16,Corinthians,Fluminense,0,2,D,V,NORMAL,R4
+2025,2025-04-16,Internacional,Palmeiras,0,1,D,V,NORMAL,R4
+2025,2025-04-16,Flamengo,Juventude,6,0,V,D,NORMAL,R4
+2025,2025-04-16,Santos,Atlético Mineiro,2,0,V,D,NORMAL,R4
+2025,2025-04-16,Vitória,Fortaleza,2,1,V,D,NORMAL,R4
+2025,2025-04-17,Cruzeiro,Bahia,3,0,V,D,NORMAL,R4
+2025,2025-04-19,Corinthians,Sport,2,1,V,D,NORMAL,R5
+2025,2025-04-19,Vasco,Flamengo,0,0,E,E,NORMAL,R5
+2025,2025-04-19,Grêmio,Internacional,1,1,E,E,NORMAL,R5
+2025,2025-04-20,Juventude,Mirassol,2,2,E,E,NORMAL,R5
+2025,2025-04-20,São Paulo,Santos,2,1,V,D,NORMAL,R5
+2025,2025-04-20,Atlético Mineiro,Botafogo,1,0,V,D,NORMAL,R5
+2025,2025-04-20,Fluminense,Vitória,1,1,E,E,NORMAL,R5
+2025,2025-04-20,Fortaleza,Palmeiras,1,2,D,V,NORMAL,R5
+2025,2025-04-20,Red Bull Bragantino,Cruzeiro,1,0,V,D,NORMAL,R5
+2025,2025-04-21,Bahia,Ceará,1,0,V,D,NORMAL,R5
+2025,2025-04-26,Internacional,Juventude,3,1,V,D,NORMAL,R6
+2025,2025-04-26,Mirassol,Atlético Mineiro,2,2,E,E,NORMAL,R6
+2025,2025-04-26,Ceará,São Paulo,1,1,E,E,NORMAL,R6
+2025,2025-04-26,Sport,Fortaleza,0,0,E,E,NORMAL,R6
+2025,2025-04-26,Botafogo,Fluminense,2,0,V,D,NORMAL,R6
+2025,2025-04-27,Flamengo,Corinthians,4,0,V,D,NORMAL,R6
+2025,2025-04-27,Palmeiras,Bahia,0,1,D,V,NORMAL,R6
+2025,2025-04-27,Cruzeiro,Vasco,1,0,V,D,NORMAL,R6
+2025,2025-04-27,Vitória,Grêmio,1,1,E,E,NORMAL,R6
+2025,2025-04-27,Santos,Red Bull Bragantino,1,2,D,V,NORMAL,R6
+2025,2025-05-02,São Paulo,Fortaleza,0,0,E,E,NORMAL,R7
+2025,2025-05-03,Fluminense,Sport,2,1,V,D,NORMAL,R7
+2025,2025-05-03,Corinthians,Internacional,4,2,V,D,NORMAL,R7
+2025,2025-05-03,Ceará,Vitória,1,0,V,D,NORMAL,R7
+2025,2025-05-03,Bahia,Botafogo,1,0,V,D,NORMAL,R7
+2025,2025-05-04,Vasco,Palmeiras,0,1,D,V,NORMAL,R7
+2025,2025-05-04,Grêmio,Santos,1,0,V,D,NORMAL,R7
+2025,2025-05-04,Cruzeiro,Flamengo,2,1,V,D,NORMAL,R7
+2025,2025-05-05,Red Bull Bragantino,Mirassol,1,0,V,D,NORMAL,R7
+2025,2025-05-05,Juventude,Atlético Mineiro,0,1,D,V,NORMAL,R7
+2025,2025-05-10,Fortaleza,Juventude,5,0,V,D,NORMAL,R8
+2025,2025-05-10,Mirassol,Corinthians,2,1,V,D,NORMAL,R8
+2025,2025-05-10,Grêmio,Red Bull Bragantino,1,1,E,E,NORMAL,R8
+2025,2025-05-10,Vitória,Vasco,2,1,V,D,NORMAL,R8
+2025,2025-05-10,Flamengo,Bahia,1,0,V,D,NORMAL,R8
+2025,2025-05-11,Sport,Cruzeiro,0,4,D,V,NORMAL,R8
+2025,2025-05-11,Palmeiras,São Paulo,1,0,V,D,NORMAL,R8
+2025,2025-05-11,Atlético Mineiro,Fluminense,3,2,V,D,NORMAL,R8
+2025,2025-05-11,Botafogo,Internacional,4,0,V,D,NORMAL,R8
+2025,2025-05-12,Santos,Ceará,0,0,E,E,NORMAL,R8
+2025,2025-05-17,Ceará,Sport,2,0,V,D,NORMAL,R9
+2025,2025-05-17,Vasco,Fortaleza,3,0,V,D,NORMAL,R9
+2025,2025-05-17,São Paulo,Grêmio,2,1,V,D,NORMAL,R9
+2025,2025-05-18,Corinthians,Santos,1,0,V,D,NORMAL,R9
+2025,2025-05-18,Bahia,Vitória,2,1,V,D,NORMAL,R9
+2025,2025-05-18,Juventude,Fluminense,1,1,E,E,NORMAL,R9
+2025,2025-05-18,Flamengo,Botafogo,0,0,E,E,NORMAL,R9
+2025,2025-05-18,Red Bull Bragantino,Palmeiras,1,2,D,V,NORMAL,R9
+2025,2025-05-18,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,R9
+2025,2025-05-18,Internacional,Mirassol,1,1,E,E,NORMAL,R9
+2025,2025-05-24,Fluminense,Vasco,2,1,V,D,NORMAL,R10
+2025,2025-05-24,São Paulo,Mirassol,0,2,D,V,NORMAL,R10
+2025,2025-05-24,Atlético Mineiro,Corinthians,0,0,E,E,NORMAL,R10
+2025,2025-05-25,Grêmio,Bahia,1,0,V,D,NORMAL,R10
+2025,2025-05-25,Palmeiras,Flamengo,0,2,D,V,NORMAL,R10
+2025,2025-05-25,Sport,Internacional,1,1,E,E,NORMAL,R10
+2025,2025-05-25,Vitória,Santos,0,1,D,V,NORMAL,R10
+2025,2025-05-25,Fortaleza,Cruzeiro,0,2,D,V,NORMAL,R10
+2025,2025-05-26,Red Bull Bragantino,Juventude,1,0,V,D,NORMAL,R10
+2025,2025-05-31,Bahia,São Paulo,2,1,V,D,NORMAL,R11
+2025,2025-05-31,Vasco,Red Bull Bragantino,0,2,D,V,NORMAL,R11
+2025,2025-06-01,Mirassol,Sport,1,0,V,D,NORMAL,R11
+2025,2025-06-01,Santos,Botafogo,0,1,D,V,NORMAL,R11
+2025,2025-06-01,Juventude,Grêmio,0,2,D,V,NORMAL,R11
+2025,2025-06-01,Flamengo,Fortaleza,5,0,V,D,NORMAL,R11
+2025,2025-06-01,Corinthians,Vitória,0,0,E,E,NORMAL,R11
+2025,2025-06-01,Ceará,Atlético Mineiro,0,1,D,V,NORMAL,R11
+2025,2025-06-01,Cruzeiro,Palmeiras,2,1,V,D,NORMAL,R11
+2025,2025-06-01,Internacional,Fluminense,0,2,D,V,NORMAL,R11
+2025,2025-06-04,Botafogo,Ceará,3,2,V,D,NORMAL,R10
+2025,2025-06-12,Red Bull Bragantino,Bahia,0,3,D,V,NORMAL,R12
+2025,2025-06-12,Vitória,Cruzeiro,0,0,E,E,NORMAL,R12
+2025,2025-06-12,Fortaleza,Santos,2,3,D,V,NORMAL,R12
+2025,2025-06-12,Grêmio,Corinthians,1,1,E,E,NORMAL,R12
+2025,2025-06-12,São Paulo,Vasco,1,3,D,V,NORMAL,R12
+2025,2025-06-12,Atlético Mineiro,Internacional,2,0,V,D,NORMAL,R12
+2025,2025-07-12,Flamengo,São Paulo,2,0,V,D,NORMAL,R13
+2025,2025-07-12,Internacional,Vitória,1,0,V,D,NORMAL,R13
+2025,2025-07-12,Vasco,Botafogo,0,2,D,V,NORMAL,R13
+2025,2025-07-12,Bahia,Atlético Mineiro,2,1,V,D,NORMAL,R13
+2025,2025-07-13,Corinthians,Red Bull Bragantino,1,2,D,V,NORMAL,R13
+2025,2025-07-13,Cruzeiro,Grêmio,4,1,V,D,NORMAL,R13
+2025,2025-07-13,Fortaleza,Ceará,0,1,D,V,NORMAL,R13
+2025,2025-07-14,Juventude,Sport,2,0,V,D,NORMAL,R13
+2025,2025-07-16,Palmeiras,Mirassol,1,1,E,E,NORMAL,R14
+2025,2025-07-16,Ceará,Corinthians,0,1,D,V,NORMAL,R14
+2025,2025-07-16,Santos,Flamengo,1,0,V,D,NORMAL,R14
+2025,2025-07-16,Botafogo,Vitória,0,0,E,E,NORMAL,R14
+2025,2025-07-16,Red Bull Bragantino,São Paulo,2,2,E,E,NORMAL,R14
+2025,2025-07-17,Fluminense,Cruzeiro,0,2,D,V,NORMAL,R14
+2025,2025-07-19,Fortaleza,Bahia,1,1,E,E,NORMAL,R15
+2025,2025-07-19,Vasco,Grêmio,1,1,E,E,NORMAL,R15
+2025,2025-07-19,Mirassol,Santos,3,0,V,D,NORMAL,R15
+2025,2025-07-19,São Paulo,Corinthians,2,0,V,D,NORMAL,R15
+2025,2025-07-20,Internacional,Ceará,1,0,V,D,NORMAL,R15
+2025,2025-07-20,Cruzeiro,Juventude,4,0,V,D,NORMAL,R15
+2025,2025-07-20,Vitória,Red Bull Bragantino,1,0,V,D,NORMAL,R15
+2025,2025-07-20,Palmeiras,Atlético Mineiro,3,2,V,D,NORMAL,R15
+2025,2025-07-20,Sport,Botafogo,0,1,D,V,NORMAL,R15
+2025,2025-07-20,Flamengo,Fluminense,1,0,V,D,NORMAL,R15
+2025,2025-07-23,Fluminense,Palmeiras,1,2,D,V,NORMAL,R16
+2025,2025-07-23,Ceará,Mirassol,0,2,D,V,NORMAL,R16
+2025,2025-07-23,Corinthians,Cruzeiro,0,0,E,E,NORMAL,R16
+2025,2025-07-23,Santos,Internacional,1,2,D,V,NORMAL,R16
+2025,2025-07-23,Red Bull Bragantino,Flamengo,1,2,D,V,NORMAL,R16
+2025,2025-07-23,Vitória,Sport,2,2,E,E,NORMAL,R16
+2025,2025-07-24,Juventude,São Paulo,0,1,D,V,NORMAL,R16
+2025,2025-07-26,Botafogo,Corinthians,1,1,E,E,NORMAL,R17
+2025,2025-07-26,Mirassol,Vitória,1,1,E,E,NORMAL,R17
+2025,2025-07-26,Fortaleza,Red Bull Bragantino,3,1,V,D,NORMAL,R17
+2025,2025-07-26,Sport,Santos,2,2,E,E,NORMAL,R17
+2025,2025-07-26,Palmeiras,Grêmio,1,0,V,D,NORMAL,R17
+2025,2025-07-27,São Paulo,Fluminense,3,1,V,D,NORMAL,R17
+2025,2025-07-27,Cruzeiro,Ceará,1,2,D,V,NORMAL,R17
+2025,2025-07-27,Internacional,Vasco,1,1,E,E,NORMAL,R17
+2025,2025-07-27,Bahia,Juventude,3,0,V,D,NORMAL,R17
+2025,2025-07-27,Flamengo,Atlético Mineiro,1,0,V,D,NORMAL,R17
+2025,2025-07-29,Grêmio,Fortaleza,2,1,V,D,NORMAL,R14
+2025,2025-08-02,Sport,Bahia,0,0,E,E,NORMAL,R18
+2025,2025-08-02,Mirassol,Vasco,3,2,V,D,NORMAL,R18
+2025,2025-08-02,Fluminense,Grêmio,1,0,V,D,NORMAL,R18
+2025,2025-08-03,Botafogo,Cruzeiro,0,2,D,V,NORMAL,R18
+2025,2025-08-03,Corinthians,Fortaleza,1,1,E,E,NORMAL,R18
+2025,2025-08-03,Atlético Mineiro,Red Bull Bragantino,2,1,V,D,NORMAL,R18
+2025,2025-08-03,Ceará,Flamengo,1,1,E,E,NORMAL,R18
+2025,2025-08-03,Vitória,Palmeiras,2,2,E,E,NORMAL,R18
+2025,2025-08-03,Internacional,São Paulo,1,2,D,V,NORMAL,R18
+2025,2025-08-04,Santos,Juventude,3,1,V,D,NORMAL,R18
+2025,2025-08-09,Flamengo,Mirassol,2,1,V,D,NORMAL,R19
+2025,2025-08-09,São Paulo,Vitória,2,0,V,D,NORMAL,R19
+2025,2025-08-09,Red Bull Bragantino,Internacional,1,3,D,V,NORMAL,R19
+2025,2025-08-09,Fortaleza,Botafogo,0,5,D,V,NORMAL,R19
+2025,2025-08-09,Bahia,Fluminense,3,3,E,E,NORMAL,R19
+2025,2025-08-10,Vasco,Atlético Mineiro,1,1,E,E,NORMAL,R19
+2025,2025-08-10,Palmeiras,Ceará,2,1,V,D,NORMAL,R19
+2025,2025-08-10,Cruzeiro,Santos,1,2,D,V,NORMAL,R19
+2025,2025-08-10,Grêmio,Sport,0,1,D,V,NORMAL,R19
+2025,2025-08-11,Juventude,Corinthians,2,1,V,D,NORMAL,R19
+2025,2025-08-16,Fluminense,Fortaleza,2,1,V,D,NORMAL,R20
+2025,2025-08-16,Ceará,Red Bull Bragantino,1,0,V,D,NORMAL,R20
+2025,2025-08-16,Vitória,Juventude,2,2,E,E,NORMAL,R20
+2025,2025-08-16,Sport,São Paulo,2,2,E,E,NORMAL,R20
+2025,2025-08-16,Corinthians,Bahia,1,2,D,V,NORMAL,R20
+2025,2025-08-17,Santos,Vasco,0,6,D,V,NORMAL,R20
+2025,2025-08-17,Atlético Mineiro,Grêmio,1,3,D,V,NORMAL,R20
+2025,2025-08-17,Internacional,Flamengo,1,3,D,V,NORMAL,R20
+2025,2025-08-17,Botafogo,Palmeiras,0,1,D,V,NORMAL,R20
+2025,2025-08-18,Mirassol,Cruzeiro,1,1,E,E,NORMAL,R20
+2025,2025-08-20,Juventude,Vasco,2,0,V,D,NORMAL,R14
+2025,2025-08-23,Red Bull Bragantino,Fluminense,4,2,V,D,NORMAL,R21
+2025,2025-08-23,Cruzeiro,Internacional,2,1,V,D,NORMAL,R21
+2025,2025-08-23,Grêmio,Ceará,0,0,E,E,NORMAL,R21
+2025,2025-08-24,Vasco,Corinthians,2,3,D,V,NORMAL,R21
+2025,2025-08-24,Bahia,Santos,2,0,V,D,NORMAL,R21
+2025,2025-08-24,Fortaleza,Mirassol,0,1,D,V,NORMAL,R21
+2025,2025-08-24,Juventude,Botafogo,1,3,D,V,NORMAL,R21
+2025,2025-08-24,São Paulo,Atlético Mineiro,2,0,V,D,NORMAL,R21
+2025,2025-08-25,Palmeiras,Sport,3,0,V,D,NORMAL,R21
+2025,2025-08-25,Flamengo,Vitória,8,0,V,D,NORMAL,R21
+2025,2025-08-30,Ceará,Juventude,0,1,D,V,NORMAL,R22
+2025,2025-08-30,Botafogo,Red Bull Bragantino,4,1,V,D,NORMAL,R22
+2025,2025-08-30,Cruzeiro,São Paulo,1,0,V,D,NORMAL,R22
+2025,2025-08-31,Flamengo,Grêmio,1,1,E,E,NORMAL,R22
+2025,2025-08-31,Santos,Fluminense,0,0,E,E,NORMAL,R22
+2025,2025-08-31,Corinthians,Palmeiras,1,1,E,E,NORMAL,R22
+2025,2025-08-31,Mirassol,Bahia,5,1,V,D,NORMAL,R22
+2025,2025-08-31,Vitória,Atlético Mineiro,1,0,V,D,NORMAL,R22
+2025,2025-08-31,Internacional,Fortaleza,2,1,V,D,NORMAL,R22
+2025,2025-08-31,Sport,Vasco,2,3,D,V,NORMAL,R22
+2025,2025-09-13,Grêmio,Mirassol,0,1,D,V,NORMAL,R23
+2025,2025-09-13,Fortaleza,Vitória,2,0,V,D,NORMAL,R23
+2025,2025-09-13,Palmeiras,Internacional,4,1,V,D,NORMAL,R23
+2025,2025-09-13,Fluminense,Corinthians,0,1,D,V,NORMAL,R23
+2025,2025-09-14,Red Bull Bragantino,Sport,1,1,E,E,NORMAL,R23
+2025,2025-09-14,Atlético Mineiro,Santos,1,1,E,E,NORMAL,R23
+2025,2025-09-14,Juventude,Flamengo,0,2,D,V,NORMAL,R23
+2025,2025-09-14,São Paulo,Botafogo,1,0,V,D,NORMAL,R23
+2025,2025-09-14,Vasco,Ceará,2,2,E,E,NORMAL,R23
+2025,2025-09-15,Bahia,Cruzeiro,1,2,D,V,NORMAL,R23
+2025,2025-09-17,Botafogo,Mirassol,3,3,E,E,NORMAL,R12
+2025,2025-09-20,Vitória,Fluminense,0,1,D,V,NORMAL,R24
+2025,2025-09-20,Botafogo,Atlético Mineiro,1,0,V,D,NORMAL,R24
+2025,2025-09-20,Ceará,Bahia,1,1,E,E,NORMAL,R24
+2025,2025-09-20,Palmeiras,Fortaleza,4,1,V,D,NORMAL,R24
+2025,2025-09-21,Mirassol,Juventude,2,0,V,D,NORMAL,R24
+2025,2025-09-21,Flamengo,Vasco,1,1,E,E,NORMAL,R24
+2025,2025-09-21,Internacional,Grêmio,2,3,D,V,NORMAL,R24
+2025,2025-09-21,Sport,Corinthians,1,0,V,D,NORMAL,R24
+2025,2025-09-21,Santos,São Paulo,1,0,V,D,NORMAL,R24
+2025,2025-09-21,Cruzeiro,Red Bull Bragantino,2,1,V,D,NORMAL,R24
+2025,2025-09-24,Vasco,Bahia,3,1,V,D,NORMAL,R16
+2025,2025-09-24,Grêmio,Botafogo,1,1,E,E,NORMAL,R16
+2025,2025-09-27,Fortaleza,Sport,1,0,V,D,NORMAL,R25
+2025,2025-09-27,Vasco,Cruzeiro,2,0,V,D,NORMAL,R25
+2025,2025-09-27,Juventude,Internacional,1,1,E,E,NORMAL,R25
+2025,2025-09-27,Atlético Mineiro,Mirassol,1,0,V,D,NORMAL,R25
+2025,2025-09-28,Grêmio,Vitória,3,1,V,D,NORMAL,R25
+2025,2025-09-28,Fluminense,Botafogo,2,0,V,D,NORMAL,R25
+2025,2025-09-28,Bahia,Palmeiras,1,0,V,D,NORMAL,R25
+2025,2025-09-28,Red Bull Bragantino,Santos,2,2,E,E,NORMAL,R25
+2025,2025-09-28,Corinthians,Flamengo,1,2,D,V,NORMAL,R25
+2025,2025-09-29,São Paulo,Ceará,0,1,D,V,NORMAL,R25
+2025,2025-09-30,Atlético Mineiro,Juventude,0,0,E,E,NORMAL,R26
+2025,2025-10-01,Palmeiras,Vasco,3,0,V,D,NORMAL,R26
+2025,2025-10-01,Mirassol,Red Bull Bragantino,1,1,E,E,NORMAL,R26
+2025,2025-10-01,Sport,Fluminense,2,2,E,E,NORMAL,R26
+2025,2025-10-01,Internacional,Corinthians,1,1,E,E,NORMAL,R26
+2025,2025-10-01,Botafogo,Bahia,2,1,V,D,NORMAL,R26
+2025,2025-10-01,Santos,Grêmio,1,1,E,E,NORMAL,R26
+2025,2025-10-02,Vitória,Ceará,1,0,V,D,NORMAL,R26
+2025,2025-10-02,Fortaleza,São Paulo,0,2,D,V,NORMAL,R26
+2025,2025-10-02,Flamengo,Cruzeiro,0,0,E,E,NORMAL,R26
+2025,2025-10-04,Fluminense,Atlético Mineiro,3,0,V,D,NORMAL,R27
+2025,2025-10-04,Red Bull Bragantino,Grêmio,1,0,V,D,NORMAL,R27
+2025,2025-10-04,Internacional,Botafogo,2,0,V,D,NORMAL,R27
+2025,2025-10-04,Corinthians,Mirassol,3,0,V,D,NORMAL,R27
+2025,2025-10-05,Vasco,Vitória,4,3,V,D,NORMAL,R27
+2025,2025-10-05,São Paulo,Palmeiras,2,3,D,V,NORMAL,R27
+2025,2025-10-05,Bahia,Flamengo,1,0,V,D,NORMAL,R27
+2025,2025-10-05,Juventude,Fortaleza,1,2,D,V,NORMAL,R27
+2025,2025-10-05,Cruzeiro,Sport,1,1,E,E,NORMAL,R27
+2025,2025-10-05,Ceará,Santos,3,0,V,D,NORMAL,R27
+2025,2025-10-08,Atlético Mineiro,Sport,3,1,V,D,NORMAL,R14
+2025,2025-10-08,Mirassol,Fluminense,2,1,V,D,NORMAL,R13
+2025,2025-10-11,Palmeiras,Juventude,4,1,V,D,NORMAL,R12
+2025,2025-10-15,Palmeiras,Red Bull Bragantino,5,1,V,D,NORMAL,R28
+2025,2025-10-15,Botafogo,Flamengo,0,3,D,V,NORMAL,R28
+2025,2025-10-15,Mirassol,Internacional,3,1,V,D,NORMAL,R28
+2025,2025-10-15,Sport,Ceará,1,1,E,E,NORMAL,R28
+2025,2025-10-15,Santos,Corinthians,3,1,V,D,NORMAL,R28
+2025,2025-10-15,Atlético Mineiro,Cruzeiro,1,1,E,E,NORMAL,R28
+2025,2025-10-15,Fortaleza,Vasco,0,2,D,V,NORMAL,R28
+2025,2025-10-16,Grêmio,São Paulo,2,0,V,D,NORMAL,R28
+2025,2025-10-16,Fluminense,Juventude,1,0,V,D,NORMAL,R28
+2025,2025-10-16,Vitória,Bahia,2,1,V,D,NORMAL,R28
+2025,2025-10-18,Corinthians,Atlético Mineiro,1,0,V,D,NORMAL,R29
+2025,2025-10-18,Cruzeiro,Fortaleza,1,0,V,D,NORMAL,R29
+2025,2025-10-19,Flamengo,Palmeiras,3,2,V,D,NORMAL,R29
+2025,2025-10-19,Mirassol,São Paulo,3,0,V,D,NORMAL,R29
+2025,2025-10-19,Internacional,Sport,2,0,V,D,NORMAL,R29
+2025,2025-10-19,Ceará,Botafogo,0,2,D,V,NORMAL,R29
+2025,2025-10-19,Bahia,Grêmio,4,0,V,D,NORMAL,R29
+2025,2025-10-20,Juventude,Red Bull Bragantino,1,0,V,D,NORMAL,R29
+2025,2025-10-20,Vasco,Fluminense,2,0,V,D,NORMAL,R29
+2025,2025-10-20,Santos,Vitória,0,1,D,V,NORMAL,R29
+2025,2025-10-22,Bahia,Internacional,1,0,V,D,NORMAL,R14
+2025,2025-10-25,Atlético Mineiro,Ceará,1,0,V,D,NORMAL,R30
+2025,2025-10-25,Vitória,Corinthians,0,1,D,V,NORMAL,R30
+2025,2025-10-25,Fluminense,Internacional,1,0,V,D,NORMAL,R30
+2025,2025-10-25,Sport,Mirassol,1,2,D,V,NORMAL,R30
+2025,2025-10-25,Fortaleza,Flamengo,1,0,V,D,NORMAL,R30
+2025,2025-10-25,São Paulo,Bahia,2,0,V,D,NORMAL,R30
+2025,2025-10-26,Botafogo,Santos,2,2,E,E,NORMAL,R30
+2025,2025-10-26,Grêmio,Juventude,3,1,V,D,NORMAL,R30
+2025,2025-10-26,Red Bull Bragantino,Vasco,0,3,D,V,NORMAL,R30
+2025,2025-10-26,Palmeiras,Cruzeiro,0,0,E,E,NORMAL,R30
+2025,2025-10-29,Fluminense,Ceará,1,0,V,D,NORMAL,R12
+2025,2025-11-01,Santos,Fortaleza,1,1,E,E,NORMAL,R31
+2025,2025-11-01,Cruzeiro,Vitória,3,1,V,D,NORMAL,R31
+2025,2025-11-01,Mirassol,Botafogo,0,0,E,E,NORMAL,R31
+2025,2025-11-01,Flamengo,Sport,3,0,V,D,NORMAL,R31
+2025,2025-11-02,Corinthians,Grêmio,2,0,V,D,NORMAL,R31
+2025,2025-11-02,Bahia,Red Bull Bragantino,2,1,V,D,NORMAL,R31
+2025,2025-11-02,Ceará,Fluminense,2,0,V,D,NORMAL,R31
+2025,2025-11-02,Internacional,Atlético Mineiro,0,0,E,E,NORMAL,R31
+2025,2025-11-02,Juventude,Palmeiras,0,2,D,V,NORMAL,R31
+2025,2025-11-02,Vasco,São Paulo,0,2,D,V,NORMAL,R31
+2025,2025-11-05,Red Bull Bragantino,Corinthians,2,1,V,D,NORMAL,R32
+2025,2025-11-05,Vitória,Internacional,1,0,V,D,NORMAL,R32
+2025,2025-11-05,Sport,Juventude,0,2,D,V,NORMAL,R32
+2025,2025-11-05,Botafogo,Vasco,3,0,V,D,NORMAL,R32
+2025,2025-11-05,Atlético Mineiro,Bahia,3,0,V,D,NORMAL,R32
+2025,2025-11-05,Grêmio,Cruzeiro,0,1,D,V,NORMAL,R32
+2025,2025-11-05,São Paulo,Flamengo,2,2,E,E,NORMAL,R32
+2025,2025-11-06,Fluminense,Mirassol,1,0,V,D,NORMAL,R32
+2025,2025-11-06,Ceará,Fortaleza,1,1,E,E,NORMAL,R32
+2025,2025-11-06,Palmeiras,Santos,2,0,V,D,NORMAL,R32
+2025,2025-11-08,Sport,Atlético Mineiro,2,4,D,V,NORMAL,R33
+2025,2025-11-08,Vasco,Juventude,1,3,D,V,NORMAL,R33
+2025,2025-11-08,Internacional,Bahia,2,2,E,E,NORMAL,R33
+2025,2025-11-08,São Paulo,Red Bull Bragantino,0,1,D,V,NORMAL,R33
+2025,2025-11-09,Corinthians,Ceará,0,1,D,V,NORMAL,R33
+2025,2025-11-09,Cruzeiro,Fluminense,0,0,E,E,NORMAL,R33
+2025,2025-11-09,Vitória,Botafogo,0,0,E,E,NORMAL,R33
+2025,2025-11-09,Flamengo,Santos,3,2,V,D,NORMAL,R33
+2025,2025-11-09,Mirassol,Palmeiras,2,1,V,D,NORMAL,R33
+2025,2025-11-09,Fortaleza,Grêmio,2,2,E,E,NORMAL,R33
+2025,2025-11-12,Atlético Mineiro,Fortaleza,3,3,E,E,NORMAL,R16
+2025,2025-11-15,Sport,Flamengo,1,5,D,V,NORMAL,R12
+2025,2025-11-15,Santos,Palmeiras,1,0,V,D,NORMAL,R13
+2025,2025-11-16,Red Bull Bragantino,Atlético Mineiro,2,0,V,D,NORMAL,R37
+2025,2025-11-18,Botafogo,Sport,3,2,V,D,NORMAL,R34
+2025,2025-11-19,Palmeiras,Vitória,0,0,E,E,NORMAL,R37
+2025,2025-11-19,Fluminense,Flamengo,2,1,V,D,NORMAL,R34
+2025,2025-11-19,Santos,Mirassol,1,1,E,E,NORMAL,R34
+2025,2025-11-19,Grêmio,Vasco,2,0,V,D,NORMAL,R34
+2025,2025-11-20,Juventude,Cruzeiro,3,3,E,E,NORMAL,R34
+2025,2025-11-20,Bahia,Fortaleza,2,3,D,V,NORMAL,R34
+2025,2025-11-20,Corinthians,São Paulo,3,1,V,D,NORMAL,R34
+2025,2025-11-20,Ceará,Internacional,1,2,D,V,NORMAL,R34
+2025,2025-11-22,Botafogo,Grêmio,3,2,V,D,NORMAL,R35
+2025,2025-11-22,Flamengo,Red Bull Bragantino,3,0,V,D,NORMAL,R35
+2025,2025-11-22,Palmeiras,Fluminense,0,0,E,E,NORMAL,R35
+2025,2025-11-23,São Paulo,Juventude,2,1,V,D,NORMAL,R35
+2025,2025-11-23,Bahia,Vasco,1,0,V,D,NORMAL,R35
+2025,2025-11-23,Sport,Vitória,1,3,D,V,NORMAL,R35
+2025,2025-11-23,Cruzeiro,Corinthians,3,0,V,D,NORMAL,R35
+2025,2025-11-24,Mirassol,Ceará,3,0,V,D,NORMAL,R35
+2025,2025-11-24,Internacional,Santos,1,1,E,E,NORMAL,R35
+2025,2025-11-25,Atlético Mineiro,Flamengo,1,1,E,E,NORMAL,R36
+2025,2025-11-25,Grêmio,Palmeiras,3,2,V,D,NORMAL,R36
+2025,2025-11-26,Red Bull Bragantino,Fortaleza,0,1,D,V,NORMAL,R36
+2025,2025-11-27,Fluminense,São Paulo,6,0,V,D,NORMAL,R36
+2025,2025-11-28,Juventude,Bahia,1,1,E,E,NORMAL,R36
+2025,2025-11-28,Vasco,Internacional,5,1,V,D,NORMAL,R36
+2025,2025-11-28,Santos,Sport,3,0,V,D,NORMAL,R36
+2025,2025-11-29,Vitória,Mirassol,2,0,V,D,NORMAL,R36
+2025,2025-11-29,Ceará,Cruzeiro,1,1,E,E,NORMAL,R36
+2025,2025-11-30,Corinthians,Botafogo,2,2,E,E,NORMAL,R36
+2025,2025-11-30,Fortaleza,Atlético Mineiro,1,0,V,D,NORMAL,R35
+2025,2025-12-02,Vasco,Mirassol,0,2,D,V,NORMAL,R37
+2025,2025-12-02,Grêmio,Fluminense,1,2,D,V,NORMAL,R37
+2025,2025-12-03,Red Bull Bragantino,Vitória,4,0,V,D,NORMAL,R34
+2025,2025-12-03,Fortaleza,Corinthians,2,1,V,D,NORMAL,R37
+2025,2025-12-03,Juventude,Santos,0,3,D,V,NORMAL,R37
+2025,2025-12-03,Bahia,Sport,2,0,V,D,NORMAL,R37
+2025,2025-12-03,São Paulo,Internacional,3,0,V,D,NORMAL,R37
+2025,2025-12-03,Atlético Mineiro,Palmeiras,0,3,D,V,NORMAL,R34
+2025,2025-12-03,Flamengo,Ceará,1,0,V,D,NORMAL,R37
+2025,2025-12-04,Cruzeiro,Botafogo,2,2,E,E,NORMAL,R37
+2025,2025-12-06,Mirassol,Flamengo,3,3,E,E,NORMAL,R38
+2025,2025-12-07,Fluminense,Bahia,2,0,V,D,NORMAL,R38
+2025,2025-12-07,Botafogo,Fortaleza,4,2,V,D,NORMAL,R38
+2025,2025-12-07,Corinthians,Juventude,1,1,E,E,NORMAL,R38
+2025,2025-12-07,Santos,Cruzeiro,3,0,V,D,NORMAL,R38
+2025,2025-12-07,Atlético Mineiro,Vasco,5,0,V,D,NORMAL,R38
+2025,2025-12-07,Internacional,Red Bull Bragantino,3,1,V,D,NORMAL,R38
+2025,2025-12-07,Vitória,São Paulo,1,0,V,D,NORMAL,R38
+2025,2025-12-07,Ceará,Palmeiras,1,3,D,V,NORMAL,R38
+2025,2025-12-07,Sport,Grêmio,0,4,D,V,NORMAL,R38

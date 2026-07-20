@@ -1,0 +1,387 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2001,2001-08-01,Guarani,Palmeiras,1,3,D,V,NORMAL,R1
+2001,2001-08-01,Botafogo,América Mineiro,1,1,E,E,NORMAL,R1
+2001,2001-08-01,Portuguesa,Goiás,0,1,D,V,NORMAL,R1
+2001,2001-08-01,Flamengo,Ponte Preta,0,0,E,E,NORMAL,R1
+2001,2001-08-01,Corinthians,Vitória,2,0,V,D,NORMAL,R1
+2001,2001-08-01,Paraná,Cruzeiro,1,0,V,D,NORMAL,R1
+2001,2001-08-01,Internacional,Juventude,0,2,D,V,NORMAL,R1
+2001,2001-08-01,Sport,Fluminense,1,1,E,E,NORMAL,R1
+2001,2001-08-01,Bahia,São Caetano,5,0,V,D,NORMAL,R1
+2001,2001-08-01,Botafogo-SP,São Paulo,2,2,E,E,NORMAL,R1
+2001,2001-08-01,Gama,Vasco,0,0,E,E,NORMAL,R1
+2001,2001-08-01,Atlético Mineiro,Coritiba,1,1,E,E,NORMAL,R1
+2001,2001-08-02,Santos,Santa Cruz,1,1,E,E,NORMAL,R1
+2001,2001-08-02,Athletico Paranaense,Grêmio,2,0,V,D,NORMAL,R1
+2001,2001-08-04,Palmeiras,Bahia,2,1,V,D,NORMAL,R2
+2001,2001-08-04,Fluminense,Botafogo-SP,2,0,V,D,NORMAL,R2
+2001,2001-08-04,América Mineiro,Portuguesa,0,0,E,E,NORMAL,R2
+2001,2001-08-04,Juventude,Atlético Mineiro,1,4,D,V,NORMAL,R2
+2001,2001-08-05,Ponte Preta,Corinthians,2,2,E,E,NORMAL,R2
+2001,2001-08-05,Vasco,Guarani,7,1,V,D,NORMAL,R2
+2001,2001-08-05,São Paulo,Gama,0,0,E,E,NORMAL,R2
+2001,2001-08-05,Cruzeiro,Athletico Paranaense,1,2,D,V,NORMAL,R2
+2001,2001-08-05,Coritiba,Internacional,3,2,V,D,NORMAL,R2
+2001,2001-08-05,Grêmio,Paraná,2,1,V,D,NORMAL,R2
+2001,2001-08-05,Santa Cruz,Botafogo,0,4,D,V,NORMAL,R2
+2001,2001-08-05,Vitória,Santos,1,1,E,E,NORMAL,R2
+2001,2001-08-05,São Caetano,Sport,2,0,V,D,NORMAL,R2
+2001,2001-08-05,Goiás,Flamengo,2,0,V,D,NORMAL,R2
+2001,2001-08-08,Juventude,Palmeiras,0,0,E,E,NORMAL,R3
+2001,2001-08-08,Coritiba,Vasco,1,0,V,D,NORMAL,R3
+2001,2001-08-08,Vitória,São Paulo,2,1,V,D,NORMAL,R3
+2001,2001-08-08,Corinthians,Botafogo-SP,3,2,V,D,NORMAL,R3
+2001,2001-08-08,Cruzeiro,Ponte Preta,0,0,E,E,NORMAL,R3
+2001,2001-08-08,Grêmio,Goiás,0,0,E,E,NORMAL,R3
+2001,2001-08-08,Santa Cruz,Internacional,1,2,D,V,NORMAL,R3
+2001,2001-08-08,Flamengo,Paraná,0,1,D,V,NORMAL,R3
+2001,2001-08-08,Gama,Santos,1,1,E,E,NORMAL,R3
+2001,2001-08-08,São Caetano,Athletico Paranaense,0,0,E,E,NORMAL,R3
+2001,2001-08-09,Botafogo,Bahia,3,2,V,D,NORMAL,R3
+2001,2001-08-09,Guarani,Fluminense,1,1,E,E,NORMAL,R3
+2001,2001-08-09,Portuguesa,Sport,2,1,V,D,NORMAL,R3
+2001,2001-08-09,América Mineiro,Atlético Mineiro,0,1,D,V,NORMAL,R3
+2001,2001-08-11,Vasco,Juventude,1,1,E,E,NORMAL,R4
+2001,2001-08-11,São Paulo,Santa Cruz,3,1,V,D,NORMAL,R4
+2001,2001-08-11,Athletico Paranaense,Flamengo,4,0,V,D,NORMAL,R4
+2001,2001-08-11,Botafogo-SP,Cruzeiro,1,4,D,V,NORMAL,R4
+2001,2001-08-12,Paraná,Corinthians,3,1,V,D,NORMAL,R4
+2001,2001-08-12,Ponte Preta,Botafogo,3,1,V,D,NORMAL,R4
+2001,2001-08-12,Fluminense,Vitória,1,1,E,E,NORMAL,R4
+2001,2001-08-12,Atlético Mineiro,Guarani,3,0,V,D,NORMAL,R4
+2001,2001-08-12,Internacional,Gama,2,0,V,D,NORMAL,R4
+2001,2001-08-12,Sport,Grêmio,2,1,V,D,NORMAL,R4
+2001,2001-08-12,Bahia,Portuguesa,2,1,V,D,NORMAL,R4
+2001,2001-08-12,Goiás,São Caetano,0,0,E,E,NORMAL,R4
+2001,2001-08-12,Santos,Coritiba,2,0,V,D,NORMAL,R4
+2001,2001-08-12,Palmeiras,América Mineiro,3,1,V,D,NORMAL,R4
+2001,2001-08-15,Flamengo,Sport,2,1,V,D,NORMAL,R5
+2001,2001-08-15,Corinthians,Juventude,0,0,E,E,NORMAL,R5
+2001,2001-08-15,Cruzeiro,América Mineiro,0,3,D,V,NORMAL,R5
+2001,2001-08-15,Paraná,Ponte Preta,1,2,D,V,NORMAL,R5
+2001,2001-08-15,Santa Cruz,Palmeiras,3,2,V,D,NORMAL,R5
+2001,2001-08-15,Vitória,Vasco,1,0,V,D,NORMAL,R5
+2001,2001-08-15,São Caetano,Fluminense,1,1,E,E,NORMAL,R5
+2001,2001-08-16,Internacional,Bahia,2,0,V,D,NORMAL,R5
+2001,2001-08-16,Botafogo,Goiás,0,1,D,V,NORMAL,R5
+2001,2001-08-16,Portuguesa,Coritiba,1,0,V,D,NORMAL,R5
+2001,2001-08-16,Athletico Paranaense,Atlético Mineiro,1,0,V,D,NORMAL,R5
+2001,2001-08-16,Guarani,São Paulo,1,2,D,V,NORMAL,R5
+2001,2001-08-16,Botafogo-SP,Santos,0,1,D,V,NORMAL,R5
+2001,2001-08-16,Gama,Grêmio,2,1,V,D,NORMAL,R5
+2001,2001-08-18,Vasco,Santa Cruz,1,1,E,E,NORMAL,R6
+2001,2001-08-18,Palmeiras,Paraná,3,1,V,D,NORMAL,R6
+2001,2001-08-18,América Mineiro,São Caetano,0,1,D,V,NORMAL,R6
+2001,2001-08-19,Sport,Corinthians,2,1,V,D,NORMAL,R6
+2001,2001-08-19,Bahia,Flamengo,0,2,D,V,NORMAL,R6
+2001,2001-08-19,Fluminense,Gama,4,3,V,D,NORMAL,R6
+2001,2001-08-19,São Paulo,Athletico Paranaense,2,1,V,D,NORMAL,R6
+2001,2001-08-19,Atlético Mineiro,Botafogo-SP,2,0,V,D,NORMAL,R6
+2001,2001-08-19,Coritiba,Cruzeiro,3,2,V,D,NORMAL,R6
+2001,2001-08-19,Grêmio,Vitória,0,0,E,E,NORMAL,R6
+2001,2001-08-19,Ponte Preta,Portuguesa,2,1,V,D,NORMAL,R6
+2001,2001-08-19,Goiás,Internacional,0,1,D,V,NORMAL,R6
+2001,2001-08-19,Santos,Botafogo,0,0,E,E,NORMAL,R6
+2001,2001-08-19,Juventude,Guarani,1,0,V,D,NORMAL,R6
+2001,2001-08-25,Fluminense,Santa Cruz,3,2,V,D,NORMAL,R7
+2001,2001-08-25,Palmeiras,Goiás,3,2,V,D,NORMAL,R7
+2001,2001-08-25,Paraná,Portuguesa,0,1,D,V,NORMAL,R7
+2001,2001-08-26,Bahia,Corinthians,1,0,V,D,NORMAL,R7
+2001,2001-08-26,Botafogo-SP,Flamengo,1,0,V,D,NORMAL,R7
+2001,2001-08-26,Vasco,Athletico Paranaense,4,0,V,D,NORMAL,R7
+2001,2001-08-26,São Paulo,Ponte Preta,4,0,V,D,NORMAL,R7
+2001,2001-08-26,Atlético Mineiro,Vitória,3,0,V,D,NORMAL,R7
+2001,2001-08-26,Coritiba,São Caetano,1,1,E,E,NORMAL,R7
+2001,2001-08-26,Grêmio,América Mineiro,3,1,V,D,NORMAL,R7
+2001,2001-08-26,Sport,Cruzeiro,0,1,D,V,NORMAL,R7
+2001,2001-08-26,Guarani,Internacional,2,2,E,E,NORMAL,R7
+2001,2001-08-26,Gama,Botafogo,0,0,E,E,NORMAL,R7
+2001,2001-08-26,Santos,Juventude,2,2,E,E,NORMAL,R7
+2001,2001-08-29,Corinthians,Gama,2,2,E,E,NORMAL,R8
+2001,2001-08-29,América Mineiro,Vasco,1,1,E,E,NORMAL,R8
+2001,2001-08-29,Athletico Paranaense,Santos,1,1,E,E,NORMAL,R8
+2001,2001-08-29,Internacional,Botafogo-SP,2,0,V,D,NORMAL,R8
+2001,2001-08-29,Santa Cruz,Atlético Mineiro,1,1,E,E,NORMAL,R8
+2001,2001-08-29,Vitória,Palmeiras,1,3,D,V,NORMAL,R8
+2001,2001-08-29,Ponte Preta,Grêmio,3,2,V,D,NORMAL,R8
+2001,2001-08-29,Goiás,Fluminense,2,0,V,D,NORMAL,R8
+2001,2001-08-29,São Caetano,Paraná,4,1,V,D,NORMAL,R8
+2001,2001-08-29,Juventude,São Paulo,3,3,E,E,NORMAL,R8
+2001,2001-08-29,Botafogo,Sport,3,1,V,D,NORMAL,R8
+2001,2001-08-30,Flamengo,Coritiba,0,1,D,V,NORMAL,R8
+2001,2001-08-30,Portuguesa,Guarani,1,2,D,V,NORMAL,R8
+2001,2001-08-30,Cruzeiro,Bahia,1,1,E,E,NORMAL,R8
+2001,2001-09-01,Fluminense,Juventude,2,1,V,D,NORMAL,R9
+2001,2001-09-01,Palmeiras,Athletico Paranaense,2,0,V,D,NORMAL,R9
+2001,2001-09-01,Paraná,Internacional,3,0,V,D,NORMAL,R9
+2001,2001-09-01,Atlético Mineiro,Sport,3,0,V,D,NORMAL,R9
+2001,2001-09-02,Santa Cruz,Flamengo,2,1,V,D,NORMAL,R9
+2001,2001-09-02,América Mineiro,Corinthians,4,4,E,E,NORMAL,R9
+2001,2001-09-02,Vasco,Botafogo-SP,2,2,E,E,NORMAL,R9
+2001,2001-09-02,São Paulo,Bahia,0,1,D,V,NORMAL,R9
+2001,2001-09-02,Coritiba,Botafogo,2,3,D,V,NORMAL,R9
+2001,2001-09-02,Grêmio,Guarani,1,0,V,D,NORMAL,R9
+2001,2001-09-02,Vitória,Cruzeiro,2,2,E,E,NORMAL,R9
+2001,2001-09-02,Gama,Portuguesa,0,1,D,V,NORMAL,R9
+2001,2001-09-02,Santos,Goiás,1,2,D,V,NORMAL,R9
+2001,2001-09-02,Ponte Preta,São Caetano,3,6,D,V,NORMAL,R9
+2001,2001-09-06,Flamengo,Santos,2,0,V,D,NORMAL,R9
+2001,2001-09-06,São Caetano,Palmeiras,1,0,V,D,NORMAL,R9
+2001,2001-09-08,Botafogo,Paraná,0,2,D,V,NORMAL,R10
+2001,2001-09-08,Corinthians,Coritiba,3,2,V,D,NORMAL,R10
+2001,2001-09-08,Cruzeiro,Santa Cruz,4,1,V,D,NORMAL,R10
+2001,2001-09-09,Athletico Paranaense,Fluminense,1,2,D,V,NORMAL,R10
+2001,2001-09-09,Goiás,São Paulo,2,3,D,V,NORMAL,R10
+2001,2001-09-09,Flamengo,América Mineiro,1,1,E,E,NORMAL,R10
+2001,2001-09-09,Internacional,Ponte Preta,2,2,E,E,NORMAL,R10
+2001,2001-09-09,Sport,Vasco,3,3,E,E,NORMAL,R10
+2001,2001-09-09,Bahia,Atlético Mineiro,4,0,V,D,NORMAL,R10
+2001,2001-09-09,Guarani,Santos,1,1,E,E,NORMAL,R10
+2001,2001-09-09,Botafogo-SP,Palmeiras,0,1,D,V,NORMAL,R10
+2001,2001-09-09,São Caetano,Gama,3,2,V,D,NORMAL,R10
+2001,2001-09-09,Juventude,Grêmio,1,2,D,V,NORMAL,R10
+2001,2001-09-09,Portuguesa,Vitória,3,2,V,D,NORMAL,R10
+2001,2001-09-15,Fluminense,Ponte Preta,2,0,V,D,NORMAL,R11
+2001,2001-09-15,São Paulo,Paraná,1,3,D,V,NORMAL,R11
+2001,2001-09-15,Guarani,Cruzeiro,2,0,V,D,NORMAL,R11
+2001,2001-09-15,Vitória,Internacional,2,0,V,D,NORMAL,R11
+2001,2001-09-16,Palmeiras,Sport,3,0,V,D,NORMAL,R11
+2001,2001-09-16,Goiás,Corinthians,2,3,D,V,NORMAL,R11
+2001,2001-09-16,Juventude,Flamengo,1,1,E,E,NORMAL,R11
+2001,2001-09-16,Vasco,Bahia,0,1,D,V,NORMAL,R11
+2001,2001-09-16,Atlético Mineiro,Gama,2,1,V,D,NORMAL,R11
+2001,2001-09-16,Athletico Paranaense,Portuguesa,3,1,V,D,NORMAL,R11
+2001,2001-09-16,Grêmio,Coritiba,2,0,V,D,NORMAL,R11
+2001,2001-09-16,Santa Cruz,São Caetano,0,1,D,V,NORMAL,R11
+2001,2001-09-16,Botafogo-SP,Botafogo,0,2,D,V,NORMAL,R11
+2001,2001-09-16,Santos,América Mineiro,3,0,V,D,NORMAL,R11
+2001,2001-09-19,Botafogo,Guarani,0,2,D,V,NORMAL,R12
+2001,2001-09-19,Corinthians,Santa Cruz,2,2,E,E,NORMAL,R12
+2001,2001-09-19,Cruzeiro,Goiás,1,2,D,V,NORMAL,R12
+2001,2001-09-19,Paraná,Vasco,2,0,V,D,NORMAL,R12
+2001,2001-09-19,Internacional,Athletico Paranaense,4,4,E,E,NORMAL,R12
+2001,2001-09-19,Sport,Santos,0,2,D,V,NORMAL,R12
+2001,2001-09-19,Ponte Preta,Atlético Mineiro,4,3,V,D,NORMAL,R12
+2001,2001-09-19,Gama,Palmeiras,1,1,E,E,NORMAL,R12
+2001,2001-09-19,São Caetano,Botafogo-SP,0,1,D,V,NORMAL,R12
+2001,2001-09-20,Bahia,Grêmio,1,1,E,E,NORMAL,R12
+2001,2001-09-20,Flamengo,Vitória,1,1,E,E,NORMAL,R12
+2001,2001-09-20,Portuguesa,Juventude,1,2,D,V,NORMAL,R12
+2001,2001-09-20,América Mineiro,Fluminense,1,0,V,D,NORMAL,R12
+2001,2001-09-20,Coritiba,São Paulo,0,1,D,V,NORMAL,R12
+2001,2001-09-22,Vasco,Goiás,2,1,V,D,NORMAL,R13
+2001,2001-09-22,Palmeiras,Ponte Preta,0,2,D,V,NORMAL,R13
+2001,2001-09-22,Gama,Cruzeiro,1,1,E,E,NORMAL,R13
+2001,2001-09-23,Athletico Paranaense,Corinthians,3,2,V,D,NORMAL,R13
+2001,2001-09-23,Guarani,Flamengo,1,3,D,V,NORMAL,R13
+2001,2001-09-23,Fluminense,Coritiba,3,1,V,D,NORMAL,R13
+2001,2001-09-23,São Paulo,América Mineiro,4,1,V,D,NORMAL,R13
+2001,2001-09-23,Atlético Mineiro,Paraná,4,0,V,D,NORMAL,R13
+2001,2001-09-23,Internacional,Sport,2,0,V,D,NORMAL,R13
+2001,2001-09-23,Santa Cruz,Portuguesa,0,0,E,E,NORMAL,R13
+2001,2001-09-23,Vitória,Botafogo,3,1,V,D,NORMAL,R13
+2001,2001-09-23,Botafogo-SP,Grêmio,1,2,D,V,NORMAL,R13
+2001,2001-09-23,Santos,Bahia,5,1,V,D,NORMAL,R13
+2001,2001-09-23,Juventude,São Caetano,0,3,D,V,NORMAL,R13
+2001,2001-09-29,Botafogo,Athletico Paranaense,1,3,D,V,NORMAL,R14
+2001,2001-09-29,Paraná,Santos,1,0,V,D,NORMAL,R14
+2001,2001-09-29,Portuguesa,Botafogo-SP,1,0,V,D,NORMAL,R14
+2001,2001-09-29,América Mineiro,Internacional,0,2,D,V,NORMAL,R14
+2001,2001-09-30,Flamengo,Gama,1,2,D,V,NORMAL,R14
+2001,2001-09-30,Corinthians,Guarani,0,3,D,V,NORMAL,R14
+2001,2001-09-30,Cruzeiro,Juventude,3,0,V,D,NORMAL,R14
+2001,2001-09-30,Coritiba,Palmeiras,4,1,V,D,NORMAL,R14
+2001,2001-09-30,Bahia,Fluminense,1,1,E,E,NORMAL,R14
+2001,2001-09-30,Ponte Preta,Vasco,2,2,E,E,NORMAL,R14
+2001,2001-09-30,Sport,São Paulo,1,0,V,D,NORMAL,R14
+2001,2001-09-30,Goiás,Atlético Mineiro,1,2,D,V,NORMAL,R14
+2001,2001-09-30,São Caetano,Vitória,0,2,D,V,NORMAL,R14
+2001,2001-10-02,Portuguesa,Internacional,3,0,V,D,NORMAL,R15
+2001,2001-10-02,Paraná,América Mineiro,1,2,D,V,NORMAL,R15
+2001,2001-10-03,Vasco,Cruzeiro,3,0,V,D,NORMAL,R15
+2001,2001-10-03,Corinthians,Palmeiras,4,2,V,D,NORMAL,R15
+2001,2001-10-03,Atlético Mineiro,Botafogo,4,0,V,D,NORMAL,R15
+2001,2001-10-03,Coritiba,Juventude,1,1,E,E,NORMAL,R15
+2001,2001-10-03,Grêmio,Fluminense,1,1,E,E,NORMAL,R15
+2001,2001-10-03,Santa Cruz,Athletico Paranaense,1,5,D,V,NORMAL,R15
+2001,2001-10-03,Vitória,Sport,1,0,V,D,NORMAL,R15
+2001,2001-10-03,Ponte Preta,Gama,1,1,E,E,NORMAL,R15
+2001,2001-10-03,Botafogo-SP,Guarani,1,1,E,E,NORMAL,R15
+2001,2001-10-03,Goiás,Bahia,3,0,V,D,NORMAL,R15
+2001,2001-10-03,Santos,São Paulo,1,0,V,D,NORMAL,R15
+2001,2001-10-06,Corinthians,Portuguesa,3,1,V,D,NORMAL,R16
+2001,2001-10-06,Botafogo,Fluminense,1,2,D,V,NORMAL,R16
+2001,2001-10-06,São Paulo,Palmeiras,0,1,D,V,NORMAL,R16
+2001,2001-10-06,Cruzeiro,Atlético Mineiro,2,2,E,E,NORMAL,R16
+2001,2001-10-06,América Mineiro,Ponte Preta,1,4,D,V,NORMAL,R16
+2001,2001-10-06,Athletico Paranaense,Paraná,1,1,E,E,NORMAL,R16
+2001,2001-10-06,Grêmio,Internacional,1,0,V,D,NORMAL,R16
+2001,2001-10-06,Sport,Coritiba,1,1,E,E,NORMAL,R16
+2001,2001-10-06,Guarani,Goiás,1,0,V,D,NORMAL,R16
+2001,2001-10-06,Gama,Vitória,1,1,E,E,NORMAL,R16
+2001,2001-10-06,Santos,São Caetano,1,2,D,V,NORMAL,R16
+2001,2001-10-06,Juventude,Botafogo-SP,0,2,D,V,NORMAL,R16
+2001,2001-10-06,Bahia,Santa Cruz,2,1,V,D,NORMAL,R16
+2001,2001-10-06,Vasco,Flamengo,5,1,V,D,NORMAL,R16
+2001,2001-10-09,América Mineiro,Gama,2,0,V,D,NORMAL,R17
+2001,2001-10-10,Botafogo,Flamengo,2,2,E,E,NORMAL,R17
+2001,2001-10-10,Cruzeiro,Corinthians,1,0,V,D,NORMAL,R17
+2001,2001-10-10,Coritiba,Botafogo-SP,0,0,E,E,NORMAL,R17
+2001,2001-10-10,Internacional,Vasco,2,0,V,D,NORMAL,R17
+2001,2001-10-10,Santa Cruz,Paraná,3,2,V,D,NORMAL,R17
+2001,2001-10-10,Vitória,Guarani,4,1,V,D,NORMAL,R17
+2001,2001-10-10,Ponte Preta,Athletico Paranaense,1,5,D,V,NORMAL,R17
+2001,2001-10-10,Goiás,Sport,2,3,D,V,NORMAL,R17
+2001,2001-10-10,São Caetano,Portuguesa,2,0,V,D,NORMAL,R17
+2001,2001-10-10,Juventude,Bahia,2,2,E,E,NORMAL,R17
+2001,2001-10-10,Palmeiras,Santos,2,1,V,D,NORMAL,R17
+2001,2001-10-11,São Paulo,Grêmio,1,1,E,E,NORMAL,R17
+2001,2001-10-11,Fluminense,Atlético Mineiro,3,2,V,D,NORMAL,R17
+2001,2001-10-13,Vasco,Botafogo,3,1,V,D,NORMAL,R18
+2001,2001-10-13,Portuguesa,Palmeiras,2,0,V,D,NORMAL,R18
+2001,2001-10-13,Paraná,Vitória,2,1,V,D,NORMAL,R18
+2001,2001-10-13,Gama,Santa Cruz,2,0,V,D,NORMAL,R18
+2001,2001-10-14,Fluminense,São Paulo,1,1,E,E,NORMAL,R18
+2001,2001-10-14,Corinthians,Flamengo,1,2,D,V,NORMAL,R18
+2001,2001-10-14,Atlético Mineiro,Santos,0,1,D,V,NORMAL,R18
+2001,2001-10-14,Athletico Paranaense,América Mineiro,3,2,V,D,NORMAL,R18
+2001,2001-10-14,Grêmio,Cruzeiro,2,0,V,D,NORMAL,R18
+2001,2001-10-14,Sport,Juventude,1,1,E,E,NORMAL,R18
+2001,2001-10-14,Bahia,Ponte Preta,3,2,V,D,NORMAL,R18
+2001,2001-10-14,Guarani,Coritiba,1,0,V,D,NORMAL,R18
+2001,2001-10-14,Botafogo-SP,Goiás,0,0,E,E,NORMAL,R18
+2001,2001-10-14,São Caetano,Internacional,3,1,V,D,NORMAL,R18
+2001,2001-10-18,Grêmio,Santa Cruz,1,0,V,D,NORMAL,R14
+2001,2001-10-20,Vasco,São Caetano,1,2,D,V,NORMAL,R19
+2001,2001-10-20,América Mineiro,Botafogo-SP,2,2,E,E,NORMAL,R19
+2001,2001-10-21,São Paulo,Portuguesa,1,0,V,D,NORMAL,R19
+2001,2001-10-21,Corinthians,Grêmio,1,2,D,V,NORMAL,R19
+2001,2001-10-21,Cruzeiro,Fluminense,1,0,V,D,NORMAL,R19
+2001,2001-10-21,Coritiba,Athletico Paranaense,0,0,E,E,NORMAL,R19
+2001,2001-10-21,Internacional,Botafogo,2,2,E,E,NORMAL,R19
+2001,2001-10-21,Sport,Santa Cruz,1,2,D,V,NORMAL,R19
+2001,2001-10-21,Vitória,Bahia,1,1,E,E,NORMAL,R19
+2001,2001-10-21,Ponte Preta,Guarani,1,1,E,E,NORMAL,R19
+2001,2001-10-21,Goiás,Gama,2,0,V,D,NORMAL,R19
+2001,2001-10-21,Juventude,Paraná,1,1,E,E,NORMAL,R19
+2001,2001-10-21,Flamengo,Atlético Mineiro,1,2,D,V,NORMAL,R19
+2001,2001-10-27,São Paulo,São Caetano,0,0,E,E,NORMAL,R20
+2001,2001-10-27,Paraná,Sport,0,1,D,V,NORMAL,R20
+2001,2001-10-28,Grêmio,Flamengo,2,0,V,D,NORMAL,R20
+2001,2001-10-28,Santos,Corinthians,0,2,D,V,NORMAL,R20
+2001,2001-10-28,Botafogo,Cruzeiro,3,0,V,D,NORMAL,R20
+2001,2001-10-28,Vasco,Fluminense,2,2,E,E,NORMAL,R20
+2001,2001-10-28,Palmeiras,Internacional,1,2,D,V,NORMAL,R20
+2001,2001-10-28,Atlético Mineiro,Portuguesa,1,0,V,D,NORMAL,R20
+2001,2001-10-28,Coritiba,Gama,1,0,V,D,NORMAL,R20
+2001,2001-10-28,Santa Cruz,Ponte Preta,1,3,D,V,NORMAL,R20
+2001,2001-10-28,Vitória,América Mineiro,1,0,V,D,NORMAL,R20
+2001,2001-10-28,Guarani,Bahia,2,1,V,D,NORMAL,R20
+2001,2001-10-28,Botafogo-SP,Athletico Paranaense,0,2,D,V,NORMAL,R20
+2001,2001-10-28,Goiás,Juventude,2,1,V,D,NORMAL,R20
+2001,2001-11-02,Flamengo,Fluminense,0,1,D,V,NORMAL,R21
+2001,2001-11-02,São Paulo,Corinthians,1,1,E,E,NORMAL,R21
+2001,2001-11-02,América Mineiro,Coritiba,1,2,D,V,NORMAL,R21
+2001,2001-11-02,Gama,Paraná,3,2,V,D,NORMAL,R21
+2001,2001-11-04,Botafogo,Palmeiras,3,1,V,D,NORMAL,R21
+2001,2001-11-04,Portuguesa,Vasco,5,4,V,D,NORMAL,R21
+2001,2001-11-04,Cruzeiro,São Caetano,1,0,V,D,NORMAL,R21
+2001,2001-11-04,Athletico Paranaense,Goiás,2,1,V,D,NORMAL,R21
+2001,2001-11-04,Internacional,Atlético Mineiro,1,0,V,D,NORMAL,R21
+2001,2001-11-04,Sport,Guarani,0,1,D,V,NORMAL,R21
+2001,2001-11-04,Bahia,Botafogo-SP,1,0,V,D,NORMAL,R21
+2001,2001-11-04,Ponte Preta,Vitória,5,2,V,D,NORMAL,R21
+2001,2001-11-04,Juventude,Santa Cruz,2,0,V,D,NORMAL,R21
+2001,2001-11-04,Santos,Grêmio,4,2,V,D,NORMAL,R21
+2001,2001-11-07,Botafogo,Grêmio,1,3,D,V,NORMAL,R22
+2001,2001-11-07,Palmeiras,Fluminense,2,6,D,V,NORMAL,R22
+2001,2001-11-07,América Mineiro,Sport,3,1,V,D,NORMAL,R22
+2001,2001-11-07,Athletico Paranaense,Bahia,6,3,V,D,NORMAL,R22
+2001,2001-11-07,Internacional,São Paulo,1,4,D,V,NORMAL,R22
+2001,2001-11-07,Gama,Guarani,5,0,V,D,NORMAL,R22
+2001,2001-11-07,Vitória,Juventude,0,0,E,E,NORMAL,R22
+2001,2001-11-08,Cruzeiro,Flamengo,0,1,D,V,NORMAL,R22
+2001,2001-11-08,Vasco,Corinthians,1,0,V,D,NORMAL,R22
+2001,2001-11-08,Portuguesa,Santos,0,0,E,E,NORMAL,R22
+2001,2001-11-08,Paraná,Coritiba,1,1,E,E,NORMAL,R22
+2001,2001-11-08,Santa Cruz,Goiás,3,2,V,D,NORMAL,R22
+2001,2001-11-08,Ponte Preta,Botafogo-SP,3,3,E,E,NORMAL,R22
+2001,2001-11-08,São Caetano,Atlético Mineiro,5,2,V,D,NORMAL,R22
+2001,2001-11-10,Fluminense,Internacional,0,1,D,V,NORMAL,R23
+2001,2001-11-10,São Paulo,Botafogo,3,1,V,D,NORMAL,R23
+2001,2001-11-10,Juventude,Athletico Paranaense,2,0,V,D,NORMAL,R23
+2001,2001-11-10,Sport,Gama,1,2,D,V,NORMAL,R23
+2001,2001-11-11,Flamengo,Portuguesa,0,2,D,V,NORMAL,R23
+2001,2001-11-11,Corinthians,São Caetano,0,1,D,V,NORMAL,R23
+2001,2001-11-11,Coritiba,Vitória,2,0,V,D,NORMAL,R23
+2001,2001-11-11,Grêmio,Palmeiras,3,0,V,D,NORMAL,R23
+2001,2001-11-11,Bahia,Paraná,3,0,V,D,NORMAL,R23
+2001,2001-11-11,Guarani,América Mineiro,0,2,D,V,NORMAL,R23
+2001,2001-11-11,Botafogo-SP,Santa Cruz,1,0,V,D,NORMAL,R23
+2001,2001-11-11,Goiás,Ponte Preta,2,1,V,D,NORMAL,R23
+2001,2001-11-11,Atlético Mineiro,Vasco,2,1,V,D,NORMAL,R23
+2001,2001-11-11,Santos,Cruzeiro,4,2,V,D,NORMAL,R23
+2001,2001-11-13,Athletico Paranaense,Sport,2,1,V,D,NORMAL,R24
+2001,2001-11-15,Vasco,Grêmio,2,0,V,D,NORMAL,R24
+2001,2001-11-15,Portuguesa,Cruzeiro,1,3,D,V,NORMAL,R24
+2001,2001-11-15,Botafogo,Corinthians,2,4,D,V,NORMAL,R24
+2001,2001-11-15,São Paulo,Flamengo,3,1,V,D,NORMAL,R24
+2001,2001-11-15,Atlético Mineiro,Palmeiras,2,1,V,D,NORMAL,R24
+2001,2001-11-15,Paraná,Fluminense,0,1,D,V,NORMAL,R24
+2001,2001-11-15,Internacional,Santos,3,0,V,D,NORMAL,R24
+2001,2001-11-15,Santa Cruz,América Mineiro,2,1,V,D,NORMAL,R24
+2001,2001-11-15,Bahia,Gama,2,1,V,D,NORMAL,R24
+2001,2001-11-15,Ponte Preta,Juventude,1,0,V,D,NORMAL,R24
+2001,2001-11-15,Botafogo-SP,Vitória,2,0,V,D,NORMAL,R24
+2001,2001-11-15,Goiás,Coritiba,2,1,V,D,NORMAL,R24
+2001,2001-11-15,São Caetano,Guarani,2,0,V,D,NORMAL,R24
+2001,2001-11-18,Fluminense,Portuguesa,0,0,E,E,NORMAL,R25
+2001,2001-11-18,Flamengo,Internacional,1,0,V,D,NORMAL,R25
+2001,2001-11-18,Palmeiras,Vasco,1,3,D,V,NORMAL,R25
+2001,2001-11-18,Corinthians,Atlético Mineiro,2,2,E,E,NORMAL,R25
+2001,2001-11-18,Cruzeiro,São Paulo,1,4,D,V,NORMAL,R25
+2001,2001-11-18,América Mineiro,Bahia,1,2,D,V,NORMAL,R25
+2001,2001-11-18,Coritiba,Santa Cruz,1,0,V,D,NORMAL,R25
+2001,2001-11-18,Grêmio,São Caetano,1,2,D,V,NORMAL,R25
+2001,2001-11-18,Sport,Botafogo-SP,1,2,D,V,NORMAL,R25
+2001,2001-11-18,Vitória,Goiás,1,0,V,D,NORMAL,R25
+2001,2001-11-18,Guarani,Paraná,1,0,V,D,NORMAL,R25
+2001,2001-11-18,Gama,Athletico Paranaense,4,1,V,D,NORMAL,R25
+2001,2001-11-18,Santos,Ponte Preta,1,2,D,V,NORMAL,R25
+2001,2001-11-18,Juventude,Botafogo,1,3,D,V,NORMAL,R25
+2001,2001-11-24,Fluminense,Santos,2,1,V,D,NORMAL,R26
+2001,2001-11-24,Portuguesa,Botafogo,2,1,V,D,NORMAL,R26
+2001,2001-11-24,Bahia,Coritiba,1,1,E,E,NORMAL,R26
+2001,2001-11-25,Internacional,Corinthians,0,2,D,V,NORMAL,R26
+2001,2001-11-25,São Caetano,Flamengo,2,0,V,D,NORMAL,R26
+2001,2001-11-25,Vasco,São Paulo,7,1,V,D,NORMAL,R26
+2001,2001-11-25,Palmeiras,Cruzeiro,2,1,V,D,NORMAL,R26
+2001,2001-11-25,Atlético Mineiro,Grêmio,2,0,V,D,NORMAL,R26
+2001,2001-11-25,Athletico Paranaense,Guarani,2,2,E,E,NORMAL,R26
+2001,2001-11-25,Santa Cruz,Vitória,1,1,E,E,NORMAL,R26
+2001,2001-11-25,Ponte Preta,Sport,2,1,V,D,NORMAL,R26
+2001,2001-11-25,Botafogo-SP,Paraná,0,2,D,V,NORMAL,R26
+2001,2001-11-25,Goiás,América Mineiro,3,0,V,D,NORMAL,R26
+2001,2001-11-25,Juventude,Gama,2,1,V,D,NORMAL,R26
+2001,2001-12-01,Botafogo,São Caetano,2,4,D,V,NORMAL,R27
+2001,2001-12-02,Flamengo,Palmeiras,2,0,V,D,NORMAL,R27
+2001,2001-12-02,Corinthians,Fluminense,1,2,D,V,NORMAL,R27
+2001,2001-12-02,São Paulo,Atlético Mineiro,3,0,V,D,NORMAL,R27
+2001,2001-12-02,Cruzeiro,Internacional,4,2,V,D,NORMAL,R27
+2001,2001-12-02,América Mineiro,Juventude,1,1,E,E,NORMAL,R27
+2001,2001-12-02,Coritiba,Ponte Preta,1,2,D,V,NORMAL,R27
+2001,2001-12-02,Paraná,Goiás,3,1,V,D,NORMAL,R27
+2001,2001-12-02,Grêmio,Portuguesa,3,1,V,D,NORMAL,R27
+2001,2001-12-02,Sport,Bahia,0,1,D,V,NORMAL,R27
+2001,2001-12-02,Vitória,Athletico Paranaense,2,4,D,V,NORMAL,R27
+2001,2001-12-02,Guarani,Santa Cruz,1,2,D,V,NORMAL,R27
+2001,2001-12-02,Gama,Botafogo-SP,5,0,V,D,NORMAL,R27
+2001,2001-12-02,Santos,Vasco,2,2,E,E,NORMAL,R27
+2001,2001-12-05,São Caetano,Bahia,0,0,E,E,NORMAL,QF
+2001,2001-12-05,Athletico Paranaense,São Paulo,2,1,V,D,NORMAL,QF
+2001,2001-12-05,Fluminense,Ponte Preta,3,2,V,D,NORMAL,QF
+2001,2001-12-05,Atlético Mineiro,Grêmio,3,0,V,D,NORMAL,QF
+2001,2001-12-09,São Caetano,Atlético Mineiro,2,1,V,D,NORMAL,SF
+2001,2001-12-09,Athletico Paranaense,Fluminense,3,2,V,D,NORMAL,SF
+2001,2001-12-16,Athletico Paranaense,São Caetano,4,2,V,D,NORMAL,F
+2001,2001-12-23,São Caetano,Athletico Paranaense,0,1,D,V,NORMAL,F

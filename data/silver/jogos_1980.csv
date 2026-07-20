@@ -1,0 +1,308 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1980,1980-02-23,Corinthians,Joinville,3,2,V,D,NORMAL,A
+1980,1980-02-23,Internacional,Itabaiana,1,2,D,V,NORMAL,C
+1980,1980-02-23,Vasco,America-RJ,1,0,V,D,NORMAL,D
+1980,1980-02-24,Colorado,CRB,2,0,V,D,NORMAL,A
+1980,1980-02-24,Portuguesa,Bahia,1,0,V,D,NORMAL,A
+1980,1980-02-24,Operário-MS,Cruzeiro,1,1,E,E,NORMAL,A
+1980,1980-02-24,Remo,Botafogo,1,3,D,V,NORMAL,A
+1980,1980-02-24,Palmeiras,Vitória,1,1,E,E,NORMAL,B
+1980,1980-02-24,Ceará,Flamengo-PI,2,1,V,D,NORMAL,B
+1980,1980-02-24,Desportiva Ferroviária,Guarani,1,0,V,D,NORMAL,B
+1980,1980-02-24,América-RN,Vila Nova,1,0,V,D,NORMAL,B
+1980,1980-02-24,Fluminense,Atlético Mineiro,2,3,D,V,NORMAL,B
+1980,1980-02-24,Santos,Flamengo,0,1,D,V,NORMAL,C
+1980,1980-02-24,São Paulo-RS,Botafogo-PB,3,2,V,D,NORMAL,C
+1980,1980-02-24,Náutico,Ferroviário,0,0,E,E,NORMAL,C
+1980,1980-02-24,Mixto,Ponte Preta,1,3,D,V,NORMAL,C
+1980,1980-02-24,Gama,Maranhão,2,0,V,D,NORMAL,D
+1980,1980-02-24,Grêmio,São Paulo,0,0,E,E,NORMAL,D
+1980,1980-02-24,Atlético Goianiense,Coritiba,1,1,E,E,NORMAL,D
+1980,1980-02-24,Nacional-AM,Santa Cruz,0,2,D,V,NORMAL,D
+1980,1980-02-27,Botafogo,Portuguesa,4,0,V,D,NORMAL,A
+1980,1980-02-27,Cruzeiro,Remo,0,0,E,E,NORMAL,A
+1980,1980-02-27,CRB,Joinville,2,0,V,D,NORMAL,A
+1980,1980-02-27,Bahia,Corinthians,2,3,D,V,NORMAL,A
+1980,1980-02-27,Colorado,Operário-MS,2,0,V,D,NORMAL,A
+1980,1980-02-27,Ceará,América-RN,1,1,E,E,NORMAL,B
+1980,1980-02-27,Guarani,Fluminense,1,2,D,V,NORMAL,B
+1980,1980-02-27,Flamengo-PI,Vitória,0,0,E,E,NORMAL,B
+1980,1980-02-27,Vila Nova,Desportiva Ferroviária,1,0,V,D,NORMAL,B
+1980,1980-02-27,Atlético Mineiro,Palmeiras,2,0,V,D,NORMAL,B
+1980,1980-02-27,Botafogo-PB,Itabaiana,2,1,V,D,NORMAL,C
+1980,1980-02-27,Internacional,Mixto,3,1,V,D,NORMAL,C
+1980,1980-02-27,Ferroviário,Santos,1,1,E,E,NORMAL,C
+1980,1980-02-27,Gama,Nacional-AM,0,2,D,V,NORMAL,D
+1980,1980-02-27,Coritiba,Grêmio,2,2,E,E,NORMAL,D
+1980,1980-02-27,Santa Cruz,Atlético Goianiense,3,1,V,D,NORMAL,D
+1980,1980-02-27,Maranhão,America-RJ,0,1,D,V,NORMAL,D
+1980,1980-02-27,São Paulo,Vasco,1,2,D,V,NORMAL,D
+1980,1980-03-01,Bahia,CRB,1,0,V,D,NORMAL,A
+1980,1980-03-01,Cruzeiro,Colorado,0,0,E,E,NORMAL,A
+1980,1980-03-01,Náutico,Botafogo-PB,0,1,D,V,NORMAL,C
+1980,1980-03-01,America-RJ,Grêmio,2,4,D,V,NORMAL,D
+1980,1980-03-01,São Paulo,Maranhão,2,0,V,D,NORMAL,D
+1980,1980-03-02,Corinthians,Botafogo,2,0,V,D,NORMAL,A
+1980,1980-03-02,Joinville,Portuguesa,4,1,V,D,NORMAL,A
+1980,1980-03-02,Operário-MS,Remo,0,1,D,V,NORMAL,A
+1980,1980-03-02,Palmeiras,Guarani,0,0,E,E,NORMAL,B
+1980,1980-03-02,Vitória,Fluminense,1,1,E,E,NORMAL,B
+1980,1980-03-02,Vila Nova,Ceará,0,0,E,E,NORMAL,B
+1980,1980-03-02,América-RN,Desportiva Ferroviária,1,1,E,E,NORMAL,B
+1980,1980-03-02,Atlético Mineiro,Flamengo-PI,2,0,V,D,NORMAL,B
+1980,1980-03-02,São Paulo-RS,Mixto,1,1,E,E,NORMAL,C
+1980,1980-03-02,Itabaiana,Santos,0,2,D,V,NORMAL,C
+1980,1980-03-02,Ponte Preta,Ferroviário,0,0,E,E,NORMAL,C
+1980,1980-03-02,Flamengo,Internacional,1,0,V,D,NORMAL,C
+1980,1980-03-02,Nacional-AM,Atlético Goianiense,0,0,E,E,NORMAL,D
+1980,1980-03-02,Santa Cruz,Gama,1,1,E,E,NORMAL,D
+1980,1980-03-02,Vasco,Coritiba,0,1,D,V,NORMAL,D
+1980,1980-03-05,Botafogo,CRB,3,1,V,D,NORMAL,A
+1980,1980-03-05,Operário-MS,Corinthians,0,1,D,V,NORMAL,A
+1980,1980-03-05,Remo,Bahia,1,1,E,E,NORMAL,A
+1980,1980-03-05,Joinville,Colorado,1,1,E,E,NORMAL,A
+1980,1980-03-05,Fluminense,Vila Nova,4,0,V,D,NORMAL,B
+1980,1980-03-05,Desportiva Ferroviária,Atlético Mineiro,1,4,D,V,NORMAL,B
+1980,1980-03-05,Guarani,Flamengo-PI,3,0,V,D,NORMAL,B
+1980,1980-03-05,Vitória,Ceará,0,5,D,V,NORMAL,B
+1980,1980-03-05,Santos,Ponte Preta,2,1,V,D,NORMAL,C
+1980,1980-03-05,Internacional,Ferroviário,3,2,V,D,NORMAL,C
+1980,1980-03-05,Itabaiana,São Paulo-RS,2,0,V,D,NORMAL,C
+1980,1980-03-05,Mixto,Náutico,3,1,V,D,NORMAL,C
+1980,1980-03-05,Vasco,Nacional-AM,1,0,V,D,NORMAL,D
+1980,1980-03-05,Coritiba,Maranhão,2,0,V,D,NORMAL,D
+1980,1980-03-06,Palmeiras,América-RN,4,1,V,D,NORMAL,B
+1980,1980-03-06,Flamengo,Botafogo-PB,1,2,D,V,NORMAL,C
+1980,1980-03-06,Grêmio,Santa Cruz,0,0,E,E,NORMAL,D
+1980,1980-03-06,America-RJ,Gama,0,0,E,E,NORMAL,D
+1980,1980-03-08,Cruzeiro,Joinville,2,1,V,D,NORMAL,A
+1980,1980-03-08,Náutico,Internacional,0,2,D,V,NORMAL,C
+1980,1980-03-08,Ferroviário,Itabaiana,2,1,V,D,NORMAL,C
+1980,1980-03-08,São Paulo,Coritiba,5,3,V,D,NORMAL,D
+1980,1980-03-09,Colorado,Remo,1,0,V,D,NORMAL,A
+1980,1980-03-09,CRB,Operário-MS,1,3,D,V,NORMAL,A
+1980,1980-03-09,Bahia,Botafogo,3,2,V,D,NORMAL,A
+1980,1980-03-09,Corinthians,Portuguesa,0,0,E,E,NORMAL,A
+1980,1980-03-09,Vila Nova,Vitória,0,1,D,V,NORMAL,B
+1980,1980-03-09,Atlético Mineiro,Guarani,2,0,V,D,NORMAL,B
+1980,1980-03-09,Flamengo-PI,América-RN,3,0,V,D,NORMAL,B
+1980,1980-03-09,Ceará,Desportiva Ferroviária,0,0,E,E,NORMAL,B
+1980,1980-03-09,Fluminense,Palmeiras,0,0,E,E,NORMAL,B
+1980,1980-03-09,Santos,São Paulo-RS,2,0,V,D,NORMAL,C
+1980,1980-03-09,Mixto,Flamengo,0,2,D,V,NORMAL,C
+1980,1980-03-09,Santa Cruz,America-RJ,2,1,V,D,NORMAL,D
+1980,1980-03-09,Grêmio,Vasco,3,1,V,D,NORMAL,D
+1980,1980-03-09,Gama,Atlético Goianiense,1,1,E,E,NORMAL,D
+1980,1980-03-12,São Paulo-RS,Náutico,1,1,E,E,NORMAL,C
+1980,1980-03-12,Portuguesa,Cruzeiro,0,3,D,V,NORMAL,A
+1980,1980-03-12,Ponte Preta,Itabaiana,3,1,V,D,NORMAL,C
+1980,1980-03-12,Flamengo,Ferroviário,2,1,V,D,NORMAL,C
+1980,1980-03-12,Maranhão,Nacional-AM,0,0,E,E,NORMAL,D
+1980,1980-03-12,Joinville,Remo,3,0,V,D,NORMAL,A
+1980,1980-03-12,Atlético Goianiense,Vasco,1,0,V,D,NORMAL,D
+1980,1980-03-13,Botafogo-PB,Internacional,2,1,V,D,NORMAL,C
+1980,1980-03-15,Botafogo,Colorado,2,0,V,D,NORMAL,A
+1980,1980-03-15,Palmeiras,Vila Nova,4,0,V,D,NORMAL,B
+1980,1980-03-15,America-RJ,Atlético Goianiense,1,1,E,E,NORMAL,D
+1980,1980-03-16,Corinthians,Cruzeiro,3,1,V,D,NORMAL,A
+1980,1980-03-16,CRB,Portuguesa,4,1,V,D,NORMAL,A
+1980,1980-03-16,Operário-MS,Bahia,1,0,V,D,NORMAL,A
+1980,1980-03-16,Guarani,Ceará,1,0,V,D,NORMAL,B
+1980,1980-03-16,Flamengo-PI,Fluminense,2,2,E,E,NORMAL,B
+1980,1980-03-16,América-RN,Atlético Mineiro,0,0,E,E,NORMAL,B
+1980,1980-03-16,Vitória,Desportiva Ferroviária,4,2,V,D,NORMAL,B
+1980,1980-03-16,Itabaiana,Mixto,3,2,V,D,NORMAL,C
+1980,1980-03-16,Ferroviário,São Paulo-RS,1,0,V,D,NORMAL,C
+1980,1980-03-16,Internacional,Ponte Preta,1,0,V,D,NORMAL,C
+1980,1980-03-16,Náutico,Flamengo,2,2,E,E,NORMAL,C
+1980,1980-03-16,Botafogo-PB,Santos,0,3,D,V,NORMAL,C
+1980,1980-03-16,Coritiba,Gama,2,1,V,D,NORMAL,D
+1980,1980-03-16,Vasco,Santa Cruz,2,0,V,D,NORMAL,D
+1980,1980-03-16,Nacional-AM,São Paulo,2,2,E,E,NORMAL,D
+1980,1980-03-16,Maranhão,Grêmio,1,1,E,E,NORMAL,D
+1980,1980-03-19,Remo,Corinthians,1,0,V,D,NORMAL,A
+1980,1980-03-19,Botafogo,Operário-MS,1,1,E,E,NORMAL,A
+1980,1980-03-19,Bahia,Joinville,0,0,E,E,NORMAL,A
+1980,1980-03-19,Atlético Mineiro,Vitória,5,1,V,D,NORMAL,B
+1980,1980-03-19,Desportiva Ferroviária,Palmeiras,1,0,V,D,NORMAL,B
+1980,1980-03-19,Vila Nova,Flamengo-PI,2,1,V,D,NORMAL,B
+1980,1980-03-19,Fluminense,Ceará,4,2,V,D,NORMAL,B
+1980,1980-03-19,Ponte Preta,São Paulo-RS,4,0,V,D,NORMAL,C
+1980,1980-03-19,Ferroviário,Mixto,1,2,D,V,NORMAL,C
+1980,1980-03-19,Grêmio,Gama,5,1,V,D,NORMAL,D
+1980,1980-03-19,São Paulo,America-RJ,2,0,V,D,NORMAL,D
+1980,1980-03-19,Coritiba,Nacional-AM,3,0,V,D,NORMAL,D
+1980,1980-03-19,Santa Cruz,Maranhão,1,1,E,E,NORMAL,D
+1980,1980-03-20,Portuguesa,Colorado,3,1,V,D,NORMAL,A
+1980,1980-03-20,Cruzeiro,CRB,0,0,E,E,NORMAL,A
+1980,1980-03-20,Guarani,América-RN,1,1,E,E,NORMAL,B
+1980,1980-03-20,Flamengo,Itabaiana,5,0,V,D,NORMAL,C
+1980,1980-03-22,Fluminense,Desportiva Ferroviária,3,1,V,D,NORMAL,B
+1980,1980-03-23,Ponte Preta,Botafogo-PB,6,2,V,D,NORMAL,C
+1980,1980-03-23,Santos,Náutico,4,1,V,D,NORMAL,C
+1980,1980-03-23,Joinville,Operário-MS,4,0,V,D,NORMAL,A
+1980,1980-03-23,Portuguesa,Remo,0,1,D,V,NORMAL,A
+1980,1980-03-23,Colorado,Bahia,1,0,V,D,NORMAL,A
+1980,1980-03-23,CRB,Corinthians,1,2,D,V,NORMAL,A
+1980,1980-03-23,Cruzeiro,Botafogo,2,1,V,D,NORMAL,A
+1980,1980-03-23,Flamengo-PI,Palmeiras,1,4,D,V,NORMAL,B
+1980,1980-03-23,Vitória,América-RN,8,1,V,D,NORMAL,B
+1980,1980-03-23,Ceará,Atlético Mineiro,2,1,V,D,NORMAL,B
+1980,1980-03-23,Vila Nova,Guarani,1,1,E,E,NORMAL,B
+1980,1980-03-23,São Paulo-RS,Flamengo,0,0,E,E,NORMAL,C
+1980,1980-03-23,Gama,São Paulo,2,2,E,E,NORMAL,D
+1980,1980-03-23,America-RJ,Nacional-AM,4,0,V,D,NORMAL,D
+1980,1980-03-23,Grêmio,Atlético Goianiense,0,1,D,V,NORMAL,D
+1980,1980-03-23,Santa Cruz,Coritiba,2,1,V,D,NORMAL,D
+1980,1980-03-26,Atlético Goianiense,São Paulo,0,0,E,E,NORMAL,D
+1980,1980-03-26,Ponte Preta,Náutico,1,2,D,V,NORMAL,C
+1980,1980-03-26,Maranhão,Vasco,0,0,E,E,NORMAL,D
+1980,1980-03-27,Santos,Internacional,1,0,V,D,NORMAL,C
+1980,1980-03-27,Botafogo-PB,Mixto,2,0,V,D,NORMAL,C
+1980,1980-03-30,Remo,CRB,1,0,V,D,NORMAL,A
+1980,1980-03-30,Operário-MS,Portuguesa,2,1,V,D,NORMAL,A
+1980,1980-03-30,Bahia,Cruzeiro,3,0,V,D,NORMAL,A
+1980,1980-03-30,Corinthians,Colorado,4,1,V,D,NORMAL,A
+1980,1980-03-30,Botafogo,Joinville,0,0,E,E,NORMAL,A
+1980,1980-03-30,Palmeiras,Ceará,3,1,V,D,NORMAL,B
+1980,1980-03-30,América-RN,Fluminense,0,0,E,E,NORMAL,B
+1980,1980-03-30,Atlético Mineiro,Vila Nova,3,1,V,D,NORMAL,B
+1980,1980-03-30,Guarani,Vitória,2,0,V,D,NORMAL,B
+1980,1980-03-30,Desportiva Ferroviária,Flamengo-PI,3,1,V,D,NORMAL,B
+1980,1980-03-30,Mixto,Santos,1,2,D,V,NORMAL,C
+1980,1980-03-30,Internacional,São Paulo-RS,2,1,V,D,NORMAL,C
+1980,1980-03-30,Ferroviário,Botafogo-PB,1,1,E,E,NORMAL,C
+1980,1980-03-30,Itabaiana,Náutico,0,5,D,V,NORMAL,C
+1980,1980-03-30,Flamengo,Ponte Preta,2,2,E,E,NORMAL,C
+1980,1980-03-30,Atlético Goianiense,Maranhão,5,1,V,D,NORMAL,D
+1980,1980-03-30,São Paulo,Santa Cruz,3,1,V,D,NORMAL,D
+1980,1980-03-30,Coritiba,America-RJ,1,0,V,D,NORMAL,D
+1980,1980-03-30,Nacional-AM,Grêmio,0,3,D,V,NORMAL,D
+1980,1980-03-30,Vasco,Gama,5,1,V,D,NORMAL,D
+1980,1980-04-03,Vasco,Vitória,2,0,V,D,NORMAL,E
+1980,1980-04-03,Atlético Goianiense,Internacional,1,4,D,V,NORMAL,G
+1980,1980-04-05,Sport,Botafogo-PB,2,1,V,D,NORMAL,H
+1980,1980-04-05,Santos,Guarani,4,1,V,D,NORMAL,I
+1980,1980-04-05,Grêmio,Ponte Preta,0,2,D,V,NORMAL,L
+1980,1980-04-05,Colorado,América-SP,5,0,V,D,NORMAL,L
+1980,1980-04-06,Corinthians,Vasco,1,1,E,E,NORMAL,E
+1980,1980-04-06,Vitória,Náutico,1,0,V,D,NORMAL,E
+1980,1980-04-06,Americano,Ceará,0,1,D,V,NORMAL,F
+1980,1980-04-06,Botafogo,São Paulo,3,3,E,E,NORMAL,F
+1980,1980-04-06,Internacional,Bahia,5,0,V,D,NORMAL,G
+1980,1980-04-06,Atlético Goianiense,Atlético Mineiro,0,2,D,V,NORMAL,G
+1980,1980-04-06,Cruzeiro,Fluminense,3,1,V,D,NORMAL,H
+1980,1980-04-06,Joinville,America-RJ,1,1,E,E,NORMAL,I
+1980,1980-04-06,Palmeiras,Bangu,2,3,D,V,NORMAL,J
+1980,1980-04-06,Santa Cruz,Flamengo,0,0,E,E,NORMAL,J
+1980,1980-04-06,Remo,Coritiba,0,1,D,V,NORMAL,K
+1980,1980-04-06,Desportiva Ferroviária,Ferroviário,3,1,V,D,NORMAL,K
+1980,1980-04-09,Atlético Mineiro,Internacional,1,2,D,V,NORMAL,G
+1980,1980-04-09,Vasco,Náutico,2,2,E,E,NORMAL,E
+1980,1980-04-12,Fluminense,Sport,2,1,V,D,NORMAL,H
+1980,1980-04-12,Ferroviário,Remo,0,0,E,E,NORMAL,K
+1980,1980-04-13,Náutico,Corinthians,1,2,D,V,NORMAL,E
+1980,1980-04-13,Ceará,Botafogo,1,3,D,V,NORMAL,F
+1980,1980-04-13,Americano,São Paulo,0,0,E,E,NORMAL,F
+1980,1980-04-13,Bahia,Atlético Goianiense,2,1,V,D,NORMAL,G
+1980,1980-04-13,Botafogo-PB,Cruzeiro,0,3,D,V,NORMAL,H
+1980,1980-04-13,Santos,America-RJ,0,1,D,V,NORMAL,I
+1980,1980-04-13,Guarani,Joinville,2,0,V,D,NORMAL,I
+1980,1980-04-13,Bangu,Santa Cruz,1,1,E,E,NORMAL,J
+1980,1980-04-13,Flamengo,Palmeiras,6,2,V,D,NORMAL,J
+1980,1980-04-13,Desportiva Ferroviária,Coritiba,0,0,E,E,NORMAL,K
+1980,1980-04-13,Colorado,Ponte Preta,0,1,D,V,NORMAL,L
+1980,1980-04-13,América-SP,Grêmio,1,3,D,V,NORMAL,L
+1980,1980-04-16,Sport,Cruzeiro,0,1,D,V,NORMAL,H
+1980,1980-04-16,Flamengo,Bangu,2,1,V,D,NORMAL,J
+1980,1980-04-16,Palmeiras,Santa Cruz,1,0,V,D,NORMAL,J
+1980,1980-04-16,Coritiba,Ferroviário,7,1,V,D,NORMAL,K
+1980,1980-04-16,Remo,Desportiva Ferroviária,5,0,V,D,NORMAL,K
+1980,1980-04-16,Grêmio,Colorado,3,2,V,D,NORMAL,L
+1980,1980-04-16,Ponte Preta,América-SP,3,2,V,D,NORMAL,L
+1980,1980-04-17,São Paulo,Ceará,2,1,V,D,NORMAL,F
+1980,1980-04-17,Botafogo,Americano,2,0,V,D,NORMAL,F
+1980,1980-04-17,Botafogo-PB,Fluminense,1,1,E,E,NORMAL,H
+1980,1980-04-20,Bahia,Atlético Mineiro,0,1,D,V,NORMAL,G
+1980,1980-04-20,America-RJ,Guarani,1,0,V,D,NORMAL,I
+1980,1980-04-20,Joinville,Santos,2,0,V,D,NORMAL,I
+1980,1980-04-20,São Paulo,Botafogo,3,0,V,D,NORMAL,F
+1980,1980-04-20,Cruzeiro,Botafogo-PB,1,1,E,E,NORMAL,H
+1980,1980-04-20,Sport,Fluminense,1,1,E,E,NORMAL,H
+1980,1980-04-20,Bangu,Palmeiras,0,1,D,V,NORMAL,J
+1980,1980-04-20,Coritiba,Remo,1,0,V,D,NORMAL,K
+1980,1980-04-20,Ferroviário,Desportiva Ferroviária,0,1,D,V,NORMAL,K
+1980,1980-04-20,América-SP,Colorado,2,0,V,D,NORMAL,L
+1980,1980-04-20,Ponte Preta,Grêmio,0,1,D,V,NORMAL,L
+1980,1980-04-21,Vitória,Corinthians,2,6,D,V,NORMAL,E
+1980,1980-04-21,Náutico,Vasco,0,1,D,V,NORMAL,E
+1980,1980-04-21,Ceará,Americano,0,0,E,E,NORMAL,F
+1980,1980-04-21,Flamengo,Santa Cruz,2,1,V,D,NORMAL,J
+1980,1980-04-23,Internacional,Atlético Mineiro,1,3,D,V,NORMAL,G
+1980,1980-04-23,America-RJ,Santos,0,2,D,V,NORMAL,I
+1980,1980-04-23,Joinville,Guarani,0,0,E,E,NORMAL,I
+1980,1980-04-26,Corinthians,Vitória,5,0,V,D,NORMAL,E
+1980,1980-04-26,Ferroviário,Coritiba,1,1,E,E,NORMAL,K
+1980,1980-04-27,Atlético Goianiense,Bahia,2,1,V,D,NORMAL,G
+1980,1980-04-27,Americano,Botafogo,1,0,V,D,NORMAL,F
+1980,1980-04-27,Ceará,São Paulo,3,3,E,E,NORMAL,F
+1980,1980-04-27,Fluminense,Cruzeiro,0,0,E,E,NORMAL,H
+1980,1980-04-27,Botafogo-PB,Sport,1,1,E,E,NORMAL,H
+1980,1980-04-27,Guarani,America-RJ,1,0,V,D,NORMAL,I
+1980,1980-04-27,Santos,Joinville,2,0,V,D,NORMAL,I
+1980,1980-04-27,Palmeiras,Flamengo,2,2,E,E,NORMAL,J
+1980,1980-04-27,Santa Cruz,Bangu,4,1,V,D,NORMAL,J
+1980,1980-04-27,Desportiva Ferroviária,Remo,3,1,V,D,NORMAL,K
+1980,1980-04-27,Colorado,Grêmio,0,1,D,V,NORMAL,L
+1980,1980-04-27,América-SP,Ponte Preta,1,2,D,V,NORMAL,L
+1980,1980-05-03,Náutico,Vitória,2,0,V,D,NORMAL,E
+1980,1980-05-03,Cruzeiro,Sport,2,0,V,D,NORMAL,H
+1980,1980-05-03,Fluminense,Botafogo-PB,4,0,V,D,NORMAL,H
+1980,1980-05-03,Ponte Preta,Colorado,0,2,D,V,NORMAL,L
+1980,1980-05-04,Vasco,Corinthians,5,2,V,D,NORMAL,E
+1980,1980-05-04,Bahia,Internacional,1,3,D,V,NORMAL,G
+1980,1980-05-04,Atlético Mineiro,Atlético Goianiense,3,1,V,D,NORMAL,G
+1980,1980-05-04,São Paulo,Americano,4,1,V,D,NORMAL,F
+1980,1980-05-04,Botafogo,Ceará,3,1,V,D,NORMAL,F
+1980,1980-05-04,America-RJ,Joinville,2,2,E,E,NORMAL,I
+1980,1980-05-04,Guarani,Santos,1,1,E,E,NORMAL,I
+1980,1980-05-04,Santa Cruz,Palmeiras,2,2,E,E,NORMAL,J
+1980,1980-05-04,Bangu,Flamengo,0,3,D,V,NORMAL,J
+1980,1980-05-04,Coritiba,Desportiva Ferroviária,7,1,V,D,NORMAL,K
+1980,1980-05-04,Remo,Ferroviário,2,1,V,D,NORMAL,K
+1980,1980-05-04,Grêmio,América-SP,5,0,V,D,NORMAL,L
+1980,1980-05-07,Guarani,America-RJ,3,2,V,D,NORMAL,2F
+1980,1980-05-07,Vitória,Vasco,0,5,D,V,NORMAL,E
+1980,1980-05-07,Corinthians,Náutico,3,0,V,D,NORMAL,E
+1980,1980-05-07,Internacional,Atlético Goianiense,4,0,V,D,NORMAL,G
+1980,1980-05-07,Atlético Mineiro,Bahia,5,1,V,D,NORMAL,G
+1980,1980-05-10,Santos,Ponte Preta,3,0,V,D,NORMAL,O
+1980,1980-05-10,Flamengo,Desportiva Ferroviária,3,0,V,D,NORMAL,O
+1980,1980-05-11,Vasco,Fluminense,1,1,E,E,NORMAL,M
+1980,1980-05-11,São Paulo,Atlético Mineiro,0,0,E,E,NORMAL,M
+1980,1980-05-11,Cruzeiro,Palmeiras,0,0,E,E,NORMAL,N
+1980,1980-05-11,Guarani,Internacional,1,2,D,V,NORMAL,N
+1980,1980-05-11,Coritiba,Corinthians,1,0,V,D,NORMAL,P
+1980,1980-05-11,Grêmio,Botafogo,1,0,V,D,NORMAL,P
+1980,1980-05-14,Fluminense,Atlético Mineiro,0,2,D,V,NORMAL,M
+1980,1980-05-14,Internacional,Palmeiras,2,1,V,D,NORMAL,N
+1980,1980-05-14,Ponte Preta,Flamengo,1,1,E,E,NORMAL,O
+1980,1980-05-14,Coritiba,Botafogo,1,0,V,D,NORMAL,P
+1980,1980-05-14,Corinthians,Grêmio,5,0,V,D,NORMAL,P
+1980,1980-05-15,Vasco,São Paulo,2,1,V,D,NORMAL,M
+1980,1980-05-15,Cruzeiro,Guarani,0,2,D,V,NORMAL,N
+1980,1980-05-15,Santos,Desportiva Ferroviária,0,0,E,E,NORMAL,O
+1980,1980-05-17,Botafogo,Corinthians,1,1,E,E,NORMAL,P
+1980,1980-05-17,Grêmio,Coritiba,1,0,V,D,NORMAL,P
+1980,1980-05-18,São Paulo,Fluminense,3,2,V,D,NORMAL,M
+1980,1980-05-18,Atlético Mineiro,Vasco,0,0,E,E,NORMAL,M
+1980,1980-05-18,Palmeiras,Guarani,0,0,E,E,NORMAL,N
+1980,1980-05-18,Internacional,Cruzeiro,1,0,V,D,NORMAL,N
+1980,1980-05-18,Flamengo,Santos,2,0,V,D,NORMAL,O
+1980,1980-05-18,Desportiva Ferroviária,Ponte Preta,2,1,V,D,NORMAL,O
+1980,1980-05-21,Atlético Mineiro,Internacional,1,1,E,E,NORMAL,SF
+1980,1980-05-21,Coritiba,Flamengo,0,2,D,V,NORMAL,SF
+1980,1980-05-25,Internacional,Atlético Mineiro,0,3,D,V,NORMAL,SF
+1980,1980-05-25,Flamengo,Coritiba,4,3,V,D,NORMAL,SF
+1980,1980-05-28,Atlético Mineiro,Flamengo,1,0,V,D,NORMAL,F
+1980,1980-06-01,Flamengo,Atlético Mineiro,3,2,V,D,NORMAL,F

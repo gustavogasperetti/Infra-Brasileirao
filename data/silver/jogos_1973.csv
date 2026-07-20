@@ -1,0 +1,657 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1973,1973-08-25,Corinthians,America-RJ,0,0,E,E,NORMAL,1F
+1973,1973-08-25,CEUB,Botafogo,0,0,E,E,NORMAL,1F
+1973,1973-08-25,Paysandu,Internacional,2,1,V,D,NORMAL,1F
+1973,1973-08-25,CRB,América Mineiro,0,1,D,V,NORMAL,1F
+1973,1973-08-25,Sport,Fortaleza,0,0,E,E,NORMAL,1F
+1973,1973-08-25,Comercial-MS,Flamengo,0,1,D,V,NORMAL,1F
+1973,1973-08-25,Athletico Paranaense,Vitória,0,0,E,E,NORMAL,1F
+1973,1973-08-25,América-RN,Rio Negro-AM,0,0,E,E,NORMAL,1F
+1973,1973-08-25,Remo,Palmeiras,0,2,D,V,NORMAL,1F
+1973,1973-08-25,Grêmio,Santa Cruz,4,0,V,D,NORMAL,1F
+1973,1973-08-25,Goiás,Olaria,0,0,E,E,NORMAL,1F
+1973,1973-08-26,Tiradentes-PI,Fluminense,0,0,E,E,NORMAL,1F
+1973,1973-08-26,Figueirense,Coritiba,0,0,E,E,NORMAL,1F
+1973,1973-08-26,Bahia,São Paulo,1,1,E,E,NORMAL,1F
+1973,1973-08-26,Nacional-AM,Guarani,1,1,E,E,NORMAL,1F
+1973,1973-08-26,Moto Club,Cruzeiro,0,3,D,V,NORMAL,1F
+1973,1973-08-26,Desportiva Ferroviária,Sergipe,2,0,V,D,NORMAL,1F
+1973,1973-08-27,Ceará,Náutico,2,2,E,E,NORMAL,1F
+1973,1973-08-29,Moto Club,Fluminense,1,4,D,V,NORMAL,1F
+1973,1973-08-29,Figueirense,Botafogo,2,2,E,E,NORMAL,1F
+1973,1973-08-29,CRB,São Paulo,0,1,D,V,NORMAL,1F
+1973,1973-08-29,Tiradentes-PI,Cruzeiro,1,1,E,E,NORMAL,1F
+1973,1973-08-29,América Mineiro,Sport,4,1,V,D,NORMAL,1F
+1973,1973-08-29,Fortaleza,Bahia,1,1,E,E,NORMAL,1F
+1973,1973-08-29,Coritiba,CEUB,2,1,V,D,NORMAL,1F
+1973,1973-08-29,Sergipe,Vasco,0,3,D,V,NORMAL,1F
+1973,1973-08-29,Goiás,Flamengo,1,0,V,D,NORMAL,1F
+1973,1973-08-29,Comercial-MS,Olaria,2,1,V,D,NORMAL,1F
+1973,1973-08-29,Rio Negro-AM,Palmeiras,1,2,D,V,NORMAL,1F
+1973,1973-08-29,Vitória,Santos,2,0,V,D,NORMAL,1F
+1973,1973-08-29,Remo,Portuguesa,1,0,V,D,NORMAL,1F
+1973,1973-08-29,Desportiva Ferroviária,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1973,1973-08-29,América-RN,Grêmio,1,1,E,E,NORMAL,1F
+1973,1973-08-29,Santa Cruz,Ceará,1,1,E,E,NORMAL,1F
+1973,1973-08-29,Guarani,Corinthians,0,1,D,V,NORMAL,1F
+1973,1973-08-30,Nacional-AM,Internacional,0,0,E,E,NORMAL,1F
+1973,1973-08-30,Paysandu,America-RJ,0,0,E,E,NORMAL,1F
+1973,1973-08-30,Náutico,Athletico Paranaense,1,0,V,D,NORMAL,1F
+1973,1973-08-31,América Mineiro,Fortaleza,1,0,V,D,NORMAL,1F
+1973,1973-08-31,Rio Negro-AM,Portuguesa,1,3,D,V,NORMAL,1F
+1973,1973-09-01,CEUB,Figueirense,2,1,V,D,NORMAL,1F
+1973,1973-09-02,Sport,São Paulo,0,3,D,V,NORMAL,1F
+1973,1973-09-02,Botafogo,Fluminense,4,0,V,D,NORMAL,1F
+1973,1973-09-02,Nacional-AM,America-RJ,1,1,E,E,NORMAL,1F
+1973,1973-09-02,Coritiba,Corinthians,3,0,V,D,NORMAL,1F
+1973,1973-09-02,Paysandu,Guarani,0,2,D,V,NORMAL,1F
+1973,1973-09-02,Internacional,Cruzeiro,0,1,D,V,NORMAL,1F
+1973,1973-09-02,CRB,Bahia,0,1,D,V,NORMAL,1F
+1973,1973-09-02,Moto Club,Tiradentes-PI,0,1,D,V,NORMAL,1F
+1973,1973-09-02,Vitória,Vasco,0,0,E,E,NORMAL,1F
+1973,1973-09-02,Santa Cruz,Flamengo,3,1,V,D,NORMAL,1F
+1973,1973-09-02,Santos,Palmeiras,0,0,E,E,NORMAL,1F
+1973,1973-09-02,Atlético Mineiro,Grêmio,0,0,E,E,NORMAL,1F
+1973,1973-09-02,Desportiva Ferroviária,Remo,0,1,D,V,NORMAL,1F
+1973,1973-09-02,Ceará,Athletico Paranaense,0,1,D,V,NORMAL,1F
+1973,1973-09-02,América-RN,Sergipe,2,0,V,D,NORMAL,1F
+1973,1973-09-02,Comercial-MS,Goiás,0,2,D,V,NORMAL,1F
+1973,1973-09-05,Bahia,Fluminense,0,1,D,V,NORMAL,1F
+1973,1973-09-05,Moto Club,Botafogo,0,2,D,V,NORMAL,1F
+1973,1973-09-05,Figueirense,Corinthians,1,1,E,E,NORMAL,1F
+1973,1973-09-05,Guarani,São Paulo,1,1,E,E,NORMAL,1F
+1973,1973-09-05,CEUB,Cruzeiro,2,0,V,D,NORMAL,1F
+1973,1973-09-05,Sport,Internacional,0,1,D,V,NORMAL,1F
+1973,1973-09-05,Tiradentes-PI,Paysandu,2,0,V,D,NORMAL,1F
+1973,1973-09-05,CRB,Nacional-AM,1,1,E,E,NORMAL,1F
+1973,1973-09-05,Fortaleza,Coritiba,3,2,V,D,NORMAL,1F
+1973,1973-09-05,Desportiva Ferroviária,Vasco,0,1,D,V,NORMAL,1F
+1973,1973-09-05,Olaria,Flamengo,0,1,D,V,NORMAL,1F
+1973,1973-09-05,Athletico Paranaense,Palmeiras,1,1,E,E,NORMAL,1F
+1973,1973-09-05,Santos,Grêmio,0,0,E,E,NORMAL,1F
+1973,1973-09-05,Comercial-MS,Atlético Mineiro,1,2,D,V,NORMAL,1F
+1973,1973-09-05,Rio Negro-AM,Santa Cruz,1,0,V,D,NORMAL,1F
+1973,1973-09-05,Remo,Náutico,1,0,V,D,NORMAL,1F
+1973,1973-09-05,América-RN,Ceará,2,0,V,D,NORMAL,1F
+1973,1973-09-05,Goiás,Sergipe,3,0,V,D,NORMAL,1F
+1973,1973-09-06,America-RJ,América Mineiro,1,0,V,D,NORMAL,1F
+1973,1973-09-08,Nacional-AM,Coritiba,0,1,D,V,NORMAL,1F
+1973,1973-09-08,Vasco,Ceará,1,1,E,E,NORMAL,1F
+1973,1973-09-08,Portuguesa,Olaria,4,2,V,D,NORMAL,1F
+1973,1973-09-09,CRB,Fluminense,1,2,D,V,NORMAL,1F
+1973,1973-09-09,Tiradentes-PI,Botafogo,0,0,E,E,NORMAL,1F
+1973,1973-09-09,Moto Club,America-RJ,1,1,E,E,NORMAL,1F
+1973,1973-09-09,Corinthians,São Paulo,1,0,V,D,NORMAL,1F
+1973,1973-09-09,Guarani,CEUB,3,1,V,D,NORMAL,1F
+1973,1973-09-09,Cruzeiro,América Mineiro,1,0,V,D,NORMAL,1F
+1973,1973-09-09,Bahia,Internacional,1,2,D,V,NORMAL,1F
+1973,1973-09-09,Paysandu,Sport,2,2,E,E,NORMAL,1F
+1973,1973-09-09,Fortaleza,Figueirense,2,0,V,D,NORMAL,1F
+1973,1973-09-09,Flamengo,Santos,0,1,D,V,NORMAL,1F
+1973,1973-09-09,Grêmio,Palmeiras,0,0,E,E,NORMAL,1F
+1973,1973-09-09,Athletico Paranaense,Atlético Mineiro,0,1,D,V,NORMAL,1F
+1973,1973-09-09,Náutico,Santa Cruz,0,0,E,E,NORMAL,1F
+1973,1973-09-09,Sergipe,Remo,1,0,V,D,NORMAL,1F
+1973,1973-09-09,Rio Negro-AM,Vitória,0,0,E,E,NORMAL,1F
+1973,1973-09-09,Goiás,América-RN,0,0,E,E,NORMAL,1F
+1973,1973-09-09,Comercial-MS,Desportiva Ferroviária,0,0,E,E,NORMAL,1F
+1973,1973-09-12,Fluminense,Guarani,3,0,V,D,NORMAL,1F
+1973,1973-09-12,Fortaleza,Botafogo,0,2,D,V,NORMAL,1F
+1973,1973-09-12,Tiradentes-PI,America-RJ,0,0,E,E,NORMAL,1F
+1973,1973-09-12,Moto Club,Corinthians,0,0,E,E,NORMAL,1F
+1973,1973-09-12,São Paulo,América Mineiro,1,0,V,D,NORMAL,1F
+1973,1973-09-12,Figueirense,Cruzeiro,0,1,D,V,NORMAL,1F
+1973,1973-09-12,CRB,Internacional,0,1,D,V,NORMAL,1F
+1973,1973-09-12,Sport,Nacional-AM,1,2,D,V,NORMAL,1F
+1973,1973-09-12,Paysandu,Coritiba,0,1,D,V,NORMAL,1F
+1973,1973-09-12,CEUB,Bahia,0,0,E,E,NORMAL,1F
+1973,1973-09-12,América-RN,Vasco,1,1,E,E,NORMAL,1F
+1973,1973-09-12,Sergipe,Flamengo,0,1,D,V,NORMAL,1F
+1973,1973-09-12,Vitória,Olaria,0,0,E,E,NORMAL,1F
+1973,1973-09-12,Comercial-MS,Santos,1,0,V,D,NORMAL,1F
+1973,1973-09-12,Goiás,Portuguesa,0,0,E,E,NORMAL,1F
+1973,1973-09-12,Rio Negro-AM,Atlético Mineiro,1,2,D,V,NORMAL,1F
+1973,1973-09-12,Desportiva Ferroviária,Náutico,1,0,V,D,NORMAL,1F
+1973,1973-09-12,Santa Cruz,Remo,2,1,V,D,NORMAL,1F
+1973,1973-09-13,Ceará,Palmeiras,0,2,D,V,NORMAL,1F
+1973,1973-09-15,Cruzeiro,Bahia,1,0,V,D,NORMAL,1F
+1973,1973-09-15,Coritiba,Sport,3,0,V,D,NORMAL,1F
+1973,1973-09-15,CEUB,CRB,1,2,D,V,NORMAL,1F
+1973,1973-09-15,Grêmio,Olaria,2,0,V,D,NORMAL,1F
+1973,1973-09-16,Fluminense,America-RJ,2,0,V,D,NORMAL,1F
+1973,1973-09-16,Internacional,Botafogo,0,1,D,V,NORMAL,1F
+1973,1973-09-16,Tiradentes-PI,Corinthians,1,0,V,D,NORMAL,1F
+1973,1973-09-16,Fortaleza,São Paulo,0,0,E,E,NORMAL,1F
+1973,1973-09-16,Figueirense,Guarani,1,1,E,E,NORMAL,1F
+1973,1973-09-16,Nacional-AM,Paysandu,2,1,V,D,NORMAL,1F
+1973,1973-09-16,Moto Club,América Mineiro,0,0,E,E,NORMAL,1F
+1973,1973-09-16,Náutico,Vasco,2,1,V,D,NORMAL,1F
+1973,1973-09-16,Atlético Mineiro,Flamengo,3,0,V,D,NORMAL,1F
+1973,1973-09-16,Portuguesa,Palmeiras,1,1,E,E,NORMAL,1F
+1973,1973-09-16,Athletico Paranaense,Santos,0,2,D,V,NORMAL,1F
+1973,1973-09-16,América-RN,Santa Cruz,2,2,E,E,NORMAL,1F
+1973,1973-09-16,Remo,Goiás,1,0,V,D,NORMAL,1F
+1973,1973-09-16,Desportiva Ferroviária,Rio Negro-AM,0,1,D,V,NORMAL,1F
+1973,1973-09-16,Vitória,Ceará,0,1,D,V,NORMAL,1F
+1973,1973-09-16,Comercial-MS,Sergipe,1,0,V,D,NORMAL,1F
+1973,1973-09-19,Vasco,Portuguesa,0,1,D,V,NORMAL,1F
+1973,1973-09-19,Atlético Mineiro,Santos,0,0,E,E,NORMAL,1F
+1973,1973-09-22,Fortaleza,America-RJ,2,1,V,D,NORMAL,1F
+1973,1973-09-22,Corinthians,Internacional,1,0,V,D,NORMAL,1F
+1973,1973-09-22,América Mineiro,Tiradentes-PI,0,0,E,E,NORMAL,1F
+1973,1973-09-22,CEUB,Sport,1,1,E,E,NORMAL,1F
+1973,1973-09-22,Rio Negro-AM,Goiás,1,0,V,D,NORMAL,1F
+1973,1973-09-22,Palmeiras,Olaria,1,0,V,D,NORMAL,1F
+1973,1973-09-23,São Paulo,Fluminense,2,2,E,E,NORMAL,1F
+1973,1973-09-23,Nacional-AM,Botafogo,1,1,E,E,NORMAL,1F
+1973,1973-09-23,Guarani,Moto Club,1,0,V,D,NORMAL,1F
+1973,1973-09-23,Cruzeiro,Coritiba,0,0,E,E,NORMAL,1F
+1973,1973-09-23,CRB,Paysandu,3,2,V,D,NORMAL,1F
+1973,1973-09-23,Bahia,Figueirense,1,0,V,D,NORMAL,1F
+1973,1973-09-23,Vasco,Flamengo,2,2,E,E,NORMAL,1F
+1973,1973-09-23,Ceará,Santos,2,0,V,D,NORMAL,1F
+1973,1973-09-23,Grêmio,Portuguesa,1,0,V,D,NORMAL,1F
+1973,1973-09-23,Sergipe,Atlético Mineiro,0,4,D,V,NORMAL,1F
+1973,1973-09-23,Santa Cruz,Vitória,1,0,V,D,NORMAL,1F
+1973,1973-09-23,Comercial-MS,Náutico,1,2,D,V,NORMAL,1F
+1973,1973-09-23,Remo,América-RN,1,2,D,V,NORMAL,1F
+1973,1973-09-23,Athletico Paranaense,Desportiva Ferroviária,1,0,V,D,NORMAL,1F
+1973,1973-09-26,Figueirense,Fluminense,1,0,V,D,NORMAL,1F
+1973,1973-09-26,Paysandu,Botafogo,0,1,D,V,NORMAL,1F
+1973,1973-09-26,Coritiba,America-RJ,2,0,V,D,NORMAL,1F
+1973,1973-09-26,CEUB,São Paulo,0,0,E,E,NORMAL,1F
+1973,1973-09-26,Cruzeiro,Guarani,1,1,E,E,NORMAL,1F
+1973,1973-09-26,Nacional-AM,Bahia,2,2,E,E,NORMAL,1F
+1973,1973-09-26,Moto Club,Fortaleza,0,0,E,E,NORMAL,1F
+1973,1973-09-26,Tiradentes-PI,CRB,1,1,E,E,NORMAL,1F
+1973,1973-09-26,Comercial-MS,Rio Negro-AM,1,1,E,E,NORMAL,1F
+1973,1973-09-26,Ceará,Flamengo,1,1,E,E,NORMAL,1F
+1973,1973-09-26,Santa Cruz,Olaria,1,0,V,D,NORMAL,1F
+1973,1973-09-26,Palmeiras,Náutico,2,0,V,D,NORMAL,1F
+1973,1973-09-26,América-RN,Santos,1,6,D,V,NORMAL,1F
+1973,1973-09-26,Desportiva Ferroviária,Portuguesa,1,1,E,E,NORMAL,1F
+1973,1973-09-26,Vitória,Atlético Mineiro,0,1,D,V,NORMAL,1F
+1973,1973-09-26,Sergipe,Grêmio,1,2,D,V,NORMAL,1F
+1973,1973-09-26,Goiás,Athletico Paranaense,1,0,V,D,NORMAL,1F
+1973,1973-09-27,Sport,Corinthians,1,2,D,V,NORMAL,1F
+1973,1973-09-27,Remo,Vasco,0,1,D,V,NORMAL,1F
+1973,1973-09-29,Nacional-AM,CEUB,1,0,V,D,NORMAL,1F
+1973,1973-09-29,Athletico Paranaense,Santa Cruz,0,0,E,E,NORMAL,1F
+1973,1973-09-30,Cruzeiro,Fluminense,0,0,E,E,NORMAL,1F
+1973,1973-09-30,Botafogo,São Paulo,1,0,V,D,NORMAL,1F
+1973,1973-09-30,CRB,Corinthians,0,3,D,V,NORMAL,1F
+1973,1973-09-30,Internacional,America-RJ,0,0,E,E,NORMAL,1F
+1973,1973-09-30,Guarani,Fortaleza,2,2,E,E,NORMAL,1F
+1973,1973-09-30,Moto Club,Sport,0,2,D,V,NORMAL,1F
+1973,1973-09-30,Bahia,Paysandu,3,0,V,D,NORMAL,1F
+1973,1973-09-30,Figueirense,Tiradentes-PI,1,0,V,D,NORMAL,1F
+1973,1973-09-30,Coritiba,América Mineiro,0,2,D,V,NORMAL,1F
+1973,1973-09-30,Rio Negro-AM,Vasco,0,0,E,E,NORMAL,1F
+1973,1973-09-30,América-RN,Flamengo,0,3,D,V,NORMAL,1F
+1973,1973-09-30,Desportiva Ferroviária,Olaria,1,1,E,E,NORMAL,1F
+1973,1973-09-30,Palmeiras,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1973,1973-09-30,Náutico,Santos,0,3,D,V,NORMAL,1F
+1973,1973-09-30,Ceará,Portuguesa,1,1,E,E,NORMAL,1F
+1973,1973-09-30,Goiás,Grêmio,0,2,D,V,NORMAL,1F
+1973,1973-09-30,Remo,Comercial-MS,1,0,V,D,NORMAL,1F
+1973,1973-09-30,Sergipe,Vitória,0,1,D,V,NORMAL,1F
+1973,1973-10-03,América Mineiro,Fluminense,0,0,E,E,NORMAL,1F
+1973,1973-10-03,Guarani,Botafogo,1,1,E,E,NORMAL,1F
+1973,1973-10-03,CEUB,America-RJ,1,0,V,D,NORMAL,1F
+1973,1973-10-03,Bahia,Corinthians,0,1,D,V,NORMAL,1F
+1973,1973-10-03,Moto Club,São Paulo,1,4,D,V,NORMAL,1F
+1973,1973-10-03,Paysandu,Cruzeiro,1,2,D,V,NORMAL,1F
+1973,1973-10-03,Fortaleza,Internacional,0,0,E,E,NORMAL,1F
+1973,1973-10-03,CRB,Sport,0,3,D,V,NORMAL,1F
+1973,1973-10-03,Figueirense,Nacional-AM,0,0,E,E,NORMAL,1F
+1973,1973-10-03,Tiradentes-PI,Coritiba,2,1,V,D,NORMAL,1F
+1973,1973-10-03,Santa Cruz,Vasco,0,2,D,V,NORMAL,1F
+1973,1973-10-03,Flamengo,Náutico,4,1,V,D,NORMAL,1F
+1973,1973-10-03,Sergipe,Santos,0,3,D,V,NORMAL,1F
+1973,1973-10-03,América-RN,Portuguesa,1,1,E,E,NORMAL,1F
+1973,1973-10-03,Comercial-MS,Grêmio,1,0,V,D,NORMAL,1F
+1973,1973-10-03,Athletico Paranaense,Rio Negro-AM,1,0,V,D,NORMAL,1F
+1973,1973-10-03,Desportiva Ferroviária,Goiás,0,0,E,E,NORMAL,1F
+1973,1973-10-04,Atlético Mineiro,Olaria,1,1,E,E,NORMAL,1F
+1973,1973-10-04,Ceará,Remo,0,0,E,E,NORMAL,1F
+1973,1973-10-04,Vitória,Palmeiras,1,2,D,V,NORMAL,1F
+1973,1973-10-06,Fluminense,Sport,1,0,V,D,NORMAL,1F
+1973,1973-10-06,América Mineiro,Guarani,1,1,E,E,NORMAL,1F
+1973,1973-10-06,CEUB,Internacional,0,1,D,V,NORMAL,1F
+1973,1973-10-06,Athletico Paranaense,Portuguesa,0,0,E,E,NORMAL,1F
+1973,1973-10-07,Corinthians,Botafogo,1,1,E,E,NORMAL,1F
+1973,1973-10-07,Bahia,America-RJ,2,1,V,D,NORMAL,1F
+1973,1973-10-07,Tiradentes-PI,São Paulo,0,2,D,V,NORMAL,1F
+1973,1973-10-07,Nacional-AM,Cruzeiro,2,2,E,E,NORMAL,1F
+1973,1973-10-07,Paysandu,Figueirense,1,2,D,V,NORMAL,1F
+1973,1973-10-07,CRB,Fortaleza,1,3,D,V,NORMAL,1F
+1973,1973-10-07,Coritiba,Moto Club,4,0,V,D,NORMAL,1F
+1973,1973-10-07,Grêmio,Vasco,1,0,V,D,NORMAL,1F
+1973,1973-10-07,Flamengo,Palmeiras,0,2,D,V,NORMAL,1F
+1973,1973-10-07,Sergipe,Olaria,1,0,V,D,NORMAL,1F
+1973,1973-10-07,Santa Cruz,Santos,3,2,V,D,NORMAL,1F
+1973,1973-10-07,Atlético Mineiro,Remo,3,0,V,D,NORMAL,1F
+1973,1973-10-07,Goiás,Náutico,1,0,V,D,NORMAL,1F
+1973,1973-10-07,Ceará,Rio Negro-AM,0,1,D,V,NORMAL,1F
+1973,1973-10-07,Comercial-MS,Vitória,0,1,D,V,NORMAL,1F
+1973,1973-10-07,Desportiva Ferroviária,América-RN,2,1,V,D,NORMAL,1F
+1973,1973-10-10,Internacional,América Mineiro,1,1,E,E,NORMAL,1F
+1973,1973-10-10,Athletico Paranaense,Grêmio,1,1,E,E,NORMAL,1F
+1973,1973-10-13,Botafogo,America-RJ,0,1,D,V,NORMAL,1F
+1973,1973-10-13,CEUB,Moto Club,1,2,D,V,NORMAL,1F
+1973,1973-10-13,Paysandu,Corinthians,0,2,D,V,NORMAL,1F
+1973,1973-10-13,Athletico Paranaense,Olaria,0,2,D,V,NORMAL,1F
+1973,1973-10-13,Portuguesa,Flamengo,3,0,V,D,NORMAL,1F
+1973,1973-10-14,Coritiba,Fluminense,1,0,V,D,NORMAL,1F
+1973,1973-10-14,São Paulo,Cruzeiro,2,1,V,D,NORMAL,1F
+1973,1973-10-14,Guarani,CRB,1,1,E,E,NORMAL,1F
+1973,1973-10-14,Tiradentes-PI,Internacional,1,2,D,V,NORMAL,1F
+1973,1973-10-14,Sport,Bahia,0,0,E,E,NORMAL,1F
+1973,1973-10-14,Fortaleza,Nacional-AM,2,2,E,E,NORMAL,1F
+1973,1973-10-14,Figueirense,América Mineiro,0,0,E,E,NORMAL,1F
+1973,1973-10-14,Vasco,Santos,1,1,E,E,NORMAL,1F
+1973,1973-10-14,Sergipe,Palmeiras,0,0,E,E,NORMAL,1F
+1973,1973-10-14,Atlético Mineiro,Ceará,0,0,E,E,NORMAL,1F
+1973,1973-10-14,Grêmio,Remo,3,0,V,D,NORMAL,1F
+1973,1973-10-14,Rio Negro-AM,Náutico,1,0,V,D,NORMAL,1F
+1973,1973-10-14,Vitória,Desportiva Ferroviária,2,1,V,D,NORMAL,1F
+1973,1973-10-14,Comercial-MS,América-RN,4,3,V,D,NORMAL,1F
+1973,1973-10-14,Goiás,Santa Cruz,5,1,V,D,NORMAL,1F
+1973,1973-10-17,CEUB,Fluminense,0,1,D,V,NORMAL,1F
+1973,1973-10-17,Coritiba,Botafogo,1,0,V,D,NORMAL,1F
+1973,1973-10-17,Guarani,America-RJ,3,1,V,D,NORMAL,1F
+1973,1973-10-17,Nacional-AM,Corinthians,1,2,D,V,NORMAL,1F
+1973,1973-10-17,Figueirense,São Paulo,0,1,D,V,NORMAL,1F
+1973,1973-10-17,CRB,Cruzeiro,0,1,D,V,NORMAL,1F
+1973,1973-10-17,Moto Club,Internacional,0,2,D,V,NORMAL,1F
+1973,1973-10-17,Tiradentes-PI,Sport,0,1,D,V,NORMAL,1F
+1973,1973-10-17,Fortaleza,Paysandu,2,0,V,D,NORMAL,1F
+1973,1973-10-17,América Mineiro,Bahia,1,2,D,V,NORMAL,1F
+1973,1973-10-17,Athletico Paranaense,Remo,1,0,V,D,NORMAL,1F
+1973,1973-10-17,Comercial-MS,Vasco,1,1,E,E,NORMAL,1F
+1973,1973-10-17,Desportiva Ferroviária,Flamengo,1,0,V,D,NORMAL,1F
+1973,1973-10-17,Náutico,Olaria,0,0,E,E,NORMAL,1F
+1973,1973-10-17,Goiás,Santos,0,0,E,E,NORMAL,1F
+1973,1973-10-17,Vitória,Portuguesa,1,0,V,D,NORMAL,1F
+1973,1973-10-17,América-RN,Atlético Mineiro,2,1,V,D,NORMAL,1F
+1973,1973-10-17,Sergipe,Ceará,0,0,E,E,NORMAL,1F
+1973,1973-10-17,Santa Cruz,Palmeiras,0,1,D,V,NORMAL,1F
+1973,1973-10-17,Rio Negro-AM,Grêmio,1,1,E,E,NORMAL,1F
+1973,1973-10-20,América Mineiro,Botafogo,1,1,E,E,NORMAL,1F
+1973,1973-10-20,CEUB,Fortaleza,1,2,D,V,NORMAL,1F
+1973,1973-10-20,Vitória,Goiás,3,3,E,E,NORMAL,1F
+1973,1973-10-20,Náutico,Portuguesa,3,2,V,D,NORMAL,1F
+1973,1973-10-21,Fluminense,Corinthians,1,3,D,V,NORMAL,1F
+1973,1973-10-21,Cruzeiro,America-RJ,2,1,V,D,NORMAL,1F
+1973,1973-10-21,Internacional,São Paulo,2,2,E,E,NORMAL,1F
+1973,1973-10-21,Guarani,Sport,4,1,V,D,NORMAL,1F
+1973,1973-10-21,Moto Club,Paysandu,1,1,E,E,NORMAL,1F
+1973,1973-10-21,Tiradentes-PI,Nacional-AM,0,0,E,E,NORMAL,1F
+1973,1973-10-21,Bahia,Coritiba,2,0,V,D,NORMAL,1F
+1973,1973-10-21,Figueirense,CRB,1,0,V,D,NORMAL,1F
+1973,1973-10-21,Athletico Paranaense,Vasco,1,2,D,V,NORMAL,1F
+1973,1973-10-21,Remo,Flamengo,2,1,V,D,NORMAL,1F
+1973,1973-10-21,Santos,Olaria,1,2,D,V,NORMAL,1F
+1973,1973-10-21,América-RN,Palmeiras,0,1,D,V,NORMAL,1F
+1973,1973-10-21,Santa Cruz,Atlético Mineiro,1,1,E,E,NORMAL,1F
+1973,1973-10-21,Desportiva Ferroviária,Grêmio,0,1,D,V,NORMAL,1F
+1973,1973-10-21,Rio Negro-AM,Sergipe,5,0,V,D,NORMAL,1F
+1973,1973-10-21,Ceará,Comercial-MS,1,0,V,D,NORMAL,1F
+1973,1973-10-24,Botafogo,Cruzeiro,2,1,V,D,NORMAL,1F
+1973,1973-10-24,Sport,America-RJ,1,2,D,V,NORMAL,1F
+1973,1973-10-24,Paysandu,São Paulo,0,2,D,V,NORMAL,1F
+1973,1973-10-24,Figueirense,Internacional,0,2,D,V,NORMAL,1F
+1973,1973-10-24,Moto Club,Nacional-AM,0,1,D,V,NORMAL,1F
+1973,1973-10-24,Bahia,Tiradentes-PI,1,0,V,D,NORMAL,1F
+1973,1973-10-24,Coritiba,CRB,2,0,V,D,NORMAL,1F
+1973,1973-10-24,Palmeiras,Vasco,0,0,E,E,NORMAL,1F
+1973,1973-10-24,Ceará,Olaria,1,0,V,D,NORMAL,1F
+1973,1973-10-24,Desportiva Ferroviária,Santos,1,3,D,V,NORMAL,1F
+1973,1973-10-24,Comercial-MS,Portuguesa,2,2,E,E,NORMAL,1F
+1973,1973-10-24,Goiás,Atlético Mineiro,3,1,V,D,NORMAL,1F
+1973,1973-10-24,Grêmio,Náutico,1,0,V,D,NORMAL,1F
+1973,1973-10-24,Sergipe,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1973,1973-10-24,América-RN,Vitória,1,1,E,E,NORMAL,1F
+1973,1973-10-25,Fortaleza,Fluminense,1,0,V,D,NORMAL,1F
+1973,1973-10-25,Corinthians,América Mineiro,1,1,E,E,NORMAL,1F
+1973,1973-10-27,Paysandu,Fluminense,1,1,E,E,NORMAL,1F
+1973,1973-10-27,Bahia,Botafogo,0,0,E,E,NORMAL,1F
+1973,1973-10-27,CRB,America-RJ,1,0,V,D,NORMAL,1F
+1973,1973-10-27,Fortaleza,Corinthians,1,1,E,E,NORMAL,1F
+1973,1973-10-27,São Paulo,Nacional-AM,0,0,E,E,NORMAL,1F
+1973,1973-10-27,Tiradentes-PI,Guarani,0,1,D,V,NORMAL,1F
+1973,1973-10-27,Sport,Cruzeiro,0,3,D,V,NORMAL,1F
+1973,1973-10-27,Internacional,Coritiba,1,0,V,D,NORMAL,1F
+1973,1973-10-27,Figueirense,Moto Club,0,0,E,E,NORMAL,1F
+1973,1973-10-27,CEUB,América Mineiro,0,1,D,V,NORMAL,1F
+1973,1973-10-27,Vasco,Olaria,0,1,D,V,NORMAL,1F
+1973,1973-10-27,Vitória,Remo,1,0,V,D,NORMAL,1F
+1973,1973-10-27,Flamengo,Grêmio,1,2,D,V,NORMAL,1F
+1973,1973-10-27,Desportiva Ferroviária,Palmeiras,0,1,D,V,NORMAL,1F
+1973,1973-10-27,Rio Negro-AM,Santos,1,1,E,E,NORMAL,1F
+1973,1973-10-27,Atlético Mineiro,Portuguesa,1,1,E,E,NORMAL,1F
+1973,1973-10-27,Sergipe,Santa Cruz,0,0,E,E,NORMAL,1F
+1973,1973-10-27,América-RN,Náutico,2,0,V,D,NORMAL,1F
+1973,1973-10-27,Goiás,Ceará,4,1,V,D,NORMAL,1F
+1973,1973-10-27,Athletico Paranaense,Comercial-MS,4,1,V,D,NORMAL,1F
+1973,1973-10-31,Nacional-AM,Fluminense,0,0,E,E,NORMAL,1F
+1973,1973-10-31,CRB,Botafogo,0,2,D,V,NORMAL,1F
+1973,1973-10-31,America-RJ,São Paulo,0,0,E,E,NORMAL,1F
+1973,1973-10-31,CEUB,Corinthians,2,1,V,D,NORMAL,1F
+1973,1973-10-31,Internacional,Guarani,2,1,V,D,NORMAL,1F
+1973,1973-10-31,Fortaleza,Cruzeiro,0,0,E,E,NORMAL,1F
+1973,1973-10-31,Figueirense,Sport,0,1,D,V,NORMAL,1F
+1973,1973-10-31,América Mineiro,Paysandu,2,0,V,D,NORMAL,1F
+1973,1973-10-31,Moto Club,Bahia,0,0,E,E,NORMAL,1F
+1973,1973-10-31,Goiás,Vasco,1,0,V,D,NORMAL,1F
+1973,1973-10-31,Vitória,Flamengo,0,0,E,E,NORMAL,1F
+1973,1973-10-31,Comercial-MS,Palmeiras,0,4,D,V,NORMAL,1F
+1973,1973-10-31,Remo,Santos,0,1,D,V,NORMAL,1F
+1973,1973-10-31,Sergipe,Portuguesa,1,3,D,V,NORMAL,1F
+1973,1973-10-31,Náutico,Atlético Mineiro,3,1,V,D,NORMAL,1F
+1973,1973-10-31,Desportiva Ferroviária,Santa Cruz,0,0,E,E,NORMAL,1F
+1973,1973-10-31,Athletico Paranaense,América-RN,2,1,V,D,NORMAL,1F
+1973,1973-11-01,Rio Negro-AM,Olaria,0,0,E,E,NORMAL,1F
+1973,1973-11-01,Ceará,Grêmio,0,0,E,E,NORMAL,1F
+1973,1973-11-03,Fluminense,Internacional,0,1,D,V,NORMAL,1F
+1973,1973-11-03,São Paulo,Coritiba,0,0,E,E,NORMAL,1F
+1973,1973-11-03,Paysandu,CEUB,0,1,D,V,NORMAL,1F
+1973,1973-11-04,Sport,Botafogo,1,0,V,D,NORMAL,1F
+1973,1973-11-04,Figueirense,America-RJ,1,1,E,E,NORMAL,1F
+1973,1973-11-04,Cruzeiro,Corinthians,0,0,E,E,NORMAL,1F
+1973,1973-11-04,Bahia,Guarani,0,0,E,E,NORMAL,1F
+1973,1973-11-04,Nacional-AM,América Mineiro,0,0,E,E,NORMAL,1F
+1973,1973-11-04,Tiradentes-PI,Fortaleza,1,0,V,D,NORMAL,1F
+1973,1973-11-04,Moto Club,CRB,1,1,E,E,NORMAL,1F
+1973,1973-11-04,Vasco,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1973,1973-11-04,Athletico Paranaense,Flamengo,1,0,V,D,NORMAL,1F
+1973,1973-11-04,Goiás,Palmeiras,0,1,D,V,NORMAL,1F
+1973,1973-11-04,Santos,Portuguesa,3,2,V,D,NORMAL,1F
+1973,1973-11-04,Grêmio,Vitória,1,0,V,D,NORMAL,1F
+1973,1973-11-04,Comercial-MS,Santa Cruz,0,0,E,E,NORMAL,1F
+1973,1973-11-04,Sergipe,Náutico,0,0,E,E,NORMAL,1F
+1973,1973-11-04,Remo,Olaria,0,3,D,V,NORMAL,1F
+1973,1973-11-04,Ceará,Desportiva Ferroviária,0,0,E,E,NORMAL,1F
+1973,1973-11-07,Coritiba,Guarani,0,0,E,E,NORMAL,1F
+1973,1973-11-07,Tiradentes-PI,CEUB,2,1,V,D,NORMAL,1F
+1973,1973-11-07,Remo,Rio Negro-AM,1,0,V,D,NORMAL,1F
+1973,1973-11-07,Santa Cruz,Portuguesa,0,4,D,V,NORMAL,1F
+1973,1973-11-07,Vitória,Náutico,3,1,V,D,NORMAL,1F
+1973,1973-11-07,América-RN,Olaria,0,2,D,V,NORMAL,1F
+1973,1973-11-10,Botafogo,Olaria,2,2,E,E,NORMAL,1F
+1973,1973-11-10,América Mineiro,Vasco,0,0,E,E,NORMAL,1F
+1973,1973-11-10,São Paulo,Coritiba,2,2,E,E,NORMAL,1F
+1973,1973-11-10,Santa Cruz,Remo,3,0,V,D,NORMAL,1F
+1973,1973-11-11,Fluminense,America-RJ,2,1,V,D,NORMAL,1F
+1973,1973-11-11,Figueirense,Flamengo,0,1,D,V,NORMAL,1F
+1973,1973-11-11,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1973,1973-11-11,Palmeiras,Portuguesa,2,0,V,D,NORMAL,1F
+1973,1973-11-11,Guarani,Corinthians,1,0,V,D,NORMAL,1F
+1973,1973-11-11,Athletico Paranaense,Santos,0,1,D,V,NORMAL,1F
+1973,1973-11-11,Internacional,Grêmio,1,1,E,E,NORMAL,1F
+1973,1973-11-11,Bahia,Vitória,0,1,D,V,NORMAL,1F
+1973,1973-11-11,Sergipe,Nacional-AM,2,1,V,D,NORMAL,1F
+1973,1973-11-11,Rio Negro-AM,Tiradentes-PI,0,1,D,V,NORMAL,1F
+1973,1973-11-11,CRB,América-RN,0,3,D,V,NORMAL,1F
+1973,1973-11-11,Ceará,Fortaleza,0,0,E,E,NORMAL,1F
+1973,1973-11-11,Náutico,Sport,0,0,E,E,NORMAL,1F
+1973,1973-11-11,Goiás,Paysandu,0,2,D,V,NORMAL,1F
+1973,1973-11-11,Desportiva Ferroviária,CEUB,1,0,V,D,NORMAL,1F
+1973,1973-11-11,Comercial-MS,Moto Club,2,0,V,D,NORMAL,1F
+1973,1973-11-14,Flamengo,Cruzeiro,1,2,D,V,NORMAL,1F
+1973,1973-11-14,Vasco,Olaria,1,1,E,E,NORMAL,1F
+1973,1973-11-14,Figueirense,Fluminense,0,0,E,E,NORMAL,1F
+1973,1973-11-14,América Mineiro,Botafogo,1,0,V,D,NORMAL,1F
+1973,1973-11-14,Grêmio,Corinthians,0,0,E,E,NORMAL,1F
+1973,1973-11-14,Guarani,Santos,1,1,E,E,NORMAL,1F
+1973,1973-11-14,São Paulo,Portuguesa,1,1,E,E,NORMAL,1F
+1973,1973-11-14,Coritiba,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1973,1973-11-14,Nacional-AM,Bahia,2,1,V,D,NORMAL,1F
+1973,1973-11-14,Vitória,CRB,1,1,E,E,NORMAL,1F
+1973,1973-11-14,Sergipe,Rio Negro-AM,0,1,D,V,NORMAL,1F
+1973,1973-11-14,América-RN,Fortaleza,0,0,E,E,NORMAL,1F
+1973,1973-11-14,Tiradentes-PI,Ceará,1,1,E,E,NORMAL,1F
+1973,1973-11-14,Goiás,Santa Cruz,0,0,E,E,NORMAL,1F
+1973,1973-11-14,Moto Club,Náutico,1,1,E,E,NORMAL,1F
+1973,1973-11-14,Sport,CEUB,3,0,V,D,NORMAL,1F
+1973,1973-11-14,Comercial-MS,Remo,1,1,E,E,NORMAL,1F
+1973,1973-11-14,Paysandu,Desportiva Ferroviária,0,2,D,V,NORMAL,1F
+1973,1973-11-15,Atlético Mineiro,America-RJ,2,3,D,V,NORMAL,1F
+1973,1973-11-15,Palmeiras,Internacional,1,0,V,D,NORMAL,1F
+1973,1973-11-17,Flamengo,América Mineiro,1,1,E,E,NORMAL,1F
+1973,1973-11-17,Cruzeiro,Olaria,2,0,V,D,NORMAL,1F
+1973,1973-11-17,Portuguesa,Athletico Paranaense,0,0,E,E,NORMAL,1F
+1973,1973-11-17,Grêmio,Guarani,1,0,V,D,NORMAL,1F
+1973,1973-11-17,Moto Club,Santa Cruz,1,1,E,E,NORMAL,1F
+1973,1973-11-17,Náutico,CEUB,2,0,V,D,NORMAL,1F
+1973,1973-11-17,Comercial-MS,Sport,1,0,V,D,NORMAL,1F
+1973,1973-11-17,Remo,Paysandu,1,1,E,E,NORMAL,1F
+1973,1973-11-17,Desportiva Ferroviária,Goiás,0,0,E,E,NORMAL,1F
+1973,1973-11-18,Botafogo,Fluminense,1,1,E,E,NORMAL,1F
+1973,1973-11-18,Atlético Mineiro,Vasco,2,1,V,D,NORMAL,1F
+1973,1973-11-18,Figueirense,America-RJ,1,0,V,D,NORMAL,1F
+1973,1973-11-18,Corinthians,Palmeiras,1,2,D,V,NORMAL,1F
+1973,1973-11-18,Coritiba,Santos,1,2,D,V,NORMAL,1F
+1973,1973-11-18,Internacional,São Paulo,1,2,D,V,NORMAL,1F
+1973,1973-11-18,Bahia,América-RN,2,1,V,D,NORMAL,1F
+1973,1973-11-18,Ceará,Vitória,1,0,V,D,NORMAL,1F
+1973,1973-11-18,Nacional-AM,Rio Negro-AM,0,0,E,E,NORMAL,1F
+1973,1973-11-18,Sergipe,Fortaleza,1,1,E,E,NORMAL,1F
+1973,1973-11-18,Tiradentes-PI,CRB,2,0,V,D,NORMAL,1F
+1973,1973-11-21,Rio Negro-AM,Flamengo,1,2,D,V,NORMAL,1F
+1973,1973-11-24,Botafogo,Atlético Mineiro,2,1,V,D,NORMAL,1F
+1973,1973-11-24,América Mineiro,Fluminense,1,0,V,D,NORMAL,1F
+1973,1973-11-24,Corinthians,Santos,1,0,V,D,NORMAL,1F
+1973,1973-11-25,Vasco,Flamengo,0,2,D,V,NORMAL,1F
+1973,1973-11-25,Cruzeiro,America-RJ,0,2,D,V,NORMAL,1F
+1973,1973-11-25,Figueirense,Olaria,2,2,E,E,NORMAL,1F
+1973,1973-11-25,Palmeiras,São Paulo,1,2,D,V,NORMAL,1F
+1973,1973-11-25,Guarani,Portuguesa,3,1,V,D,NORMAL,1F
+1973,1973-11-25,Athletico Paranaense,Grêmio,2,0,V,D,NORMAL,1F
+1973,1973-11-25,Internacional,Coritiba,1,0,V,D,NORMAL,1F
+1973,1973-11-25,Tiradentes-PI,Bahia,1,1,E,E,NORMAL,1F
+1973,1973-11-25,Vitória,Fortaleza,0,0,E,E,NORMAL,1F
+1973,1973-11-25,Nacional-AM,América-RN,3,1,V,D,NORMAL,1F
+1973,1973-11-25,Ceará,Rio Negro-AM,2,1,V,D,NORMAL,1F
+1973,1973-11-25,CRB,Sergipe,2,1,V,D,NORMAL,1F
+1973,1973-11-25,Santa Cruz,Sport,1,1,E,E,NORMAL,1F
+1973,1973-11-25,Remo,Goiás,2,0,V,D,NORMAL,1F
+1973,1973-11-25,Moto Club,Paysandu,0,0,E,E,NORMAL,1F
+1973,1973-11-25,CEUB,Comercial-MS,2,1,V,D,NORMAL,1F
+1973,1973-11-28,Figueirense,Botafogo,0,0,E,E,NORMAL,1F
+1973,1973-11-28,Vasco,Cruzeiro,3,1,V,D,NORMAL,1F
+1973,1973-11-28,América Mineiro,America-RJ,1,1,E,E,NORMAL,1F
+1973,1973-11-28,Guarani,Palmeiras,2,0,V,D,NORMAL,1F
+1973,1973-11-28,Internacional,Santos,0,2,D,V,NORMAL,1F
+1973,1973-11-28,São Paulo,Grêmio,0,0,E,E,NORMAL,1F
+1973,1973-11-28,Coritiba,Portuguesa,2,0,V,D,NORMAL,1F
+1973,1973-11-28,Bahia,Rio Negro-AM,1,0,V,D,NORMAL,1F
+1973,1973-11-28,América-RN,Tiradentes-PI,2,1,V,D,NORMAL,1F
+1973,1973-11-28,Sergipe,Ceará,1,4,D,V,NORMAL,1F
+1973,1973-11-28,CRB,Fortaleza,1,1,E,E,NORMAL,1F
+1973,1973-11-28,Santa Cruz,Comercial-MS,5,1,V,D,NORMAL,1F
+1973,1973-11-28,Remo,Sport,4,1,V,D,NORMAL,1F
+1973,1973-11-28,Goiás,CEUB,3,0,V,D,NORMAL,1F
+1973,1973-11-28,Moto Club,Desportiva Ferroviária,1,1,E,E,NORMAL,1F
+1973,1973-11-29,Fluminense,Olaria,1,2,D,V,NORMAL,1F
+1973,1973-11-29,Atlético Mineiro,Flamengo,2,1,V,D,NORMAL,1F
+1973,1973-11-29,Athletico Paranaense,Corinthians,2,2,E,E,NORMAL,1F
+1973,1973-11-29,Paysandu,Náutico,0,0,E,E,NORMAL,1F
+1973,1973-12-01,Botafogo,America-RJ,2,1,V,D,NORMAL,1F
+1973,1973-12-01,Santos,Portuguesa,0,0,E,E,NORMAL,1F
+1973,1973-12-01,Coritiba,Guarani,1,0,V,D,NORMAL,1F
+1973,1973-12-01,Rio Negro-AM,CRB,1,1,E,E,NORMAL,1F
+1973,1973-12-01,CEUB,Paysandu,3,1,V,D,NORMAL,1F
+1973,1973-12-02,Fluminense,Flamengo,2,1,V,D,NORMAL,1F
+1973,1973-12-02,Atlético Mineiro,Olaria,1,1,E,E,NORMAL,1F
+1973,1973-12-02,América Mineiro,Cruzeiro,2,2,E,E,NORMAL,1F
+1973,1973-12-02,Figueirense,Vasco,0,0,E,E,NORMAL,1F
+1973,1973-12-02,Grêmio,Palmeiras,1,0,V,D,NORMAL,1F
+1973,1973-12-02,Corinthians,São Paulo,0,0,E,E,NORMAL,1F
+1973,1973-12-02,Internacional,Athletico Paranaense,0,0,E,E,NORMAL,1F
+1973,1973-12-02,Nacional-AM,Ceará,3,1,V,D,NORMAL,1F
+1973,1973-12-02,Fortaleza,Bahia,2,1,V,D,NORMAL,1F
+1973,1973-12-02,América-RN,Vitória,0,1,D,V,NORMAL,1F
+1973,1973-12-02,Sergipe,Tiradentes-PI,0,2,D,V,NORMAL,1F
+1973,1973-12-02,Remo,Moto Club,5,0,V,D,NORMAL,1F
+1973,1973-12-02,Desportiva Ferroviária,Comercial-MS,0,3,D,V,NORMAL,1F
+1973,1973-12-02,Santa Cruz,Náutico,2,1,V,D,NORMAL,1F
+1973,1973-12-02,Goiás,Sport,0,0,E,E,NORMAL,1F
+1973,1973-12-05,Desportiva Ferroviária,Náutico,2,0,V,D,NORMAL,1F
+1973,1973-12-05,Vitória,Nacional-AM,2,0,V,D,NORMAL,1F
+1973,1973-12-07,America-RJ,Olaria,0,2,D,V,NORMAL,1F
+1973,1973-12-08,Vasco,Fluminense,1,0,V,D,NORMAL,1F
+1973,1973-12-08,Flamengo,Botafogo,1,0,V,D,NORMAL,1F
+1973,1973-12-08,Figueirense,Cruzeiro,0,3,D,V,NORMAL,1F
+1973,1973-12-08,Atlético Mineiro,América Mineiro,1,2,D,V,NORMAL,1F
+1973,1973-12-08,Corinthians,Portuguesa,1,2,D,V,NORMAL,1F
+1973,1973-12-08,Internacional,Guarani,1,1,E,E,NORMAL,1F
+1973,1973-12-08,Palmeiras,Santos,1,1,E,E,NORMAL,1F
+1973,1973-12-08,Athletico Paranaense,São Paulo,0,0,E,E,NORMAL,1F
+1973,1973-12-08,Grêmio,Coritiba,1,0,V,D,NORMAL,1F
+1973,1973-12-08,Vitória,Tiradentes-PI,0,0,E,E,NORMAL,1F
+1973,1973-12-08,Ceará,CRB,3,0,V,D,NORMAL,1F
+1973,1973-12-08,Bahia,Sergipe,3,0,V,D,NORMAL,1F
+1973,1973-12-08,Fortaleza,Nacional-AM,4,1,V,D,NORMAL,1F
+1973,1973-12-08,América-RN,Rio Negro-AM,1,0,V,D,NORMAL,1F
+1973,1973-12-08,Paysandu,Santa Cruz,2,0,V,D,NORMAL,1F
+1973,1973-12-08,Náutico,Remo,0,0,E,E,NORMAL,1F
+1973,1973-12-08,Desportiva Ferroviária,Sport,1,1,E,E,NORMAL,1F
+1973,1973-12-08,CEUB,Moto Club,1,0,V,D,NORMAL,1F
+1973,1973-12-08,Comercial-MS,Goiás,1,1,E,E,NORMAL,1F
+1973,1973-12-12,Vasco,America-RJ,2,1,V,D,NORMAL,1F
+1973,1973-12-12,Flamengo,Olaria,2,1,V,D,NORMAL,1F
+1973,1973-12-12,América Mineiro,Figueirense,4,0,V,D,NORMAL,1F
+1973,1973-12-12,Coritiba,Corinthians,2,1,V,D,NORMAL,1F
+1973,1973-12-12,Santos,Grêmio,4,0,V,D,NORMAL,1F
+1973,1973-12-12,Guarani,São Paulo,0,0,E,E,NORMAL,1F
+1973,1973-12-12,Internacional,Portuguesa,1,0,V,D,NORMAL,1F
+1973,1973-12-12,CRB,Bahia,3,2,V,D,NORMAL,1F
+1973,1973-12-12,Sergipe,Vitória,0,1,D,V,NORMAL,1F
+1973,1973-12-12,Tiradentes-PI,Nacional-AM,1,0,V,D,NORMAL,1F
+1973,1973-12-12,Rio Negro-AM,Fortaleza,0,0,E,E,NORMAL,1F
+1973,1973-12-12,Ceará,América-RN,1,0,V,D,NORMAL,1F
+1973,1973-12-12,CEUB,Santa Cruz,2,2,E,E,NORMAL,1F
+1973,1973-12-12,Sport,Paysandu,0,0,E,E,NORMAL,1F
+1973,1973-12-12,Remo,Desportiva Ferroviária,2,1,V,D,NORMAL,1F
+1973,1973-12-12,Moto Club,Goiás,0,2,D,V,NORMAL,1F
+1973,1973-12-13,Fluminense,Atlético Mineiro,0,1,D,V,NORMAL,1F
+1973,1973-12-13,Cruzeiro,Botafogo,2,1,V,D,NORMAL,1F
+1973,1973-12-13,Athletico Paranaense,Palmeiras,0,2,D,V,NORMAL,1F
+1973,1973-12-13,Náutico,Comercial-MS,1,0,V,D,NORMAL,1F
+1973,1973-12-15,Flamengo,America-RJ,3,2,V,D,NORMAL,1F
+1973,1973-12-15,América Mineiro,Olaria,2,1,V,D,NORMAL,1F
+1973,1973-12-15,Corinthians,Internacional,2,2,E,E,NORMAL,1F
+1973,1973-12-15,Sport,Moto Club,2,1,V,D,NORMAL,1F
+1973,1973-12-15,CEUB,Remo,0,0,E,E,NORMAL,1F
+1973,1973-12-16,Vasco,Botafogo,1,0,V,D,NORMAL,1F
+1973,1973-12-16,Cruzeiro,Fluminense,1,1,E,E,NORMAL,1F
+1973,1973-12-16,Figueirense,Atlético Mineiro,1,3,D,V,NORMAL,1F
+1973,1973-12-16,Guarani,Athletico Paranaense,2,1,V,D,NORMAL,1F
+1973,1973-12-16,Coritiba,Palmeiras,0,1,D,V,NORMAL,1F
+1973,1973-12-16,Grêmio,Portuguesa,1,0,V,D,NORMAL,1F
+1973,1973-12-16,Bahia,Ceará,1,1,E,E,NORMAL,1F
+1973,1973-12-16,Rio Negro-AM,Vitória,0,1,D,V,NORMAL,1F
+1973,1973-12-16,CRB,Nacional-AM,3,1,V,D,NORMAL,1F
+1973,1973-12-16,América-RN,Sergipe,3,0,V,D,NORMAL,1F
+1973,1973-12-16,Fortaleza,Tiradentes-PI,3,0,V,D,NORMAL,1F
+1973,1973-12-16,Santa Cruz,Desportiva Ferroviária,1,0,V,D,NORMAL,1F
+1973,1973-12-16,Goiás,Náutico,2,0,V,D,NORMAL,1F
+1973,1973-12-16,Comercial-MS,Paysandu,4,1,V,D,NORMAL,1F
+1973,1973-12-17,Santos,São Paulo,1,0,V,D,NORMAL,1F
+1973,1974-01-12,Corinthians,Bahia,2,2,E,E,NORMAL,1
+1973,1974-01-12,Cruzeiro,Fortaleza,1,0,V,D,NORMAL,2
+1973,1974-01-13,Palmeiras,Coritiba,0,0,E,E,NORMAL,1
+1973,1974-01-13,Atlético Mineiro,Internacional,0,0,E,E,NORMAL,1
+1973,1974-01-13,Vasco,América Mineiro,1,2,D,V,NORMAL,1
+1973,1974-01-13,Ceará,Tiradentes-PI,0,2,D,V,NORMAL,1
+1973,1974-01-13,Grêmio,Guarani,0,1,D,V,NORMAL,2
+1973,1974-01-13,Vitória,Botafogo,1,2,D,V,NORMAL,2
+1973,1974-01-13,Goiás,São Paulo,2,2,E,E,NORMAL,2
+1973,1974-01-13,Santa Cruz,Santos,1,1,E,E,NORMAL,2
+1973,1974-01-16,Bahia,Palmeiras,0,0,E,E,NORMAL,1
+1973,1974-01-16,América Mineiro,Ceará,4,1,V,D,NORMAL,1
+1973,1974-01-16,Corinthians,Coritiba,1,0,V,D,NORMAL,1
+1973,1974-01-16,Tiradentes-PI,Atlético Mineiro,0,0,E,E,NORMAL,1
+1973,1974-01-16,Guarani,Vitória,1,1,E,E,NORMAL,2
+1973,1974-01-16,Fortaleza,Grêmio,0,1,D,V,NORMAL,2
+1973,1974-01-16,Goiás,Cruzeiro,0,1,D,V,NORMAL,2
+1973,1974-01-16,Botafogo,Santa Cruz,4,1,V,D,NORMAL,2
+1973,1974-01-17,Vasco,Internacional,1,2,D,V,NORMAL,1
+1973,1974-01-17,Santos,São Paulo,1,2,D,V,NORMAL,2
+1973,1974-01-19,Bahia,Ceará,2,1,V,D,NORMAL,1
+1973,1974-01-19,Cruzeiro,Santa Cruz,0,0,E,E,NORMAL,2
+1973,1974-01-20,Internacional,Palmeiras,0,0,E,E,NORMAL,1
+1973,1974-01-20,Coritiba,Vasco,0,0,E,E,NORMAL,1
+1973,1974-01-20,Atlético Mineiro,Corinthians,2,0,V,D,NORMAL,1
+1973,1974-01-20,Tiradentes-PI,América Mineiro,0,2,D,V,NORMAL,1
+1973,1974-01-20,Botafogo,Santos,0,3,D,V,NORMAL,2
+1973,1974-01-20,São Paulo,Grêmio,1,0,V,D,NORMAL,2
+1973,1974-01-20,Guarani,Goiás,1,1,E,E,NORMAL,2
+1973,1974-01-20,Vitória,Fortaleza,2,1,V,D,NORMAL,2
+1973,1974-01-23,Palmeiras,América Mineiro,3,1,V,D,NORMAL,1
+1973,1974-01-23,Bahia,Atlético Mineiro,0,0,E,E,NORMAL,1
+1973,1974-01-23,Coritiba,Ceará,4,2,V,D,NORMAL,1
+1973,1974-01-23,Internacional,Tiradentes-PI,2,1,V,D,NORMAL,1
+1973,1974-01-23,São Paulo,Guarani,3,0,V,D,NORMAL,2
+1973,1974-01-23,Fortaleza,Santos,1,5,D,V,NORMAL,2
+1973,1974-01-23,Grêmio,Goiás,1,0,V,D,NORMAL,2
+1973,1974-01-23,Cruzeiro,Botafogo,1,1,E,E,NORMAL,2
+1973,1974-01-24,Corinthians,Vasco,1,1,E,E,NORMAL,1
+1973,1974-01-24,Vitória,Santa Cruz,2,1,V,D,NORMAL,2
+1973,1974-01-26,América Mineiro,Atlético Mineiro,1,2,D,V,NORMAL,1
+1973,1974-01-26,Palmeiras,Corinthians,0,0,E,E,NORMAL,1
+1973,1974-01-26,Vasco,Tiradentes-PI,2,0,V,D,NORMAL,1
+1973,1974-01-26,Ceará,Internacional,1,1,E,E,NORMAL,1
+1973,1974-01-26,Coritiba,Bahia,1,1,E,E,NORMAL,1
+1973,1974-01-26,Grêmio,Santos,1,0,V,D,NORMAL,2
+1973,1974-01-26,Santa Cruz,São Paulo,0,2,D,V,NORMAL,2
+1973,1974-01-26,Goiás,Botafogo,2,0,V,D,NORMAL,2
+1973,1974-01-26,Cruzeiro,Vitória,6,1,V,D,NORMAL,2
+1973,1974-01-26,Fortaleza,Guarani,1,2,D,V,NORMAL,2
+1973,1974-01-30,Vasco,Atlético Mineiro,1,1,E,E,NORMAL,1
+1973,1974-01-30,Tiradentes-PI,Bahia,0,0,E,E,NORMAL,1
+1973,1974-01-30,América Mineiro,Corinthians,1,0,V,D,NORMAL,1
+1973,1974-01-30,Coritiba,Internacional,1,0,V,D,NORMAL,1
+1973,1974-01-30,Palmeiras,Ceará,3,0,V,D,NORMAL,1
+1973,1974-01-30,Grêmio,Cruzeiro,1,1,E,E,NORMAL,2
+1973,1974-01-30,Santa Cruz,Goiás,1,0,V,D,NORMAL,2
+1973,1974-01-31,São Paulo,Fortaleza,1,0,V,D,NORMAL,2
+1973,1974-01-31,Santos,Vitória,1,0,V,D,NORMAL,2
+1973,1974-01-31,Botafogo,Guarani,2,1,V,D,NORMAL,2
+1973,1974-02-02,Atlético Mineiro,Coritiba,2,1,V,D,NORMAL,1
+1973,1974-02-02,Fortaleza,Santa Cruz,2,3,D,V,NORMAL,2
+1973,1974-02-03,Tiradentes-PI,Palmeiras,0,5,D,V,NORMAL,1
+1973,1974-02-03,Ceará,Corinthians,0,1,D,V,NORMAL,1
+1973,1974-02-03,Bahia,Vasco,1,2,D,V,NORMAL,1
+1973,1974-02-03,Internacional,América Mineiro,1,0,V,D,NORMAL,1
+1973,1974-02-03,Botafogo,Grêmio,3,0,V,D,NORMAL,2
+1973,1974-02-03,Cruzeiro,São Paulo,1,0,V,D,NORMAL,2
+1973,1974-02-03,Santos,Guarani,2,0,V,D,NORMAL,2
+1973,1974-02-03,Goiás,Vitória,1,2,D,V,NORMAL,2
+1973,1974-02-06,América Mineiro,Coritiba,0,1,D,V,NORMAL,1
+1973,1974-02-06,Internacional,Bahia,2,1,V,D,NORMAL,1
+1973,1974-02-06,Ceará,Vasco,0,2,D,V,NORMAL,1
+1973,1974-02-06,Corinthians,Tiradentes-PI,3,0,V,D,NORMAL,1
+1973,1974-02-06,Santos,Goiás,4,4,E,E,NORMAL,2
+1973,1974-02-06,Santa Cruz,Grêmio,0,1,D,V,NORMAL,2
+1973,1974-02-06,Vitória,São Paulo,0,2,D,V,NORMAL,2
+1973,1974-02-06,Botafogo,Fortaleza,6,1,V,D,NORMAL,2
+1973,1974-02-07,Palmeiras,Atlético Mineiro,3,0,V,D,NORMAL,1
+1973,1974-02-07,Guarani,Cruzeiro,1,2,D,V,NORMAL,2
+1973,1974-02-09,São Paulo,Botafogo,0,0,E,E,NORMAL,2
+1973,1974-02-09,Grêmio,Vitória,1,0,V,D,NORMAL,2
+1973,1974-02-10,Vasco,Palmeiras,0,1,D,V,NORMAL,1
+1973,1974-02-10,Internacional,Corinthians,0,0,E,E,NORMAL,1
+1973,1974-02-10,Coritiba,Tiradentes-PI,0,0,E,E,NORMAL,1
+1973,1974-02-10,Atlético Mineiro,Ceará,2,0,V,D,NORMAL,1
+1973,1974-02-10,Bahia,América Mineiro,2,2,E,E,NORMAL,1
+1973,1974-02-10,Santos,Cruzeiro,0,0,E,E,NORMAL,2
+1973,1974-02-10,Santa Cruz,Guarani,2,1,V,D,NORMAL,2
+1973,1974-02-10,Fortaleza,Goiás,0,0,E,E,NORMAL,2
+1973,1974-02-13,São Paulo,Internacional,4,1,V,D,NORMAL,A
+1973,1974-02-13,Cruzeiro,Palmeiras,0,1,D,V,NORMAL,A
+1973,1974-02-17,Palmeiras,Internacional,2,1,V,D,NORMAL,A
+1973,1974-02-17,Cruzeiro,São Paulo,1,0,V,D,NORMAL,A
+1973,1974-02-20,Internacional,Cruzeiro,1,0,V,D,NORMAL,A
+1973,1974-02-20,Palmeiras,São Paulo,0,0,E,E,NORMAL,A

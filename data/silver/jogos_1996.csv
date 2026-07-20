@@ -1,0 +1,291 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1996,1996-08-08,Bahia,Palmeiras,0,0,E,E,NORMAL,1F
+1996,1996-08-08,Fluminense,Red Bull Bragantino,1,0,V,D,NORMAL,1F
+1996,1996-08-08,Goiás,Athletico Paranaense,3,1,V,D,NORMAL,1F
+1996,1996-08-08,Coritiba,Juventude,2,0,V,D,NORMAL,1F
+1996,1996-08-08,Criciúma,Vitória,1,1,E,E,NORMAL,1F
+1996,1996-08-08,São Paulo,Flamengo,4,1,V,D,NORMAL,1F
+1996,1996-08-08,Sport,Paraná,0,1,D,V,NORMAL,1F
+1996,1996-08-11,Atlético Mineiro,Corinthians,1,0,V,D,NORMAL,1F
+1996,1996-08-14,Vasco,Sport,1,2,D,V,NORMAL,1F
+1996,1996-08-14,Palmeiras,Internacional,0,0,E,E,NORMAL,1F
+1996,1996-08-14,Juventude,Bahia,1,0,V,D,NORMAL,1F
+1996,1996-08-14,Vitória,Coritiba,1,0,V,D,NORMAL,1F
+1996,1996-08-14,Paraná,Goiás,0,0,E,E,NORMAL,1F
+1996,1996-08-14,Corinthians,Criciúma,0,0,E,E,NORMAL,1F
+1996,1996-08-14,São Paulo,Portuguesa,2,1,V,D,NORMAL,1F
+1996,1996-08-14,Flamengo,Atlético Mineiro,2,1,V,D,NORMAL,1F
+1996,1996-08-17,Guarani,Santos,1,1,E,E,NORMAL,1F
+1996,1996-08-17,Vitória,Flamengo,0,1,D,V,NORMAL,1F
+1996,1996-08-17,Palmeiras,Coritiba,5,0,V,D,NORMAL,1F
+1996,1996-08-17,Fluminense,Botafogo,1,1,E,E,NORMAL,1F
+1996,1996-08-17,Goiás,Vasco,1,2,D,V,NORMAL,1F
+1996,1996-08-17,Corinthians,Portuguesa,0,2,D,V,NORMAL,1F
+1996,1996-08-17,São Paulo,Bahia,5,2,V,D,NORMAL,1F
+1996,1996-08-17,Athletico Paranaense,Red Bull Bragantino,3,1,V,D,NORMAL,1F
+1996,1996-08-17,Atlético Mineiro,Paraná,3,1,V,D,NORMAL,1F
+1996,1996-08-17,Internacional,Cruzeiro,0,0,E,E,NORMAL,1F
+1996,1996-08-17,Criciúma,Grêmio,1,3,D,V,NORMAL,1F
+1996,1996-08-17,Juventude,Sport,1,1,E,E,NORMAL,1F
+1996,1996-08-20,Flamengo,Juventude,0,1,D,V,NORMAL,1F
+1996,1996-08-20,Portuguesa,Paraná,2,0,V,D,NORMAL,1F
+1996,1996-08-20,Corinthians,Guarani,1,0,V,D,NORMAL,1F
+1996,1996-08-20,Grêmio,Red Bull Bragantino,6,1,V,D,NORMAL,1F
+1996,1996-08-20,Bahia,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1996,1996-08-20,Coritiba,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1996,1996-08-20,Cruzeiro,Vitória,2,1,V,D,NORMAL,1F
+1996,1996-08-20,Goiás,Sport,3,1,V,D,NORMAL,1F
+1996,1996-08-20,Palmeiras,Vasco,3,1,V,D,NORMAL,1F
+1996,1996-08-20,Botafogo,São Paulo,1,1,E,E,NORMAL,1F
+1996,1996-08-20,Internacional,Criciúma,3,1,V,D,NORMAL,1F
+1996,1996-08-22,Santos,Fluminense,1,0,V,D,NORMAL,1F
+1996,1996-08-24,Goiás,Palmeiras,0,0,E,E,NORMAL,1F
+1996,1996-08-24,Red Bull Bragantino,Vasco,1,2,D,V,NORMAL,1F
+1996,1996-08-24,Cruzeiro,Flamengo,2,1,V,D,NORMAL,1F
+1996,1996-08-24,Criciúma,Fluminense,4,1,V,D,NORMAL,1F
+1996,1996-08-24,Bahia,Botafogo,1,2,D,V,NORMAL,1F
+1996,1996-08-24,Athletico Paranaense,Corinthians,0,1,D,V,NORMAL,1F
+1996,1996-08-24,São Paulo,Santos,2,1,V,D,NORMAL,1F
+1996,1996-08-24,Portuguesa,Atlético Mineiro,3,1,V,D,NORMAL,1F
+1996,1996-08-24,Paraná,Guarani,3,0,V,D,NORMAL,1F
+1996,1996-08-24,Sport,Coritiba,3,0,V,D,NORMAL,1F
+1996,1996-08-24,Grêmio,Vitória,2,2,E,E,NORMAL,1F
+1996,1996-08-24,Juventude,Internacional,2,1,V,D,NORMAL,1F
+1996,1996-08-28,Flamengo,Guarani,0,1,D,V,NORMAL,1F
+1996,1996-08-28,Palmeiras,Paraná,4,1,V,D,NORMAL,1F
+1996,1996-08-28,Fluminense,São Paulo,1,1,E,E,NORMAL,1F
+1996,1996-08-28,Vasco,Portuguesa,2,1,V,D,NORMAL,1F
+1996,1996-08-28,Athletico Paranaense,Cruzeiro,0,0,E,E,NORMAL,1F
+1996,1996-08-28,Coritiba,Bahia,4,1,V,D,NORMAL,1F
+1996,1996-08-28,Corinthians,Grêmio,2,2,E,E,NORMAL,1F
+1996,1996-08-28,Atlético Mineiro,Internacional,2,0,V,D,NORMAL,1F
+1996,1996-08-28,Botafogo,Santos,0,2,D,V,NORMAL,1F
+1996,1996-08-28,Red Bull Bragantino,Sport,3,1,V,D,NORMAL,1F
+1996,1996-08-30,Guarani,Fluminense,3,1,V,D,NORMAL,1F
+1996,1996-08-30,Paraná,Corinthians,0,1,D,V,NORMAL,1F
+1996,1996-08-30,São Paulo,Goiás,1,0,V,D,NORMAL,1F
+1996,1996-08-30,Flamengo,Athletico Paranaense,1,0,V,D,NORMAL,1F
+1996,1996-08-30,Sport,Criciúma,1,0,V,D,NORMAL,1F
+1996,1996-08-30,Vasco,Grêmio,1,1,E,E,NORMAL,1F
+1996,1996-08-30,Vitória,Atlético Mineiro,2,1,V,D,NORMAL,1F
+1996,1996-08-30,Botafogo,Palmeiras,0,0,E,E,NORMAL,1F
+1996,1996-08-30,Coritiba,Santos,1,3,D,V,NORMAL,1F
+1996,1996-08-30,Portuguesa,Red Bull Bragantino,2,0,V,D,NORMAL,1F
+1996,1996-08-30,Cruzeiro,Juventude,2,1,V,D,NORMAL,1F
+1996,1996-08-30,Internacional,Bahia,1,1,E,E,NORMAL,1F
+1996,1996-09-04,Atlético Mineiro,Goiás,2,1,V,D,NORMAL,1F
+1996,1996-09-04,Athletico Paranaense,Grêmio,3,1,V,D,NORMAL,1F
+1996,1996-09-04,Bahia,Criciúma,2,1,V,D,NORMAL,1F
+1996,1996-09-04,Botafogo,Coritiba,4,1,V,D,NORMAL,1F
+1996,1996-09-04,Red Bull Bragantino,Flamengo,0,1,D,V,NORMAL,1F
+1996,1996-09-04,Internacional,Sport,3,0,V,D,NORMAL,1F
+1996,1996-09-04,Portuguesa,Vitória,2,2,E,E,NORMAL,1F
+1996,1996-09-04,São Paulo,Guarani,0,1,D,V,NORMAL,1F
+1996,1996-09-04,Paraná,Vasco,1,2,D,V,NORMAL,1F
+1996,1996-09-04,Corinthians,Cruzeiro,2,1,V,D,NORMAL,1F
+1996,1996-09-04,Fluminense,Palmeiras,1,5,D,V,NORMAL,1F
+1996,1996-09-04,Santos,Juventude,1,1,E,E,NORMAL,1F
+1996,1996-09-07,Sport,Botafogo,3,0,V,D,NORMAL,1F
+1996,1996-09-07,Coritiba,São Paulo,1,1,E,E,NORMAL,1F
+1996,1996-09-07,Juventude,Guarani,0,1,D,V,NORMAL,1F
+1996,1996-09-07,Flamengo,Corinthians,1,1,E,E,NORMAL,1F
+1996,1996-09-07,Athletico Paranaense,Vasco,2,1,V,D,NORMAL,1F
+1996,1996-09-07,Fluminense,Internacional,2,1,V,D,NORMAL,1F
+1996,1996-09-07,Vitória,Paraná,4,0,V,D,NORMAL,1F
+1996,1996-09-07,Criciúma,Red Bull Bragantino,0,0,E,E,NORMAL,1F
+1996,1996-09-07,Goiás,Bahia,0,0,E,E,NORMAL,1F
+1996,1996-09-07,Cruzeiro,Portuguesa,4,1,V,D,NORMAL,1F
+1996,1996-09-07,Grêmio,Atlético Mineiro,5,0,V,D,NORMAL,1F
+1996,1996-09-08,Santos,Palmeiras,1,2,D,V,NORMAL,1F
+1996,1996-09-10,Cruzeiro,Fluminense,2,0,V,D,NORMAL,1F
+1996,1996-09-14,Sport,Fluminense,6,0,V,D,NORMAL,1F
+1996,1996-09-14,Red Bull Bragantino,Corinthians,2,3,D,V,NORMAL,1F
+1996,1996-09-14,Bahia,Cruzeiro,1,2,D,V,NORMAL,1F
+1996,1996-09-14,Internacional,São Paulo,1,0,V,D,NORMAL,1F
+1996,1996-09-14,Portuguesa,Athletico Paranaense,2,0,V,D,NORMAL,1F
+1996,1996-09-14,Guarani,Coritiba,2,0,V,D,NORMAL,1F
+1996,1996-09-14,Paraná,Grêmio,0,0,E,E,NORMAL,1F
+1996,1996-09-14,Atlético Mineiro,Criciúma,3,0,V,D,NORMAL,1F
+1996,1996-09-14,Palmeiras,Juventude,4,2,V,D,NORMAL,1F
+1996,1996-09-14,Goiás,Santos,2,0,V,D,NORMAL,1F
+1996,1996-09-14,Vasco,Vitória,4,1,V,D,NORMAL,1F
+1996,1996-09-14,Botafogo,Flamengo,0,2,D,V,NORMAL,1F
+1996,1996-09-17,Red Bull Bragantino,Guarani,0,0,E,E,NORMAL,1F
+1996,1996-09-18,Santos,Portuguesa,2,0,V,D,NORMAL,1F
+1996,1996-09-21,São Paulo,Vasco,1,1,E,E,NORMAL,1F
+1996,1996-09-21,Flamengo,Portuguesa,0,0,E,E,NORMAL,1F
+1996,1996-09-21,Fluminense,Goiás,1,0,V,D,NORMAL,1F
+1996,1996-09-21,Corinthians,Botafogo,0,1,D,V,NORMAL,1F
+1996,1996-09-21,Red Bull Bragantino,Vitória,0,1,D,V,NORMAL,1F
+1996,1996-09-21,Guarani,Criciúma,3,2,V,D,NORMAL,1F
+1996,1996-09-21,Juventude,Paraná,2,0,V,D,NORMAL,1F
+1996,1996-09-21,Athletico Paranaense,Coritiba,1,0,V,D,NORMAL,1F
+1996,1996-09-21,Internacional,Grêmio,1,2,D,V,NORMAL,1F
+1996,1996-09-21,Bahia,Sport,0,0,E,E,NORMAL,1F
+1996,1996-09-21,Cruzeiro,Palmeiras,0,0,E,E,NORMAL,1F
+1996,1996-09-21,Santos,Atlético Mineiro,0,1,D,V,NORMAL,1F
+1996,1996-09-24,Botafogo,Grêmio,1,0,V,D,NORMAL,1F
+1996,1996-09-25,Guarani,Cruzeiro,1,0,V,D,NORMAL,1F
+1996,1996-09-25,Vitória,Goiás,2,1,V,D,NORMAL,1F
+1996,1996-09-28,Atlético Mineiro,Bahia,4,1,V,D,NORMAL,1F
+1996,1996-09-28,Botafogo,Red Bull Bragantino,5,0,V,D,NORMAL,1F
+1996,1996-09-28,Coritiba,Fluminense,3,1,V,D,NORMAL,1F
+1996,1996-09-28,Criciúma,Cruzeiro,1,2,D,V,NORMAL,1F
+1996,1996-09-28,Goiás,Flamengo,1,3,D,V,NORMAL,1F
+1996,1996-09-28,Grêmio,Portuguesa,1,0,V,D,NORMAL,1F
+1996,1996-09-28,Palmeiras,São Paulo,2,1,V,D,NORMAL,1F
+1996,1996-09-28,Paraná,Athletico Paranaense,1,4,D,V,NORMAL,1F
+1996,1996-09-28,Sport,Guarani,1,0,V,D,NORMAL,1F
+1996,1996-09-28,Vasco,Corinthians,0,0,E,E,NORMAL,1F
+1996,1996-09-28,Vitória,Juventude,0,5,D,V,NORMAL,1F
+1996,1996-09-29,Santos,Internacional,1,2,D,V,NORMAL,1F
+1996,1996-10-01,Athletico Paranaense,Botafogo,1,0,V,D,NORMAL,1F
+1996,1996-10-02,Internacional,Vasco,4,1,V,D,NORMAL,1F
+1996,1996-10-05,Athletico Paranaense,Vitória,3,0,V,D,NORMAL,1F
+1996,1996-10-05,Bahia,Santos,1,1,E,E,NORMAL,1F
+1996,1996-10-05,Red Bull Bragantino,Paraná,1,0,V,D,NORMAL,1F
+1996,1996-10-05,Criciúma,Coritiba,0,0,E,E,NORMAL,1F
+1996,1996-10-05,Cruzeiro,Grêmio,2,1,V,D,NORMAL,1F
+1996,1996-10-05,Fluminense,Atlético Mineiro,2,2,E,E,NORMAL,1F
+1996,1996-10-05,Guarani,Goiás,3,1,V,D,NORMAL,1F
+1996,1996-10-05,Internacional,Botafogo,1,1,E,E,NORMAL,1F
+1996,1996-10-05,Portuguesa,Juventude,1,3,D,V,NORMAL,1F
+1996,1996-10-05,Sport,São Paulo,2,1,V,D,NORMAL,1F
+1996,1996-10-05,Vasco,Flamengo,4,1,V,D,NORMAL,1F
+1996,1996-10-05,Palmeiras,Corinthians,2,2,E,E,NORMAL,1F
+1996,1996-10-09,Grêmio,Flamengo,3,1,V,D,NORMAL,1F
+1996,1996-10-09,Juventude,Vasco,2,1,V,D,NORMAL,1F
+1996,1996-10-09,Palmeiras,Red Bull Bragantino,2,1,V,D,NORMAL,1F
+1996,1996-10-09,São Paulo,Athletico Paranaense,3,3,E,E,NORMAL,1F
+1996,1996-10-09,Goiás,Portuguesa,2,0,V,D,NORMAL,1F
+1996,1996-10-09,Paraná,Cruzeiro,2,0,V,D,NORMAL,1F
+1996,1996-10-09,Fluminense,Bahia,1,1,E,E,NORMAL,1F
+1996,1996-10-09,Botafogo,Criciúma,1,0,V,D,NORMAL,1F
+1996,1996-10-09,Atlético Mineiro,Guarani,1,0,V,D,NORMAL,1F
+1996,1996-10-09,Coritiba,Internacional,0,1,D,V,NORMAL,1F
+1996,1996-10-09,Vitória,Corinthians,2,0,V,D,NORMAL,1F
+1996,1996-10-09,Santos,Sport,1,2,D,V,NORMAL,1F
+1996,1996-10-12,Atlético Mineiro,São Paulo,2,1,V,D,NORMAL,1F
+1996,1996-10-12,Athletico Paranaense,Palmeiras,2,0,V,D,NORMAL,1F
+1996,1996-10-12,Red Bull Bragantino,Coritiba,3,1,V,D,NORMAL,1F
+1996,1996-10-12,Criciúma,Santos,1,1,E,E,NORMAL,1F
+1996,1996-10-12,Flamengo,Paraná,1,4,D,V,NORMAL,1F
+1996,1996-10-12,Goiás,Internacional,6,3,V,D,NORMAL,1F
+1996,1996-10-12,Grêmio,Juventude,1,0,V,D,NORMAL,1F
+1996,1996-10-12,Guarani,Botafogo,2,0,V,D,NORMAL,1F
+1996,1996-10-12,Portuguesa,Sport,0,0,E,E,NORMAL,1F
+1996,1996-10-12,Vasco,Cruzeiro,0,1,D,V,NORMAL,1F
+1996,1996-10-12,Vitória,Bahia,1,1,E,E,NORMAL,1F
+1996,1996-10-13,Corinthians,Fluminense,3,1,V,D,NORMAL,1F
+1996,1996-10-15,Juventude,Criciúma,2,3,D,V,NORMAL,1F
+1996,1996-10-19,Santos,Flamengo,1,2,D,V,NORMAL,1F
+1996,1996-10-19,Fluminense,Vasco,3,2,V,D,NORMAL,1F
+1996,1996-10-19,Botafogo,Goiás,2,3,D,V,NORMAL,1F
+1996,1996-10-19,Palmeiras,Vitória,4,2,V,D,NORMAL,1F
+1996,1996-10-19,Criciúma,Portuguesa,2,3,D,V,NORMAL,1F
+1996,1996-10-19,Internacional,Guarani,0,0,E,E,NORMAL,1F
+1996,1996-10-19,Coritiba,Paraná,1,0,V,D,NORMAL,1F
+1996,1996-10-19,Juventude,Athletico Paranaense,0,2,D,V,NORMAL,1F
+1996,1996-10-19,Sport,Atlético Mineiro,0,0,E,E,NORMAL,1F
+1996,1996-10-19,Bahia,Grêmio,1,2,D,V,NORMAL,1F
+1996,1996-10-19,São Paulo,Corinthians,0,0,E,E,NORMAL,1F
+1996,1996-10-19,Cruzeiro,Red Bull Bragantino,4,0,V,D,NORMAL,1F
+1996,1996-10-26,Vitória,São Paulo,2,0,V,D,NORMAL,1F
+1996,1996-10-26,Portuguesa,Fluminense,2,0,V,D,NORMAL,1F
+1996,1996-10-26,Vasco,Coritiba,2,3,D,V,NORMAL,1F
+1996,1996-10-26,Corinthians,Santos,0,0,E,E,NORMAL,1F
+1996,1996-10-26,Red Bull Bragantino,Juventude,3,1,V,D,NORMAL,1F
+1996,1996-10-26,Guarani,Bahia,1,0,V,D,NORMAL,1F
+1996,1996-10-26,Paraná,Criciúma,2,0,V,D,NORMAL,1F
+1996,1996-10-26,Athletico Paranaense,Sport,6,2,V,D,NORMAL,1F
+1996,1996-10-26,Atlético Mineiro,Botafogo,4,3,V,D,NORMAL,1F
+1996,1996-10-26,Goiás,Cruzeiro,1,0,V,D,NORMAL,1F
+1996,1996-10-26,Flamengo,Internacional,1,2,D,V,NORMAL,1F
+1996,1996-10-26,Grêmio,Palmeiras,1,1,E,E,NORMAL,1F
+1996,1996-11-02,Juventude,Corinthians,0,2,D,V,NORMAL,1F
+1996,1996-11-02,São Paulo,Criciúma,5,3,V,D,NORMAL,1F
+1996,1996-11-02,Palmeiras,Flamengo,1,0,V,D,NORMAL,1F
+1996,1996-11-02,Fluminense,Paraná,0,2,D,V,NORMAL,1F
+1996,1996-11-02,Sport,Vitória,3,2,V,D,NORMAL,1F
+1996,1996-11-02,Internacional,Athletico Paranaense,0,2,D,V,NORMAL,1F
+1996,1996-11-02,Bahia,Portuguesa,1,3,D,V,NORMAL,1F
+1996,1996-11-02,Guarani,Grêmio,0,2,D,V,NORMAL,1F
+1996,1996-11-02,Botafogo,Vasco,1,2,D,V,NORMAL,1F
+1996,1996-11-02,Cruzeiro,Atlético Mineiro,2,1,V,D,NORMAL,1F
+1996,1996-11-02,Coritiba,Goiás,0,1,D,V,NORMAL,1F
+1996,1996-11-03,Santos,Red Bull Bragantino,2,2,E,E,NORMAL,1F
+1996,1996-11-06,Vitória,Internacional,2,1,V,D,NORMAL,1F
+1996,1996-11-06,Flamengo,Sport,2,1,V,D,NORMAL,1F
+1996,1996-11-06,Grêmio,Fluminense,4,2,V,D,NORMAL,1F
+1996,1996-11-06,Paraná,Botafogo,1,1,E,E,NORMAL,1F
+1996,1996-11-06,Portuguesa,Palmeiras,1,0,V,D,NORMAL,1F
+1996,1996-11-06,Juventude,São Paulo,2,2,E,E,NORMAL,1F
+1996,1996-11-06,Red Bull Bragantino,Atlético Mineiro,2,2,E,E,NORMAL,1F
+1996,1996-11-06,Criciúma,Goiás,3,0,V,D,NORMAL,1F
+1996,1996-11-06,Athletico Paranaense,Guarani,0,0,E,E,NORMAL,1F
+1996,1996-11-06,Vasco,Santos,1,2,D,V,NORMAL,1F
+1996,1996-11-06,Cruzeiro,Coritiba,0,0,E,E,NORMAL,1F
+1996,1996-11-06,Corinthians,Bahia,0,0,E,E,NORMAL,1F
+1996,1996-11-09,Coritiba,Flamengo,0,0,E,E,NORMAL,1F
+1996,1996-11-09,Criciúma,Palmeiras,2,1,V,D,NORMAL,1F
+1996,1996-11-09,São Paulo,Grêmio,2,1,V,D,NORMAL,1F
+1996,1996-11-09,Botafogo,Cruzeiro,0,0,E,E,NORMAL,1F
+1996,1996-11-09,Atlético Mineiro,Vasco,5,1,V,D,NORMAL,1F
+1996,1996-11-09,Sport,Corinthians,0,0,E,E,NORMAL,1F
+1996,1996-11-09,Fluminense,Athletico Paranaense,2,3,D,V,NORMAL,1F
+1996,1996-11-09,Guarani,Portuguesa,0,1,D,V,NORMAL,1F
+1996,1996-11-09,Bahia,Red Bull Bragantino,4,2,V,D,NORMAL,1F
+1996,1996-11-09,Internacional,Paraná,2,1,V,D,NORMAL,1F
+1996,1996-11-09,Goiás,Juventude,4,1,V,D,NORMAL,1F
+1996,1996-11-10,Santos,Vitória,1,0,V,D,NORMAL,1F
+1996,1996-11-12,Grêmio,Santos,3,0,V,D,NORMAL,1F
+1996,1996-11-16,Juventude,Botafogo,3,5,D,V,NORMAL,1F
+1996,1996-11-16,Red Bull Bragantino,São Paulo,3,4,D,V,NORMAL,1F
+1996,1996-11-16,Corinthians,Goiás,1,1,E,E,NORMAL,1F
+1996,1996-11-16,Flamengo,Fluminense,3,1,V,D,NORMAL,1F
+1996,1996-11-16,Vasco,Criciúma,4,2,V,D,NORMAL,1F
+1996,1996-11-16,Palmeiras,Atlético Mineiro,2,0,V,D,NORMAL,1F
+1996,1996-11-16,Portuguesa,Internacional,1,2,D,V,NORMAL,1F
+1996,1996-11-16,Vitória,Guarani,0,1,D,V,NORMAL,1F
+1996,1996-11-16,Paraná,Bahia,2,1,V,D,NORMAL,1F
+1996,1996-11-16,Grêmio,Coritiba,0,2,D,V,NORMAL,1F
+1996,1996-11-16,Cruzeiro,Sport,3,1,V,D,NORMAL,1F
+1996,1996-11-17,Santos,Athletico Paranaense,3,2,V,D,NORMAL,1F
+1996,1996-11-20,Criciúma,Flamengo,2,0,V,D,NORMAL,1F
+1996,1996-11-20,Fluminense,Juventude,1,0,V,D,NORMAL,1F
+1996,1996-11-20,Botafogo,Vitória,3,3,E,E,NORMAL,1F
+1996,1996-11-20,Bahia,Vasco,3,2,V,D,NORMAL,1F
+1996,1996-11-20,Guarani,Palmeiras,1,0,V,D,NORMAL,1F
+1996,1996-11-20,Internacional,Corinthians,2,0,V,D,NORMAL,1F
+1996,1996-11-20,São Paulo,Cruzeiro,1,0,V,D,NORMAL,1F
+1996,1996-11-20,Coritiba,Portuguesa,4,0,V,D,NORMAL,1F
+1996,1996-11-20,Santos,Paraná,0,3,D,V,NORMAL,1F
+1996,1996-11-20,Goiás,Red Bull Bragantino,3,0,V,D,NORMAL,1F
+1996,1996-11-20,Atlético Mineiro,Athletico Paranaense,3,2,V,D,NORMAL,1F
+1996,1996-11-20,Sport,Grêmio,1,0,V,D,NORMAL,1F
+1996,1996-11-24,Flamengo,Bahia,0,1,D,V,NORMAL,1F
+1996,1996-11-24,Vitória,Fluminense,1,3,D,V,NORMAL,1F
+1996,1996-11-24,Portuguesa,Botafogo,4,1,V,D,NORMAL,1F
+1996,1996-11-24,Vasco,Guarani,0,2,D,V,NORMAL,1F
+1996,1996-11-24,Palmeiras,Sport,4,1,V,D,NORMAL,1F
+1996,1996-11-24,Corinthians,Coritiba,1,1,E,E,NORMAL,1F
+1996,1996-11-24,Paraná,São Paulo,1,1,E,E,NORMAL,1F
+1996,1996-11-24,Cruzeiro,Santos,2,1,V,D,NORMAL,1F
+1996,1996-11-24,Red Bull Bragantino,Internacional,1,0,V,D,NORMAL,1F
+1996,1996-11-24,Athletico Paranaense,Criciúma,1,2,D,V,NORMAL,1F
+1996,1996-11-24,Juventude,Atlético Mineiro,1,0,V,D,NORMAL,1F
+1996,1996-11-24,Grêmio,Goiás,1,3,D,V,NORMAL,1F
+1996,1996-11-27,Portuguesa,Cruzeiro,3,0,V,D,NORMAL,QF
+1996,1996-11-27,Goiás,Guarani,3,1,V,D,NORMAL,QF
+1996,1996-11-28,Grêmio,Palmeiras,3,1,V,D,NORMAL,QF
+1996,1996-11-28,Atlético Mineiro,Athletico Paranaense,3,1,V,D,NORMAL,QF
+1996,1996-11-30,Cruzeiro,Portuguesa,1,0,V,D,NORMAL,QF
+1996,1996-11-30,Guarani,Goiás,1,0,V,D,NORMAL,QF
+1996,1996-12-01,Palmeiras,Grêmio,1,0,V,D,NORMAL,QF
+1996,1996-12-01,Athletico Paranaense,Atlético Mineiro,1,0,V,D,NORMAL,QF
+1996,1996-12-05,Portuguesa,Atlético Mineiro,1,0,V,D,NORMAL,SF
+1996,1996-12-05,Goiás,Grêmio,1,3,D,V,NORMAL,SF
+1996,1996-12-08,Atlético Mineiro,Portuguesa,2,2,E,E,NORMAL,SF
+1996,1996-12-08,Grêmio,Goiás,2,2,E,E,NORMAL,SF
+1996,1996-12-11,Portuguesa,Grêmio,2,0,V,D,NORMAL,F
+1996,1996-12-15,Grêmio,Portuguesa,2,0,V,D,NORMAL,F

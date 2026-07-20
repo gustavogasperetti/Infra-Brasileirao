@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2017,2017-05-13,Flamengo,Atlético Mineiro,1,1,E,E,NORMAL,R1
+2017,2017-05-13,Corinthians,Chapecoense,1,1,E,E,NORMAL,R1
+2017,2017-05-14,Fluminense,Santos,3,2,V,D,NORMAL,R1
+2017,2017-05-14,Palmeiras,Vasco,4,0,V,D,NORMAL,R1
+2017,2017-05-14,Cruzeiro,São Paulo,1,0,V,D,NORMAL,R1
+2017,2017-05-14,Bahia,Athletico Paranaense,6,2,V,D,NORMAL,R1
+2017,2017-05-14,Ponte Preta,Sport,4,0,V,D,NORMAL,R1
+2017,2017-05-14,Avaí,Vitória,0,0,E,E,NORMAL,R1
+2017,2017-05-14,Grêmio,Botafogo,2,0,V,D,NORMAL,R1
+2017,2017-05-15,Coritiba,Atlético Goianiense,4,1,V,D,NORMAL,R1
+2017,2017-05-20,Santos,Coritiba,1,0,V,D,NORMAL,R2
+2017,2017-05-20,Atlético Goianiense,Flamengo,0,3,D,V,NORMAL,R2
+2017,2017-05-20,Chapecoense,Palmeiras,1,0,V,D,NORMAL,R2
+2017,2017-05-21,Vasco,Bahia,2,1,V,D,NORMAL,R2
+2017,2017-05-21,Atlético Mineiro,Fluminense,1,2,D,V,NORMAL,R2
+2017,2017-05-21,Athletico Paranaense,Grêmio,0,2,D,V,NORMAL,R2
+2017,2017-05-21,Vitória,Corinthians,0,1,D,V,NORMAL,R2
+2017,2017-05-21,Botafogo,Ponte Preta,2,0,V,D,NORMAL,R2
+2017,2017-05-21,Sport,Cruzeiro,1,1,E,E,NORMAL,R2
+2017,2017-05-22,São Paulo,Avaí,2,0,V,D,NORMAL,R2
+2017,2017-05-27,Vasco,Fluminense,3,2,V,D,NORMAL,R3
+2017,2017-05-27,São Paulo,Palmeiras,2,0,V,D,NORMAL,R3
+2017,2017-05-27,Vitória,Coritiba,0,1,D,V,NORMAL,R3
+2017,2017-05-28,Atlético Mineiro,Ponte Preta,2,2,E,E,NORMAL,R3
+2017,2017-05-28,Santos,Cruzeiro,0,1,D,V,NORMAL,R3
+2017,2017-05-28,Athletico Paranaense,Flamengo,1,1,E,E,NORMAL,R3
+2017,2017-05-28,Atlético Goianiense,Corinthians,0,1,D,V,NORMAL,R3
+2017,2017-05-28,Sport,Grêmio,4,3,V,D,NORMAL,R3
+2017,2017-05-28,Botafogo,Bahia,1,0,V,D,NORMAL,R3
+2017,2017-05-29,Chapecoense,Avaí,2,0,V,D,NORMAL,R3
+2017,2017-06-03,Coritiba,Athletico Paranaense,1,0,V,D,NORMAL,R4
+2017,2017-06-03,Fluminense,Vitória,2,1,V,D,NORMAL,R4
+2017,2017-06-03,Corinthians,Santos,2,0,V,D,NORMAL,R4
+2017,2017-06-04,Flamengo,Botafogo,0,0,E,E,NORMAL,R4
+2017,2017-06-04,Avaí,Sport,1,0,V,D,NORMAL,R4
+2017,2017-06-04,Palmeiras,Atlético Mineiro,0,0,E,E,NORMAL,R4
+2017,2017-06-04,Grêmio,Vasco,2,0,V,D,NORMAL,R4
+2017,2017-06-04,Ponte Preta,São Paulo,1,0,V,D,NORMAL,R4
+2017,2017-06-04,Cruzeiro,Chapecoense,0,2,D,V,NORMAL,R4
+2017,2017-06-05,Bahia,Atlético Goianiense,3,0,V,D,NORMAL,R4
+2017,2017-06-06,Fluminense,Athletico Paranaense,1,1,E,E,NORMAL,R5
+2017,2017-06-07,Atlético Mineiro,Avaí,1,0,V,D,NORMAL,R5
+2017,2017-06-07,Coritiba,Palmeiras,1,0,V,D,NORMAL,R5
+2017,2017-06-07,Santos,Botafogo,1,0,V,D,NORMAL,R5
+2017,2017-06-07,Vasco,Corinthians,2,5,D,V,NORMAL,R5
+2017,2017-06-07,Sport,Flamengo,2,0,V,D,NORMAL,R5
+2017,2017-06-08,São Paulo,Vitória,2,0,V,D,NORMAL,R5
+2017,2017-06-08,Atlético Goianiense,Ponte Preta,3,0,V,D,NORMAL,R5
+2017,2017-06-08,Chapecoense,Grêmio,3,6,D,V,NORMAL,R5
+2017,2017-06-08,Bahia,Cruzeiro,1,0,V,D,NORMAL,R5
+2017,2017-06-10,Palmeiras,Fluminense,3,1,V,D,NORMAL,R6
+2017,2017-06-10,Vasco,Sport,2,1,V,D,NORMAL,R6
+2017,2017-06-11,Botafogo,Coritiba,2,2,E,E,NORMAL,R6
+2017,2017-06-11,Corinthians,São Paulo,3,2,V,D,NORMAL,R6
+2017,2017-06-11,Vitória,Atlético Mineiro,2,0,V,D,NORMAL,R6
+2017,2017-06-11,Ponte Preta,Chapecoense,3,2,V,D,NORMAL,R6
+2017,2017-06-11,Avaí,Flamengo,1,1,E,E,NORMAL,R6
+2017,2017-06-11,Cruzeiro,Atlético Goianiense,2,0,V,D,NORMAL,R6
+2017,2017-06-11,Athletico Paranaense,Santos,0,2,D,V,NORMAL,R6
+2017,2017-06-12,Grêmio,Bahia,1,0,V,D,NORMAL,R6
+2017,2017-06-14,Atlético Mineiro,Athletico Paranaense,0,1,D,V,NORMAL,R7
+2017,2017-06-14,Sport,São Paulo,0,0,E,E,NORMAL,R7
+2017,2017-06-14,Vitória,Botafogo,2,2,E,E,NORMAL,R7
+2017,2017-06-14,Atlético Goianiense,Avaí,3,1,V,D,NORMAL,R7
+2017,2017-06-14,Flamengo,Ponte Preta,2,0,V,D,NORMAL,R7
+2017,2017-06-14,Santos,Palmeiras,1,0,V,D,NORMAL,R7
+2017,2017-06-14,Corinthians,Cruzeiro,1,0,V,D,NORMAL,R7
+2017,2017-06-14,Chapecoense,Vasco,2,1,V,D,NORMAL,R7
+2017,2017-06-15,Coritiba,Bahia,0,0,E,E,NORMAL,R7
+2017,2017-06-15,Fluminense,Grêmio,0,2,D,V,NORMAL,R7
+2017,2017-06-17,Atlético Goianiense,Athletico Paranaense,0,1,D,V,NORMAL,R8
+2017,2017-06-17,Vasco,Avaí,1,0,V,D,NORMAL,R8
+2017,2017-06-17,Santos,Ponte Preta,0,0,E,E,NORMAL,R8
+2017,2017-06-18,Coritiba,Corinthians,0,0,E,E,NORMAL,R8
+2017,2017-06-18,Fluminense,Flamengo,2,2,E,E,NORMAL,R8
+2017,2017-06-18,São Paulo,Atlético Mineiro,1,2,D,V,NORMAL,R8
+2017,2017-06-18,Bahia,Palmeiras,2,4,D,V,NORMAL,R8
+2017,2017-06-18,Chapecoense,Botafogo,0,2,D,V,NORMAL,R8
+2017,2017-06-18,Sport,Vitória,1,3,D,V,NORMAL,R8
+2017,2017-06-19,Cruzeiro,Grêmio,3,3,E,E,NORMAL,R8
+2017,2017-06-21,Vitória,Santos,0,2,D,V,NORMAL,R9
+2017,2017-06-21,Botafogo,Vasco,3,1,V,D,NORMAL,R9
+2017,2017-06-21,Palmeiras,Atlético Goianiense,1,0,V,D,NORMAL,R9
+2017,2017-06-21,Atlético Mineiro,Sport,2,2,E,E,NORMAL,R9
+2017,2017-06-21,Athletico Paranaense,São Paulo,1,0,V,D,NORMAL,R9
+2017,2017-06-21,Avaí,Fluminense,0,3,D,V,NORMAL,R9
+2017,2017-06-22,Corinthians,Bahia,3,0,V,D,NORMAL,R9
+2017,2017-06-22,Ponte Preta,Cruzeiro,1,0,V,D,NORMAL,R9
+2017,2017-06-22,Flamengo,Chapecoense,5,1,V,D,NORMAL,R9
+2017,2017-06-22,Grêmio,Coritiba,2,0,V,D,NORMAL,R9
+2017,2017-06-24,Santos,Sport,0,1,D,V,NORMAL,R10
+2017,2017-06-25,Vasco,Atlético Goianiense,1,0,V,D,NORMAL,R10
+2017,2017-06-25,São Paulo,Fluminense,1,1,E,E,NORMAL,R10
+2017,2017-06-25,Cruzeiro,Coritiba,2,0,V,D,NORMAL,R10
+2017,2017-06-25,Athletico Paranaense,Vitória,4,1,V,D,NORMAL,R10
+2017,2017-06-25,Grêmio,Corinthians,0,1,D,V,NORMAL,R10
+2017,2017-06-25,Ponte Preta,Palmeiras,1,2,D,V,NORMAL,R10
+2017,2017-06-25,Bahia,Flamengo,0,1,D,V,NORMAL,R10
+2017,2017-06-25,Chapecoense,Atlético Mineiro,0,1,D,V,NORMAL,R10
+2017,2017-06-26,Botafogo,Avaí,0,2,D,V,NORMAL,R10
+2017,2017-07-01,Palmeiras,Grêmio,1,0,V,D,NORMAL,R11
+2017,2017-07-01,Atlético Goianiense,Santos,1,1,E,E,NORMAL,R11
+2017,2017-07-02,Flamengo,São Paulo,2,0,V,D,NORMAL,R11
+2017,2017-07-02,Corinthians,Botafogo,1,0,V,D,NORMAL,R11
+2017,2017-07-02,Atlético Mineiro,Cruzeiro,3,1,V,D,NORMAL,R11
+2017,2017-07-02,Sport,Athletico Paranaense,1,0,V,D,NORMAL,R11
+2017,2017-07-02,Vitória,Bahia,0,0,E,E,NORMAL,R11
+2017,2017-07-02,Coritiba,Vasco,2,2,E,E,NORMAL,R11
+2017,2017-07-02,Avaí,Ponte Preta,0,0,E,E,NORMAL,R11
+2017,2017-07-03,Fluminense,Chapecoense,3,3,E,E,NORMAL,R11
+2017,2017-07-08,Atlético Goianiense,Vitória,1,2,D,V,NORMAL,R12
+2017,2017-07-08,Vasco,Flamengo,0,1,D,V,NORMAL,R12
+2017,2017-07-08,Corinthians,Ponte Preta,2,0,V,D,NORMAL,R12
+2017,2017-07-09,Chapecoense,Athletico Paranaense,1,1,E,E,NORMAL,R12
+2017,2017-07-09,Cruzeiro,Palmeiras,3,1,V,D,NORMAL,R12
+2017,2017-07-09,Grêmio,Avaí,0,2,D,V,NORMAL,R12
+2017,2017-07-09,Bahia,Fluminense,1,1,E,E,NORMAL,R12
+2017,2017-07-09,Botafogo,Atlético Mineiro,1,1,E,E,NORMAL,R12
+2017,2017-07-09,Santos,São Paulo,3,2,V,D,NORMAL,R12
+2017,2017-07-10,Coritiba,Sport,0,3,D,V,NORMAL,R12
+2017,2017-07-12,Atlético Mineiro,Santos,0,1,D,V,NORMAL,R13
+2017,2017-07-12,Ponte Preta,Bahia,0,3,D,V,NORMAL,R13
+2017,2017-07-12,Fluminense,Botafogo,0,1,D,V,NORMAL,R13
+2017,2017-07-12,Palmeiras,Corinthians,0,2,D,V,NORMAL,R13
+2017,2017-07-12,Athletico Paranaense,Cruzeiro,0,2,D,V,NORMAL,R13
+2017,2017-07-12,Vitória,Vasco,1,4,D,V,NORMAL,R13
+2017,2017-07-13,Flamengo,Grêmio,0,1,D,V,NORMAL,R13
+2017,2017-07-13,São Paulo,Atlético Goianiense,2,2,E,E,NORMAL,R13
+2017,2017-07-13,Sport,Chapecoense,3,0,V,D,NORMAL,R13
+2017,2017-07-13,Avaí,Coritiba,1,4,D,V,NORMAL,R13
+2017,2017-07-15,Corinthians,Athletico Paranaense,2,2,E,E,NORMAL,R14
+2017,2017-07-16,Palmeiras,Vitória,4,2,V,D,NORMAL,R14
+2017,2017-07-16,Vasco,Santos,0,0,E,E,NORMAL,R14
+2017,2017-07-16,Cruzeiro,Flamengo,1,1,E,E,NORMAL,R14
+2017,2017-07-16,Grêmio,Ponte Preta,3,1,V,D,NORMAL,R14
+2017,2017-07-16,Atlético Goianiense,Atlético Mineiro,1,2,D,V,NORMAL,R14
+2017,2017-07-16,Chapecoense,São Paulo,2,0,V,D,NORMAL,R14
+2017,2017-07-16,Coritiba,Fluminense,1,2,D,V,NORMAL,R14
+2017,2017-07-16,Bahia,Avaí,1,1,E,E,NORMAL,R14
+2017,2017-07-17,Botafogo,Sport,2,1,V,D,NORMAL,R14
+2017,2017-07-19,Santos,Chapecoense,1,0,V,D,NORMAL,R15
+2017,2017-07-19,Vitória,Grêmio,1,3,D,V,NORMAL,R15
+2017,2017-07-19,Ponte Preta,Coritiba,4,0,V,D,NORMAL,R15
+2017,2017-07-19,Avaí,Corinthians,0,0,E,E,NORMAL,R15
+2017,2017-07-19,Flamengo,Palmeiras,2,2,E,E,NORMAL,R15
+2017,2017-07-19,São Paulo,Vasco,1,0,V,D,NORMAL,R15
+2017,2017-07-19,Atlético Mineiro,Bahia,0,2,D,V,NORMAL,R15
+2017,2017-07-20,Fluminense,Cruzeiro,1,1,E,E,NORMAL,R15
+2017,2017-07-20,Sport,Atlético Goianiense,4,0,V,D,NORMAL,R15
+2017,2017-07-20,Athletico Paranaense,Botafogo,0,0,E,E,NORMAL,R15
+2017,2017-07-22,Vitória,Chapecoense,1,2,D,V,NORMAL,R16
+2017,2017-07-22,Flamengo,Coritiba,2,1,V,D,NORMAL,R16
+2017,2017-07-23,Santos,Bahia,3,0,V,D,NORMAL,R16
+2017,2017-07-23,Fluminense,Corinthians,0,1,D,V,NORMAL,R16
+2017,2017-07-23,Sport,Palmeiras,0,2,D,V,NORMAL,R16
+2017,2017-07-23,Avaí,Cruzeiro,1,0,V,D,NORMAL,R16
+2017,2017-07-23,Atlético Mineiro,Vasco,1,2,D,V,NORMAL,R16
+2017,2017-07-23,Athletico Paranaense,Ponte Preta,0,2,D,V,NORMAL,R16
+2017,2017-07-23,Atlético Goianiense,Botafogo,1,1,E,E,NORMAL,R16
+2017,2017-07-24,São Paulo,Grêmio,1,1,E,E,NORMAL,R16
+2017,2017-07-29,Botafogo,São Paulo,3,4,D,V,NORMAL,R17
+2017,2017-07-29,Palmeiras,Avaí,2,0,V,D,NORMAL,R17
+2017,2017-07-30,Chapecoense,Atlético Goianiense,1,2,D,V,NORMAL,R17
+2017,2017-07-30,Corinthians,Flamengo,1,1,E,E,NORMAL,R17
+2017,2017-07-30,Coritiba,Atlético Mineiro,0,2,D,V,NORMAL,R17
+2017,2017-07-30,Bahia,Sport,1,3,D,V,NORMAL,R17
+2017,2017-07-30,Cruzeiro,Vitória,0,0,E,E,NORMAL,R17
+2017,2017-07-30,Grêmio,Santos,1,1,E,E,NORMAL,R17
+2017,2017-07-31,Vasco,Athletico Paranaense,0,1,D,V,NORMAL,R17
+2017,2017-08-02,Sport,Fluminense,2,2,E,E,NORMAL,R18
+2017,2017-08-02,Chapecoense,Bahia,1,1,E,E,NORMAL,R18
+2017,2017-08-02,Atlético Mineiro,Corinthians,0,2,D,V,NORMAL,R18
+2017,2017-08-02,Vitória,Ponte Preta,3,1,V,D,NORMAL,R18
+2017,2017-08-02,Botafogo,Palmeiras,1,2,D,V,NORMAL,R18
+2017,2017-08-02,Santos,Flamengo,3,2,V,D,NORMAL,R18
+2017,2017-08-02,Atlético Goianiense,Grêmio,0,1,D,V,NORMAL,R18
+2017,2017-08-03,São Paulo,Coritiba,1,2,D,V,NORMAL,R18
+2017,2017-08-03,Athletico Paranaense,Avaí,5,0,V,D,NORMAL,R18
+2017,2017-08-03,Vasco,Cruzeiro,0,3,D,V,NORMAL,R18
+2017,2017-08-05,Fluminense,Atlético Goianiense,3,1,V,D,NORMAL,R19
+2017,2017-08-05,Corinthians,Sport,3,1,V,D,NORMAL,R19
+2017,2017-08-06,Flamengo,Vitória,0,2,D,V,NORMAL,R19
+2017,2017-08-06,Palmeiras,Athletico Paranaense,0,1,D,V,NORMAL,R19
+2017,2017-08-06,Cruzeiro,Botafogo,0,0,E,E,NORMAL,R19
+2017,2017-08-06,Coritiba,Chapecoense,2,0,V,D,NORMAL,R19
+2017,2017-08-06,Grêmio,Atlético Mineiro,2,0,V,D,NORMAL,R19
+2017,2017-08-06,Bahia,São Paulo,2,1,V,D,NORMAL,R19
+2017,2017-08-06,Ponte Preta,Vasco,0,0,E,E,NORMAL,R19
+2017,2017-08-06,Avaí,Santos,0,0,E,E,NORMAL,R19
+2017,2017-08-09,Ponte Preta,Fluminense,0,0,E,E,NORMAL,R17
+2017,2017-08-12,Atlético Goianiense,Coritiba,1,0,V,D,NORMAL,R20
+2017,2017-08-12,Vitória,Avaí,0,1,D,V,NORMAL,R20
+2017,2017-08-13,São Paulo,Cruzeiro,3,2,V,D,NORMAL,R20
+2017,2017-08-13,Vasco,Palmeiras,1,1,E,E,NORMAL,R20
+2017,2017-08-13,Atlético Mineiro,Flamengo,2,0,V,D,NORMAL,R20
+2017,2017-08-13,Sport,Ponte Preta,0,0,E,E,NORMAL,R20
+2017,2017-08-13,Botafogo,Grêmio,1,0,V,D,NORMAL,R20
+2017,2017-08-13,Athletico Paranaense,Bahia,4,1,V,D,NORMAL,R20
+2017,2017-08-14,Santos,Fluminense,0,0,E,E,NORMAL,R20
+2017,2017-08-19,Corinthians,Vitória,0,1,D,V,NORMAL,R21
+2017,2017-08-19,Flamengo,Atlético Goianiense,2,0,V,D,NORMAL,R21
+2017,2017-08-20,Grêmio,Athletico Paranaense,0,0,E,E,NORMAL,R21
+2017,2017-08-20,Cruzeiro,Sport,2,0,V,D,NORMAL,R21
+2017,2017-08-20,Bahia,Vasco,3,0,V,D,NORMAL,R21
+2017,2017-08-20,Ponte Preta,Botafogo,2,1,V,D,NORMAL,R21
+2017,2017-08-20,Avaí,São Paulo,1,1,E,E,NORMAL,R21
+2017,2017-08-20,Palmeiras,Chapecoense,0,2,D,V,NORMAL,R21
+2017,2017-08-20,Coritiba,Santos,0,0,E,E,NORMAL,R21
+2017,2017-08-21,Fluminense,Atlético Mineiro,2,1,V,D,NORMAL,R21
+2017,2017-08-23,Chapecoense,Corinthians,0,1,D,V,NORMAL,R20
+2017,2017-08-26,Fluminense,Vasco,0,1,D,V,NORMAL,R22
+2017,2017-08-26,Corinthians,Atlético Goianiense,0,1,D,V,NORMAL,R22
+2017,2017-08-27,Flamengo,Athletico Paranaense,2,0,V,D,NORMAL,R22
+2017,2017-08-27,Palmeiras,São Paulo,4,2,V,D,NORMAL,R22
+2017,2017-08-27,Bahia,Botafogo,1,2,D,V,NORMAL,R22
+2017,2017-08-27,Ponte Preta,Atlético Mineiro,1,2,D,V,NORMAL,R22
+2017,2017-08-27,Cruzeiro,Santos,1,1,E,E,NORMAL,R22
+2017,2017-08-27,Avaí,Chapecoense,1,0,V,D,NORMAL,R22
+2017,2017-08-28,Coritiba,Vitória,0,1,D,V,NORMAL,R22
+2017,2017-09-02,Grêmio,Sport,5,0,V,D,NORMAL,R22
+2017,2017-09-09,Atlético Mineiro,Palmeiras,1,1,E,E,NORMAL,R23
+2017,2017-09-09,Vasco,Grêmio,1,0,V,D,NORMAL,R23
+2017,2017-09-09,São Paulo,Ponte Preta,2,2,E,E,NORMAL,R23
+2017,2017-09-10,Athletico Paranaense,Coritiba,1,1,E,E,NORMAL,R23
+2017,2017-09-10,Santos,Corinthians,2,0,V,D,NORMAL,R23
+2017,2017-09-10,Sport,Avaí,0,1,D,V,NORMAL,R23
+2017,2017-09-10,Vitória,Fluminense,2,2,E,E,NORMAL,R23
+2017,2017-09-10,Botafogo,Flamengo,2,0,V,D,NORMAL,R23
+2017,2017-09-10,Chapecoense,Cruzeiro,1,2,D,V,NORMAL,R23
+2017,2017-09-11,Atlético Goianiense,Bahia,1,1,E,E,NORMAL,R23
+2017,2017-09-16,Botafogo,Santos,2,0,V,D,NORMAL,R24
+2017,2017-09-16,Ponte Preta,Atlético Goianiense,1,3,D,V,NORMAL,R24
+2017,2017-09-17,Avaí,Atlético Mineiro,1,1,E,E,NORMAL,R24
+2017,2017-09-17,Flamengo,Sport,2,0,V,D,NORMAL,R24
+2017,2017-09-17,Corinthians,Vasco,1,0,V,D,NORMAL,R24
+2017,2017-09-17,Athletico Paranaense,Fluminense,3,1,V,D,NORMAL,R24
+2017,2017-09-17,Grêmio,Chapecoense,0,1,D,V,NORMAL,R24
+2017,2017-09-17,Vitória,São Paulo,1,2,D,V,NORMAL,R24
+2017,2017-09-17,Cruzeiro,Bahia,1,0,V,D,NORMAL,R24
+2017,2017-09-18,Palmeiras,Coritiba,1,0,V,D,NORMAL,R24
+2017,2017-09-23,Flamengo,Avaí,1,1,E,E,NORMAL,R25
+2017,2017-09-23,Santos,Athletico Paranaense,1,0,V,D,NORMAL,R25
+2017,2017-09-24,São Paulo,Corinthians,1,1,E,E,NORMAL,R25
+2017,2017-09-24,Fluminense,Palmeiras,0,1,D,V,NORMAL,R25
+2017,2017-09-24,Coritiba,Botafogo,2,3,D,V,NORMAL,R25
+2017,2017-09-24,Atlético Goianiense,Cruzeiro,1,2,D,V,NORMAL,R25
+2017,2017-09-24,Chapecoense,Ponte Preta,1,0,V,D,NORMAL,R25
+2017,2017-09-24,Atlético Mineiro,Vitória,1,3,D,V,NORMAL,R25
+2017,2017-09-24,Bahia,Grêmio,1,0,V,D,NORMAL,R25
+2017,2017-09-25,Sport,Vasco,1,1,E,E,NORMAL,R25
+2017,2017-09-30,Vasco,Chapecoense,1,1,E,E,NORMAL,R26
+2017,2017-09-30,Bahia,Coritiba,1,1,E,E,NORMAL,R26
+2017,2017-09-30,Palmeiras,Santos,0,1,D,V,NORMAL,R26
+2017,2017-10-01,Botafogo,Vitória,2,3,D,V,NORMAL,R26
+2017,2017-10-01,São Paulo,Sport,1,0,V,D,NORMAL,R26
+2017,2017-10-01,Cruzeiro,Corinthians,1,1,E,E,NORMAL,R26
+2017,2017-10-01,Grêmio,Fluminense,1,0,V,D,NORMAL,R26
+2017,2017-10-01,Avaí,Atlético Goianiense,0,2,D,V,NORMAL,R26
+2017,2017-10-01,Athletico Paranaense,Atlético Mineiro,0,2,D,V,NORMAL,R26
+2017,2017-10-02,Ponte Preta,Flamengo,1,0,V,D,NORMAL,R26
+2017,2017-10-07,Cruzeiro,Ponte Preta,2,1,V,D,NORMAL,R28
+2017,2017-10-11,Botafogo,Chapecoense,2,1,V,D,NORMAL,R27
+2017,2017-10-11,Athletico Paranaense,Atlético Goianiense,2,2,E,E,NORMAL,R27
+2017,2017-10-11,Corinthians,Coritiba,3,1,V,D,NORMAL,R27
+2017,2017-10-11,Atlético Mineiro,São Paulo,1,0,V,D,NORMAL,R27
+2017,2017-10-11,Grêmio,Cruzeiro,0,1,D,V,NORMAL,R27
+2017,2017-10-11,Avaí,Vasco,1,2,D,V,NORMAL,R27
+2017,2017-10-12,Flamengo,Fluminense,1,1,E,E,NORMAL,R27
+2017,2017-10-12,Vitória,Sport,1,2,D,V,NORMAL,R27
+2017,2017-10-12,Ponte Preta,Santos,1,1,E,E,NORMAL,R27
+2017,2017-10-12,Palmeiras,Bahia,2,2,E,E,NORMAL,R27
+2017,2017-10-14,Vasco,Botafogo,1,0,V,D,NORMAL,R28
+2017,2017-10-14,São Paulo,Athletico Paranaense,2,1,V,D,NORMAL,R28
+2017,2017-10-15,Fluminense,Avaí,1,0,V,D,NORMAL,R28
+2017,2017-10-15,Sport,Atlético Mineiro,1,1,E,E,NORMAL,R28
+2017,2017-10-15,Atlético Goianiense,Palmeiras,1,3,D,V,NORMAL,R28
+2017,2017-10-15,Chapecoense,Flamengo,0,1,D,V,NORMAL,R28
+2017,2017-10-15,Coritiba,Grêmio,0,1,D,V,NORMAL,R28
+2017,2017-10-15,Bahia,Corinthians,2,0,V,D,NORMAL,R28
+2017,2017-10-16,Santos,Vitória,2,2,E,E,NORMAL,R28
+2017,2017-10-18,Coritiba,Cruzeiro,1,0,V,D,NORMAL,R29
+2017,2017-10-18,Atlético Goianiense,Vasco,0,1,D,V,NORMAL,R29
+2017,2017-10-18,Atlético Mineiro,Chapecoense,2,3,D,V,NORMAL,R29
+2017,2017-10-18,Fluminense,São Paulo,3,1,V,D,NORMAL,R29
+2017,2017-10-18,Corinthians,Grêmio,0,0,E,E,NORMAL,R29
+2017,2017-10-18,Avaí,Botafogo,1,1,E,E,NORMAL,R29
+2017,2017-10-19,Palmeiras,Ponte Preta,2,0,V,D,NORMAL,R29
+2017,2017-10-19,Vitória,Athletico Paranaense,2,3,D,V,NORMAL,R29
+2017,2017-10-19,Flamengo,Bahia,4,1,V,D,NORMAL,R29
+2017,2017-10-19,Sport,Santos,1,1,E,E,NORMAL,R29
+2017,2017-10-21,Vasco,Coritiba,1,1,E,E,NORMAL,R30
+2017,2017-10-22,Santos,Atlético Goianiense,1,0,V,D,NORMAL,R30
+2017,2017-10-22,São Paulo,Flamengo,2,0,V,D,NORMAL,R30
+2017,2017-10-22,Cruzeiro,Atlético Mineiro,1,3,D,V,NORMAL,R30
+2017,2017-10-22,Athletico Paranaense,Sport,2,1,V,D,NORMAL,R30
+2017,2017-10-22,Grêmio,Palmeiras,1,3,D,V,NORMAL,R30
+2017,2017-10-22,Bahia,Vitória,2,1,V,D,NORMAL,R30
+2017,2017-10-22,Ponte Preta,Avaí,1,2,D,V,NORMAL,R30
+2017,2017-10-22,Chapecoense,Fluminense,2,0,V,D,NORMAL,R30
+2017,2017-10-23,Botafogo,Corinthians,2,1,V,D,NORMAL,R30
+2017,2017-10-28,São Paulo,Santos,2,1,V,D,NORMAL,R31
+2017,2017-10-28,Flamengo,Vasco,0,0,E,E,NORMAL,R31
+2017,2017-10-28,Athletico Paranaense,Chapecoense,0,0,E,E,NORMAL,R31
+2017,2017-10-29,Fluminense,Bahia,1,1,E,E,NORMAL,R31
+2017,2017-10-29,Atlético Mineiro,Botafogo,0,0,E,E,NORMAL,R31
+2017,2017-10-29,Ponte Preta,Corinthians,1,0,V,D,NORMAL,R31
+2017,2017-10-29,Sport,Coritiba,3,4,D,V,NORMAL,R31
+2017,2017-10-29,Vitória,Atlético Goianiense,1,1,E,E,NORMAL,R31
+2017,2017-10-29,Avaí,Grêmio,2,2,E,E,NORMAL,R31
+2017,2017-10-30,Palmeiras,Cruzeiro,2,2,E,E,NORMAL,R31
+2017,2017-11-04,Santos,Atlético Mineiro,3,1,V,D,NORMAL,R32
+2017,2017-11-04,Botafogo,Fluminense,1,2,D,V,NORMAL,R32
+2017,2017-11-04,Atlético Goianiense,São Paulo,0,1,D,V,NORMAL,R32
+2017,2017-11-04,Coritiba,Avaí,4,0,V,D,NORMAL,R32
+2017,2017-11-05,Corinthians,Palmeiras,3,2,V,D,NORMAL,R32
+2017,2017-11-05,Cruzeiro,Athletico Paranaense,1,0,V,D,NORMAL,R32
+2017,2017-11-05,Grêmio,Flamengo,3,1,V,D,NORMAL,R32
+2017,2017-11-05,Bahia,Ponte Preta,2,0,V,D,NORMAL,R32
+2017,2017-11-05,Vasco,Vitória,1,1,E,E,NORMAL,R32
+2017,2017-11-05,Chapecoense,Sport,1,1,E,E,NORMAL,R32
+2017,2017-11-08,Ponte Preta,Grêmio,0,1,D,V,NORMAL,R33
+2017,2017-11-08,Avaí,Bahia,1,2,D,V,NORMAL,R33
+2017,2017-11-08,Athletico Paranaense,Corinthians,0,1,D,V,NORMAL,R33
+2017,2017-11-08,Sport,Botafogo,1,2,D,V,NORMAL,R33
+2017,2017-11-08,Flamengo,Cruzeiro,2,0,V,D,NORMAL,R33
+2017,2017-11-08,Santos,Vasco,1,2,D,V,NORMAL,R33
+2017,2017-11-08,Vitória,Palmeiras,3,1,V,D,NORMAL,R33
+2017,2017-11-09,São Paulo,Chapecoense,2,2,E,E,NORMAL,R33
+2017,2017-11-09,Atlético Mineiro,Atlético Goianiense,3,2,V,D,NORMAL,R33
+2017,2017-11-09,Fluminense,Coritiba,2,2,E,E,NORMAL,R33
+2017,2017-11-11,Botafogo,Athletico Paranaense,0,1,D,V,NORMAL,R34
+2017,2017-11-11,Corinthians,Avaí,1,0,V,D,NORMAL,R34
+2017,2017-11-12,Vasco,São Paulo,1,1,E,E,NORMAL,R34
+2017,2017-11-12,Palmeiras,Flamengo,2,0,V,D,NORMAL,R34
+2017,2017-11-12,Grêmio,Vitória,1,1,E,E,NORMAL,R34
+2017,2017-11-12,Atlético Goianiense,Sport,2,0,V,D,NORMAL,R34
+2017,2017-11-12,Bahia,Atlético Mineiro,2,2,E,E,NORMAL,R34
+2017,2017-11-12,Cruzeiro,Fluminense,3,1,V,D,NORMAL,R34
+2017,2017-11-12,Coritiba,Ponte Preta,1,1,E,E,NORMAL,R34
+2017,2017-11-13,Chapecoense,Santos,2,0,V,D,NORMAL,R34
+2017,2017-11-15,Ponte Preta,Athletico Paranaense,2,1,V,D,NORMAL,R35
+2017,2017-11-15,Cruzeiro,Avaí,2,2,E,E,NORMAL,R35
+2017,2017-11-15,Grêmio,São Paulo,1,0,V,D,NORMAL,R35
+2017,2017-11-15,Vasco,Atlético Mineiro,1,1,E,E,NORMAL,R35
+2017,2017-11-15,Corinthians,Fluminense,3,1,V,D,NORMAL,R35
+2017,2017-11-16,Botafogo,Atlético Goianiense,1,2,D,V,NORMAL,R35
+2017,2017-11-16,Palmeiras,Sport,5,1,V,D,NORMAL,R35
+2017,2017-11-16,Chapecoense,Vitória,2,1,V,D,NORMAL,R35
+2017,2017-11-16,Coritiba,Flamengo,1,0,V,D,NORMAL,R35
+2017,2017-11-16,Bahia,Santos,3,1,V,D,NORMAL,R35
+2017,2017-11-19,Flamengo,Corinthians,3,0,V,D,NORMAL,R36
+2017,2017-11-19,São Paulo,Botafogo,0,0,E,E,NORMAL,R36
+2017,2017-11-19,Sport,Bahia,1,0,V,D,NORMAL,R36
+2017,2017-11-19,Vitória,Cruzeiro,1,1,E,E,NORMAL,R36
+2017,2017-11-19,Atlético Goianiense,Chapecoense,1,1,E,E,NORMAL,R36
+2017,2017-11-19,Santos,Grêmio,1,0,V,D,NORMAL,R36
+2017,2017-11-19,Atlético Mineiro,Coritiba,3,0,V,D,NORMAL,R36
+2017,2017-11-19,Athletico Paranaense,Vasco,3,1,V,D,NORMAL,R36
+2017,2017-11-20,Fluminense,Ponte Preta,2,0,V,D,NORMAL,R36
+2017,2017-11-20,Avaí,Palmeiras,2,1,V,D,NORMAL,R36
+2017,2017-11-25,Fluminense,Sport,1,2,D,V,NORMAL,R37
+2017,2017-11-26,Corinthians,Atlético Mineiro,2,2,E,E,NORMAL,R37
+2017,2017-11-26,Cruzeiro,Vasco,0,1,D,V,NORMAL,R37
+2017,2017-11-26,Coritiba,São Paulo,1,2,D,V,NORMAL,R37
+2017,2017-11-26,Grêmio,Atlético Goianiense,1,1,E,E,NORMAL,R37
+2017,2017-11-26,Ponte Preta,Vitória,2,3,D,V,NORMAL,R37
+2017,2017-11-26,Avaí,Athletico Paranaense,1,0,V,D,NORMAL,R37
+2017,2017-11-26,Flamengo,Santos,1,2,D,V,NORMAL,R37
+2017,2017-11-26,Bahia,Chapecoense,0,1,D,V,NORMAL,R37
+2017,2017-11-27,Palmeiras,Botafogo,2,0,V,D,NORMAL,R37
+2017,2017-12-03,Botafogo,Cruzeiro,2,2,E,E,NORMAL,R38
+2017,2017-12-03,Vasco,Ponte Preta,2,1,V,D,NORMAL,R38
+2017,2017-12-03,Santos,Avaí,1,1,E,E,NORMAL,R38
+2017,2017-12-03,São Paulo,Bahia,1,1,E,E,NORMAL,R38
+2017,2017-12-03,Atlético Mineiro,Grêmio,4,3,V,D,NORMAL,R38
+2017,2017-12-03,Athletico Paranaense,Palmeiras,3,0,V,D,NORMAL,R38
+2017,2017-12-03,Sport,Corinthians,1,0,V,D,NORMAL,R38
+2017,2017-12-03,Vitória,Flamengo,1,2,D,V,NORMAL,R38
+2017,2017-12-03,Atlético Goianiense,Fluminense,1,1,E,E,NORMAL,R38
+2017,2017-12-03,Chapecoense,Coritiba,2,1,V,D,NORMAL,R38

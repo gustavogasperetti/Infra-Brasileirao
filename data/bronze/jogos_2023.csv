@@ -1,0 +1,381 @@
+﻿Data,Mandante,Placar_Bruto,Visitante,Fase
+2023-04-15,Palmeiras,2-1,Cuiabá,R1
+2023-04-15,América Mineiro,0-3,Fluminense,R1
+2023-04-15,Botafogo,2-1,São Paulo,R1
+2023-04-15,Red Bull Bragantino,2-1,Bahia,R1
+2023-04-15,Athletico Paranaense,2-0,Goiás,R1
+2023-04-15,Fortaleza,1-1,Internacional,R1
+2023-04-15,Atlético Mineiro,1-2,Vasco,R1
+2023-04-16,Flamengo,3-0,Coritiba,R1
+2023-04-16,Corinthians,2-1,Cruzeiro,R1
+2023-04-16,Grêmio,1-0,Santos,R1
+2023-04-22,Fluminense,2-0,Athletico Paranaense,R2
+2023-04-22,São Paulo,3-0,América Mineiro,R2
+2023-04-22,Cuiabá,1-1,Red Bull Bragantino,R2
+2023-04-22,Cruzeiro,1-0,Grêmio,R2
+2023-04-23,Internacional,2-1,Flamengo,R2
+2023-04-23,Vasco,2-2,Palmeiras,R2
+2023-04-23,Santos,0-0,Atlético Mineiro,R2
+2023-04-23,Coritiba,0-3,Fortaleza,R2
+2023-04-23,Goiás,3-1,Corinthians,R2
+2023-04-24,Bahia,1-2,Botafogo,R2
+2023-04-29,Coritiba,1-1,São Paulo,R3
+2023-04-29,Fortaleza,4-2,Fluminense,R3
+2023-04-29,Palmeiras,2-1,Corinthians,R3
+2023-04-29,Santos,3-2,América Mineiro,R3
+2023-04-29,Red Bull Bragantino,0-3,Cruzeiro,R3
+2023-04-29,Atlético Mineiro,2-1,Athletico Paranaense,R3
+2023-04-30,Flamengo,2-3,Botafogo,R3
+2023-04-30,Internacional,1-0,Goiás,R3
+2023-04-30,Cuiabá,1-2,Grêmio,R3
+2023-05-01,Vasco,0-1,Bahia,R3
+2023-05-06,Cruzeiro,2-1,Santos,R4
+2023-05-06,Fluminense,1-1,Vasco,R4
+2023-05-07,América Mineiro,1-2,Cuiabá,R4
+2023-05-07,São Paulo,2-0,Internacional,R4
+2023-05-07,Athletico Paranaense,2-1,Flamengo,R4
+2023-05-07,Bahia,3-1,Coritiba,R4
+2023-05-07,Botafogo,2-0,Atlético Mineiro,R4
+2023-05-07,Goiás,0-5,Palmeiras,R4
+2023-05-07,Grêmio,3-3,Red Bull Bragantino,R4
+2023-05-08,Corinthians,1-1,Fortaleza,R4
+2023-05-10,Santos,3-0,Bahia,R5
+2023-05-10,Red Bull Bragantino,2-2,América Mineiro,R5
+2023-05-10,Internacional,0-2,Athletico Paranaense,R5
+2023-05-10,Flamengo,2-0,Goiás,R5
+2023-05-10,Cuiabá,0-4,Atlético Mineiro,R5
+2023-05-10,Palmeiras,4-1,Grêmio,R5
+2023-05-10,Cruzeiro,0-2,Fluminense,R5
+2023-05-11,Coritiba,1-1,Vasco,R5
+2023-05-11,Botafogo,3-0,Corinthians,R5
+2023-05-11,Fortaleza,0-0,São Paulo,R5
+2023-05-13,Bahia,2-3,Flamengo,R6
+2023-05-13,Fluminense,2-0,Cuiabá,R6
+2023-05-13,Palmeiras,1-1,Red Bull Bragantino,R6
+2023-05-13,Atlético Mineiro,2-0,Internacional,R6
+2023-05-14,Vasco,0-1,Santos,R6
+2023-05-14,Corinthians,1-1,São Paulo,R6
+2023-05-14,Grêmio,0-0,Fortaleza,R6
+2023-05-14,Goiás,2-1,Botafogo,R6
+2023-05-14,Athletico Paranaense,3-2,Coritiba,R6
+2023-05-14,América Mineiro,0-4,Cruzeiro,R6
+2023-05-20,Bahia,1-1,Goiás,R7
+2023-05-20,Botafogo,1-0,Fluminense,R7
+2023-05-20,São Paulo,4-2,Vasco,R7
+2023-05-20,Red Bull Bragantino,2-0,Athletico Paranaense,R7
+2023-05-20,Coritiba,1-2,Atlético Mineiro,R7
+2023-05-20,América Mineiro,2-1,Fortaleza,R7
+2023-05-20,Santos,0-0,Palmeiras,R7
+2023-05-21,Flamengo,1-0,Corinthians,R7
+2023-05-21,Grêmio,3-1,Internacional,R7
+2023-05-22,Cruzeiro,0-1,Cuiabá,R7
+2023-05-27,Athletico Paranaense,1-2,Grêmio,R8
+2023-05-27,Fortaleza,2-0,Vasco,R8
+2023-05-27,Flamengo,1-1,Cruzeiro,R8
+2023-05-27,Cuiabá,1-1,Coritiba,R8
+2023-05-27,São Paulo,2-1,Goiás,R8
+2023-05-28,Corinthians,2-0,Fluminense,R8
+2023-05-28,Internacional,2-0,Bahia,R8
+2023-05-28,Red Bull Bragantino,2-0,Santos,R8
+2023-05-28,Atlético Mineiro,1-1,Palmeiras,R8
+2023-05-28,Botafogo,2-0,América Mineiro,R8
+2023-06-03,Fortaleza,0-0,Bahia,R9
+2023-06-03,Cruzeiro,0-1,Atlético Mineiro,R9
+2023-06-03,Athletico Paranaense,1-0,Botafogo,R9
+2023-06-03,América Mineiro,2-0,Corinthians,R9
+2023-06-03,Santos,1-1,Internacional,R9
+2023-06-04,Fluminense,2-1,Red Bull Bragantino,R9
+2023-06-04,Grêmio,2-1,São Paulo,R9
+2023-06-04,Palmeiras,3-1,Coritiba,R9
+2023-06-04,Goiás,0-1,Cuiabá,R9
+2023-06-05,Vasco,1-4,Flamengo,R9
+2023-06-10,Coritiba,0-0,Santos,R10
+2023-06-10,Corinthians,1-1,Cuiabá,R10
+2023-06-10,Atlético Mineiro,1-1,Red Bull Bragantino,R10
+2023-06-10,Bahia,2-2,Cruzeiro,R10
+2023-06-10,Botafogo,2-0,Fortaleza,R10
+2023-06-11,América Mineiro,2-2,Athletico Paranaense,R10
+2023-06-11,São Paulo,0-2,Palmeiras,R10
+2023-06-11,Internacional,2-1,Vasco,R10
+2023-06-11,Flamengo,3-0,Grêmio,R10
+2023-06-11,Goiás,2-2,Fluminense,R10
+2023-06-21,São Paulo,2-1,Athletico Paranaense,R11
+2023-06-21,Cruzeiro,0-1,Fortaleza,R11
+2023-06-21,Santos,0-2,Corinthians,R11
+2023-06-21,Fluminense,1-1,Atlético Mineiro,R11
+2023-06-21,Bahia,1-0,Palmeiras,R11
+2023-06-22,Grêmio,3-1,América Mineiro,R11
+2023-06-22,Vasco,0-1,Goiás,R11
+2023-06-22,Coritiba,0-1,Internacional,R11
+2023-06-22,Cuiabá,0-1,Botafogo,R11
+2023-06-22,Red Bull Bragantino,4-0,Flamengo,R11
+2023-06-24,Athletico Paranaense,1-0,Corinthians,R12
+2023-06-24,Fluminense,2-1,Bahia,R12
+2023-06-24,Fortaleza,2-1,Atlético Mineiro,R12
+2023-06-24,Cruzeiro,1-0,São Paulo,R12
+2023-06-25,Palmeiras,0-1,Botafogo,R12
+2023-06-25,Grêmio,5-1,Coritiba,R12
+2023-06-25,Santos,2-3,Flamengo,R12
+2023-06-25,Red Bull Bragantino,2-0,Goiás,R12
+2023-06-25,América Mineiro,1-2,Internacional,R12
+2023-06-26,Vasco,1-0,Cuiabá,R12
+2023-07-01,São Paulo,1-0,Fluminense,R13
+2023-07-01,Flamengo,2-0,Fortaleza,R13
+2023-07-01,Bahia,1-2,Grêmio,R13
+2023-07-01,Internacional,0-0,Cruzeiro,R13
+2023-07-02,Corinthians,0-1,Red Bull Bragantino,R13
+2023-07-02,Botafogo,2-0,Vasco,R13
+2023-07-02,Atlético Mineiro,2-2,América Mineiro,R13
+2023-07-02,Athletico Paranaense,2-2,Palmeiras,R13
+2023-07-02,Cuiabá,3-0,Santos,R13
+2023-07-03,Goiás,1-2,Coritiba,R13
+2023-07-08,Vasco,0-1,Cruzeiro,R14
+2023-07-08,Cuiabá,1-1,Bahia,R14
+2023-07-08,Atlético Mineiro,0-1,Corinthians,R14
+2023-07-08,Coritiba,3-1,América Mineiro,R14
+2023-07-08,Palmeiras,1-1,Flamengo,R14
+2023-07-09,Santos,4-3,Goiás,R14
+2023-07-09,Fluminense,2-0,Internacional,R14
+2023-07-09,Red Bull Bragantino,0-0,São Paulo,R14
+2023-07-09,Grêmio,0-2,Botafogo,R14
+2023-07-09,Fortaleza,1-0,Athletico Paranaense,R14
+2023-07-15,Botafogo,2-0,Red Bull Bragantino,R15
+2023-07-16,Cruzeiro,0-0,Coritiba,R15
+2023-07-16,Fluminense,0-0,Flamengo,R15
+2023-07-16,São Paulo,4-1,Santos,R15
+2023-07-16,Fortaleza,0-1,Cuiabá,R15
+2023-07-16,Internacional,0-0,Palmeiras,R15
+2023-07-16,Athletico Paranaense,2-0,Bahia,R15
+2023-07-17,Goiás,0-0,Atlético Mineiro,R15
+2023-07-22,Flamengo,1-1,América Mineiro,R16
+2023-07-22,Palmeiras,3-1,Fortaleza,R16
+2023-07-22,Bahia,0-0,Corinthians,R16
+2023-07-22,Cuiabá,2-1,São Paulo,R16
+2023-07-22,Grêmio,1-0,Atlético Mineiro,R16
+2023-07-23,Santos,2-2,Botafogo,R16
+2023-07-23,Red Bull Bragantino,0-0,Internacional,R16
+2023-07-23,Cruzeiro,0-1,Goiás,R16
+2023-07-23,Vasco,0-2,Athletico Paranaense,R16
+2023-07-24,Coritiba,2-0,Fluminense,R16
+2023-07-29,Fluminense,1-0,Santos,R17
+2023-07-29,Internacional,1-2,Cuiabá,R17
+2023-07-29,Athletico Paranaense,3-3,Cruzeiro,R17
+2023-07-29,Corinthians,3-1,Vasco,R17
+2023-07-29,Fortaleza,0-3,Red Bull Bragantino,R17
+2023-07-29,Atlético Mineiro,1-2,Flamengo,R17
+2023-07-30,São Paulo,0-0,Bahia,R17
+2023-07-30,Botafogo,4-1,Coritiba,R17
+2023-07-30,América Mineiro,1-4,Palmeiras,R17
+2023-07-30,Goiás,1-1,Grêmio,R17
+2023-08-05,Santos,1-1,Athletico Paranaense,R18
+2023-08-05,Goiás,1-0,Fortaleza,R18
+2023-08-05,Internacional,2-2,Corinthians,R18
+2023-08-05,Fluminense,2-1,Palmeiras,R18
+2023-08-06,Vasco,1-0,Grêmio,R18
+2023-08-06,São Paulo,0-2,Atlético Mineiro,R18
+2023-08-06,Cruzeiro,0-0,Botafogo,R18
+2023-08-06,Coritiba,0-1,Red Bull Bragantino,R18
+2023-08-06,Bahia,3-1,América Mineiro,R18
+2023-08-06,Cuiabá,3-0,Flamengo,R18
+2023-08-12,Botafogo,3-1,Internacional,R19
+2023-08-13,Atlético Mineiro,1-0,Bahia,R19
+2023-08-13,Corinthians,3-1,Coritiba,R19
+2023-08-13,Grêmio,2-1,Fluminense,R19
+2023-08-13,América Mineiro,0-1,Goiás,R19
+2023-08-13,Flamengo,1-1,São Paulo,R19
+2023-08-13,Fortaleza,4-0,Santos,R19
+2023-08-14,Palmeiras,1-0,Cruzeiro,R19
+2023-08-14,Red Bull Bragantino,1-1,Vasco,R19
+2023-08-15,Athletico Paranaense,2-0,Cuiabá,R19
+2023-08-19,São Paulo,0-0,Botafogo,R20
+2023-08-19,Internacional,0-1,Fortaleza,R20
+2023-08-19,Fluminense,3-1,América Mineiro,R20
+2023-08-19,Cuiabá,0-2,Palmeiras,R20
+2023-08-19,Cruzeiro,1-1,Corinthians,R20
+2023-08-20,Vasco,1-0,Atlético Mineiro,R20
+2023-08-20,Santos,2-1,Grêmio,R20
+2023-08-20,Coritiba,2-3,Flamengo,R20
+2023-08-20,Bahia,4-0,Red Bull Bragantino,R20
+2023-08-21,Goiás,1-1,Athletico Paranaense,R20
+2023-08-26,Flamengo,0-0,Internacional,R21
+2023-08-26,Corinthians,1-1,Goiás,R21
+2023-08-27,Red Bull Bragantino,2-0,Cuiabá,R21
+2023-08-27,Botafogo,3-0,Bahia,R21
+2023-08-27,Atlético Mineiro,2-0,Santos,R21
+2023-08-27,América Mineiro,2-1,São Paulo,R21
+2023-08-27,Palmeiras,1-0,Vasco,R21
+2023-08-27,Athletico Paranaense,2-2,Fluminense,R21
+2023-08-27,Fortaleza,3-1,Coritiba,R21
+2023-08-27,Grêmio,3-0,Cruzeiro,R21
+2023-09-02,Goiás,0-0,Internacional,R22
+2023-09-02,Athletico Paranaense,1-1,Atlético Mineiro,R22
+2023-09-02,Botafogo,1-2,Flamengo,R22
+2023-09-03,Grêmio,2-0,Cuiabá,R22
+2023-09-03,Fluminense,1-0,Fortaleza,R22
+2023-09-03,Corinthians,0-0,Palmeiras,R22
+2023-09-03,Cruzeiro,0-0,Red Bull Bragantino,R22
+2023-09-03,Bahia,1-1,Vasco,R22
+2023-09-03,América Mineiro,2-0,Santos,R22
+2023-09-13,Flamengo,0-3,Athletico Paranaense,R23
+2023-09-13,Internacional,2-1,São Paulo,R23
+2023-09-14,Santos,0-3,Cruzeiro,R23
+2023-09-14,Fortaleza,2-1,Corinthians,R23
+2023-09-14,Coritiba,2-4,Bahia,R23
+2023-09-14,Red Bull Bragantino,2-0,Grêmio,R23
+2023-09-15,Cuiabá,2-2,América Mineiro,R23
+2023-09-15,Palmeiras,1-0,Goiás,R23
+2023-09-16,Vasco,4-2,Fluminense,R23
+2023-09-16,Atlético Mineiro,1-0,Botafogo,R23
+2023-09-18,Bahia,1-2,Santos,R24
+2023-09-18,Corinthians,4-4,Grêmio,R15
+2023-09-19,América Mineiro,0-2,Red Bull Bragantino,R24
+2023-09-20,Goiás,0-0,Flamengo,R24
+2023-09-20,Fluminense,1-0,Cruzeiro,R24
+2023-09-20,São Paulo,1-2,Fortaleza,R24
+2023-09-21,Vasco,5-1,Coritiba,R24
+2023-09-21,Athletico Paranaense,2-1,Internacional,R24
+2023-09-21,Grêmio,1-0,Palmeiras,R24
+2023-09-22,Corinthians,1-0,Botafogo,R24
+2023-09-23,Atlético Mineiro,1-0,Cuiabá,R24
+2023-09-25,América Mineiro,0-1,Vasco,R15
+2023-09-27,São Paulo,2-1,Coritiba,R22
+2023-09-30,Flamengo,1-0,Bahia,R25
+2023-09-30,Fortaleza,1-1,Grêmio,R25
+2023-09-30,São Paulo,2-1,Corinthians,R25
+2023-09-30,Cuiabá,3-0,Fluminense,R25
+2023-09-30,Internacional,0-2,Atlético Mineiro,R25
+2023-10-01,Santos,4-1,Vasco,R25
+2023-10-01,Cruzeiro,1-1,América Mineiro,R25
+2023-10-01,Coritiba,2-0,Athletico Paranaense,R25
+2023-10-01,Red Bull Bragantino,2-1,Palmeiras,R25
+2023-10-02,Botafogo,1-1,Goiás,R25
+2023-10-07,Goiás,4-6,Bahia,R26
+2023-10-07,Vasco,0-0,São Paulo,R26
+2023-10-07,Corinthians,1-1,Flamengo,R26
+2023-10-08,Fluminense,0-2,Botafogo,R26
+2023-10-08,Palmeiras,1-2,Santos,R26
+2023-10-08,Internacional,3-2,Grêmio,R26
+2023-10-08,Atlético Mineiro,1-2,Coritiba,R26
+2023-10-08,Athletico Paranaense,1-1,Red Bull Bragantino,R26
+2023-10-08,Fortaleza,3-2,América Mineiro,R26
+2023-10-14,Cuiabá,0-0,Cruzeiro,R26
+2023-10-18,Grêmio,1-2,Athletico Paranaense,R27
+2023-10-18,Coritiba,0-3,Cuiabá,R27
+2023-10-18,América Mineiro,1-2,Botafogo,R27
+2023-10-18,Vasco,1-0,Fortaleza,R27
+2023-10-18,Goiás,2-0,São Paulo,R27
+2023-10-18,Bahia,1-0,Internacional,R27
+2023-10-19,Palmeiras,0-2,Atlético Mineiro,R27
+2023-10-19,Cruzeiro,0-2,Flamengo,R27
+2023-10-19,Santos,1-3,Red Bull Bragantino,R27
+2023-10-19,Fluminense,3-3,Corinthians,R27
+2023-10-21,São Paulo,3-0,Grêmio,R28
+2023-10-21,Bahia,2-0,Fortaleza,R28
+2023-10-21,Cuiabá,1-1,Goiás,R28
+2023-10-22,Botafogo,1-1,Athletico Paranaense,R28
+2023-10-22,Flamengo,1-0,Vasco,R28
+2023-10-22,Atlético Mineiro,0-1,Cruzeiro,R28
+2023-10-22,Internacional,7-1,Santos,R28
+2023-10-22,Corinthians,1-1,América Mineiro,R28
+2023-10-22,Red Bull Bragantino,1-0,Fluminense,R28
+2023-10-22,Coritiba,0-2,Palmeiras,R28
+2023-10-25,Fluminense,5-3,Goiás,R29
+2023-10-25,Red Bull Bragantino,1-2,Atlético Mineiro,R29
+2023-10-25,Athletico Paranaense,3-2,América Mineiro,R29
+2023-10-25,Palmeiras,5-0,São Paulo,R29
+2023-10-25,Cruzeiro,3-0,Bahia,R29
+2023-10-25,Grêmio,3-2,Flamengo,R29
+2023-10-25,Cuiabá,0-1,Corinthians,R29
+2023-10-26,Vasco,1-2,Internacional,R29
+2023-10-26,Santos,2-1,Coritiba,R29
+2023-10-28,Palmeiras,1-0,Bahia,R30
+2023-10-28,América Mineiro,3-4,Grêmio,R30
+2023-10-28,Atlético Mineiro,2-0,Fluminense,R30
+2023-10-29,Goiás,1-1,Vasco,R30
+2023-10-29,Athletico Paranaense,1-1,São Paulo,R30
+2023-10-29,Corinthians,1-1,Santos,R30
+2023-10-29,Internacional,3-4,Coritiba,R30
+2023-10-29,Botafogo,0-1,Cuiabá,R30
+2023-10-31,Bahia,1-0,Fluminense,R31
+2023-11-01,Corinthians,1-0,Athletico Paranaense,R31
+2023-11-01,Internacional,1-1,América Mineiro,R31
+2023-11-01,Flamengo,1-2,Santos,R31
+2023-11-01,Coritiba,1-2,Grêmio,R31
+2023-11-01,Botafogo,3-4,Palmeiras,R31
+2023-11-01,Atlético Mineiro,3-1,Fortaleza,R31
+2023-11-02,Cuiabá,0-2,Vasco,R31
+2023-11-02,Goiás,0-2,Red Bull Bragantino,R31
+2023-11-02,São Paulo,1-0,Cruzeiro,R31
+2023-11-04,Grêmio,1-0,Bahia,R32
+2023-11-04,América Mineiro,1-1,Atlético Mineiro,R32
+2023-11-04,Palmeiras,1-0,Athletico Paranaense,R32
+2023-11-05,Red Bull Bragantino,1-0,Corinthians,R32
+2023-11-05,Cruzeiro,1-2,Internacional,R32
+2023-11-05,Fortaleza,0-2,Flamengo,R32
+2023-11-05,Coritiba,0-1,Goiás,R32
+2023-11-06,Vasco,1-0,Botafogo,R32
+2023-11-06,Santos,0-0,Cuiabá,R32
+2023-11-08,Internacional,0-0,Fluminense,R33
+2023-11-08,América Mineiro,0-3,Coritiba,R33
+2023-11-08,São Paulo,1-0,Red Bull Bragantino,R33
+2023-11-08,Athletico Paranaense,1-1,Fortaleza,R33
+2023-11-08,Flamengo,3-0,Palmeiras,R33
+2023-11-09,Corinthians,1-1,Atlético Mineiro,R33
+2023-11-09,Goiás,0-1,Santos,R33
+2023-11-09,Botafogo,3-4,Grêmio,R33
+2023-11-09,Bahia,0-3,Cuiabá,R33
+2023-11-11,Coritiba,1-0,Cruzeiro,R34
+2023-11-11,Flamengo,1-1,Fluminense,R34
+2023-11-11,Palmeiras,3-0,Internacional,R34
+2023-11-12,Red Bull Bragantino,2-2,Botafogo,R34
+2023-11-12,Grêmio,0-1,Corinthians,R34
+2023-11-12,Vasco,2-1,América Mineiro,R34
+2023-11-12,Santos,0-0,São Paulo,R34
+2023-11-12,Atlético Mineiro,2-1,Goiás,R34
+2023-11-12,Bahia,1-1,Athletico Paranaense,R34
+2023-11-12,Cuiabá,2-1,Fortaleza,R34
+2023-11-18,Fortaleza,0-1,Cruzeiro,R30
+2023-11-22,Cruzeiro,2-2,Vasco,R33
+2023-11-22,Fluminense,1-0,São Paulo,R32
+2023-11-23,Fortaleza,2-2,Botafogo,R29
+2023-11-23,Flamengo,1-0,Red Bull Bragantino,R30
+2023-11-24,Corinthians,1-5,Bahia,R35
+2023-11-25,Athletico Paranaense,0-0,Vasco,R35
+2023-11-25,Fluminense,2-1,Coritiba,R35
+2023-11-26,Botafogo,1-1,Santos,R35
+2023-11-26,Atlético Mineiro,3-0,Grêmio,R35
+2023-11-26,São Paulo,0-0,Cuiabá,R35
+2023-11-26,Internacional,1-0,Red Bull Bragantino,R35
+2023-11-26,Fortaleza,2-2,Palmeiras,R35
+2023-11-26,América Mineiro,0-3,Flamengo,R35
+2023-11-27,Goiás,0-1,Cruzeiro,R35
+2023-11-28,Vasco,2-4,Corinthians,R36
+2023-11-29,Santos,0-3,Fluminense,R36
+2023-11-29,Flamengo,0-3,Atlético Mineiro,R36
+2023-11-29,Bahia,0-1,São Paulo,R36
+2023-11-29,Cuiabá,0-2,Internacional,R36
+2023-11-29,Palmeiras,4-0,América Mineiro,R36
+2023-11-29,Coritiba,1-1,Botafogo,R36
+2023-11-30,Grêmio,2-1,Goiás,R36
+2023-11-30,Cruzeiro,1-1,Athletico Paranaense,R36
+2023-11-30,Red Bull Bragantino,1-2,Fortaleza,R36
+2023-12-02,Corinthians,1-2,Internacional,R37
+2023-12-02,Atlético Mineiro,2-1,São Paulo,R37
+2023-12-03,Flamengo,2-1,Cuiabá,R37
+2023-12-03,Palmeiras,1-0,Fluminense,R37
+2023-12-03,Botafogo,0-0,Cruzeiro,R37
+2023-12-03,Red Bull Bragantino,1-0,Coritiba,R37
+2023-12-03,Grêmio,1-0,Vasco,R37
+2023-12-03,Athletico Paranaense,3-0,Santos,R37
+2023-12-03,Fortaleza,1-0,Goiás,R37
+2023-12-03,América Mineiro,3-2,Bahia,R37
+2023-12-06,Goiás,1-0,América Mineiro,R38
+2023-12-06,Fluminense,2-3,Grêmio,R38
+2023-12-06,Vasco,2-1,Red Bull Bragantino,R38
+2023-12-06,São Paulo,1-0,Flamengo,R38
+2023-12-06,Santos,1-2,Fortaleza,R38
+2023-12-06,Cruzeiro,1-1,Palmeiras,R38
+2023-12-06,Internacional,3-1,Botafogo,R38
+2023-12-06,Coritiba,0-2,Corinthians,R38
+2023-12-06,Bahia,4-1,Atlético Mineiro,R38
+2023-12-06,Cuiabá,3-0,Athletico Paranaense,R38

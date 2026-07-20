@@ -1,0 +1,793 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+1978,1978-03-25,Santos,Goiás,3,0,V,D,NORMAL,C
+1978,1978-03-26,Juventude,Figueirense,0,0,E,E,NORMAL,A
+1978,1978-03-26,Coritiba,Londrina,1,0,V,D,NORMAL,A
+1978,1978-03-26,Brasil de Pelotas,Joinville,0,1,D,V,NORMAL,A
+1978,1978-03-26,Grêmio Maringá,Internacional,0,1,D,V,NORMAL,A
+1978,1978-03-26,Grêmio,Caxias,2,2,E,E,NORMAL,A
+1978,1978-03-26,Náutico,Santa Cruz,0,1,D,V,NORMAL,B
+1978,1978-03-26,América-RN,Botafogo-PB,2,0,V,D,NORMAL,B
+1978,1978-03-26,Uberlândia,Villa Nova-MG,1,3,D,V,NORMAL,B
+1978,1978-03-26,Uberaba,América Mineiro,2,0,V,D,NORMAL,B
+1978,1978-03-26,Cruzeiro,Sport,1,2,D,V,NORMAL,B
+1978,1978-03-26,Rio Branco-ES,Mixto,0,0,E,E,NORMAL,C
+1978,1978-03-26,Anapolina,Corinthians,0,0,E,E,NORMAL,C
+1978,1978-03-26,Operário-MS,Brasília,0,2,D,V,NORMAL,C
+1978,1978-03-26,Vila Nova,Dom Bosco,1,1,E,E,NORMAL,C
+1978,1978-03-26,Itabuna,Botafogo,0,2,D,V,NORMAL,D
+1978,1978-03-26,Confiança,Vitória,1,2,D,V,NORMAL,D
+1978,1978-03-26,CRB,Sergipe,0,0,E,E,NORMAL,D
+1978,1978-03-26,Bahia,Ponte Preta,0,0,E,E,NORMAL,D
+1978,1978-03-26,Guarani,Vasco,1,3,D,V,NORMAL,D
+1978,1978-03-26,América-SP,Flamengo-PI,3,0,V,D,NORMAL,E
+1978,1978-03-26,River-PI,Sampaio Corrêa,0,0,E,E,NORMAL,E
+1978,1978-03-26,Ceará,Moto Club,1,0,V,D,NORMAL,E
+1978,1978-03-26,Botafogo-SP,Palmeiras,0,0,E,E,NORMAL,E
+1978,1978-03-26,Noroeste,Comercial,0,1,D,V,NORMAL,E
+1978,1978-03-26,Portuguesa,America-RJ,1,0,V,D,NORMAL,F
+1978,1978-03-26,Americano,Goytacaz,0,1,D,V,NORMAL,F
+1978,1978-03-26,Flamengo,Fluminense,1,0,V,D,NORMAL,F
+1978,1978-03-26,Remo,Paysandu,0,0,E,E,NORMAL,F
+1978,1978-03-26,Fast Clube,Bangu,2,0,V,D,NORMAL,F
+1978,1978-03-29,Colorado,Internacional,0,2,D,V,NORMAL,A
+1978,1978-03-29,Londrina,Juventude,3,1,V,D,NORMAL,A
+1978,1978-03-29,Grêmio,Figueirense,2,0,V,D,NORMAL,A
+1978,1978-03-29,Caxias,Joinville,1,1,E,E,NORMAL,A
+1978,1978-03-29,ABC,Santa Cruz,1,1,E,E,NORMAL,B
+1978,1978-03-29,Uberaba,Sport,0,0,E,E,NORMAL,B
+1978,1978-03-29,Uberlândia,América Mineiro,1,1,E,E,NORMAL,B
+1978,1978-03-29,Campinense,América-RN,1,1,E,E,NORMAL,B
+1978,1978-03-29,Atlético Mineiro,Villa Nova-MG,1,0,V,D,NORMAL,B
+1978,1978-03-29,Náutico,Botafogo-PB,3,1,V,D,NORMAL,B
+1978,1978-03-29,Anapolina,Dom Bosco,1,1,E,E,NORMAL,C
+1978,1978-03-29,Santos,Mixto,1,1,E,E,NORMAL,C
+1978,1978-03-29,Brasília,Corinthians,0,1,D,V,NORMAL,C
+1978,1978-03-29,Desportiva Ferroviária,Goiás,0,0,E,E,NORMAL,C
+1978,1978-03-29,CRB,Volta Redonda,2,0,V,D,NORMAL,D
+1978,1978-03-29,Itabuna,Ponte Preta,0,4,D,V,NORMAL,D
+1978,1978-03-29,Botafogo-SP,Flamengo-PI,3,0,V,D,NORMAL,E
+1978,1978-03-29,América-SP,Sampaio Corrêa,2,1,V,D,NORMAL,E
+1978,1978-03-29,XV de Piracicaba,America-RJ,1,3,D,V,NORMAL,F
+1978,1978-03-29,Fluminense,Americano,0,0,E,E,NORMAL,F
+1978,1978-03-29,Remo,Bangu,3,0,V,D,NORMAL,F
+1978,1978-03-29,Fast Clube,Flamengo,0,1,D,V,NORMAL,F
+1978,1978-03-30,Chapecoense,Athletico Paranaense,2,0,V,D,NORMAL,A
+1978,1978-03-30,Coritiba,Brasil de Pelotas,2,0,V,D,NORMAL,A
+1978,1978-03-30,Vasco,CSA,4,0,V,D,NORMAL,D
+1978,1978-03-30,Vitória,Sergipe,2,0,V,D,NORMAL,D
+1978,1978-03-30,Guarani,Bahia,2,1,V,D,NORMAL,D
+1978,1978-03-30,São Paulo,Fortaleza,2,0,V,D,NORMAL,E
+1978,1978-04-01,Villa Nova-MG,América-RN,1,0,V,D,NORMAL,B
+1978,1978-04-01,Palmeiras,Flamengo-PI,3,0,V,D,NORMAL,E
+1978,1978-04-02,Colorado,Caxias,1,2,D,V,NORMAL,A
+1978,1978-04-02,Grêmio Maringá,Chapecoense,3,1,V,D,NORMAL,A
+1978,1978-04-02,Internacional,Joinville,3,1,V,D,NORMAL,A
+1978,1978-04-02,Juventude,Grêmio,0,1,D,V,NORMAL,A
+1978,1978-04-02,Figueirense,Athletico Paranaense,1,1,E,E,NORMAL,A
+1978,1978-04-02,Cruzeiro,América Mineiro,4,1,V,D,NORMAL,B
+1978,1978-04-02,Botafogo-PB,ABC,0,0,E,E,NORMAL,B
+1978,1978-04-02,Santa Cruz,Atlético Mineiro,3,0,V,D,NORMAL,B
+1978,1978-04-02,Uberlândia,Uberaba,1,0,V,D,NORMAL,B
+1978,1978-04-02,Campinense,Sport,0,0,E,E,NORMAL,B
+1978,1978-04-02,Desportiva Ferroviária,Rio Branco-ES,0,0,E,E,NORMAL,C
+1978,1978-04-02,Dom Bosco,Santos,0,3,D,V,NORMAL,C
+1978,1978-04-02,Anapolina,Operário-MS,1,1,E,E,NORMAL,C
+1978,1978-04-02,Comercial-MS,Mixto,2,2,E,E,NORMAL,C
+1978,1978-04-02,Goiás,Corinthians,0,0,E,E,NORMAL,C
+1978,1978-04-02,Volta Redonda,CSA,0,0,E,E,NORMAL,D
+1978,1978-04-02,Vitória,Itabuna,2,2,E,E,NORMAL,D
+1978,1978-04-02,Ponte Preta,Sergipe,2,0,V,D,NORMAL,D
+1978,1978-04-02,Botafogo,Bahia,1,1,E,E,NORMAL,D
+1978,1978-04-02,Confiança,CRB,2,2,E,E,NORMAL,D
+1978,1978-04-02,River-PI,Botafogo-SP,1,2,D,V,NORMAL,E
+1978,1978-04-02,Moto Club,Sampaio Corrêa,2,0,V,D,NORMAL,E
+1978,1978-04-02,Comercial,São Paulo,0,1,D,V,NORMAL,E
+1978,1978-04-02,Noroeste,Fortaleza,3,1,V,D,NORMAL,E
+1978,1978-04-02,Bangu,XV de Piracicaba,3,2,V,D,NORMAL,F
+1978,1978-04-02,Remo,Flamengo,0,1,D,V,NORMAL,F
+1978,1978-04-02,Nacional-AM,Goytacaz,0,1,D,V,NORMAL,F
+1978,1978-04-02,Portuguesa,Fluminense,2,0,V,D,NORMAL,F
+1978,1978-04-05,Uberaba,América-RN,1,1,E,E,NORMAL,B
+1978,1978-04-05,Campinense,Náutico,1,3,D,V,NORMAL,B
+1978,1978-04-05,Comercial-MS,Santos,1,0,V,D,NORMAL,C
+1978,1978-04-05,Fast Clube,Remo,0,3,D,V,NORMAL,F
+1978,1978-04-05,Portuguesa,Bangu,3,0,V,D,NORMAL,F
+1978,1978-04-06,Londrina,Athletico Paranaense,0,1,D,V,NORMAL,A
+1978,1978-04-06,Grêmio Maringá,Caxias,0,0,E,E,NORMAL,A
+1978,1978-04-06,Colorado,Chapecoense,1,0,V,D,NORMAL,A
+1978,1978-04-06,Brasil de Pelotas,Grêmio,1,3,D,V,NORMAL,A
+1978,1978-04-06,Figueirense,Coritiba,2,4,D,V,NORMAL,A
+1978,1978-04-06,Botafogo-PB,Atlético Mineiro,0,3,D,V,NORMAL,B
+1978,1978-04-06,ABC,Sport,2,2,E,E,NORMAL,B
+1978,1978-04-06,Santa Cruz,Villa Nova-MG,1,1,E,E,NORMAL,B
+1978,1978-04-06,Cruzeiro,Uberlândia,6,0,V,D,NORMAL,B
+1978,1978-04-06,Vila Nova,Operário-MS,0,1,D,V,NORMAL,C
+1978,1978-04-06,Dom Bosco,Brasília,3,1,V,D,NORMAL,C
+1978,1978-04-06,Rio Branco-ES,Anapolina,1,0,V,D,NORMAL,C
+1978,1978-04-06,Botafogo,Sergipe,5,1,V,D,NORMAL,D
+1978,1978-04-06,Bahia,CRB,2,1,V,D,NORMAL,D
+1978,1978-04-06,Guarani,CSA,2,0,V,D,NORMAL,D
+1978,1978-04-06,Confiança,Itabuna,1,0,V,D,NORMAL,D
+1978,1978-04-06,Comercial,Fortaleza,0,0,E,E,NORMAL,E
+1978,1978-04-06,Ceará,América-SP,2,0,V,D,NORMAL,E
+1978,1978-04-06,Moto Club,Botafogo-SP,2,2,E,E,NORMAL,E
+1978,1978-04-06,São Paulo,River-PI,6,1,V,D,NORMAL,E
+1978,1978-04-06,Nacional-AM,America-RJ,1,2,D,V,NORMAL,F
+1978,1978-04-06,XV de Piracicaba,Fluminense,1,1,E,E,NORMAL,F
+1978,1978-04-06,Paysandu,Goytacaz,2,0,V,D,NORMAL,F
+1978,1978-04-08,América Mineiro,América-RN,5,1,V,D,NORMAL,B
+1978,1978-04-08,Náutico,Uberaba,2,0,V,D,NORMAL,B
+1978,1978-04-08,Corinthians,Santos,0,0,E,E,NORMAL,C
+1978,1978-04-08,Americano,Bangu,1,0,V,D,NORMAL,F
+1978,1978-04-09,Londrina,Grêmio,1,0,V,D,NORMAL,A
+1978,1978-04-09,Joinville,Coritiba,1,1,E,E,NORMAL,A
+1978,1978-04-09,Internacional,Juventude,4,1,V,D,NORMAL,A
+1978,1978-04-09,Figueirense,Chapecoense,1,0,V,D,NORMAL,A
+1978,1978-04-09,Athletico Paranaense,Colorado,1,0,V,D,NORMAL,A
+1978,1978-04-09,Santa Cruz,Cruzeiro,2,2,E,E,NORMAL,B
+1978,1978-04-09,Brasília,Comercial-MS,2,2,E,E,NORMAL,C
+1978,1978-04-09,Rio Branco-ES,Dom Bosco,0,3,D,V,NORMAL,C
+1978,1978-04-09,Vila Nova,Anapolina,1,0,V,D,NORMAL,C
+1978,1978-04-09,Desportiva Ferroviária,Operário-MS,1,0,V,D,NORMAL,C
+1978,1978-04-09,Volta Redonda,Botafogo,0,1,D,V,NORMAL,D
+1978,1978-04-09,Vasco,Ponte Preta,3,1,V,D,NORMAL,D
+1978,1978-04-09,Vitória,Guarani,0,0,E,E,NORMAL,D
+1978,1978-04-09,CSA,Bahia,0,2,D,V,NORMAL,D
+1978,1978-04-09,Itabuna,CRB,1,3,D,V,NORMAL,D
+1978,1978-04-09,Flamengo-PI,Ceará,0,1,D,V,NORMAL,E
+1978,1978-04-09,Fortaleza,Botafogo-SP,1,2,D,V,NORMAL,E
+1978,1978-04-09,Noroeste,Palmeiras,0,0,E,E,NORMAL,E
+1978,1978-04-09,Moto Club,América-SP,1,0,V,D,NORMAL,E
+1978,1978-04-09,Comercial,River-PI,3,0,V,D,NORMAL,E
+1978,1978-04-09,Remo,America-RJ,2,0,V,D,NORMAL,F
+1978,1978-04-09,Goytacaz,Flamengo,0,1,D,V,NORMAL,F
+1978,1978-04-09,Nacional-AM,Fluminense,0,2,D,V,NORMAL,F
+1978,1978-04-09,XV de Piracicaba,Portuguesa,0,2,D,V,NORMAL,F
+1978,1978-04-10,ABC,Villa Nova-MG,0,2,D,V,NORMAL,B
+1978,1978-04-12,Grêmio Maringá,Colorado,3,1,V,D,NORMAL,A
+1978,1978-04-12,Internacional,Chapecoense,2,0,V,D,NORMAL,A
+1978,1978-04-12,Athletico Paranaense,Grêmio,0,0,E,E,NORMAL,A
+1978,1978-04-12,Joinville,Londrina,1,1,E,E,NORMAL,A
+1978,1978-04-12,Uberlândia,Atlético Mineiro,0,1,D,V,NORMAL,B
+1978,1978-04-12,América-RN,Náutico,0,1,D,V,NORMAL,B
+1978,1978-04-12,América Mineiro,Santa Cruz,1,2,D,V,NORMAL,B
+1978,1978-04-12,Campinense,Cruzeiro,0,3,D,V,NORMAL,B
+1978,1978-04-12,Sport,Villa Nova-MG,0,1,D,V,NORMAL,B
+1978,1978-04-12,Goiás,Comercial-MS,1,0,V,D,NORMAL,C
+1978,1978-04-12,Operário-MS,Rio Branco-ES,3,0,V,D,NORMAL,C
+1978,1978-04-12,Vasco,Confiança,4,1,V,D,NORMAL,D
+1978,1978-04-12,Sergipe,Bahia,0,1,D,V,NORMAL,D
+1978,1978-04-12,CRB,Guarani,1,1,E,E,NORMAL,D
+1978,1978-04-12,Ponte Preta,Volta Redonda,3,0,V,D,NORMAL,D
+1978,1978-04-12,Flamengo-PI,Moto Club,0,0,E,E,NORMAL,E
+1978,1978-04-12,América-SP,São Paulo,1,0,V,D,NORMAL,E
+1978,1978-04-12,Ceará,Comercial,1,2,D,V,NORMAL,E
+1978,1978-04-12,Noroeste,River-PI,2,0,V,D,NORMAL,E
+1978,1978-04-12,Paysandu,Fluminense,1,2,D,V,NORMAL,F
+1978,1978-04-12,Portuguesa,Goytacaz,1,1,E,E,NORMAL,F
+1978,1978-04-12,Fast Clube,Americano,0,0,E,E,NORMAL,F
+1978,1978-04-13,ABC,Uberaba,1,1,E,E,NORMAL,B
+1978,1978-04-13,Fortaleza,Sampaio Corrêa,2,0,V,D,NORMAL,E
+1978,1978-04-15,América Mineiro,Campinense,2,2,E,E,NORMAL,B
+1978,1978-04-15,Palmeiras,Ceará,4,0,V,D,NORMAL,E
+1978,1978-04-16,Londrina,Grêmio Maringá,2,3,D,V,NORMAL,A
+1978,1978-04-16,Coritiba,Colorado,0,1,D,V,NORMAL,A
+1978,1978-04-16,Joinville,Grêmio,0,0,E,E,NORMAL,A
+1978,1978-04-16,Internacional,Athletico Paranaense,3,0,V,D,NORMAL,A
+1978,1978-04-16,Caxias,Brasil de Pelotas,1,0,V,D,NORMAL,A
+1978,1978-04-16,Chapecoense,Juventude,0,3,D,V,NORMAL,A
+1978,1978-04-16,Uberaba,Santa Cruz,0,1,D,V,NORMAL,B
+1978,1978-04-16,Náutico,Sport,1,0,V,D,NORMAL,B
+1978,1978-04-16,ABC,Cruzeiro,1,2,D,V,NORMAL,B
+1978,1978-04-16,Botafogo-PB,Villa Nova-MG,1,1,E,E,NORMAL,B
+1978,1978-04-16,Desportiva Ferroviária,Corinthians,0,1,D,V,NORMAL,C
+1978,1978-04-16,Comercial-MS,Vila Nova,0,0,E,E,NORMAL,C
+1978,1978-04-16,Brasília,Rio Branco-ES,1,0,V,D,NORMAL,C
+1978,1978-04-16,Anapolina,Goiás,0,2,D,V,NORMAL,C
+1978,1978-04-16,Dom Bosco,Mixto,1,1,E,E,NORMAL,C
+1978,1978-04-16,Ponte Preta,Botafogo,0,1,D,V,NORMAL,D
+1978,1978-04-16,CSA,CRB,1,3,D,V,NORMAL,D
+1978,1978-04-16,Bahia,Vasco,1,1,E,E,NORMAL,D
+1978,1978-04-16,Volta Redonda,Confiança,0,0,E,E,NORMAL,D
+1978,1978-04-16,Sergipe,Guarani,0,0,E,E,NORMAL,D
+1978,1978-04-16,América-SP,Botafogo-SP,1,0,V,D,NORMAL,E
+1978,1978-04-16,Moto Club,River-PI,0,0,E,E,NORMAL,E
+1978,1978-04-16,Flamengo-PI,Comercial,1,1,E,E,NORMAL,E
+1978,1978-04-16,Flamengo,America-RJ,2,3,D,V,NORMAL,F
+1978,1978-04-16,XV de Piracicaba,Goytacaz,0,0,E,E,NORMAL,F
+1978,1978-04-16,Bangu,Fluminense,0,1,D,V,NORMAL,F
+1978,1978-04-16,Remo,Americano,1,1,E,E,NORMAL,F
+1978,1978-04-16,Nacional-AM,Paysandu,0,2,D,V,NORMAL,F
+1978,1978-04-19,Brasil de Pelotas,Internacional,0,2,D,V,NORMAL,A
+1978,1978-04-19,Caxias,Athletico Paranaense,2,0,V,D,NORMAL,A
+1978,1978-04-19,Chapecoense,Grêmio,0,3,D,V,NORMAL,A
+1978,1978-04-19,Villa Nova-MG,Náutico,0,1,D,V,NORMAL,B
+1978,1978-04-19,Flamengo-PI,Noroeste,0,0,E,E,NORMAL,E
+1978,1978-04-19,Paysandu,XV de Piracicaba,1,1,E,E,NORMAL,F
+1978,1978-04-20,Colorado,Figueirense,2,0,V,D,NORMAL,A
+1978,1978-04-20,Joinville,Juventude,1,1,E,E,NORMAL,A
+1978,1978-04-20,Botafogo-PB,Santa Cruz,1,3,D,V,NORMAL,B
+1978,1978-04-20,Sport,América Mineiro,2,0,V,D,NORMAL,B
+1978,1978-04-20,Uberlândia,Campinense,2,0,V,D,NORMAL,B
+1978,1978-04-20,Brasília,Anapolina,1,0,V,D,NORMAL,C
+1978,1978-04-20,Desportiva Ferroviária,Dom Bosco,2,0,V,D,NORMAL,C
+1978,1978-04-20,Goiás,Rio Branco-ES,2,0,V,D,NORMAL,C
+1978,1978-04-20,Santos,Operário-MS,1,2,D,V,NORMAL,C
+1978,1978-04-20,Mixto,Vila Nova,2,0,V,D,NORMAL,C
+1978,1978-04-20,Sergipe,Volta Redonda,1,0,V,D,NORMAL,D
+1978,1978-04-20,Vitória,CSA,3,1,V,D,NORMAL,D
+1978,1978-04-20,Itabuna,Vasco,0,1,D,V,NORMAL,D
+1978,1978-04-20,Guarani,Confiança,5,0,V,D,NORMAL,D
+1978,1978-04-20,América-SP,Palmeiras,0,1,D,V,NORMAL,E
+1978,1978-04-20,River-PI,Fortaleza,1,0,V,D,NORMAL,E
+1978,1978-04-20,Sampaio Corrêa,Comercial,1,2,D,V,NORMAL,E
+1978,1978-04-20,Botafogo-SP,Ceará,1,2,D,V,NORMAL,E
+1978,1978-04-20,Nacional-AM,Portuguesa,1,3,D,V,NORMAL,F
+1978,1978-04-20,America-RJ,Goytacaz,1,1,E,E,NORMAL,F
+1978,1978-04-20,Americano,Flamengo,0,1,D,V,NORMAL,F
+1978,1978-04-22,Brasília,Mixto,1,2,D,V,NORMAL,C
+1978,1978-04-22,Remo,XV de Piracicaba,2,0,V,D,NORMAL,F
+1978,1978-04-23,Coritiba,Athletico Paranaense,1,0,V,D,NORMAL,A
+1978,1978-04-23,Londrina,Figueirense,2,1,V,D,NORMAL,A
+1978,1978-04-23,Grêmio Maringá,Joinville,1,1,E,E,NORMAL,A
+1978,1978-04-23,Internacional,Grêmio,2,3,D,V,NORMAL,A
+1978,1978-04-23,Caxias,Juventude,0,0,E,E,NORMAL,A
+1978,1978-04-23,Brasil de Pelotas,Colorado,2,0,V,D,NORMAL,A
+1978,1978-04-23,Uberlândia,Náutico,1,1,E,E,NORMAL,B
+1978,1978-04-23,Botafogo-PB,América Mineiro,1,0,V,D,NORMAL,B
+1978,1978-04-23,Uberaba,Campinense,1,1,E,E,NORMAL,B
+1978,1978-04-23,Atlético Mineiro,Cruzeiro,0,2,D,V,NORMAL,B
+1978,1978-04-23,América-RN,ABC,1,1,E,E,NORMAL,B
+1978,1978-04-23,Santa Cruz,Sport,1,0,V,D,NORMAL,B
+1978,1978-04-23,Corinthians,Dom Bosco,4,0,V,D,NORMAL,C
+1978,1978-04-23,Operário-MS,Comercial-MS,1,1,E,E,NORMAL,C
+1978,1978-04-23,Rio Branco-ES,Santos,2,2,E,E,NORMAL,C
+1978,1978-04-23,Vila Nova,Goiás,0,1,D,V,NORMAL,C
+1978,1978-04-23,Bahia,Vitória,0,1,D,V,NORMAL,D
+1978,1978-04-23,Vasco,Botafogo,0,0,E,E,NORMAL,D
+1978,1978-04-23,Sergipe,CSA,1,2,D,V,NORMAL,D
+1978,1978-04-23,Guarani,Ponte Preta,2,1,V,D,NORMAL,D
+1978,1978-04-23,Itabuna,Volta Redonda,1,1,E,E,NORMAL,D
+1978,1978-04-23,São Paulo,Palmeiras,0,0,E,E,NORMAL,E
+1978,1978-04-23,River-PI,Flamengo-PI,1,1,E,E,NORMAL,E
+1978,1978-04-23,Comercial,Botafogo-SP,1,1,E,E,NORMAL,E
+1978,1978-04-23,Sampaio Corrêa,Noroeste,1,0,V,D,NORMAL,E
+1978,1978-04-23,Ceará,Fortaleza,1,1,E,E,NORMAL,E
+1978,1978-04-23,Bangu,Flamengo,1,4,D,V,NORMAL,F
+1978,1978-04-23,Americano,America-RJ,0,0,E,E,NORMAL,F
+1978,1978-04-23,Nacional-AM,Fast Clube,0,2,D,V,NORMAL,F
+1978,1978-04-23,Paysandu,Portuguesa,0,0,E,E,NORMAL,F
+1978,1978-04-26,Athletico Paranaense,Joinville,0,2,D,V,NORMAL,A
+1978,1978-04-26,Grêmio Maringá,Coritiba,0,1,D,V,NORMAL,A
+1978,1978-04-26,Juventude,Colorado,2,0,V,D,NORMAL,A
+1978,1978-04-26,Chapecoense,Caxias,1,0,V,D,NORMAL,A
+1978,1978-04-26,ABC,América Mineiro,2,0,V,D,NORMAL,B
+1978,1978-04-26,Uberaba,Cruzeiro,1,3,D,V,NORMAL,B
+1978,1978-04-26,Atlético Mineiro,Náutico,2,0,V,D,NORMAL,B
+1978,1978-04-26,Botafogo-PB,Sport,1,3,D,V,NORMAL,B
+1978,1978-04-26,Operário-MS,Dom Bosco,2,1,V,D,NORMAL,C
+1978,1978-04-26,Santos,Desportiva Ferroviária,1,1,E,E,NORMAL,C
+1978,1978-04-26,Rio Branco-ES,Comercial-MS,0,1,D,V,NORMAL,C
+1978,1978-04-26,Goiás,Mixto,1,1,E,E,NORMAL,C
+1978,1978-04-26,Bahia,Volta Redonda,5,0,V,D,NORMAL,D
+1978,1978-04-26,CRB,Vitória,2,0,V,D,NORMAL,D
+1978,1978-04-26,Ceará,Noroeste,0,0,E,E,NORMAL,E
+1978,1978-04-26,Fast Clube,XV de Piracicaba,1,0,V,D,NORMAL,F
+1978,1978-04-27,Figueirense,Brasil de Pelotas,4,2,V,D,NORMAL,A
+1978,1978-04-27,Santa Cruz,Uberlândia,3,0,V,D,NORMAL,B
+1978,1978-04-27,Villa Nova-MG,Campinense,2,3,D,V,NORMAL,B
+1978,1978-04-27,Vila Nova,Brasília,0,0,E,E,NORMAL,C
+1978,1978-04-27,Confiança,Ponte Preta,1,2,D,V,NORMAL,D
+1978,1978-04-27,Palmeiras,Sampaio Corrêa,6,0,V,D,NORMAL,E
+1978,1978-04-27,Moto Club,Fortaleza,0,0,E,E,NORMAL,E
+1978,1978-04-27,Flamengo-PI,São Paulo,0,3,D,V,NORMAL,E
+1978,1978-04-27,Flamengo,Nacional-AM,2,1,V,D,NORMAL,F
+1978,1978-04-29,Náutico,América Mineiro,4,0,V,D,NORMAL,B
+1978,1978-04-29,Corinthians,Comercial-MS,2,0,V,D,NORMAL,C
+1978,1978-04-30,Grêmio,Coritiba,3,1,V,D,NORMAL,A
+1978,1978-04-30,Caxias,Internacional,2,0,V,D,NORMAL,A
+1978,1978-04-30,Joinville,Figueirense,1,0,V,D,NORMAL,A
+1978,1978-04-30,Londrina,Brasil de Pelotas,4,0,V,D,NORMAL,A
+1978,1978-04-30,Athletico Paranaense,Grêmio Maringá,3,1,V,D,NORMAL,A
+1978,1978-04-30,Sport,Atlético Mineiro,0,0,E,E,NORMAL,B
+1978,1978-04-30,América-RN,Santa Cruz,0,0,E,E,NORMAL,B
+1978,1978-04-30,Campinense,ABC,0,1,D,V,NORMAL,B
+1978,1978-04-30,Cruzeiro,Villa Nova-MG,1,0,V,D,NORMAL,B
+1978,1978-04-30,Operário-MS,Goiás,1,0,V,D,NORMAL,C
+1978,1978-04-30,Desportiva Ferroviária,Brasília,0,0,E,E,NORMAL,C
+1978,1978-04-30,Mixto,Anapolina,2,1,V,D,NORMAL,C
+1978,1978-04-30,Volta Redonda,Vasco,0,2,D,V,NORMAL,D
+1978,1978-04-30,CSA,Ponte Preta,1,2,D,V,NORMAL,D
+1978,1978-04-30,Vitória,Botafogo,0,3,D,V,NORMAL,D
+1978,1978-04-30,Guarani,Itabuna,7,0,V,D,NORMAL,D
+1978,1978-04-30,Confiança,Sergipe,1,1,E,E,NORMAL,D
+1978,1978-04-30,Palmeiras,Comercial,2,1,V,D,NORMAL,E
+1978,1978-04-30,Botafogo-SP,Sampaio Corrêa,4,1,V,D,NORMAL,E
+1978,1978-04-30,América-SP,Noroeste,2,0,V,D,NORMAL,E
+1978,1978-04-30,Ceará,São Paulo,2,1,V,D,NORMAL,E
+1978,1978-04-30,Goytacaz,Remo,0,2,D,V,NORMAL,F
+1978,1978-04-30,Flamengo,Portuguesa,2,1,V,D,NORMAL,F
+1978,1978-04-30,Paysandu,Fast Clube,0,0,E,E,NORMAL,F
+1978,1978-04-30,XV de Piracicaba,Nacional-AM,2,0,V,D,NORMAL,F
+1978,1978-04-30,Bangu,America-RJ,2,0,V,D,NORMAL,F
+1978,1978-05-01,Botafogo-PB,Uberlândia,6,3,V,D,NORMAL,B
+1978,1978-05-03,Athletico Paranaense,Brasil de Pelotas,0,0,E,E,NORMAL,A
+1978,1978-05-03,Juventude,Coritiba,0,0,E,E,NORMAL,A
+1978,1978-05-03,Chapecoense,Joinville,1,1,E,E,NORMAL,A
+1978,1978-05-03,América-RN,Uberlândia,4,2,V,D,NORMAL,B
+1978,1978-05-03,América Mineiro,Villa Nova-MG,0,1,D,V,NORMAL,B
+1978,1978-05-03,Campinense,Atlético Mineiro,0,3,D,V,NORMAL,B
+1978,1978-05-03,Comercial-MS,Anapolina,1,1,E,E,NORMAL,C
+1978,1978-05-03,Dom Bosco,Goiás,0,2,D,V,NORMAL,C
+1978,1978-05-03,Vila Nova,Desportiva Ferroviária,2,0,V,D,NORMAL,C
+1978,1978-05-03,Confiança,Botafogo,0,1,D,V,NORMAL,D
+1978,1978-05-03,Sampaio Corrêa,São Paulo,2,2,E,E,NORMAL,E
+1978,1978-05-03,Botafogo-SP,Noroeste,6,1,V,D,NORMAL,E
+1978,1978-05-03,America-RJ,Fast Clube,2,1,V,D,NORMAL,F
+1978,1978-05-03,Americano,Nacional-AM,0,0,E,E,NORMAL,F
+1978,1978-05-03,Portuguesa,Remo,1,0,V,D,NORMAL,F
+1978,1978-05-04,Colorado,Londrina,0,1,D,V,NORMAL,A
+1978,1978-05-04,Figueirense,Grêmio Maringá,1,1,E,E,NORMAL,A
+1978,1978-05-04,Uberaba,Botafogo-PB,1,3,D,V,NORMAL,B
+1978,1978-05-04,Náutico,ABC,4,2,V,D,NORMAL,B
+1978,1978-05-04,Corinthians,Rio Branco-ES,4,1,V,D,NORMAL,C
+1978,1978-05-04,Mixto,Operário-MS,0,0,E,E,NORMAL,C
+1978,1978-05-04,CSA,Itabuna,2,0,V,D,NORMAL,D
+1978,1978-05-04,Ceará,River-PI,2,0,V,D,NORMAL,E
+1978,1978-05-04,Moto Club,Palmeiras,1,0,V,D,NORMAL,E
+1978,1978-05-04,Flamengo,Paysandu,2,0,V,D,NORMAL,F
+1978,1978-05-04,Goytacaz,Fluminense,0,1,D,V,NORMAL,F
+1978,1978-05-06,América-RN,Atlético Mineiro,0,0,E,E,NORMAL,B
+1978,1978-05-06,Villa Nova-MG,Uberaba,1,0,V,D,NORMAL,B
+1978,1978-05-07,Chapecoense,Londrina,1,0,V,D,NORMAL,A
+1978,1978-05-07,Figueirense,Caxias,1,1,E,E,NORMAL,A
+1978,1978-05-07,Grêmio,Grêmio Maringá,3,2,V,D,NORMAL,A
+1978,1978-05-07,Brasil de Pelotas,Juventude,0,0,E,E,NORMAL,A
+1978,1978-05-07,Coritiba,Internacional,1,1,E,E,NORMAL,A
+1978,1978-05-07,Cruzeiro,Botafogo-PB,4,3,V,D,NORMAL,B
+1978,1978-05-07,Sport,Uberlândia,2,0,V,D,NORMAL,B
+1978,1978-05-07,Santa Cruz,Campinense,6,0,V,D,NORMAL,B
+1978,1978-05-07,Anapolina,Desportiva Ferroviária,2,1,V,D,NORMAL,C
+1978,1978-05-07,Vila Nova,Santos,1,3,D,V,NORMAL,C
+1978,1978-05-07,Operário-MS,Corinthians,0,0,E,E,NORMAL,C
+1978,1978-05-07,Dom Bosco,Comercial-MS,1,1,E,E,NORMAL,C
+1978,1978-05-07,Bahia,Itabuna,3,1,V,D,NORMAL,D
+1978,1978-05-07,Ponte Preta,CRB,2,2,E,E,NORMAL,D
+1978,1978-05-07,Vasco,Vitória,1,1,E,E,NORMAL,D
+1978,1978-05-07,CSA,Botafogo,0,0,E,E,NORMAL,D
+1978,1978-05-07,São Paulo,Botafogo-SP,6,2,V,D,NORMAL,E
+1978,1978-05-07,Comercial,América-SP,0,1,D,V,NORMAL,E
+1978,1978-05-07,Sampaio Corrêa,Flamengo-PI,1,0,V,D,NORMAL,E
+1978,1978-05-07,Fortaleza,Palmeiras,1,1,E,E,NORMAL,E
+1978,1978-05-07,Noroeste,Moto Club,2,0,V,D,NORMAL,E
+1978,1978-05-07,Portuguesa,Fast Clube,6,0,V,D,NORMAL,F
+1978,1978-05-07,XV de Piracicaba,Flamengo,1,2,D,V,NORMAL,F
+1978,1978-05-07,Fluminense,America-RJ,0,2,D,V,NORMAL,F
+1978,1978-05-07,Americano,Paysandu,2,0,V,D,NORMAL,F
+1978,1978-05-07,Bangu,Nacional-AM,0,1,D,V,NORMAL,F
+1978,1978-05-09,Campinense,Botafogo-PB,3,0,V,D,NORMAL,B
+1978,1978-05-09,Atlético Mineiro,América Mineiro,2,0,V,D,NORMAL,B
+1978,1978-05-09,Fluminense,Remo,1,0,V,D,NORMAL,F
+1978,1978-05-10,Coritiba,Chapecoense,2,1,V,D,NORMAL,A
+1978,1978-05-10,Náutico,Cruzeiro,2,1,V,D,NORMAL,B
+1978,1978-05-10,Sport,América-RN,2,0,V,D,NORMAL,B
+1978,1978-05-10,Mixto,Corinthians,0,0,E,E,NORMAL,C
+1978,1978-05-10,Rio Branco-ES,Vila Nova,1,4,D,V,NORMAL,C
+1978,1978-05-10,Brasília,Santos,2,1,V,D,NORMAL,C
+1978,1978-05-10,Botafogo,CRB,1,0,V,D,NORMAL,D
+1978,1978-05-10,Volta Redonda,Guarani,2,0,V,D,NORMAL,D
+1978,1978-05-10,Fortaleza,América-SP,1,0,V,D,NORMAL,E
+1978,1978-05-10,Noroeste,São Paulo,1,0,V,D,NORMAL,E
+1978,1978-05-10,River-PI,Palmeiras,1,3,D,V,NORMAL,E
+1978,1978-05-10,Portuguesa,Americano,0,0,E,E,NORMAL,F
+1978,1978-05-10,America-RJ,Paysandu,0,0,E,E,NORMAL,F
+1978,1978-05-10,Goytacaz,Bangu,3,0,V,D,NORMAL,F
+1978,1978-05-11,Grêmio,Colorado,2,0,V,D,NORMAL,A
+1978,1978-05-11,Caxias,Londrina,2,1,V,D,NORMAL,A
+1978,1978-05-11,Athletico Paranaense,Juventude,1,3,D,V,NORMAL,A
+1978,1978-05-11,Figueirense,Internacional,1,1,E,E,NORMAL,A
+1978,1978-05-11,Brasil de Pelotas,Grêmio Maringá,0,4,D,V,NORMAL,A
+1978,1978-05-11,Atlético Mineiro,Uberaba,0,0,E,E,NORMAL,B
+1978,1978-05-11,Uberlândia,ABC,0,1,D,V,NORMAL,B
+1978,1978-05-11,Comercial-MS,Desportiva Ferroviária,0,0,E,E,NORMAL,C
+1978,1978-05-11,Sergipe,Vasco,0,5,D,V,NORMAL,D
+1978,1978-05-11,Ponte Preta,Vitória,2,0,V,D,NORMAL,D
+1978,1978-05-11,CSA,Confiança,3,1,V,D,NORMAL,D
+1978,1978-05-11,Comercial,Moto Club,0,0,E,E,NORMAL,E
+1978,1978-05-11,Fluminense,Fast Clube,1,2,D,V,NORMAL,F
+1978,1978-05-14,Coritiba,Caxias,2,0,V,D,NORMAL,A
+1978,1978-05-14,Internacional,Londrina,5,2,V,D,NORMAL,A
+1978,1978-05-14,Juventude,Grêmio Maringá,1,0,V,D,NORMAL,A
+1978,1978-05-14,Brasil de Pelotas,Chapecoense,1,2,D,V,NORMAL,A
+1978,1978-05-14,Joinville,Colorado,0,1,D,V,NORMAL,A
+1978,1978-05-14,Atlético Mineiro,ABC,5,0,V,D,NORMAL,B
+1978,1978-05-14,América-RN,Cruzeiro,1,1,E,E,NORMAL,B
+1978,1978-05-14,Corinthians,Vila Nova,3,0,V,D,NORMAL,C
+1978,1978-05-14,Anapolina,Santos,1,1,E,E,NORMAL,C
+1978,1978-05-14,Goiás,Brasília,4,0,V,D,NORMAL,C
+1978,1978-05-14,Mixto,Desportiva Ferroviária,3,0,V,D,NORMAL,C
+1978,1978-05-14,CRB,Vasco,0,2,D,V,NORMAL,D
+1978,1978-05-14,Botafogo,Guarani,1,1,E,E,NORMAL,D
+1978,1978-05-14,Volta Redonda,Vitória,0,1,D,V,NORMAL,D
+1978,1978-05-14,Bahia,Confiança,1,0,V,D,NORMAL,D
+1978,1978-05-14,Itabuna,Sergipe,2,1,V,D,NORMAL,D
+1978,1978-05-14,São Paulo,Moto Club,2,0,V,D,NORMAL,E
+1978,1978-05-14,River-PI,América-SP,3,2,V,D,NORMAL,E
+1978,1978-05-14,Sampaio Corrêa,Ceará,1,1,E,E,NORMAL,E
+1978,1978-05-14,Fortaleza,Flamengo-PI,3,0,V,D,NORMAL,E
+1978,1978-05-14,Bangu,Paysandu,4,0,V,D,NORMAL,F
+1978,1978-05-14,Goytacaz,Fast Clube,1,0,V,D,NORMAL,F
+1978,1978-05-14,Remo,Nacional-AM,2,0,V,D,NORMAL,F
+1978,1978-05-14,XV de Piracicaba,Americano,1,1,E,E,NORMAL,F
+1978,1978-05-21,Cruzeiro,Atlético Mineiro,0,0,E,E,NORMAL,G
+1978,1978-05-21,Vitória,Mixto,2,1,V,D,NORMAL,G
+1978,1978-05-21,América-SP,Ponte Preta,0,1,D,V,NORMAL,G
+1978,1978-05-21,Fluminense,Santos,1,0,V,D,NORMAL,H
+1978,1978-05-21,Goiás,Bahia,3,0,V,D,NORMAL,H
+1978,1978-05-21,Santa Cruz,Náutico,1,0,V,D,NORMAL,H
+1978,1978-05-21,Corinthians,Flamengo,1,1,E,E,NORMAL,I
+1978,1978-05-21,Sport,Comercial,0,0,E,E,NORMAL,I
+1978,1978-05-21,Botafogo,America-RJ,2,0,V,D,NORMAL,I
+1978,1978-05-21,Botafogo-SP,Operário-MS,3,0,V,D,NORMAL,I
+1978,1978-05-21,Coritiba,Portuguesa,0,2,D,V,NORMAL,J
+1978,1978-05-21,Vasco,Villa Nova-MG,2,0,V,D,NORMAL,J
+1978,1978-05-21,Guarani,São Paulo,1,1,E,E,NORMAL,J
+1978,1978-05-21,Remo,Brasília,2,0,V,D,NORMAL,J
+1978,1978-05-21,Colorado,Grêmio Maringá,3,2,V,D,NORMAL,K
+1978,1978-05-21,Londrina,Athletico Paranaense,1,0,V,D,NORMAL,K
+1978,1978-05-21,ABC,América-RN,1,1,E,E,NORMAL,L
+1978,1978-05-21,Uberaba,Uberlândia,1,1,E,E,NORMAL,L
+1978,1978-05-21,Botafogo-PB,Campinense,4,0,V,D,NORMAL,L
+1978,1978-05-21,Desportiva Ferroviária,Vila Nova,2,0,V,D,NORMAL,M
+1978,1978-05-21,Dom Bosco,Anapolina,3,0,V,D,NORMAL,M
+1978,1978-05-21,CSA,CRB,0,0,E,E,NORMAL,N
+1978,1978-05-21,Confiança,Sergipe,2,1,V,D,NORMAL,N
+1978,1978-05-21,Volta Redonda,Itabuna,1,0,V,D,NORMAL,N
+1978,1978-05-21,River-PI,Flamengo-PI,0,1,D,V,NORMAL,O
+1978,1978-05-21,Fortaleza,Moto Club,2,1,V,D,NORMAL,O
+1978,1978-05-21,Noroeste,Sampaio Corrêa,2,0,V,D,NORMAL,O
+1978,1978-05-21,Fast Clube,Nacional-AM,1,0,V,D,NORMAL,P
+1978,1978-05-21,XV de Piracicaba,Paysandu,2,1,V,D,NORMAL,P
+1978,1978-05-21,Bangu,Americano,0,0,E,E,NORMAL,P
+1978,1978-05-24,Atlético Mineiro,América-SP,2,2,E,E,NORMAL,G
+1978,1978-05-24,Mixto,Cruzeiro,0,1,D,V,NORMAL,G
+1978,1978-05-24,Ceará,Náutico,1,1,E,E,NORMAL,H
+1978,1978-05-24,Joinville,Santa Cruz,0,0,E,E,NORMAL,H
+1978,1978-05-24,Goiás,Santos,0,0,E,E,NORMAL,H
+1978,1978-05-24,Corinthians,Botafogo-SP,1,0,V,D,NORMAL,I
+1978,1978-05-24,Flamengo,Sport,0,0,E,E,NORMAL,I
+1978,1978-05-24,America-RJ,Comercial,2,0,V,D,NORMAL,I
+1978,1978-05-24,Brasília,Guarani,0,3,D,V,NORMAL,J
+1978,1978-05-24,São Paulo,Coritiba,4,1,V,D,NORMAL,J
+1978,1978-05-24,Chapecoense,Grêmio Maringá,0,0,E,E,NORMAL,K
+1978,1978-05-24,Figueirense,Londrina,0,1,D,V,NORMAL,K
+1978,1978-05-24,Uberlândia,América-RN,2,0,V,D,NORMAL,L
+1978,1978-05-24,CRB,Confiança,1,0,V,D,NORMAL,N
+1978,1978-05-24,Itabuna,CSA,1,1,E,E,NORMAL,N
+1978,1978-05-24,River-PI,Noroeste,1,2,D,V,NORMAL,O
+1978,1978-05-25,Americano,Nacional-AM,4,0,V,D,NORMAL,P
+1978,1978-05-27,Villa Nova-MG,Portuguesa,2,1,V,D,NORMAL,J
+1978,1978-05-27,Athletico Paranaense,Colorado,0,1,D,V,NORMAL,K
+1978,1978-05-27,Uberaba,ABC,0,0,E,E,NORMAL,L
+1978,1978-05-27,Uberlândia,América Mineiro,0,1,D,V,NORMAL,L
+1978,1978-05-27,Paysandu,Americano,0,0,E,E,NORMAL,P
+1978,1978-05-28,Cruzeiro,Internacional,1,1,E,E,NORMAL,G
+1978,1978-05-28,Ponte Preta,Atlético Mineiro,0,0,E,E,NORMAL,G
+1978,1978-05-28,Bahia,Fluminense,1,1,E,E,NORMAL,H
+1978,1978-05-28,Grêmio,Santa Cruz,1,1,E,E,NORMAL,H
+1978,1978-05-28,Náutico,Santos,2,0,V,D,NORMAL,H
+1978,1978-05-28,Corinthians,America-RJ,0,1,D,V,NORMAL,I
+1978,1978-05-28,Flamengo,Botafogo,1,1,E,E,NORMAL,I
+1978,1978-05-28,Botafogo-SP,Sport,1,0,V,D,NORMAL,I
+1978,1978-05-28,Juventude,Operário-MS,1,3,D,V,NORMAL,I
+1978,1978-05-28,Brasília,Caxias,0,1,D,V,NORMAL,J
+1978,1978-05-28,Remo,Guarani,5,1,V,D,NORMAL,J
+1978,1978-05-28,Coritiba,Vasco,0,2,D,V,NORMAL,J
+1978,1978-05-28,Grêmio Maringá,Figueirense,2,0,V,D,NORMAL,K
+1978,1978-05-28,Brasil de Pelotas,Londrina,2,3,D,V,NORMAL,K
+1978,1978-05-28,América-RN,Campinense,2,2,E,E,NORMAL,L
+1978,1978-05-28,Desportiva Ferroviária,Rio Branco-ES,2,1,V,D,NORMAL,M
+1978,1978-05-28,Vila Nova,Anapolina,1,0,V,D,NORMAL,M
+1978,1978-05-28,Comercial-MS,Dom Bosco,3,1,V,D,NORMAL,M
+1978,1978-05-28,Volta Redonda,Sergipe,1,0,V,D,NORMAL,N
+1978,1978-05-28,Confiança,CSA,3,1,V,D,NORMAL,N
+1978,1978-05-28,CRB,Itabuna,1,0,V,D,NORMAL,N
+1978,1978-05-28,Fortaleza,Flamengo-PI,2,0,V,D,NORMAL,O
+1978,1978-05-28,Moto Club,Noroeste,1,0,V,D,NORMAL,O
+1978,1978-05-28,Bangu,Nacional-AM,1,0,V,D,NORMAL,P
+1978,1978-05-28,XV de Piracicaba,Fast Clube,3,0,V,D,NORMAL,P
+1978,1978-05-30,Flamengo,Juventude,2,0,V,D,NORMAL,I
+1978,1978-05-30,Operário-MS,Sport,1,3,D,V,NORMAL,I
+1978,1978-05-30,Botafogo-SP,America-RJ,3,1,V,D,NORMAL,I
+1978,1978-05-30,São Paulo,Villa Nova-MG,4,1,V,D,NORMAL,J
+1978,1978-05-30,Brasília,Portuguesa,1,2,D,V,NORMAL,J
+1978,1978-05-30,Vasco,Caxias,4,1,V,D,NORMAL,J
+1978,1978-05-30,América Mineiro,ABC,1,1,E,E,NORMAL,L
+1978,1978-05-30,Sergipe,Itabuna,0,2,D,V,NORMAL,N
+1978,1978-05-31,Internacional,Vitória,2,0,V,D,NORMAL,G
+1978,1978-05-31,Atlético Mineiro,Mixto,1,1,E,E,NORMAL,G
+1978,1978-05-31,Palmeiras,América-SP,1,0,V,D,NORMAL,G
+1978,1978-05-31,Ponte Preta,Goytacaz,1,1,E,E,NORMAL,G
+1978,1978-05-31,Santos,Santa Cruz,1,1,E,E,NORMAL,H
+1978,1978-05-31,Ceará,Grêmio,3,0,V,D,NORMAL,H
+1978,1978-05-31,Bahia,Náutico,1,0,V,D,NORMAL,H
+1978,1978-05-31,Brasil de Pelotas,Athletico Paranaense,2,0,V,D,NORMAL,K
+1978,1978-05-31,Chapecoense,Colorado,0,0,E,E,NORMAL,K
+1978,1978-05-31,CSA,Volta Redonda,3,1,V,D,NORMAL,N
+1978,1978-05-31,Moto Club,Flamengo-PI,0,1,D,V,NORMAL,O
+1978,1978-05-31,Americano,Fast Clube,1,0,V,D,NORMAL,P
+1978,1978-06-01,Fluminense,Joinville,1,1,E,E,NORMAL,H
+1978,1978-06-04,Palmeiras,Cruzeiro,1,1,E,E,NORMAL,G
+1978,1978-06-04,Internacional,Atlético Mineiro,2,1,V,D,NORMAL,G
+1978,1978-06-04,Goytacaz,Vitória,0,1,D,V,NORMAL,G
+1978,1978-06-04,América-SP,Mixto,5,0,V,D,NORMAL,G
+1978,1978-06-04,Goiás,Fluminense,2,1,V,D,NORMAL,H
+1978,1978-06-04,Náutico,Grêmio,1,1,E,E,NORMAL,H
+1978,1978-06-04,Joinville,Ceará,1,0,V,D,NORMAL,H
+1978,1978-06-04,Bahia,Santos,3,0,V,D,NORMAL,H
+1978,1978-06-04,Juventude,America-RJ,1,1,E,E,NORMAL,I
+1978,1978-06-04,Operário-MS,Flamengo,1,0,V,D,NORMAL,I
+1978,1978-06-04,Botafogo-SP,Botafogo,2,2,E,E,NORMAL,I
+1978,1978-06-04,Coritiba,Villa Nova-MG,2,0,V,D,NORMAL,J
+1978,1978-06-04,Guarani,Caxias,3,0,V,D,NORMAL,J
+1978,1978-06-04,Vasco,São Paulo,1,2,D,V,NORMAL,J
+1978,1978-06-04,Remo,Portuguesa,3,3,E,E,NORMAL,J
+1978,1978-06-04,Londrina,Colorado,0,0,E,E,NORMAL,K
+1978,1978-06-04,Brasil de Pelotas,Figueirense,0,2,D,V,NORMAL,K
+1978,1978-06-04,Grêmio Maringá,Athletico Paranaense,2,1,V,D,NORMAL,K
+1978,1978-06-04,América Mineiro,Uberaba,1,1,E,E,NORMAL,L
+1978,1978-06-04,ABC,Campinense,2,0,V,D,NORMAL,L
+1978,1978-06-04,Uberlândia,Botafogo-PB,0,0,E,E,NORMAL,L
+1978,1978-06-04,Rio Branco-ES,Dom Bosco,0,0,E,E,NORMAL,M
+1978,1978-06-04,Confiança,Volta Redonda,0,3,D,V,NORMAL,N
+1978,1978-06-04,Fortaleza,River-PI,1,0,V,D,NORMAL,O
+1978,1978-06-04,Sampaio Corrêa,Moto Club,0,0,E,E,NORMAL,O
+1978,1978-06-04,Fast Clube,Paysandu,2,2,E,E,NORMAL,P
+1978,1978-06-04,XV de Piracicaba,Bangu,0,1,D,V,NORMAL,P
+1978,1978-06-07,Vitória,Ponte Preta,1,1,E,E,NORMAL,G
+1978,1978-06-07,Santa Cruz,Bahia,2,1,V,D,NORMAL,H
+1978,1978-06-07,Santos,Ceará,2,1,V,D,NORMAL,H
+1978,1978-06-07,Joinville,Goiás,0,2,D,V,NORMAL,H
+1978,1978-06-07,Comercial,Corinthians,0,1,D,V,NORMAL,I
+1978,1978-06-07,Flamengo,Botafogo-SP,2,0,V,D,NORMAL,I
+1978,1978-06-07,São Paulo,Brasília,0,0,E,E,NORMAL,J
+1978,1978-06-08,Internacional,Goytacaz,2,1,V,D,NORMAL,G
+1978,1978-06-08,Palmeiras,Mixto,1,0,V,D,NORMAL,G
+1978,1978-06-08,América-SP,Cruzeiro,0,1,D,V,NORMAL,G
+1978,1978-06-08,Sport,Juventude,4,1,V,D,NORMAL,I
+1978,1978-06-08,Caxias,Villa Nova-MG,4,0,V,D,NORMAL,J
+1978,1978-06-08,Vasco,Guarani,2,2,E,E,NORMAL,J
+1978,1978-06-08,América Mineiro,Botafogo-PB,0,2,D,V,NORMAL,L
+1978,1978-06-08,Dom Bosco,Vila Nova,2,0,V,D,NORMAL,M
+1978,1978-06-10,Ponte Preta,Internacional,1,2,D,V,NORMAL,G
+1978,1978-06-10,Santa Cruz,Fluminense,1,0,V,D,NORMAL,H
+1978,1978-06-10,Bahia,Ceará,2,1,V,D,NORMAL,H
+1978,1978-06-10,Santos,Joinville,3,0,V,D,NORMAL,H
+1978,1978-06-10,Operário-MS,America-RJ,1,1,E,E,NORMAL,I
+1978,1978-06-10,Comercial,Flamengo,1,1,E,E,NORMAL,I
+1978,1978-06-10,Botafogo,Corinthians,2,1,V,D,NORMAL,I
+1978,1978-06-10,Caxias,Coritiba,0,0,E,E,NORMAL,J
+1978,1978-06-10,Remo,Vasco,0,5,D,V,NORMAL,J
+1978,1978-06-10,São Paulo,Portuguesa,1,2,D,V,NORMAL,J
+1978,1978-06-10,Colorado,Brasil de Pelotas,3,0,V,D,NORMAL,K
+1978,1978-06-11,Atlético Mineiro,Palmeiras,0,1,D,V,NORMAL,G
+1978,1978-06-11,Goytacaz,América-SP,1,1,E,E,NORMAL,G
+1978,1978-06-11,Grêmio,Goiás,4,1,V,D,NORMAL,H
+1978,1978-06-13,Goytacaz,Atlético Mineiro,1,1,E,E,NORMAL,G
+1978,1978-06-13,Vitória,Cruzeiro,0,1,D,V,NORMAL,G
+1978,1978-06-13,Ponte Preta,Palmeiras,2,0,V,D,NORMAL,G
+1978,1978-06-13,Mixto,Internacional,1,2,D,V,NORMAL,G
+1978,1978-06-13,Ceará,Fluminense,0,1,D,V,NORMAL,H
+1978,1978-06-13,Grêmio,Bahia,0,0,E,E,NORMAL,H
+1978,1978-06-13,Náutico,Joinville,4,1,V,D,NORMAL,H
+1978,1978-06-13,Botafogo,Operário-MS,0,0,E,E,NORMAL,I
+1978,1978-06-13,Comercial,Juventude,2,2,E,E,NORMAL,I
+1978,1978-06-13,Portuguesa,Guarani,2,0,V,D,NORMAL,J
+1978,1978-06-13,Villa Nova-MG,Remo,0,2,D,V,NORMAL,J
+1978,1978-06-13,Figueirense,Chapecoense,0,1,D,V,NORMAL,K
+1978,1978-06-13,Botafogo-PB,América-RN,1,0,V,D,NORMAL,L
+1978,1978-06-13,Campinense,Uberaba,1,1,E,E,NORMAL,L
+1978,1978-06-13,Vila Nova,Comercial-MS,2,2,E,E,NORMAL,M
+1978,1978-06-13,Sergipe,CRB,0,2,D,V,NORMAL,N
+1978,1978-06-13,Flamengo-PI,Sampaio Corrêa,2,0,V,D,NORMAL,O
+1978,1978-06-13,Paysandu,Bangu,2,2,E,E,NORMAL,P
+1978,1978-06-13,Nacional-AM,XV de Piracicaba,1,1,E,E,NORMAL,P
+1978,1978-06-17,Internacional,Palmeiras,0,0,E,E,NORMAL,G
+1978,1978-06-17,Santos,Grêmio,0,0,E,E,NORMAL,H
+1978,1978-06-17,Joinville,Bahia,2,2,E,E,NORMAL,H
+1978,1978-06-17,Ceará,Goiás,3,2,V,D,NORMAL,H
+1978,1978-06-17,Botafogo-SP,Comercial,1,0,V,D,NORMAL,I
+1978,1978-06-17,Flamengo,America-RJ,0,2,D,V,NORMAL,I
+1978,1978-06-17,Sport,Botafogo,1,2,D,V,NORMAL,I
+1978,1978-06-17,Caxias,São Paulo,0,0,E,E,NORMAL,J
+1978,1978-06-17,Coritiba,Remo,2,0,V,D,NORMAL,J
+1978,1978-06-17,Vasco,Brasília,2,0,V,D,NORMAL,J
+1978,1978-06-17,Londrina,Grêmio Maringá,3,1,V,D,NORMAL,K
+1978,1978-06-17,Figueirense,Colorado,3,1,V,D,NORMAL,K
+1978,1978-06-17,Botafogo-PB,Uberaba,1,0,V,D,NORMAL,L
+1978,1978-06-17,ABC,Uberlândia,1,0,V,D,NORMAL,L
+1978,1978-06-17,Comercial-MS,Rio Branco-ES,1,2,D,V,NORMAL,M
+1978,1978-06-17,Desportiva Ferroviária,Anapolina,0,2,D,V,NORMAL,M
+1978,1978-06-17,Itabuna,Confiança,3,0,V,D,NORMAL,N
+1978,1978-06-17,CSA,Sergipe,3,1,V,D,NORMAL,N
+1978,1978-06-17,Volta Redonda,CRB,2,1,V,D,NORMAL,N
+1978,1978-06-17,Sampaio Corrêa,River-PI,2,0,V,D,NORMAL,O
+1978,1978-06-17,Noroeste,Fortaleza,2,1,V,D,NORMAL,O
+1978,1978-06-17,Paysandu,Nacional-AM,4,0,V,D,NORMAL,P
+1978,1978-06-17,Fast Clube,Bangu,1,5,D,V,NORMAL,P
+1978,1978-06-17,Americano,XV de Piracicaba,3,1,V,D,NORMAL,P
+1978,1978-06-18,Mixto,Ponte Preta,2,1,V,D,NORMAL,G
+1978,1978-06-18,Cruzeiro,Goytacaz,3,1,V,D,NORMAL,G
+1978,1978-06-18,América-SP,Vitória,0,0,E,E,NORMAL,G
+1978,1978-06-18,Corinthians,Juventude,2,0,V,D,NORMAL,I
+1978,1978-06-18,Athletico Paranaense,Chapecoense,1,1,E,E,NORMAL,K
+1978,1978-06-20,Mixto,Goytacaz,1,2,D,V,NORMAL,G
+1978,1978-06-20,Grêmio,Joinville,2,1,V,D,NORMAL,H
+1978,1978-06-20,Fluminense,Náutico,2,1,V,D,NORMAL,H
+1978,1978-06-20,Santa Cruz,Goiás,1,0,V,D,NORMAL,H
+1978,1978-06-20,Juventude,Botafogo-SP,1,0,V,D,NORMAL,I
+1978,1978-06-20,America-RJ,Sport,1,1,E,E,NORMAL,I
+1978,1978-06-20,Villa Nova-MG,Brasília,3,0,V,D,NORMAL,J
+1978,1978-06-20,Guarani,Coritiba,0,0,E,E,NORMAL,J
+1978,1978-06-20,Portuguesa,Caxias,2,1,V,D,NORMAL,J
+1978,1978-06-20,São Paulo,Remo,1,0,V,D,NORMAL,J
+1978,1978-06-20,Chapecoense,Brasil de Pelotas,1,1,E,E,NORMAL,K
+1978,1978-06-20,Campinense,Uberlândia,0,0,E,E,NORMAL,L
+1978,1978-06-20,América-RN,América Mineiro,1,1,E,E,NORMAL,L
+1978,1978-06-20,Comercial-MS,Desportiva Ferroviária,1,0,V,D,NORMAL,M
+1978,1978-06-20,Anapolina,Rio Branco-ES,2,2,E,E,NORMAL,M
+1978,1978-06-21,Palmeiras,Vitória,0,0,E,E,NORMAL,G
+1978,1978-06-21,Corinthians,Operário-MS,1,0,V,D,NORMAL,I
+1978,1978-06-22,Botafogo,Comercial,3,0,V,D,NORMAL,I
+1978,1978-06-22,ABC,Botafogo-PB,2,2,E,E,NORMAL,L
+1978,1978-06-22,Campinense,América Mineiro,1,0,V,D,NORMAL,L
+1978,1978-06-22,Uberaba,América-RN,3,2,V,D,NORMAL,L
+1978,1978-06-23,Dom Bosco,Desportiva Ferroviária,2,1,V,D,NORMAL,M
+1978,1978-06-24,Internacional,América-SP,2,1,V,D,NORMAL,G
+1978,1978-06-24,Goytacaz,Palmeiras,2,1,V,D,NORMAL,G
+1978,1978-06-24,Vitória,Atlético Mineiro,0,2,D,V,NORMAL,G
+1978,1978-06-24,Cruzeiro,Ponte Preta,1,0,V,D,NORMAL,G
+1978,1978-06-24,Santa Cruz,Ceará,4,2,V,D,NORMAL,H
+1978,1978-06-24,Fluminense,Grêmio,0,0,E,E,NORMAL,H
+1978,1978-06-24,Goiás,Náutico,3,0,V,D,NORMAL,H
+1978,1978-06-24,Juventude,Botafogo,0,3,D,V,NORMAL,I
+1978,1978-06-24,Operário-MS,Comercial,1,0,V,D,NORMAL,I
+1978,1978-06-24,Sport,Corinthians,3,0,V,D,NORMAL,I
+1978,1978-06-24,Portuguesa,Vasco,1,1,E,E,NORMAL,J
+1978,1978-06-24,Guarani,Villa Nova-MG,2,0,V,D,NORMAL,J
+1978,1978-06-24,Brasília,Coritiba,0,3,D,V,NORMAL,J
+1978,1978-06-24,Caxias,Remo,4,0,V,D,NORMAL,J
+1978,1978-06-24,Athletico Paranaense,Figueirense,1,1,E,E,NORMAL,K
+1978,1978-06-24,Londrina,Chapecoense,3,1,V,D,NORMAL,K
+1978,1978-06-24,Grêmio Maringá,Brasil de Pelotas,4,0,V,D,NORMAL,K
+1978,1978-06-24,Anapolina,Comercial-MS,0,0,E,E,NORMAL,M
+1978,1978-06-24,Vila Nova,Rio Branco-ES,2,1,V,D,NORMAL,M
+1978,1978-06-24,River-PI,Moto Club,4,2,V,D,NORMAL,O
+1978,1978-06-24,Sampaio Corrêa,Fortaleza,1,1,E,E,NORMAL,O
+1978,1978-06-24,Noroeste,Flamengo-PI,2,1,V,D,NORMAL,O
+1978,1978-07-01,Fluminense,Portuguesa,0,0,E,E,NORMAL,R
+1978,1978-07-03,Internacional,Guarani,0,3,D,V,NORMAL,Q
+1978,1978-07-03,Londrina,Botafogo-SP,2,1,V,D,NORMAL,Q
+1978,1978-07-03,Santos,Goytacaz,4,0,V,D,NORMAL,Q
+1978,1978-07-03,Botafogo-PB,Goiás,0,1,D,V,NORMAL,Q
+1978,1978-07-03,Volta Redonda,Ponte Preta,0,0,E,E,NORMAL,R
+1978,1978-07-03,Dom Bosco,Operário-MS,0,2,D,V,NORMAL,R
+1978,1978-07-03,Santa Cruz,Sport,3,0,V,D,NORMAL,R
+1978,1978-07-03,São Paulo,Grêmio,0,1,D,V,NORMAL,S
+1978,1978-07-03,Palmeiras,America-RJ,3,0,V,D,NORMAL,S
+1978,1978-07-03,Noroeste,Coritiba,0,1,D,V,NORMAL,S
+1978,1978-07-03,Flamengo,Botafogo,1,1,E,E,NORMAL,S
+1978,1978-07-03,Cruzeiro,Vasco,2,2,E,E,NORMAL,T
+1978,1978-07-03,Grêmio Maringá,Vitória,3,0,V,D,NORMAL,T
+1978,1978-07-03,Caxias,Americano,3,0,V,D,NORMAL,T
+1978,1978-07-03,Bahia,Corinthians,1,0,V,D,NORMAL,T
+1978,1978-07-05,Botafogo-PB,Goytacaz,2,1,V,D,NORMAL,Q
+1978,1978-07-05,Botafogo-SP,Santos,2,1,V,D,NORMAL,Q
+1978,1978-07-05,Goiás,Guarani,1,1,E,E,NORMAL,Q
+1978,1978-07-05,Operário-MS,Volta Redonda,1,0,V,D,NORMAL,R
+1978,1978-07-05,Ponte Preta,Fluminense,0,0,E,E,NORMAL,R
+1978,1978-07-05,Flamengo,Palmeiras,1,1,E,E,NORMAL,S
+1978,1978-07-05,Coritiba,Grêmio,0,1,D,V,NORMAL,S
+1978,1978-07-05,São Paulo,Noroeste,2,2,E,E,NORMAL,S
+1978,1978-07-05,Vitória,Vasco,0,2,D,V,NORMAL,T
+1978,1978-07-05,Cruzeiro,Caxias,2,1,V,D,NORMAL,T
+1978,1978-07-05,Grêmio Maringá,Corinthians,1,2,D,V,NORMAL,T
+1978,1978-07-05,Bahia,Americano,5,0,V,D,NORMAL,T
+1978,1978-07-06,Londrina,Internacional,1,2,D,V,NORMAL,Q
+1978,1978-07-06,Dom Bosco,Sport,2,3,D,V,NORMAL,R
+1978,1978-07-06,Portuguesa,Santa Cruz,1,1,E,E,NORMAL,R
+1978,1978-07-06,Botafogo,America-RJ,3,1,V,D,NORMAL,S
+1978,1978-07-08,Guarani,Santos,2,1,V,D,NORMAL,Q
+1978,1978-07-08,Corinthians,Caxias,0,0,E,E,NORMAL,T
+1978,1978-07-09,Goytacaz,Internacional,0,3,D,V,NORMAL,Q
+1978,1978-07-09,Londrina,Botafogo-PB,1,2,D,V,NORMAL,Q
+1978,1978-07-09,Botafogo-SP,Goiás,4,0,V,D,NORMAL,Q
+1978,1978-07-09,Ponte Preta,Sport,0,0,E,E,NORMAL,R
+1978,1978-07-09,Volta Redonda,Dom Bosco,1,1,E,E,NORMAL,R
+1978,1978-07-09,Operário-MS,Portuguesa,1,0,V,D,NORMAL,R
+1978,1978-07-09,Fluminense,Santa Cruz,1,1,E,E,NORMAL,R
+1978,1978-07-09,Coritiba,Botafogo,0,0,E,E,NORMAL,S
+1978,1978-07-09,São Paulo,Palmeiras,1,1,E,E,NORMAL,S
+1978,1978-07-09,Noroeste,America-RJ,0,2,D,V,NORMAL,S
+1978,1978-07-09,Grêmio,Flamengo,5,2,V,D,NORMAL,S
+1978,1978-07-09,Vasco,Americano,3,0,V,D,NORMAL,T
+1978,1978-07-09,Cruzeiro,Grêmio Maringá,0,0,E,E,NORMAL,T
+1978,1978-07-09,Bahia,Vitória,4,0,V,D,NORMAL,T
+1978,1978-07-13,Goiás,Internacional,0,1,D,V,NORMAL,Q
+1978,1978-07-13,Goytacaz,Botafogo-SP,0,2,D,V,NORMAL,Q
+1978,1978-07-13,Guarani,Botafogo-PB,1,0,V,D,NORMAL,Q
+1978,1978-07-13,Santos,Londrina,0,0,E,E,NORMAL,Q
+1978,1978-07-13,Portuguesa,Ponte Preta,0,0,E,E,NORMAL,R
+1978,1978-07-13,Santa Cruz,Dom Bosco,2,1,V,D,NORMAL,R
+1978,1978-07-13,Fluminense,Volta Redonda,3,0,V,D,NORMAL,R
+1978,1978-07-13,Sport,Operário-MS,0,0,E,E,NORMAL,R
+1978,1978-07-13,Coritiba,Palmeiras,0,0,E,E,NORMAL,S
+1978,1978-07-13,Grêmio,America-RJ,1,0,V,D,NORMAL,S
+1978,1978-07-13,São Paulo,Flamengo,0,0,E,E,NORMAL,S
+1978,1978-07-13,Noroeste,Botafogo,1,1,E,E,NORMAL,S
+1978,1978-07-13,Cruzeiro,Vitória,0,0,E,E,NORMAL,T
+1978,1978-07-13,Caxias,Grêmio Maringá,3,1,V,D,NORMAL,T
+1978,1978-07-13,Vasco,Bahia,1,0,V,D,NORMAL,T
+1978,1978-07-13,Corinthians,Americano,1,0,V,D,NORMAL,T
+1978,1978-07-15,Grêmio,Noroeste,6,0,V,D,NORMAL,S
+1978,1978-07-15,America-RJ,São Paulo,2,1,V,D,NORMAL,S
+1978,1978-07-15,Flamengo,Coritiba,3,1,V,D,NORMAL,S
+1978,1978-07-15,Vitória,Caxias,0,2,D,V,NORMAL,T
+1978,1978-07-15,Portuguesa,Dom Bosco,2,0,V,D,NORMAL,R
+1978,1978-07-16,Internacional,Santos,1,0,V,D,NORMAL,Q
+1978,1978-07-16,Botafogo-SP,Botafogo-PB,2,1,V,D,NORMAL,Q
+1978,1978-07-16,Goiás,Londrina,5,0,V,D,NORMAL,Q
+1978,1978-07-16,Guarani,Goytacaz,3,0,V,D,NORMAL,Q
+1978,1978-07-16,Volta Redonda,Sport,0,3,D,V,NORMAL,R
+1978,1978-07-16,Fluminense,Operário-MS,2,1,V,D,NORMAL,R
+1978,1978-07-16,Santa Cruz,Ponte Preta,2,2,E,E,NORMAL,R
+1978,1978-07-16,Palmeiras,Botafogo,1,2,D,V,NORMAL,S
+1978,1978-07-16,Bahia,Cruzeiro,1,0,V,D,NORMAL,T
+1978,1978-07-16,Vasco,Corinthians,3,1,V,D,NORMAL,T
+1978,1978-07-16,Americano,Grêmio Maringá,2,0,V,D,NORMAL,T
+1978,1978-07-19,Santos,Goiás,3,0,V,D,NORMAL,Q
+1978,1978-07-19,Internacional,Botafogo-PB,3,0,V,D,NORMAL,Q
+1978,1978-07-19,Goytacaz,Londrina,2,0,V,D,NORMAL,Q
+1978,1978-07-19,Guarani,Botafogo-SP,1,0,V,D,NORMAL,Q
+1978,1978-07-19,Sport,Portuguesa,2,1,V,D,NORMAL,R
+1978,1978-07-19,Palmeiras,Noroeste,4,0,V,D,NORMAL,S
+1978,1978-07-19,America-RJ,Flamengo,1,0,V,D,NORMAL,S
+1978,1978-07-19,Coritiba,São Paulo,2,1,V,D,NORMAL,S
+1978,1978-07-19,Caxias,Vasco,1,1,E,E,NORMAL,T
+1978,1978-07-20,Santa Cruz,Volta Redonda,5,1,V,D,NORMAL,R
+1978,1978-07-20,Ponte Preta,Operário-MS,3,0,V,D,NORMAL,R
+1978,1978-07-20,Dom Bosco,Fluminense,2,1,V,D,NORMAL,R
+1978,1978-07-20,Botafogo,Grêmio,0,3,D,V,NORMAL,S
+1978,1978-07-20,Grêmio Maringá,Bahia,1,2,D,V,NORMAL,T
+1978,1978-07-20,Corinthians,Vitória,2,2,E,E,NORMAL,T
+1978,1978-07-20,Americano,Cruzeiro,0,0,E,E,NORMAL,T
+1978,1978-07-23,Goiás,Goytacaz,2,0,V,D,NORMAL,Q
+1978,1978-07-23,Londrina,Guarani,0,1,D,V,NORMAL,Q
+1978,1978-07-23,Botafogo-PB,Santos,1,1,E,E,NORMAL,Q
+1978,1978-07-23,Internacional,Botafogo-SP,2,1,V,D,NORMAL,Q
+1978,1978-07-23,Portuguesa,Volta Redonda,2,1,V,D,NORMAL,R
+1978,1978-07-23,Sport,Fluminense,1,0,V,D,NORMAL,R
+1978,1978-07-23,Operário-MS,Santa Cruz,3,3,E,E,NORMAL,R
+1978,1978-07-23,Ponte Preta,Dom Bosco,3,0,V,D,NORMAL,R
+1978,1978-07-23,America-RJ,Coritiba,1,1,E,E,NORMAL,S
+1978,1978-07-23,Botafogo,São Paulo,2,1,V,D,NORMAL,S
+1978,1978-07-23,Noroeste,Flamengo,1,0,V,D,NORMAL,S
+1978,1978-07-23,Grêmio,Palmeiras,1,1,E,E,NORMAL,S
+1978,1978-07-23,Corinthians,Cruzeiro,1,1,E,E,NORMAL,T
+1978,1978-07-23,Vasco,Grêmio Maringá,1,1,E,E,NORMAL,T
+1978,1978-07-23,Caxias,Bahia,1,1,E,E,NORMAL,T
+1978,1978-07-23,Americano,Vitória,1,0,V,D,NORMAL,T
+1978,1978-07-26,Internacional,Santa Cruz,1,0,V,D,NORMAL,QF
+1978,1978-07-26,Palmeiras,Bahia,2,1,V,D,NORMAL,QF
+1978,1978-07-27,Vasco,Grêmio,1,1,E,E,NORMAL,QF
+1978,1978-07-27,Sport,Guarani,0,2,D,V,NORMAL,QF
+1978,1978-07-30,Santa Cruz,Internacional,1,2,D,V,NORMAL,QF
+1978,1978-07-30,Bahia,Palmeiras,1,1,E,E,NORMAL,QF
+1978,1978-07-30,Grêmio,Vasco,1,1,E,E,NORMAL,QF
+1978,1978-07-30,Guarani,Sport,4,0,V,D,NORMAL,QF
+1978,1978-08-02,Guarani,Vasco,2,0,V,D,NORMAL,SF
+1978,1978-08-03,Palmeiras,Internacional,2,0,V,D,NORMAL,SF
+1978,1978-08-06,Vasco,Guarani,1,2,D,V,NORMAL,SF
+1978,1978-08-06,Internacional,Palmeiras,1,1,E,E,NORMAL,SF
+1978,1978-08-10,Palmeiras,Guarani,0,1,D,V,NORMAL,F
+1978,1978-08-13,Guarani,Palmeiras,1,0,V,D,NORMAL,F

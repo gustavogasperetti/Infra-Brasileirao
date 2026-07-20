@@ -1,0 +1,85 @@
+# ============================================================
+# Brasileirão Analytics — Pipeline ETL agendada
+# ============================================================
+# Roda 3x na semana (seg/qui/sáb às 06:00 UTC = 03:00 BRT):
+#   1. Extract   → re-raspa apenas o ano corrente (Ogol)
+#   2. Transform → limpa/padroniza a camada Silver
+#   3. Gold      → consolida tudo na One Big Table
+#   4. Load      → publica a OBT no Google Sheets (overwrite)
+#   5. Commita os CSVs atualizados de volta ao repositório
+#
+# Secrets necessários (Settings → Secrets and variables → Actions):
+#   OGOL_ACCOUNTS       → "email1:senha1,email2:senha2"
+#   SPREADSHEET_ID      → ID da planilha de destino
+#   GOOGLE_CREDENTIALS  → conteúdo JSON do credentials.json
+# ============================================================
+
+name: ETL Brasileirão → Google Sheets
+
+on:
+  schedule:
+    - cron: "0 6 * * 1,4,6"   # seg, qui e sáb às 06:00 UTC
+  workflow_dispatch:           # permite disparo manual
+    inputs:
+      anos_extracao:
+        description: 'Anos a extrair ("atual", "todos" ou "2024,2025")'
+        required: false
+        default: "atual"
+
+concurrency:
+  group: etl-pipeline
+  cancel-in-progress: false
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    permissions:
+      contents: write   # necessário para commitar os CSVs atualizados
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar dependências
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: "Extract — Camada Bronze (ano corrente)"
+        env:
+          OGOL_ACCOUNTS: ${{ secrets.OGOL_ACCOUNTS }}
+          ANOS_EXTRACAO: ${{ github.event.inputs.anos_extracao || 'atual' }}
+        run: python etl/extract.py
+
+      - name: "Transform — Camada Silver"
+        run: python etl/transform.py
+
+      - name: "Gold — One Big Table"
+        run: python etl/gold.py
+
+      - name: "Load — Google Sheets"
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+          LOAD_MODO: overwrite
+        run: python etl/load.py
+
+      - name: Commitar dados atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança nos dados — nada a commitar."
+          else
+            git commit -m "chore(data): atualização automática via GitHub Actions ($(date -u +%Y-%m-%d))"
+            git push
+          fi
