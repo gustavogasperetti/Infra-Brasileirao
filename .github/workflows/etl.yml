@@ -12,6 +12,11 @@
 #   OGOL_ACCOUNTS       → "email1:senha1,email2:senha2"
 #   SPREADSHEET_ID      → ID da planilha de destino
 #   GOOGLE_CREDENTIALS  → conteúdo JSON do credentials.json
+#
+# Configuração opcional (Secret OU Variable — precedência:
+# input manual > Secret > Variable > padrão):
+#   ANOS_EXTRACAO       → "atual" (padrão), "todos" ou "2025,2026"
+#   LOAD_MODO           → "overwrite" (padrão) ou "append"
 # ============================================================
 
 name: ETL Brasileirão → Google Sheets
@@ -53,10 +58,10 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
-      - name: "Extract — Camada Bronze (ano corrente)"
+      - name: "Extract — Camada Bronze"
         env:
           OGOL_ACCOUNTS: ${{ secrets.OGOL_ACCOUNTS }}
-          ANOS_EXTRACAO: ${{ github.event.inputs.anos_extracao || 'atual' }}
+          ANOS_EXTRACAO: ${{ github.event.inputs.anos_extracao || secrets.ANOS_EXTRACAO || vars.ANOS_EXTRACAO || 'atual' }}
         run: python etl/extract.py
 
       - name: "Transform — Camada Silver"
@@ -69,8 +74,16 @@ jobs:
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
-          LOAD_MODO: overwrite
+          LOAD_MODO: ${{ secrets.LOAD_MODO || vars.LOAD_MODO || 'overwrite' }}
         run: python etl/load.py
+
+      - name: Publicar artefatos de debug (screenshots/HTML do login)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-playwright
+          path: debug/
+          if-no-files-found: ignore
 
       - name: Commitar dados atualizados
         run: |

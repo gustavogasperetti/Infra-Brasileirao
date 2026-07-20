@@ -42,6 +42,9 @@ secrets.json
 .env
 .flaskenv
 
+# --- Artefatos de debug do scraping (screenshots/HTML) ---
+debug/
+
 # --- Configurações de IDE e SO ---
 .vscode/
 .idea/

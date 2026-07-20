@@ -20,6 +20,7 @@ Versão : 5.0.0
 """
 
 import os
+import sys
 import time
 import logging
 from pathlib import Path
@@ -48,8 +49,22 @@ YEAR_DELAY: float = 2.0        # pausa extra entre anos
 MAX_EMPTY_STREAK: int = 3      # páginas vazias consecutivas para parar
 
 BRONZE_DIR = Path(__file__).resolve().parents[1] / "data" / "bronze"
+DEBUG_DIR = Path(__file__).resolve().parents[1] / "debug"
 TABLE_CLASS = "zztable stats"
 PAGE_PARAMS = "?fase_in=0&equipa=0&estado=&filtro=&op=calendario&page={page}"
+
+# Seletores de banners de consentimento/cookies que podem cobrir o modal
+# de login (aparecem principalmente em IPs de datacenter, como o do CI)
+CONSENT_SELECTORS = [
+    "#didomi-notice-agree-button",                 # Didomi
+    "#onetrust-accept-btn-handler",                # OneTrust
+    ".fc-button.fc-cta-consent",                   # Google Funding Choices
+    "button:has-text('Aceitar')",
+    "button:has-text('ACEITO')",
+    "button:has-text('Concordo')",
+    "button:has-text('Accept')",
+    "button:has-text('AGREE')",
+]
 
 # Textos que indicam limite de visualizações atingido
 LIMIT_PHRASES = [
@@ -62,6 +77,36 @@ LIMIT_PHRASES = [
 # ---------------------------------------------------------------------------
 # Autenticação
 # ---------------------------------------------------------------------------
+
+def _fechar_banners(page: Page) -> None:
+    """
+    Fecha banners de consentimento/cookies que possam estar cobrindo o
+    modal de login. Cada seletor é tentado com timeout curto e falha
+    silenciosamente se não existir.
+    """
+    for sel in CONSENT_SELECTORS:
+        try:
+            page.click(sel, timeout=1_500)
+            logger.info(f"  Banner de consentimento fechado ({sel})")
+            page.wait_for_timeout(500)
+        except Exception:
+            continue
+
+
+def _dump_debug(page: Page, tag: str) -> None:
+    """
+    Salva screenshot + HTML da página atual em ./debug para diagnóstico
+    (no GitHub Actions a pasta é publicada como artifact em caso de falha).
+    """
+    try:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        tag = "".join(c if c.isalnum() else "_" for c in tag)
+        page.screenshot(path=str(DEBUG_DIR / f"{tag}.png"), full_page=True)
+        (DEBUG_DIR / f"{tag}.html").write_text(page.content(), encoding="utf-8")
+        logger.info(f"  🧪 Debug salvo em {DEBUG_DIR / tag}.png/.html")
+    except Exception as e:
+        logger.warning(f"  Falha ao salvar debug: {e}")
+
 
 def _do_login(page: Page, email: str, password: str) -> bool:
     """
@@ -78,12 +123,21 @@ def _do_login(page: Page, email: str, password: str) -> bool:
         # Aguarda o JS carregar o modal de login automaticamente
         page.wait_for_timeout(4_000)
 
+        # Fecha banners de cookies/consentimento que cobrem o modal
+        # (comuns quando o acesso vem de IPs de datacenter, como no CI)
+        _fechar_banners(page)
+
         # Aguarda o campo de e-mail do modal (XPath exato do formulário)
         logger.info("Aguardando modal de login ...")
         XPATH_EMAIL = "xpath=//*[@id='zz-login-form']/div[2]/label/input"
         XPATH_SENHA = "xpath=//*[@id='zz-login-form']/div[3]/label/input"
 
-        page.wait_for_selector(XPATH_EMAIL, state="visible", timeout=20_000)
+        try:
+            page.wait_for_selector(XPATH_EMAIL, state="visible", timeout=20_000)
+        except PWTimeout:
+            # Última tentativa: algum banner pode ter aparecido tarde
+            _fechar_banners(page)
+            page.wait_for_selector(XPATH_EMAIL, state="visible", timeout=10_000)
         page.fill(XPATH_EMAIL, email)
         logger.info(f"Email preenchido: {email}")
 
@@ -113,13 +167,16 @@ def _do_login(page: Page, email: str, password: str) -> bool:
             return True
 
         logger.error(f"Login falhou para: {email}")
+        _dump_debug(page, f"login_falhou_{email}")
         return False
 
     except PWTimeout as e:
         logger.error(f"Timeout durante login com {email}: {e}")
+        _dump_debug(page, f"login_timeout_{email}")
         return False
     except Exception as e:
         logger.error(f"Erro inesperado durante login com {email}: {e}")
+        _dump_debug(page, f"login_erro_{email}")
         return False
 
 
@@ -393,7 +450,10 @@ def main() -> None:
     current_account_idx = 0
 
     with sync_playwright() as pw:
-        browser = pw.chromium.launch(headless=True)
+        browser = pw.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
         context = browser.new_context(
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -409,7 +469,9 @@ def main() -> None:
         if current_account_idx == -1:
             logger.error("Abortando: não foi possível autenticar em nenhuma conta.")
             browser.close()
-            return
+            # Exit code != 0 para o CI interromper a pipeline em vez de
+            # seguir para transform/gold/load com dados desatualizados
+            sys.exit(1)
 
         # ── Loop por todos os anos ─────────────────────────────────────────
         i = 0
@@ -470,6 +532,12 @@ def main() -> None:
     logger.info(f"Arquivos salvos em         : {BRONZE_DIR}")
     logger.info("=" * 60)
     logger.info("Extração finalizada.")
+
+    # Nenhum ano extraído com sucesso = falha da pipeline (evita que o
+    # Load sobrescreva a planilha sem os dados novos)
+    if anos_para_processar and not anos_ok:
+        logger.error("Nenhum ano foi extraído com sucesso — abortando com erro.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

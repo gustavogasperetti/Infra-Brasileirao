@@ -154,14 +154,32 @@ def preparar_valores(df: pd.DataFrame) -> list[list]:
 # Escrita no Google Sheets
 # ===================================================================
 
+def _ultimo_id_na_planilha(ws: gspread.Worksheet) -> int:
+    """
+    Retorna o maior id_partida já presente na aba (coluna A).
+    Retorna 0 se a aba estiver vazia ou sem dados numéricos.
+    """
+    coluna_ids = ws.col_values(1)  # coluna A = id_partida
+    for valor in reversed(coluna_ids):
+        v = str(valor).strip()
+        if v.isdigit():
+            return int(v)
+    return 0
+
+
 def carregar_para_sheets(df: pd.DataFrame, modo: str = "overwrite") -> None:
     """
     Publica o DataFrame final no Google Sheets.
 
     Parâmetros:
       df   : DataFrame processado (One Big Table)
-      modo : 'overwrite' (limpa e regrava tudo — padrão) ou
-             'append' (acrescenta linhas ao final, sem cabeçalho)
+      modo : 'overwrite' (limpa e regrava tudo — padrão, idempotente) ou
+             'append' (incremental: envia apenas as linhas com id_partida
+             maior que o último já presente na aba)
+
+    Nota sobre 'append': correções em partidas já publicadas (placar
+    ajustado, jogo remarcado) NÃO são propagadas — para reespelhar a OBT
+    por completo, use 'overwrite'.
     """
     if modo not in {"overwrite", "append"}:
         raise ValueError(f"Modo inválido: '{modo}'. Use 'overwrite' ou 'append'.")
@@ -172,10 +190,12 @@ def carregar_para_sheets(df: pd.DataFrame, modo: str = "overwrite") -> None:
     ws = conectar_worksheet(creds)
 
     header = df.columns.tolist()
-    valores = preparar_valores(df)
+    logger.info(f"⚙️  Modo de escrita: {modo}")
 
     if modo == "overwrite":
-        logger.info(f"🗑️  Modo overwrite — limpando a aba '{ws.title}' ...")
+        valores = preparar_valores(df)
+
+        logger.info(f"🗑️  Limpando a aba '{ws.title}' ...")
         ws.clear()
 
         # Redimensiona a grade para o tamanho exato dos dados (+1 do header)
@@ -194,15 +214,35 @@ def carregar_para_sheets(df: pd.DataFrame, modo: str = "overwrite") -> None:
             )
             logger.info(f"   ... linhas {inicio + 1} a {inicio + len(chunk)} enviadas")
 
-    else:  # append
-        logger.info(f"⬆️  Modo append — acrescentando {len(valores)} linhas ...")
+    else:  # append incremental
+        ultimo_id = _ultimo_id_na_planilha(ws)
+
+        if ultimo_id == 0:
+            # Aba vazia: grava o cabeçalho e faz a carga completa
+            logger.info("   Aba vazia — gravando cabeçalho + carga completa")
+            ws.clear()
+            ws.update(values=[header], range_name="A1")
+            df_novos = df
+        else:
+            df_novos = df[df["id_partida"] > ultimo_id]
+            logger.info(
+                f"   Último id_partida na planilha: {ultimo_id} — "
+                f"{len(df_novos)} linha(s) nova(s) de {len(df)} na OBT"
+            )
+
+        if df_novos.empty:
+            logger.info("✅ Nada a acrescentar — planilha já está em dia.")
+            return
+
+        valores = preparar_valores(df_novos)
+        logger.info(f"⬆️  Acrescentando {len(valores)} linhas ...")
         for inicio in range(0, len(valores), CHUNK_ROWS):
             chunk = valores[inicio: inicio + CHUNK_ROWS]
             ws.append_rows(chunk, value_input_option="RAW")
             logger.info(f"   ... linhas {inicio + 1} a {inicio + len(chunk)} enviadas")
 
     elapsed = time.time() - t0
-    logger.info(f"✅ Carga concluída em {elapsed:.1f}s — {len(valores)} linhas na aba '{ws.title}'")
+    logger.info(f"✅ Carga concluída em {elapsed:.1f}s — modo '{modo}', aba '{ws.title}'")
 
 
 # ===================================================================
