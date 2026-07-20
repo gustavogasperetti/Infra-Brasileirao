@@ -8,10 +8,12 @@ Alvo   : Todos os anos mapeados em etl/config.py
 Saída  : data/bronze/jogos_{ano}.csv  (um arquivo por ano)
 
 Fluxo:
-  1. Playwright abre Chromium headless e faz login com a 1ª conta da lista
-  2. O mesmo contexto autenticado navega em todas as URLs de calendário
-  3. Ao detectar mensagem de limite de visualizações, troca automaticamente
-     para a próxima conta da lista e retoma do mesmo ano/página
+  1. Playwright abre Chromium headless e navega DIRETO nas URLs de
+     calendário, sem login (o volume por execução é baixo — normalmente
+     apenas o ano corrente)
+  2. Ao detectar limite de visualizações ou bloqueio, faz login com a
+     1ª conta da lista e retoma do mesmo ano
+  3. Se o limite estourar logado, troca para a próxima conta da lista
   4. HTML de cada página é passado para BeautifulSoup para extração
   5. Resultado salvo em CSV por ano
 
@@ -339,6 +341,16 @@ def scrape_year(page: Page, base_url: str, ano: int) -> list[dict]:
         soup = BeautifulSoup(html, "html.parser")
         table = soup.find("table", class_=TABLE_CLASS)
         if not table:
+            if pg == 1:
+                # Todo ano tem jogos na página 1: ausência da tabela logo
+                # de cara indica bloqueio/limite não capturado pelas frases
+                # conhecidas — aciona o fallback de login
+                logger.warning(
+                    f"Tabela ausente já na página 1 do ano {ano} — "
+                    "possível bloqueio ou limite. Acionando fallback de login."
+                )
+                _dump_debug(page, f"sem_tabela_{ano}_pg1")
+                raise AccountLimitError(f"Sem tabela na página 1 do ano {ano}")
             logger.info("Tabela de jogos não encontrada — fim da paginação detectado.")
             break
 
@@ -464,14 +476,13 @@ def main() -> None:
         )
         page = context.new_page()
 
-        # ── Login inicial ──────────────────────────────────────────────────
-        current_account_idx = login_with_fallback(page, current_account_idx)
-        if current_account_idx == -1:
-            logger.error("Abortando: não foi possível autenticar em nenhuma conta.")
-            browser.close()
-            # Exit code != 0 para o CI interromper a pipeline em vez de
-            # seguir para transform/gold/load com dados desatualizados
-            sys.exit(1)
+        # ── Estratégia: navegação anônima primeiro ─────────────────────────
+        # O volume de páginas por execução é baixo (normalmente apenas o
+        # ano corrente, 3x/semana), então navegamos sem login. O login com
+        # fallback de contas só é acionado se o site indicar limite de
+        # visualizações ou bloqueio.
+        current_account_idx = -1  # -1 = navegando sem login (anônimo)
+        logger.info("Navegação anônima (sem login). Login será usado apenas como fallback.")
 
         # ── Loop por todos os anos ─────────────────────────────────────────
         i = 0
@@ -500,24 +511,31 @@ def main() -> None:
                 time.sleep(YEAR_DELAY)
 
             except AccountLimitError:
-                # ── Troca de conta ─────────────────────────────────────────
-                next_idx = current_account_idx + 1
+                # ── Fallback de autenticação ───────────────────────────────
+                if current_account_idx == -1:
+                    # Estava anônimo: primeira providência é logar
+                    logger.info("Limite/bloqueio na navegação anônima — tentando login...")
+                    current_account_idx = login_with_fallback(page, 0)
+                else:
+                    # Já estava logado: troca para a próxima conta
+                    next_idx = current_account_idx + 1
 
-                if next_idx >= len(valid_accounts):
-                    logger.error("Limite atingido e não há mais contas disponíveis.")
+                    if next_idx >= len(valid_accounts):
+                        logger.error("Limite atingido e não há mais contas disponíveis.")
+                        logger.error(f"Anos restantes não processados: {[a for a, _ in anos_para_processar[i:]]}")
+                        break
+
+                    logger.info(f"Trocando para a conta [{next_idx + 1}/{len(valid_accounts)}]...")
+                    logout(page)
+                    current_account_idx = login_with_fallback(page, next_idx)
+
+                if current_account_idx == -1:
+                    logger.error("Não foi possível autenticar em nenhuma conta. Encerrando extração.")
                     logger.error(f"Anos restantes não processados: {[a for a, _ in anos_para_processar[i:]]}")
                     break
 
-                logger.info(f"Trocando para a conta [{next_idx + 1}/{len(valid_accounts)}]...")
-                logout(page)
-
-                current_account_idx = login_with_fallback(page, next_idx)
-                if current_account_idx == -1:
-                    logger.error("Todas as contas esgotadas. Encerrando extração.")
-                    break
-
-                logger.info(f"Retomando do ano {ano} com a nova conta.")
-                # NÃO incrementa i — retenta o mesmo ano com a nova conta
+                logger.info(f"Retomando do ano {ano} autenticado.")
+                # NÃO incrementa i — retenta o mesmo ano
 
         browser.close()
 

@@ -34,7 +34,7 @@ O dicionário de dados completo da OBT está em [`data/gold/dicionario_dados_gol
 ## 📤 Carga (Load) — Google Sheets
 O `etl/load.py` publica a OBT diretamente na planilha do Google Sheets (aba `partidas`):
 * **Autenticação:** Service Account do Google Cloud. Em produção, o conteúdo do `credentials.json` é injetado via Secret (`GOOGLE_CREDENTIALS`); em desenvolvimento, o arquivo local `credentials.json` (ignorado pelo git) é usado como fallback.
-* **Modos:** `overwrite` (padrão — limpa e regrava, idempotente) ou `append` (via `LOAD_MODO`).
+* **Modos** (via `LOAD_MODO`): `overwrite` (padrão — limpa e regrava, idempotente) ou `append` (upsert incremental — casa OBT × planilha pela chave natural `ano + Mandante + Visitante + Fase`, atualiza in-place as linhas que mudaram, como jogos futuros que ganharam placar ou adiamentos, e acrescenta apenas partidas inéditas).
 * **Performance:** upload em chunks de 5.000 linhas para respeitar os limites da API.
 
 ## ⚙️ Orquestração — GitHub Actions

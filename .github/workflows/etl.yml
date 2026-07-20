@@ -16,7 +16,9 @@
 # Configuração opcional (Secret OU Variable — precedência:
 # input manual > Secret > Variable > padrão):
 #   ANOS_EXTRACAO       → "atual" (padrão), "todos" ou "2025,2026"
-#   LOAD_MODO           → "overwrite" (padrão) ou "append"
+#   LOAD_MODO           → "overwrite" (padrão: limpa e regrava) ou
+#                         "append" (upsert: atualiza linhas modificadas
+#                         e acrescenta apenas partidas inéditas)
 # ============================================================
 
 name: ETL Brasileirão → Google Sheets

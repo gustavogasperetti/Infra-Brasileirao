@@ -16,8 +16,11 @@ Autenticação (Service Account):
 Estratégia de escrita:
   - overwrite (padrão): limpa a aba e regrava tudo — idempotente, a
     planilha sempre espelha exatamente a OBT gerada pela pipeline.
-  - append: acrescenta linhas ao final (sem cabeçalho), para cargas
-    incrementais.
+  - append (upsert incremental): compara a OBT com o conteúdo atual da
+    aba usando a chave natural (ano_campeonato, Mandante, Visitante,
+    Fase). Linhas modificadas (ex.: jogo futuro que ganhou placar,
+    adiamento, correção) são ATUALIZADAS in-place; partidas inéditas
+    são acrescentadas ao final; o restante não é tocado.
   - Upload em chunks para respeitar os limites de payload da API.
 
 Uso:
@@ -31,6 +34,7 @@ import json
 import logging
 import os
 import time
+from collections import defaultdict, deque
 from pathlib import Path
 
 import gspread
@@ -61,6 +65,13 @@ SCOPES = [
 ]
 
 CHUNK_ROWS = 5_000  # linhas por requisição de escrita
+
+# Chave natural de uma partida — estável mesmo com adiamentos (a rodada/
+# fase não muda; o id_partida muda, pois é regenerado pela ordem das datas)
+KEY_COLS = ["ano_campeonato", "Mandante", "Visitante", "Fase"]
+
+# Acima deste nº de linhas modificadas, regravar tudo é mais eficiente
+MAX_UPDATES_UPSERT = 2_000
 
 
 # ===================================================================
@@ -151,20 +162,167 @@ def preparar_valores(df: pd.DataFrame) -> list[list]:
 
 
 # ===================================================================
+# Diff OBT × Planilha (upsert)
+# ===================================================================
+
+def _normalizar_linha(linha: list, n_cols: int) -> list[str]:
+    """
+    Normaliza uma linha para comparação: tudo vira string sem espaços nas
+    pontas, com padding de células vazias até n_cols (o Sheets omite
+    células vazias no fim da linha).
+    """
+    linha = list(linha) + [""] * (n_cols - len(linha))
+    return [str(c).strip() for c in linha[:n_cols]]
+
+
+def calcular_diff(
+    dados_sheet: list[list],
+    valores_obt: list[list],
+    header: list[str],
+) -> tuple[list[tuple[int, list]], list[list], int, int]:
+    """
+    Compara o conteúdo atual da planilha com a OBT usando a chave natural
+    (KEY_COLS). Partidas com a mesma chave que aparecem mais de uma vez
+    (ex.: finais de ida e volta antigas) são pareadas na ordem em que
+    ocorrem.
+
+    Parâmetros:
+      dados_sheet : linhas de dados da planilha (SEM o cabeçalho)
+      valores_obt : linhas da OBT já serializadas (preparar_valores)
+      header      : lista de colunas da OBT
+
+    Retorna:
+      atualizacoes : [(nº da linha no Sheets, valores novos), ...]
+      novas        : linhas da OBT sem correspondência na planilha
+      inalteradas  : contagem de linhas idênticas
+      orfas        : linhas da planilha sem correspondência na OBT
+    """
+    idxs_chave = [header.index(c) for c in KEY_COLS]
+    n_cols = len(header)
+
+    def chave(linha_norm: list[str]) -> tuple:
+        return tuple(linha_norm[i] for i in idxs_chave)
+
+    # Indexa a planilha: chave → fila de (nº da linha, valores normalizados)
+    existentes: dict[tuple, deque] = defaultdict(deque)
+    for n, linha in enumerate(dados_sheet, start=2):  # linha 1 = cabeçalho
+        norm = _normalizar_linha(linha, n_cols)
+        existentes[chave(norm)].append((n, norm))
+
+    atualizacoes: list[tuple[int, list]] = []
+    novas: list[list] = []
+    inalteradas = 0
+
+    for row in valores_obt:
+        norm = _normalizar_linha(row, n_cols)
+        fila = existentes.get(chave(norm))
+        if fila:
+            n_linha, atual = fila.popleft()
+            if atual != norm:
+                atualizacoes.append((n_linha, row))
+            else:
+                inalteradas += 1
+        else:
+            novas.append(row)
+
+    orfas = sum(len(fila) for fila in existentes.values())
+    return atualizacoes, novas, inalteradas, orfas
+
+
+# ===================================================================
 # Escrita no Google Sheets
 # ===================================================================
 
-def _ultimo_id_na_planilha(ws: gspread.Worksheet) -> int:
+def _regravar_tudo(ws: gspread.Worksheet, header: list[str], valores: list[list]) -> None:
+    """Limpa a aba e regrava cabeçalho + todos os dados em chunks."""
+    logger.info(f"🗑️  Limpando a aba '{ws.title}' ...")
+    ws.clear()
+
+    # Redimensiona a grade para o tamanho exato dos dados (+1 do header)
+    ws.resize(rows=len(valores) + 1, cols=len(header))
+
+    logger.info(f"⬆️  Enviando {len(valores)} linhas em chunks de {CHUNK_ROWS} ...")
+    ws.update(values=[header], range_name="A1")
+
+    for inicio in range(0, len(valores), CHUNK_ROWS):
+        chunk = valores[inicio: inicio + CHUNK_ROWS]
+        primeira_linha = inicio + 2  # +1 do header, +1 pois Sheets é 1-indexed
+        ws.update(
+            values=chunk,
+            range_name=f"A{primeira_linha}",
+            value_input_option="RAW",
+        )
+        logger.info(f"   ... linhas {inicio + 1} a {inicio + len(chunk)} enviadas")
+
+
+def _upsert(ws: gspread.Worksheet, header: list[str], valores: list[list]) -> None:
     """
-    Retorna o maior id_partida já presente na aba (coluna A).
-    Retorna 0 se a aba estiver vazia ou sem dados numéricos.
+    Sincroniza a aba com a OBT sem regravar tudo:
+      - linhas modificadas (placar novo, adiamento, correção) → update in-place
+      - partidas inéditas → append ao final
+      - linhas idênticas → não são tocadas
     """
-    coluna_ids = ws.col_values(1)  # coluna A = id_partida
-    for valor in reversed(coluna_ids):
-        v = str(valor).strip()
-        if v.isdigit():
-            return int(v)
-    return 0
+    dados = ws.get_all_values()
+
+    # Aba vazia → carga completa
+    if len(dados) <= 1:
+        logger.info("   Aba vazia — realizando carga completa")
+        _regravar_tudo(ws, header, valores)
+        return
+
+    # Cabeçalho divergente → o esquema mudou, upsert não é confiável
+    sheet_header = [str(h).strip() for h in dados[0]]
+    if sheet_header != header:
+        logger.warning(
+            "   ⚠ Cabeçalho da planilha difere da OBT (esquema mudou) — "
+            "regravando tudo."
+        )
+        _regravar_tudo(ws, header, valores)
+        return
+
+    atualizacoes, novas, inalteradas, orfas = calcular_diff(dados[1:], valores, header)
+
+    logger.info(
+        f"   Diff: {inalteradas} inalteradas | {len(atualizacoes)} modificadas | "
+        f"{len(novas)} novas | {orfas} órfãs na planilha"
+    )
+
+    if orfas:
+        logger.warning(
+            f"   ⚠ {orfas} linha(s) na planilha sem correspondência na OBT "
+            "(não foram tocadas). Rode com LOAD_MODO=overwrite para limpar."
+        )
+
+    # Mudança em massa (ex.: ids deslocados por reordenação) → regravar
+    # tudo custa menos requisições do que milhares de updates pontuais
+    if len(atualizacoes) > MAX_UPDATES_UPSERT:
+        logger.info(
+            f"   {len(atualizacoes)} linhas modificadas (> {MAX_UPDATES_UPSERT}) — "
+            "regravando tudo por eficiência."
+        )
+        _regravar_tudo(ws, header, valores)
+        return
+
+    if not atualizacoes and not novas:
+        logger.info("✅ Planilha já está em dia — nada a fazer.")
+        return
+
+    if atualizacoes:
+        logger.info(f"🔁 Atualizando {len(atualizacoes)} linha(s) modificada(s) ...")
+        payload = [
+            {"range": f"A{n_linha}", "values": [row]}
+            for n_linha, row in atualizacoes
+        ]
+        # values.batchUpdate aceita várias faixas por chamada
+        for inicio in range(0, len(payload), 500):
+            ws.batch_update(payload[inicio: inicio + 500], value_input_option="RAW")
+            logger.info(f"   ... {min(inicio + 500, len(payload))}/{len(payload)} updates enviados")
+
+    if novas:
+        logger.info(f"➕ Acrescentando {len(novas)} linha(s) nova(s) ...")
+        for inicio in range(0, len(novas), CHUNK_ROWS):
+            ws.append_rows(novas[inicio: inicio + CHUNK_ROWS], value_input_option="RAW")
+            logger.info(f"   ... linhas {inicio + 1} a {min(inicio + CHUNK_ROWS, len(novas))} enviadas")
 
 
 def carregar_para_sheets(df: pd.DataFrame, modo: str = "overwrite") -> None:
@@ -173,13 +331,12 @@ def carregar_para_sheets(df: pd.DataFrame, modo: str = "overwrite") -> None:
 
     Parâmetros:
       df   : DataFrame processado (One Big Table)
-      modo : 'overwrite' (limpa e regrava tudo — padrão, idempotente) ou
-             'append' (incremental: envia apenas as linhas com id_partida
-             maior que o último já presente na aba)
-
-    Nota sobre 'append': correções em partidas já publicadas (placar
-    ajustado, jogo remarcado) NÃO são propagadas — para reespelhar a OBT
-    por completo, use 'overwrite'.
+      modo : 'overwrite' — limpa e regrava tudo (idempotente), ou
+             'append'    — upsert incremental: atualiza in-place as linhas
+                           que mudaram (jogo que ganhou placar, adiamento,
+                           correção) e acrescenta apenas partidas inéditas,
+                           casando OBT × planilha pela chave natural
+                           (ano_campeonato, Mandante, Visitante, Fase).
     """
     if modo not in {"overwrite", "append"}:
         raise ValueError(f"Modo inválido: '{modo}'. Use 'overwrite' ou 'append'.")
@@ -190,56 +347,13 @@ def carregar_para_sheets(df: pd.DataFrame, modo: str = "overwrite") -> None:
     ws = conectar_worksheet(creds)
 
     header = df.columns.tolist()
+    valores = preparar_valores(df)
     logger.info(f"⚙️  Modo de escrita: {modo}")
 
     if modo == "overwrite":
-        valores = preparar_valores(df)
-
-        logger.info(f"🗑️  Limpando a aba '{ws.title}' ...")
-        ws.clear()
-
-        # Redimensiona a grade para o tamanho exato dos dados (+1 do header)
-        ws.resize(rows=len(valores) + 1, cols=len(header))
-
-        logger.info(f"⬆️  Enviando {len(valores)} linhas em chunks de {CHUNK_ROWS} ...")
-        ws.update(values=[header], range_name="A1")
-
-        for inicio in range(0, len(valores), CHUNK_ROWS):
-            chunk = valores[inicio: inicio + CHUNK_ROWS]
-            primeira_linha = inicio + 2  # +1 do header, +1 pois Sheets é 1-indexed
-            ws.update(
-                values=chunk,
-                range_name=f"A{primeira_linha}",
-                value_input_option="RAW",
-            )
-            logger.info(f"   ... linhas {inicio + 1} a {inicio + len(chunk)} enviadas")
-
-    else:  # append incremental
-        ultimo_id = _ultimo_id_na_planilha(ws)
-
-        if ultimo_id == 0:
-            # Aba vazia: grava o cabeçalho e faz a carga completa
-            logger.info("   Aba vazia — gravando cabeçalho + carga completa")
-            ws.clear()
-            ws.update(values=[header], range_name="A1")
-            df_novos = df
-        else:
-            df_novos = df[df["id_partida"] > ultimo_id]
-            logger.info(
-                f"   Último id_partida na planilha: {ultimo_id} — "
-                f"{len(df_novos)} linha(s) nova(s) de {len(df)} na OBT"
-            )
-
-        if df_novos.empty:
-            logger.info("✅ Nada a acrescentar — planilha já está em dia.")
-            return
-
-        valores = preparar_valores(df_novos)
-        logger.info(f"⬆️  Acrescentando {len(valores)} linhas ...")
-        for inicio in range(0, len(valores), CHUNK_ROWS):
-            chunk = valores[inicio: inicio + CHUNK_ROWS]
-            ws.append_rows(chunk, value_input_option="RAW")
-            logger.info(f"   ... linhas {inicio + 1} a {inicio + len(chunk)} enviadas")
+        _regravar_tudo(ws, header, valores)
+    else:
+        _upsert(ws, header, valores)
 
     elapsed = time.time() - t0
     logger.info(f"✅ Carga concluída em {elapsed:.1f}s — modo '{modo}', aba '{ws.title}'")
