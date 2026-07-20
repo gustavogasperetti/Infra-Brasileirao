@@ -1,0 +1,381 @@
+﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
+2026,2026-01-28,Atlético Mineiro,Palmeiras,2,2,E,E,NORMAL,R1
+2026,2026-01-28,Internacional,Athletico Paranaense,0,1,D,V,NORMAL,R1
+2026,2026-01-28,Coritiba,Red Bull Bragantino,0,1,D,V,NORMAL,R1
+2026,2026-01-28,Vitória,Remo,2,0,V,D,NORMAL,R1
+2026,2026-01-28,Fluminense,Grêmio,2,1,V,D,NORMAL,R1
+2026,2026-01-28,Corinthians,Bahia,1,2,D,V,NORMAL,R1
+2026,2026-01-28,Chapecoense,Santos,4,2,V,D,NORMAL,R1
+2026,2026-01-28,São Paulo,Flamengo,2,1,V,D,NORMAL,R1
+2026,2026-01-29,Mirassol,Vasco,2,1,V,D,NORMAL,R1
+2026,2026-01-29,Botafogo,Cruzeiro,4,0,V,D,NORMAL,R1
+2026,2026-02-04,Flamengo,Internacional,1,1,E,E,NORMAL,R2
+2026,2026-02-04,Red Bull Bragantino,Atlético Mineiro,1,0,V,D,NORMAL,R2
+2026,2026-02-04,Santos,São Paulo,1,1,E,E,NORMAL,R2
+2026,2026-02-04,Remo,Mirassol,2,2,E,E,NORMAL,R2
+2026,2026-02-04,Palmeiras,Vitória,5,1,V,D,NORMAL,R2
+2026,2026-02-04,Grêmio,Botafogo,5,3,V,D,NORMAL,R2
+2026,2026-02-05,Bahia,Fluminense,1,1,E,E,NORMAL,R2
+2026,2026-02-05,Vasco,Chapecoense,1,1,E,E,NORMAL,R2
+2026,2026-02-05,Cruzeiro,Coritiba,1,2,D,V,NORMAL,R2
+2026,2026-02-19,Athletico Paranaense,Corinthians,0,1,D,V,NORMAL,R2
+2026,2026-02-10,Vitória,Flamengo,1,2,D,V,NORMAL,R3
+2026,2026-02-11,Chapecoense,Coritiba,3,3,E,E,NORMAL,R3
+2026,2026-02-11,Mirassol,Cruzeiro,2,2,E,E,NORMAL,R3
+2026,2026-02-11,Atlético Mineiro,Remo,3,3,E,E,NORMAL,R3
+2026,2026-02-11,Vasco,Bahia,0,1,D,V,NORMAL,R3
+2026,2026-02-11,São Paulo,Grêmio,2,0,V,D,NORMAL,R3
+2026,2026-02-12,Athletico Paranaense,Santos,2,1,V,D,NORMAL,R3
+2026,2026-02-12,Fluminense,Botafogo,1,0,V,D,NORMAL,R3
+2026,2026-02-12,Corinthians,Red Bull Bragantino,2,0,V,D,NORMAL,R3
+2026,2026-02-12,Internacional,Palmeiras,1,3,D,V,NORMAL,R3
+2026,,Flamengo,Mirassol,,,,,NORMAL,R4
+2026,2026-02-25,Red Bull Bragantino,Athletico Paranaense,1,1,E,E,NORMAL,R4
+2026,2026-02-25,Remo,Internacional,1,1,E,E,NORMAL,R4
+2026,2026-02-25,Coritiba,São Paulo,0,1,D,V,NORMAL,R4
+2026,2026-02-25,Cruzeiro,Corinthians,1,1,E,E,NORMAL,R4
+2026,2026-02-25,Grêmio,Atlético Mineiro,2,1,V,D,NORMAL,R4
+2026,2026-02-25,Palmeiras,Fluminense,2,1,V,D,NORMAL,R4
+2026,2026-02-26,Santos,Vasco,2,1,V,D,NORMAL,R4
+2026,2026-07-17,Bahia,Chapecoense,2,0,V,D,NORMAL,R4
+2026,2026-07-23,Botafogo,Vitória,,,,,NORMAL,R4
+2026,2026-03-10,Mirassol,Santos,2,2,E,E,NORMAL,R5
+2026,2026-03-11,Atlético Mineiro,Internacional,1,0,V,D,NORMAL,R5
+2026,2026-03-11,Bahia,Vitória,1,1,E,E,NORMAL,R5
+2026,2026-03-11,Flamengo,Cruzeiro,2,0,V,D,NORMAL,R5
+2026,2026-03-11,Corinthians,Coritiba,0,2,D,V,NORMAL,R5
+2026,2026-03-12,Remo,Fluminense,0,2,D,V,NORMAL,R5
+2026,2026-03-12,Vasco,Palmeiras,2,1,V,D,NORMAL,R5
+2026,2026-03-12,São Paulo,Chapecoense,2,0,V,D,NORMAL,R5
+2026,2026-03-12,Grêmio,Red Bull Bragantino,1,1,E,E,NORMAL,R5
+2026,2026-03-29,Athletico Paranaense,Botafogo,4,1,V,D,NORMAL,R5
+2026,2026-03-14,Vitória,Atlético Mineiro,2,0,V,D,NORMAL,R6
+2026,2026-03-14,Botafogo,Flamengo,0,3,D,V,NORMAL,R6
+2026,2026-03-15,Santos,Corinthians,1,1,E,E,NORMAL,R6
+2026,2026-03-15,Internacional,Bahia,0,1,D,V,NORMAL,R6
+2026,2026-03-15,Fluminense,Athletico Paranaense,3,2,V,D,NORMAL,R6
+2026,2026-03-15,Coritiba,Remo,1,0,V,D,NORMAL,R6
+2026,2026-03-15,Palmeiras,Mirassol,1,0,V,D,NORMAL,R6
+2026,2026-03-15,Red Bull Bragantino,São Paulo,1,2,D,V,NORMAL,R6
+2026,2026-03-15,Cruzeiro,Vasco,3,3,E,E,NORMAL,R6
+2026,2026-03-16,Chapecoense,Grêmio,1,1,E,E,NORMAL,R6
+2026,2026-03-18,Palmeiras,Botafogo,2,1,V,D,NORMAL,R7
+2026,2026-03-18,Bahia,Red Bull Bragantino,2,0,V,D,NORMAL,R7
+2026,2026-03-18,Athletico Paranaense,Cruzeiro,2,1,V,D,NORMAL,R7
+2026,2026-03-18,Mirassol,Coritiba,0,1,D,V,NORMAL,R7
+2026,2026-03-18,Atlético Mineiro,São Paulo,1,0,V,D,NORMAL,R7
+2026,2026-03-18,Vasco,Fluminense,3,2,V,D,NORMAL,R7
+2026,2026-03-18,Santos,Internacional,1,2,D,V,NORMAL,R7
+2026,2026-03-19,Grêmio,Vitória,2,0,V,D,NORMAL,R7
+2026,2026-03-19,Flamengo,Remo,3,0,V,D,NORMAL,R7
+2026,2026-03-19,Chapecoense,Corinthians,0,0,E,E,NORMAL,R7
+2026,2026-03-21,Red Bull Bragantino,Botafogo,1,2,D,V,NORMAL,R8
+2026,2026-03-21,Fluminense,Atlético Mineiro,1,0,V,D,NORMAL,R8
+2026,2026-03-21,São Paulo,Palmeiras,0,1,D,V,NORMAL,R8
+2026,2026-03-22,Vasco,Grêmio,2,1,V,D,NORMAL,R8
+2026,2026-03-22,Cruzeiro,Santos,0,0,E,E,NORMAL,R8
+2026,2026-03-22,Athletico Paranaense,Coritiba,2,0,V,D,NORMAL,R8
+2026,2026-03-22,Remo,Bahia,4,1,V,D,NORMAL,R8
+2026,2026-03-22,Vitória,Mirassol,1,0,V,D,NORMAL,R8
+2026,2026-03-22,Internacional,Chapecoense,2,0,V,D,NORMAL,R8
+2026,2026-03-22,Corinthians,Flamengo,1,1,E,E,NORMAL,R8
+2026,2026-04-01,Botafogo,Mirassol,3,2,V,D,NORMAL,R9
+2026,2026-04-01,Internacional,São Paulo,1,1,E,E,NORMAL,R9
+2026,2026-04-01,Cruzeiro,Vitória,3,0,V,D,NORMAL,R9
+2026,2026-04-01,Bahia,Athletico Paranaense,3,0,V,D,NORMAL,R9
+2026,2026-04-01,Coritiba,Vasco,1,1,E,E,NORMAL,R9
+2026,2026-04-01,Fluminense,Corinthians,3,1,V,D,NORMAL,R9
+2026,2026-04-02,Santos,Remo,2,0,V,D,NORMAL,R9
+2026,2026-04-02,Chapecoense,Atlético Mineiro,0,4,D,V,NORMAL,R9
+2026,2026-04-02,Palmeiras,Grêmio,2,1,V,D,NORMAL,R9
+2026,2026-04-02,Red Bull Bragantino,Flamengo,3,0,V,D,NORMAL,R9
+2026,2026-04-04,São Paulo,Cruzeiro,4,1,V,D,NORMAL,R10
+2026,2026-04-04,Coritiba,Fluminense,1,1,E,E,NORMAL,R10
+2026,2026-04-04,Vasco,Botafogo,1,2,D,V,NORMAL,R10
+2026,2026-04-05,Chapecoense,Vitória,1,1,E,E,NORMAL,R10
+2026,2026-04-05,Flamengo,Santos,3,1,V,D,NORMAL,R10
+2026,2026-04-05,Atlético Mineiro,Athletico Paranaense,2,1,V,D,NORMAL,R10
+2026,2026-04-05,Bahia,Palmeiras,1,2,D,V,NORMAL,R10
+2026,2026-04-05,Corinthians,Internacional,0,1,D,V,NORMAL,R10
+2026,2026-04-05,Mirassol,Red Bull Bragantino,0,1,D,V,NORMAL,R10
+2026,2026-04-05,Grêmio,Remo,0,0,E,E,NORMAL,R10
+2026,2026-04-11,Vitória,São Paulo,2,0,V,D,NORMAL,R11
+2026,2026-04-11,Remo,Vasco,1,1,E,E,NORMAL,R11
+2026,2026-04-11,Mirassol,Bahia,1,2,D,V,NORMAL,R11
+2026,2026-04-11,Santos,Atlético Mineiro,1,0,V,D,NORMAL,R11
+2026,2026-04-11,Internacional,Grêmio,0,0,E,E,NORMAL,R11
+2026,2026-04-12,Athletico Paranaense,Chapecoense,2,0,V,D,NORMAL,R11
+2026,2026-04-12,Botafogo,Coritiba,2,2,E,E,NORMAL,R11
+2026,2026-04-12,Fluminense,Flamengo,1,2,D,V,NORMAL,R11
+2026,2026-04-12,Corinthians,Palmeiras,0,0,E,E,NORMAL,R11
+2026,2026-04-12,Cruzeiro,Red Bull Bragantino,2,1,V,D,NORMAL,R11
+2026,2026-04-18,Vasco,São Paulo,2,1,V,D,NORMAL,R12
+2026,2026-04-18,Chapecoense,Botafogo,1,4,D,V,NORMAL,R12
+2026,2026-04-18,Vitória,Corinthians,0,0,E,E,NORMAL,R12
+2026,2026-04-18,Cruzeiro,Grêmio,2,0,V,D,NORMAL,R12
+2026,2026-04-19,Internacional,Mirassol,1,2,D,V,NORMAL,R12
+2026,2026-04-19,Coritiba,Atlético Mineiro,2,0,V,D,NORMAL,R12
+2026,2026-04-19,Santos,Fluminense,2,3,D,V,NORMAL,R12
+2026,2026-04-19,Palmeiras,Athletico Paranaense,1,0,V,D,NORMAL,R12
+2026,2026-04-19,Red Bull Bragantino,Remo,4,2,V,D,NORMAL,R12
+2026,2026-04-19,Flamengo,Bahia,2,0,V,D,NORMAL,R12
+2026,2026-04-25,Botafogo,Internacional,2,2,E,E,NORMAL,R13
+2026,2026-04-25,Bahia,Santos,2,2,E,E,NORMAL,R13
+2026,2026-04-25,Remo,Cruzeiro,0,1,D,V,NORMAL,R13
+2026,2026-04-25,São Paulo,Mirassol,1,0,V,D,NORMAL,R13
+2026,2026-04-26,Corinthians,Vasco,1,0,V,D,NORMAL,R13
+2026,2026-04-26,Grêmio,Coritiba,1,0,V,D,NORMAL,R13
+2026,2026-04-26,Athletico Paranaense,Vitória,3,1,V,D,NORMAL,R13
+2026,2026-04-26,Red Bull Bragantino,Palmeiras,0,1,D,V,NORMAL,R13
+2026,2026-04-26,Atlético Mineiro,Flamengo,0,4,D,V,NORMAL,R13
+2026,2026-04-26,Fluminense,Chapecoense,2,1,V,D,NORMAL,R13
+2026,2026-05-02,Botafogo,Remo,1,2,D,V,NORMAL,R14
+2026,2026-05-02,Palmeiras,Santos,1,1,E,E,NORMAL,R14
+2026,2026-05-02,Vitória,Coritiba,4,1,V,D,NORMAL,R14
+2026,2026-05-02,Athletico Paranaense,Grêmio,0,0,E,E,NORMAL,R14
+2026,2026-05-02,Cruzeiro,Atlético Mineiro,1,3,D,V,NORMAL,R14
+2026,2026-05-03,Flamengo,Vasco,2,2,E,E,NORMAL,R14
+2026,2026-05-03,São Paulo,Bahia,2,2,E,E,NORMAL,R14
+2026,2026-05-03,Internacional,Fluminense,2,0,V,D,NORMAL,R14
+2026,2026-05-03,Chapecoense,Red Bull Bragantino,1,2,D,V,NORMAL,R14
+2026,2026-05-03,Mirassol,Corinthians,2,1,V,D,NORMAL,R14
+2026,2026-05-09,Coritiba,Internacional,2,2,E,E,NORMAL,R15
+2026,2026-05-09,Fluminense,Vitória,2,2,E,E,NORMAL,R15
+2026,2026-05-09,Bahia,Cruzeiro,1,2,D,V,NORMAL,R15
+2026,2026-05-10,Remo,Palmeiras,1,1,E,E,NORMAL,R15
+2026,2026-05-10,Atlético Mineiro,Botafogo,1,1,E,E,NORMAL,R15
+2026,2026-05-10,Santos,Red Bull Bragantino,2,0,V,D,NORMAL,R15
+2026,2026-05-10,Corinthians,São Paulo,3,2,V,D,NORMAL,R15
+2026,2026-05-10,Mirassol,Chapecoense,1,1,E,E,NORMAL,R15
+2026,2026-05-10,Grêmio,Flamengo,0,1,D,V,NORMAL,R15
+2026,2026-05-10,Vasco,Athletico Paranaense,1,0,V,D,NORMAL,R15
+2026,2026-05-16,Atlético Mineiro,Mirassol,3,1,V,D,NORMAL,R16
+2026,2026-05-16,Internacional,Vasco,4,1,V,D,NORMAL,R16
+2026,2026-05-16,Fluminense,São Paulo,2,1,V,D,NORMAL,R16
+2026,2026-05-16,Palmeiras,Cruzeiro,1,1,E,E,NORMAL,R16
+2026,2026-05-17,Santos,Coritiba,0,3,D,V,NORMAL,R16
+2026,2026-05-17,Botafogo,Corinthians,3,1,V,D,NORMAL,R16
+2026,2026-05-17,Bahia,Grêmio,1,1,E,E,NORMAL,R16
+2026,2026-05-17,Chapecoense,Remo,2,3,D,V,NORMAL,R16
+2026,2026-05-17,Red Bull Bragantino,Vitória,2,0,V,D,NORMAL,R16
+2026,2026-05-17,Athletico Paranaense,Flamengo,1,1,E,E,NORMAL,R16
+2026,2026-05-23,São Paulo,Botafogo,1,1,E,E,NORMAL,R17
+2026,2026-05-23,Vitória,Internacional,2,0,V,D,NORMAL,R17
+2026,2026-05-23,Mirassol,Fluminense,1,0,V,D,NORMAL,R17
+2026,2026-05-23,Grêmio,Santos,3,2,V,D,NORMAL,R17
+2026,2026-05-23,Flamengo,Palmeiras,0,3,D,V,NORMAL,R17
+2026,2026-05-24,Cruzeiro,Chapecoense,2,1,V,D,NORMAL,R17
+2026,2026-05-24,Remo,Athletico Paranaense,1,2,D,V,NORMAL,R17
+2026,2026-05-24,Corinthians,Atlético Mineiro,1,0,V,D,NORMAL,R17
+2026,2026-05-24,Vasco,Red Bull Bragantino,0,3,D,V,NORMAL,R17
+2026,2026-05-25,Coritiba,Bahia,3,2,V,D,NORMAL,R17
+2026,2026-05-30,Flamengo,Coritiba,3,0,V,D,NORMAL,R18
+2026,2026-05-30,Athletico Paranaense,Mirassol,1,0,V,D,NORMAL,R18
+2026,2026-05-30,Bahia,Botafogo,2,1,V,D,NORMAL,R18
+2026,2026-05-30,Grêmio,Corinthians,1,3,D,V,NORMAL,R18
+2026,2026-05-30,Santos,Vitória,3,1,V,D,NORMAL,R18
+2026,2026-05-31,Red Bull Bragantino,Internacional,3,1,V,D,NORMAL,R18
+2026,2026-05-31,Palmeiras,Chapecoense,1,0,V,D,NORMAL,R18
+2026,2026-05-31,Vasco,Atlético Mineiro,0,1,D,V,NORMAL,R18
+2026,2026-05-31,Cruzeiro,Fluminense,1,1,E,E,NORMAL,R18
+2026,2026-05-31,Remo,São Paulo,1,0,V,D,NORMAL,R18
+2026,2026-07-16,Botafogo,Santos,2,1,V,D,NORMAL,R19
+2026,2026-07-16,Vitória,Vasco,1,0,V,D,NORMAL,R19
+2026,2026-07-17,Fluminense,Red Bull Bragantino,1,1,E,E,NORMAL,R19
+2026,2026-07-17,Mirassol,Grêmio,2,1,V,D,NORMAL,R19
+2026,2026-07-21,Atlético Mineiro,Bahia,,,,,NORMAL,R19
+2026,2026-07-22,Coritiba,Palmeiras,,,,,NORMAL,R19
+2026,2026-07-22,Chapecoense,Flamengo,,,,,NORMAL,R19
+2026,2026-07-22,Internacional,Cruzeiro,,,,,NORMAL,R19
+2026,2026-07-22,São Paulo,Athletico Paranaense,,,,,NORMAL,R19
+2026,2026-07-23,Corinthians,Remo,,,,,NORMAL,R19
+2026,2026-07-25,Santos,Chapecoense,,,,,NORMAL,R20
+2026,2026-07-25,Athletico Paranaense,Internacional,,,,,NORMAL,R20
+2026,2026-07-25,Vasco,Mirassol,,,,,NORMAL,R20
+2026,2026-07-26,Bahia,Corinthians,,,,,NORMAL,R20
+2026,2026-07-26,Cruzeiro,Botafogo,,,,,NORMAL,R20
+2026,2026-07-26,Grêmio,Fluminense,,,,,NORMAL,R20
+2026,2026-07-26,Flamengo,São Paulo,,,,,NORMAL,R20
+2026,2026-07-26,Red Bull Bragantino,Coritiba,,,,,NORMAL,R20
+2026,2026-07-26,Palmeiras,Atlético Mineiro,,,,,NORMAL,R20
+2026,2026-07-26,Remo,Vitória,,,,,NORMAL,R20
+2026,,Botafogo,Grêmio,,,,,NORMAL,R21
+2026,,São Paulo,Santos,,,,,NORMAL,R21
+2026,,Atlético Mineiro,Red Bull Bragantino,,,,,NORMAL,R21
+2026,,Chapecoense,Vasco,,,,,NORMAL,R21
+2026,2026-07-29,Internacional,Flamengo,,,,,NORMAL,R21
+2026,2026-07-29,Mirassol,Remo,,,,,NORMAL,R21
+2026,2026-07-29,Fluminense,Bahia,,,,,NORMAL,R21
+2026,2026-07-29,Vitória,Palmeiras,,,,,NORMAL,R21
+2026,2026-07-30,Corinthians,Athletico Paranaense,,,,,NORMAL,R21
+2026,2026-07-30,Coritiba,Cruzeiro,,,,,NORMAL,R21
+2026,2026-08-08,Grêmio,São Paulo,,,,,NORMAL,R22
+2026,2026-08-08,Remo,Atlético Mineiro,,,,,NORMAL,R22
+2026,2026-08-08,Coritiba,Chapecoense,,,,,NORMAL,R22
+2026,2026-08-08,Botafogo,Fluminense,,,,,NORMAL,R22
+2026,2026-08-09,Cruzeiro,Mirassol,,,,,NORMAL,R22
+2026,2026-08-09,Bahia,Vasco,,,,,NORMAL,R22
+2026,2026-08-09,Palmeiras,Internacional,,,,,NORMAL,R22
+2026,2026-08-09,Red Bull Bragantino,Corinthians,,,,,NORMAL,R22
+2026,2026-08-09,Santos,Athletico Paranaense,,,,,NORMAL,R22
+2026,2026-08-09,Flamengo,Vitória,,,,,NORMAL,R22
+2026,2026-08-15,Fluminense,Palmeiras,,,,,NORMAL,R23
+2026,2026-08-15,Atlético Mineiro,Grêmio,,,,,NORMAL,R23
+2026,2026-08-15,Athletico Paranaense,Red Bull Bragantino,,,,,NORMAL,R23
+2026,2026-08-15,São Paulo,Coritiba,,,,,NORMAL,R23
+2026,2026-08-16,Chapecoense,Bahia,,,,,NORMAL,R23
+2026,2026-08-16,Vasco,Santos,,,,,NORMAL,R23
+2026,2026-08-16,Vitória,Botafogo,,,,,NORMAL,R23
+2026,2026-08-16,Mirassol,Flamengo,,,,,NORMAL,R23
+2026,2026-08-16,Corinthians,Cruzeiro,,,,,NORMAL,R23
+2026,2026-08-17,Internacional,Remo,,,,,NORMAL,R23
+2026,2026-08-22,Fluminense,Remo,,,,,NORMAL,R24
+2026,2026-08-22,Internacional,Atlético Mineiro,,,,,NORMAL,R24
+2026,2026-08-22,Cruzeiro,Flamengo,,,,,NORMAL,R24
+2026,2026-08-23,Palmeiras,Vasco,,,,,NORMAL,R24
+2026,2026-08-23,Red Bull Bragantino,Grêmio,,,,,NORMAL,R24
+2026,2026-08-23,Vitória,Bahia,,,,,NORMAL,R24
+2026,2026-08-23,Chapecoense,São Paulo,,,,,NORMAL,R24
+2026,2026-08-23,Santos,Mirassol,,,,,NORMAL,R24
+2026,2026-08-23,Coritiba,Corinthians,,,,,NORMAL,R24
+2026,2026-08-24,Botafogo,Athletico Paranaense,,,,,NORMAL,R24
+2026,,Flamengo,Botafogo,,,,,NORMAL,R25
+2026,,Vasco,Cruzeiro,,,,,NORMAL,R25
+2026,,São Paulo,Red Bull Bragantino,,,,,NORMAL,R25
+2026,,Corinthians,Santos,,,,,NORMAL,R25
+2026,,Mirassol,Palmeiras,,,,,NORMAL,R25
+2026,,Atlético Mineiro,Vitória,,,,,NORMAL,R25
+2026,,Grêmio,Chapecoense,,,,,NORMAL,R25
+2026,,Athletico Paranaense,Fluminense,,,,,NORMAL,R25
+2026,,Bahia,Internacional,,,,,NORMAL,R25
+2026,,Remo,Coritiba,,,,,NORMAL,R25
+2026,,Fluminense,Vasco,,,,,NORMAL,R26
+2026,,Botafogo,Palmeiras,,,,,NORMAL,R26
+2026,,São Paulo,Atlético Mineiro,,,,,NORMAL,R26
+2026,,Corinthians,Chapecoense,,,,,NORMAL,R26
+2026,,Red Bull Bragantino,Bahia,,,,,NORMAL,R26
+2026,,Cruzeiro,Athletico Paranaense,,,,,NORMAL,R26
+2026,,Internacional,Santos,,,,,NORMAL,R26
+2026,,Coritiba,Mirassol,,,,,NORMAL,R26
+2026,,Vitória,Grêmio,,,,,NORMAL,R26
+2026,,Remo,Flamengo,,,,,NORMAL,R26
+2026,,Flamengo,Corinthians,,,,,NORMAL,R27
+2026,,Botafogo,Red Bull Bragantino,,,,,NORMAL,R27
+2026,,Santos,Cruzeiro,,,,,NORMAL,R27
+2026,,Palmeiras,São Paulo,,,,,NORMAL,R27
+2026,,Mirassol,Vitória,,,,,NORMAL,R27
+2026,,Atlético Mineiro,Fluminense,,,,,NORMAL,R27
+2026,,Grêmio,Vasco,,,,,NORMAL,R27
+2026,,Coritiba,Athletico Paranaense,,,,,NORMAL,R27
+2026,,Bahia,Remo,,,,,NORMAL,R27
+2026,,Chapecoense,Internacional,,,,,NORMAL,R27
+2026,,Flamengo,Red Bull Bragantino,,,,,NORMAL,R28
+2026,,Vasco,Coritiba,,,,,NORMAL,R28
+2026,,São Paulo,Internacional,,,,,NORMAL,R28
+2026,,Corinthians,Fluminense,,,,,NORMAL,R28
+2026,,Mirassol,Botafogo,,,,,NORMAL,R28
+2026,,Atlético Mineiro,Chapecoense,,,,,NORMAL,R28
+2026,,Grêmio,Palmeiras,,,,,NORMAL,R28
+2026,,Athletico Paranaense,Bahia,,,,,NORMAL,R28
+2026,,Vitória,Cruzeiro,,,,,NORMAL,R28
+2026,,Remo,Santos,,,,,NORMAL,R28
+2026,,Fluminense,Coritiba,,,,,NORMAL,R29
+2026,,Botafogo,Vasco,,,,,NORMAL,R29
+2026,,Santos,Flamengo,,,,,NORMAL,R29
+2026,,Palmeiras,Bahia,,,,,NORMAL,R29
+2026,,Red Bull Bragantino,Mirassol,,,,,NORMAL,R29
+2026,,Cruzeiro,São Paulo,,,,,NORMAL,R29
+2026,,Internacional,Corinthians,,,,,NORMAL,R29
+2026,,Athletico Paranaense,Atlético Mineiro,,,,,NORMAL,R29
+2026,,Vitória,Chapecoense,,,,,NORMAL,R29
+2026,,Remo,Grêmio,,,,,NORMAL,R29
+2026,,Flamengo,Fluminense,,,,,NORMAL,R30
+2026,,Vasco,Remo,,,,,NORMAL,R30
+2026,,São Paulo,Vitória,,,,,NORMAL,R30
+2026,,Palmeiras,Corinthians,,,,,NORMAL,R30
+2026,,Red Bull Bragantino,Cruzeiro,,,,,NORMAL,R30
+2026,,Atlético Mineiro,Santos,,,,,NORMAL,R30
+2026,,Grêmio,Internacional,,,,,NORMAL,R30
+2026,,Coritiba,Botafogo,,,,,NORMAL,R30
+2026,,Bahia,Mirassol,,,,,NORMAL,R30
+2026,,Chapecoense,Athletico Paranaense,,,,,NORMAL,R30
+2026,,Fluminense,Santos,,,,,NORMAL,R31
+2026,,Botafogo,Chapecoense,,,,,NORMAL,R31
+2026,,São Paulo,Vasco,,,,,NORMAL,R31
+2026,,Corinthians,Vitória,,,,,NORMAL,R31
+2026,,Mirassol,Internacional,,,,,NORMAL,R31
+2026,,Atlético Mineiro,Coritiba,,,,,NORMAL,R31
+2026,,Grêmio,Cruzeiro,,,,,NORMAL,R31
+2026,,Athletico Paranaense,Palmeiras,,,,,NORMAL,R31
+2026,,Bahia,Flamengo,,,,,NORMAL,R31
+2026,,Remo,Red Bull Bragantino,,,,,NORMAL,R31
+2026,,Flamengo,Atlético Mineiro,,,,,NORMAL,R32
+2026,,Vasco,Corinthians,,,,,NORMAL,R32
+2026,,Santos,Bahia,,,,,NORMAL,R32
+2026,,Palmeiras,Red Bull Bragantino,,,,,NORMAL,R32
+2026,,Mirassol,São Paulo,,,,,NORMAL,R32
+2026,,Cruzeiro,Remo,,,,,NORMAL,R32
+2026,,Internacional,Botafogo,,,,,NORMAL,R32
+2026,,Coritiba,Grêmio,,,,,NORMAL,R32
+2026,,Vitória,Athletico Paranaense,,,,,NORMAL,R32
+2026,,Chapecoense,Fluminense,,,,,NORMAL,R32
+2026,,Fluminense,Internacional,,,,,NORMAL,R33
+2026,,Vasco,Flamengo,,,,,NORMAL,R33
+2026,,Santos,Palmeiras,,,,,NORMAL,R33
+2026,,Corinthians,Mirassol,,,,,NORMAL,R33
+2026,,Red Bull Bragantino,Chapecoense,,,,,NORMAL,R33
+2026,,Atlético Mineiro,Cruzeiro,,,,,NORMAL,R33
+2026,,Grêmio,Athletico Paranaense,,,,,NORMAL,R33
+2026,,Coritiba,Vitória,,,,,NORMAL,R33
+2026,,Bahia,São Paulo,,,,,NORMAL,R33
+2026,,Remo,Botafogo,,,,,NORMAL,R33
+2026,,Flamengo,Grêmio,,,,,NORMAL,R34
+2026,,Botafogo,Atlético Mineiro,,,,,NORMAL,R34
+2026,,São Paulo,Corinthians,,,,,NORMAL,R34
+2026,,Palmeiras,Remo,,,,,NORMAL,R34
+2026,,Red Bull Bragantino,Santos,,,,,NORMAL,R34
+2026,,Cruzeiro,Bahia,,,,,NORMAL,R34
+2026,,Internacional,Coritiba,,,,,NORMAL,R34
+2026,,Athletico Paranaense,Vasco,,,,,NORMAL,R34
+2026,,Vitória,Fluminense,,,,,NORMAL,R34
+2026,,Chapecoense,Mirassol,,,,,NORMAL,R34
+2026,,Flamengo,Athletico Paranaense,,,,,NORMAL,R35
+2026,,Vasco,Internacional,,,,,NORMAL,R35
+2026,,São Paulo,Fluminense,,,,,NORMAL,R35
+2026,,Corinthians,Botafogo,,,,,NORMAL,R35
+2026,,Mirassol,Atlético Mineiro,,,,,NORMAL,R35
+2026,,Cruzeiro,Palmeiras,,,,,NORMAL,R35
+2026,,Grêmio,Bahia,,,,,NORMAL,R35
+2026,,Coritiba,Santos,,,,,NORMAL,R35
+2026,,Vitória,Red Bull Bragantino,,,,,NORMAL,R35
+2026,,Remo,Chapecoense,,,,,NORMAL,R35
+2026,,Fluminense,Mirassol,,,,,NORMAL,R36
+2026,,Botafogo,São Paulo,,,,,NORMAL,R36
+2026,,Santos,Grêmio,,,,,NORMAL,R36
+2026,,Palmeiras,Flamengo,,,,,NORMAL,R36
+2026,,Red Bull Bragantino,Vasco,,,,,NORMAL,R36
+2026,,Atlético Mineiro,Corinthians,,,,,NORMAL,R36
+2026,,Internacional,Vitória,,,,,NORMAL,R36
+2026,,Athletico Paranaense,Remo,,,,,NORMAL,R36
+2026,,Bahia,Coritiba,,,,,NORMAL,R36
+2026,,Chapecoense,Cruzeiro,,,,,NORMAL,R36
+2026,,Fluminense,Cruzeiro,,,,,NORMAL,R37
+2026,,Botafogo,Bahia,,,,,NORMAL,R37
+2026,,São Paulo,Remo,,,,,NORMAL,R37
+2026,,Corinthians,Grêmio,,,,,NORMAL,R37
+2026,,Mirassol,Athletico Paranaense,,,,,NORMAL,R37
+2026,,Atlético Mineiro,Vasco,,,,,NORMAL,R37
+2026,,Internacional,Red Bull Bragantino,,,,,NORMAL,R37
+2026,,Coritiba,Flamengo,,,,,NORMAL,R37
+2026,,Vitória,Santos,,,,,NORMAL,R37
+2026,,Chapecoense,Palmeiras,,,,,NORMAL,R37
+2026,,Flamengo,Chapecoense,,,,,NORMAL,R38
+2026,,Vasco,Vitória,,,,,NORMAL,R38
+2026,,Santos,Botafogo,,,,,NORMAL,R38
+2026,,Palmeiras,Coritiba,,,,,NORMAL,R38
+2026,,Red Bull Bragantino,Fluminense,,,,,NORMAL,R38
+2026,,Cruzeiro,Internacional,,,,,NORMAL,R38
+2026,,Grêmio,Mirassol,,,,,NORMAL,R38
+2026,,Athletico Paranaense,São Paulo,,,,,NORMAL,R38
+2026,,Bahia,Atlético Mineiro,,,,,NORMAL,R38
+2026,,Remo,Corinthians,,,,,NORMAL,R38

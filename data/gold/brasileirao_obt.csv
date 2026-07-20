@@ -21452,3 +21452,383 @@
 21451,2025,2025-12-07,Vitória,São Paulo,BA,SP,1.0,0.0,V,D,NORMAL,R38,Pontos Corridos,False,False,1,1,-1,3,0
 21452,2025,2025-12-07,Ceará,Palmeiras,CE,SP,1.0,3.0,D,V,NORMAL,R38,Pontos Corridos,False,False,4,-2,2,0,3
 21453,2025,2025-12-07,Sport,Grêmio,PE,RS,0.0,4.0,D,V,NORMAL,R38,Pontos Corridos,False,False,4,-4,4,0,3
+21454,2026,2026-01-28,Atlético Mineiro,Palmeiras,MG,SP,2.0,2.0,E,E,NORMAL,R1,Pontos Corridos,False,False,4,0,0,1,1
+21455,2026,2026-01-28,Internacional,Athletico Paranaense,RS,PR,0.0,1.0,D,V,NORMAL,R1,Pontos Corridos,False,False,1,-1,1,0,3
+21456,2026,2026-01-28,Coritiba,Red Bull Bragantino,PR,SP,0.0,1.0,D,V,NORMAL,R1,Pontos Corridos,False,False,1,-1,1,0,3
+21457,2026,2026-01-28,Vitória,Remo,BA,PA,2.0,0.0,V,D,NORMAL,R1,Pontos Corridos,False,False,2,2,-2,3,0
+21458,2026,2026-01-28,Fluminense,Grêmio,RJ,RS,2.0,1.0,V,D,NORMAL,R1,Pontos Corridos,False,False,3,1,-1,3,0
+21459,2026,2026-01-28,Corinthians,Bahia,SP,BA,1.0,2.0,D,V,NORMAL,R1,Pontos Corridos,False,False,3,-1,1,0,3
+21460,2026,2026-01-28,Chapecoense,Santos,SC,SP,4.0,2.0,V,D,NORMAL,R1,Pontos Corridos,False,False,6,2,-2,3,0
+21461,2026,2026-01-28,São Paulo,Flamengo,SP,RJ,2.0,1.0,V,D,NORMAL,R1,Pontos Corridos,False,False,3,1,-1,3,0
+21462,2026,2026-01-29,Mirassol,Vasco,SP,RJ,2.0,1.0,V,D,NORMAL,R1,Pontos Corridos,False,False,3,1,-1,3,0
+21463,2026,2026-01-29,Botafogo,Cruzeiro,RJ,MG,4.0,0.0,V,D,NORMAL,R1,Pontos Corridos,False,False,4,4,-4,3,0
+21464,2026,2026-02-04,Flamengo,Internacional,RJ,RS,1.0,1.0,E,E,NORMAL,R2,Pontos Corridos,False,False,2,0,0,1,1
+21465,2026,2026-02-04,Red Bull Bragantino,Atlético Mineiro,SP,MG,1.0,0.0,V,D,NORMAL,R2,Pontos Corridos,False,False,1,1,-1,3,0
+21466,2026,2026-02-04,Santos,São Paulo,SP,SP,1.0,1.0,E,E,NORMAL,R2,Pontos Corridos,False,True,2,0,0,1,1
+21467,2026,2026-02-04,Remo,Mirassol,PA,SP,2.0,2.0,E,E,NORMAL,R2,Pontos Corridos,False,False,4,0,0,1,1
+21468,2026,2026-02-04,Palmeiras,Vitória,SP,BA,5.0,1.0,V,D,NORMAL,R2,Pontos Corridos,False,False,6,4,-4,3,0
+21469,2026,2026-02-04,Grêmio,Botafogo,RS,RJ,5.0,3.0,V,D,NORMAL,R2,Pontos Corridos,False,False,8,2,-2,3,0
+21470,2026,2026-02-05,Bahia,Fluminense,BA,RJ,1.0,1.0,E,E,NORMAL,R2,Pontos Corridos,False,False,2,0,0,1,1
+21471,2026,2026-02-05,Vasco,Chapecoense,RJ,SC,1.0,1.0,E,E,NORMAL,R2,Pontos Corridos,False,False,2,0,0,1,1
+21472,2026,2026-02-05,Cruzeiro,Coritiba,MG,PR,1.0,2.0,D,V,NORMAL,R2,Pontos Corridos,False,False,3,-1,1,0,3
+21473,2026,2026-02-10,Vitória,Flamengo,BA,RJ,1.0,2.0,D,V,NORMAL,R3,Pontos Corridos,False,False,3,-1,1,0,3
+21474,2026,2026-02-11,Chapecoense,Coritiba,SC,PR,3.0,3.0,E,E,NORMAL,R3,Pontos Corridos,False,False,6,0,0,1,1
+21475,2026,2026-02-11,Mirassol,Cruzeiro,SP,MG,2.0,2.0,E,E,NORMAL,R3,Pontos Corridos,False,False,4,0,0,1,1
+21476,2026,2026-02-11,Atlético Mineiro,Remo,MG,PA,3.0,3.0,E,E,NORMAL,R3,Pontos Corridos,False,False,6,0,0,1,1
+21477,2026,2026-02-11,Vasco,Bahia,RJ,BA,0.0,1.0,D,V,NORMAL,R3,Pontos Corridos,False,False,1,-1,1,0,3
+21478,2026,2026-02-11,São Paulo,Grêmio,SP,RS,2.0,0.0,V,D,NORMAL,R3,Pontos Corridos,False,False,2,2,-2,3,0
+21479,2026,2026-02-12,Athletico Paranaense,Santos,PR,SP,2.0,1.0,V,D,NORMAL,R3,Pontos Corridos,False,False,3,1,-1,3,0
+21480,2026,2026-02-12,Fluminense,Botafogo,RJ,RJ,1.0,0.0,V,D,NORMAL,R3,Pontos Corridos,False,True,1,1,-1,3,0
+21481,2026,2026-02-12,Corinthians,Red Bull Bragantino,SP,SP,2.0,0.0,V,D,NORMAL,R3,Pontos Corridos,False,True,2,2,-2,3,0
+21482,2026,2026-02-12,Internacional,Palmeiras,RS,SP,1.0,3.0,D,V,NORMAL,R3,Pontos Corridos,False,False,4,-2,2,0,3
+21483,2026,2026-02-19,Athletico Paranaense,Corinthians,PR,SP,0.0,1.0,D,V,NORMAL,R2,Pontos Corridos,False,False,1,-1,1,0,3
+21484,2026,2026-02-25,Red Bull Bragantino,Athletico Paranaense,SP,PR,1.0,1.0,E,E,NORMAL,R4,Pontos Corridos,False,False,2,0,0,1,1
+21485,2026,2026-02-25,Remo,Internacional,PA,RS,1.0,1.0,E,E,NORMAL,R4,Pontos Corridos,False,False,2,0,0,1,1
+21486,2026,2026-02-25,Coritiba,São Paulo,PR,SP,0.0,1.0,D,V,NORMAL,R4,Pontos Corridos,False,False,1,-1,1,0,3
+21487,2026,2026-02-25,Cruzeiro,Corinthians,MG,SP,1.0,1.0,E,E,NORMAL,R4,Pontos Corridos,False,False,2,0,0,1,1
+21488,2026,2026-02-25,Grêmio,Atlético Mineiro,RS,MG,2.0,1.0,V,D,NORMAL,R4,Pontos Corridos,False,False,3,1,-1,3,0
+21489,2026,2026-02-25,Palmeiras,Fluminense,SP,RJ,2.0,1.0,V,D,NORMAL,R4,Pontos Corridos,False,False,3,1,-1,3,0
+21490,2026,2026-02-26,Santos,Vasco,SP,RJ,2.0,1.0,V,D,NORMAL,R4,Pontos Corridos,False,False,3,1,-1,3,0
+21491,2026,2026-03-10,Mirassol,Santos,SP,SP,2.0,2.0,E,E,NORMAL,R5,Pontos Corridos,False,True,4,0,0,1,1
+21492,2026,2026-03-11,Atlético Mineiro,Internacional,MG,RS,1.0,0.0,V,D,NORMAL,R5,Pontos Corridos,False,False,1,1,-1,3,0
+21493,2026,2026-03-11,Bahia,Vitória,BA,BA,1.0,1.0,E,E,NORMAL,R5,Pontos Corridos,False,True,2,0,0,1,1
+21494,2026,2026-03-11,Flamengo,Cruzeiro,RJ,MG,2.0,0.0,V,D,NORMAL,R5,Pontos Corridos,False,False,2,2,-2,3,0
+21495,2026,2026-03-11,Corinthians,Coritiba,SP,PR,0.0,2.0,D,V,NORMAL,R5,Pontos Corridos,False,False,2,-2,2,0,3
+21496,2026,2026-03-12,Remo,Fluminense,PA,RJ,0.0,2.0,D,V,NORMAL,R5,Pontos Corridos,False,False,2,-2,2,0,3
+21497,2026,2026-03-12,Vasco,Palmeiras,RJ,SP,2.0,1.0,V,D,NORMAL,R5,Pontos Corridos,False,False,3,1,-1,3,0
+21498,2026,2026-03-12,São Paulo,Chapecoense,SP,SC,2.0,0.0,V,D,NORMAL,R5,Pontos Corridos,False,False,2,2,-2,3,0
+21499,2026,2026-03-12,Grêmio,Red Bull Bragantino,RS,SP,1.0,1.0,E,E,NORMAL,R5,Pontos Corridos,False,False,2,0,0,1,1
+21500,2026,2026-03-14,Vitória,Atlético Mineiro,BA,MG,2.0,0.0,V,D,NORMAL,R6,Pontos Corridos,False,False,2,2,-2,3,0
+21501,2026,2026-03-14,Botafogo,Flamengo,RJ,RJ,0.0,3.0,D,V,NORMAL,R6,Pontos Corridos,False,True,3,-3,3,0,3
+21502,2026,2026-03-15,Santos,Corinthians,SP,SP,1.0,1.0,E,E,NORMAL,R6,Pontos Corridos,False,True,2,0,0,1,1
+21503,2026,2026-03-15,Internacional,Bahia,RS,BA,0.0,1.0,D,V,NORMAL,R6,Pontos Corridos,False,False,1,-1,1,0,3
+21504,2026,2026-03-15,Fluminense,Athletico Paranaense,RJ,PR,3.0,2.0,V,D,NORMAL,R6,Pontos Corridos,False,False,5,1,-1,3,0
+21505,2026,2026-03-15,Coritiba,Remo,PR,PA,1.0,0.0,V,D,NORMAL,R6,Pontos Corridos,False,False,1,1,-1,3,0
+21506,2026,2026-03-15,Palmeiras,Mirassol,SP,SP,1.0,0.0,V,D,NORMAL,R6,Pontos Corridos,False,True,1,1,-1,3,0
+21507,2026,2026-03-15,Red Bull Bragantino,São Paulo,SP,SP,1.0,2.0,D,V,NORMAL,R6,Pontos Corridos,False,True,3,-1,1,0,3
+21508,2026,2026-03-15,Cruzeiro,Vasco,MG,RJ,3.0,3.0,E,E,NORMAL,R6,Pontos Corridos,False,False,6,0,0,1,1
+21509,2026,2026-03-16,Chapecoense,Grêmio,SC,RS,1.0,1.0,E,E,NORMAL,R6,Pontos Corridos,False,False,2,0,0,1,1
+21510,2026,2026-03-18,Palmeiras,Botafogo,SP,RJ,2.0,1.0,V,D,NORMAL,R7,Pontos Corridos,False,False,3,1,-1,3,0
+21511,2026,2026-03-18,Bahia,Red Bull Bragantino,BA,SP,2.0,0.0,V,D,NORMAL,R7,Pontos Corridos,False,False,2,2,-2,3,0
+21512,2026,2026-03-18,Athletico Paranaense,Cruzeiro,PR,MG,2.0,1.0,V,D,NORMAL,R7,Pontos Corridos,False,False,3,1,-1,3,0
+21513,2026,2026-03-18,Mirassol,Coritiba,SP,PR,0.0,1.0,D,V,NORMAL,R7,Pontos Corridos,False,False,1,-1,1,0,3
+21514,2026,2026-03-18,Atlético Mineiro,São Paulo,MG,SP,1.0,0.0,V,D,NORMAL,R7,Pontos Corridos,False,False,1,1,-1,3,0
+21515,2026,2026-03-18,Vasco,Fluminense,RJ,RJ,3.0,2.0,V,D,NORMAL,R7,Pontos Corridos,False,True,5,1,-1,3,0
+21516,2026,2026-03-18,Santos,Internacional,SP,RS,1.0,2.0,D,V,NORMAL,R7,Pontos Corridos,False,False,3,-1,1,0,3
+21517,2026,2026-03-19,Grêmio,Vitória,RS,BA,2.0,0.0,V,D,NORMAL,R7,Pontos Corridos,False,False,2,2,-2,3,0
+21518,2026,2026-03-19,Flamengo,Remo,RJ,PA,3.0,0.0,V,D,NORMAL,R7,Pontos Corridos,False,False,3,3,-3,3,0
+21519,2026,2026-03-19,Chapecoense,Corinthians,SC,SP,0.0,0.0,E,E,NORMAL,R7,Pontos Corridos,False,False,0,0,0,1,1
+21520,2026,2026-03-21,Red Bull Bragantino,Botafogo,SP,RJ,1.0,2.0,D,V,NORMAL,R8,Pontos Corridos,False,False,3,-1,1,0,3
+21521,2026,2026-03-21,Fluminense,Atlético Mineiro,RJ,MG,1.0,0.0,V,D,NORMAL,R8,Pontos Corridos,False,False,1,1,-1,3,0
+21522,2026,2026-03-21,São Paulo,Palmeiras,SP,SP,0.0,1.0,D,V,NORMAL,R8,Pontos Corridos,False,True,1,-1,1,0,3
+21523,2026,2026-03-22,Vasco,Grêmio,RJ,RS,2.0,1.0,V,D,NORMAL,R8,Pontos Corridos,False,False,3,1,-1,3,0
+21524,2026,2026-03-22,Cruzeiro,Santos,MG,SP,0.0,0.0,E,E,NORMAL,R8,Pontos Corridos,False,False,0,0,0,1,1
+21525,2026,2026-03-22,Athletico Paranaense,Coritiba,PR,PR,2.0,0.0,V,D,NORMAL,R8,Pontos Corridos,False,True,2,2,-2,3,0
+21526,2026,2026-03-22,Remo,Bahia,PA,BA,4.0,1.0,V,D,NORMAL,R8,Pontos Corridos,False,False,5,3,-3,3,0
+21527,2026,2026-03-22,Vitória,Mirassol,BA,SP,1.0,0.0,V,D,NORMAL,R8,Pontos Corridos,False,False,1,1,-1,3,0
+21528,2026,2026-03-22,Internacional,Chapecoense,RS,SC,2.0,0.0,V,D,NORMAL,R8,Pontos Corridos,False,False,2,2,-2,3,0
+21529,2026,2026-03-22,Corinthians,Flamengo,SP,RJ,1.0,1.0,E,E,NORMAL,R8,Pontos Corridos,False,False,2,0,0,1,1
+21530,2026,2026-03-29,Athletico Paranaense,Botafogo,PR,RJ,4.0,1.0,V,D,NORMAL,R5,Pontos Corridos,False,False,5,3,-3,3,0
+21531,2026,2026-04-01,Botafogo,Mirassol,RJ,SP,3.0,2.0,V,D,NORMAL,R9,Pontos Corridos,False,False,5,1,-1,3,0
+21532,2026,2026-04-01,Internacional,São Paulo,RS,SP,1.0,1.0,E,E,NORMAL,R9,Pontos Corridos,False,False,2,0,0,1,1
+21533,2026,2026-04-01,Cruzeiro,Vitória,MG,BA,3.0,0.0,V,D,NORMAL,R9,Pontos Corridos,False,False,3,3,-3,3,0
+21534,2026,2026-04-01,Bahia,Athletico Paranaense,BA,PR,3.0,0.0,V,D,NORMAL,R9,Pontos Corridos,False,False,3,3,-3,3,0
+21535,2026,2026-04-01,Coritiba,Vasco,PR,RJ,1.0,1.0,E,E,NORMAL,R9,Pontos Corridos,False,False,2,0,0,1,1
+21536,2026,2026-04-01,Fluminense,Corinthians,RJ,SP,3.0,1.0,V,D,NORMAL,R9,Pontos Corridos,False,False,4,2,-2,3,0
+21537,2026,2026-04-02,Santos,Remo,SP,PA,2.0,0.0,V,D,NORMAL,R9,Pontos Corridos,False,False,2,2,-2,3,0
+21538,2026,2026-04-02,Chapecoense,Atlético Mineiro,SC,MG,0.0,4.0,D,V,NORMAL,R9,Pontos Corridos,False,False,4,-4,4,0,3
+21539,2026,2026-04-02,Palmeiras,Grêmio,SP,RS,2.0,1.0,V,D,NORMAL,R9,Pontos Corridos,False,False,3,1,-1,3,0
+21540,2026,2026-04-02,Red Bull Bragantino,Flamengo,SP,RJ,3.0,0.0,V,D,NORMAL,R9,Pontos Corridos,False,False,3,3,-3,3,0
+21541,2026,2026-04-04,São Paulo,Cruzeiro,SP,MG,4.0,1.0,V,D,NORMAL,R10,Pontos Corridos,False,False,5,3,-3,3,0
+21542,2026,2026-04-04,Coritiba,Fluminense,PR,RJ,1.0,1.0,E,E,NORMAL,R10,Pontos Corridos,False,False,2,0,0,1,1
+21543,2026,2026-04-04,Vasco,Botafogo,RJ,RJ,1.0,2.0,D,V,NORMAL,R10,Pontos Corridos,False,True,3,-1,1,0,3
+21544,2026,2026-04-05,Chapecoense,Vitória,SC,BA,1.0,1.0,E,E,NORMAL,R10,Pontos Corridos,False,False,2,0,0,1,1
+21545,2026,2026-04-05,Flamengo,Santos,RJ,SP,3.0,1.0,V,D,NORMAL,R10,Pontos Corridos,False,False,4,2,-2,3,0
+21546,2026,2026-04-05,Atlético Mineiro,Athletico Paranaense,MG,PR,2.0,1.0,V,D,NORMAL,R10,Pontos Corridos,False,False,3,1,-1,3,0
+21547,2026,2026-04-05,Bahia,Palmeiras,BA,SP,1.0,2.0,D,V,NORMAL,R10,Pontos Corridos,False,False,3,-1,1,0,3
+21548,2026,2026-04-05,Corinthians,Internacional,SP,RS,0.0,1.0,D,V,NORMAL,R10,Pontos Corridos,False,False,1,-1,1,0,3
+21549,2026,2026-04-05,Mirassol,Red Bull Bragantino,SP,SP,0.0,1.0,D,V,NORMAL,R10,Pontos Corridos,False,True,1,-1,1,0,3
+21550,2026,2026-04-05,Grêmio,Remo,RS,PA,0.0,0.0,E,E,NORMAL,R10,Pontos Corridos,False,False,0,0,0,1,1
+21551,2026,2026-04-11,Vitória,São Paulo,BA,SP,2.0,0.0,V,D,NORMAL,R11,Pontos Corridos,False,False,2,2,-2,3,0
+21552,2026,2026-04-11,Remo,Vasco,PA,RJ,1.0,1.0,E,E,NORMAL,R11,Pontos Corridos,False,False,2,0,0,1,1
+21553,2026,2026-04-11,Mirassol,Bahia,SP,BA,1.0,2.0,D,V,NORMAL,R11,Pontos Corridos,False,False,3,-1,1,0,3
+21554,2026,2026-04-11,Santos,Atlético Mineiro,SP,MG,1.0,0.0,V,D,NORMAL,R11,Pontos Corridos,False,False,1,1,-1,3,0
+21555,2026,2026-04-11,Internacional,Grêmio,RS,RS,0.0,0.0,E,E,NORMAL,R11,Pontos Corridos,False,True,0,0,0,1,1
+21556,2026,2026-04-12,Athletico Paranaense,Chapecoense,PR,SC,2.0,0.0,V,D,NORMAL,R11,Pontos Corridos,False,False,2,2,-2,3,0
+21557,2026,2026-04-12,Botafogo,Coritiba,RJ,PR,2.0,2.0,E,E,NORMAL,R11,Pontos Corridos,False,False,4,0,0,1,1
+21558,2026,2026-04-12,Fluminense,Flamengo,RJ,RJ,1.0,2.0,D,V,NORMAL,R11,Pontos Corridos,False,True,3,-1,1,0,3
+21559,2026,2026-04-12,Corinthians,Palmeiras,SP,SP,0.0,0.0,E,E,NORMAL,R11,Pontos Corridos,False,True,0,0,0,1,1
+21560,2026,2026-04-12,Cruzeiro,Red Bull Bragantino,MG,SP,2.0,1.0,V,D,NORMAL,R11,Pontos Corridos,False,False,3,1,-1,3,0
+21561,2026,2026-04-18,Vasco,São Paulo,RJ,SP,2.0,1.0,V,D,NORMAL,R12,Pontos Corridos,False,False,3,1,-1,3,0
+21562,2026,2026-04-18,Chapecoense,Botafogo,SC,RJ,1.0,4.0,D,V,NORMAL,R12,Pontos Corridos,False,False,5,-3,3,0,3
+21563,2026,2026-04-18,Vitória,Corinthians,BA,SP,0.0,0.0,E,E,NORMAL,R12,Pontos Corridos,False,False,0,0,0,1,1
+21564,2026,2026-04-18,Cruzeiro,Grêmio,MG,RS,2.0,0.0,V,D,NORMAL,R12,Pontos Corridos,False,False,2,2,-2,3,0
+21565,2026,2026-04-19,Internacional,Mirassol,RS,SP,1.0,2.0,D,V,NORMAL,R12,Pontos Corridos,False,False,3,-1,1,0,3
+21566,2026,2026-04-19,Coritiba,Atlético Mineiro,PR,MG,2.0,0.0,V,D,NORMAL,R12,Pontos Corridos,False,False,2,2,-2,3,0
+21567,2026,2026-04-19,Santos,Fluminense,SP,RJ,2.0,3.0,D,V,NORMAL,R12,Pontos Corridos,False,False,5,-1,1,0,3
+21568,2026,2026-04-19,Palmeiras,Athletico Paranaense,SP,PR,1.0,0.0,V,D,NORMAL,R12,Pontos Corridos,False,False,1,1,-1,3,0
+21569,2026,2026-04-19,Red Bull Bragantino,Remo,SP,PA,4.0,2.0,V,D,NORMAL,R12,Pontos Corridos,False,False,6,2,-2,3,0
+21570,2026,2026-04-19,Flamengo,Bahia,RJ,BA,2.0,0.0,V,D,NORMAL,R12,Pontos Corridos,False,False,2,2,-2,3,0
+21571,2026,2026-04-25,Botafogo,Internacional,RJ,RS,2.0,2.0,E,E,NORMAL,R13,Pontos Corridos,False,False,4,0,0,1,1
+21572,2026,2026-04-25,Bahia,Santos,BA,SP,2.0,2.0,E,E,NORMAL,R13,Pontos Corridos,False,False,4,0,0,1,1
+21573,2026,2026-04-25,Remo,Cruzeiro,PA,MG,0.0,1.0,D,V,NORMAL,R13,Pontos Corridos,False,False,1,-1,1,0,3
+21574,2026,2026-04-25,São Paulo,Mirassol,SP,SP,1.0,0.0,V,D,NORMAL,R13,Pontos Corridos,False,True,1,1,-1,3,0
+21575,2026,2026-04-26,Corinthians,Vasco,SP,RJ,1.0,0.0,V,D,NORMAL,R13,Pontos Corridos,False,False,1,1,-1,3,0
+21576,2026,2026-04-26,Grêmio,Coritiba,RS,PR,1.0,0.0,V,D,NORMAL,R13,Pontos Corridos,False,False,1,1,-1,3,0
+21577,2026,2026-04-26,Athletico Paranaense,Vitória,PR,BA,3.0,1.0,V,D,NORMAL,R13,Pontos Corridos,False,False,4,2,-2,3,0
+21578,2026,2026-04-26,Red Bull Bragantino,Palmeiras,SP,SP,0.0,1.0,D,V,NORMAL,R13,Pontos Corridos,False,True,1,-1,1,0,3
+21579,2026,2026-04-26,Atlético Mineiro,Flamengo,MG,RJ,0.0,4.0,D,V,NORMAL,R13,Pontos Corridos,False,False,4,-4,4,0,3
+21580,2026,2026-04-26,Fluminense,Chapecoense,RJ,SC,2.0,1.0,V,D,NORMAL,R13,Pontos Corridos,False,False,3,1,-1,3,0
+21581,2026,2026-05-02,Botafogo,Remo,RJ,PA,1.0,2.0,D,V,NORMAL,R14,Pontos Corridos,False,False,3,-1,1,0,3
+21582,2026,2026-05-02,Palmeiras,Santos,SP,SP,1.0,1.0,E,E,NORMAL,R14,Pontos Corridos,False,True,2,0,0,1,1
+21583,2026,2026-05-02,Vitória,Coritiba,BA,PR,4.0,1.0,V,D,NORMAL,R14,Pontos Corridos,False,False,5,3,-3,3,0
+21584,2026,2026-05-02,Athletico Paranaense,Grêmio,PR,RS,0.0,0.0,E,E,NORMAL,R14,Pontos Corridos,False,False,0,0,0,1,1
+21585,2026,2026-05-02,Cruzeiro,Atlético Mineiro,MG,MG,1.0,3.0,D,V,NORMAL,R14,Pontos Corridos,False,True,4,-2,2,0,3
+21586,2026,2026-05-03,Flamengo,Vasco,RJ,RJ,2.0,2.0,E,E,NORMAL,R14,Pontos Corridos,False,True,4,0,0,1,1
+21587,2026,2026-05-03,São Paulo,Bahia,SP,BA,2.0,2.0,E,E,NORMAL,R14,Pontos Corridos,False,False,4,0,0,1,1
+21588,2026,2026-05-03,Internacional,Fluminense,RS,RJ,2.0,0.0,V,D,NORMAL,R14,Pontos Corridos,False,False,2,2,-2,3,0
+21589,2026,2026-05-03,Chapecoense,Red Bull Bragantino,SC,SP,1.0,2.0,D,V,NORMAL,R14,Pontos Corridos,False,False,3,-1,1,0,3
+21590,2026,2026-05-03,Mirassol,Corinthians,SP,SP,2.0,1.0,V,D,NORMAL,R14,Pontos Corridos,False,True,3,1,-1,3,0
+21591,2026,2026-05-09,Coritiba,Internacional,PR,RS,2.0,2.0,E,E,NORMAL,R15,Pontos Corridos,False,False,4,0,0,1,1
+21592,2026,2026-05-09,Fluminense,Vitória,RJ,BA,2.0,2.0,E,E,NORMAL,R15,Pontos Corridos,False,False,4,0,0,1,1
+21593,2026,2026-05-09,Bahia,Cruzeiro,BA,MG,1.0,2.0,D,V,NORMAL,R15,Pontos Corridos,False,False,3,-1,1,0,3
+21594,2026,2026-05-10,Remo,Palmeiras,PA,SP,1.0,1.0,E,E,NORMAL,R15,Pontos Corridos,False,False,2,0,0,1,1
+21595,2026,2026-05-10,Atlético Mineiro,Botafogo,MG,RJ,1.0,1.0,E,E,NORMAL,R15,Pontos Corridos,False,False,2,0,0,1,1
+21596,2026,2026-05-10,Santos,Red Bull Bragantino,SP,SP,2.0,0.0,V,D,NORMAL,R15,Pontos Corridos,False,True,2,2,-2,3,0
+21597,2026,2026-05-10,Corinthians,São Paulo,SP,SP,3.0,2.0,V,D,NORMAL,R15,Pontos Corridos,False,True,5,1,-1,3,0
+21598,2026,2026-05-10,Mirassol,Chapecoense,SP,SC,1.0,1.0,E,E,NORMAL,R15,Pontos Corridos,False,False,2,0,0,1,1
+21599,2026,2026-05-10,Grêmio,Flamengo,RS,RJ,0.0,1.0,D,V,NORMAL,R15,Pontos Corridos,False,False,1,-1,1,0,3
+21600,2026,2026-05-10,Vasco,Athletico Paranaense,RJ,PR,1.0,0.0,V,D,NORMAL,R15,Pontos Corridos,False,False,1,1,-1,3,0
+21601,2026,2026-05-16,Atlético Mineiro,Mirassol,MG,SP,3.0,1.0,V,D,NORMAL,R16,Pontos Corridos,False,False,4,2,-2,3,0
+21602,2026,2026-05-16,Internacional,Vasco,RS,RJ,4.0,1.0,V,D,NORMAL,R16,Pontos Corridos,False,False,5,3,-3,3,0
+21603,2026,2026-05-16,Fluminense,São Paulo,RJ,SP,2.0,1.0,V,D,NORMAL,R16,Pontos Corridos,False,False,3,1,-1,3,0
+21604,2026,2026-05-16,Palmeiras,Cruzeiro,SP,MG,1.0,1.0,E,E,NORMAL,R16,Pontos Corridos,False,False,2,0,0,1,1
+21605,2026,2026-05-17,Santos,Coritiba,SP,PR,0.0,3.0,D,V,NORMAL,R16,Pontos Corridos,False,False,3,-3,3,0,3
+21606,2026,2026-05-17,Botafogo,Corinthians,RJ,SP,3.0,1.0,V,D,NORMAL,R16,Pontos Corridos,False,False,4,2,-2,3,0
+21607,2026,2026-05-17,Bahia,Grêmio,BA,RS,1.0,1.0,E,E,NORMAL,R16,Pontos Corridos,False,False,2,0,0,1,1
+21608,2026,2026-05-17,Chapecoense,Remo,SC,PA,2.0,3.0,D,V,NORMAL,R16,Pontos Corridos,False,False,5,-1,1,0,3
+21609,2026,2026-05-17,Red Bull Bragantino,Vitória,SP,BA,2.0,0.0,V,D,NORMAL,R16,Pontos Corridos,False,False,2,2,-2,3,0
+21610,2026,2026-05-17,Athletico Paranaense,Flamengo,PR,RJ,1.0,1.0,E,E,NORMAL,R16,Pontos Corridos,False,False,2,0,0,1,1
+21611,2026,2026-05-23,São Paulo,Botafogo,SP,RJ,1.0,1.0,E,E,NORMAL,R17,Pontos Corridos,False,False,2,0,0,1,1
+21612,2026,2026-05-23,Vitória,Internacional,BA,RS,2.0,0.0,V,D,NORMAL,R17,Pontos Corridos,False,False,2,2,-2,3,0
+21613,2026,2026-05-23,Mirassol,Fluminense,SP,RJ,1.0,0.0,V,D,NORMAL,R17,Pontos Corridos,False,False,1,1,-1,3,0
+21614,2026,2026-05-23,Grêmio,Santos,RS,SP,3.0,2.0,V,D,NORMAL,R17,Pontos Corridos,False,False,5,1,-1,3,0
+21615,2026,2026-05-23,Flamengo,Palmeiras,RJ,SP,0.0,3.0,D,V,NORMAL,R17,Pontos Corridos,False,False,3,-3,3,0,3
+21616,2026,2026-05-24,Cruzeiro,Chapecoense,MG,SC,2.0,1.0,V,D,NORMAL,R17,Pontos Corridos,False,False,3,1,-1,3,0
+21617,2026,2026-05-24,Remo,Athletico Paranaense,PA,PR,1.0,2.0,D,V,NORMAL,R17,Pontos Corridos,False,False,3,-1,1,0,3
+21618,2026,2026-05-24,Corinthians,Atlético Mineiro,SP,MG,1.0,0.0,V,D,NORMAL,R17,Pontos Corridos,False,False,1,1,-1,3,0
+21619,2026,2026-05-24,Vasco,Red Bull Bragantino,RJ,SP,0.0,3.0,D,V,NORMAL,R17,Pontos Corridos,False,False,3,-3,3,0,3
+21620,2026,2026-05-25,Coritiba,Bahia,PR,BA,3.0,2.0,V,D,NORMAL,R17,Pontos Corridos,False,False,5,1,-1,3,0
+21621,2026,2026-05-30,Flamengo,Coritiba,RJ,PR,3.0,0.0,V,D,NORMAL,R18,Pontos Corridos,False,False,3,3,-3,3,0
+21622,2026,2026-05-30,Athletico Paranaense,Mirassol,PR,SP,1.0,0.0,V,D,NORMAL,R18,Pontos Corridos,False,False,1,1,-1,3,0
+21623,2026,2026-05-30,Bahia,Botafogo,BA,RJ,2.0,1.0,V,D,NORMAL,R18,Pontos Corridos,False,False,3,1,-1,3,0
+21624,2026,2026-05-30,Grêmio,Corinthians,RS,SP,1.0,3.0,D,V,NORMAL,R18,Pontos Corridos,False,False,4,-2,2,0,3
+21625,2026,2026-05-30,Santos,Vitória,SP,BA,3.0,1.0,V,D,NORMAL,R18,Pontos Corridos,False,False,4,2,-2,3,0
+21626,2026,2026-05-31,Red Bull Bragantino,Internacional,SP,RS,3.0,1.0,V,D,NORMAL,R18,Pontos Corridos,False,False,4,2,-2,3,0
+21627,2026,2026-05-31,Palmeiras,Chapecoense,SP,SC,1.0,0.0,V,D,NORMAL,R18,Pontos Corridos,False,False,1,1,-1,3,0
+21628,2026,2026-05-31,Vasco,Atlético Mineiro,RJ,MG,0.0,1.0,D,V,NORMAL,R18,Pontos Corridos,False,False,1,-1,1,0,3
+21629,2026,2026-05-31,Cruzeiro,Fluminense,MG,RJ,1.0,1.0,E,E,NORMAL,R18,Pontos Corridos,False,False,2,0,0,1,1
+21630,2026,2026-05-31,Remo,São Paulo,PA,SP,1.0,0.0,V,D,NORMAL,R18,Pontos Corridos,False,False,1,1,-1,3,0
+21631,2026,2026-07-16,Botafogo,Santos,RJ,SP,2.0,1.0,V,D,NORMAL,R19,Pontos Corridos,False,False,3,1,-1,3,0
+21632,2026,2026-07-16,Vitória,Vasco,BA,RJ,1.0,0.0,V,D,NORMAL,R19,Pontos Corridos,False,False,1,1,-1,3,0
+21633,2026,2026-07-17,Bahia,Chapecoense,BA,SC,2.0,0.0,V,D,NORMAL,R4,Pontos Corridos,False,False,2,2,-2,3,0
+21634,2026,2026-07-17,Fluminense,Red Bull Bragantino,RJ,SP,1.0,1.0,E,E,NORMAL,R19,Pontos Corridos,False,False,2,0,0,1,1
+21635,2026,2026-07-17,Mirassol,Grêmio,SP,RS,2.0,1.0,V,D,NORMAL,R19,Pontos Corridos,False,False,3,1,-1,3,0
+21636,2026,2026-07-21,Atlético Mineiro,Bahia,MG,BA,,,,,NORMAL,R19,Pontos Corridos,False,False,,,,,
+21637,2026,2026-07-22,Coritiba,Palmeiras,PR,SP,,,,,NORMAL,R19,Pontos Corridos,False,False,,,,,
+21638,2026,2026-07-22,Chapecoense,Flamengo,SC,RJ,,,,,NORMAL,R19,Pontos Corridos,False,False,,,,,
+21639,2026,2026-07-22,Internacional,Cruzeiro,RS,MG,,,,,NORMAL,R19,Pontos Corridos,False,False,,,,,
+21640,2026,2026-07-22,São Paulo,Athletico Paranaense,SP,PR,,,,,NORMAL,R19,Pontos Corridos,False,False,,,,,
+21641,2026,2026-07-23,Botafogo,Vitória,RJ,BA,,,,,NORMAL,R4,Pontos Corridos,False,False,,,,,
+21642,2026,2026-07-23,Corinthians,Remo,SP,PA,,,,,NORMAL,R19,Pontos Corridos,False,False,,,,,
+21643,2026,2026-07-25,Santos,Chapecoense,SP,SC,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21644,2026,2026-07-25,Athletico Paranaense,Internacional,PR,RS,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21645,2026,2026-07-25,Vasco,Mirassol,RJ,SP,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21646,2026,2026-07-26,Bahia,Corinthians,BA,SP,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21647,2026,2026-07-26,Cruzeiro,Botafogo,MG,RJ,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21648,2026,2026-07-26,Grêmio,Fluminense,RS,RJ,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21649,2026,2026-07-26,Flamengo,São Paulo,RJ,SP,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21650,2026,2026-07-26,Red Bull Bragantino,Coritiba,SP,PR,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21651,2026,2026-07-26,Palmeiras,Atlético Mineiro,SP,MG,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21652,2026,2026-07-26,Remo,Vitória,PA,BA,,,,,NORMAL,R20,Pontos Corridos,False,False,,,,,
+21653,2026,2026-07-29,Internacional,Flamengo,RS,RJ,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21654,2026,2026-07-29,Mirassol,Remo,SP,PA,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21655,2026,2026-07-29,Fluminense,Bahia,RJ,BA,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21656,2026,2026-07-29,Vitória,Palmeiras,BA,SP,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21657,2026,2026-07-30,Corinthians,Athletico Paranaense,SP,PR,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21658,2026,2026-07-30,Coritiba,Cruzeiro,PR,MG,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21659,2026,2026-08-08,Grêmio,São Paulo,RS,SP,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21660,2026,2026-08-08,Remo,Atlético Mineiro,PA,MG,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21661,2026,2026-08-08,Coritiba,Chapecoense,PR,SC,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21662,2026,2026-08-08,Botafogo,Fluminense,RJ,RJ,,,,,NORMAL,R22,Pontos Corridos,False,True,,,,,
+21663,2026,2026-08-09,Cruzeiro,Mirassol,MG,SP,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21664,2026,2026-08-09,Bahia,Vasco,BA,RJ,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21665,2026,2026-08-09,Palmeiras,Internacional,SP,RS,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21666,2026,2026-08-09,Red Bull Bragantino,Corinthians,SP,SP,,,,,NORMAL,R22,Pontos Corridos,False,True,,,,,
+21667,2026,2026-08-09,Santos,Athletico Paranaense,SP,PR,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21668,2026,2026-08-09,Flamengo,Vitória,RJ,BA,,,,,NORMAL,R22,Pontos Corridos,False,False,,,,,
+21669,2026,2026-08-15,Fluminense,Palmeiras,RJ,SP,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21670,2026,2026-08-15,Atlético Mineiro,Grêmio,MG,RS,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21671,2026,2026-08-15,Athletico Paranaense,Red Bull Bragantino,PR,SP,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21672,2026,2026-08-15,São Paulo,Coritiba,SP,PR,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21673,2026,2026-08-16,Chapecoense,Bahia,SC,BA,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21674,2026,2026-08-16,Vasco,Santos,RJ,SP,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21675,2026,2026-08-16,Vitória,Botafogo,BA,RJ,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21676,2026,2026-08-16,Mirassol,Flamengo,SP,RJ,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21677,2026,2026-08-16,Corinthians,Cruzeiro,SP,MG,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21678,2026,2026-08-17,Internacional,Remo,RS,PA,,,,,NORMAL,R23,Pontos Corridos,False,False,,,,,
+21679,2026,2026-08-22,Fluminense,Remo,RJ,PA,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21680,2026,2026-08-22,Internacional,Atlético Mineiro,RS,MG,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21681,2026,2026-08-22,Cruzeiro,Flamengo,MG,RJ,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21682,2026,2026-08-23,Palmeiras,Vasco,SP,RJ,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21683,2026,2026-08-23,Red Bull Bragantino,Grêmio,SP,RS,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21684,2026,2026-08-23,Vitória,Bahia,BA,BA,,,,,NORMAL,R24,Pontos Corridos,False,True,,,,,
+21685,2026,2026-08-23,Chapecoense,São Paulo,SC,SP,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21686,2026,2026-08-23,Santos,Mirassol,SP,SP,,,,,NORMAL,R24,Pontos Corridos,False,True,,,,,
+21687,2026,2026-08-23,Coritiba,Corinthians,PR,SP,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21688,2026,2026-08-24,Botafogo,Athletico Paranaense,RJ,PR,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21689,2026,,Flamengo,Mirassol,RJ,SP,,,,,NORMAL,R4,Pontos Corridos,False,False,,,,,
+21690,2026,,Botafogo,Grêmio,RJ,RS,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21691,2026,,São Paulo,Santos,SP,SP,,,,,NORMAL,R21,Pontos Corridos,False,True,,,,,
+21692,2026,,Atlético Mineiro,Red Bull Bragantino,MG,SP,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21693,2026,,Chapecoense,Vasco,SC,RJ,,,,,NORMAL,R21,Pontos Corridos,False,False,,,,,
+21694,2026,,Flamengo,Botafogo,RJ,RJ,,,,,NORMAL,R25,Pontos Corridos,False,True,,,,,
+21695,2026,,Vasco,Cruzeiro,RJ,MG,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
+21696,2026,,São Paulo,Red Bull Bragantino,SP,SP,,,,,NORMAL,R25,Pontos Corridos,False,True,,,,,
+21697,2026,,Corinthians,Santos,SP,SP,,,,,NORMAL,R25,Pontos Corridos,False,True,,,,,
+21698,2026,,Mirassol,Palmeiras,SP,SP,,,,,NORMAL,R25,Pontos Corridos,False,True,,,,,
+21699,2026,,Atlético Mineiro,Vitória,MG,BA,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
+21700,2026,,Grêmio,Chapecoense,RS,SC,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
+21701,2026,,Athletico Paranaense,Fluminense,PR,RJ,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
+21702,2026,,Bahia,Internacional,BA,RS,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
+21703,2026,,Remo,Coritiba,PA,PR,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
+21704,2026,,Fluminense,Vasco,RJ,RJ,,,,,NORMAL,R26,Pontos Corridos,False,True,,,,,
+21705,2026,,Botafogo,Palmeiras,RJ,SP,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21706,2026,,São Paulo,Atlético Mineiro,SP,MG,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21707,2026,,Corinthians,Chapecoense,SP,SC,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21708,2026,,Red Bull Bragantino,Bahia,SP,BA,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21709,2026,,Cruzeiro,Athletico Paranaense,MG,PR,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21710,2026,,Internacional,Santos,RS,SP,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21711,2026,,Coritiba,Mirassol,PR,SP,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21712,2026,,Vitória,Grêmio,BA,RS,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21713,2026,,Remo,Flamengo,PA,RJ,,,,,NORMAL,R26,Pontos Corridos,False,False,,,,,
+21714,2026,,Flamengo,Corinthians,RJ,SP,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21715,2026,,Botafogo,Red Bull Bragantino,RJ,SP,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21716,2026,,Santos,Cruzeiro,SP,MG,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21717,2026,,Palmeiras,São Paulo,SP,SP,,,,,NORMAL,R27,Pontos Corridos,False,True,,,,,
+21718,2026,,Mirassol,Vitória,SP,BA,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21719,2026,,Atlético Mineiro,Fluminense,MG,RJ,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21720,2026,,Grêmio,Vasco,RS,RJ,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21721,2026,,Coritiba,Athletico Paranaense,PR,PR,,,,,NORMAL,R27,Pontos Corridos,False,True,,,,,
+21722,2026,,Bahia,Remo,BA,PA,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21723,2026,,Chapecoense,Internacional,SC,RS,,,,,NORMAL,R27,Pontos Corridos,False,False,,,,,
+21724,2026,,Flamengo,Red Bull Bragantino,RJ,SP,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21725,2026,,Vasco,Coritiba,RJ,PR,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21726,2026,,São Paulo,Internacional,SP,RS,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21727,2026,,Corinthians,Fluminense,SP,RJ,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21728,2026,,Mirassol,Botafogo,SP,RJ,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21729,2026,,Atlético Mineiro,Chapecoense,MG,SC,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21730,2026,,Grêmio,Palmeiras,RS,SP,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21731,2026,,Athletico Paranaense,Bahia,PR,BA,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21732,2026,,Vitória,Cruzeiro,BA,MG,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21733,2026,,Remo,Santos,PA,SP,,,,,NORMAL,R28,Pontos Corridos,False,False,,,,,
+21734,2026,,Fluminense,Coritiba,RJ,PR,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21735,2026,,Botafogo,Vasco,RJ,RJ,,,,,NORMAL,R29,Pontos Corridos,False,True,,,,,
+21736,2026,,Santos,Flamengo,SP,RJ,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21737,2026,,Palmeiras,Bahia,SP,BA,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21738,2026,,Red Bull Bragantino,Mirassol,SP,SP,,,,,NORMAL,R29,Pontos Corridos,False,True,,,,,
+21739,2026,,Cruzeiro,São Paulo,MG,SP,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21740,2026,,Internacional,Corinthians,RS,SP,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21741,2026,,Athletico Paranaense,Atlético Mineiro,PR,MG,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21742,2026,,Vitória,Chapecoense,BA,SC,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21743,2026,,Remo,Grêmio,PA,RS,,,,,NORMAL,R29,Pontos Corridos,False,False,,,,,
+21744,2026,,Flamengo,Fluminense,RJ,RJ,,,,,NORMAL,R30,Pontos Corridos,False,True,,,,,
+21745,2026,,Vasco,Remo,RJ,PA,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21746,2026,,São Paulo,Vitória,SP,BA,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21747,2026,,Palmeiras,Corinthians,SP,SP,,,,,NORMAL,R30,Pontos Corridos,False,True,,,,,
+21748,2026,,Red Bull Bragantino,Cruzeiro,SP,MG,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21749,2026,,Atlético Mineiro,Santos,MG,SP,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21750,2026,,Grêmio,Internacional,RS,RS,,,,,NORMAL,R30,Pontos Corridos,False,True,,,,,
+21751,2026,,Coritiba,Botafogo,PR,RJ,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21752,2026,,Bahia,Mirassol,BA,SP,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21753,2026,,Chapecoense,Athletico Paranaense,SC,PR,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21754,2026,,Fluminense,Santos,RJ,SP,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21755,2026,,Botafogo,Chapecoense,RJ,SC,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21756,2026,,São Paulo,Vasco,SP,RJ,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21757,2026,,Corinthians,Vitória,SP,BA,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21758,2026,,Mirassol,Internacional,SP,RS,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21759,2026,,Atlético Mineiro,Coritiba,MG,PR,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21760,2026,,Grêmio,Cruzeiro,RS,MG,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21761,2026,,Athletico Paranaense,Palmeiras,PR,SP,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21762,2026,,Bahia,Flamengo,BA,RJ,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21763,2026,,Remo,Red Bull Bragantino,PA,SP,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
+21764,2026,,Flamengo,Atlético Mineiro,RJ,MG,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21765,2026,,Vasco,Corinthians,RJ,SP,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21766,2026,,Santos,Bahia,SP,BA,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21767,2026,,Palmeiras,Red Bull Bragantino,SP,SP,,,,,NORMAL,R32,Pontos Corridos,False,True,,,,,
+21768,2026,,Mirassol,São Paulo,SP,SP,,,,,NORMAL,R32,Pontos Corridos,False,True,,,,,
+21769,2026,,Cruzeiro,Remo,MG,PA,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21770,2026,,Internacional,Botafogo,RS,RJ,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21771,2026,,Coritiba,Grêmio,PR,RS,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21772,2026,,Vitória,Athletico Paranaense,BA,PR,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21773,2026,,Chapecoense,Fluminense,SC,RJ,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21774,2026,,Fluminense,Internacional,RJ,RS,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
+21775,2026,,Vasco,Flamengo,RJ,RJ,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
+21776,2026,,Santos,Palmeiras,SP,SP,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
+21777,2026,,Corinthians,Mirassol,SP,SP,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
+21778,2026,,Red Bull Bragantino,Chapecoense,SP,SC,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
+21779,2026,,Atlético Mineiro,Cruzeiro,MG,MG,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
+21780,2026,,Grêmio,Athletico Paranaense,RS,PR,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
+21781,2026,,Coritiba,Vitória,PR,BA,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
+21782,2026,,Bahia,São Paulo,BA,SP,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
+21783,2026,,Remo,Botafogo,PA,RJ,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
+21784,2026,,Flamengo,Grêmio,RJ,RS,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21785,2026,,Botafogo,Atlético Mineiro,RJ,MG,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21786,2026,,São Paulo,Corinthians,SP,SP,,,,,NORMAL,R34,Pontos Corridos,False,True,,,,,
+21787,2026,,Palmeiras,Remo,SP,PA,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21788,2026,,Red Bull Bragantino,Santos,SP,SP,,,,,NORMAL,R34,Pontos Corridos,False,True,,,,,
+21789,2026,,Cruzeiro,Bahia,MG,BA,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21790,2026,,Internacional,Coritiba,RS,PR,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21791,2026,,Athletico Paranaense,Vasco,PR,RJ,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21792,2026,,Vitória,Fluminense,BA,RJ,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21793,2026,,Chapecoense,Mirassol,SC,SP,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21794,2026,,Flamengo,Athletico Paranaense,RJ,PR,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21795,2026,,Vasco,Internacional,RJ,RS,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21796,2026,,São Paulo,Fluminense,SP,RJ,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21797,2026,,Corinthians,Botafogo,SP,RJ,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21798,2026,,Mirassol,Atlético Mineiro,SP,MG,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21799,2026,,Cruzeiro,Palmeiras,MG,SP,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21800,2026,,Grêmio,Bahia,RS,BA,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21801,2026,,Coritiba,Santos,PR,SP,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21802,2026,,Vitória,Red Bull Bragantino,BA,SP,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21803,2026,,Remo,Chapecoense,PA,SC,,,,,NORMAL,R35,Pontos Corridos,False,False,,,,,
+21804,2026,,Fluminense,Mirassol,RJ,SP,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21805,2026,,Botafogo,São Paulo,RJ,SP,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21806,2026,,Santos,Grêmio,SP,RS,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21807,2026,,Palmeiras,Flamengo,SP,RJ,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21808,2026,,Red Bull Bragantino,Vasco,SP,RJ,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21809,2026,,Atlético Mineiro,Corinthians,MG,SP,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21810,2026,,Internacional,Vitória,RS,BA,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21811,2026,,Athletico Paranaense,Remo,PR,PA,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21812,2026,,Bahia,Coritiba,BA,PR,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21813,2026,,Chapecoense,Cruzeiro,SC,MG,,,,,NORMAL,R36,Pontos Corridos,False,False,,,,,
+21814,2026,,Fluminense,Cruzeiro,RJ,MG,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21815,2026,,Botafogo,Bahia,RJ,BA,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21816,2026,,São Paulo,Remo,SP,PA,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21817,2026,,Corinthians,Grêmio,SP,RS,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21818,2026,,Mirassol,Athletico Paranaense,SP,PR,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21819,2026,,Atlético Mineiro,Vasco,MG,RJ,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21820,2026,,Internacional,Red Bull Bragantino,RS,SP,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21821,2026,,Coritiba,Flamengo,PR,RJ,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21822,2026,,Vitória,Santos,BA,SP,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21823,2026,,Chapecoense,Palmeiras,SC,SP,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21824,2026,,Flamengo,Chapecoense,RJ,SC,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21825,2026,,Vasco,Vitória,RJ,BA,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21826,2026,,Santos,Botafogo,SP,RJ,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21827,2026,,Palmeiras,Coritiba,SP,PR,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21828,2026,,Red Bull Bragantino,Fluminense,SP,RJ,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21829,2026,,Cruzeiro,Internacional,MG,RS,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21830,2026,,Grêmio,Mirassol,RS,SP,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21831,2026,,Athletico Paranaense,São Paulo,PR,SP,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21832,2026,,Bahia,Atlético Mineiro,BA,MG,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21833,2026,,Remo,Corinthians,PA,SP,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
