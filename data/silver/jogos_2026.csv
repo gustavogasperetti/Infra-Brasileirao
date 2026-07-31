@@ -203,12 +203,12 @@
 2026,,São Paulo,Santos,,,,,NORMAL,R21
 2026,,Atlético Mineiro,Red Bull Bragantino,,,,,NORMAL,R21
 2026,,Chapecoense,Vasco,,,,,NORMAL,R21
-2026,2026-07-29,Internacional,Flamengo,,,,,NORMAL,R21
-2026,2026-07-29,Mirassol,Remo,,,,,NORMAL,R21
-2026,2026-07-29,Fluminense,Bahia,,,,,NORMAL,R21
-2026,2026-07-29,Vitória,Palmeiras,,,,,NORMAL,R21
-2026,2026-07-30,Corinthians,Athletico Paranaense,,,,,NORMAL,R21
-2026,2026-07-30,Coritiba,Cruzeiro,,,,,NORMAL,R21
+2026,2026-07-29,Internacional,Flamengo,1,1,E,E,NORMAL,R21
+2026,2026-07-29,Mirassol,Remo,2,1,V,D,NORMAL,R21
+2026,2026-07-29,Fluminense,Bahia,0,0,E,E,NORMAL,R21
+2026,2026-07-29,Vitória,Palmeiras,0,4,D,V,NORMAL,R21
+2026,2026-07-30,Corinthians,Athletico Paranaense,0,0,E,E,NORMAL,R21
+2026,2026-07-30,Coritiba,Cruzeiro,0,1,D,V,NORMAL,R21
 2026,2026-08-08,Grêmio,São Paulo,,,,,NORMAL,R22
 2026,2026-08-08,Remo,Atlético Mineiro,,,,,NORMAL,R22
 2026,2026-08-08,Coritiba,Chapecoense,,,,,NORMAL,R22
