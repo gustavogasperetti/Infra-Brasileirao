@@ -29,7 +29,6 @@
 2026-02-12,Fluminense,1-0,Botafogo,R3
 2026-02-12,Corinthians,2-0,Red Bull Bragantino,R3
 2026-02-12,Internacional,1-3,Palmeiras,R3
-,Flamengo,,Mirassol,R4
 2026-02-25,Red Bull Bragantino,1-1,Athletico Paranaense,R4
 2026-02-25,Remo,1-1,Internacional,R4
 2026-02-25,Coritiba SAF,0-1,São Paulo,R4
@@ -39,6 +38,7 @@
 2026-02-26,Santos FC,2-1,Vasco da Gama Saf,R4
 2026-07-17,Bahia,2-0,Chapecoense,R4
 2026-07-23,Botafogo,0-0,Vitória,R4
+2026-09-02,Flamengo,,Mirassol,R4
 2026-03-10,Mirassol,2-2,Santos FC,R5
 2026-03-11,Atlético Mineiro,1-0,Internacional,R5
 2026-03-11,Bahia,1-1,Vitória,R5
@@ -229,15 +229,15 @@
 2026-08-16,Mirassol,1-5,Flamengo,R23
 2026-08-16,Corinthians,1-2,Cruzeiro,R23
 2026-08-17,Internacional,1-1,Remo,R23
-2026-08-22,Fluminense,,Remo,R24
-2026-08-22,Internacional,,Atlético Mineiro,R24
-2026-08-22,Cruzeiro,,Flamengo,R24
-2026-08-23,Palmeiras,,Vasco da Gama Saf,R24
-2026-08-23,Red Bull Bragantino,,Grêmio,R24
-2026-08-23,Vitória,,Bahia,R24
-2026-08-23,Chapecoense,,São Paulo,R24
-2026-08-23,Santos FC,,Mirassol,R24
-2026-08-23,Coritiba SAF,,Corinthians,R24
+2026-08-22,Fluminense,2-1,Remo,R24
+2026-08-22,Internacional,0-0,Atlético Mineiro,R24
+2026-08-22,Cruzeiro,2-1,Flamengo,R24
+2026-08-23,Palmeiras,4-1,Vasco da Gama Saf,R24
+2026-08-23,Red Bull Bragantino,1-0,Grêmio,R24
+2026-08-23,Vitória,0-2,Bahia,R24
+2026-08-23,Chapecoense,1-0,São Paulo,R24
+2026-08-23,Santos FC,1-1,Mirassol,R24
+2026-08-23,Coritiba SAF,2-1,Corinthians,R24
 2026-08-24,Botafogo,,Athletico Paranaense,R24
 2026-08-29,Atlético Mineiro,,Vitória,R25
 2026-08-29,São Paulo,,Red Bull Bragantino,R25
@@ -250,9 +250,9 @@
 2026-08-30,Bahia,,Internacional,R25
 2026-08-31,Remo,,Coritiba SAF,R25
 2026-09-05,Red Bull Bragantino,,Bahia,R26
-2026-09-05,Coritiba SAF,,Mirassol,R26
 2026-09-05,São Paulo,,Atlético Mineiro,R26
 2026-09-05,Fluminense,,Vasco da Gama Saf,R26
+2026-09-06,Coritiba SAF,,Mirassol,R26
 2026-09-06,Cruzeiro,,Athletico Paranaense,R26
 2026-09-06,Internacional,,Santos FC,R26
 2026-09-06,Remo,,Flamengo,R26
