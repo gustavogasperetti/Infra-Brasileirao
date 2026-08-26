@@ -21686,7 +21686,7 @@
 21685,2026,2026-08-23,Chapecoense,São Paulo,SC,SP,1.0,0.0,V,D,NORMAL,R24,Pontos Corridos,False,False,1,1,-1,3,0
 21686,2026,2026-08-23,Santos,Mirassol,SP,SP,1.0,1.0,E,E,NORMAL,R24,Pontos Corridos,False,True,2,0,0,1,1
 21687,2026,2026-08-23,Coritiba,Corinthians,PR,SP,2.0,1.0,V,D,NORMAL,R24,Pontos Corridos,False,False,3,1,-1,3,0
-21688,2026,2026-08-24,Botafogo,Athletico Paranaense,RJ,PR,,,,,NORMAL,R24,Pontos Corridos,False,False,,,,,
+21688,2026,2026-08-24,Botafogo,Athletico Paranaense,RJ,PR,2.0,3.0,D,V,NORMAL,R24,Pontos Corridos,False,False,5,-1,1,0,3
 21689,2026,2026-08-29,Atlético Mineiro,Vitória,MG,BA,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
 21690,2026,2026-08-29,São Paulo,Red Bull Bragantino,SP,SP,,,,,NORMAL,R25,Pontos Corridos,False,True,,,,,
 21691,2026,2026-08-29,Vasco,Cruzeiro,RJ,MG,,,,,NORMAL,R25,Pontos Corridos,False,False,,,,,
