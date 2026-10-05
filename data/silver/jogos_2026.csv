@@ -1,14 +1,4 @@
 ﻿ano_campeonato,Data,Mandante,Visitante,gols_mandante,gols_visitante,resultado_mandante,resultado_visitante,placar_status,Fase
-2026,2026-01-28,Atlético Mineiro,Palmeiras,2,2,E,E,NORMAL,R1
-2026,2026-01-28,Internacional,Athletico Paranaense,0,1,D,V,NORMAL,R1
-2026,2026-01-28,Coritiba,Red Bull Bragantino,0,1,D,V,NORMAL,R1
-2026,2026-01-28,Vitória,Remo,2,0,V,D,NORMAL,R1
-2026,2026-01-28,Fluminense,Grêmio,2,1,V,D,NORMAL,R1
-2026,2026-01-28,Corinthians,Bahia,1,2,D,V,NORMAL,R1
-2026,2026-01-28,Chapecoense,Santos,4,2,V,D,NORMAL,R1
-2026,2026-01-28,São Paulo,Flamengo,2,1,V,D,NORMAL,R1
-2026,2026-01-29,Mirassol,Vasco,2,1,V,D,NORMAL,R1
-2026,2026-01-29,Botafogo,Cruzeiro,4,0,V,D,NORMAL,R1
 2026,2026-02-04,Flamengo,Internacional,1,1,E,E,NORMAL,R2
 2026,2026-02-04,Red Bull Bragantino,Atlético Mineiro,1,0,V,D,NORMAL,R2
 2026,2026-02-04,Santos,São Paulo,1,1,E,E,NORMAL,R2
@@ -207,8 +197,8 @@
 2026,2026-07-30,Corinthians,Athletico Paranaense,0,0,E,E,NORMAL,R21
 2026,2026-07-30,Coritiba,Cruzeiro,0,1,D,V,NORMAL,R21
 2026,2026-09-16,Botafogo,Grêmio,3,2,V,D,NORMAL,R21
-2026,2026-10-02,São Paulo,Santos,,,,,NORMAL,R21
-2026,2026-10-03,Atlético Mineiro,Red Bull Bragantino,,,,,NORMAL,R21
+2026,2026-10-02,São Paulo,Santos,1,2,D,V,NORMAL,R21
+2026,2026-10-03,Atlético Mineiro,Red Bull Bragantino,1,0,V,D,NORMAL,R21
 2026,2026-08-08,Grêmio,São Paulo,2,1,V,D,NORMAL,R22
 2026,2026-08-08,Remo,Atlético Mineiro,2,2,E,E,NORMAL,R22
 2026,2026-08-08,Coritiba,Chapecoense,2,1,V,D,NORMAL,R22
