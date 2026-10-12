@@ -289,13 +289,13 @@
 2026-10-08,Athletico Paranaense,2-2,Atlético Mineiro,R29
 2026-10-08,Fluminense,4-0,Coritiba SAF,R29
 2026-10-08,Palmeiras,1-0,Bahia,R29
-2026-10-10,Vasco da Gama Saf,,Remo,R30
-2026-10-10,São Paulo,,Vitória,R30
-2026-10-11,Atlético Mineiro,,Santos FC,R30
-2026-10-11,Grêmio,,Internacional,R30
-2026-10-11,Palmeiras,,Corinthians,R30
-2026-10-11,Flamengo,,Fluminense,R30
-2026-10-11,Bahia,,Mirassol,R30
+2026-10-10,Vasco da Gama Saf,0-0,Remo,R30
+2026-10-10,São Paulo,2-1,Vitória,R30
+2026-10-11,Atlético Mineiro,2-1,Santos FC,R30
+2026-10-11,Grêmio,1-1,Internacional,R30
+2026-10-11,Palmeiras,4-1,Corinthians,R30
+2026-10-11,Flamengo,1-0,Fluminense,R30
+2026-10-11,Bahia,1-0,Mirassol,R30
 2026-10-12,Coritiba SAF,,Botafogo,R30
 2026-10-12,Chapecoense,,Athletico Paranaense,R30
 2026-10-12,Red Bull Bragantino,,Cruzeiro,R30
@@ -369,13 +369,3 @@
 ,Coritiba SAF,,Flamengo,R37
 ,Vitória,,Santos FC,R37
 ,Chapecoense,,Palmeiras,R37
-,Flamengo,,Chapecoense,R38
-,Vasco da Gama Saf,,Vitória,R38
-,Santos FC,,Botafogo,R38
-,Palmeiras,,Coritiba SAF,R38
-,Red Bull Bragantino,,Fluminense,R38
-,Cruzeiro,,Internacional,R38
-,Grêmio,,Mirassol,R38
-,Athletico Paranaense,,São Paulo,R38
-,Bahia,,Atlético Mineiro,R38
-,Remo,,Corinthians,R38
