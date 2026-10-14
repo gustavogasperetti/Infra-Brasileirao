@@ -296,9 +296,9 @@
 2026-10-11,Palmeiras,4-1,Corinthians,R30
 2026-10-11,Flamengo,1-0,Fluminense,R30
 2026-10-11,Bahia,1-0,Mirassol,R30
-2026-10-12,Coritiba SAF,,Botafogo,R30
-2026-10-12,Chapecoense,,Athletico Paranaense,R30
-2026-10-12,Red Bull Bragantino,,Cruzeiro,R30
+2026-10-12,Coritiba SAF,1-1,Botafogo,R30
+2026-10-12,Chapecoense,1-4,Athletico Paranaense,R30
+2026-10-12,Red Bull Bragantino,4-2,Cruzeiro,R30
 2026-10-16,Mirassol,,Internacional,R31
 2026-10-17,Botafogo,,Chapecoense,R31
 2026-10-17,Atlético Mineiro,,Coritiba SAF,R31
@@ -369,3 +369,13 @@
 ,Coritiba SAF,,Flamengo,R37
 ,Vitória,,Santos FC,R37
 ,Chapecoense,,Palmeiras,R37
+,Flamengo,,Chapecoense,R38
+,Vasco da Gama Saf,,Vitória,R38
+,Santos FC,,Botafogo,R38
+,Palmeiras,,Coritiba SAF,R38
+,Red Bull Bragantino,,Fluminense,R38
+,Cruzeiro,,Internacional,R38
+,Grêmio,,Mirassol,R38
+,Athletico Paranaense,,São Paulo,R38
+,Bahia,,Atlético Mineiro,R38
+,Remo,,Corinthians,R38

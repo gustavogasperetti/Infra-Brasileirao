@@ -21748,9 +21748,9 @@
 21747,2026,2026-10-11,Palmeiras,Corinthians,SP,SP,4.0,1.0,V,D,NORMAL,R30,Pontos Corridos,False,True,5,3,-3,3,0
 21748,2026,2026-10-11,Flamengo,Fluminense,RJ,RJ,1.0,0.0,V,D,NORMAL,R30,Pontos Corridos,False,True,1,1,-1,3,0
 21749,2026,2026-10-11,Bahia,Mirassol,BA,SP,1.0,0.0,V,D,NORMAL,R30,Pontos Corridos,False,False,1,1,-1,3,0
-21750,2026,2026-10-12,Coritiba,Botafogo,PR,RJ,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
-21751,2026,2026-10-12,Chapecoense,Athletico Paranaense,SC,PR,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
-21752,2026,2026-10-12,Red Bull Bragantino,Cruzeiro,SP,MG,,,,,NORMAL,R30,Pontos Corridos,False,False,,,,,
+21750,2026,2026-10-12,Coritiba,Botafogo,PR,RJ,1.0,1.0,E,E,NORMAL,R30,Pontos Corridos,False,False,2,0,0,1,1
+21751,2026,2026-10-12,Chapecoense,Athletico Paranaense,SC,PR,1.0,4.0,D,V,NORMAL,R30,Pontos Corridos,False,False,5,-3,3,0,3
+21752,2026,2026-10-12,Red Bull Bragantino,Cruzeiro,SP,MG,4.0,2.0,V,D,NORMAL,R30,Pontos Corridos,False,False,6,2,-2,3,0
 21753,2026,2026-10-16,Mirassol,Internacional,SP,RS,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
 21754,2026,2026-10-17,Botafogo,Chapecoense,RJ,SC,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
 21755,2026,2026-10-17,Atlético Mineiro,Coritiba,MG,PR,,,,,NORMAL,R31,Pontos Corridos,False,False,,,,,
@@ -21822,3 +21822,13 @@
 21821,2026,,Coritiba,Flamengo,PR,RJ,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
 21822,2026,,Vitória,Santos,BA,SP,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
 21823,2026,,Chapecoense,Palmeiras,SC,SP,,,,,NORMAL,R37,Pontos Corridos,False,False,,,,,
+21824,2026,,Flamengo,Chapecoense,RJ,SC,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21825,2026,,Vasco,Vitória,RJ,BA,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21826,2026,,Santos,Botafogo,SP,RJ,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21827,2026,,Palmeiras,Coritiba,SP,PR,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21828,2026,,Red Bull Bragantino,Fluminense,SP,RJ,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21829,2026,,Cruzeiro,Internacional,MG,RS,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21830,2026,,Grêmio,Mirassol,RS,SP,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21831,2026,,Athletico Paranaense,São Paulo,PR,SP,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21832,2026,,Bahia,Atlético Mineiro,BA,MG,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
+21833,2026,,Remo,Corinthians,PA,SP,,,,,NORMAL,R38,Pontos Corridos,False,False,,,,,
