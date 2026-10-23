@@ -149,8 +149,10 @@ def preparar_valores(df: pd.DataFrame) -> list[list]:
     """
     out = df.copy()
 
-    for col in out.select_dtypes(include=["datetime64[ns]"]).columns:
-        out[col] = out[col].dt.strftime("%Y-%m-%d")
+    # Qualquer resolução (ns, us, ...): o pandas 3 lê datas como datetime64[us]
+    for col in out.columns:
+        if pd.api.types.is_datetime64_any_dtype(out[col]):
+            out[col] = out[col].dt.strftime("%Y-%m-%d")
 
     for col in out.select_dtypes(include=["bool"]).columns:
         out[col] = out[col].map({True: "TRUE", False: "FALSE"})
