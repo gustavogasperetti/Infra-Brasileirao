@@ -130,10 +130,13 @@ def selecionar_rodada(page: Page, aside: Locator, rodada: str) -> None:
     """
     aside.locator("select").first.select_option(rodada)
 
-    # Espera qualquer skeleton de carregamento desaparecer
+    # Espera qualquer skeleton de carregamento desaparecer.
+    # Passa uma função (não uma expressão em string): expressões são avaliadas
+    # via eval() dentro da página, o que a CSP do site da CBF bloqueia.
     try:
         page.wait_for_function(
-            f"document.querySelectorAll(\"aside {SEL_SKELETON}\").length === 0",
+            "sel => document.querySelectorAll(sel).length === 0",
+            arg=f"aside {SEL_SKELETON}",
             timeout=RENDER_TIMEOUT,
         )
     except PWTimeout:
@@ -327,6 +330,9 @@ def main() -> None:
                 "Chrome/124.0.0.0 Safari/537.36"
             ),
             locale="pt-BR",
+            # O site passou a servir CSP sem 'unsafe-eval'; ignorar a CSP evita
+            # que os helpers do Playwright sejam bloqueados.
+            bypass_csp=True,
         )
         page = context.new_page()
 
