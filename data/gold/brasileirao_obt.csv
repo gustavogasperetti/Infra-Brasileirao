@@ -21769,8 +21769,8 @@
 21768,2026,2026-10-24,Palmeiras,Red Bull Bragantino,SP,SP,2.0,0.0,V,D,NORMAL,R32,Pontos Corridos,False,True,2,2,-2,3,0
 21769,2026,2026-10-24,Chapecoense,Fluminense,SC,RJ,2.0,1.0,V,D,NORMAL,R32,Pontos Corridos,False,False,3,1,-1,3,0
 21770,2026,2026-10-24,Santos,Bahia,SP,BA,1.0,1.0,E,E,NORMAL,R32,Pontos Corridos,False,False,2,0,0,1,1
-21771,2026,2026-10-26,Coritiba,Grêmio,PR,RS,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
-21772,2026,2026-10-26,Flamengo,Atlético Mineiro,RJ,MG,,,,,NORMAL,R32,Pontos Corridos,False,False,,,,,
+21771,2026,2026-10-26,Coritiba,Grêmio,PR,RS,0.0,1.0,D,V,NORMAL,R32,Pontos Corridos,False,False,1,-1,1,0,3
+21772,2026,2026-10-26,Flamengo,Atlético Mineiro,RJ,MG,3.0,2.0,V,D,NORMAL,R32,Pontos Corridos,False,False,5,1,-1,3,0
 21773,2026,2026-10-28,Fluminense,Internacional,RJ,RS,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
 21774,2026,2026-10-28,Santos,Palmeiras,SP,SP,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
 21775,2026,2026-10-28,Red Bull Bragantino,Chapecoense,SP,SC,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
