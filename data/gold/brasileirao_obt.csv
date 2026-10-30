@@ -21771,14 +21771,14 @@
 21770,2026,2026-10-24,Santos,Bahia,SP,BA,1.0,1.0,E,E,NORMAL,R32,Pontos Corridos,False,False,2,0,0,1,1
 21771,2026,2026-10-26,Coritiba,Grêmio,PR,RS,0.0,1.0,D,V,NORMAL,R32,Pontos Corridos,False,False,1,-1,1,0,3
 21772,2026,2026-10-26,Flamengo,Atlético Mineiro,RJ,MG,3.0,2.0,V,D,NORMAL,R32,Pontos Corridos,False,False,5,1,-1,3,0
-21773,2026,2026-10-28,Fluminense,Internacional,RJ,RS,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
-21774,2026,2026-10-28,Santos,Palmeiras,SP,SP,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
-21775,2026,2026-10-28,Red Bull Bragantino,Chapecoense,SP,SC,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
-21776,2026,2026-10-28,Bahia,São Paulo,BA,SP,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
-21777,2026,2026-10-28,Remo,Botafogo,PA,RJ,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
-21778,2026,2026-10-29,Atlético Mineiro,Cruzeiro,MG,MG,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
-21779,2026,2026-10-29,Vasco,Flamengo,RJ,RJ,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
-21780,2026,2026-10-29,Grêmio,Athletico Paranaense,RS,PR,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
+21773,2026,2026-10-28,Fluminense,Internacional,RJ,RS,2.0,1.0,V,D,NORMAL,R33,Pontos Corridos,False,False,3,1,-1,3,0
+21774,2026,2026-10-28,Santos,Palmeiras,SP,SP,0.0,0.0,E,E,NORMAL,R33,Pontos Corridos,False,True,0,0,0,1,1
+21775,2026,2026-10-28,Red Bull Bragantino,Chapecoense,SP,SC,3.0,0.0,V,D,NORMAL,R33,Pontos Corridos,False,False,3,3,-3,3,0
+21776,2026,2026-10-28,Bahia,São Paulo,BA,SP,3.0,2.0,V,D,NORMAL,R33,Pontos Corridos,False,False,5,1,-1,3,0
+21777,2026,2026-10-28,Remo,Botafogo,PA,RJ,2.0,1.0,V,D,NORMAL,R33,Pontos Corridos,False,False,3,1,-1,3,0
+21778,2026,2026-10-29,Atlético Mineiro,Cruzeiro,MG,MG,0.0,1.0,D,V,NORMAL,R33,Pontos Corridos,False,True,1,-1,1,0,3
+21779,2026,2026-10-29,Vasco,Flamengo,RJ,RJ,1.0,4.0,D,V,NORMAL,R33,Pontos Corridos,False,True,5,-3,3,0,3
+21780,2026,2026-10-29,Grêmio,Athletico Paranaense,RS,PR,2.0,0.0,V,D,NORMAL,R33,Pontos Corridos,False,False,2,2,-2,3,0
 21781,2026,2026-10-30,Corinthians,Mirassol,SP,SP,,,,,NORMAL,R33,Pontos Corridos,False,True,,,,,
 21782,2026,2026-10-31,Coritiba,Vitória,PR,BA,,,,,NORMAL,R33,Pontos Corridos,False,False,,,,,
 21783,2026,2026-11-02,Red Bull Bragantino,Santos,SP,SP,,,,,NORMAL,R34,Pontos Corridos,False,True,,,,,
