@@ -199,7 +199,6 @@
 2026-07-26,Red Bull Bragantino,0-0,Coritiba SAF,R20
 2026-07-26,Palmeiras,1-2,Atlético Mineiro,R20
 2026-07-26,Remo,2-0,Vitória,R20
-,Chapecoense,,Vasco da Gama Saf,R21
 2026-07-29,Mirassol,2-1,Remo,R21
 2026-07-29,Internacional,1-1,Flamengo,R21
 2026-07-29,Vitória,0-4,Palmeiras,R21
@@ -209,6 +208,7 @@
 2026-09-16,Botafogo,3-2,Grêmio,R21
 2026-10-02,São Paulo,1-2,Santos FC,R21
 2026-10-03,Atlético Mineiro,1-0,Red Bull Bragantino,R21
+2026-11-14,Chapecoense,,Vasco da Gama Saf,R21
 2026-08-08,Grêmio,2-1,São Paulo,R22
 2026-08-08,Remo,2-2,Atlético Mineiro,R22
 2026-08-08,Coritiba SAF,2-1,Chapecoense,R22
@@ -327,8 +327,8 @@
 2026-10-29,Atlético Mineiro,0-1,Cruzeiro,R33
 2026-10-29,Vasco da Gama Saf,1-4,Flamengo,R33
 2026-10-29,Grêmio,2-0,Athletico Paranaense,R33
-2026-10-30,Corinthians,,Mirassol,R33
-2026-10-31,Coritiba SAF,,Vitória,R33
+2026-10-30,Corinthians,2-0,Mirassol,R33
+2026-10-31,Coritiba SAF,2-0,Vitória,R33
 2026-11-02,Red Bull Bragantino,,Santos FC,R34
 2026-11-03,Chapecoense,,Mirassol,R34
 2026-11-03,Internacional,,Coritiba SAF,R34
@@ -339,26 +339,26 @@
 2026-11-05,Palmeiras,,Remo,R34
 2026-11-05,Cruzeiro,,Bahia,R34
 2026-11-06,Vitória,,Fluminense,R34
-,Flamengo,,Athletico Paranaense,R35
-,Vasco da Gama Saf,,Internacional,R35
-,São Paulo,,Fluminense,R35
-,Corinthians,,Botafogo,R35
-,Mirassol,,Atlético Mineiro,R35
-,Cruzeiro,,Palmeiras,R35
-,Grêmio,,Bahia,R35
-,Coritiba SAF,,Santos FC,R35
-,Vitória,,Red Bull Bragantino,R35
-,Remo,,Chapecoense,R35
-,Fluminense,,Mirassol,R36
-,Botafogo,,São Paulo,R36
-,Santos FC,,Grêmio,R36
-,Palmeiras,,Flamengo,R36
-,Red Bull Bragantino,,Vasco da Gama Saf,R36
-,Atlético Mineiro,,Corinthians,R36
-,Internacional,,Vitória,R36
-,Athletico Paranaense,,Remo,R36
-,Bahia,,Coritiba SAF,R36
-,Chapecoense,,Cruzeiro,R36
+2026-11-14,Mirassol,,Atlético Mineiro,R35
+2026-11-18,Coritiba SAF,,Santos FC,R35
+2026-11-18,Remo,,Chapecoense,R35
+2026-11-18,Cruzeiro,,Palmeiras,R35
+2026-11-18,Flamengo,,Athletico Paranaense,R35
+2026-11-18,Grêmio,,Bahia,R35
+2026-11-18,Corinthians,,Botafogo,R35
+2026-11-19,Vitória,,Red Bull Bragantino,R35
+2026-11-19,Vasco da Gama Saf,,Internacional,R35
+2026-11-19,São Paulo,,Fluminense,R35
+2026-11-21,Palmeiras,,Flamengo,R36
+2026-11-21,Bahia,,Coritiba SAF,R36
+2026-11-21,Chapecoense,,Cruzeiro,R36
+2026-11-22,Athletico Paranaense,,Remo,R36
+2026-11-22,Fluminense,,Mirassol,R36
+2026-11-22,Red Bull Bragantino,,Vasco da Gama Saf,R36
+2026-11-23,Internacional,,Vitória,R36
+2026-11-23,Botafogo,,São Paulo,R36
+2026-11-23,Santos FC,,Grêmio,R36
+2026-11-25,Atlético Mineiro,,Corinthians,R36
 ,Fluminense,,Cruzeiro,R37
 ,Botafogo,,Bahia,R37
 ,São Paulo,,Remo,R37
