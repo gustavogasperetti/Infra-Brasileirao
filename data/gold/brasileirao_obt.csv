@@ -21781,9 +21781,9 @@
 21780,2026,2026-10-29,Grêmio,Athletico Paranaense,RS,PR,2.0,0.0,V,D,NORMAL,R33,Pontos Corridos,False,False,2,2,-2,3,0
 21781,2026,2026-10-30,Corinthians,Mirassol,SP,SP,2.0,0.0,V,D,NORMAL,R33,Pontos Corridos,False,True,2,2,-2,3,0
 21782,2026,2026-10-31,Coritiba,Vitória,PR,BA,2.0,0.0,V,D,NORMAL,R33,Pontos Corridos,False,False,2,2,-2,3,0
-21783,2026,2026-11-02,Red Bull Bragantino,Santos,SP,SP,,,,,NORMAL,R34,Pontos Corridos,False,True,,,,,
-21784,2026,2026-11-03,Chapecoense,Mirassol,SC,SP,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
-21785,2026,2026-11-03,Internacional,Coritiba,RS,PR,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
+21783,2026,2026-11-02,Red Bull Bragantino,Santos,SP,SP,2.0,1.0,V,D,NORMAL,R34,Pontos Corridos,False,True,3,1,-1,3,0
+21784,2026,2026-11-03,Chapecoense,Mirassol,SC,SP,1.0,2.0,D,V,NORMAL,R34,Pontos Corridos,False,False,3,-1,1,0,3
+21785,2026,2026-11-03,Internacional,Coritiba,RS,PR,1.0,0.0,V,D,NORMAL,R34,Pontos Corridos,False,False,1,1,-1,3,0
 21786,2026,2026-11-04,Athletico Paranaense,Vasco,PR,RJ,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
 21787,2026,2026-11-04,Flamengo,Grêmio,RJ,RS,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
 21788,2026,2026-11-04,Botafogo,Atlético Mineiro,RJ,MG,,,,,NORMAL,R34,Pontos Corridos,False,False,,,,,
