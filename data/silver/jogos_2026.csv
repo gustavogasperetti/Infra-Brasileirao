@@ -338,7 +338,7 @@
 2026,2026-11-04,São Paulo,Corinthians,0,0,E,E,NORMAL,R34
 2026,2026-11-05,Palmeiras,Remo,6,1,V,D,NORMAL,R34
 2026,2026-11-05,Cruzeiro,Bahia,3,2,V,D,NORMAL,R34
-2026,2026-11-06,Vitória,Fluminense,,,,,NORMAL,R34
+2026,2026-11-06,Vitória,Fluminense,0,3,D,V,NORMAL,R34
 2026,2026-11-14,Mirassol,Atlético Mineiro,,,,,NORMAL,R35
 2026,2026-11-18,Coritiba,Santos,,,,,NORMAL,R35
 2026,2026-11-18,Remo,Chapecoense,,,,,NORMAL,R35
@@ -359,23 +359,23 @@
 2026,2026-11-23,Botafogo,São Paulo,,,,,NORMAL,R36
 2026,2026-11-23,Santos,Grêmio,,,,,NORMAL,R36
 2026,2026-11-25,Atlético Mineiro,Corinthians,,,,,NORMAL,R36
-2026,,Fluminense,Cruzeiro,,,,,NORMAL,R37
-2026,,Botafogo,Bahia,,,,,NORMAL,R37
-2026,,São Paulo,Remo,,,,,NORMAL,R37
-2026,,Corinthians,Grêmio,,,,,NORMAL,R37
-2026,,Mirassol,Athletico Paranaense,,,,,NORMAL,R37
-2026,,Atlético Mineiro,Vasco,,,,,NORMAL,R37
-2026,,Internacional,Red Bull Bragantino,,,,,NORMAL,R37
-2026,,Coritiba,Flamengo,,,,,NORMAL,R37
-2026,,Vitória,Santos,,,,,NORMAL,R37
-2026,,Chapecoense,Palmeiras,,,,,NORMAL,R37
-2026,,Flamengo,Chapecoense,,,,,NORMAL,R38
-2026,,Vasco,Vitória,,,,,NORMAL,R38
-2026,,Santos,Botafogo,,,,,NORMAL,R38
-2026,,Palmeiras,Coritiba,,,,,NORMAL,R38
-2026,,Red Bull Bragantino,Fluminense,,,,,NORMAL,R38
-2026,,Cruzeiro,Internacional,,,,,NORMAL,R38
-2026,,Grêmio,Mirassol,,,,,NORMAL,R38
-2026,,Athletico Paranaense,São Paulo,,,,,NORMAL,R38
-2026,,Bahia,Atlético Mineiro,,,,,NORMAL,R38
-2026,,Remo,Corinthians,,,,,NORMAL,R38
+2026,2026-11-24,Chapecoense,Palmeiras,,,,,NORMAL,R37
+2026,2026-11-26,São Paulo,Remo,,,,,NORMAL,R37
+2026,2026-11-27,Fluminense,Cruzeiro,,,,,NORMAL,R37
+2026,2026-11-28,Botafogo,Bahia,,,,,NORMAL,R37
+2026,2026-11-29,Coritiba,Flamengo,,,,,NORMAL,R37
+2026,2026-11-29,Vitória,Santos,,,,,NORMAL,R37
+2026,2026-11-29,Corinthians,Grêmio,,,,,NORMAL,R37
+2026,2026-11-29,Mirassol,Athletico Paranaense,,,,,NORMAL,R37
+2026,2026-11-29,Internacional,Red Bull Bragantino,,,,,NORMAL,R37
+2026,2026-11-29,Atlético Mineiro,Vasco,,,,,NORMAL,R37
+2026,2026-12-02,Flamengo,Chapecoense,,,,,NORMAL,R38
+2026,2026-12-02,Vasco,Vitória,,,,,NORMAL,R38
+2026,2026-12-02,Santos,Botafogo,,,,,NORMAL,R38
+2026,2026-12-02,Palmeiras,Coritiba,,,,,NORMAL,R38
+2026,2026-12-02,Red Bull Bragantino,Fluminense,,,,,NORMAL,R38
+2026,2026-12-02,Cruzeiro,Internacional,,,,,NORMAL,R38
+2026,2026-12-02,Grêmio,Mirassol,,,,,NORMAL,R38
+2026,2026-12-02,Athletico Paranaense,São Paulo,,,,,NORMAL,R38
+2026,2026-12-02,Bahia,Atlético Mineiro,,,,,NORMAL,R38
+2026,2026-12-02,Remo,Corinthians,,,,,NORMAL,R38
